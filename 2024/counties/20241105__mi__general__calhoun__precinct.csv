@@ -2324,7 +2324,6 @@ Calhoun,"City of Battle Creek, Precinct 13",President,,,Claudia De la Cruz,0,0,0
 Calhoun,"City of Battle Creek, Precinct 13",President,,,Cherunda Lynn Fox,0,0,0,0
 Calhoun,"City of Battle Creek, Precinct 13",President,,,Peter Sonski,0,0,0,0
 Calhoun,"City of Battle Creek, Precinct 13",President,,,Write-ins,0,0,0,0
-county,precinct,office,district,party,candidate,election_day,av_counting_boards,early_voting,votes
 Calhoun,"City of Battle Creek, Precinct 15",President,,DEM,Kamala D. Harris,286,410,229,925
 Calhoun,"City of Battle Creek, Precinct 15",President,,REP,Donald J. Trump,228,157,175,560
 Calhoun,"City of Battle Creek, Precinct 15",President,,LIB,Chase Oliver,2,2,4,8
@@ -2574,7 +2573,6 @@ Calhoun,"Clarendon Township, Precinct 1",President,,,Peter Sonski,1,0,0,1
 Calhoun,"Clarendon Township, Precinct 1",President,,,Write-ins,0,0,0,0
 Calhoun,"Convis Township, Precinct 1",President,,DEM,Kamala D. Harris,216,0,31,247
 Calhoun,"Convis Township, Precinct 1",President,,REP,Donald J. Trump,534,0,87,621
-county,precinct,office,district,party,candidate,election_day,av_counting_boards,early_voting,votes
 Calhoun,"Convis Township, Precinct 1",President,,LIB,Chase Oliver,2,0,0,2
 Calhoun,"Convis Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
 Calhoun,"Convis Township, Precinct 1",President,,GRN,Jill Stein,2,0,0,2
