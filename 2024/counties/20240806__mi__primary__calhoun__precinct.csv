@@ -1,0 +1,873 @@
+county,precinct,office,district,party,candidate,votes
+Calhoun,City of Albion Precinct 1,Registered Voters,,,,1225
+Calhoun,City of Albion Precinct 1,Ballots Cast,,DEM,,133
+Calhoun,City of Albion Precinct 1,U.S. Senate,,DEM,Hill Harper,50
+Calhoun,City of Albion Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,48
+Calhoun,City of Albion Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Albion Precinct 2,Registered Voters,,,,960
+Calhoun,City of Albion Precinct 2,Ballots Cast,,DEM,,91
+Calhoun,City of Albion Precinct 2,U.S. Senate,,DEM,Hill Harper,32
+Calhoun,City of Albion Precinct 2,U.S. Senate,,DEM,Elissa Slotkin,34
+Calhoun,City of Albion Precinct 2,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Albion Precinct 3,Registered Voters,,,,1159
+Calhoun,City of Albion Precinct 3,Ballots Cast,,DEM,,202
+Calhoun,City of Albion Precinct 3,U.S. Senate,,DEM,Hill Harper,47
+Calhoun,City of Albion Precinct 3,U.S. Senate,,DEM,Elissa Slotkin,84
+Calhoun,City of Albion Precinct 3,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Albion Precinct 4,Registered Voters,,,,877
+Calhoun,City of Albion Precinct 4,Ballots Cast,,DEM,,131
+Calhoun,City of Albion Precinct 4,U.S. Senate,,DEM,Hill Harper,12
+Calhoun,City of Albion Precinct 4,U.S. Senate,,DEM,Elissa Slotkin,52
+Calhoun,City of Albion Precinct 4,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Albion Precinct 5,Registered Voters,,,,1008
+Calhoun,City of Albion Precinct 5,Ballots Cast,,DEM,,216
+Calhoun,City of Albion Precinct 5,U.S. Senate,,DEM,Hill Harper,47
+Calhoun,City of Albion Precinct 5,U.S. Senate,,DEM,Elissa Slotkin,89
+Calhoun,City of Albion Precinct 5,U.S. Senate,,DEM,Write-ins,2
+Calhoun,City of Albion Precinct 6,Registered Voters,,,,600
+Calhoun,City of Albion Precinct 6,Ballots Cast,,DEM,,148
+Calhoun,City of Albion Precinct 6,U.S. Senate,,DEM,Hill Harper,12
+Calhoun,City of Albion Precinct 6,U.S. Senate,,DEM,Elissa Slotkin,79
+Calhoun,City of Albion Precinct 6,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 1,Registered Voters,,,,2069
+Calhoun,City of Battle Creek Precinct 1,Ballots Cast,,DEM,,134
+Calhoun,City of Battle Creek Precinct 1,U.S. Senate,,DEM,Hill Harper,30
+Calhoun,City of Battle Creek Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,47
+Calhoun,City of Battle Creek Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 2,Registered Voters,,,,1348
+Calhoun,City of Battle Creek Precinct 2,Ballots Cast,,DEM,,160
+Calhoun,City of Battle Creek Precinct 2,U.S. Senate,,DEM,Hill Harper,13
+Calhoun,City of Battle Creek Precinct 2,U.S. Senate,,DEM,Elissa Slotkin,54
+Calhoun,City of Battle Creek Precinct 2,U.S. Senate,,DEM,Write-ins,1
+Calhoun,City of Battle Creek Precinct 3,Registered Voters,,,,2173
+Calhoun,City of Battle Creek Precinct 3,Ballots Cast,,DEM,,450
+Calhoun,City of Battle Creek Precinct 3,U.S. Senate,,DEM,Hill Harper,30
+Calhoun,City of Battle Creek Precinct 3,U.S. Senate,,DEM,Elissa Slotkin,150
+Calhoun,City of Battle Creek Precinct 3,U.S. Senate,,DEM,Write-ins,1
+Calhoun,City of Battle Creek Precinct 4,Registered Voters,,,,2268
+Calhoun,City of Battle Creek Precinct 4,Ballots Cast,,DEM,,211
+Calhoun,City of Battle Creek Precinct 4,U.S. Senate,,DEM,Hill Harper,33
+Calhoun,City of Battle Creek Precinct 4,U.S. Senate,,DEM,Elissa Slotkin,82
+Calhoun,City of Battle Creek Precinct 4,U.S. Senate,,DEM,Write-ins,1
+Calhoun,City of Battle Creek Precinct 5,Registered Voters,,,,1909
+Calhoun,City of Battle Creek Precinct 5,Ballots Cast,,DEM,,533
+Calhoun,City of Battle Creek Precinct 5,U.S. Senate,,DEM,Hill Harper,35
+Calhoun,City of Battle Creek Precinct 5,U.S. Senate,,DEM,Elissa Slotkin,198
+Calhoun,City of Battle Creek Precinct 5,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 6,Registered Voters,,,,1902
+Calhoun,City of Battle Creek Precinct 6,Ballots Cast,,DEM,,467
+Calhoun,City of Battle Creek Precinct 6,U.S. Senate,,DEM,Hill Harper,33
+Calhoun,City of Battle Creek Precinct 6,U.S. Senate,,DEM,Elissa Slotkin,193
+Calhoun,City of Battle Creek Precinct 6,U.S. Senate,,DEM,Write-ins,1
+Calhoun,City of Battle Creek Precinct 7,Registered Voters,,,,1638
+Calhoun,City of Battle Creek Precinct 7,Ballots Cast,,DEM,,74
+Calhoun,City of Battle Creek Precinct 7,U.S. Senate,,DEM,Hill Harper,13
+Calhoun,City of Battle Creek Precinct 7,U.S. Senate,,DEM,Elissa Slotkin,23
+Calhoun,City of Battle Creek Precinct 7,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 8,Registered Voters,,,,2075
+Calhoun,City of Battle Creek Precinct 8,Ballots Cast,,DEM,,504
+Calhoun,City of Battle Creek Precinct 8,U.S. Senate,,DEM,Hill Harper,49
+Calhoun,City of Battle Creek Precinct 8,U.S. Senate,,DEM,Elissa Slotkin,197
+Calhoun,City of Battle Creek Precinct 8,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 9,Registered Voters,,,,1574
+Calhoun,City of Battle Creek Precinct 9,Ballots Cast,,DEM,,287
+Calhoun,City of Battle Creek Precinct 9,U.S. Senate,,DEM,Hill Harper,43
+Calhoun,City of Battle Creek Precinct 9,U.S. Senate,,DEM,Elissa Slotkin,110
+Calhoun,City of Battle Creek Precinct 9,U.S. Senate,,DEM,Write-ins,1
+Calhoun,City of Battle Creek Precinct 10,Registered Voters,,,,2243
+Calhoun,City of Battle Creek Precinct 10,Ballots Cast,,DEM,,281
+Calhoun,City of Battle Creek Precinct 10,U.S. Senate,,DEM,Hill Harper,48
+Calhoun,City of Battle Creek Precinct 10,U.S. Senate,,DEM,Elissa Slotkin,119
+Calhoun,City of Battle Creek Precinct 10,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 11,Registered Voters,,,,3259
+Calhoun,City of Battle Creek Precinct 11,Ballots Cast,,DEM,,376
+Calhoun,City of Battle Creek Precinct 11,U.S. Senate,,DEM,Hill Harper,74
+Calhoun,City of Battle Creek Precinct 11,U.S. Senate,,DEM,Elissa Slotkin,120
+Calhoun,City of Battle Creek Precinct 11,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 12,Registered Voters,,,,1977
+Calhoun,City of Battle Creek Precinct 12,Ballots Cast,,DEM,,123
+Calhoun,City of Battle Creek Precinct 12,U.S. Senate,,DEM,Hill Harper,51
+Calhoun,City of Battle Creek Precinct 12,U.S. Senate,,DEM,Elissa Slotkin,50
+Calhoun,City of Battle Creek Precinct 12,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 13,Registered Voters,,,,2115
+Calhoun,City of Battle Creek Precinct 13,Ballots Cast,,DEM,,113
+Calhoun,City of Battle Creek Precinct 13,U.S. Senate,,DEM,Hill Harper,27
+Calhoun,City of Battle Creek Precinct 13,U.S. Senate,,DEM,Elissa Slotkin,41
+Calhoun,City of Battle Creek Precinct 13,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 15,Registered Voters,,,,2208
+Calhoun,City of Battle Creek Precinct 15,Ballots Cast,,DEM,,440
+Calhoun,City of Battle Creek Precinct 15,U.S. Senate,,DEM,Hill Harper,63
+Calhoun,City of Battle Creek Precinct 15,U.S. Senate,,DEM,Elissa Slotkin,191
+Calhoun,City of Battle Creek Precinct 15,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 17,Registered Voters,,,,2582
+Calhoun,City of Battle Creek Precinct 17,Ballots Cast,,DEM,,238
+Calhoun,City of Battle Creek Precinct 17,U.S. Senate,,DEM,Hill Harper,52
+Calhoun,City of Battle Creek Precinct 17,U.S. Senate,,DEM,Elissa Slotkin,91
+Calhoun,City of Battle Creek Precinct 17,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 18,Registered Voters,,,,2152
+Calhoun,City of Battle Creek Precinct 18,Ballots Cast,,DEM,,140
+Calhoun,City of Battle Creek Precinct 18,U.S. Senate,,DEM,Hill Harper,43
+Calhoun,City of Battle Creek Precinct 18,U.S. Senate,,DEM,Elissa Slotkin,55
+Calhoun,City of Battle Creek Precinct 18,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 19,Registered Voters,,,,1373
+Calhoun,City of Battle Creek Precinct 19,Ballots Cast,,DEM,,105
+Calhoun,City of Battle Creek Precinct 19,U.S. Senate,,DEM,Hill Harper,26
+Calhoun,City of Battle Creek Precinct 19,U.S. Senate,,DEM,Elissa Slotkin,39
+Calhoun,City of Battle Creek Precinct 19,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 20,Registered Voters,,,,1881
+Calhoun,City of Battle Creek Precinct 20,Ballots Cast,,DEM,,438
+Calhoun,City of Battle Creek Precinct 20,U.S. Senate,,DEM,Hill Harper,28
+Calhoun,City of Battle Creek Precinct 20,U.S. Senate,,DEM,Elissa Slotkin,145
+Calhoun,City of Battle Creek Precinct 20,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 21,Registered Voters,,,,2474
+Calhoun,City of Battle Creek Precinct 21,Ballots Cast,,DEM,,220
+Calhoun,City of Battle Creek Precinct 21,U.S. Senate,,DEM,Hill Harper,96
+Calhoun,City of Battle Creek Precinct 21,U.S. Senate,,DEM,Elissa Slotkin,76
+Calhoun,City of Battle Creek Precinct 21,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 22,Registered Voters,,,,1838
+Calhoun,City of Battle Creek Precinct 22,Ballots Cast,,DEM,,210
+Calhoun,City of Battle Creek Precinct 22,U.S. Senate,,DEM,Hill Harper,18
+Calhoun,City of Battle Creek Precinct 22,U.S. Senate,,DEM,Elissa Slotkin,73
+Calhoun,City of Battle Creek Precinct 22,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 23,Registered Voters,,,,2071
+Calhoun,City of Battle Creek Precinct 23,Ballots Cast,,DEM,,267
+Calhoun,City of Battle Creek Precinct 23,U.S. Senate,,DEM,Hill Harper,20
+Calhoun,City of Battle Creek Precinct 23,U.S. Senate,,DEM,Elissa Slotkin,92
+Calhoun,City of Battle Creek Precinct 23,U.S. Senate,,DEM,Write-ins,1
+Calhoun,City of Marshall Precinct 1,Registered Voters,,,,3038
+Calhoun,City of Marshall Precinct 1,Ballots Cast,,DEM,,669
+Calhoun,City of Marshall Precinct 1,U.S. Senate,,DEM,Hill Harper,37
+Calhoun,City of Marshall Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,283
+Calhoun,City of Marshall Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Marshall Precinct 2,Registered Voters,,,,2809
+Calhoun,City of Marshall Precinct 2,Ballots Cast,,DEM,,819
+Calhoun,City of Marshall Precinct 2,U.S. Senate,,DEM,Hill Harper,61
+Calhoun,City of Marshall Precinct 2,U.S. Senate,,DEM,Elissa Slotkin,366
+Calhoun,City of Marshall Precinct 2,U.S. Senate,,DEM,Write-ins,1
+Calhoun,City of Springfield Precinct 1,Registered Voters,,,,4201
+Calhoun,City of Springfield Precinct 1,Ballots Cast,,DEM,,422
+Calhoun,City of Springfield Precinct 1,U.S. Senate,,DEM,Hill Harper,46
+Calhoun,City of Springfield Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,149
+Calhoun,City of Springfield Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Albion Township Precinct 1,Registered Voters,,,,936
+Calhoun,Albion Township Precinct 1,Ballots Cast,,DEM,,185
+Calhoun,Albion Township Precinct 1,U.S. Senate,,DEM,Hill Harper,3
+Calhoun,Albion Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,45
+Calhoun,Albion Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Athens Township Precinct 1,Registered Voters,,,,1982
+Calhoun,Athens Township Precinct 1,Ballots Cast,,DEM,,333
+Calhoun,Athens Township Precinct 1,U.S. Senate,,DEM,Hill Harper,22
+Calhoun,Athens Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,78
+Calhoun,Athens Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Bedford Charter Township Precinct 1,Registered Voters,,,,2048
+Calhoun,Bedford Charter Township Precinct 1,Ballots Cast,,DEM,,601
+Calhoun,Bedford Charter Township Precinct 1,U.S. Senate,,DEM,Hill Harper,21
+Calhoun,Bedford Charter Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,138
+Calhoun,Bedford Charter Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Bedford Charter Township Precinct 2,Registered Voters,,,,2855
+Calhoun,Bedford Charter Township Precinct 2,Ballots Cast,,DEM,,444
+Calhoun,Bedford Charter Township Precinct 2,U.S. Senate,,DEM,Hill Harper,32
+Calhoun,Bedford Charter Township Precinct 2,U.S. Senate,,DEM,Elissa Slotkin,129
+Calhoun,Bedford Charter Township Precinct 2,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Bedford Charter Township Precinct 3,Registered Voters,,,,3167
+Calhoun,Bedford Charter Township Precinct 3,Ballots Cast,,DEM,,549
+Calhoun,Bedford Charter Township Precinct 3,U.S. Senate,,DEM,Hill Harper,110
+Calhoun,Bedford Charter Township Precinct 3,U.S. Senate,,DEM,Elissa Slotkin,142
+Calhoun,Bedford Charter Township Precinct 3,U.S. Senate,,DEM,Write-ins,1
+Calhoun,Burlington Township Precinct 1,Registered Voters,,,,1564
+Calhoun,Burlington Township Precinct 1,Ballots Cast,,DEM,,311
+Calhoun,Burlington Township Precinct 1,U.S. Senate,,DEM,Hill Harper,18
+Calhoun,Burlington Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,67
+Calhoun,Burlington Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Clarence Township Precinct 1,Registered Voters,,,,1673
+Calhoun,Clarence Township Precinct 1,Ballots Cast,,DEM,,549
+Calhoun,Clarence Township Precinct 1,U.S. Senate,,DEM,Hill Harper,5
+Calhoun,Clarence Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,92
+Calhoun,Clarence Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Clarendon Township Precinct 1,Registered Voters,,,,972
+Calhoun,Clarendon Township Precinct 1,Ballots Cast,,DEM,,162
+Calhoun,Clarendon Township Precinct 1,U.S. Senate,,DEM,Hill Harper,2
+Calhoun,Clarendon Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,36
+Calhoun,Clarendon Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Convis Township Precinct 1,Registered Voters,,,,1271
+Calhoun,Convis Township Precinct 1,Ballots Cast,,DEM,,229
+Calhoun,Convis Township Precinct 1,U.S. Senate,,DEM,Hill Harper,12
+Calhoun,Convis Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,51
+Calhoun,Convis Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Eckford Township Precinct 1,Registered Voters,,,,1045
+Calhoun,Eckford Township Precinct 1,Ballots Cast,,DEM,,345
+Calhoun,Eckford Township Precinct 1,U.S. Senate,,DEM,Hill Harper,3
+Calhoun,Eckford Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,47
+Calhoun,Eckford Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Emmett Charter Township Precinct 1,Registered Voters,,,,2263
+Calhoun,Emmett Charter Township Precinct 1,Ballots Cast,,DEM,,274
+Calhoun,Emmett Charter Township Precinct 1,U.S. Senate,,DEM,Hill Harper,21
+Calhoun,Emmett Charter Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,55
+Calhoun,Emmett Charter Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Emmett Charter Township Precinct 2,Registered Voters,,,,2482
+Calhoun,Emmett Charter Township Precinct 2,Ballots Cast,,DEM,,609
+Calhoun,Emmett Charter Township Precinct 2,U.S. Senate,,DEM,Hill Harper,22
+Calhoun,Emmett Charter Township Precinct 2,U.S. Senate,,DEM,Elissa Slotkin,104
+Calhoun,Emmett Charter Township Precinct 2,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Emmett Charter Township Precinct 3,Registered Voters,,,,2460
+Calhoun,Emmett Charter Township Precinct 3,Ballots Cast,,DEM,,383
+Calhoun,Emmett Charter Township Precinct 3,U.S. Senate,,DEM,Hill Harper,28
+Calhoun,Emmett Charter Township Precinct 3,U.S. Senate,,DEM,Elissa Slotkin,77
+Calhoun,Emmett Charter Township Precinct 3,U.S. Senate,,DEM,Write-ins,2
+Calhoun,Emmett Charter Township Precinct 4,Registered Voters,,,,2890
+Calhoun,Emmett Charter Township Precinct 4,Ballots Cast,,DEM,,813
+Calhoun,Emmett Charter Township Precinct 4,U.S. Senate,,DEM,Hill Harper,28
+Calhoun,Emmett Charter Township Precinct 4,U.S. Senate,,DEM,Elissa Slotkin,155
+Calhoun,Emmett Charter Township Precinct 4,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Fredonia Township Precinct 1,Registered Voters,,,,1475
+Calhoun,Fredonia Township Precinct 1,Ballots Cast,,DEM,,366
+Calhoun,Fredonia Township Precinct 1,U.S. Senate,,DEM,Hill Harper,18
+Calhoun,Fredonia Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,47
+Calhoun,Fredonia Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Homer Township Precinct 1,Registered Voters,,,,2090
+Calhoun,Homer Township Precinct 1,Ballots Cast,,DEM,,268
+Calhoun,Homer Township Precinct 1,U.S. Senate,,DEM,Hill Harper,12
+Calhoun,Homer Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,56
+Calhoun,Homer Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Lee Township Precinct 1,Registered Voters,,,,883
+Calhoun,Lee Township Precinct 1,Ballots Cast,,DEM,,195
+Calhoun,Lee Township Precinct 1,U.S. Senate,,DEM,Hill Harper,7
+Calhoun,Lee Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,32
+Calhoun,Lee Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Leroy Township Precinct 1,Registered Voters,,,,3355
+Calhoun,Leroy Township Precinct 1,Ballots Cast,,DEM,,793
+Calhoun,Leroy Township Precinct 1,U.S. Senate,,DEM,Hill Harper,36
+Calhoun,Leroy Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,207
+Calhoun,Leroy Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Marengo Township Precinct 1,Registered Voters,,,,1911
+Calhoun,Marengo Township Precinct 1,Ballots Cast,,DEM,,369
+Calhoun,Marengo Township Precinct 1,U.S. Senate,,DEM,Hill Harper,14
+Calhoun,Marengo Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,72
+Calhoun,Marengo Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Marshall Township Precinct 1,Registered Voters,,,,2684
+Calhoun,Marshall Township Precinct 1,Ballots Cast,,DEM,,933
+Calhoun,Marshall Township Precinct 1,U.S. Senate,,DEM,Hill Harper,22
+Calhoun,Marshall Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,163
+Calhoun,Marshall Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Newton Township Precinct 1,Registered Voters,,,,2388
+Calhoun,Newton Township Precinct 1,Ballots Cast,,DEM,,590
+Calhoun,Newton Township Precinct 1,U.S. Senate,,DEM,Hill Harper,17
+Calhoun,Newton Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,132
+Calhoun,Newton Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Pennfield Charter Township Precinct 1,Registered Voters,,,,2809
+Calhoun,Pennfield Charter Township Precinct 1,Ballots Cast,,DEM,,533
+Calhoun,Pennfield Charter Township Precinct 1,U.S. Senate,,DEM,Hill Harper,27
+Calhoun,Pennfield Charter Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,136
+Calhoun,Pennfield Charter Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Pennfield Charter Township Precinct 2,Registered Voters,,,,2367
+Calhoun,Pennfield Charter Township Precinct 2,Ballots Cast,,DEM,,281
+Calhoun,Pennfield Charter Township Precinct 2,U.S. Senate,,DEM,Hill Harper,40
+Calhoun,Pennfield Charter Township Precinct 2,U.S. Senate,,DEM,Elissa Slotkin,90
+Calhoun,Pennfield Charter Township Precinct 2,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Pennfield Charter Township Precinct 3,Registered Voters,,,,2383
+Calhoun,Pennfield Charter Township Precinct 3,Ballots Cast,,DEM,,549
+Calhoun,Pennfield Charter Township Precinct 3,U.S. Senate,,DEM,Hill Harper,28
+Calhoun,Pennfield Charter Township Precinct 3,U.S. Senate,,DEM,Elissa Slotkin,163
+Calhoun,Pennfield Charter Township Precinct 3,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Sheridan Township Precinct 1,Registered Voters,,,,1485
+Calhoun,Sheridan Township Precinct 1,Ballots Cast,,DEM,,267
+Calhoun,Sheridan Township Precinct 1,U.S. Senate,,DEM,Hill Harper,6
+Calhoun,Sheridan Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,68
+Calhoun,Sheridan Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,Tekonsha Township Precinct 1,Registered Voters,,,,1380
+Calhoun,Tekonsha Township Precinct 1,Ballots Cast,,DEM,,262
+Calhoun,Tekonsha Township Precinct 1,U.S. Senate,,DEM,Hill Harper,6
+Calhoun,Tekonsha Township Precinct 1,U.S. Senate,,DEM,Elissa Slotkin,76
+Calhoun,Tekonsha Township Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 1,U.S. House,4,DEM,Jessica Swartz,73
+Calhoun,City of Battle Creek Precinct 1,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 2,U.S. House,4,DEM,Jessica Swartz,70
+Calhoun,City of Battle Creek Precinct 2,U.S. House,4,DEM,Write-ins,1
+Calhoun,City of Battle Creek Precinct 3,U.S. House,4,DEM,Jessica Swartz,174
+Calhoun,City of Battle Creek Precinct 3,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 4,U.S. House,4,DEM,Jessica Swartz,112
+Calhoun,City of Battle Creek Precinct 4,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 5,U.S. House,4,DEM,Jessica Swartz,223
+Calhoun,City of Battle Creek Precinct 5,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 6,U.S. House,4,DEM,Jessica Swartz,221
+Calhoun,City of Battle Creek Precinct 6,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 7,U.S. House,4,DEM,Jessica Swartz,36
+Calhoun,City of Battle Creek Precinct 7,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 8,U.S. House,4,DEM,Jessica Swartz,236
+Calhoun,City of Battle Creek Precinct 8,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 9,U.S. House,4,DEM,Jessica Swartz,144
+Calhoun,City of Battle Creek Precinct 9,U.S. House,4,DEM,Write-ins,1
+Calhoun,City of Battle Creek Precinct 10,U.S. House,4,DEM,Jessica Swartz,155
+Calhoun,City of Battle Creek Precinct 10,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 11,U.S. House,4,DEM,Jessica Swartz,185
+Calhoun,City of Battle Creek Precinct 11,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 12,U.S. House,4,DEM,Jessica Swartz,95
+Calhoun,City of Battle Creek Precinct 12,U.S. House,4,DEM,Write-ins,2
+Calhoun,City of Battle Creek Precinct 13,U.S. House,4,DEM,Jessica Swartz,63
+Calhoun,City of Battle Creek Precinct 13,U.S. House,4,DEM,Write-ins,1
+Calhoun,City of Battle Creek Precinct 15,U.S. House,4,DEM,Jessica Swartz,234
+Calhoun,City of Battle Creek Precinct 15,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 17,U.S. House,4,DEM,Jessica Swartz,138
+Calhoun,City of Battle Creek Precinct 17,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 18,U.S. House,4,DEM,Jessica Swartz,95
+Calhoun,City of Battle Creek Precinct 18,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 19,U.S. House,4,DEM,Jessica Swartz,64
+Calhoun,City of Battle Creek Precinct 19,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 20,U.S. House,4,DEM,Jessica Swartz,167
+Calhoun,City of Battle Creek Precinct 20,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 21,U.S. House,4,DEM,Jessica Swartz,161
+Calhoun,City of Battle Creek Precinct 21,U.S. House,4,DEM,Write-ins,1
+Calhoun,City of Battle Creek Precinct 22,U.S. House,4,DEM,Jessica Swartz,86
+Calhoun,City of Battle Creek Precinct 22,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Battle Creek Precinct 23,U.S. House,4,DEM,Jessica Swartz,108
+Calhoun,City of Battle Creek Precinct 23,U.S. House,4,DEM,Write-ins,1
+Calhoun,City of Springfield Precinct 1,U.S. House,4,DEM,Jessica Swartz,192
+Calhoun,City of Springfield Precinct 1,U.S. House,4,DEM,Write-ins,2
+Calhoun,Bedford Charter Township Precinct 1,U.S. House,4,DEM,Jessica Swartz,152
+Calhoun,Bedford Charter Township Precinct 1,U.S. House,4,DEM,Write-ins,0
+Calhoun,Bedford Charter Township Precinct 2,U.S. House,4,DEM,Jessica Swartz,158
+Calhoun,Bedford Charter Township Precinct 2,U.S. House,4,DEM,Write-ins,0
+Calhoun,Bedford Charter Township Precinct 3,U.S. House,4,DEM,Jessica Swartz,239
+Calhoun,Bedford Charter Township Precinct 3,U.S. House,4,DEM,Write-ins,0
+Calhoun,Emmett Charter Township Precinct 1,U.S. House,4,DEM,Jessica Swartz,72
+Calhoun,Emmett Charter Township Precinct 1,U.S. House,4,DEM,Write-ins,0
+Calhoun,Emmett Charter Township Precinct 2,U.S. House,4,DEM,Jessica Swartz,117
+Calhoun,Emmett Charter Township Precinct 2,U.S. House,4,DEM,Write-ins,1
+Calhoun,Emmett Charter Township Precinct 3,U.S. House,4,DEM,Jessica Swartz,98
+Calhoun,Emmett Charter Township Precinct 3,U.S. House,4,DEM,Write-ins,2
+Calhoun,Emmett Charter Township Precinct 4,U.S. House,4,DEM,Jessica Swartz,173
+Calhoun,Emmett Charter Township Precinct 4,U.S. House,4,DEM,Write-ins,0
+Calhoun,Pennfield Charter Township Precinct 1,U.S. House,4,DEM,Jessica Swartz,153
+Calhoun,Pennfield Charter Township Precinct 1,U.S. House,4,DEM,Write-ins,0
+Calhoun,Pennfield Charter Township Precinct 2,U.S. House,4,DEM,Jessica Swartz,129
+Calhoun,Pennfield Charter Township Precinct 2,U.S. House,4,DEM,Write-ins,0
+Calhoun,Pennfield Charter Township Precinct 3,U.S. House,4,DEM,Jessica Swartz,178
+Calhoun,Pennfield Charter Township Precinct 3,U.S. House,4,DEM,Write-ins,0
+Calhoun,City of Albion Precinct 1,U.S. House,5,DEM,Libbi Urban,87
+Calhoun,City of Albion Precinct 1,U.S. House,5,DEM,Write-ins,1
+Calhoun,City of Albion Precinct 2,U.S. House,5,DEM,Libbi Urban,60
+Calhoun,City of Albion Precinct 2,U.S. House,5,DEM,Write-ins,2
+Calhoun,City of Albion Precinct 3,U.S. House,5,DEM,Libbi Urban,121
+Calhoun,City of Albion Precinct 3,U.S. House,5,DEM,Write-ins,0
+Calhoun,City of Albion Precinct 4,U.S. House,5,DEM,Libbi Urban,60
+Calhoun,City of Albion Precinct 4,U.S. House,5,DEM,Write-ins,0
+Calhoun,City of Albion Precinct 5,U.S. House,5,DEM,Libbi Urban,123
+Calhoun,City of Albion Precinct 5,U.S. House,5,DEM,Write-ins,2
+Calhoun,City of Albion Precinct 6,U.S. House,5,DEM,Libbi Urban,85
+Calhoun,City of Albion Precinct 6,U.S. House,5,DEM,Write-ins,0
+Calhoun,City of Marshall Precinct 1,U.S. House,5,DEM,Libbi Urban,298
+Calhoun,City of Marshall Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,City of Marshall Precinct 2,U.S. House,5,DEM,Libbi Urban,395
+Calhoun,City of Marshall Precinct 2,U.S. House,5,DEM,Write-ins,1
+Calhoun,Albion Township Precinct 1,U.S. House,5,DEM,Libbi Urban,42
+Calhoun,Albion Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,Athens Township Precinct 1,U.S. House,5,DEM,Libbi Urban,92
+Calhoun,Athens Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,Burlington Township Precinct 1,U.S. House,5,DEM,Libbi Urban,81
+Calhoun,Burlington Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,Clarence Township Precinct 1,U.S. House,5,DEM,Libbi Urban,90
+Calhoun,Clarence Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,Clarendon Township Precinct 1,U.S. House,5,DEM,Libbi Urban,33
+Calhoun,Clarendon Township Precinct 1,U.S. House,5,DEM,Write-ins,1
+Calhoun,Convis Township Precinct 1,U.S. House,5,DEM,Libbi Urban,53
+Calhoun,Convis Township Precinct 1,U.S. House,5,DEM,Write-ins,1
+Calhoun,Eckford Township Precinct 1,U.S. House,5,DEM,Libbi Urban,43
+Calhoun,Eckford Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,Fredonia Township Precinct 1,U.S. House,5,DEM,Libbi Urban,59
+Calhoun,Fredonia Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,Homer Township Precinct 1,U.S. House,5,DEM,Libbi Urban,65
+Calhoun,Homer Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,Lee Township Precinct 1,U.S. House,5,DEM,Libbi Urban,33
+Calhoun,Lee Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,Leroy Township Precinct 1,U.S. House,5,DEM,Libbi Urban,224
+Calhoun,Leroy Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,Marengo Township Precinct 1,U.S. House,5,DEM,Libbi Urban,76
+Calhoun,Marengo Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,Marshall Township Precinct 1,U.S. House,5,DEM,Libbi Urban,169
+Calhoun,Marshall Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,Newton Township Precinct 1,U.S. House,5,DEM,Libbi Urban,134
+Calhoun,Newton Township Precinct 1,U.S. House,5,DEM,Write-ins,1
+Calhoun,Sheridan Township Precinct 1,U.S. House,5,DEM,Libbi Urban,62
+Calhoun,Sheridan Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,Tekonsha Township Precinct 1,U.S. House,5,DEM,Libbi Urban,67
+Calhoun,Tekonsha Township Precinct 1,U.S. House,5,DEM,Write-ins,0
+Calhoun,City of Albion Precinct 1,Ballots Cast,,REP,,133
+Calhoun,City of Albion Precinct 1,U.S. Senate,,REP,Justin Amash,10
+Calhoun,City of Albion Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,4
+Calhoun,City of Albion Precinct 1,U.S. Senate,,REP,Sandy Pensler,1
+Calhoun,City of Albion Precinct 1,U.S. Senate,,REP,Mike Rogers,17
+Calhoun,City of Albion Precinct 1,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Albion Precinct 2,Ballots Cast,,REP,,91
+Calhoun,City of Albion Precinct 2,U.S. Senate,,REP,Justin Amash,7
+Calhoun,City of Albion Precinct 2,U.S. Senate,,REP,Sherry O'Donnell,1
+Calhoun,City of Albion Precinct 2,U.S. Senate,,REP,Sandy Pensler,1
+Calhoun,City of Albion Precinct 2,U.S. Senate,,REP,Mike Rogers,9
+Calhoun,City of Albion Precinct 2,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Albion Precinct 3,Ballots Cast,,REP,,202
+Calhoun,City of Albion Precinct 3,U.S. Senate,,REP,Justin Amash,18
+Calhoun,City of Albion Precinct 3,U.S. Senate,,REP,Sherry O'Donnell,8
+Calhoun,City of Albion Precinct 3,U.S. Senate,,REP,Sandy Pensler,2
+Calhoun,City of Albion Precinct 3,U.S. Senate,,REP,Mike Rogers,33
+Calhoun,City of Albion Precinct 3,U.S. Senate,,REP,Write-ins,1
+Calhoun,City of Albion Precinct 4,Ballots Cast,,REP,,130
+Calhoun,City of Albion Precinct 4,U.S. Senate,,REP,Justin Amash,18
+Calhoun,City of Albion Precinct 4,U.S. Senate,,REP,Sherry O'Donnell,5
+Calhoun,City of Albion Precinct 4,U.S. Senate,,REP,Sandy Pensler,2
+Calhoun,City of Albion Precinct 4,U.S. Senate,,REP,Mike Rogers,31
+Calhoun,City of Albion Precinct 4,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Albion Precinct 5,Ballots Cast,,REP,,216
+Calhoun,City of Albion Precinct 5,U.S. Senate,,REP,Justin Amash,22
+Calhoun,City of Albion Precinct 5,U.S. Senate,,REP,Sherry O'Donnell,7
+Calhoun,City of Albion Precinct 5,U.S. Senate,,REP,Sandy Pensler,4
+Calhoun,City of Albion Precinct 5,U.S. Senate,,REP,Mike Rogers,34
+Calhoun,City of Albion Precinct 5,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Albion Precinct 6,Ballots Cast,,REP,,148
+Calhoun,City of Albion Precinct 6,U.S. Senate,,REP,Justin Amash,22
+Calhoun,City of Albion Precinct 6,U.S. Senate,,REP,Sherry O'Donnell,2
+Calhoun,City of Albion Precinct 6,U.S. Senate,,REP,Sandy Pensler,5
+Calhoun,City of Albion Precinct 6,U.S. Senate,,REP,Mike Rogers,22
+Calhoun,City of Albion Precinct 6,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 1,Ballots Cast,,REP,,134
+Calhoun,City of Battle Creek Precinct 1,U.S. Senate,,REP,Justin Amash,13
+Calhoun,City of Battle Creek Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,6
+Calhoun,City of Battle Creek Precinct 1,U.S. Senate,,REP,Sandy Pensler,2
+Calhoun,City of Battle Creek Precinct 1,U.S. Senate,,REP,Mike Rogers,30
+Calhoun,City of Battle Creek Precinct 1,U.S. Senate,,REP,Write-ins,1
+Calhoun,City of Battle Creek Precinct 2,Ballots Cast,,REP,,160
+Calhoun,City of Battle Creek Precinct 2,U.S. Senate,,REP,Justin Amash,16
+Calhoun,City of Battle Creek Precinct 2,U.S. Senate,,REP,Sherry O'Donnell,8
+Calhoun,City of Battle Creek Precinct 2,U.S. Senate,,REP,Sandy Pensler,8
+Calhoun,City of Battle Creek Precinct 2,U.S. Senate,,REP,Mike Rogers,45
+Calhoun,City of Battle Creek Precinct 2,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 3,Ballots Cast,,REP,,450
+Calhoun,City of Battle Creek Precinct 3,U.S. Senate,,REP,Justin Amash,53
+Calhoun,City of Battle Creek Precinct 3,U.S. Senate,,REP,Sherry O'Donnell,20
+Calhoun,City of Battle Creek Precinct 3,U.S. Senate,,REP,Sandy Pensler,15
+Calhoun,City of Battle Creek Precinct 3,U.S. Senate,,REP,Mike Rogers,163
+Calhoun,City of Battle Creek Precinct 3,U.S. Senate,,REP,Write-ins,1
+Calhoun,City of Battle Creek Precinct 4,Ballots Cast,,REP,,211
+Calhoun,City of Battle Creek Precinct 4,U.S. Senate,,REP,Justin Amash,24
+Calhoun,City of Battle Creek Precinct 4,U.S. Senate,,REP,Sherry O'Donnell,11
+Calhoun,City of Battle Creek Precinct 4,U.S. Senate,,REP,Sandy Pensler,10
+Calhoun,City of Battle Creek Precinct 4,U.S. Senate,,REP,Mike Rogers,42
+Calhoun,City of Battle Creek Precinct 4,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 5,Ballots Cast,,REP,,533
+Calhoun,City of Battle Creek Precinct 5,U.S. Senate,,REP,Justin Amash,45
+Calhoun,City of Battle Creek Precinct 5,U.S. Senate,,REP,Sherry O'Donnell,10
+Calhoun,City of Battle Creek Precinct 5,U.S. Senate,,REP,Sandy Pensler,24
+Calhoun,City of Battle Creek Precinct 5,U.S. Senate,,REP,Mike Rogers,194
+Calhoun,City of Battle Creek Precinct 5,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 6,Ballots Cast,,REP,,467
+Calhoun,City of Battle Creek Precinct 6,U.S. Senate,,REP,Justin Amash,64
+Calhoun,City of Battle Creek Precinct 6,U.S. Senate,,REP,Sherry O'Donnell,17
+Calhoun,City of Battle Creek Precinct 6,U.S. Senate,,REP,Sandy Pensler,13
+Calhoun,City of Battle Creek Precinct 6,U.S. Senate,,REP,Mike Rogers,121
+Calhoun,City of Battle Creek Precinct 6,U.S. Senate,,REP,Write-ins,1
+Calhoun,City of Battle Creek Precinct 7,Ballots Cast,,REP,,74
+Calhoun,City of Battle Creek Precinct 7,U.S. Senate,,REP,Justin Amash,6
+Calhoun,City of Battle Creek Precinct 7,U.S. Senate,,REP,Sherry O'Donnell,5
+Calhoun,City of Battle Creek Precinct 7,U.S. Senate,,REP,Sandy Pensler,1
+Calhoun,City of Battle Creek Precinct 7,U.S. Senate,,REP,Mike Rogers,21
+Calhoun,City of Battle Creek Precinct 7,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 8,Ballots Cast,,REP,,504
+Calhoun,City of Battle Creek Precinct 8,U.S. Senate,,REP,Justin Amash,53
+Calhoun,City of Battle Creek Precinct 8,U.S. Senate,,REP,Sherry O'Donnell,19
+Calhoun,City of Battle Creek Precinct 8,U.S. Senate,,REP,Sandy Pensler,23
+Calhoun,City of Battle Creek Precinct 8,U.S. Senate,,REP,Mike Rogers,133
+Calhoun,City of Battle Creek Precinct 8,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 9,Ballots Cast,,REP,,287
+Calhoun,City of Battle Creek Precinct 9,U.S. Senate,,REP,Justin Amash,28
+Calhoun,City of Battle Creek Precinct 9,U.S. Senate,,REP,Sherry O'Donnell,6
+Calhoun,City of Battle Creek Precinct 9,U.S. Senate,,REP,Sandy Pensler,9
+Calhoun,City of Battle Creek Precinct 9,U.S. Senate,,REP,Mike Rogers,80
+Calhoun,City of Battle Creek Precinct 9,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 10,Ballots Cast,,REP,,281
+Calhoun,City of Battle Creek Precinct 10,U.S. Senate,,REP,Justin Amash,23
+Calhoun,City of Battle Creek Precinct 10,U.S. Senate,,REP,Sherry O'Donnell,6
+Calhoun,City of Battle Creek Precinct 10,U.S. Senate,,REP,Sandy Pensler,8
+Calhoun,City of Battle Creek Precinct 10,U.S. Senate,,REP,Mike Rogers,63
+Calhoun,City of Battle Creek Precinct 10,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 11,Ballots Cast,,REP,,376
+Calhoun,City of Battle Creek Precinct 11,U.S. Senate,,REP,Justin Amash,59
+Calhoun,City of Battle Creek Precinct 11,U.S. Senate,,REP,Sherry O'Donnell,13
+Calhoun,City of Battle Creek Precinct 11,U.S. Senate,,REP,Sandy Pensler,13
+Calhoun,City of Battle Creek Precinct 11,U.S. Senate,,REP,Mike Rogers,80
+Calhoun,City of Battle Creek Precinct 11,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 12,Ballots Cast,,REP,,123
+Calhoun,City of Battle Creek Precinct 12,U.S. Senate,,REP,Justin Amash,4
+Calhoun,City of Battle Creek Precinct 12,U.S. Senate,,REP,Sherry O'Donnell,0
+Calhoun,City of Battle Creek Precinct 12,U.S. Senate,,REP,Sandy Pensler,2
+Calhoun,City of Battle Creek Precinct 12,U.S. Senate,,REP,Mike Rogers,8
+Calhoun,City of Battle Creek Precinct 12,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 13,Ballots Cast,,REP,,113
+Calhoun,City of Battle Creek Precinct 13,U.S. Senate,,REP,Justin Amash,10
+Calhoun,City of Battle Creek Precinct 13,U.S. Senate,,REP,Sherry O'Donnell,1
+Calhoun,City of Battle Creek Precinct 13,U.S. Senate,,REP,Sandy Pensler,8
+Calhoun,City of Battle Creek Precinct 13,U.S. Senate,,REP,Mike Rogers,23
+Calhoun,City of Battle Creek Precinct 13,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 15,Ballots Cast,,REP,,440
+Calhoun,City of Battle Creek Precinct 15,U.S. Senate,,REP,Justin Amash,50
+Calhoun,City of Battle Creek Precinct 15,U.S. Senate,,REP,Sherry O'Donnell,13
+Calhoun,City of Battle Creek Precinct 15,U.S. Senate,,REP,Sandy Pensler,8
+Calhoun,City of Battle Creek Precinct 15,U.S. Senate,,REP,Mike Rogers,91
+Calhoun,City of Battle Creek Precinct 15,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 17,Ballots Cast,,REP,,238
+Calhoun,City of Battle Creek Precinct 17,U.S. Senate,,REP,Justin Amash,25
+Calhoun,City of Battle Creek Precinct 17,U.S. Senate,,REP,Sherry O'Donnell,5
+Calhoun,City of Battle Creek Precinct 17,U.S. Senate,,REP,Sandy Pensler,6
+Calhoun,City of Battle Creek Precinct 17,U.S. Senate,,REP,Mike Rogers,46
+Calhoun,City of Battle Creek Precinct 17,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 18,Ballots Cast,,REP,,140
+Calhoun,City of Battle Creek Precinct 18,U.S. Senate,,REP,Justin Amash,8
+Calhoun,City of Battle Creek Precinct 18,U.S. Senate,,REP,Sherry O'Donnell,5
+Calhoun,City of Battle Creek Precinct 18,U.S. Senate,,REP,Sandy Pensler,3
+Calhoun,City of Battle Creek Precinct 18,U.S. Senate,,REP,Mike Rogers,18
+Calhoun,City of Battle Creek Precinct 18,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 19,Ballots Cast,,REP,,105
+Calhoun,City of Battle Creek Precinct 19,U.S. Senate,,REP,Justin Amash,16
+Calhoun,City of Battle Creek Precinct 19,U.S. Senate,,REP,Sherry O'Donnell,4
+Calhoun,City of Battle Creek Precinct 19,U.S. Senate,,REP,Sandy Pensler,1
+Calhoun,City of Battle Creek Precinct 19,U.S. Senate,,REP,Mike Rogers,14
+Calhoun,City of Battle Creek Precinct 19,U.S. Senate,,REP,Write-ins,1
+Calhoun,City of Battle Creek Precinct 20,Ballots Cast,,REP,,438
+Calhoun,City of Battle Creek Precinct 20,U.S. Senate,,REP,Justin Amash,65
+Calhoun,City of Battle Creek Precinct 20,U.S. Senate,,REP,Sherry O'Donnell,18
+Calhoun,City of Battle Creek Precinct 20,U.S. Senate,,REP,Sandy Pensler,15
+Calhoun,City of Battle Creek Precinct 20,U.S. Senate,,REP,Mike Rogers,142
+Calhoun,City of Battle Creek Precinct 20,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 21,Ballots Cast,,REP,,217
+Calhoun,City of Battle Creek Precinct 21,U.S. Senate,,REP,Justin Amash,12
+Calhoun,City of Battle Creek Precinct 21,U.S. Senate,,REP,Sherry O'Donnell,1
+Calhoun,City of Battle Creek Precinct 21,U.S. Senate,,REP,Sandy Pensler,4
+Calhoun,City of Battle Creek Precinct 21,U.S. Senate,,REP,Mike Rogers,22
+Calhoun,City of Battle Creek Precinct 21,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 22,Ballots Cast,,REP,,210
+Calhoun,City of Battle Creek Precinct 22,U.S. Senate,,REP,Justin Amash,29
+Calhoun,City of Battle Creek Precinct 22,U.S. Senate,,REP,Sherry O'Donnell,10
+Calhoun,City of Battle Creek Precinct 22,U.S. Senate,,REP,Sandy Pensler,6
+Calhoun,City of Battle Creek Precinct 22,U.S. Senate,,REP,Mike Rogers,60
+Calhoun,City of Battle Creek Precinct 22,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 23,Ballots Cast,,REP,,267
+Calhoun,City of Battle Creek Precinct 23,U.S. Senate,,REP,Justin Amash,29
+Calhoun,City of Battle Creek Precinct 23,U.S. Senate,,REP,Sherry O'Donnell,9
+Calhoun,City of Battle Creek Precinct 23,U.S. Senate,,REP,Sandy Pensler,17
+Calhoun,City of Battle Creek Precinct 23,U.S. Senate,,REP,Mike Rogers,85
+Calhoun,City of Battle Creek Precinct 23,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Marshall Precinct 1,Ballots Cast,,REP,,668
+Calhoun,City of Marshall Precinct 1,U.S. Senate,,REP,Justin Amash,87
+Calhoun,City of Marshall Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,21
+Calhoun,City of Marshall Precinct 1,U.S. Senate,,REP,Sandy Pensler,18
+Calhoun,City of Marshall Precinct 1,U.S. Senate,,REP,Mike Rogers,170
+Calhoun,City of Marshall Precinct 1,U.S. Senate,,REP,Write-ins,1
+Calhoun,City of Marshall Precinct 2,Ballots Cast,,REP,,819
+Calhoun,City of Marshall Precinct 2,U.S. Senate,,REP,Justin Amash,102
+Calhoun,City of Marshall Precinct 2,U.S. Senate,,REP,Sherry O'Donnell,24
+Calhoun,City of Marshall Precinct 2,U.S. Senate,,REP,Sandy Pensler,33
+Calhoun,City of Marshall Precinct 2,U.S. Senate,,REP,Mike Rogers,185
+Calhoun,City of Marshall Precinct 2,U.S. Senate,,REP,Write-ins,0
+Calhoun,City of Springfield Precinct 1,Ballots Cast,,REP,,422
+Calhoun,City of Springfield Precinct 1,U.S. Senate,,REP,Justin Amash,49
+Calhoun,City of Springfield Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,16
+Calhoun,City of Springfield Precinct 1,U.S. Senate,,REP,Sandy Pensler,27
+Calhoun,City of Springfield Precinct 1,U.S. Senate,,REP,Mike Rogers,112
+Calhoun,City of Springfield Precinct 1,U.S. Senate,,REP,Write-ins,0
+Calhoun,Albion Township Precinct 1,Ballots Cast,,REP,,185
+Calhoun,Albion Township Precinct 1,U.S. Senate,,REP,Justin Amash,41
+Calhoun,Albion Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,7
+Calhoun,Albion Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,6
+Calhoun,Albion Township Precinct 1,U.S. Senate,,REP,Mike Rogers,73
+Calhoun,Albion Township Precinct 1,U.S. Senate,,REP,Write-ins,0
+Calhoun,Athens Township Precinct 1,Ballots Cast,,REP,,333
+Calhoun,Athens Township Precinct 1,U.S. Senate,,REP,Justin Amash,50
+Calhoun,Athens Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,17
+Calhoun,Athens Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,14
+Calhoun,Athens Township Precinct 1,U.S. Senate,,REP,Mike Rogers,134
+Calhoun,Athens Township Precinct 1,U.S. Senate,,REP,Write-ins,0
+Calhoun,Bedford Charter Township Precinct 1,Ballots Cast,,REP,,601
+Calhoun,Bedford Charter Township Precinct 1,U.S. Senate,,REP,Justin Amash,133
+Calhoun,Bedford Charter Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,36
+Calhoun,Bedford Charter Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,33
+Calhoun,Bedford Charter Township Precinct 1,U.S. Senate,,REP,Mike Rogers,200
+Calhoun,Bedford Charter Township Precinct 1,U.S. Senate,,REP,Write-ins,0
+Calhoun,Bedford Charter Township Precinct 2,Ballots Cast,,REP,,444
+Calhoun,Bedford Charter Township Precinct 2,U.S. Senate,,REP,Justin Amash,73
+Calhoun,Bedford Charter Township Precinct 2,U.S. Senate,,REP,Sherry O'Donnell,27
+Calhoun,Bedford Charter Township Precinct 2,U.S. Senate,,REP,Sandy Pensler,22
+Calhoun,Bedford Charter Township Precinct 2,U.S. Senate,,REP,Mike Rogers,130
+Calhoun,Bedford Charter Township Precinct 2,U.S. Senate,,REP,Write-ins,0
+Calhoun,Bedford Charter Township Precinct 3,Ballots Cast,,REP,,549
+Calhoun,Bedford Charter Township Precinct 3,U.S. Senate,,REP,Justin Amash,82
+Calhoun,Bedford Charter Township Precinct 3,U.S. Senate,,REP,Sherry O'Donnell,19
+Calhoun,Bedford Charter Township Precinct 3,U.S. Senate,,REP,Sandy Pensler,31
+Calhoun,Bedford Charter Township Precinct 3,U.S. Senate,,REP,Mike Rogers,133
+Calhoun,Bedford Charter Township Precinct 3,U.S. Senate,,REP,Write-ins,2
+Calhoun,Burlington Township Precinct 1,Ballots Cast,,REP,,311
+Calhoun,Burlington Township Precinct 1,U.S. Senate,,REP,Justin Amash,54
+Calhoun,Burlington Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,11
+Calhoun,Burlington Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,16
+Calhoun,Burlington Township Precinct 1,U.S. Senate,,REP,Mike Rogers,117
+Calhoun,Burlington Township Precinct 1,U.S. Senate,,REP,Write-ins,1
+Calhoun,Clarence Township Precinct 1,Ballots Cast,,REP,,549
+Calhoun,Clarence Township Precinct 1,U.S. Senate,,REP,Justin Amash,87
+Calhoun,Clarence Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,25
+Calhoun,Clarence Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,19
+Calhoun,Clarence Township Precinct 1,U.S. Senate,,REP,Mike Rogers,264
+Calhoun,Clarence Township Precinct 1,U.S. Senate,,REP,Write-ins,0
+Calhoun,Clarendon Township Precinct 1,Ballots Cast,,REP,,162
+Calhoun,Clarendon Township Precinct 1,U.S. Senate,,REP,Justin Amash,20
+Calhoun,Clarendon Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,7
+Calhoun,Clarendon Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,7
+Calhoun,Clarendon Township Precinct 1,U.S. Senate,,REP,Mike Rogers,78
+Calhoun,Clarendon Township Precinct 1,U.S. Senate,,REP,Write-ins,1
+Calhoun,Convis Township Precinct 1,Ballots Cast,,REP,,229
+Calhoun,Convis Township Precinct 1,U.S. Senate,,REP,Justin Amash,34
+Calhoun,Convis Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,14
+Calhoun,Convis Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,6
+Calhoun,Convis Township Precinct 1,U.S. Senate,,REP,Mike Rogers,97
+Calhoun,Convis Township Precinct 1,U.S. Senate,,REP,Write-ins,0
+Calhoun,Eckford Township Precinct 1,Ballots Cast,,REP,,345
+Calhoun,Eckford Township Precinct 1,U.S. Senate,,REP,Justin Amash,70
+Calhoun,Eckford Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,19
+Calhoun,Eckford Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,14
+Calhoun,Eckford Township Precinct 1,U.S. Senate,,REP,Mike Rogers,165
+Calhoun,Eckford Township Precinct 1,U.S. Senate,,REP,Write-ins,1
+Calhoun,Emmett Charter Township Precinct 1,Ballots Cast,,REP,,274
+Calhoun,Emmett Charter Township Precinct 1,U.S. Senate,,REP,Justin Amash,63
+Calhoun,Emmett Charter Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,19
+Calhoun,Emmett Charter Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,17
+Calhoun,Emmett Charter Township Precinct 1,U.S. Senate,,REP,Mike Rogers,64
+Calhoun,Emmett Charter Township Precinct 1,U.S. Senate,,REP,Write-ins,0
+Calhoun,Emmett Charter Township Precinct 2,Ballots Cast,,REP,,609
+Calhoun,Emmett Charter Township Precinct 2,U.S. Senate,,REP,Justin Amash,144
+Calhoun,Emmett Charter Township Precinct 2,U.S. Senate,,REP,Sherry O'Donnell,33
+Calhoun,Emmett Charter Township Precinct 2,U.S. Senate,,REP,Sandy Pensler,28
+Calhoun,Emmett Charter Township Precinct 2,U.S. Senate,,REP,Mike Rogers,207
+Calhoun,Emmett Charter Township Precinct 2,U.S. Senate,,REP,Write-ins,1
+Calhoun,Emmett Charter Township Precinct 3,Ballots Cast,,REP,,383
+Calhoun,Emmett Charter Township Precinct 3,U.S. Senate,,REP,Justin Amash,56
+Calhoun,Emmett Charter Township Precinct 3,U.S. Senate,,REP,Sherry O'Donnell,29
+Calhoun,Emmett Charter Township Precinct 3,U.S. Senate,,REP,Sandy Pensler,26
+Calhoun,Emmett Charter Township Precinct 3,U.S. Senate,,REP,Mike Rogers,120
+Calhoun,Emmett Charter Township Precinct 3,U.S. Senate,,REP,Write-ins,2
+Calhoun,Emmett Charter Township Precinct 4,Ballots Cast,,REP,,813
+Calhoun,Emmett Charter Township Precinct 4,U.S. Senate,,REP,Justin Amash,169
+Calhoun,Emmett Charter Township Precinct 4,U.S. Senate,,REP,Sherry O'Donnell,46
+Calhoun,Emmett Charter Township Precinct 4,U.S. Senate,,REP,Sandy Pensler,38
+Calhoun,Emmett Charter Township Precinct 4,U.S. Senate,,REP,Mike Rogers,280
+Calhoun,Emmett Charter Township Precinct 4,U.S. Senate,,REP,Write-ins,0
+Calhoun,Fredonia Township Precinct 1,Ballots Cast,,REP,,366
+Calhoun,Fredonia Township Precinct 1,U.S. Senate,,REP,Justin Amash,90
+Calhoun,Fredonia Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,23
+Calhoun,Fredonia Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,9
+Calhoun,Fredonia Township Precinct 1,U.S. Senate,,REP,Mike Rogers,138
+Calhoun,Fredonia Township Precinct 1,U.S. Senate,,REP,Write-ins,0
+Calhoun,Homer Township Precinct 1,Ballots Cast,,REP,,268
+Calhoun,Homer Township Precinct 1,U.S. Senate,,REP,Justin Amash,38
+Calhoun,Homer Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,22
+Calhoun,Homer Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,9
+Calhoun,Homer Township Precinct 1,U.S. Senate,,REP,Mike Rogers,104
+Calhoun,Homer Township Precinct 1,U.S. Senate,,REP,Write-ins,1
+Calhoun,Lee Township Precinct 1,Ballots Cast,,REP,,195
+Calhoun,Lee Township Precinct 1,U.S. Senate,,REP,Justin Amash,29
+Calhoun,Lee Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,13
+Calhoun,Lee Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,12
+Calhoun,Lee Township Precinct 1,U.S. Senate,,REP,Mike Rogers,91
+Calhoun,Lee Township Precinct 1,U.S. Senate,,REP,Write-ins,0
+Calhoun,Leroy Township Precinct 1,Ballots Cast,,REP,,793
+Calhoun,Leroy Township Precinct 1,U.S. Senate,,REP,Justin Amash,130
+Calhoun,Leroy Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,31
+Calhoun,Leroy Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,39
+Calhoun,Leroy Township Precinct 1,U.S. Senate,,REP,Mike Rogers,316
+Calhoun,Leroy Township Precinct 1,U.S. Senate,,REP,Write-ins,0
+Calhoun,Marengo Township Precinct 1,Ballots Cast,,REP,,369
+Calhoun,Marengo Township Precinct 1,U.S. Senate,,REP,Justin Amash,89
+Calhoun,Marengo Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,25
+Calhoun,Marengo Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,14
+Calhoun,Marengo Township Precinct 1,U.S. Senate,,REP,Mike Rogers,140
+Calhoun,Marengo Township Precinct 1,U.S. Senate,,REP,Write-ins,2
+Calhoun,Marshall Township Precinct 1,Ballots Cast,,REP,,933
+Calhoun,Marshall Township Precinct 1,U.S. Senate,,REP,Justin Amash,198
+Calhoun,Marshall Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,39
+Calhoun,Marshall Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,49
+Calhoun,Marshall Township Precinct 1,U.S. Senate,,REP,Mike Rogers,288
+Calhoun,Marshall Township Precinct 1,U.S. Senate,,REP,Write-ins,2
+Calhoun,Newton Township Precinct 1,Ballots Cast,,REP,,590
+Calhoun,Newton Township Precinct 1,U.S. Senate,,REP,Justin Amash,106
+Calhoun,Newton Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,42
+Calhoun,Newton Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,44
+Calhoun,Newton Township Precinct 1,U.S. Senate,,REP,Mike Rogers,211
+Calhoun,Newton Township Precinct 1,U.S. Senate,,REP,Write-ins,1
+Calhoun,Pennfield Charter Township Precinct 1,Ballots Cast,,REP,,533
+Calhoun,Pennfield Charter Township Precinct 1,U.S. Senate,,REP,Justin Amash,97
+Calhoun,Pennfield Charter Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,28
+Calhoun,Pennfield Charter Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,29
+Calhoun,Pennfield Charter Township Precinct 1,U.S. Senate,,REP,Mike Rogers,180
+Calhoun,Pennfield Charter Township Precinct 1,U.S. Senate,,REP,Write-ins,1
+Calhoun,Pennfield Charter Township Precinct 2,Ballots Cast,,REP,,281
+Calhoun,Pennfield Charter Township Precinct 2,U.S. Senate,,REP,Justin Amash,49
+Calhoun,Pennfield Charter Township Precinct 2,U.S. Senate,,REP,Sherry O'Donnell,10
+Calhoun,Pennfield Charter Township Precinct 2,U.S. Senate,,REP,Sandy Pensler,6
+Calhoun,Pennfield Charter Township Precinct 2,U.S. Senate,,REP,Mike Rogers,67
+Calhoun,Pennfield Charter Township Precinct 2,U.S. Senate,,REP,Write-ins,1
+Calhoun,Pennfield Charter Township Precinct 3,Ballots Cast,,REP,,549
+Calhoun,Pennfield Charter Township Precinct 3,U.S. Senate,,REP,Justin Amash,94
+Calhoun,Pennfield Charter Township Precinct 3,U.S. Senate,,REP,Sherry O'Donnell,26
+Calhoun,Pennfield Charter Township Precinct 3,U.S. Senate,,REP,Sandy Pensler,20
+Calhoun,Pennfield Charter Township Precinct 3,U.S. Senate,,REP,Mike Rogers,190
+Calhoun,Pennfield Charter Township Precinct 3,U.S. Senate,,REP,Write-ins,1
+Calhoun,Sheridan Township Precinct 1,Ballots Cast,,REP,,267
+Calhoun,Sheridan Township Precinct 1,U.S. Senate,,REP,Justin Amash,28
+Calhoun,Sheridan Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,16
+Calhoun,Sheridan Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,14
+Calhoun,Sheridan Township Precinct 1,U.S. Senate,,REP,Mike Rogers,107
+Calhoun,Sheridan Township Precinct 1,U.S. Senate,,REP,Write-ins,0
+Calhoun,Tekonsha Township Precinct 1,Ballots Cast,,REP,,262
+Calhoun,Tekonsha Township Precinct 1,U.S. Senate,,REP,Justin Amash,32
+Calhoun,Tekonsha Township Precinct 1,U.S. Senate,,REP,Sherry O'Donnell,14
+Calhoun,Tekonsha Township Precinct 1,U.S. Senate,,REP,Sandy Pensler,7
+Calhoun,Tekonsha Township Precinct 1,U.S. Senate,,REP,Mike Rogers,108
+Calhoun,Tekonsha Township Precinct 1,U.S. Senate,,REP,Write-ins,1
+Calhoun,City of Battle Creek Precinct 1,U.S. House,4,REP,Bill Huizenga,31
+Calhoun,City of Battle Creek Precinct 1,U.S. House,4,REP,Brendan Muir,20
+Calhoun,City of Battle Creek Precinct 1,U.S. House,4,REP,Write-ins,1
+Calhoun,City of Battle Creek Precinct 2,U.S. House,4,REP,Bill Huizenga,59
+Calhoun,City of Battle Creek Precinct 2,U.S. House,4,REP,Brendan Muir,18
+Calhoun,City of Battle Creek Precinct 2,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 3,U.S. House,4,REP,Bill Huizenga,215
+Calhoun,City of Battle Creek Precinct 3,U.S. House,4,REP,Brendan Muir,30
+Calhoun,City of Battle Creek Precinct 3,U.S. House,4,REP,Write-ins,1
+Calhoun,City of Battle Creek Precinct 4,U.S. House,4,REP,Bill Huizenga,63
+Calhoun,City of Battle Creek Precinct 4,U.S. House,4,REP,Brendan Muir,23
+Calhoun,City of Battle Creek Precinct 4,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 5,U.S. House,4,REP,Bill Huizenga,240
+Calhoun,City of Battle Creek Precinct 5,U.S. House,4,REP,Brendan Muir,30
+Calhoun,City of Battle Creek Precinct 5,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 6,U.S. House,4,REP,Bill Huizenga,182
+Calhoun,City of Battle Creek Precinct 6,U.S. House,4,REP,Brendan Muir,32
+Calhoun,City of Battle Creek Precinct 6,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 7,U.S. House,4,REP,Bill Huizenga,26
+Calhoun,City of Battle Creek Precinct 7,U.S. House,4,REP,Brendan Muir,7
+Calhoun,City of Battle Creek Precinct 7,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 8,U.S. House,4,REP,Bill Huizenga,172
+Calhoun,City of Battle Creek Precinct 8,U.S. House,4,REP,Brendan Muir,56
+Calhoun,City of Battle Creek Precinct 8,U.S. House,4,REP,Write-ins,1
+Calhoun,City of Battle Creek Precinct 9,U.S. House,4,REP,Bill Huizenga,96
+Calhoun,City of Battle Creek Precinct 9,U.S. House,4,REP,Brendan Muir,25
+Calhoun,City of Battle Creek Precinct 9,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 10,U.S. House,4,REP,Bill Huizenga,71
+Calhoun,City of Battle Creek Precinct 10,U.S. House,4,REP,Brendan Muir,27
+Calhoun,City of Battle Creek Precinct 10,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 11,U.S. House,4,REP,Bill Huizenga,131
+Calhoun,City of Battle Creek Precinct 11,U.S. House,4,REP,Brendan Muir,34
+Calhoun,City of Battle Creek Precinct 11,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 12,U.S. House,4,REP,Bill Huizenga,10
+Calhoun,City of Battle Creek Precinct 12,U.S. House,4,REP,Brendan Muir,4
+Calhoun,City of Battle Creek Precinct 12,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 13,U.S. House,4,REP,Bill Huizenga,27
+Calhoun,City of Battle Creek Precinct 13,U.S. House,4,REP,Brendan Muir,13
+Calhoun,City of Battle Creek Precinct 13,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 15,U.S. House,4,REP,Bill Huizenga,132
+Calhoun,City of Battle Creek Precinct 15,U.S. House,4,REP,Brendan Muir,31
+Calhoun,City of Battle Creek Precinct 15,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 17,U.S. House,4,REP,Bill Huizenga,59
+Calhoun,City of Battle Creek Precinct 17,U.S. House,4,REP,Brendan Muir,23
+Calhoun,City of Battle Creek Precinct 17,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 18,U.S. House,4,REP,Bill Huizenga,28
+Calhoun,City of Battle Creek Precinct 18,U.S. House,4,REP,Brendan Muir,6
+Calhoun,City of Battle Creek Precinct 18,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 19,U.S. House,4,REP,Bill Huizenga,26
+Calhoun,City of Battle Creek Precinct 19,U.S. House,4,REP,Brendan Muir,8
+Calhoun,City of Battle Creek Precinct 19,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 20,U.S. House,4,REP,Bill Huizenga,199
+Calhoun,City of Battle Creek Precinct 20,U.S. House,4,REP,Brendan Muir,38
+Calhoun,City of Battle Creek Precinct 20,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 21,U.S. House,4,REP,Bill Huizenga,23
+Calhoun,City of Battle Creek Precinct 21,U.S. House,4,REP,Brendan Muir,15
+Calhoun,City of Battle Creek Precinct 21,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 22,U.S. House,4,REP,Bill Huizenga,85
+Calhoun,City of Battle Creek Precinct 22,U.S. House,4,REP,Brendan Muir,20
+Calhoun,City of Battle Creek Precinct 22,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Battle Creek Precinct 23,U.S. House,4,REP,Bill Huizenga,113
+Calhoun,City of Battle Creek Precinct 23,U.S. House,4,REP,Brendan Muir,27
+Calhoun,City of Battle Creek Precinct 23,U.S. House,4,REP,Write-ins,0
+Calhoun,City of Springfield Precinct 1,U.S. House,4,REP,Bill Huizenga,157
+Calhoun,City of Springfield Precinct 1,U.S. House,4,REP,Brendan Muir,44
+Calhoun,City of Springfield Precinct 1,U.S. House,4,REP,Write-ins,1
+Calhoun,Bedford Charter Township Precinct 1,U.S. House,4,REP,Bill Huizenga,311
+Calhoun,Bedford Charter Township Precinct 1,U.S. House,4,REP,Brendan Muir,82
+Calhoun,Bedford Charter Township Precinct 1,U.S. House,4,REP,Write-ins,1
+Calhoun,Bedford Charter Township Precinct 2,U.S. House,4,REP,Bill Huizenga,183
+Calhoun,Bedford Charter Township Precinct 2,U.S. House,4,REP,Brendan Muir,65
+Calhoun,Bedford Charter Township Precinct 2,U.S. House,4,REP,Write-ins,0
+Calhoun,Bedford Charter Township Precinct 3,U.S. House,4,REP,Bill Huizenga,207
+Calhoun,Bedford Charter Township Precinct 3,U.S. House,4,REP,Brendan Muir,59
+Calhoun,Bedford Charter Township Precinct 3,U.S. House,4,REP,Write-ins,0
+Calhoun,Emmett Charter Township Precinct 1,U.S. House,4,REP,Bill Huizenga,125
+Calhoun,Emmett Charter Township Precinct 1,U.S. House,4,REP,Brendan Muir,40
+Calhoun,Emmett Charter Township Precinct 1,U.S. House,4,REP,Write-ins,0
+Calhoun,Emmett Charter Township Precinct 2,U.S. House,4,REP,Bill Huizenga,319
+Calhoun,Emmett Charter Township Precinct 2,U.S. House,4,REP,Brendan Muir,87
+Calhoun,Emmett Charter Township Precinct 2,U.S. House,4,REP,Write-ins,1
+Calhoun,Emmett Charter Township Precinct 3,U.S. House,4,REP,Bill Huizenga,176
+Calhoun,Emmett Charter Township Precinct 3,U.S. House,4,REP,Brendan Muir,55
+Calhoun,Emmett Charter Township Precinct 3,U.S. House,4,REP,Write-ins,0
+Calhoun,Emmett Charter Township Precinct 4,U.S. House,4,REP,Bill Huizenga,423
+Calhoun,Emmett Charter Township Precinct 4,U.S. House,4,REP,Brendan Muir,107
+Calhoun,Emmett Charter Township Precinct 4,U.S. House,4,REP,Write-ins,0
+Calhoun,Pennfield Charter Township Precinct 1,U.S. House,4,REP,Bill Huizenga,252
+Calhoun,Pennfield Charter Township Precinct 1,U.S. House,4,REP,Brendan Muir,73
+Calhoun,Pennfield Charter Township Precinct 1,U.S. House,4,REP,Write-ins,1
+Calhoun,Pennfield Charter Township Precinct 2,U.S. House,4,REP,Bill Huizenga,103
+Calhoun,Pennfield Charter Township Precinct 2,U.S. House,4,REP,Brendan Muir,34
+Calhoun,Pennfield Charter Township Precinct 2,U.S. House,4,REP,Write-ins,1
+Calhoun,Pennfield Charter Township Precinct 3,U.S. House,4,REP,Bill Huizenga,262
+Calhoun,Pennfield Charter Township Precinct 3,U.S. House,4,REP,Brendan Muir,68
+Calhoun,Pennfield Charter Township Precinct 3,U.S. House,4,REP,Write-ins,1
+Calhoun,City of Albion Precinct 1,U.S. House,5,REP,Tim Walberg,29
+Calhoun,City of Albion Precinct 1,U.S. House,5,REP,Write-ins,1
+Calhoun,City of Albion Precinct 2,U.S. House,5,REP,Tim Walberg,15
+Calhoun,City of Albion Precinct 2,U.S. House,5,REP,Write-ins,0
+Calhoun,City of Albion Precinct 3,U.S. House,5,REP,Tim Walberg,62
+Calhoun,City of Albion Precinct 3,U.S. House,5,REP,Write-ins,0
+Calhoun,City of Albion Precinct 4,U.S. House,5,REP,Tim Walberg,54
+Calhoun,City of Albion Precinct 4,U.S. House,5,REP,Write-ins,1
+Calhoun,City of Albion Precinct 5,U.S. House,5,REP,Tim Walberg,58
+Calhoun,City of Albion Precinct 5,U.S. House,5,REP,Write-ins,0
+Calhoun,City of Albion Precinct 6,U.S. House,5,REP,Tim Walberg,42
+Calhoun,City of Albion Precinct 6,U.S. House,5,REP,Write-ins,2
+Calhoun,City of Marshall Precinct 1,U.S. House,5,REP,Tim Walberg,263
+Calhoun,City of Marshall Precinct 1,U.S. House,5,REP,Write-ins,5
+Calhoun,City of Marshall Precinct 2,U.S. House,5,REP,Tim Walberg,321
+Calhoun,City of Marshall Precinct 2,U.S. House,5,REP,Write-ins,2
+Calhoun,Albion Township Precinct 1,U.S. House,5,REP,Tim Walberg,125
+Calhoun,Albion Township Precinct 1,U.S. House,5,REP,Write-ins,2
+Calhoun,Athens Township Precinct 1,U.S. House,5,REP,Tim Walberg,204
+Calhoun,Athens Township Precinct 1,U.S. House,5,REP,Write-ins,3
+Calhoun,Burlington Township Precinct 1,U.S. House,5,REP,Tim Walberg,188
+Calhoun,Burlington Township Precinct 1,U.S. House,5,REP,Write-ins,1
+Calhoun,Clarence Township Precinct 1,U.S. House,5,REP,Tim Walberg,361
+Calhoun,Clarence Township Precinct 1,U.S. House,5,REP,Write-ins,1
+Calhoun,Clarendon Township Precinct 1,U.S. House,5,REP,Tim Walberg,109
+Calhoun,Clarendon Township Precinct 1,U.S. House,5,REP,Write-ins,1
+Calhoun,Convis Township Precinct 1,U.S. House,5,REP,Tim Walberg,141
+Calhoun,Convis Township Precinct 1,U.S. House,5,REP,Write-ins,2
+Calhoun,Eckford Township Precinct 1,U.S. House,5,REP,Tim Walberg,265
+Calhoun,Eckford Township Precinct 1,U.S. House,5,REP,Write-ins,1
+Calhoun,Fredonia Township Precinct 1,U.S. House,5,REP,Tim Walberg,237
+Calhoun,Fredonia Township Precinct 1,U.S. House,5,REP,Write-ins,0
+Calhoun,Homer Township Precinct 1,U.S. House,5,REP,Tim Walberg,170
+Calhoun,Homer Township Precinct 1,U.S. House,5,REP,Write-ins,0
+Calhoun,Lee Township Precinct 1,U.S. House,5,REP,Tim Walberg,137
+Calhoun,Lee Township Precinct 1,U.S. House,5,REP,Write-ins,0
+Calhoun,Leroy Township Precinct 1,U.S. House,5,REP,Tim Walberg,489
+Calhoun,Leroy Township Precinct 1,U.S. House,5,REP,Write-ins,0
+Calhoun,Marengo Township Precinct 1,U.S. House,5,REP,Tim Walberg,235
+Calhoun,Marengo Township Precinct 1,U.S. House,5,REP,Write-ins,1
+Calhoun,Marshall Township Precinct 1,U.S. House,5,REP,Tim Walberg,519
+Calhoun,Marshall Township Precinct 1,U.S. House,5,REP,Write-ins,11
+Calhoun,Newton Township Precinct 1,U.S. House,5,REP,Tim Walberg,373
+Calhoun,Newton Township Precinct 1,U.S. House,5,REP,Write-ins,2
+Calhoun,Sheridan Township Precinct 1,U.S. House,5,REP,Tim Walberg,151
+Calhoun,Sheridan Township Precinct 1,U.S. House,5,REP,Write-ins,3
+Calhoun,Tekonsha Township Precinct 1,U.S. House,5,REP,Tim Walberg,151
+Calhoun,Tekonsha Township Precinct 1,U.S. House,5,REP,Write-ins,1
