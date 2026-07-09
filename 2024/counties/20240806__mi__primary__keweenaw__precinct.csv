@@ -1,0 +1,116 @@
+county,precinct,office,district,party,candidate,votes
+Keweenaw,ALLOUEZ,Registered Voters,,,,1405
+Keweenaw,ALLOUEZ,Ballots Cast,,,,331
+Keweenaw,EAGLE HARBOR,Registered Voters,,,,279
+Keweenaw,EAGLE HARBOR,Ballots Cast,,,,113
+Keweenaw,GRANT,Registered Voters,,,,257
+Keweenaw,GRANT,Ballots Cast,,,,108
+Keweenaw,HOUGHTON,Registered Voters,,,,82
+Keweenaw,HOUGHTON,Ballots Cast,,,,32
+Keweenaw,SHERMAN,Registered Voters,,,,105
+Keweenaw,SHERMAN,Ballots Cast,,,,43
+Keweenaw,ALLOUEZ,U.S. Senate,,D,Hill Harper,20
+Keweenaw,EAGLE HARBOR,U.S. Senate,,D,Hill Harper,5
+Keweenaw,GRANT,U.S. Senate,,D,Hill Harper,6
+Keweenaw,HOUGHTON,U.S. Senate,,D,Hill Harper,1
+Keweenaw,SHERMAN,U.S. Senate,,D,Hill Harper,9
+Keweenaw,ALLOUEZ,U.S. Senate,,D,Elissa Slotkin,108
+Keweenaw,EAGLE HARBOR,U.S. Senate,,D,Elissa Slotkin,49
+Keweenaw,GRANT,U.S. Senate,,D,Elissa Slotkin,52
+Keweenaw,HOUGHTON,U.S. Senate,,D,Elissa Slotkin,12
+Keweenaw,SHERMAN,U.S. Senate,,D,Elissa Slotkin,15
+Keweenaw,ALLOUEZ,U.S. Senate,,R,Justin Amash,26
+Keweenaw,EAGLE HARBOR,U.S. Senate,,R,Justin Amash,8
+Keweenaw,GRANT,U.S. Senate,,R,Justin Amash,4
+Keweenaw,HOUGHTON,U.S. Senate,,R,Justin Amash,2
+Keweenaw,SHERMAN,U.S. Senate,,R,Justin Amash,0
+Keweenaw,ALLOUEZ,U.S. Senate,,R,Sherry O'Donnell,15
+Keweenaw,EAGLE HARBOR,U.S. Senate,,R,Sherry O'Donnell,7
+Keweenaw,GRANT,U.S. Senate,,R,Sherry O'Donnell,2
+Keweenaw,HOUGHTON,U.S. Senate,,R,Sherry O'Donnell,3
+Keweenaw,SHERMAN,U.S. Senate,,R,Sherry O'Donnell,2
+Keweenaw,ALLOUEZ,U.S. Senate,,R,Sandy Pensler,13
+Keweenaw,EAGLE HARBOR,U.S. Senate,,R,Sandy Pensler,3
+Keweenaw,GRANT,U.S. Senate,,R,Sandy Pensler,2
+Keweenaw,HOUGHTON,U.S. Senate,,R,Sandy Pensler,0
+Keweenaw,SHERMAN,U.S. Senate,,R,Sandy Pensler,1
+Keweenaw,ALLOUEZ,U.S. Senate,,R,Mike Rogers,99
+Keweenaw,EAGLE HARBOR,U.S. Senate,,R,Mike Rogers,22
+Keweenaw,GRANT,U.S. Senate,,R,Mike Rogers,14
+Keweenaw,HOUGHTON,U.S. Senate,,R,Mike Rogers,12
+Keweenaw,SHERMAN,U.S. Senate,,R,Mike Rogers,8
+Keweenaw,ALLOUEZ,U.S. House,1,D,Callie Barr,61
+Keweenaw,EAGLE HARBOR,U.S. House,1,D,Callie Barr,34
+Keweenaw,GRANT,U.S. House,1,D,Callie Barr,42
+Keweenaw,HOUGHTON,U.S. House,1,D,Callie Barr,6
+Keweenaw,SHERMAN,U.S. House,1,D,Callie Barr,17
+Keweenaw,ALLOUEZ,U.S. House,1,D,Bob Lorinser,69
+Keweenaw,EAGLE HARBOR,U.S. House,1,D,Bob Lorinser,23
+Keweenaw,GRANT,U.S. House,1,D,Bob Lorinser,17
+Keweenaw,HOUGHTON,U.S. House,1,D,Bob Lorinser,8
+Keweenaw,SHERMAN,U.S. House,1,D,Bob Lorinser,8
+Keweenaw,ALLOUEZ,U.S. House,1,R,Jack Bergman,151
+Keweenaw,EAGLE HARBOR,U.S. House,1,R,Jack Bergman,37
+Keweenaw,GRANT,U.S. House,1,R,Jack Bergman,26
+Keweenaw,HOUGHTON,U.S. House,1,R,Jack Bergman,18
+Keweenaw,SHERMAN,U.S. House,1,R,Jack Bergman,10
+Keweenaw,ALLOUEZ,U.S. House,1,R,Josh Saul,27
+Keweenaw,EAGLE HARBOR,U.S. House,1,R,Josh Saul,12
+Keweenaw,GRANT,U.S. House,1,R,Josh Saul,8
+Keweenaw,HOUGHTON,U.S. House,1,R,Josh Saul,0
+Keweenaw,SHERMAN,U.S. House,1,R,Josh Saul,4
+Keweenaw,ALLOUEZ,State House,110,D,Kim S. Corcoran,115
+Keweenaw,EAGLE HARBOR,State House,110,D,Kim S. Corcoran,54
+Keweenaw,GRANT,State House,110,D,Kim S. Corcoran,55
+Keweenaw,HOUGHTON,State House,110,D,Kim S. Corcoran,12
+Keweenaw,SHERMAN,State House,110,D,Kim S. Corcoran,20
+Keweenaw,ALLOUEZ,State House,110,R,Gregory Markkanen,162
+Keweenaw,EAGLE HARBOR,State House,110,R,Gregory Markkanen,40
+Keweenaw,GRANT,State House,110,R,Gregory Markkanen,32
+Keweenaw,HOUGHTON,State House,110,R,Gregory Markkanen,18
+Keweenaw,SHERMAN,State House,110,R,Gregory Markkanen,13
+Keweenaw,ALLOUEZ,County Prosecuting Attorney,,D,Charles Miller,118
+Keweenaw,EAGLE HARBOR,County Prosecuting Attorney,,D,Charles Miller,61
+Keweenaw,GRANT,County Prosecuting Attorney,,D,Charles Miller,58
+Keweenaw,HOUGHTON,County Prosecuting Attorney,,D,Charles Miller,13
+Keweenaw,SHERMAN,County Prosecuting Attorney,,D,Charles Miller,21
+Keweenaw,ALLOUEZ,County Sheriff,,R,Curt E. Pennala,167
+Keweenaw,EAGLE HARBOR,County Sheriff,,R,Curt E. Pennala,44
+Keweenaw,GRANT,County Sheriff,,R,Curt E. Pennala,33
+Keweenaw,HOUGHTON,County Sheriff,,R,Curt E. Pennala,17
+Keweenaw,SHERMAN,County Sheriff,,R,Curt E. Pennala,13
+Keweenaw,ALLOUEZ,County Clerk/Register of Deeds,,R,Julie A. Carlson,166
+Keweenaw,EAGLE HARBOR,County Clerk/Register of Deeds,,R,Julie A. Carlson,44
+Keweenaw,GRANT,County Clerk/Register of Deeds,,R,Julie A. Carlson,34
+Keweenaw,HOUGHTON,County Clerk/Register of Deeds,,R,Julie A. Carlson,17
+Keweenaw,SHERMAN,County Clerk/Register of Deeds,,R,Julie A. Carlson,13
+Keweenaw,ALLOUEZ,County Treasurer,,R,Eric Hermanson,163
+Keweenaw,EAGLE HARBOR,County Treasurer,,R,Eric Hermanson,40
+Keweenaw,GRANT,County Treasurer,,R,Eric Hermanson,35
+Keweenaw,HOUGHTON,County Treasurer,,R,Eric Hermanson,17
+Keweenaw,SHERMAN,County Treasurer,,R,Eric Hermanson,12
+Keweenaw,ALLOUEZ,County Road Commissioner,,R,Richard R. Olson,151
+Keweenaw,EAGLE HARBOR,County Road Commissioner,,R,Richard R. Olson,43
+Keweenaw,GRANT,County Road Commissioner,,R,Richard R. Olson,30
+Keweenaw,HOUGHTON,County Road Commissioner,,R,Richard R. Olson,16
+Keweenaw,SHERMAN,County Road Commissioner,,R,Richard R. Olson,13
+Keweenaw,ALLOUEZ,County Commissioner District 1,,D,Donald Piche,0
+Keweenaw,EAGLE HARBOR,County Commissioner District 1,,D,Donald Piche,13
+Keweenaw,GRANT,County Commissioner District 1,,D,Donald Piche,48
+Keweenaw,HOUGHTON,County Commissioner District 1,,D,Donald Piche,0
+Keweenaw,SHERMAN,County Commissioner District 1,,D,Donald Piche,14
+Keweenaw,ALLOUEZ,County Commissioner District 3,,R,Del Rajala,39
+Keweenaw,EAGLE HARBOR,County Commissioner District 3,,R,Del Rajala,0
+Keweenaw,GRANT,County Commissioner District 3,,R,Del Rajala,0
+Keweenaw,HOUGHTON,County Commissioner District 3,,R,Del Rajala,0
+Keweenaw,SHERMAN,County Commissioner District 3,,R,Del Rajala,0
+Keweenaw,ALLOUEZ,County Commissioner District 4,,D,Bob DeMarois,33
+Keweenaw,EAGLE HARBOR,County Commissioner District 4,,D,Bob DeMarois,0
+Keweenaw,GRANT,County Commissioner District 4,,D,Bob DeMarois,0
+Keweenaw,HOUGHTON,County Commissioner District 4,,D,Bob DeMarois,0
+Keweenaw,SHERMAN,County Commissioner District 4,,D,Bob DeMarois,0
+Keweenaw,ALLOUEZ,County Commissioner District 5,,R,Randy Eckloff,58
+Keweenaw,EAGLE HARBOR,County Commissioner District 5,,R,Randy Eckloff,0
+Keweenaw,GRANT,County Commissioner District 5,,R,Randy Eckloff,0
+Keweenaw,HOUGHTON,County Commissioner District 5,,R,Randy Eckloff,0
+Keweenaw,SHERMAN,County Commissioner District 5,,R,Randy Eckloff,0
