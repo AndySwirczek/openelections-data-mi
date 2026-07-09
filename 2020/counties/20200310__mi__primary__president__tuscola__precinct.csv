@@ -209,36 +209,36 @@ Tuscola,"Tuscola Township, Precinct 1",President,,Joe Walsh,REP,1
 Tuscola,"Tuscola Township, Precinct 1",President,,Bill Weld,REP,0
 Tuscola,"Tuscola Township, Precinct 1",President,,Uncommitted,REP,12
 Tuscola,"Tuscola Township, Precinct 1",President,,Unresolved Write-In,REP,0
-Tuscola,"Vassar Township, Precinct 1",Registered Voters,,,,1348
-Tuscola,"Vassar Township, Precinct 1",Ballots Cast Democratic Party,,,DEM,151
-Tuscola,"Vassar Township, Precinct 1",Undervotes,,,DEM,0
-Tuscola,"Vassar Township, Precinct 1",Overvotes,,,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Michael Bennet,DEM,1
-Tuscola,"Vassar Township, Precinct 1",President,,Joe Biden,DEM,80
-Tuscola,"Vassar Township, Precinct 1",President,,Michael R. Bloomberg,DEM,3
-Tuscola,"Vassar Township, Precinct 1",President,,Cory Booker,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Pete Buttigieg,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Julian Castro,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,John Delaney,DEM,1
-Tuscola,"Vassar Township, Precinct 1",President,,Tulsi Gabbard,DEM,2
-Tuscola,"Vassar Township, Precinct 1",President,,Amy Klobuchar,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Bernie Sanders,DEM,61
-Tuscola,"Vassar Township, Precinct 1",President,,Joe Sestak,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Tom Steyer,DEM,1
-Tuscola,"Vassar Township, Precinct 1",President,,Elizabeth Warren,DEM,1
-Tuscola,"Vassar Township, Precinct 1",President,,Marianne Williamson,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Andrew Yang,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Uncommitted,DEM,1
-Tuscola,"Vassar Township, Precinct 1",President,,Unresolved Write-In,DEM,0
-Tuscola,"Vassar Township, Precinct 1",Ballots Cast Republican Party,,,REP,134
-Tuscola,"Vassar Township, Precinct 1",Undervotes,,,REP,0
-Tuscola,"Vassar Township, Precinct 1",Overvotes,,,REP,0
-Tuscola,"Vassar Township, Precinct 1",President,,Mark Sanford,REP,0
-Tuscola,"Vassar Township, Precinct 1",President,,Donald J. Trump,REP,129
-Tuscola,"Vassar Township, Precinct 1",President,,Joe Walsh,REP,0
-Tuscola,"Vassar Township, Precinct 1",President,,Bill Weld,REP,0
-Tuscola,"Vassar Township, Precinct 1",President,,Uncommitted,REP,5
-Tuscola,"Vassar Township, Precinct 1",President,,Unresolved Write-In,REP,0
+Tuscola,"Vassar Township, Precinct 1",Registered Voters,5,,,1348
+Tuscola,"Vassar Township, Precinct 1",Ballots Cast Democratic Party,5,,DEM,151
+Tuscola,"Vassar Township, Precinct 1",Undervotes,5,,DEM,0
+Tuscola,"Vassar Township, Precinct 1",Overvotes,5,,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,5,Michael Bennet,DEM,1
+Tuscola,"Vassar Township, Precinct 1",President,5,Joe Biden,DEM,80
+Tuscola,"Vassar Township, Precinct 1",President,5,Michael R. Bloomberg,DEM,3
+Tuscola,"Vassar Township, Precinct 1",President,5,Cory Booker,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,5,Pete Buttigieg,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,5,Julian Castro,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,5,John Delaney,DEM,1
+Tuscola,"Vassar Township, Precinct 1",President,5,Tulsi Gabbard,DEM,2
+Tuscola,"Vassar Township, Precinct 1",President,5,Amy Klobuchar,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,5,Bernie Sanders,DEM,61
+Tuscola,"Vassar Township, Precinct 1",President,5,Joe Sestak,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,5,Tom Steyer,DEM,1
+Tuscola,"Vassar Township, Precinct 1",President,5,Elizabeth Warren,DEM,1
+Tuscola,"Vassar Township, Precinct 1",President,5,Marianne Williamson,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,5,Andrew Yang,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,5,Uncommitted,DEM,1
+Tuscola,"Vassar Township, Precinct 1",President,5,Unresolved Write-In,DEM,0
+Tuscola,"Vassar Township, Precinct 1",Ballots Cast Republican Party,5,,REP,134
+Tuscola,"Vassar Township, Precinct 1",Undervotes,5,,REP,0
+Tuscola,"Vassar Township, Precinct 1",Overvotes,5,,REP,0
+Tuscola,"Vassar Township, Precinct 1",President,5,Mark Sanford,REP,0
+Tuscola,"Vassar Township, Precinct 1",President,5,Donald J. Trump,REP,129
+Tuscola,"Vassar Township, Precinct 1",President,5,Joe Walsh,REP,0
+Tuscola,"Vassar Township, Precinct 1",President,5,Bill Weld,REP,0
+Tuscola,"Vassar Township, Precinct 1",President,5,Uncommitted,REP,5
+Tuscola,"Vassar Township, Precinct 1",President,5,Unresolved Write-In,REP,0
 Tuscola,"City of Vassar, Precinct 1",Registered Voters,,,,1927
 Tuscola,"City of Vassar, Precinct 1",Ballots Cast Democratic Party,,,DEM,232
 Tuscola,"City of Vassar, Precinct 1",Undervotes,,,DEM,0
@@ -719,36 +719,36 @@ Tuscola,"Novesta Township, Precinct 1",President,,Joe Walsh,REP,0
 Tuscola,"Novesta Township, Precinct 1",President,,Bill Weld,REP,0
 Tuscola,"Novesta Township, Precinct 1",President,,Uncommitted,REP,8
 Tuscola,"Novesta Township, Precinct 1",President,,Unresolved Write-In,REP,0
-Tuscola,"Vassar Township, Precinct 1",Registered Voters,,,,1580
-Tuscola,"Vassar Township, Precinct 1",Ballots Cast Democratic Party,,,DEM,144
-Tuscola,"Vassar Township, Precinct 1",Undervotes,,,DEM,0
-Tuscola,"Vassar Township, Precinct 1",Overvotes,,,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Michael Bennet,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Joe Biden,DEM,81
-Tuscola,"Vassar Township, Precinct 1",President,,Michael R. Bloomberg,DEM,7
-Tuscola,"Vassar Township, Precinct 1",President,,Cory Booker,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Pete Buttigieg,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Julian Castro,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,John Delaney,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Tulsi Gabbard,DEM,2
-Tuscola,"Vassar Township, Precinct 1",President,,Amy Klobuchar,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Bernie Sanders,DEM,53
-Tuscola,"Vassar Township, Precinct 1",President,,Joe Sestak,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Tom Steyer,DEM,1
-Tuscola,"Vassar Township, Precinct 1",President,,Elizabeth Warren,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Marianne Williamson,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Andrew Yang,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Uncommitted,DEM,0
-Tuscola,"Vassar Township, Precinct 1",President,,Unresolved Write-In,DEM,0
-Tuscola,"Vassar Township, Precinct 1",Ballots Cast Republican Party,,,REP,113
-Tuscola,"Vassar Township, Precinct 1",Undervotes,,,REP,0
-Tuscola,"Vassar Township, Precinct 1",Overvotes,,,REP,0
-Tuscola,"Vassar Township, Precinct 1",President,,Mark Sanford,REP,0
-Tuscola,"Vassar Township, Precinct 1",President,,Donald J. Trump,REP,113
-Tuscola,"Vassar Township, Precinct 1",President,,Joe Walsh,REP,0
-Tuscola,"Vassar Township, Precinct 1",President,,Bill Weld,REP,0
-Tuscola,"Vassar Township, Precinct 1",President,,Uncommitted,REP,0
-Tuscola,"Vassar Township, Precinct 1",President,,Unresolved Write-In,REP,0
+Tuscola,"Vassar Township, Precinct 1",Registered Voters,10,,,1580
+Tuscola,"Vassar Township, Precinct 1",Ballots Cast Democratic Party,10,,DEM,144
+Tuscola,"Vassar Township, Precinct 1",Undervotes,10,,DEM,0
+Tuscola,"Vassar Township, Precinct 1",Overvotes,10,,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Michael Bennet,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Joe Biden,DEM,81
+Tuscola,"Vassar Township, Precinct 1",President,10,Michael R. Bloomberg,DEM,7
+Tuscola,"Vassar Township, Precinct 1",President,10,Cory Booker,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Pete Buttigieg,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Julian Castro,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,10,John Delaney,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Tulsi Gabbard,DEM,2
+Tuscola,"Vassar Township, Precinct 1",President,10,Amy Klobuchar,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Bernie Sanders,DEM,53
+Tuscola,"Vassar Township, Precinct 1",President,10,Joe Sestak,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Tom Steyer,DEM,1
+Tuscola,"Vassar Township, Precinct 1",President,10,Elizabeth Warren,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Marianne Williamson,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Andrew Yang,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Uncommitted,DEM,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Unresolved Write-In,DEM,0
+Tuscola,"Vassar Township, Precinct 1",Ballots Cast Republican Party,10,,REP,113
+Tuscola,"Vassar Township, Precinct 1",Undervotes,10,,REP,0
+Tuscola,"Vassar Township, Precinct 1",Overvotes,10,,REP,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Mark Sanford,REP,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Donald J. Trump,REP,113
+Tuscola,"Vassar Township, Precinct 1",President,10,Joe Walsh,REP,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Bill Weld,REP,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Uncommitted,REP,0
+Tuscola,"Vassar Township, Precinct 1",President,10,Unresolved Write-In,REP,0
 Tuscola,"Watertown Township, Precinct 1",Registered Voters,,,,1715
 Tuscola,"Watertown Township, Precinct 1",Ballots Cast Democratic Party,,,DEM,240
 Tuscola,"Watertown Township, Precinct 1",Undervotes,,,DEM,1
