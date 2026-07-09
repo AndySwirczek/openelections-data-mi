@@ -1,13 +1,13 @@
 county,office,district,candidate,party,election_day,absentee,votes
 Kent,Registered Voters,,,,,,501117
 Kent,Ballots Cast,,,,149409,214286,363695
-Kent,Straight Party,,Republican Party,REP,51596,106518,54922
-Kent,Straight Party,,Democratic Party,DEM,71771,103259,31488
-Kent,Straight Party,,Libertarian Party,LIB,629,1512,883
-Kent,Straight Party,,Working Class Party,WCP,297,766,469
-Kent,Straight Party,,Green Party,GRN,229,483,254
-Kent,Straight Party,,US Taxpayers Party,UST,131,287,156
-Kent,Straight Party,,Natural Law Party,NLP,73,181,108
+Kent,Straight Party,,Republican Party,REP,51596,106518,158114
+Kent,Straight Party,,Democratic Party,DEM,71771,103259,175030
+Kent,Straight Party,,Libertarian Party,LIB,629,1512,2141
+Kent,Straight Party,,Working Class Party,WCP,297,766,1063
+Kent,Straight Party,,Green Party,GRN,229,483,712
+Kent,Straight Party,,US Taxpayers Party,UST,131,287,418
+Kent,Straight Party,,Natural Law Party,NLP,73,181,254
 Kent,President,,Joseph R. Biden w/ Kamala D. Harris,DEM,55382,132533,187915
 Kent,President,,Donald J. Trump w/ Michael R. Pence,REP,89379,76362,165741
 Kent,President,,Jo Jorgensen w/ Jeremy Cohen,LIB,2899,2596,5495
@@ -463,14 +463,14 @@ Wayne,Straight Party,,U.S. Taxpayers Party,UST,705,644,1349
 Wayne,Straight Party,,Working Class Party,WCP,1761,1262,3023
 Wayne,Straight Party,,Green Party,GRN,634,641,1275
 Wayne,Straight Party,,Natural Law Party,NLP,396,252,648
-Wayne,,,Unresolved Write-In,,0,0,0
+Wayne,Straight Party,,Unresolved Write-In,,0,0,0
 Wayne,President,,Joseph R. Biden Kamala D. Harris,DEM,171041,426129,597170
 Wayne,President,,Donald J. Trump Michael R. Pence,REP,133238,131315,264553
 Wayne,President,,Jo Jorgensen Jeremy Cohen,LIB,3305,3262,6567
 Wayne,President,,Don Blankenship William Mohr,UST,472,616,1088
 Wayne,President,,Howie Hawkins Angela Walker,GRN,1084,1379,2463
 Wayne,President,,Rocky De La Fuente Darcy Richardson,NLP,269,273,542
-Wayne,,,Unresolved Write-In,,996,639,1635
+Wayne,President,,Unresolved Write-In,,996,639,1635
 Wayne,U.S. Senate,,Gary Peters,DEM,167650,414717,582367
 Wayne,U.S. Senate,,John James,REP,129299,130847,260146
 Wayne,U.S. Senate,,Valerie L. Willis,UST,4352,6452,10804
@@ -514,8 +514,8 @@ Wayne,State House,4,Howard Weathington,REP,813,923,1736
 Wayne,State House,4,Linda Rayburn,WCP,472,551,1023
 Wayne,State House,4,MD Rabbi Alam,,151,204,355
 Wayne,State House,4,Unresolved Write-In,,48,38,86
-Wayne,State House,4,Abraham Aiyash,DEM,8580,19799,28379
-Wayne,State House,4,Unresolved Write-In,,189,136,325
+Wayne,State House Partial Term,4,Abraham Aiyash,DEM,8580,19799,28379
+Wayne,State House Partial Term,4,Unresolved Write-In,,189,136,325
 Wayne,State House,5,Cynthia A. Johnson,DEM,6996,11662,18658
 Wayne,State House,5,Harold M. Day,REP,779,538,1317
 Wayne,State House,5,Unresolved Write-In,,43,8,51
@@ -588,7 +588,7 @@ Washtenaw,President,,Jade Simmons,,6,4,10
 Washtenaw,President,,Kasey Wells,,0,0,0
 Washtenaw,President,,Tara Renee Hunter,,0,0,0
 Washtenaw,President,,Tom Hoefling,,0,0,0
-Washtenaw,,,Rejected write-ins,,201,312,513
+Washtenaw,President,,Rejected write-ins,,201,312,513
 Washtenaw,President,,Unassigned write-ins,,0,0,0
 Washtenaw,U.S. Senate,,Gary Peters,DEM,29825,120704,150529
 Washtenaw,U.S. Senate,,John James,REP,29376,31369,60745
@@ -1092,7 +1092,7 @@ Arenac,President,,Tom Hoefling,,,,0
 Arenac,President,,Tara Renee Hunter,,,,0
 Arenac,President,,Jade Simmons,,,,0
 Arenac,President,,Kaey Wills,,,,0
-Arenac,,,Unresolved Write-in,,,,8
+Arenac,President,,Unresolved Write-in,,,,8
 Arenac,U.S. Senate,,Gary Peters,DEM,,,3085
 Arenac,U.S. Senate,,John James,REP,,,5443
 Arenac,U.S. Senate,,Valerie L. Willis,UST,,,103
