@@ -1,0 +1,621 @@
+county,precinct,office,district,party,candidate,votes,election_day,av_counting_boards,early_votes
+Gogebic,"Bessemer Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,12,11,0,1
+Gogebic,"Bessemer Township, Precinct 1",Governor,,DEM,Jocelyn Benson,92,84,0,8
+Gogebic,"Bessemer Township, Precinct 1",Governor,,DEM,Total Votes,104,95,0,9
+Gogebic,"Bessemer Township, Precinct 1",Governor,,DEM,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",Governor,,DEM,Christopher Robert Swanson,38,37,0,1
+Gogebic,"City of Bessemer, Precinct 1",Governor,,DEM,Jocelyn Benson,208,198,0,10
+Gogebic,"City of Bessemer, Precinct 1",Governor,,DEM,Total Votes,246,235,0,11
+Gogebic,"City of Bessemer, Precinct 1",Governor,,DEM,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",Governor,,DEM,Christopher Robert Swanson,30,30,0,0
+Gogebic,"City of Ironwood, Precinct 1",Governor,,DEM,Jocelyn Benson,258,250,0,8
+Gogebic,"City of Ironwood, Precinct 1",Governor,,DEM,Total Votes,288,280,0,8
+Gogebic,"City of Ironwood, Precinct 1",Governor,,DEM,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",Governor,,DEM,Christopher Robert Swanson,27,26,0,1
+Gogebic,"City of Ironwood, Precinct 2",Governor,,DEM,Jocelyn Benson,279,277,0,2
+Gogebic,"City of Ironwood, Precinct 2",Governor,,DEM,Total Votes,306,303,0,3
+Gogebic,"City of Ironwood, Precinct 2",Governor,,DEM,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",Governor,,DEM,Christopher Robert Swanson,21,21,0,0
+Gogebic,"City of Wakefield, Precinct 1",Governor,,DEM,Jocelyn Benson,132,132,0,0
+Gogebic,"City of Wakefield, Precinct 1",Governor,,DEM,Total Votes,153,153,0,0
+Gogebic,"City of Wakefield, Precinct 1",Governor,,DEM,Write-In,1,1,0,0
+Gogebic,"City of Wakefield, Precinct 1",Governor,,DEM,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,11,10,0,1
+Gogebic,"Erwin Township, Precinct 1",Governor,,DEM,Jocelyn Benson,41,41,0,0
+Gogebic,"Erwin Township, Precinct 1",Governor,,DEM,Total Votes,52,51,0,1
+Gogebic,"Erwin Township, Precinct 1",Governor,,DEM,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,39,37,0,2
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,DEM,Jocelyn Benson,280,273,0,7
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,DEM,Total Votes,319,310,0,9
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,DEM,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,13,13,0,0
+Gogebic,"Marenisco Township, Precinct 1",Governor,,DEM,Jocelyn Benson,47,45,0,2
+Gogebic,"Marenisco Township, Precinct 1",Governor,,DEM,Total Votes,60,58,0,2
+Gogebic,"Marenisco Township, Precinct 1",Governor,,DEM,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,3,3,0,0
+Gogebic,"Wakefield Township, Precinct 1",Governor,,DEM,Jocelyn Benson,33,32,0,1
+Gogebic,"Wakefield Township, Precinct 1",Governor,,DEM,Total Votes,36,35,0,1
+Gogebic,"Wakefield Township, Precinct 1",Governor,,DEM,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,15,15,0,0
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,DEM,Jocelyn Benson,152,149,0,3
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,DEM,Total Votes,167,164,0,3
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,DEM,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,53,52,0,1
+Gogebic,"Bessemer Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,41,33,0,8
+Gogebic,"Bessemer Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,10,10,0,0
+Gogebic,"Bessemer Township, Precinct 1",U.S. Senate,,DEM,Total Votes,104,95,0,9
+Gogebic,"Bessemer Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,108,105,0,3
+Gogebic,"City of Bessemer, Precinct 1",U.S. Senate,,DEM,Haley Stevens,113,106,0,7
+Gogebic,"City of Bessemer, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,21,21,0,0
+Gogebic,"City of Bessemer, Precinct 1",U.S. Senate,,DEM,Total Votes,242,232,0,10
+Gogebic,"City of Bessemer, Precinct 1",U.S. Senate,,DEM,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,144,137,0,7
+Gogebic,"City of Ironwood, Precinct 1",U.S. Senate,,DEM,Haley Stevens,121,118,0,3
+Gogebic,"City of Ironwood, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,26,26,0,0
+Gogebic,"City of Ironwood, Precinct 1",U.S. Senate,,DEM,Total Votes,291,281,0,10
+Gogebic,"City of Ironwood, Precinct 1",U.S. Senate,,DEM,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",U.S. Senate,,DEM,Abdul El-Sayed,134,131,0,3
+Gogebic,"City of Ironwood, Precinct 2",U.S. Senate,,DEM,Haley Stevens,149,149,0,0
+Gogebic,"City of Ironwood, Precinct 2",U.S. Senate,,DEM,Mallory McMorrow,27,27,0,0
+Gogebic,"City of Ironwood, Precinct 2",U.S. Senate,,DEM,Total Votes,310,307,0,3
+Gogebic,"City of Ironwood, Precinct 2",U.S. Senate,,DEM,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,60,60,0,0
+Gogebic,"City of Wakefield, Precinct 1",U.S. Senate,,DEM,Haley Stevens,72,72,0,0
+Gogebic,"City of Wakefield, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,22,22,0,0
+Gogebic,"City of Wakefield, Precinct 1",U.S. Senate,,DEM,Total Votes,154,154,0,0
+Gogebic,"City of Wakefield, Precinct 1",U.S. Senate,,DEM,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,19,18,0,1
+Gogebic,"Erwin Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,32,32,0,0
+Gogebic,"Erwin Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,1,1,0,0
+Gogebic,"Erwin Township, Precinct 1",U.S. Senate,,DEM,Total Votes,52,51,0,1
+Gogebic,"Erwin Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,155,149,0,6
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,139,136,0,3
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,25,25,0,0
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. Senate,,DEM,Total Votes,319,310,0,9
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,20,20,0,0
+Gogebic,"Marenisco Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,34,32,0,2
+Gogebic,"Marenisco Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,6,6,0,0
+Gogebic,"Marenisco Township, Precinct 1",U.S. Senate,,DEM,Total Votes,60,58,0,2
+Gogebic,"Marenisco Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,10,10,0,0
+Gogebic,"Wakefield Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,22,22,0,0
+Gogebic,"Wakefield Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,3,2,0,1
+Gogebic,"Wakefield Township, Precinct 1",U.S. Senate,,DEM,Total Votes,35,34,0,1
+Gogebic,"Wakefield Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,78,77,0,1
+Gogebic,"Watersmeet Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,72,70,0,2
+Gogebic,"Watersmeet Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,16,16,0,0
+Gogebic,"Watersmeet Township, Precinct 1",U.S. Senate,,DEM,Total Votes,166,163,0,3
+Gogebic,"Watersmeet Township, Precinct 1",U.S. Senate,,DEM,Write-In,2,2,0,0
+Gogebic,"Watersmeet Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,DEM,Callie Barr,50,42,0,8
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,47,46,0,1
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,DEM,Total Votes,102,93,0,9
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,DEM,Wayne Stiles,5,5,0,0
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,DEM,Callie Barr,139,131,0,8
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,89,86,0,3
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,DEM,Total Votes,241,230,0,11
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,DEM,Wayne Stiles,13,13,0,0
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,DEM,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,DEM,Callie Barr,132,129,0,3
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,137,130,0,7
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,DEM,Total Votes,285,275,0,10
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,DEM,Wayne Stiles,16,16,0,0
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,DEM,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,DEM,Callie Barr,154,153,0,1
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,DEM,Kyle Blomquist,122,120,0,2
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,DEM,Total Votes,302,299,0,3
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,DEM,Wayne Stiles,26,26,0,0
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,DEM,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,DEM,Callie Barr,83,83,0,0
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,59,59,0,0
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,DEM,Total Votes,150,150,0,0
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,DEM,Wayne Stiles,8,8,0,0
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,DEM,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,DEM,Callie Barr,24,24,0,0
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,22,21,0,1
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,DEM,Total Votes,52,51,0,1
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,DEM,Wayne Stiles,6,6,0,0
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,DEM,Callie Barr,167,164,0,3
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,127,121,0,6
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,DEM,Total Votes,312,303,0,9
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,DEM,Wayne Stiles,18,18,0,0
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,DEM,Callie Barr,35,33,0,2
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,18,18,0,0
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,DEM,Total Votes,56,54,0,2
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,DEM,Wayne Stiles,3,3,0,0
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,DEM,Callie Barr,18,17,0,1
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,16,16,0,0
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,DEM,Total Votes,35,34,0,1
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,DEM,Wayne Stiles,1,1,0,0
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,DEM,Callie Barr,115,112,0,3
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,39,39,0,0
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,DEM,Total Votes,167,164,0,3
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,DEM,Write-In,2,2,0,0
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,DEM,Wayne Stiles,13,13,0,0
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,91,84,0,7
+Gogebic,"Bessemer Township, Precinct 1",State Senate,38,DEM,Total Votes,91,84,0,7
+Gogebic,"Bessemer Township, Precinct 1",State Senate,38,DEM,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,215,207,0,8
+Gogebic,"City of Bessemer, Precinct 1",State Senate,38,DEM,Total Votes,215,207,0,8
+Gogebic,"City of Bessemer, Precinct 1",State Senate,38,DEM,Write-In,1,1,0,0
+Gogebic,"City of Bessemer, Precinct 1",State Senate,38,DEM,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,255,246,0,9
+Gogebic,"City of Ironwood, Precinct 1",State Senate,38,DEM,Total Votes,255,246,0,9
+Gogebic,"City of Ironwood, Precinct 1",State Senate,38,DEM,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,DEM,Kelli J. Van Ginhoven,280,278,0,2
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,DEM,Total Votes,280,278,0,2
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,DEM,Write-In,1,1,0,0
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,DEM,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,143,143,0,0
+Gogebic,"City of Wakefield, Precinct 1",State Senate,38,DEM,Total Votes,143,143,0,0
+Gogebic,"City of Wakefield, Precinct 1",State Senate,38,DEM,Write-In,1,1,0,0
+Gogebic,"City of Wakefield, Precinct 1",State Senate,38,DEM,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,46,45,0,1
+Gogebic,"Erwin Township, Precinct 1",State Senate,38,DEM,Total Votes,46,45,0,1
+Gogebic,"Erwin Township, Precinct 1",State Senate,38,DEM,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,291,283,0,8
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,DEM,Total Votes,291,283,0,8
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,DEM,Write-In,1,1,0,0
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,DEM,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,51,51,0,0
+Gogebic,"Marenisco Township, Precinct 1",State Senate,38,DEM,Total Votes,51,51,0,0
+Gogebic,"Marenisco Township, Precinct 1",State Senate,38,DEM,Write-In,1,1,0,0
+Gogebic,"Marenisco Township, Precinct 1",State Senate,38,DEM,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,33,32,0,1
+Gogebic,"Wakefield Township, Precinct 1",State Senate,38,DEM,Total Votes,33,32,0,1
+Gogebic,"Wakefield Township, Precinct 1",State Senate,38,DEM,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,150,148,0,2
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,DEM,Total Votes,150,148,0,2
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,DEM,Write-In,2,2,0,0
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,DEM,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",State House,110,DEM,Brian Irizarry,88,83,0,5
+Gogebic,"Bessemer Township, Precinct 1",State House,110,DEM,Total Votes,88,83,0,5
+Gogebic,"Bessemer Township, Precinct 1",State House,110,DEM,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",State House,110,DEM,Brian Irizarry,209,201,0,8
+Gogebic,"City of Bessemer, Precinct 1",State House,110,DEM,Total Votes,209,201,0,8
+Gogebic,"City of Bessemer, Precinct 1",State House,110,DEM,Write-In,2,2,0,0
+Gogebic,"City of Bessemer, Precinct 1",State House,110,DEM,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",State House,110,DEM,Brian Irizarry,256,247,0,9
+Gogebic,"City of Ironwood, Precinct 1",State House,110,DEM,Total Votes,256,247,0,9
+Gogebic,"City of Ironwood, Precinct 1",State House,110,DEM,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",State House,110,DEM,Brian Irizarry,279,277,0,2
+Gogebic,"City of Ironwood, Precinct 2",State House,110,DEM,Total Votes,279,277,0,2
+Gogebic,"City of Ironwood, Precinct 2",State House,110,DEM,Write-In,3,3,0,0
+Gogebic,"City of Ironwood, Precinct 2",State House,110,DEM,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",State House,110,DEM,Brian Irizarry,140,140,0,0
+Gogebic,"City of Wakefield, Precinct 1",State House,110,DEM,Total Votes,140,140,0,0
+Gogebic,"City of Wakefield, Precinct 1",State House,110,DEM,Write-In,1,1,0,0
+Gogebic,"City of Wakefield, Precinct 1",State House,110,DEM,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",State House,110,DEM,Brian Irizarry,47,46,0,1
+Gogebic,"Erwin Township, Precinct 1",State House,110,DEM,Total Votes,47,46,0,1
+Gogebic,"Erwin Township, Precinct 1",State House,110,DEM,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",State House,110,DEM,Brian Irizarry,289,281,0,8
+Gogebic,"Ironwood Charter Township, Precinct 1",State House,110,DEM,Total Votes,289,281,0,8
+Gogebic,"Ironwood Charter Township, Precinct 1",State House,110,DEM,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",State House,110,DEM,Brian Irizarry,52,52,0,0
+Gogebic,"Marenisco Township, Precinct 1",State House,110,DEM,Total Votes,52,52,0,0
+Gogebic,"Marenisco Township, Precinct 1",State House,110,DEM,Write-In,1,1,0,0
+Gogebic,"Marenisco Township, Precinct 1",State House,110,DEM,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",State House,110,DEM,Brian Irizarry,31,30,0,1
+Gogebic,"Wakefield Township, Precinct 1",State House,110,DEM,Total Votes,31,30,0,1
+Gogebic,"Wakefield Township, Precinct 1",State House,110,DEM,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",State House,110,DEM,Brian Irizarry,144,142,0,2
+Gogebic,"Watersmeet Township, Precinct 1",State House,110,DEM,Total Votes,144,142,0,2
+Gogebic,"Watersmeet Township, Precinct 1",State House,110,DEM,Write-In,2,2,0,0
+Gogebic,"Watersmeet Township, Precinct 1",State House,110,DEM,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",Bessemer Township Supervisor Partial Term Ending 11/20/2028,,DEM,Dennis P. Aspinwall,97,91,0,6
+Gogebic,"Bessemer Township, Precinct 1",Bessemer Township Supervisor Partial Term Ending 11/20/2028,,DEM,Total Votes,97,91,0,6
+Gogebic,"Bessemer Township, Precinct 1",Bessemer Township Supervisor Partial Term Ending 11/20/2028,,DEM,Ballots Cast,216,200,0,16
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township Clerk Partial Term Ending 11/20/2028,,DEM,Write-In,33,32,0,1
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township Clerk Partial Term Ending 11/20/2028,,DEM,Ballots Cast,391,385,0,6
+Gogebic,"City of Bessemer, Precinct 1","City of Bessemer, Precinct 1 Delegate to County Convention",,DEM,Write-In,29,28,0,1
+Gogebic,"City of Bessemer, Precinct 1","City of Bessemer, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1","City of Ironwood, Precinct 1 Delegate to County Convention",,DEM,Write-In,27,26,0,1
+Gogebic,"City of Ironwood, Precinct 1","City of Ironwood, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2","City of Ironwood, Precinct 2 Delegate to County Convention",,DEM,Write-In,57,57,0,0
+Gogebic,"City of Ironwood, Precinct 2","City of Ironwood, Precinct 2 Delegate to County Convention",,DEM,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1","City of Wakefield, Precinct 1 Delegate to County Convention",,DEM,Write-In,21,21,0,0
+Gogebic,"City of Wakefield, Precinct 1","City of Wakefield, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,340,336,0,4
+Gogebic,"Bessemer Township, Precinct 1","Bessemer Township, Precinct 1 Delegate to County Convention",,DEM,Thomas Obradovich,96,88,0,8
+Gogebic,"Bessemer Township, Precinct 1","Bessemer Township, Precinct 1 Delegate to County Convention",,DEM,Total Votes,96,88,0,8
+Gogebic,"Bessemer Township, Precinct 1","Bessemer Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,216,200,0,16
+Gogebic,"Erwin Township, Precinct 1","Erwin Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,4,4,0,0
+Gogebic,"Erwin Township, Precinct 1","Erwin Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1","Ironwood Charter Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,42,41,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1","Ironwood Charter Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1","Marenisco Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,7,7,0,0
+Gogebic,"Marenisco Township, Precinct 1","Marenisco Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1","Wakefield Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,2,2,0,0
+Gogebic,"Wakefield Township, Precinct 1","Wakefield Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1","Watersmeet Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,24,23,0,1
+Gogebic,"Watersmeet Township, Precinct 1","Watersmeet Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",Governor,,REP,Aric Nesbitt,1,1,0,0
+Gogebic,"Bessemer Township, Precinct 1",Governor,,REP,John James,50,48,0,2
+Gogebic,"Bessemer Township, Precinct 1",Governor,,REP,Mike Cox,12,10,0,2
+Gogebic,"Bessemer Township, Precinct 1",Governor,,REP,Perry Johnson,37,35,0,2
+Gogebic,"Bessemer Township, Precinct 1",Governor,,REP,Total Votes,100,94,0,6
+Gogebic,"Bessemer Township, Precinct 1",Governor,,REP,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",Governor,,REP,John James,76,73,0,3
+Gogebic,"City of Bessemer, Precinct 1",Governor,,REP,Mike Cox,34,33,0,1
+Gogebic,"City of Bessemer, Precinct 1",Governor,,REP,Perry Johnson,64,63,0,1
+Gogebic,"City of Bessemer, Precinct 1",Governor,,REP,Total Votes,174,169,0,5
+Gogebic,"City of Bessemer, Precinct 1",Governor,,REP,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",Governor,,REP,Aric Nesbitt,2,2,0,0
+Gogebic,"City of Ironwood, Precinct 1",Governor,,REP,John James,62,62,0,0
+Gogebic,"City of Ironwood, Precinct 1",Governor,,REP,Mike Cox,11,11,0,0
+Gogebic,"City of Ironwood, Precinct 1",Governor,,REP,Perry Johnson,57,55,0,2
+Gogebic,"City of Ironwood, Precinct 1",Governor,,REP,Total Votes,132,130,0,2
+Gogebic,"City of Ironwood, Precinct 1",Governor,,REP,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",Governor,,REP,Aric Nesbitt,1,1,0,0
+Gogebic,"City of Ironwood, Precinct 2",Governor,,REP,John James,104,101,0,3
+Gogebic,"City of Ironwood, Precinct 2",Governor,,REP,Mike Cox,17,17,0,0
+Gogebic,"City of Ironwood, Precinct 2",Governor,,REP,Perry Johnson,89,88,0,1
+Gogebic,"City of Ironwood, Precinct 2",Governor,,REP,Total Votes,211,207,0,4
+Gogebic,"City of Ironwood, Precinct 2",Governor,,REP,Write-In,1,1,0,0
+Gogebic,"City of Ironwood, Precinct 2",Governor,,REP,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",Governor,,REP,Aric Nesbitt,6,6,0,0
+Gogebic,"City of Wakefield, Precinct 1",Governor,,REP,John James,71,70,0,1
+Gogebic,"City of Wakefield, Precinct 1",Governor,,REP,Mike Cox,19,18,0,1
+Gogebic,"City of Wakefield, Precinct 1",Governor,,REP,Perry Johnson,71,70,0,1
+Gogebic,"City of Wakefield, Precinct 1",Governor,,REP,Total Votes,167,164,0,3
+Gogebic,"City of Wakefield, Precinct 1",Governor,,REP,Write-In,1,1,0,0
+Gogebic,"City of Wakefield, Precinct 1",Governor,,REP,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",Governor,,REP,Aric Nesbitt,2,2,0,0
+Gogebic,"Erwin Township, Precinct 1",Governor,,REP,John James,24,24,0,0
+Gogebic,"Erwin Township, Precinct 1",Governor,,REP,Mike Cox,4,4,0,0
+Gogebic,"Erwin Township, Precinct 1",Governor,,REP,Perry Johnson,12,12,0,0
+Gogebic,"Erwin Township, Precinct 1",Governor,,REP,Total Votes,42,42,0,0
+Gogebic,"Erwin Township, Precinct 1",Governor,,REP,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,REP,Aric Nesbitt,5,5,0,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,REP,John James,166,161,0,5
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,REP,Mike Cox,23,23,0,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,REP,Perry Johnson,94,94,0,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,REP,Total Votes,288,283,0,5
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,REP,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",Governor,,REP,John James,54,53,0,1
+Gogebic,"Marenisco Township, Precinct 1",Governor,,REP,Mike Cox,8,8,0,0
+Gogebic,"Marenisco Township, Precinct 1",Governor,,REP,Perry Johnson,25,24,0,1
+Gogebic,"Marenisco Township, Precinct 1",Governor,,REP,Total Votes,87,85,0,2
+Gogebic,"Marenisco Township, Precinct 1",Governor,,REP,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",Governor,,REP,John James,16,16,0,0
+Gogebic,"Wakefield Township, Precinct 1",Governor,,REP,Mike Cox,6,6,0,0
+Gogebic,"Wakefield Township, Precinct 1",Governor,,REP,Perry Johnson,25,25,0,0
+Gogebic,"Wakefield Township, Precinct 1",Governor,,REP,Total Votes,47,47,0,0
+Gogebic,"Wakefield Township, Precinct 1",Governor,,REP,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,REP,Aric Nesbitt,2,2,0,0
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,REP,John James,124,121,0,3
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,REP,Mike Cox,21,21,0,0
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,REP,Perry Johnson,62,62,0,0
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,REP,Total Votes,209,206,0,3
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,REP,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,97,92,0,5
+Gogebic,"Bessemer Township, Precinct 1",U.S. Senate,,REP,Total Votes,97,92,0,5
+Gogebic,"Bessemer Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",U.S. Senate,,REP,Mike Rogers,165,160,0,5
+Gogebic,"City of Bessemer, Precinct 1",U.S. Senate,,REP,Total Votes,165,160,0,5
+Gogebic,"City of Bessemer, Precinct 1",U.S. Senate,,REP,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",U.S. Senate,,REP,Mike Rogers,126,123,0,3
+Gogebic,"City of Ironwood, Precinct 1",U.S. Senate,,REP,Total Votes,126,123,0,3
+Gogebic,"City of Ironwood, Precinct 1",U.S. Senate,,REP,Write-In,2,2,0,0
+Gogebic,"City of Ironwood, Precinct 1",U.S. Senate,,REP,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",U.S. Senate,,REP,Mike Rogers,208,204,0,4
+Gogebic,"City of Ironwood, Precinct 2",U.S. Senate,,REP,Total Votes,208,204,0,4
+Gogebic,"City of Ironwood, Precinct 2",U.S. Senate,,REP,Write-In,2,2,0,0
+Gogebic,"City of Ironwood, Precinct 2",U.S. Senate,,REP,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",U.S. Senate,,REP,Mike Rogers,163,162,0,1
+Gogebic,"City of Wakefield, Precinct 1",U.S. Senate,,REP,Total Votes,163,162,0,1
+Gogebic,"City of Wakefield, Precinct 1",U.S. Senate,,REP,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,39,39,0,0
+Gogebic,"Erwin Township, Precinct 1",U.S. Senate,,REP,Total Votes,39,39,0,0
+Gogebic,"Erwin Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,270,265,0,5
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. Senate,,REP,Total Votes,270,265,0,5
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,86,84,0,2
+Gogebic,"Marenisco Township, Precinct 1",U.S. Senate,,REP,Total Votes,86,84,0,2
+Gogebic,"Marenisco Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,47,47,0,0
+Gogebic,"Wakefield Township, Precinct 1",U.S. Senate,,REP,Total Votes,47,47,0,0
+Gogebic,"Wakefield Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,194,191,0,3
+Gogebic,"Watersmeet Township, Precinct 1",U.S. Senate,,REP,Total Votes,194,191,0,3
+Gogebic,"Watersmeet Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,REP,Jack Bergman,76,74,0,2
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,REP,Justin Michal,9,8,0,1
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,REP,Matthew DenOtter,16,13,0,3
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,REP,Total Votes,101,95,0,6
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,REP,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,REP,Jack Bergman,134,130,0,4
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,REP,Justin Michal,15,13,0,2
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,REP,Matthew DenOtter,26,25,0,1
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,REP,Total Votes,175,168,0,7
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,REP,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,REP,Jack Bergman,111,108,0,3
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,REP,Justin Michal,8,8,0,0
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,REP,Matthew DenOtter,13,13,0,0
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,REP,Total Votes,132,129,0,3
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,REP,Write-In,1,1,0,0
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,REP,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,REP,Jack Bergman,172,168,0,4
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,REP,Justin Michal,20,20,0,0
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,REP,Matthew DenOtter,21,21,0,0
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,REP,Total Votes,213,209,0,4
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,REP,Write-In,1,1,0,0
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,REP,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,REP,Jack Bergman,126,124,0,2
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,REP,Justin Michal,10,10,0,0
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,REP,Matthew DenOtter,31,31,0,0
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,REP,Total Votes,167,165,0,2
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,REP,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,REP,Jack Bergman,31,31,0,0
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,REP,Justin Michal,1,1,0,0
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,REP,Matthew DenOtter,9,9,0,0
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,REP,Total Votes,41,41,0,0
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,REP,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,REP,Jack Bergman,236,232,0,4
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,REP,Justin Michal,31,30,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,REP,Matthew DenOtter,21,21,0,0
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,REP,Total Votes,288,283,0,5
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,REP,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,REP,Jack Bergman,74,72,0,2
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,REP,Justin Michal,5,5,0,0
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,REP,Matthew DenOtter,7,7,0,0
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,REP,Total Votes,86,84,0,2
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,REP,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,REP,Jack Bergman,38,38,0,0
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,REP,Justin Michal,4,4,0,0
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,REP,Matthew DenOtter,5,5,0,0
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,REP,Total Votes,47,47,0,0
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,REP,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,REP,Jack Bergman,175,172,0,3
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,REP,Justin Michal,13,13,0,0
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,REP,Matthew DenOtter,27,27,0,0
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,REP,Total Votes,215,212,0,3
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,REP,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,41,40,0,1
+Gogebic,"Bessemer Township, Precinct 1",State Senate,38,REP,David Prestin,59,54,0,5
+Gogebic,"Bessemer Township, Precinct 1",State Senate,38,REP,Total Votes,100,94,0,6
+Gogebic,"Bessemer Township, Precinct 1",State Senate,38,REP,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,75,72,0,3
+Gogebic,"City of Bessemer, Precinct 1",State Senate,38,REP,David Prestin,100,97,0,3
+Gogebic,"City of Bessemer, Precinct 1",State Senate,38,REP,Total Votes,175,169,0,6
+Gogebic,"City of Bessemer, Precinct 1",State Senate,38,REP,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,55,55,0,0
+Gogebic,"City of Ironwood, Precinct 1",State Senate,38,REP,David Prestin,74,72,0,2
+Gogebic,"City of Ironwood, Precinct 1",State Senate,38,REP,Total Votes,129,127,0,2
+Gogebic,"City of Ironwood, Precinct 1",State Senate,38,REP,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,REP,Beau Matthew LaFave,117,113,0,4
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,REP,David Prestin,91,91,0,0
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,REP,Total Votes,208,204,0,4
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,REP,Write-In,2,2,0,0
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,REP,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,69,68,0,1
+Gogebic,"City of Wakefield, Precinct 1",State Senate,38,REP,David Prestin,97,96,0,1
+Gogebic,"City of Wakefield, Precinct 1",State Senate,38,REP,Total Votes,166,164,0,2
+Gogebic,"City of Wakefield, Precinct 1",State Senate,38,REP,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,15,15,0,0
+Gogebic,"Erwin Township, Precinct 1",State Senate,38,REP,David Prestin,27,27,0,0
+Gogebic,"Erwin Township, Precinct 1",State Senate,38,REP,Total Votes,42,42,0,0
+Gogebic,"Erwin Township, Precinct 1",State Senate,38,REP,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,139,135,0,4
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,REP,David Prestin,144,143,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,REP,Total Votes,283,278,0,5
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,REP,Write-In,1,1,0,0
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,REP,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,46,44,0,2
+Gogebic,"Marenisco Township, Precinct 1",State Senate,38,REP,David Prestin,36,36,0,0
+Gogebic,"Marenisco Township, Precinct 1",State Senate,38,REP,Total Votes,82,80,0,2
+Gogebic,"Marenisco Township, Precinct 1",State Senate,38,REP,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,21,21,0,0
+Gogebic,"Wakefield Township, Precinct 1",State Senate,38,REP,David Prestin,25,25,0,0
+Gogebic,"Wakefield Township, Precinct 1",State Senate,38,REP,Total Votes,46,46,0,0
+Gogebic,"Wakefield Township, Precinct 1",State Senate,38,REP,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,120,118,0,2
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,REP,David Prestin,80,80,0,0
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,REP,Total Votes,200,198,0,2
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,REP,Write-In,1,1,0,0
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,REP,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",State House,110,REP,Gregory Markkanen,97,92,0,5
+Gogebic,"Bessemer Township, Precinct 1",State House,110,REP,Total Votes,97,92,0,5
+Gogebic,"Bessemer Township, Precinct 1",State House,110,REP,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",State House,110,REP,Gregory Markkanen,167,161,0,6
+Gogebic,"City of Bessemer, Precinct 1",State House,110,REP,Total Votes,167,161,0,6
+Gogebic,"City of Bessemer, Precinct 1",State House,110,REP,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",State House,110,REP,Gregory Markkanen,123,120,0,3
+Gogebic,"City of Ironwood, Precinct 1",State House,110,REP,Total Votes,123,120,0,3
+Gogebic,"City of Ironwood, Precinct 1",State House,110,REP,Write-In,3,3,0,0
+Gogebic,"City of Ironwood, Precinct 1",State House,110,REP,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",State House,110,REP,Gregory Markkanen,201,197,0,4
+Gogebic,"City of Ironwood, Precinct 2",State House,110,REP,Total Votes,201,197,0,4
+Gogebic,"City of Ironwood, Precinct 2",State House,110,REP,Write-In,6,6,0,0
+Gogebic,"City of Ironwood, Precinct 2",State House,110,REP,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",State House,110,REP,Gregory Markkanen,167,165,0,2
+Gogebic,"City of Wakefield, Precinct 1",State House,110,REP,Total Votes,167,165,0,2
+Gogebic,"City of Wakefield, Precinct 1",State House,110,REP,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",State House,110,REP,Gregory Markkanen,40,40,0,0
+Gogebic,"Erwin Township, Precinct 1",State House,110,REP,Total Votes,40,40,0,0
+Gogebic,"Erwin Township, Precinct 1",State House,110,REP,Write-In,1,1,0,0
+Gogebic,"Erwin Township, Precinct 1",State House,110,REP,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",State House,110,REP,Gregory Markkanen,277,273,0,4
+Gogebic,"Ironwood Charter Township, Precinct 1",State House,110,REP,Total Votes,277,273,0,4
+Gogebic,"Ironwood Charter Township, Precinct 1",State House,110,REP,Write-In,1,1,0,0
+Gogebic,"Ironwood Charter Township, Precinct 1",State House,110,REP,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",State House,110,REP,Gregory Markkanen,83,81,0,2
+Gogebic,"Marenisco Township, Precinct 1",State House,110,REP,Total Votes,83,81,0,2
+Gogebic,"Marenisco Township, Precinct 1",State House,110,REP,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",State House,110,REP,Gregory Markkanen,46,46,0,0
+Gogebic,"Wakefield Township, Precinct 1",State House,110,REP,Total Votes,46,46,0,0
+Gogebic,"Wakefield Township, Precinct 1",State House,110,REP,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",State House,110,REP,Gregory Markkanen,182,179,0,3
+Gogebic,"Watersmeet Township, Precinct 1",State House,110,REP,Total Votes,182,179,0,3
+Gogebic,"Watersmeet Township, Precinct 1",State House,110,REP,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",Bessemer Township Supervisor Partial Term Ending 11/20/2028,,REP,Write-In,21,21,0,0
+Gogebic,"Bessemer Township, Precinct 1",Bessemer Township Supervisor Partial Term Ending 11/20/2028,,REP,Ballots Cast,216,200,0,16
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township Clerk Partial Term Ending 11/20/2028,,REP,Laura Mans,182,180,0,2
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township Clerk Partial Term Ending 11/20/2028,,REP,Total Votes,182,180,0,2
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township Clerk Partial Term Ending 11/20/2028,,REP,Write-In,3,2,0,1
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township Clerk Partial Term Ending 11/20/2028,,REP,Ballots Cast,391,385,0,6
+Gogebic,"City of Bessemer, Precinct 1","City of Bessemer, Precinct 1 Delegate to County Convention",,REP,Write-In,13,13,0,0
+Gogebic,"City of Bessemer, Precinct 1","City of Bessemer, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1","City of Ironwood, Precinct 1 Delegate to County Convention",,REP,Write-In,14,14,0,0
+Gogebic,"City of Ironwood, Precinct 1","City of Ironwood, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2","City of Ironwood, Precinct 2 Delegate to County Convention",,REP,Kenneth Jacobson,1,1,0,0
+Gogebic,"City of Ironwood, Precinct 2","City of Ironwood, Precinct 2 Delegate to County Convention",,REP,Total Votes,1,1,0,0
+Gogebic,"City of Ironwood, Precinct 2","City of Ironwood, Precinct 2 Delegate to County Convention",,REP,Write-In,23,23,0,0
+Gogebic,"City of Ironwood, Precinct 2","City of Ironwood, Precinct 2 Delegate to County Convention",,REP,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1","City of Wakefield, Precinct 1 Delegate to County Convention",,REP,Write-In,23,23,0,0
+Gogebic,"City of Wakefield, Precinct 1","City of Wakefield, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,340,336,0,4
+Gogebic,"Bessemer Township, Precinct 1","Bessemer Township, Precinct 1 Delegate to County Convention",,REP,Write-In,19,19,0,0
+Gogebic,"Bessemer Township, Precinct 1","Bessemer Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,216,200,0,16
+Gogebic,"Erwin Township, Precinct 1","Erwin Township, Precinct 1 Delegate to County Convention",,REP,Write-In,5,5,0,0
+Gogebic,"Erwin Township, Precinct 1","Erwin Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1","Ironwood Charter Township, Precinct 1 Delegate to County Convention",,REP,Write-In,24,23,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1","Ironwood Charter Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1","Marenisco Township, Precinct 1 Delegate to County Convention",,REP,Write-In,10,10,0,0
+Gogebic,"Marenisco Township, Precinct 1","Marenisco Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1","Wakefield Township, Precinct 1 Delegate to County Convention",,REP,Write-In,1,1,0,0
+Gogebic,"Wakefield Township, Precinct 1","Wakefield Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1","Watersmeet Township, Precinct 1 Delegate to County Convention",,REP,Write-In,29,29,0,0
+Gogebic,"Watersmeet Township, Precinct 1","Watersmeet Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,No,36,32,0,4
+Gogebic,"Bessemer Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Total Votes,205,191,0,14
+Gogebic,"Bessemer Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Yes,169,159,0,10
+Gogebic,"Bessemer Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,No,61,55,0,6
+Gogebic,"City of Bessemer, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Total Votes,422,402,0,20
+Gogebic,"City of Bessemer, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Yes,361,347,0,14
+Gogebic,"City of Bessemer, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,No,61,59,0,2
+Gogebic,"City of Ironwood, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Total Votes,415,403,0,12
+Gogebic,"City of Ironwood, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Yes,354,344,0,10
+Gogebic,"City of Ironwood, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",Gogebic County Animal Control Program Millage Proposal,,,No,93,92,0,1
+Gogebic,"City of Ironwood, Precinct 2",Gogebic County Animal Control Program Millage Proposal,,,Total Votes,529,522,0,7
+Gogebic,"City of Ironwood, Precinct 2",Gogebic County Animal Control Program Millage Proposal,,,Yes,436,430,0,6
+Gogebic,"City of Ironwood, Precinct 2",Gogebic County Animal Control Program Millage Proposal,,,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,No,61,60,0,1
+Gogebic,"City of Wakefield, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Total Votes,329,325,0,4
+Gogebic,"City of Wakefield, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Yes,268,265,0,3
+Gogebic,"City of Wakefield, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,No,20,20,0,0
+Gogebic,"Erwin Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Total Votes,92,91,0,1
+Gogebic,"Erwin Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Yes,72,71,0,1
+Gogebic,"Erwin Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,No,130,130,0,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Total Votes,596,582,0,14
+Gogebic,"Ironwood Charter Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Yes,466,452,0,14
+Gogebic,"Ironwood Charter Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,No,29,28,0,1
+Gogebic,"Marenisco Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Total Votes,140,136,0,4
+Gogebic,"Marenisco Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Yes,111,108,0,3
+Gogebic,"Marenisco Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,No,14,14,0,0
+Gogebic,"Wakefield Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Total Votes,82,81,0,1
+Gogebic,"Wakefield Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Yes,68,67,0,1
+Gogebic,"Wakefield Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,No,116,116,0,0
+Gogebic,"Watersmeet Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Total Votes,372,367,0,5
+Gogebic,"Watersmeet Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Yes,256,251,0,5
+Gogebic,"Watersmeet Township, Precinct 1",Gogebic County Animal Control Program Millage Proposal,,,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,No,33,29,0,4
+Gogebic,"Bessemer Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Total Votes,204,190,0,14
+Gogebic,"Bessemer Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Yes,171,161,0,10
+Gogebic,"Bessemer Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,No,73,66,0,7
+Gogebic,"City of Bessemer, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Total Votes,423,403,0,20
+Gogebic,"City of Bessemer, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Yes,350,337,0,13
+Gogebic,"City of Bessemer, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,No,79,75,0,4
+Gogebic,"City of Ironwood, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Total Votes,413,401,0,12
+Gogebic,"City of Ironwood, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Yes,334,326,0,8
+Gogebic,"City of Ironwood, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,No,126,124,0,2
+Gogebic,"City of Ironwood, Precinct 2",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Total Votes,531,524,0,7
+Gogebic,"City of Ironwood, Precinct 2",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Yes,405,400,0,5
+Gogebic,"City of Ironwood, Precinct 2",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,No,60,59,0,1
+Gogebic,"City of Wakefield, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Total Votes,329,325,0,4
+Gogebic,"City of Wakefield, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Yes,269,266,0,3
+Gogebic,"City of Wakefield, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,No,24,24,0,0
+Gogebic,"Erwin Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Total Votes,94,93,0,1
+Gogebic,"Erwin Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Yes,70,69,0,1
+Gogebic,"Erwin Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,No,156,153,0,3
+Gogebic,"Ironwood Charter Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Total Votes,597,583,0,14
+Gogebic,"Ironwood Charter Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Yes,441,430,0,11
+Gogebic,"Ironwood Charter Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,No,34,33,0,1
+Gogebic,"Marenisco Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Total Votes,140,136,0,4
+Gogebic,"Marenisco Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Yes,106,103,0,3
+Gogebic,"Marenisco Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,No,17,17,0,0
+Gogebic,"Wakefield Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Total Votes,82,81,0,1
+Gogebic,"Wakefield Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Yes,65,64,0,1
+Gogebic,"Wakefield Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,No,122,121,0,1
+Gogebic,"Watersmeet Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Total Votes,375,369,0,6
+Gogebic,"Watersmeet Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Yes,253,248,0,5
+Gogebic,"Watersmeet Township, Precinct 1",Gogebic County Medical Care Facility Building and Site Improvement Proposal,,,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,No,31,27,0,4
+Gogebic,"Bessemer Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Total Votes,204,190,0,14
+Gogebic,"Bessemer Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Yes,173,163,0,10
+Gogebic,"Bessemer Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Ballots Cast,216,200,0,16
+Gogebic,"City of Bessemer, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,No,73,66,0,7
+Gogebic,"City of Bessemer, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Total Votes,425,405,0,20
+Gogebic,"City of Bessemer, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Yes,352,339,0,13
+Gogebic,"City of Bessemer, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Ballots Cast,439,419,0,20
+Gogebic,"City of Ironwood, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,No,72,67,0,5
+Gogebic,"City of Ironwood, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Total Votes,414,402,0,12
+Gogebic,"City of Ironwood, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Yes,342,335,0,7
+Gogebic,"City of Ironwood, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Ballots Cast,440,427,0,13
+Gogebic,"City of Ironwood, Precinct 2",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,No,118,115,0,3
+Gogebic,"City of Ironwood, Precinct 2",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Total Votes,528,521,0,7
+Gogebic,"City of Ironwood, Precinct 2",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Yes,410,406,0,4
+Gogebic,"City of Ironwood, Precinct 2",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Ballots Cast,547,540,0,7
+Gogebic,"City of Wakefield, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,No,54,53,0,1
+Gogebic,"City of Wakefield, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Total Votes,331,327,0,4
+Gogebic,"City of Wakefield, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Yes,277,274,0,3
+Gogebic,"City of Wakefield, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Ballots Cast,340,336,0,4
+Gogebic,"Erwin Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,No,25,25,0,0
+Gogebic,"Erwin Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Total Votes,95,94,0,1
+Gogebic,"Erwin Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Yes,70,69,0,1
+Gogebic,"Erwin Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Ballots Cast,96,95,0,1
+Gogebic,"Ironwood Charter Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,No,145,142,0,3
+Gogebic,"Ironwood Charter Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Total Votes,601,587,0,14
+Gogebic,"Ironwood Charter Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Yes,456,445,0,11
+Gogebic,"Ironwood Charter Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Ballots Cast,626,612,0,14
+Gogebic,"Marenisco Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,No,29,27,0,2
+Gogebic,"Marenisco Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Total Votes,140,136,0,4
+Gogebic,"Marenisco Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Yes,111,109,0,2
+Gogebic,"Marenisco Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Ballots Cast,152,148,0,4
+Gogebic,"Wakefield Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,No,13,13,0,0
+Gogebic,"Wakefield Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Total Votes,82,81,0,1
+Gogebic,"Wakefield Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Yes,69,68,0,1
+Gogebic,"Wakefield Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Ballots Cast,84,83,0,1
+Gogebic,"Watersmeet Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,No,107,107,0,0
+Gogebic,"Watersmeet Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Total Votes,369,363,0,6
+Gogebic,"Watersmeet Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Yes,262,256,0,6
+Gogebic,"Watersmeet Township, Precinct 1",Gogebic County Maintenance of Effort Renewal Millage Proposal,,,Ballots Cast,391,385,0,6
+Gogebic,"Bessemer Township, Precinct 1",Bessemer Township Millage Proposal,,,No,43,40,0,3
+Gogebic,"Bessemer Township, Precinct 1",Bessemer Township Millage Proposal,,,Total Votes,193,180,0,13
+Gogebic,"Bessemer Township, Precinct 1",Bessemer Township Millage Proposal,,,Yes,150,140,0,10
+Gogebic,"Bessemer Township, Precinct 1",Bessemer Township Millage Proposal,,,Ballots Cast,216,200,0,16
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township Millage Proposal,,,No,138,138,0,0
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township Millage Proposal,,,Total Votes,356,352,0,4
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township Millage Proposal,,,Yes,218,214,0,4
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township Millage Proposal,,,Ballots Cast,391,385,0,6
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township School District Operating Millage Proposal,,,No,144,144,0,0
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township School District Operating Millage Proposal,,,Total Votes,361,357,0,4
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township School District Operating Millage Proposal,,,Yes,217,213,0,4
+Gogebic,"Watersmeet Township, Precinct 1",Watersmeet Township School District Operating Millage Proposal,,,Ballots Cast,391,385,0,6

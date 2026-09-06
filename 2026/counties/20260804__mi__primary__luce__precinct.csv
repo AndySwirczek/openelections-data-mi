@@ -1,0 +1,274 @@
+county,precinct,office,district,party,candidate,votes
+Luce,"Columbus Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,2
+Luce,"Columbus Township, Precinct 1",Governor,,DEM,Jocelyn Benson,8
+Luce,"Columbus Township, Precinct 1",Governor,,DEM,Ballots Cast,10
+Luce,"Lakefield Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,10
+Luce,"Lakefield Township, Precinct 1",Governor,,DEM,Jocelyn Benson,78
+Luce,"Lakefield Township, Precinct 1",Governor,,DEM,Ballots Cast,88
+Luce,"McMillan Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,28
+Luce,"McMillan Township, Precinct 1",Governor,,DEM,Jocelyn Benson,151
+Luce,"McMillan Township, Precinct 1",Governor,,DEM,Ballots Cast,179
+Luce,"Pentland Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,18
+Luce,"Pentland Township, Precinct 1",Governor,,DEM,Jocelyn Benson,106
+Luce,"Pentland Township, Precinct 1",Governor,,DEM,Write-In,1
+Luce,"Pentland Township, Precinct 1",Governor,,DEM,Ballots Cast,125
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,2
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,6
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,1
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,9
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,41
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,44
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,7
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,92
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,87
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,87
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,7
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,181
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,44
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,64
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,17
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,125
+Luce,"Columbus Township, Precinct 1",U.S. House,1,DEM,Callie Barr,3
+Luce,"Columbus Township, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,5
+Luce,"Columbus Township, Precinct 1",U.S. House,1,DEM,Wayne Stiles,1
+Luce,"Columbus Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,9
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,DEM,Callie Barr,37
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,44
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,DEM,Wayne Stiles,3
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,84
+Luce,"McMillan Township, Precinct 1",U.S. House,1,DEM,Callie Barr,88
+Luce,"McMillan Township, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,58
+Luce,"McMillan Township, Precinct 1",U.S. House,1,DEM,Wayne Stiles,23
+Luce,"McMillan Township, Precinct 1",U.S. House,1,DEM,Write-In,2
+Luce,"McMillan Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,171
+Luce,"Pentland Township, Precinct 1",U.S. House,1,DEM,Callie Barr,71
+Luce,"Pentland Township, Precinct 1",U.S. House,1,DEM,Kyle Blomquist,31
+Luce,"Pentland Township, Precinct 1",U.S. House,1,DEM,Wayne Stiles,13
+Luce,"Pentland Township, Precinct 1",U.S. House,1,DEM,Write-In,1
+Luce,"Pentland Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,116
+Luce,"Columbus Township, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,8
+Luce,"Columbus Township, Precinct 1",State Senate,38,DEM,Ballots Cast,8
+Luce,"Lakefield Township, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,81
+Luce,"Lakefield Township, Precinct 1",State Senate,38,DEM,Ballots Cast,81
+Luce,"McMillan Township, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,151
+Luce,"McMillan Township, Precinct 1",State Senate,38,DEM,Write-In,2
+Luce,"McMillan Township, Precinct 1",State Senate,38,DEM,Ballots Cast,153
+Luce,"Pentland Township, Precinct 1",State Senate,38,DEM,Kelli J. Van Ginhoven,108
+Luce,"Pentland Township, Precinct 1",State Senate,38,DEM,Write-In,2
+Luce,"Pentland Township, Precinct 1",State Senate,38,DEM,Ballots Cast,110
+Luce,"Columbus Township, Precinct 1",State House,108,DEM,Rachel M. Keys,8
+Luce,"Columbus Township, Precinct 1",State House,108,DEM,Ballots Cast,8
+Luce,"Lakefield Township, Precinct 1",State House,108,DEM,Rachel M. Keys,79
+Luce,"Lakefield Township, Precinct 1",State House,108,DEM,Ballots Cast,79
+Luce,"McMillan Township, Precinct 1",State House,108,DEM,Rachel M. Keys,149
+Luce,"McMillan Township, Precinct 1",State House,108,DEM,Write-In,3
+Luce,"McMillan Township, Precinct 1",State House,108,DEM,Ballots Cast,152
+Luce,"Pentland Township, Precinct 1",State House,108,DEM,Rachel M. Keys,107
+Luce,"Pentland Township, Precinct 1",State House,108,DEM,Write-In,1
+Luce,"Pentland Township, Precinct 1",State House,108,DEM,Ballots Cast,108
+Luce,"Columbus Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,DEM,Lauren Dye Clark,8
+Luce,"Columbus Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,DEM,Ballots Cast,8
+Luce,"Lakefield Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,DEM,Lauren Dye Clark,77
+Luce,"Lakefield Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,DEM,Ballots Cast,77
+Luce,"McMillan Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,DEM,Lauren Dye Clark,145
+Luce,"McMillan Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,DEM,Write-In,1
+Luce,"McMillan Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,DEM,Ballots Cast,146
+Luce,"Pentland Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,DEM,Lauren Dye Clark,112
+Luce,"Pentland Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,DEM,Ballots Cast,112
+Luce,"McMillan Township, Precinct 1",Luce County Commissioner 2nd District Partial Term Ending 12/31/2028,,DEM,Write-In,19
+Luce,"McMillan Township, Precinct 1",Luce County Commissioner 2nd District Partial Term Ending 12/31/2028,,DEM,Ballots Cast,19
+Luce,"Columbus Township, Precinct 1",Luce County Commissioner 5th District Partial Term Ending 12/31/2028,,DEM,Write-In,3
+Luce,"Columbus Township, Precinct 1",Luce County Commissioner 5th District Partial Term Ending 12/31/2028,,DEM,Ballots Cast,3
+Luce,"Lakefield Township, Precinct 1",Luce County Commissioner 5th District Partial Term Ending 12/31/2028,,DEM,Write-In,13
+Luce,"Lakefield Township, Precinct 1",Luce County Commissioner 5th District Partial Term Ending 12/31/2028,,DEM,Ballots Cast,13
+Luce,"Columbus Township, Precinct 1",Township Clerk Partial Term Ending 11/20/2028 for Columbus Township,,DEM,Write-In,3
+Luce,"Columbus Township, Precinct 1",Township Clerk Partial Term Ending 11/20/2028 for Columbus Township,,DEM,Ballots Cast,3
+Luce,"Columbus Township, Precinct 1","Delegate to County Convention for Columbus Township, Precinct 1",,DEM,Write-In,3
+Luce,"Columbus Township, Precinct 1","Delegate to County Convention for Columbus Township, Precinct 1",,DEM,Ballots Cast,3
+Luce,"Lakefield Township, Precinct 1","Delegate to County Convention for Lakefield Township, Precinct 1",,DEM,Write-In,19
+Luce,"Lakefield Township, Precinct 1","Delegate to County Convention for Lakefield Township, Precinct 1",,DEM,Ballots Cast,19
+Luce,"McMillan Township, Precinct 1","Delegate to County Convention for McMillan Township, Precinct 1",,DEM,Write-In,38
+Luce,"McMillan Township, Precinct 1","Delegate to County Convention for McMillan Township, Precinct 1",,DEM,Ballots Cast,38
+Luce,"Pentland Township, Precinct 1","Delegate to County Convention for Pentland Township, Precinct 1",,DEM,Write-In,26
+Luce,"Pentland Township, Precinct 1","Delegate to County Convention for Pentland Township, Precinct 1",,DEM,Ballots Cast,26
+Luce,"Columbus Township, Precinct 1",Governor,,REP,John James,18
+Luce,"Columbus Township, Precinct 1",Governor,,REP,Mike Cox,2
+Luce,"Columbus Township, Precinct 1",Governor,,REP,Perry Johnson,10
+Luce,"Columbus Township, Precinct 1",Governor,,REP,Ballots Cast,30
+Luce,"Lakefield Township, Precinct 1",Governor,,REP,Aric Nesbitt,1
+Luce,"Lakefield Township, Precinct 1",Governor,,REP,John James,109
+Luce,"Lakefield Township, Precinct 1",Governor,,REP,Mike Cox,37
+Luce,"Lakefield Township, Precinct 1",Governor,,REP,Perry Johnson,69
+Luce,"Lakefield Township, Precinct 1",Governor,,REP,Ballots Cast,216
+Luce,"McMillan Township, Precinct 1",Governor,,REP,Aric Nesbitt,7
+Luce,"McMillan Township, Precinct 1",Governor,,REP,John James,128
+Luce,"McMillan Township, Precinct 1",Governor,,REP,Mike Cox,63
+Luce,"McMillan Township, Precinct 1",Governor,,REP,Perry Johnson,95
+Luce,"McMillan Township, Precinct 1",Governor,,REP,Write-In,2
+Luce,"McMillan Township, Precinct 1",Governor,,REP,Ballots Cast,295
+Luce,"Pentland Township, Precinct 1",Governor,,REP,Aric Nesbitt,4
+Luce,"Pentland Township, Precinct 1",Governor,,REP,John James,110
+Luce,"Pentland Township, Precinct 1",Governor,,REP,Mike Cox,39
+Luce,"Pentland Township, Precinct 1",Governor,,REP,Perry Johnson,78
+Luce,"Pentland Township, Precinct 1",Governor,,REP,Ballots Cast,231
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,27
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,27
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,206
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,206
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,276
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,277
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,215
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,215
+Luce,"Columbus Township, Precinct 1",U.S. House,1,REP,Jack Bergman,21
+Luce,"Columbus Township, Precinct 1",U.S. House,1,REP,Matthew DenOtter,9
+Luce,"Columbus Township, Precinct 1",U.S. House,1,REP,Ballots Cast,30
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,REP,Jack Bergman,171
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,REP,Justin Michal,16
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,REP,Matthew DenOtter,29
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,REP,Ballots Cast,216
+Luce,"McMillan Township, Precinct 1",U.S. House,1,REP,Jack Bergman,229
+Luce,"McMillan Township, Precinct 1",U.S. House,1,REP,Justin Michal,20
+Luce,"McMillan Township, Precinct 1",U.S. House,1,REP,Matthew DenOtter,42
+Luce,"McMillan Township, Precinct 1",U.S. House,1,REP,Ballots Cast,291
+Luce,"Pentland Township, Precinct 1",U.S. House,1,REP,Jack Bergman,186
+Luce,"Pentland Township, Precinct 1",U.S. House,1,REP,Justin Michal,7
+Luce,"Pentland Township, Precinct 1",U.S. House,1,REP,Matthew DenOtter,32
+Luce,"Pentland Township, Precinct 1",U.S. House,1,REP,Ballots Cast,225
+Luce,"Columbus Township, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,17
+Luce,"Columbus Township, Precinct 1",State Senate,38,REP,David Prestin,14
+Luce,"Columbus Township, Precinct 1",State Senate,38,REP,Ballots Cast,31
+Luce,"Lakefield Township, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,64
+Luce,"Lakefield Township, Precinct 1",State Senate,38,REP,David Prestin,143
+Luce,"Lakefield Township, Precinct 1",State Senate,38,REP,Write-In,1
+Luce,"Lakefield Township, Precinct 1",State Senate,38,REP,Ballots Cast,208
+Luce,"McMillan Township, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,70
+Luce,"McMillan Township, Precinct 1",State Senate,38,REP,David Prestin,216
+Luce,"McMillan Township, Precinct 1",State Senate,38,REP,Ballots Cast,286
+Luce,"Pentland Township, Precinct 1",State Senate,38,REP,Beau Matthew LaFave,67
+Luce,"Pentland Township, Precinct 1",State Senate,38,REP,David Prestin,160
+Luce,"Pentland Township, Precinct 1",State Senate,38,REP,Ballots Cast,227
+Luce,"Columbus Township, Precinct 1",State House,108,REP,Casey Hoffman,7
+Luce,"Columbus Township, Precinct 1",State House,108,REP,Christopher J. Reynolds,4
+Luce,"Columbus Township, Precinct 1",State House,108,REP,Daryl Schroeder,10
+Luce,"Columbus Township, Precinct 1",State House,108,REP,Kurt Perron,3
+Luce,"Columbus Township, Precinct 1",State House,108,REP,Larry Johnson,5
+Luce,"Columbus Township, Precinct 1",State House,108,REP,Ballots Cast,29
+Luce,"Lakefield Township, Precinct 1",State House,108,REP,Casey Hoffman,26
+Luce,"Lakefield Township, Precinct 1",State House,108,REP,Christopher J. Reynolds,9
+Luce,"Lakefield Township, Precinct 1",State House,108,REP,Daryl Schroeder,86
+Luce,"Lakefield Township, Precinct 1",State House,108,REP,Kurt Perron,15
+Luce,"Lakefield Township, Precinct 1",State House,108,REP,Larry Johnson,53
+Luce,"Lakefield Township, Precinct 1",State House,108,REP,Steven Viau,1
+Luce,"Lakefield Township, Precinct 1",State House,108,REP,Ballots Cast,190
+Luce,"McMillan Township, Precinct 1",State House,108,REP,Casey Hoffman,44
+Luce,"McMillan Township, Precinct 1",State House,108,REP,Christopher J. Reynolds,19
+Luce,"McMillan Township, Precinct 1",State House,108,REP,Daryl Schroeder,108
+Luce,"McMillan Township, Precinct 1",State House,108,REP,Kurt Perron,35
+Luce,"McMillan Township, Precinct 1",State House,108,REP,Larry Johnson,50
+Luce,"McMillan Township, Precinct 1",State House,108,REP,Steven Viau,5
+Luce,"McMillan Township, Precinct 1",State House,108,REP,Write-In,3
+Luce,"McMillan Township, Precinct 1",State House,108,REP,Ballots Cast,264
+Luce,"Pentland Township, Precinct 1",State House,108,REP,Casey Hoffman,29
+Luce,"Pentland Township, Precinct 1",State House,108,REP,Christopher J. Reynolds,34
+Luce,"Pentland Township, Precinct 1",State House,108,REP,Daryl Schroeder,104
+Luce,"Pentland Township, Precinct 1",State House,108,REP,Kurt Perron,12
+Luce,"Pentland Township, Precinct 1",State House,108,REP,Larry Johnson,31
+Luce,"Pentland Township, Precinct 1",State House,108,REP,Steven Viau,4
+Luce,"Pentland Township, Precinct 1",State House,108,REP,Ballots Cast,214
+Luce,"Columbus Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,REP,Write-In,3
+Luce,"Columbus Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,REP,Ballots Cast,3
+Luce,"Lakefield Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,REP,Write-In,37
+Luce,"Lakefield Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,REP,Ballots Cast,37
+Luce,"McMillan Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,REP,Write-In,31
+Luce,"McMillan Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,REP,Ballots Cast,31
+Luce,"Pentland Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,REP,Write-In,26
+Luce,"Pentland Township, Precinct 1",Luce County Prosecuting Attorney Partial Term Ending 12/31/2028,,REP,Ballots Cast,26
+Luce,"McMillan Township, Precinct 1",Luce County Commissioner 2nd District Partial Term Ending 12/31/2028,,REP,Write-In,25
+Luce,"McMillan Township, Precinct 1",Luce County Commissioner 2nd District Partial Term Ending 12/31/2028,,REP,Ballots Cast,25
+Luce,"Columbus Township, Precinct 1",Luce County Commissioner 5th District Partial Term Ending 12/31/2028,,REP,Write-In,3
+Luce,"Columbus Township, Precinct 1",Luce County Commissioner 5th District Partial Term Ending 12/31/2028,,REP,Ballots Cast,3
+Luce,"Lakefield Township, Precinct 1",Luce County Commissioner 5th District Partial Term Ending 12/31/2028,,REP,Write-In,44
+Luce,"Lakefield Township, Precinct 1",Luce County Commissioner 5th District Partial Term Ending 12/31/2028,,REP,Ballots Cast,44
+Luce,"Columbus Township, Precinct 1",Township Clerk Partial Term Ending 11/20/2028 for Columbus Township,,REP,Margaret E Nelson,30
+Luce,"Columbus Township, Precinct 1",Township Clerk Partial Term Ending 11/20/2028 for Columbus Township,,REP,Ballots Cast,30
+Luce,"Columbus Township, Precinct 1","Delegate to County Convention for Columbus Township, Precinct 1",,REP,Write-In,2
+Luce,"Columbus Township, Precinct 1","Delegate to County Convention for Columbus Township, Precinct 1",,REP,Ballots Cast,2
+Luce,"Lakefield Township, Precinct 1","Delegate to County Convention for Lakefield Township, Precinct 1",,REP,Write-In,44
+Luce,"Lakefield Township, Precinct 1","Delegate to County Convention for Lakefield Township, Precinct 1",,REP,Ballots Cast,44
+Luce,"McMillan Township, Precinct 1","Delegate to County Convention for McMillan Township, Precinct 1",,REP,Write-In,69
+Luce,"McMillan Township, Precinct 1","Delegate to County Convention for McMillan Township, Precinct 1",,REP,Ballots Cast,69
+Luce,"Pentland Township, Precinct 1","Delegate to County Convention for Pentland Township, Precinct 1",,REP,Write-In,52
+Luce,"Pentland Township, Precinct 1","Delegate to County Convention for Pentland Township, Precinct 1",,REP,Ballots Cast,52
+Luce,"Columbus Township, Precinct 1",Proposal A Luce County MSU Extension and Luce County Parks and Recreation Millage Renewal,,,No,18
+Luce,"Columbus Township, Precinct 1",Proposal A Luce County MSU Extension and Luce County Parks and Recreation Millage Renewal,,,Yes,24
+Luce,"Columbus Township, Precinct 1",Proposal A Luce County MSU Extension and Luce County Parks and Recreation Millage Renewal,,,Ballots Cast,42
+Luce,"Lakefield Township, Precinct 1",Proposal A Luce County MSU Extension and Luce County Parks and Recreation Millage Renewal,,,No,124
+Luce,"Lakefield Township, Precinct 1",Proposal A Luce County MSU Extension and Luce County Parks and Recreation Millage Renewal,,,Yes,189
+Luce,"Lakefield Township, Precinct 1",Proposal A Luce County MSU Extension and Luce County Parks and Recreation Millage Renewal,,,Ballots Cast,313
+Luce,"McMillan Township, Precinct 1",Proposal A Luce County MSU Extension and Luce County Parks and Recreation Millage Renewal,,,No,149
+Luce,"McMillan Township, Precinct 1",Proposal A Luce County MSU Extension and Luce County Parks and Recreation Millage Renewal,,,Yes,346
+Luce,"McMillan Township, Precinct 1",Proposal A Luce County MSU Extension and Luce County Parks and Recreation Millage Renewal,,,Ballots Cast,495
+Luce,"Pentland Township, Precinct 1",Proposal A Luce County MSU Extension and Luce County Parks and Recreation Millage Renewal,,,No,120
+Luce,"Pentland Township, Precinct 1",Proposal A Luce County MSU Extension and Luce County Parks and Recreation Millage Renewal,,,Yes,249
+Luce,"Pentland Township, Precinct 1",Proposal A Luce County MSU Extension and Luce County Parks and Recreation Millage Renewal,,,Ballots Cast,369
+Luce,"Columbus Township, Precinct 1",Proposal B Luce County Senior Services and Programs Millage Increase,,,No,15
+Luce,"Columbus Township, Precinct 1",Proposal B Luce County Senior Services and Programs Millage Increase,,,Yes,28
+Luce,"Columbus Township, Precinct 1",Proposal B Luce County Senior Services and Programs Millage Increase,,,Ballots Cast,43
+Luce,"Lakefield Township, Precinct 1",Proposal B Luce County Senior Services and Programs Millage Increase,,,No,135
+Luce,"Lakefield Township, Precinct 1",Proposal B Luce County Senior Services and Programs Millage Increase,,,Yes,179
+Luce,"Lakefield Township, Precinct 1",Proposal B Luce County Senior Services and Programs Millage Increase,,,Ballots Cast,314
+Luce,"McMillan Township, Precinct 1",Proposal B Luce County Senior Services and Programs Millage Increase,,,No,122
+Luce,"McMillan Township, Precinct 1",Proposal B Luce County Senior Services and Programs Millage Increase,,,Yes,371
+Luce,"McMillan Township, Precinct 1",Proposal B Luce County Senior Services and Programs Millage Increase,,,Ballots Cast,493
+Luce,"Pentland Township, Precinct 1",Proposal B Luce County Senior Services and Programs Millage Increase,,,No,114
+Luce,"Pentland Township, Precinct 1",Proposal B Luce County Senior Services and Programs Millage Increase,,,Yes,257
+Luce,"Pentland Township, Precinct 1",Proposal B Luce County Senior Services and Programs Millage Increase,,,Ballots Cast,371
+Luce,"Columbus Township, Precinct 1",Proposal C Luce County Veterans Services Millage Renewal,,,No,11
+Luce,"Columbus Township, Precinct 1",Proposal C Luce County Veterans Services Millage Renewal,,,Yes,31
+Luce,"Columbus Township, Precinct 1",Proposal C Luce County Veterans Services Millage Renewal,,,Ballots Cast,42
+Luce,"Lakefield Township, Precinct 1",Proposal C Luce County Veterans Services Millage Renewal,,,No,76
+Luce,"Lakefield Township, Precinct 1",Proposal C Luce County Veterans Services Millage Renewal,,,Yes,237
+Luce,"Lakefield Township, Precinct 1",Proposal C Luce County Veterans Services Millage Renewal,,,Ballots Cast,313
+Luce,"McMillan Township, Precinct 1",Proposal C Luce County Veterans Services Millage Renewal,,,No,68
+Luce,"McMillan Township, Precinct 1",Proposal C Luce County Veterans Services Millage Renewal,,,Yes,427
+Luce,"McMillan Township, Precinct 1",Proposal C Luce County Veterans Services Millage Renewal,,,Ballots Cast,495
+Luce,"Pentland Township, Precinct 1",Proposal C Luce County Veterans Services Millage Renewal,,,No,74
+Luce,"Pentland Township, Precinct 1",Proposal C Luce County Veterans Services Millage Renewal,,,Yes,297
+Luce,"Pentland Township, Precinct 1",Proposal C Luce County Veterans Services Millage Renewal,,,Ballots Cast,371
+Luce,"Columbus Township, Precinct 1",Proposal D Luce County Airport Millage Renewal,,,No,17
+Luce,"Columbus Township, Precinct 1",Proposal D Luce County Airport Millage Renewal,,,Yes,25
+Luce,"Columbus Township, Precinct 1",Proposal D Luce County Airport Millage Renewal,,,Ballots Cast,42
+Luce,"Lakefield Township, Precinct 1",Proposal D Luce County Airport Millage Renewal,,,No,146
+Luce,"Lakefield Township, Precinct 1",Proposal D Luce County Airport Millage Renewal,,,Yes,159
+Luce,"Lakefield Township, Precinct 1",Proposal D Luce County Airport Millage Renewal,,,Ballots Cast,305
+Luce,"McMillan Township, Precinct 1",Proposal D Luce County Airport Millage Renewal,,,No,174
+Luce,"McMillan Township, Precinct 1",Proposal D Luce County Airport Millage Renewal,,,Yes,314
+Luce,"McMillan Township, Precinct 1",Proposal D Luce County Airport Millage Renewal,,,Ballots Cast,488
+Luce,"Pentland Township, Precinct 1",Proposal D Luce County Airport Millage Renewal,,,No,117
+Luce,"Pentland Township, Precinct 1",Proposal D Luce County Airport Millage Renewal,,,Yes,246
+Luce,"Pentland Township, Precinct 1",Proposal D Luce County Airport Millage Renewal,,,Ballots Cast,363
+Luce,"Columbus Township, Precinct 1",Proposal E Luce County Animal Shelter Millage Renewal,,,No,15
+Luce,"Columbus Township, Precinct 1",Proposal E Luce County Animal Shelter Millage Renewal,,,Yes,27
+Luce,"Columbus Township, Precinct 1",Proposal E Luce County Animal Shelter Millage Renewal,,,Ballots Cast,42
+Luce,"Lakefield Township, Precinct 1",Proposal E Luce County Animal Shelter Millage Renewal,,,No,107
+Luce,"Lakefield Township, Precinct 1",Proposal E Luce County Animal Shelter Millage Renewal,,,Yes,204
+Luce,"Lakefield Township, Precinct 1",Proposal E Luce County Animal Shelter Millage Renewal,,,Ballots Cast,311
+Luce,"McMillan Township, Precinct 1",Proposal E Luce County Animal Shelter Millage Renewal,,,No,125
+Luce,"McMillan Township, Precinct 1",Proposal E Luce County Animal Shelter Millage Renewal,,,Yes,368
+Luce,"McMillan Township, Precinct 1",Proposal E Luce County Animal Shelter Millage Renewal,,,Ballots Cast,493
+Luce,"Pentland Township, Precinct 1",Proposal E Luce County Animal Shelter Millage Renewal,,,No,101
+Luce,"Pentland Township, Precinct 1",Proposal E Luce County Animal Shelter Millage Renewal,,,Yes,262
+Luce,"Pentland Township, Precinct 1",Proposal E Luce County Animal Shelter Millage Renewal,,,Ballots Cast,363
+Luce,"Columbus Township, Precinct 1",Proposal F Luce County Library Millage Renewal,,,No,21
+Luce,"Columbus Township, Precinct 1",Proposal F Luce County Library Millage Renewal,,,Yes,21
+Luce,"Columbus Township, Precinct 1",Proposal F Luce County Library Millage Renewal,,,Ballots Cast,42
+Luce,"Lakefield Township, Precinct 1",Proposal F Luce County Library Millage Renewal,,,No,121
+Luce,"Lakefield Township, Precinct 1",Proposal F Luce County Library Millage Renewal,,,Yes,189
+Luce,"Lakefield Township, Precinct 1",Proposal F Luce County Library Millage Renewal,,,Ballots Cast,310
+Luce,"McMillan Township, Precinct 1",Proposal F Luce County Library Millage Renewal,,,No,150
+Luce,"McMillan Township, Precinct 1",Proposal F Luce County Library Millage Renewal,,,Yes,340
+Luce,"McMillan Township, Precinct 1",Proposal F Luce County Library Millage Renewal,,,Ballots Cast,490
+Luce,"Pentland Township, Precinct 1",Proposal F Luce County Library Millage Renewal,,,No,121
+Luce,"Pentland Township, Precinct 1",Proposal F Luce County Library Millage Renewal,,,Yes,242
+Luce,"Pentland Township, Precinct 1",Proposal F Luce County Library Millage Renewal,,,Ballots Cast,363

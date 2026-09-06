@@ -1,0 +1,14 @@
+[project]
+name = "openelections-data-mi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "clarify",
+    "natural-pdf>=0.7.0",
+    "requests>=2.34.2",
+]
+
+[tool.uv.sources]
+clarify = { git = "https://github.com/openelections/clarify" }

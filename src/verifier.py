@@ -143,7 +143,7 @@ class Verifier(object):
 			return (components[1], None)
 
 	def parseFileAtPath(self, path):
-		with open(path, 'rU') as csvfile:
+		with open(path, 'r', newline='') as csvfile:
 			self.reader = csv.DictReader(csvfile)
 			self.currentRowIndex = 0
 			self.headerColumnCount = 0

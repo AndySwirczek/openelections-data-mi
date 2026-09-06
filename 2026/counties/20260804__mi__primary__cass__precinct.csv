@@ -1,0 +1,2072 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Cass,"Calvin Township, Precinct 1",Governor,,DEM,Jocelyn Benson,132,0,8,124
+Cass,"Calvin Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,27,0,1,26
+Cass,"Calvin Township, Precinct 1",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Calvin Township, Precinct 1",Governor,,DEM,Ballots Cast,159,0,9,150
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Governor,,DEM,Jocelyn Benson,128,74,0,54
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Governor,,DEM,Christopher Robert Swanson,22,11,0,11
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Governor,,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Governor,,DEM,Ballots Cast,150,85,0,65
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Governor,,DEM,Jocelyn Benson,154,83,2,69
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Governor,,DEM,Christopher Robert Swanson,22,14,0,8
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Governor,,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Governor,,DEM,Ballots Cast,176,97,2,77
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Governor,,DEM,Jocelyn Benson,89,49,2,38
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Governor,,DEM,Christopher Robert Swanson,17,5,2,10
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Governor,,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Governor,,DEM,Ballots Cast,106,54,4,48
+Cass,"Howard Township, Precinct 1",Governor,,DEM,Jocelyn Benson,221,142,6,73
+Cass,"Howard Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,41,19,3,19
+Cass,"Howard Township, Precinct 1",Governor,,DEM,Write-In,1,1,0,0
+Cass,"Howard Township, Precinct 1",Governor,,DEM,Ballots Cast,262,161,9,92
+Cass,"Howard Township, Precinct 2A",Governor,,DEM,Jocelyn Benson,214,133,9,72
+Cass,"Howard Township, Precinct 2A",Governor,,DEM,Christopher Robert Swanson,37,22,3,12
+Cass,"Howard Township, Precinct 2A",Governor,,DEM,Write-In,1,0,0,1
+Cass,"Howard Township, Precinct 2A",Governor,,DEM,Ballots Cast,251,155,12,84
+Cass,"Howard Township, Precinct 2B",Governor,,DEM,Jocelyn Benson,41,21,0,20
+Cass,"Howard Township, Precinct 2B",Governor,,DEM,Christopher Robert Swanson,3,3,0,0
+Cass,"Howard Township, Precinct 2B",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",Governor,,DEM,Ballots Cast,44,24,0,20
+Cass,"Jefferson Township, Precinct 1A",Governor,,DEM,Jocelyn Benson,82,0,11,71
+Cass,"Jefferson Township, Precinct 1A",Governor,,DEM,Christopher Robert Swanson,18,0,0,18
+Cass,"Jefferson Township, Precinct 1A",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1A",Governor,,DEM,Ballots Cast,100,0,11,89
+Cass,"Jefferson Township, Precinct 1B",Governor,,DEM,Jocelyn Benson,99,0,3,96
+Cass,"Jefferson Township, Precinct 1B",Governor,,DEM,Christopher Robert Swanson,18,0,1,17
+Cass,"Jefferson Township, Precinct 1B",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",Governor,,DEM,Ballots Cast,117,0,4,113
+Cass,"LaGrange Township, Precinct 1A",Governor,,DEM,Jocelyn Benson,256,0,18,238
+Cass,"LaGrange Township, Precinct 1A",Governor,,DEM,Christopher Robert Swanson,56,0,3,53
+Cass,"LaGrange Township, Precinct 1A",Governor,,DEM,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1A",Governor,,DEM,Ballots Cast,312,0,21,291
+Cass,"LaGrange Township, Precinct 1B",Governor,,DEM,Jocelyn Benson,1,0,0,1
+Cass,"LaGrange Township, Precinct 1B",Governor,,DEM,Christopher Robert Swanson,2,0,1,1
+Cass,"LaGrange Township, Precinct 1B",Governor,,DEM,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",Governor,,DEM,Ballots Cast,3,0,1,2
+Cass,"Marcellus Township, Precinct 1",Governor,,DEM,Jocelyn Benson,204,0,1,203
+Cass,"Marcellus Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,46,0,2,44
+Cass,"Marcellus Township, Precinct 1",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Marcellus Township, Precinct 1",Governor,,DEM,Ballots Cast,250,0,3,247
+Cass,"Mason Township, Precinct 1A",Governor,,DEM,Jocelyn Benson,87,0,6,81
+Cass,"Mason Township, Precinct 1A",Governor,,DEM,Christopher Robert Swanson,22,0,0,22
+Cass,"Mason Township, Precinct 1A",Governor,,DEM,Write-In,1,0,0,1
+Cass,"Mason Township, Precinct 1A",Governor,,DEM,Ballots Cast,109,0,6,103
+Cass,"Mason Township, Precinct 1B",Governor,,DEM,Jocelyn Benson,17,0,2,15
+Cass,"Mason Township, Precinct 1B",Governor,,DEM,Christopher Robert Swanson,4,0,0,4
+Cass,"Mason Township, Precinct 1B",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1B",Governor,,DEM,Ballots Cast,21,0,2,19
+Cass,"Mason Township, Precinct 1C",Governor,,DEM,Jocelyn Benson,0,0,0,0
+Cass,"Mason Township, Precinct 1C",Governor,,DEM,Christopher Robert Swanson,0,0,0,0
+Cass,"Mason Township, Precinct 1C",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",Governor,,DEM,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1A",Governor,,DEM,Jocelyn Benson,81,0,0,81
+Cass,"Milton Township, Precinct 1A",Governor,,DEM,Christopher Robert Swanson,17,0,2,15
+Cass,"Milton Township, Precinct 1A",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1A",Governor,,DEM,Ballots Cast,98,0,2,96
+Cass,"Milton Township, Precinct 1B",Governor,,DEM,Jocelyn Benson,107,0,0,107
+Cass,"Milton Township, Precinct 1B",Governor,,DEM,Christopher Robert Swanson,11,0,0,11
+Cass,"Milton Township, Precinct 1B",Governor,,DEM,Write-In,1,0,0,1
+Cass,"Milton Township, Precinct 1B",Governor,,DEM,Ballots Cast,118,0,0,118
+Cass,"Newberg Township, Precinct 1A",Governor,,DEM,Jocelyn Benson,66,0,0,66
+Cass,"Newberg Township, Precinct 1A",Governor,,DEM,Christopher Robert Swanson,11,0,1,10
+Cass,"Newberg Township, Precinct 1A",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1A",Governor,,DEM,Ballots Cast,77,0,1,76
+Cass,"Newberg Township, Precinct 1B",Governor,,DEM,Jocelyn Benson,42,0,11,31
+Cass,"Newberg Township, Precinct 1B",Governor,,DEM,Christopher Robert Swanson,10,0,0,10
+Cass,"Newberg Township, Precinct 1B",Governor,,DEM,Write-In,1,0,0,1
+Cass,"Newberg Township, Precinct 1B",Governor,,DEM,Ballots Cast,52,0,11,41
+Cass,"Ontwa Township, Precinct 1",Governor,,DEM,Jocelyn Benson,210,137,5,68
+Cass,"Ontwa Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,35,18,4,13
+Cass,"Ontwa Township, Precinct 1",Governor,,DEM,Write-In,1,0,0,1
+Cass,"Ontwa Township, Precinct 1",Governor,,DEM,Ballots Cast,245,155,9,81
+Cass,"Ontwa Township, Precinct 2",Governor,,DEM,Jocelyn Benson,217,154,4,59
+Cass,"Ontwa Township, Precinct 2",Governor,,DEM,Christopher Robert Swanson,40,22,0,18
+Cass,"Ontwa Township, Precinct 2",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",Governor,,DEM,Ballots Cast,257,176,4,77
+Cass,"Penn Township, Precinct 1A",Governor,,DEM,Jocelyn Benson,140,0,13,127
+Cass,"Penn Township, Precinct 1A",Governor,,DEM,Christopher Robert Swanson,29,0,5,24
+Cass,"Penn Township, Precinct 1A",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1A",Governor,,DEM,Ballots Cast,169,0,18,151
+Cass,"Penn Township, Precinct 1B",Governor,,DEM,Jocelyn Benson,4,0,0,4
+Cass,"Penn Township, Precinct 1B",Governor,,DEM,Christopher Robert Swanson,0,0,0,0
+Cass,"Penn Township, Precinct 1B",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B",Governor,,DEM,Ballots Cast,4,0,0,4
+Cass,"Pokagon Township, Precinct 1",Governor,,DEM,Jocelyn Benson,141,0,12,129
+Cass,"Pokagon Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,26,0,2,24
+Cass,"Pokagon Township, Precinct 1",Governor,,DEM,Write-In,2,0,0,2
+Cass,"Pokagon Township, Precinct 1",Governor,,DEM,Ballots Cast,167,0,14,153
+Cass,"Porter Township, Precinct 1A",Governor,,DEM,Jocelyn Benson,141,0,6,135
+Cass,"Porter Township, Precinct 1A",Governor,,DEM,Christopher Robert Swanson,7,0,0,7
+Cass,"Porter Township, Precinct 1A",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1A",Governor,,DEM,Ballots Cast,148,0,6,142
+Cass,"Porter Township, Precinct 1B",Governor,,DEM,Jocelyn Benson,8,0,0,8
+Cass,"Porter Township, Precinct 1B",Governor,,DEM,Christopher Robert Swanson,1,0,0,1
+Cass,"Porter Township, Precinct 1B",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B",Governor,,DEM,Ballots Cast,9,0,0,9
+Cass,"Porter Township, Precinct 2A",Governor,,DEM,Jocelyn Benson,22,0,0,22
+Cass,"Porter Township, Precinct 2A",Governor,,DEM,Christopher Robert Swanson,5,0,0,5
+Cass,"Porter Township, Precinct 2A",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2A",Governor,,DEM,Ballots Cast,27,0,0,27
+Cass,"Porter Township, Precinct 2B",Governor,,DEM,Jocelyn Benson,106,0,0,106
+Cass,"Porter Township, Precinct 2B",Governor,,DEM,Christopher Robert Swanson,23,0,0,23
+Cass,"Porter Township, Precinct 2B",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2B",Governor,,DEM,Ballots Cast,129,0,0,129
+Cass,"Silver Creek Township, Precinct 1",Governor,,DEM,Jocelyn Benson,197,128,6,63
+Cass,"Silver Creek Township, Precinct 1",Governor,,DEM,Christopher Robert Swanson,32,13,2,17
+Cass,"Silver Creek Township, Precinct 1",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Silver Creek Township, Precinct 1",Governor,,DEM,Ballots Cast,229,141,8,80
+Cass,"Volinia Township, Precinct 1A",Governor,,DEM,Jocelyn Benson,14,0,3,11
+Cass,"Volinia Township, Precinct 1A",Governor,,DEM,Christopher Robert Swanson,1,0,0,1
+Cass,"Volinia Township, Precinct 1A",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",Governor,,DEM,Ballots Cast,15,0,3,12
+Cass,"Volinia Township, Precinct 1B",Governor,,DEM,Jocelyn Benson,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Governor,,DEM,Christopher Robert Swanson,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Governor,,DEM,Ballots Cast,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",Governor,,DEM,Jocelyn Benson,68,0,5,63
+Cass,"Volinia Township, Precinct 1C",Governor,,DEM,Christopher Robert Swanson,17,0,0,17
+Cass,"Volinia Township, Precinct 1C",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",Governor,,DEM,Ballots Cast,85,0,5,80
+Cass,"Wayne Township, Precinct 1A",Governor,,DEM,Jocelyn Benson,144,0,4,140
+Cass,"Wayne Township, Precinct 1A",Governor,,DEM,Christopher Robert Swanson,15,0,1,14
+Cass,"Wayne Township, Precinct 1A",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1A",Governor,,DEM,Ballots Cast,159,0,5,154
+Cass,"Wayne Township, Precinct 1B",Governor,,DEM,Jocelyn Benson,27,0,0,27
+Cass,"Wayne Township, Precinct 1B",Governor,,DEM,Christopher Robert Swanson,1,0,0,1
+Cass,"Wayne Township, Precinct 1B",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",Governor,,DEM,Ballots Cast,28,0,0,28
+Cass,"Wayne Township, Precinct 1C",Governor,,DEM,Jocelyn Benson,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Governor,,DEM,Christopher Robert Swanson,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Governor,,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Governor,,DEM,Ballots Cast,0,0,0,0
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,57,0,5,52
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,18,0,0,18
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,82,0,4,78
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,DEM,Write-In,2,0,0,2
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,157,0,9,148
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,78,37,0,41
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,9,5,0,4
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,DEM,Haley Stevens,66,45,0,21
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,DEM,Ballots Cast,153,87,0,66
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,DEM,Abdul El-Sayed,86,40,0,46
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,DEM,Mallory McMorrow,11,8,0,3
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,DEM,Haley Stevens,80,48,2,30
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,DEM,Ballots Cast,177,96,2,79
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,DEM,Abdul El-Sayed,54,23,3,28
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,DEM,Mallory McMorrow,6,6,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,DEM,Haley Stevens,47,26,1,20
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,DEM,Ballots Cast,107,55,4,48
+Cass,"Howard Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,102,53,7,42
+Cass,"Howard Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,29,18,2,9
+Cass,"Howard Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,132,91,0,41
+Cass,"Howard Township, Precinct 1",U.S. Senate,,DEM,Write-In,1,1,0,0
+Cass,"Howard Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,263,162,9,92
+Cass,"Howard Township, Precinct 2A",U.S. Senate,,DEM,Abdul El-Sayed,76,28,8,40
+Cass,"Howard Township, Precinct 2A",U.S. Senate,,DEM,Mallory McMorrow,18,14,1,3
+Cass,"Howard Township, Precinct 2A",U.S. Senate,,DEM,Haley Stevens,157,112,3,42
+Cass,"Howard Township, Precinct 2A",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2A",U.S. Senate,,DEM,Ballots Cast,251,154,12,85
+Cass,"Howard Township, Precinct 2B",U.S. Senate,,DEM,Abdul El-Sayed,19,8,0,11
+Cass,"Howard Township, Precinct 2B",U.S. Senate,,DEM,Mallory McMorrow,3,3,0,0
+Cass,"Howard Township, Precinct 2B",U.S. Senate,,DEM,Haley Stevens,22,12,0,10
+Cass,"Howard Township, Precinct 2B",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",U.S. Senate,,DEM,Ballots Cast,44,23,0,21
+Cass,"Jefferson Township, Precinct 1A",U.S. Senate,,DEM,Abdul El-Sayed,52,0,6,46
+Cass,"Jefferson Township, Precinct 1A",U.S. Senate,,DEM,Mallory McMorrow,10,0,1,9
+Cass,"Jefferson Township, Precinct 1A",U.S. Senate,,DEM,Haley Stevens,39,0,4,35
+Cass,"Jefferson Township, Precinct 1A",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1A",U.S. Senate,,DEM,Ballots Cast,101,0,11,90
+Cass,"Jefferson Township, Precinct 1B",U.S. Senate,,DEM,Abdul El-Sayed,59,0,3,56
+Cass,"Jefferson Township, Precinct 1B",U.S. Senate,,DEM,Mallory McMorrow,14,0,0,14
+Cass,"Jefferson Township, Precinct 1B",U.S. Senate,,DEM,Haley Stevens,47,0,1,46
+Cass,"Jefferson Township, Precinct 1B",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",U.S. Senate,,DEM,Ballots Cast,120,0,4,116
+Cass,"LaGrange Township, Precinct 1A",U.S. Senate,,DEM,Abdul El-Sayed,165,0,14,151
+Cass,"LaGrange Township, Precinct 1A",U.S. Senate,,DEM,Mallory McMorrow,28,0,2,26
+Cass,"LaGrange Township, Precinct 1A",U.S. Senate,,DEM,Haley Stevens,128,0,7,121
+Cass,"LaGrange Township, Precinct 1A",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1A",U.S. Senate,,DEM,Ballots Cast,321,0,23,298
+Cass,"LaGrange Township, Precinct 1B",U.S. Senate,,DEM,Abdul El-Sayed,1,0,1,0
+Cass,"LaGrange Township, Precinct 1B",U.S. Senate,,DEM,Mallory McMorrow,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",U.S. Senate,,DEM,Haley Stevens,2,0,0,2
+Cass,"LaGrange Township, Precinct 1B",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",U.S. Senate,,DEM,Ballots Cast,3,0,1,2
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,117,0,2,115
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,9,0,0,9
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,128,0,1,127
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,254,0,3,251
+Cass,"Mason Township, Precinct 1A",U.S. Senate,,DEM,Abdul El-Sayed,52,0,4,48
+Cass,"Mason Township, Precinct 1A",U.S. Senate,,DEM,Mallory McMorrow,12,0,1,11
+Cass,"Mason Township, Precinct 1A",U.S. Senate,,DEM,Haley Stevens,44,0,1,43
+Cass,"Mason Township, Precinct 1A",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1A",U.S. Senate,,DEM,Ballots Cast,108,0,6,102
+Cass,"Mason Township, Precinct 1B",U.S. Senate,,DEM,Abdul El-Sayed,10,0,2,8
+Cass,"Mason Township, Precinct 1B",U.S. Senate,,DEM,Mallory McMorrow,2,0,0,2
+Cass,"Mason Township, Precinct 1B",U.S. Senate,,DEM,Haley Stevens,9,0,0,9
+Cass,"Mason Township, Precinct 1B",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1B",U.S. Senate,,DEM,Ballots Cast,21,0,2,19
+Cass,"Mason Township, Precinct 1C",U.S. Senate,,DEM,Abdul El-Sayed,0,0,0,0
+Cass,"Mason Township, Precinct 1C",U.S. Senate,,DEM,Mallory McMorrow,0,0,0,0
+Cass,"Mason Township, Precinct 1C",U.S. Senate,,DEM,Haley Stevens,0,0,0,0
+Cass,"Mason Township, Precinct 1C",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",U.S. Senate,,DEM,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1A",U.S. Senate,,DEM,Abdul El-Sayed,52,0,2,50
+Cass,"Milton Township, Precinct 1A",U.S. Senate,,DEM,Mallory McMorrow,14,0,0,14
+Cass,"Milton Township, Precinct 1A",U.S. Senate,,DEM,Haley Stevens,34,0,0,34
+Cass,"Milton Township, Precinct 1A",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1A",U.S. Senate,,DEM,Ballots Cast,100,0,2,98
+Cass,"Milton Township, Precinct 1B",U.S. Senate,,DEM,Abdul El-Sayed,49,0,0,49
+Cass,"Milton Township, Precinct 1B",U.S. Senate,,DEM,Mallory McMorrow,10,0,0,10
+Cass,"Milton Township, Precinct 1B",U.S. Senate,,DEM,Haley Stevens,66,0,0,66
+Cass,"Milton Township, Precinct 1B",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1B",U.S. Senate,,DEM,Ballots Cast,125,0,0,125
+Cass,"Newberg Township, Precinct 1A",U.S. Senate,,DEM,Abdul El-Sayed,41,0,1,40
+Cass,"Newberg Township, Precinct 1A",U.S. Senate,,DEM,Mallory McMorrow,13,0,0,13
+Cass,"Newberg Township, Precinct 1A",U.S. Senate,,DEM,Haley Stevens,23,0,0,23
+Cass,"Newberg Township, Precinct 1A",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1A",U.S. Senate,,DEM,Ballots Cast,77,0,1,76
+Cass,"Newberg Township, Precinct 1B",U.S. Senate,,DEM,Abdul El-Sayed,20,0,2,18
+Cass,"Newberg Township, Precinct 1B",U.S. Senate,,DEM,Mallory McMorrow,4,0,1,3
+Cass,"Newberg Township, Precinct 1B",U.S. Senate,,DEM,Haley Stevens,29,0,8,21
+Cass,"Newberg Township, Precinct 1B",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1B",U.S. Senate,,DEM,Ballots Cast,53,0,11,42
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,127,71,7,49
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,32,23,0,9
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,87,62,2,23
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,246,156,9,81
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,DEM,Abdul El-Sayed,128,73,2,53
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,DEM,Mallory McMorrow,30,23,0,7
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,DEM,Haley Stevens,104,82,2,20
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,DEM,Ballots Cast,262,178,4,80
+Cass,"Penn Township, Precinct 1A",U.S. Senate,,DEM,Abdul El-Sayed,85,0,13,72
+Cass,"Penn Township, Precinct 1A",U.S. Senate,,DEM,Mallory McMorrow,17,0,2,15
+Cass,"Penn Township, Precinct 1A",U.S. Senate,,DEM,Haley Stevens,66,0,4,62
+Cass,"Penn Township, Precinct 1A",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1A",U.S. Senate,,DEM,Ballots Cast,168,0,19,149
+Cass,"Penn Township, Precinct 1B",U.S. Senate,,DEM,Abdul El-Sayed,1,0,0,1
+Cass,"Penn Township, Precinct 1B",U.S. Senate,,DEM,Mallory McMorrow,0,0,0,0
+Cass,"Penn Township, Precinct 1B",U.S. Senate,,DEM,Haley Stevens,3,0,0,3
+Cass,"Penn Township, Precinct 1B",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B",U.S. Senate,,DEM,Ballots Cast,4,0,0,4
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,71,0,5,66
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,17,0,1,16
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,80,0,8,72
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,168,0,14,154
+Cass,"Porter Township, Precinct 1A",U.S. Senate,,DEM,Abdul El-Sayed,69,0,4,65
+Cass,"Porter Township, Precinct 1A",U.S. Senate,,DEM,Mallory McMorrow,12,0,1,11
+Cass,"Porter Township, Precinct 1A",U.S. Senate,,DEM,Haley Stevens,67,0,2,65
+Cass,"Porter Township, Precinct 1A",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1A",U.S. Senate,,DEM,Ballots Cast,148,0,7,141
+Cass,"Porter Township, Precinct 1B",U.S. Senate,,DEM,Abdul El-Sayed,6,0,0,6
+Cass,"Porter Township, Precinct 1B",U.S. Senate,,DEM,Mallory McMorrow,0,0,0,0
+Cass,"Porter Township, Precinct 1B",U.S. Senate,,DEM,Haley Stevens,3,0,0,3
+Cass,"Porter Township, Precinct 1B",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B",U.S. Senate,,DEM,Ballots Cast,9,0,0,9
+Cass,"Porter Township, Precinct 2A",U.S. Senate,,DEM,Abdul El-Sayed,12,0,0,12
+Cass,"Porter Township, Precinct 2A",U.S. Senate,,DEM,Mallory McMorrow,2,0,0,2
+Cass,"Porter Township, Precinct 2A",U.S. Senate,,DEM,Haley Stevens,12,0,0,12
+Cass,"Porter Township, Precinct 2A",U.S. Senate,,DEM,Write-In,1,0,0,1
+Cass,"Porter Township, Precinct 2A",U.S. Senate,,DEM,Ballots Cast,26,0,0,26
+Cass,"Porter Township, Precinct 2B",U.S. Senate,,DEM,Abdul El-Sayed,66,0,0,66
+Cass,"Porter Township, Precinct 2B",U.S. Senate,,DEM,Mallory McMorrow,4,0,0,4
+Cass,"Porter Township, Precinct 2B",U.S. Senate,,DEM,Haley Stevens,64,0,0,64
+Cass,"Porter Township, Precinct 2B",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2B",U.S. Senate,,DEM,Ballots Cast,134,0,0,134
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,DEM,Abdul El-Sayed,98,47,4,47
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,DEM,Mallory McMorrow,29,26,1,2
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,DEM,Haley Stevens,103,68,3,32
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,230,141,8,81
+Cass,"Volinia Township, Precinct 1A",U.S. Senate,,DEM,Abdul El-Sayed,5,0,0,5
+Cass,"Volinia Township, Precinct 1A",U.S. Senate,,DEM,Mallory McMorrow,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",U.S. Senate,,DEM,Haley Stevens,10,0,3,7
+Cass,"Volinia Township, Precinct 1A",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",U.S. Senate,,DEM,Ballots Cast,15,0,3,12
+Cass,"Volinia Township, Precinct 1B",U.S. Senate,,DEM,Abdul El-Sayed,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",U.S. Senate,,DEM,Mallory McMorrow,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",U.S. Senate,,DEM,Haley Stevens,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",U.S. Senate,,DEM,Ballots Cast,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",U.S. Senate,,DEM,Abdul El-Sayed,33,0,0,33
+Cass,"Volinia Township, Precinct 1C",U.S. Senate,,DEM,Mallory McMorrow,7,0,0,7
+Cass,"Volinia Township, Precinct 1C",U.S. Senate,,DEM,Haley Stevens,47,0,5,42
+Cass,"Volinia Township, Precinct 1C",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",U.S. Senate,,DEM,Ballots Cast,87,0,5,82
+Cass,"Wayne Township, Precinct 1A",U.S. Senate,,DEM,Abdul El-Sayed,78,0,3,75
+Cass,"Wayne Township, Precinct 1A",U.S. Senate,,DEM,Mallory McMorrow,10,0,0,10
+Cass,"Wayne Township, Precinct 1A",U.S. Senate,,DEM,Haley Stevens,74,0,1,73
+Cass,"Wayne Township, Precinct 1A",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1A",U.S. Senate,,DEM,Ballots Cast,162,0,4,158
+Cass,"Wayne Township, Precinct 1B",U.S. Senate,,DEM,Abdul El-Sayed,11,0,0,11
+Cass,"Wayne Township, Precinct 1B",U.S. Senate,,DEM,Mallory McMorrow,4,0,0,4
+Cass,"Wayne Township, Precinct 1B",U.S. Senate,,DEM,Haley Stevens,13,0,0,13
+Cass,"Wayne Township, Precinct 1B",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",U.S. Senate,,DEM,Ballots Cast,28,0,0,28
+Cass,"Wayne Township, Precinct 1C",U.S. Senate,,DEM,Abdul El-Sayed,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",U.S. Senate,,DEM,Mallory McMorrow,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",U.S. Senate,,DEM,Haley Stevens,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",U.S. Senate,,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",U.S. Senate,,DEM,Ballots Cast,0,0,0,0
+Cass,"Calvin Township, Precinct 1",U.S. House,5,DEM,Christian Vukasovich,147,0,9,138
+Cass,"Calvin Township, Precinct 1",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Calvin Township, Precinct 1",U.S. House,5,DEM,Ballots Cast,147,0,9,138
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. House,5,DEM,Christian Vukasovich,130,79,0,51
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. House,5,DEM,Ballots Cast,130,79,0,51
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. House,5,DEM,Christian Vukasovich,155,88,2,65
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. House,5,DEM,Ballots Cast,155,88,2,65
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. House,5,DEM,Christian Vukasovich,98,53,3,42
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. House,5,DEM,Write-In,1,1,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. House,5,DEM,Ballots Cast,98,53,3,42
+Cass,"Howard Township, Precinct 1",U.S. House,5,DEM,Christian Vukasovich,239,153,7,79
+Cass,"Howard Township, Precinct 1",U.S. House,5,DEM,Write-In,2,1,0,1
+Cass,"Howard Township, Precinct 1",U.S. House,5,DEM,Ballots Cast,239,153,7,79
+Cass,"Howard Township, Precinct 2A",U.S. House,5,DEM,Christian Vukasovich,227,141,12,74
+Cass,"Howard Township, Precinct 2A",U.S. House,5,DEM,Write-In,2,0,0,2
+Cass,"Howard Township, Precinct 2A",U.S. House,5,DEM,Ballots Cast,227,141,12,74
+Cass,"Howard Township, Precinct 2B",U.S. House,5,DEM,Christian Vukasovich,38,21,0,17
+Cass,"Howard Township, Precinct 2B",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",U.S. House,5,DEM,Ballots Cast,38,21,0,17
+Cass,"Jefferson Township, Precinct 1A",U.S. House,5,DEM,Christian Vukasovich,91,0,9,82
+Cass,"Jefferson Township, Precinct 1A",U.S. House,5,DEM,Write-In,1,0,1,0
+Cass,"Jefferson Township, Precinct 1A",U.S. House,5,DEM,Ballots Cast,91,0,9,82
+Cass,"Jefferson Township, Precinct 1B",U.S. House,5,DEM,Christian Vukasovich,104,0,4,100
+Cass,"Jefferson Township, Precinct 1B",U.S. House,5,DEM,Write-In,1,0,0,1
+Cass,"Jefferson Township, Precinct 1B",U.S. House,5,DEM,Ballots Cast,104,0,4,100
+Cass,"LaGrange Township, Precinct 1A",U.S. House,5,DEM,Christian Vukasovich,286,0,20,266
+Cass,"LaGrange Township, Precinct 1A",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1A",U.S. House,5,DEM,Ballots Cast,286,0,20,266
+Cass,"LaGrange Township, Precinct 1B",U.S. House,5,DEM,Christian Vukasovich,2,0,1,1
+Cass,"LaGrange Township, Precinct 1B",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",U.S. House,5,DEM,Ballots Cast,2,0,1,1
+Cass,"Marcellus Township, Precinct 1",U.S. House,5,DEM,Christian Vukasovich,225,0,1,224
+Cass,"Marcellus Township, Precinct 1",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Marcellus Township, Precinct 1",U.S. House,5,DEM,Ballots Cast,225,0,1,224
+Cass,"Mason Township, Precinct 1A",U.S. House,5,DEM,Christian Vukasovich,101,0,6,95
+Cass,"Mason Township, Precinct 1A",U.S. House,5,DEM,Write-In,1,0,0,1
+Cass,"Mason Township, Precinct 1A",U.S. House,5,DEM,Ballots Cast,101,0,6,95
+Cass,"Mason Township, Precinct 1B",U.S. House,5,DEM,Christian Vukasovich,18,0,2,16
+Cass,"Mason Township, Precinct 1B",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1B",U.S. House,5,DEM,Ballots Cast,18,0,2,16
+Cass,"Mason Township, Precinct 1C",U.S. House,5,DEM,Christian Vukasovich,0,0,0,0
+Cass,"Mason Township, Precinct 1C",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",U.S. House,5,DEM,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1A",U.S. House,5,DEM,Christian Vukasovich,92,0,2,90
+Cass,"Milton Township, Precinct 1A",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1A",U.S. House,5,DEM,Ballots Cast,92,0,2,90
+Cass,"Milton Township, Precinct 1B",U.S. House,5,DEM,Christian Vukasovich,108,0,0,108
+Cass,"Milton Township, Precinct 1B",U.S. House,5,DEM,Write-In,1,0,0,1
+Cass,"Milton Township, Precinct 1B",U.S. House,5,DEM,Ballots Cast,108,0,0,108
+Cass,"Newberg Township, Precinct 1A",U.S. House,5,DEM,Christian Vukasovich,70,0,1,69
+Cass,"Newberg Township, Precinct 1A",U.S. House,5,DEM,Write-In,1,0,0,1
+Cass,"Newberg Township, Precinct 1A",U.S. House,5,DEM,Ballots Cast,70,0,1,69
+Cass,"Newberg Township, Precinct 1B",U.S. House,5,DEM,Christian Vukasovich,45,0,10,35
+Cass,"Newberg Township, Precinct 1B",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1B",U.S. House,5,DEM,Ballots Cast,45,0,10,35
+Cass,"Ontwa Township, Precinct 1",U.S. House,5,DEM,Christian Vukasovich,226,143,9,74
+Cass,"Ontwa Township, Precinct 1",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 1",U.S. House,5,DEM,Ballots Cast,226,143,9,74
+Cass,"Ontwa Township, Precinct 2",U.S. House,5,DEM,Christian Vukasovich,235,158,3,74
+Cass,"Ontwa Township, Precinct 2",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",U.S. House,5,DEM,Ballots Cast,235,158,3,74
+Cass,"Penn Township, Precinct 1A",U.S. House,5,DEM,Christian Vukasovich,153,0,17,136
+Cass,"Penn Township, Precinct 1A",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1A",U.S. House,5,DEM,Ballots Cast,153,0,17,136
+Cass,"Penn Township, Precinct 1B",U.S. House,5,DEM,Christian Vukasovich,3,0,0,3
+Cass,"Penn Township, Precinct 1B",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B",U.S. House,5,DEM,Ballots Cast,3,0,0,3
+Cass,"Pokagon Township, Precinct 1",U.S. House,5,DEM,Christian Vukasovich,144,0,11,133
+Cass,"Pokagon Township, Precinct 1",U.S. House,5,DEM,Write-In,3,0,0,3
+Cass,"Pokagon Township, Precinct 1",U.S. House,5,DEM,Ballots Cast,144,0,11,133
+Cass,"Porter Township, Precinct 1A",U.S. House,5,DEM,Christian Vukasovich,132,0,7,125
+Cass,"Porter Township, Precinct 1A",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1A",U.S. House,5,DEM,Ballots Cast,132,0,7,125
+Cass,"Porter Township, Precinct 1B",U.S. House,5,DEM,Christian Vukasovich,9,0,0,9
+Cass,"Porter Township, Precinct 1B",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B",U.S. House,5,DEM,Ballots Cast,9,0,0,9
+Cass,"Porter Township, Precinct 2A",U.S. House,5,DEM,Christian Vukasovich,20,0,0,20
+Cass,"Porter Township, Precinct 2A",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2A",U.S. House,5,DEM,Ballots Cast,20,0,0,20
+Cass,"Porter Township, Precinct 2B",U.S. House,5,DEM,Christian Vukasovich,118,0,0,118
+Cass,"Porter Township, Precinct 2B",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2B",U.S. House,5,DEM,Ballots Cast,118,0,0,118
+Cass,"Silver Creek Township, Precinct 1",U.S. House,5,DEM,Christian Vukasovich,213,129,8,76
+Cass,"Silver Creek Township, Precinct 1",U.S. House,5,DEM,Write-In,1,1,0,0
+Cass,"Silver Creek Township, Precinct 1",U.S. House,5,DEM,Ballots Cast,213,129,8,76
+Cass,"Volinia Township, Precinct 1A",U.S. House,5,DEM,Christian Vukasovich,13,0,3,10
+Cass,"Volinia Township, Precinct 1A",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",U.S. House,5,DEM,Ballots Cast,13,0,3,10
+Cass,"Volinia Township, Precinct 1B",U.S. House,5,DEM,Christian Vukasovich,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",U.S. House,5,DEM,Ballots Cast,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",U.S. House,5,DEM,Christian Vukasovich,74,0,5,69
+Cass,"Volinia Township, Precinct 1C",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",U.S. House,5,DEM,Ballots Cast,74,0,5,69
+Cass,"Wayne Township, Precinct 1A",U.S. House,5,DEM,Christian Vukasovich,143,0,5,138
+Cass,"Wayne Township, Precinct 1A",U.S. House,5,DEM,Write-In,1,0,0,1
+Cass,"Wayne Township, Precinct 1A",U.S. House,5,DEM,Ballots Cast,143,0,5,138
+Cass,"Wayne Township, Precinct 1B",U.S. House,5,DEM,Christian Vukasovich,26,0,0,26
+Cass,"Wayne Township, Precinct 1B",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",U.S. House,5,DEM,Ballots Cast,26,0,0,26
+Cass,"Wayne Township, Precinct 1C",U.S. House,5,DEM,Christian Vukasovich,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",U.S. House,5,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",U.S. House,5,DEM,Ballots Cast,0,0,0,0
+Cass,"Calvin Township, Precinct 1",State Senate,17,DEM,Ashleigh Baker,98,0,8,90
+Cass,"Calvin Township, Precinct 1",State Senate,17,DEM,Mike D. Jones,40,0,1,39
+Cass,"Calvin Township, Precinct 1",State Senate,17,DEM,Brett Muchow,10,0,0,10
+Cass,"Calvin Township, Precinct 1",State Senate,17,DEM,Write-In,2,0,0,2
+Cass,"Calvin Township, Precinct 1",State Senate,17,DEM,Ballots Cast,148,0,9,139
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State Senate,17,DEM,Ashleigh Baker,85,50,0,35
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State Senate,17,DEM,Mike D. Jones,37,26,0,11
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State Senate,17,DEM,Brett Muchow,23,10,0,13
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State Senate,17,DEM,Ballots Cast,145,86,0,59
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State Senate,17,DEM,Ashleigh Baker,98,55,2,41
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State Senate,17,DEM,Mike D. Jones,36,20,0,16
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State Senate,17,DEM,Brett Muchow,35,20,0,15
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State Senate,17,DEM,Ballots Cast,169,95,2,72
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State Senate,17,DEM,Ashleigh Baker,62,37,4,21
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State Senate,17,DEM,Mike D. Jones,14,9,0,5
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State Senate,17,DEM,Brett Muchow,22,7,0,15
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State Senate,17,DEM,Write-In,1,1,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State Senate,17,DEM,Ballots Cast,98,53,4,41
+Cass,"Howard Township, Precinct 1",State Senate,17,DEM,Ashleigh Baker,121,70,6,45
+Cass,"Howard Township, Precinct 1",State Senate,17,DEM,Mike D. Jones,49,29,1,19
+Cass,"Howard Township, Precinct 1",State Senate,17,DEM,Brett Muchow,74,56,1,17
+Cass,"Howard Township, Precinct 1",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 1",State Senate,17,DEM,Ballots Cast,244,155,8,81
+Cass,"Howard Township, Precinct 2A",State Senate,17,DEM,Ashleigh Baker,121,73,6,42
+Cass,"Howard Township, Precinct 2A",State Senate,17,DEM,Mike D. Jones,54,33,0,21
+Cass,"Howard Township, Precinct 2A",State Senate,17,DEM,Brett Muchow,58,35,5,18
+Cass,"Howard Township, Precinct 2A",State Senate,17,DEM,Write-In,1,0,0,1
+Cass,"Howard Township, Precinct 2A",State Senate,17,DEM,Ballots Cast,233,141,11,81
+Cass,"Howard Township, Precinct 2B",State Senate,17,DEM,Ashleigh Baker,27,13,0,14
+Cass,"Howard Township, Precinct 2B",State Senate,17,DEM,Mike D. Jones,4,1,0,3
+Cass,"Howard Township, Precinct 2B",State Senate,17,DEM,Brett Muchow,8,8,0,0
+Cass,"Howard Township, Precinct 2B",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",State Senate,17,DEM,Ballots Cast,39,22,0,17
+Cass,"Jefferson Township, Precinct 1A",State Senate,17,DEM,Ashleigh Baker,49,0,3,46
+Cass,"Jefferson Township, Precinct 1A",State Senate,17,DEM,Mike D. Jones,25,0,2,23
+Cass,"Jefferson Township, Precinct 1A",State Senate,17,DEM,Brett Muchow,18,0,5,13
+Cass,"Jefferson Township, Precinct 1A",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1A",State Senate,17,DEM,Ballots Cast,92,0,10,82
+Cass,"Jefferson Township, Precinct 1B",State Senate,17,DEM,Ashleigh Baker,69,0,4,65
+Cass,"Jefferson Township, Precinct 1B",State Senate,17,DEM,Mike D. Jones,16,0,0,16
+Cass,"Jefferson Township, Precinct 1B",State Senate,17,DEM,Brett Muchow,26,0,0,26
+Cass,"Jefferson Township, Precinct 1B",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",State Senate,17,DEM,Ballots Cast,111,0,4,107
+Cass,"LaGrange Township, Precinct 1A",State Senate,17,DEM,Ashleigh Baker,149,0,10,139
+Cass,"LaGrange Township, Precinct 1A",State Senate,17,DEM,Mike D. Jones,75,0,4,71
+Cass,"LaGrange Township, Precinct 1A",State Senate,17,DEM,Brett Muchow,70,0,4,66
+Cass,"LaGrange Township, Precinct 1A",State Senate,17,DEM,Write-In,3,0,0,3
+Cass,"LaGrange Township, Precinct 1A",State Senate,17,DEM,Ballots Cast,294,0,18,276
+Cass,"LaGrange Township, Precinct 1B",State Senate,17,DEM,Ashleigh Baker,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",State Senate,17,DEM,Mike D. Jones,2,0,0,2
+Cass,"LaGrange Township, Precinct 1B",State Senate,17,DEM,Brett Muchow,1,0,1,0
+Cass,"LaGrange Township, Precinct 1B",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",State Senate,17,DEM,Ballots Cast,3,0,1,2
+Cass,"Marcellus Township, Precinct 1",State Senate,17,DEM,Ashleigh Baker,145,0,1,144
+Cass,"Marcellus Township, Precinct 1",State Senate,17,DEM,Mike D. Jones,35,0,0,35
+Cass,"Marcellus Township, Precinct 1",State Senate,17,DEM,Brett Muchow,46,0,1,45
+Cass,"Marcellus Township, Precinct 1",State Senate,17,DEM,Write-In,2,0,0,2
+Cass,"Marcellus Township, Precinct 1",State Senate,17,DEM,Ballots Cast,226,0,2,224
+Cass,"Mason Township, Precinct 1A",State Senate,17,DEM,Ashleigh Baker,58,0,3,55
+Cass,"Mason Township, Precinct 1A",State Senate,17,DEM,Mike D. Jones,15,0,0,15
+Cass,"Mason Township, Precinct 1A",State Senate,17,DEM,Brett Muchow,31,0,2,29
+Cass,"Mason Township, Precinct 1A",State Senate,17,DEM,Write-In,1,0,0,1
+Cass,"Mason Township, Precinct 1A",State Senate,17,DEM,Ballots Cast,104,0,5,99
+Cass,"Mason Township, Precinct 1B",State Senate,17,DEM,Ashleigh Baker,15,0,1,14
+Cass,"Mason Township, Precinct 1B",State Senate,17,DEM,Mike D. Jones,5,0,0,5
+Cass,"Mason Township, Precinct 1B",State Senate,17,DEM,Brett Muchow,1,0,1,0
+Cass,"Mason Township, Precinct 1B",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1B",State Senate,17,DEM,Ballots Cast,21,0,2,19
+Cass,"Mason Township, Precinct 1C",State Senate,17,DEM,Ashleigh Baker,0,0,0,0
+Cass,"Mason Township, Precinct 1C",State Senate,17,DEM,Mike D. Jones,0,0,0,0
+Cass,"Mason Township, Precinct 1C",State Senate,17,DEM,Brett Muchow,0,0,0,0
+Cass,"Mason Township, Precinct 1C",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",State Senate,17,DEM,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1A",State Senate,17,DEM,Ashleigh Baker,53,0,1,52
+Cass,"Milton Township, Precinct 1A",State Senate,17,DEM,Mike D. Jones,10,0,0,10
+Cass,"Milton Township, Precinct 1A",State Senate,17,DEM,Brett Muchow,34,0,1,33
+Cass,"Milton Township, Precinct 1A",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1A",State Senate,17,DEM,Ballots Cast,97,0,2,95
+Cass,"Milton Township, Precinct 1B",State Senate,17,DEM,Ashleigh Baker,58,0,0,58
+Cass,"Milton Township, Precinct 1B",State Senate,17,DEM,Mike D. Jones,24,0,0,24
+Cass,"Milton Township, Precinct 1B",State Senate,17,DEM,Brett Muchow,26,0,0,26
+Cass,"Milton Township, Precinct 1B",State Senate,17,DEM,Write-In,1,0,0,1
+Cass,"Milton Township, Precinct 1B",State Senate,17,DEM,Ballots Cast,108,0,0,108
+Cass,"Newberg Township, Precinct 1A",State Senate,17,DEM,Ashleigh Baker,38,0,1,37
+Cass,"Newberg Township, Precinct 1A",State Senate,17,DEM,Mike D. Jones,9,0,0,9
+Cass,"Newberg Township, Precinct 1A",State Senate,17,DEM,Brett Muchow,26,0,0,26
+Cass,"Newberg Township, Precinct 1A",State Senate,17,DEM,Write-In,1,0,0,1
+Cass,"Newberg Township, Precinct 1A",State Senate,17,DEM,Ballots Cast,73,0,1,72
+Cass,"Newberg Township, Precinct 1B",State Senate,17,DEM,Ashleigh Baker,23,0,5,18
+Cass,"Newberg Township, Precinct 1B",State Senate,17,DEM,Mike D. Jones,8,0,2,6
+Cass,"Newberg Township, Precinct 1B",State Senate,17,DEM,Brett Muchow,17,0,3,14
+Cass,"Newberg Township, Precinct 1B",State Senate,17,DEM,Write-In,1,0,0,1
+Cass,"Newberg Township, Precinct 1B",State Senate,17,DEM,Ballots Cast,48,0,10,38
+Cass,"Ontwa Township, Precinct 1",State Senate,17,DEM,Ashleigh Baker,139,81,5,53
+Cass,"Ontwa Township, Precinct 1",State Senate,17,DEM,Mike D. Jones,46,32,2,12
+Cass,"Ontwa Township, Precinct 1",State Senate,17,DEM,Brett Muchow,43,31,2,10
+Cass,"Ontwa Township, Precinct 1",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 1",State Senate,17,DEM,Ballots Cast,228,144,9,75
+Cass,"Ontwa Township, Precinct 2",State Senate,17,DEM,Ashleigh Baker,126,83,2,41
+Cass,"Ontwa Township, Precinct 2",State Senate,17,DEM,Mike D. Jones,37,24,1,12
+Cass,"Ontwa Township, Precinct 2",State Senate,17,DEM,Brett Muchow,80,61,1,18
+Cass,"Ontwa Township, Precinct 2",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",State Senate,17,DEM,Ballots Cast,243,168,4,71
+Cass,"Penn Township, Precinct 1A",State Senate,17,DEM,Ashleigh Baker,91,0,12,79
+Cass,"Penn Township, Precinct 1A",State Senate,17,DEM,Mike D. Jones,26,0,2,24
+Cass,"Penn Township, Precinct 1A",State Senate,17,DEM,Brett Muchow,32,0,1,31
+Cass,"Penn Township, Precinct 1A",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1A",State Senate,17,DEM,Ballots Cast,149,0,15,134
+Cass,"Penn Township, Precinct 1B",State Senate,17,DEM,Ashleigh Baker,3,0,0,3
+Cass,"Penn Township, Precinct 1B",State Senate,17,DEM,Mike D. Jones,0,0,0,0
+Cass,"Penn Township, Precinct 1B",State Senate,17,DEM,Brett Muchow,0,0,0,0
+Cass,"Penn Township, Precinct 1B",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B",State Senate,17,DEM,Ballots Cast,3,0,0,3
+Cass,"Pokagon Township, Precinct 1",State Senate,17,DEM,Ashleigh Baker,99,0,6,93
+Cass,"Pokagon Township, Precinct 1",State Senate,17,DEM,Mike D. Jones,27,0,2,25
+Cass,"Pokagon Township, Precinct 1",State Senate,17,DEM,Brett Muchow,31,0,4,27
+Cass,"Pokagon Township, Precinct 1",State Senate,17,DEM,Write-In,1,0,0,1
+Cass,"Pokagon Township, Precinct 1",State Senate,17,DEM,Ballots Cast,157,0,12,145
+Cass,"Porter Township, Precinct 1A",State Senate,17,DEM,Ashleigh Baker,68,0,3,65
+Cass,"Porter Township, Precinct 1A",State Senate,17,DEM,Mike D. Jones,26,0,1,25
+Cass,"Porter Township, Precinct 1A",State Senate,17,DEM,Brett Muchow,44,0,2,42
+Cass,"Porter Township, Precinct 1A",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1A",State Senate,17,DEM,Ballots Cast,138,0,6,132
+Cass,"Porter Township, Precinct 1B",State Senate,17,DEM,Ashleigh Baker,6,0,0,6
+Cass,"Porter Township, Precinct 1B",State Senate,17,DEM,Mike D. Jones,0,0,0,0
+Cass,"Porter Township, Precinct 1B",State Senate,17,DEM,Brett Muchow,2,0,0,2
+Cass,"Porter Township, Precinct 1B",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B",State Senate,17,DEM,Ballots Cast,8,0,0,8
+Cass,"Porter Township, Precinct 2A",State Senate,17,DEM,Ashleigh Baker,9,0,0,9
+Cass,"Porter Township, Precinct 2A",State Senate,17,DEM,Mike D. Jones,4,0,0,4
+Cass,"Porter Township, Precinct 2A",State Senate,17,DEM,Brett Muchow,9,0,0,9
+Cass,"Porter Township, Precinct 2A",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2A",State Senate,17,DEM,Ballots Cast,22,0,0,22
+Cass,"Porter Township, Precinct 2B",State Senate,17,DEM,Ashleigh Baker,67,0,0,67
+Cass,"Porter Township, Precinct 2B",State Senate,17,DEM,Mike D. Jones,10,0,0,10
+Cass,"Porter Township, Precinct 2B",State Senate,17,DEM,Brett Muchow,42,0,0,42
+Cass,"Porter Township, Precinct 2B",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2B",State Senate,17,DEM,Ballots Cast,119,0,0,119
+Cass,"Silver Creek Township, Precinct 1",State Senate,17,DEM,Ashleigh Baker,123,80,4,39
+Cass,"Silver Creek Township, Precinct 1",State Senate,17,DEM,Mike D. Jones,42,22,1,19
+Cass,"Silver Creek Township, Precinct 1",State Senate,17,DEM,Brett Muchow,44,28,0,16
+Cass,"Silver Creek Township, Precinct 1",State Senate,17,DEM,Write-In,2,0,1,1
+Cass,"Silver Creek Township, Precinct 1",State Senate,17,DEM,Ballots Cast,209,130,5,74
+Cass,"Volinia Township, Precinct 1A",State Senate,17,DEM,Ashleigh Baker,6,0,1,5
+Cass,"Volinia Township, Precinct 1A",State Senate,17,DEM,Mike D. Jones,4,0,0,4
+Cass,"Volinia Township, Precinct 1A",State Senate,17,DEM,Brett Muchow,3,0,2,1
+Cass,"Volinia Township, Precinct 1A",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",State Senate,17,DEM,Ballots Cast,13,0,3,10
+Cass,"Volinia Township, Precinct 1B",State Senate,17,DEM,Ashleigh Baker,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",State Senate,17,DEM,Mike D. Jones,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",State Senate,17,DEM,Brett Muchow,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",State Senate,17,DEM,Ballots Cast,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",State Senate,17,DEM,Ashleigh Baker,46,0,2,44
+Cass,"Volinia Township, Precinct 1C",State Senate,17,DEM,Mike D. Jones,15,0,0,15
+Cass,"Volinia Township, Precinct 1C",State Senate,17,DEM,Brett Muchow,11,0,1,10
+Cass,"Volinia Township, Precinct 1C",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",State Senate,17,DEM,Ballots Cast,72,0,3,69
+Cass,"Wayne Township, Precinct 1A",State Senate,17,DEM,Ashleigh Baker,84,0,2,82
+Cass,"Wayne Township, Precinct 1A",State Senate,17,DEM,Mike D. Jones,25,0,0,25
+Cass,"Wayne Township, Precinct 1A",State Senate,17,DEM,Brett Muchow,44,0,3,41
+Cass,"Wayne Township, Precinct 1A",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1A",State Senate,17,DEM,Ballots Cast,153,0,5,148
+Cass,"Wayne Township, Precinct 1B",State Senate,17,DEM,Ashleigh Baker,19,0,0,19
+Cass,"Wayne Township, Precinct 1B",State Senate,17,DEM,Mike D. Jones,1,0,0,1
+Cass,"Wayne Township, Precinct 1B",State Senate,17,DEM,Brett Muchow,8,0,0,8
+Cass,"Wayne Township, Precinct 1B",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",State Senate,17,DEM,Ballots Cast,28,0,0,28
+Cass,"Wayne Township, Precinct 1C",State Senate,17,DEM,Ashleigh Baker,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",State Senate,17,DEM,Mike D. Jones,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",State Senate,17,DEM,Brett Muchow,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",State Senate,17,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",State Senate,17,DEM,Ballots Cast,0,0,0,0
+Cass,"Calvin Township, Precinct 1",State House,36,DEM,Cole Slaski,148,0,9,139
+Cass,"Calvin Township, Precinct 1",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Calvin Township, Precinct 1",State House,36,DEM,Ballots Cast,148,0,9,139
+Cass,"Jefferson Township, Precinct 1A",State House,36,DEM,Cole Slaski,91,0,10,81
+Cass,"Jefferson Township, Precinct 1A",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1A",State House,36,DEM,Ballots Cast,91,0,10,81
+Cass,"Jefferson Township, Precinct 1B",State House,36,DEM,Cole Slaski,97,0,4,93
+Cass,"Jefferson Township, Precinct 1B",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",State House,36,DEM,Ballots Cast,97,0,4,93
+Cass,"LaGrange Township, Precinct 1A",State House,36,DEM,Cole Slaski,284,0,21,263
+Cass,"LaGrange Township, Precinct 1A",State House,36,DEM,Write-In,1,0,0,1
+Cass,"LaGrange Township, Precinct 1A",State House,36,DEM,Ballots Cast,284,0,21,263
+Cass,"Marcellus Township, Precinct 1",State House,36,DEM,Cole Slaski,219,0,1,218
+Cass,"Marcellus Township, Precinct 1",State House,36,DEM,Write-In,2,0,0,2
+Cass,"Marcellus Township, Precinct 1",State House,36,DEM,Ballots Cast,219,0,1,218
+Cass,"Mason Township, Precinct 1A",State House,36,DEM,Cole Slaski,99,0,5,94
+Cass,"Mason Township, Precinct 1A",State House,36,DEM,Write-In,1,0,0,1
+Cass,"Mason Township, Precinct 1A",State House,36,DEM,Ballots Cast,99,0,5,94
+Cass,"Mason Township, Precinct 1B",State House,36,DEM,Cole Slaski,17,0,2,15
+Cass,"Mason Township, Precinct 1B",State House,36,DEM,Write-In,1,0,0,1
+Cass,"Mason Township, Precinct 1B",State House,36,DEM,Ballots Cast,17,0,2,15
+Cass,"Mason Township, Precinct 1C",State House,36,DEM,Cole Slaski,0,0,0,0
+Cass,"Mason Township, Precinct 1C",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",State House,36,DEM,Ballots Cast,0,0,0,0
+Cass,"Newberg Township, Precinct 1A",State House,36,DEM,Cole Slaski,66,0,1,65
+Cass,"Newberg Township, Precinct 1A",State House,36,DEM,Write-In,1,0,0,1
+Cass,"Newberg Township, Precinct 1A",State House,36,DEM,Ballots Cast,66,0,1,65
+Cass,"Newberg Township, Precinct 1B",State House,36,DEM,Cole Slaski,43,0,10,33
+Cass,"Newberg Township, Precinct 1B",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1B",State House,36,DEM,Ballots Cast,43,0,10,33
+Cass,"Ontwa Township, Precinct 1",State House,36,DEM,Cole Slaski,221,140,9,72
+Cass,"Ontwa Township, Precinct 1",State House,36,DEM,Write-In,1,0,0,1
+Cass,"Ontwa Township, Precinct 1",State House,36,DEM,Ballots Cast,221,140,9,72
+Cass,"Ontwa Township, Precinct 2",State House,36,DEM,Cole Slaski,226,152,2,72
+Cass,"Ontwa Township, Precinct 2",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",State House,36,DEM,Ballots Cast,226,152,2,72
+Cass,"Penn Township, Precinct 1A",State House,36,DEM,Cole Slaski,143,0,13,130
+Cass,"Penn Township, Precinct 1A",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1A",State House,36,DEM,Ballots Cast,143,0,13,130
+Cass,"Penn Township, Precinct 1B",State House,36,DEM,Cole Slaski,3,0,0,3
+Cass,"Penn Township, Precinct 1B",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B",State House,36,DEM,Ballots Cast,3,0,0,3
+Cass,"Porter Township, Precinct 1A",State House,36,DEM,Cole Slaski,133,0,7,126
+Cass,"Porter Township, Precinct 1A",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1A",State House,36,DEM,Ballots Cast,133,0,7,126
+Cass,"Porter Township, Precinct 1B",State House,36,DEM,Cole Slaski,9,0,0,9
+Cass,"Porter Township, Precinct 1B",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B",State House,36,DEM,Ballots Cast,9,0,0,9
+Cass,"Porter Township, Precinct 2A",State House,36,DEM,Cole Slaski,17,0,0,17
+Cass,"Porter Township, Precinct 2A",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2A",State House,36,DEM,Ballots Cast,17,0,0,17
+Cass,"Porter Township, Precinct 2B",State House,36,DEM,Cole Slaski,116,0,0,116
+Cass,"Porter Township, Precinct 2B",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2B",State House,36,DEM,Ballots Cast,116,0,0,116
+Cass,"Volinia Township, Precinct 1A",State House,36,DEM,Cole Slaski,12,0,3,9
+Cass,"Volinia Township, Precinct 1A",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",State House,36,DEM,Ballots Cast,12,0,3,9
+Cass,"Volinia Township, Precinct 1B",State House,36,DEM,Cole Slaski,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",State House,36,DEM,Ballots Cast,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",State House,36,DEM,Cole Slaski,68,0,4,64
+Cass,"Volinia Township, Precinct 1C",State House,36,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",State House,36,DEM,Ballots Cast,68,0,4,64
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State House,37,DEM,Angela M. Jones,132,81,0,51
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State House,37,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State House,37,DEM,Ballots Cast,132,81,0,51
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State House,37,DEM,Angela M. Jones,159,90,2,67
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State House,37,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State House,37,DEM,Ballots Cast,159,90,2,67
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State House,37,DEM,Angela M. Jones,100,53,3,44
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State House,37,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State House,37,DEM,Ballots Cast,100,53,3,44
+Cass,"Howard Township, Precinct 1",State House,37,DEM,Angela M. Jones,238,153,7,78
+Cass,"Howard Township, Precinct 1",State House,37,DEM,Write-In,2,1,0,1
+Cass,"Howard Township, Precinct 1",State House,37,DEM,Ballots Cast,238,153,7,78
+Cass,"Howard Township, Precinct 2A",State House,37,DEM,Angela M. Jones,226,143,11,72
+Cass,"Howard Township, Precinct 2A",State House,37,DEM,Write-In,3,0,0,3
+Cass,"Howard Township, Precinct 2A",State House,37,DEM,Ballots Cast,226,143,11,72
+Cass,"Howard Township, Precinct 2B",State House,37,DEM,Angela M. Jones,38,21,0,17
+Cass,"Howard Township, Precinct 2B",State House,37,DEM,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",State House,37,DEM,Ballots Cast,38,21,0,17
+Cass,"LaGrange Township, Precinct 1B",State House,37,DEM,Angela M. Jones,2,0,1,1
+Cass,"LaGrange Township, Precinct 1B",State House,37,DEM,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",State House,37,DEM,Ballots Cast,2,0,1,1
+Cass,"Milton Township, Precinct 1A",State House,37,DEM,Angela M. Jones,92,0,2,90
+Cass,"Milton Township, Precinct 1A",State House,37,DEM,Write-In,1,0,0,1
+Cass,"Milton Township, Precinct 1A",State House,37,DEM,Ballots Cast,92,0,2,90
+Cass,"Milton Township, Precinct 1B",State House,37,DEM,Angela M. Jones,106,0,0,106
+Cass,"Milton Township, Precinct 1B",State House,37,DEM,Write-In,1,0,0,1
+Cass,"Milton Township, Precinct 1B",State House,37,DEM,Ballots Cast,106,0,0,106
+Cass,"Pokagon Township, Precinct 1",State House,37,DEM,Angela M. Jones,149,0,11,138
+Cass,"Pokagon Township, Precinct 1",State House,37,DEM,Write-In,1,0,0,1
+Cass,"Pokagon Township, Precinct 1",State House,37,DEM,Ballots Cast,149,0,11,138
+Cass,"Silver Creek Township, Precinct 1",State House,37,DEM,Angela M. Jones,212,131,6,75
+Cass,"Silver Creek Township, Precinct 1",State House,37,DEM,Write-In,1,0,1,0
+Cass,"Silver Creek Township, Precinct 1",State House,37,DEM,Ballots Cast,212,131,6,75
+Cass,"Wayne Township, Precinct 1A",State House,37,DEM,Angela M. Jones,144,0,5,139
+Cass,"Wayne Township, Precinct 1A",State House,37,DEM,Write-In,1,0,0,1
+Cass,"Wayne Township, Precinct 1A",State House,37,DEM,Ballots Cast,144,0,5,139
+Cass,"Wayne Township, Precinct 1B",State House,37,DEM,Angela M. Jones,26,0,0,26
+Cass,"Wayne Township, Precinct 1B",State House,37,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",State House,37,DEM,Ballots Cast,26,0,0,26
+Cass,"Wayne Township, Precinct 1C",State House,37,DEM,Angela M. Jones,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",State House,37,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",State House,37,DEM,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1A",Milton Township Supervisor Partial Term Ending 11/20/2028,,DEM,Write-In,18,0,1,17
+Cass,"Milton Township, Precinct 1A",Milton Township Supervisor Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1B",Milton Township Supervisor Partial Term Ending 11/20/2028,,DEM,Write-In,25,0,0,25
+Cass,"Milton Township, Precinct 1B",Milton Township Supervisor Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Silver Creek Township, Precinct 1",Silver Creek Township Supervisor Partial Term Ending 11/20/2028,,DEM,Write-In,48,22,2,24
+Cass,"Silver Creek Township, Precinct 1",Silver Creek Township Supervisor Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Jefferson Township, Precinct 1A",Jefferson Township Clerk Partial Term Ending 11/20/2028,,DEM,Write-In,18,0,1,17
+Cass,"Jefferson Township, Precinct 1A",Jefferson Township Clerk Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",Jefferson Township Clerk Partial Term Ending 11/20/2028,,DEM,Write-In,16,0,1,15
+Cass,"Jefferson Township, Precinct 1B",Jefferson Township Clerk Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Wayne Township, Precinct 1A",Wayne Township Clerk Partial Term Ending 11/20/2028,,DEM,Write-In,34,0,1,33
+Cass,"Wayne Township, Precinct 1A",Wayne Township Clerk Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",Wayne Township Clerk Partial Term Ending 11/20/2028,,DEM,Write-In,2,0,0,2
+Cass,"Wayne Township, Precinct 1B",Wayne Township Clerk Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Wayne Township Clerk Partial Term Ending 11/20/2028,,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Wayne Township Clerk Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1A",Milton Township Treasurer Partial Term Ending 11/20/2028,,DEM,Write-In,17,0,0,17
+Cass,"Milton Township, Precinct 1A",Milton Township Treasurer Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1B",Milton Township Treasurer Partial Term Ending 11/20/2028,,DEM,Write-In,24,0,0,24
+Cass,"Milton Township, Precinct 1B",Milton Township Treasurer Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Mason Township, Precinct 1A",Mason Township Trustee Partial Term Ending 11/20/2028,,DEM,Write-In,21,0,0,21
+Cass,"Mason Township, Precinct 1A",Mason Township Trustee Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Mason Township, Precinct 1B",Mason Township Trustee Partial Term Ending 11/20/2028,,DEM,Write-In,2,0,0,2
+Cass,"Mason Township, Precinct 1B",Mason Township Trustee Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Mason Township, Precinct 1C",Mason Township Trustee Partial Term Ending 11/20/2028,,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",Mason Township Trustee Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1A",Milton Township Trustee Partial Term Ending 11/20/2028,,DEM,Write-In,16,0,0,16
+Cass,"Milton Township, Precinct 1A",Milton Township Trustee Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1B",Milton Township Trustee Partial Term Ending 11/20/2028,,DEM,Write-In,24,0,0,24
+Cass,"Milton Township, Precinct 1B",Milton Township Trustee Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",Volinia Township Trustee Partial Term Ending 11/20/2028,,DEM,Write-In,1,0,0,1
+Cass,"Volinia Township, Precinct 1A",Volinia Township Trustee Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Volinia Township Trustee Partial Term Ending 11/20/2028,,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Volinia Township Trustee Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",Volinia Township Trustee Partial Term Ending 11/20/2028,,DEM,Write-In,10,0,0,10
+Cass,"Volinia Township, Precinct 1C",Volinia Township Trustee Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Wayne Township, Precinct 1A",Wayne Township Trustee Partial Term Ending 11/20/2028,,DEM,Write-In,35,0,1,34
+Cass,"Wayne Township, Precinct 1A",Wayne Township Trustee Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",Wayne Township Trustee Partial Term Ending 11/20/2028,,DEM,Write-In,2,0,0,2
+Cass,"Wayne Township, Precinct 1B",Wayne Township Trustee Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Wayne Township Trustee Partial Term Ending 11/20/2028,,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Wayne Township Trustee Partial Term Ending 11/20/2028,,DEM,Ballots Cast,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1","City of Dowagiac, Precinct 1 Delegate to County Convention",,DEM,Steve Mammel,79,51,0,28
+Cass,"City of Dowagiac, Ward 1, Precinct 1","City of Dowagiac, Precinct 1 Delegate to County Convention",,DEM,Jane Phillipson Wilson,115,72,0,43
+Cass,"City of Dowagiac, Ward 1, Precinct 1","City of Dowagiac, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1","City of Dowagiac, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,194,123,0,71
+Cass,"City of Dowagiac, Ward 2, Precinct 2","City of Dowagiac, Precinct 2 Delegate to County Convention",,DEM,Donald W. Ludman,112,67,0,45
+Cass,"City of Dowagiac, Ward 2, Precinct 2","City of Dowagiac, Precinct 2 Delegate to County Convention",,DEM,Naomi Ludman,150,81,2,67
+Cass,"City of Dowagiac, Ward 2, Precinct 2","City of Dowagiac, Precinct 2 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2","City of Dowagiac, Precinct 2 Delegate to County Convention",,DEM,Ballots Cast,262,148,2,112
+Cass,"City of Dowagiac, Ward 3, Precinct 3","City of Dowagiac, Precinct 3 Delegate to County Convention",,DEM,Mike Moroz,67,40,0,27
+Cass,"City of Dowagiac, Ward 3, Precinct 3","City of Dowagiac, Precinct 3 Delegate to County Convention",,DEM,Susan Newitt,67,35,2,30
+Cass,"City of Dowagiac, Ward 3, Precinct 3","City of Dowagiac, Precinct 3 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3","City of Dowagiac, Precinct 3 Delegate to County Convention",,DEM,Ballots Cast,134,75,2,57
+Cass,"Calvin Township, Precinct 1","Calvin Township, Precinct 1 Delegate to County Convention",,DEM,Bruce Carter,88,0,7,81
+Cass,"Calvin Township, Precinct 1","Calvin Township, Precinct 1 Delegate to County Convention",,DEM,Theresa Kelly Slaski,128,0,9,119
+Cass,"Calvin Township, Precinct 1","Calvin Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,2,0,0,2
+Cass,"Calvin Township, Precinct 1","Calvin Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,216,0,16,200
+Cass,"Howard Township, Precinct 1","Howard Township, Precinct 1 Delegate to County Convention",,DEM,Becky Adams,204,133,7,64
+Cass,"Howard Township, Precinct 1","Howard Township, Precinct 1 Delegate to County Convention",,DEM,Margie E. Herman,178,126,2,50
+Cass,"Howard Township, Precinct 1","Howard Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,2,1,0,1
+Cass,"Howard Township, Precinct 1","Howard Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,382,259,9,114
+Cass,"Howard Township, Precinct 2A","Howard Township, Precinct 2 Delegate to County Convention",,DEM,Dean E. Hill,218,137,11,70
+Cass,"Howard Township, Precinct 2A","Howard Township, Precinct 2 Delegate to County Convention",,DEM,Write-In,4,3,0,1
+Cass,"Howard Township, Precinct 2A","Howard Township, Precinct 2 Delegate to County Convention",,DEM,Ballots Cast,218,137,11,70
+Cass,"Howard Township, Precinct 2B","Howard Township, Precinct 2 Delegate to County Convention",,DEM,Dean E. Hill,37,22,0,15
+Cass,"Howard Township, Precinct 2B","Howard Township, Precinct 2 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B","Howard Township, Precinct 2 Delegate to County Convention",,DEM,Ballots Cast,37,22,0,15
+Cass,"Jefferson Township, Precinct 1A","Jefferson Township, Precinct 1 Delegate to County Convention",,DEM,Merry B. Clark,57,0,9,48
+Cass,"Jefferson Township, Precinct 1A","Jefferson Township, Precinct 1 Delegate to County Convention",,DEM,Patricia Mitchell,71,0,8,63
+Cass,"Jefferson Township, Precinct 1A","Jefferson Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1A","Jefferson Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,128,0,17,111
+Cass,"Jefferson Township, Precinct 1B","Jefferson Township, Precinct 1 Delegate to County Convention",,DEM,Merry B. Clark,73,0,2,71
+Cass,"Jefferson Township, Precinct 1B","Jefferson Township, Precinct 1 Delegate to County Convention",,DEM,Patricia Mitchell,85,0,4,81
+Cass,"Jefferson Township, Precinct 1B","Jefferson Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B","Jefferson Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,158,0,6,152
+Cass,"LaGrange Township, Precinct 1A","LaGrange Township, Precinct 1 Delegate to County Convention",,DEM,Carolyn Kelly,247,0,16,231
+Cass,"LaGrange Township, Precinct 1A","LaGrange Township, Precinct 1 Delegate to County Convention",,DEM,Eileen Mannell,175,0,12,163
+Cass,"LaGrange Township, Precinct 1A","LaGrange Township, Precinct 1 Delegate to County Convention",,DEM,Nancy S. Preston,190,0,15,175
+Cass,"LaGrange Township, Precinct 1A","LaGrange Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1A","LaGrange Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,612,0,43,569
+Cass,"LaGrange Township, Precinct 1B","LaGrange Township, Precinct 1 Delegate to County Convention",,DEM,Carolyn Kelly,2,0,1,1
+Cass,"LaGrange Township, Precinct 1B","LaGrange Township, Precinct 1 Delegate to County Convention",,DEM,Eileen Mannell,2,0,1,1
+Cass,"LaGrange Township, Precinct 1B","LaGrange Township, Precinct 1 Delegate to County Convention",,DEM,Nancy S. Preston,2,0,1,1
+Cass,"LaGrange Township, Precinct 1B","LaGrange Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B","LaGrange Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,6,0,3,3
+Cass,"Marcellus Township, Precinct 1","Marcellus Township, Precinct 1 Delegate to County Convention",,DEM,Burke H. Webb,196,0,1,195
+Cass,"Marcellus Township, Precinct 1","Marcellus Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,4,0,0,4
+Cass,"Marcellus Township, Precinct 1","Marcellus Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,196,0,1,195
+Cass,"Mason Township, Precinct 1A","Mason Township, Precinct 1 Delegate to County Convention",,DEM,Michael Bumgarner,83,0,6,77
+Cass,"Mason Township, Precinct 1A","Mason Township, Precinct 1 Delegate to County Convention",,DEM,Sharlene Bumgarner,94,0,6,88
+Cass,"Mason Township, Precinct 1A","Mason Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1A","Mason Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,177,0,12,165
+Cass,"Mason Township, Precinct 1B","Mason Township, Precinct 1 Delegate to County Convention",,DEM,Michael Bumgarner,10,0,0,10
+Cass,"Mason Township, Precinct 1B","Mason Township, Precinct 1 Delegate to County Convention",,DEM,Sharlene Bumgarner,16,0,2,14
+Cass,"Mason Township, Precinct 1B","Mason Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1B","Mason Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,26,0,2,24
+Cass,"Mason Township, Precinct 1C","Mason Township, Precinct 1 Delegate to County Convention",,DEM,Michael Bumgarner,0,0,0,0
+Cass,"Mason Township, Precinct 1C","Mason Township, Precinct 1 Delegate to County Convention",,DEM,Sharlene Bumgarner,0,0,0,0
+Cass,"Mason Township, Precinct 1C","Mason Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C","Mason Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1A","Milton Township, Precinct 1 Delegate to County Convention",,DEM,Larry W. Grover,54,0,1,53
+Cass,"Milton Township, Precinct 1A","Milton Township, Precinct 1 Delegate to County Convention",,DEM,Elaine L. Shafer,79,0,2,77
+Cass,"Milton Township, Precinct 1A","Milton Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1A","Milton Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,133,0,3,130
+Cass,"Milton Township, Precinct 1B","Milton Township, Precinct 1 Delegate to County Convention",,DEM,Larry W. Grover,72,0,0,72
+Cass,"Milton Township, Precinct 1B","Milton Township, Precinct 1 Delegate to County Convention",,DEM,Elaine L. Shafer,94,0,0,94
+Cass,"Milton Township, Precinct 1B","Milton Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,2,0,0,2
+Cass,"Milton Township, Precinct 1B","Milton Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,166,0,0,166
+Cass,"Newberg Township, Precinct 1A","Newberg Township, Precinct 1 Delegate to County Convention",,DEM,Byron Cuddeback,52,0,1,51
+Cass,"Newberg Township, Precinct 1A","Newberg Township, Precinct 1 Delegate to County Convention",,DEM,Jeremy Friesen,52,0,1,51
+Cass,"Newberg Township, Precinct 1A","Newberg Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,1,0,0,1
+Cass,"Newberg Township, Precinct 1A","Newberg Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,104,0,2,102
+Cass,"Newberg Township, Precinct 1B","Newberg Township, Precinct 1 Delegate to County Convention",,DEM,Byron Cuddeback,33,0,6,27
+Cass,"Newberg Township, Precinct 1B","Newberg Township, Precinct 1 Delegate to County Convention",,DEM,Jeremy Friesen,32,0,7,25
+Cass,"Newberg Township, Precinct 1B","Newberg Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1B","Newberg Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,65,0,13,52
+Cass,"Ontwa Township, Precinct 1","Ontwa Township, Precinct 1 Delegate to County Convention",,DEM,Cheryle D. Barton,162,108,6,48
+Cass,"Ontwa Township, Precinct 1","Ontwa Township, Precinct 1 Delegate to County Convention",,DEM,Melanie Galbreath,165,109,9,47
+Cass,"Ontwa Township, Precinct 1","Ontwa Township, Precinct 1 Delegate to County Convention",,DEM,Mary Anne Hoebeke,156,106,6,44
+Cass,"Ontwa Township, Precinct 1","Ontwa Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 1","Ontwa Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,483,323,21,139
+Cass,"Ontwa Township, Precinct 2","Ontwa Township, Precinct 2 Delegate to County Convention",,DEM,Judy Ashley,169,122,2,45
+Cass,"Ontwa Township, Precinct 2","Ontwa Township, Precinct 2 Delegate to County Convention",,DEM,Mary Ann L Crete,171,120,1,50
+Cass,"Ontwa Township, Precinct 2","Ontwa Township, Precinct 2 Delegate to County Convention",,DEM,Mary Geminder,178,127,1,50
+Cass,"Ontwa Township, Precinct 2","Ontwa Township, Precinct 2 Delegate to County Convention",,DEM,James A. Meuninck,101,76,1,24
+Cass,"Ontwa Township, Precinct 2","Ontwa Township, Precinct 2 Delegate to County Convention",,DEM,Jill C. Meuninck,160,107,2,51
+Cass,"Ontwa Township, Precinct 2","Ontwa Township, Precinct 2 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2","Ontwa Township, Precinct 2 Delegate to County Convention",,DEM,Ballots Cast,779,552,7,220
+Cass,"Penn Township, Precinct 1A","Penn Township, Precinct 1 Delegate to County Convention",,DEM,SuZane Lankford,106,0,10,96
+Cass,"Penn Township, Precinct 1A","Penn Township, Precinct 1 Delegate to County Convention",,DEM,Sue Monaghan,121,0,13,108
+Cass,"Penn Township, Precinct 1A","Penn Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1A","Penn Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,227,0,23,204
+Cass,"Penn Township, Precinct 1B","Penn Township, Precinct 1 Delegate to County Convention",,DEM,SuZane Lankford,1,0,0,1
+Cass,"Penn Township, Precinct 1B","Penn Township, Precinct 1 Delegate to County Convention",,DEM,Sue Monaghan,1,0,0,1
+Cass,"Penn Township, Precinct 1B","Penn Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B","Penn Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,2,0,0,2
+Cass,"Pokagon Township, Precinct 1","Pokagon Township, Precinct 1 Delegate to County Convention",,DEM,Barbie Race,96,0,9,87
+Cass,"Pokagon Township, Precinct 1","Pokagon Township, Precinct 1 Delegate to County Convention",,DEM,Margaret Wyant,143,0,13,130
+Cass,"Pokagon Township, Precinct 1","Pokagon Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,2,0,0,2
+Cass,"Pokagon Township, Precinct 1","Pokagon Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,239,0,22,217
+Cass,"Porter Township, Precinct 1A","Porter Township, Precinct 1 Delegate to County Convention",,DEM,Blair Garceau,129,0,8,121
+Cass,"Porter Township, Precinct 1A","Porter Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1A","Porter Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,129,0,8,121
+Cass,"Porter Township, Precinct 1B","Porter Township, Precinct 1 Delegate to County Convention",,DEM,Blair Garceau,8,0,0,8
+Cass,"Porter Township, Precinct 1B","Porter Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B","Porter Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,8,0,0,8
+Cass,"Porter Township, Precinct 2A","Porter Township, Precinct 2 Delegate to County Convention",,DEM,William Coleman,8,0,0,8
+Cass,"Porter Township, Precinct 2A","Porter Township, Precinct 2 Delegate to County Convention",,DEM,Connie M. Holt,15,0,0,15
+Cass,"Porter Township, Precinct 2A","Porter Township, Precinct 2 Delegate to County Convention",,DEM,Sandra J. Hostetler,8,0,0,8
+Cass,"Porter Township, Precinct 2A","Porter Township, Precinct 2 Delegate to County Convention",,DEM,Charlie Walls,7,0,0,7
+Cass,"Porter Township, Precinct 2A","Porter Township, Precinct 2 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2A","Porter Township, Precinct 2 Delegate to County Convention",,DEM,Ballots Cast,38,0,0,38
+Cass,"Porter Township, Precinct 2B","Porter Township, Precinct 2 Delegate to County Convention",,DEM,William Coleman,32,0,0,32
+Cass,"Porter Township, Precinct 2B","Porter Township, Precinct 2 Delegate to County Convention",,DEM,Connie M. Holt,108,0,0,108
+Cass,"Porter Township, Precinct 2B","Porter Township, Precinct 2 Delegate to County Convention",,DEM,Sandra J. Hostetler,67,0,0,67
+Cass,"Porter Township, Precinct 2B","Porter Township, Precinct 2 Delegate to County Convention",,DEM,Charlie Walls,70,0,0,70
+Cass,"Porter Township, Precinct 2B","Porter Township, Precinct 2 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2B","Porter Township, Precinct 2 Delegate to County Convention",,DEM,Ballots Cast,277,0,0,277
+Cass,"Silver Creek Township, Precinct 1","Silver Creek Township, Precinct 1 Delegate to County Convention",,DEM,Lynda Crane,204,126,5,73
+Cass,"Silver Creek Township, Precinct 1","Silver Creek Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Silver Creek Township, Precinct 1","Silver Creek Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,204,126,5,73
+Cass,"Volinia Township, Precinct 1A","Volinia Township, Precinct 1 Delegate to County Convention",,DEM,Amy L. Davidhizar,13,0,3,10
+Cass,"Volinia Township, Precinct 1A","Volinia Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A","Volinia Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,13,0,3,10
+Cass,"Volinia Township, Precinct 1B","Volinia Township, Precinct 1 Delegate to County Convention",,DEM,Amy L. Davidhizar,0,0,0,0
+Cass,"Volinia Township, Precinct 1B","Volinia Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B","Volinia Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,0,0,0,0
+Cass,"Volinia Township, Precinct 1C","Volinia Township, Precinct 1 Delegate to County Convention",,DEM,Amy L. Davidhizar,78,0,5,73
+Cass,"Volinia Township, Precinct 1C","Volinia Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,1,0,0,1
+Cass,"Volinia Township, Precinct 1C","Volinia Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,78,0,5,73
+Cass,"Wayne Township, Precinct 1A","Wayne Township, Precinct 1 Delegate to County Convention",,DEM,Julie N. Dye,122,0,3,119
+Cass,"Wayne Township, Precinct 1A","Wayne Township, Precinct 1 Delegate to County Convention",,DEM,Lois Koel,76,0,1,75
+Cass,"Wayne Township, Precinct 1A","Wayne Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1A","Wayne Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,198,0,4,194
+Cass,"Wayne Township, Precinct 1B","Wayne Township, Precinct 1 Delegate to County Convention",,DEM,Julie N. Dye,23,0,0,23
+Cass,"Wayne Township, Precinct 1B","Wayne Township, Precinct 1 Delegate to County Convention",,DEM,Lois Koel,22,0,0,22
+Cass,"Wayne Township, Precinct 1B","Wayne Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B","Wayne Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,45,0,0,45
+Cass,"Wayne Township, Precinct 1C","Wayne Township, Precinct 1 Delegate to County Convention",,DEM,Julie N. Dye,0,0,0,0
+Cass,"Wayne Township, Precinct 1C","Wayne Township, Precinct 1 Delegate to County Convention",,DEM,Lois Koel,0,0,0,0
+Cass,"Wayne Township, Precinct 1C","Wayne Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C","Wayne Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,0,0,0,0
+Cass,"Calvin Township, Precinct 1",Governor,,REP,Mike Cox,26,0,3,23
+Cass,"Calvin Township, Precinct 1",Governor,,REP,John James,84,0,10,74
+Cass,"Calvin Township, Precinct 1",Governor,,REP,Perry Johnson,44,0,1,43
+Cass,"Calvin Township, Precinct 1",Governor,,REP,Aric Nesbitt,4,0,0,4
+Cass,"Calvin Township, Precinct 1",Governor,,REP,Write-In,2,0,0,2
+Cass,"Calvin Township, Precinct 1",Governor,,REP,Ballots Cast,158,0,14,144
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Governor,,REP,Mike Cox,10,5,0,5
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Governor,,REP,John James,48,19,4,25
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Governor,,REP,Perry Johnson,20,8,0,12
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Governor,,REP,Aric Nesbitt,4,3,0,1
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Governor,,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Governor,,REP,Ballots Cast,82,35,4,43
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Governor,,REP,Mike Cox,8,5,0,3
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Governor,,REP,John James,78,36,0,42
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Governor,,REP,Perry Johnson,37,17,0,20
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Governor,,REP,Aric Nesbitt,8,8,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Governor,,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Governor,,REP,Ballots Cast,131,66,0,65
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Governor,,REP,Mike Cox,6,2,0,4
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Governor,,REP,John James,51,17,2,32
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Governor,,REP,Perry Johnson,28,5,1,22
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Governor,,REP,Aric Nesbitt,3,3,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Governor,,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Governor,,REP,Ballots Cast,88,27,3,58
+Cass,"Howard Township, Precinct 1",Governor,,REP,Mike Cox,78,31,1,46
+Cass,"Howard Township, Precinct 1",Governor,,REP,John James,293,77,12,204
+Cass,"Howard Township, Precinct 1",Governor,,REP,Perry Johnson,135,48,8,79
+Cass,"Howard Township, Precinct 1",Governor,,REP,Aric Nesbitt,1,0,0,1
+Cass,"Howard Township, Precinct 1",Governor,,REP,Write-In,3,0,0,3
+Cass,"Howard Township, Precinct 1",Governor,,REP,Ballots Cast,507,156,21,330
+Cass,"Howard Township, Precinct 2A",Governor,,REP,Mike Cox,35,14,0,21
+Cass,"Howard Township, Precinct 2A",Governor,,REP,John James,222,86,11,125
+Cass,"Howard Township, Precinct 2A",Governor,,REP,Perry Johnson,93,32,2,59
+Cass,"Howard Township, Precinct 2A",Governor,,REP,Aric Nesbitt,9,6,0,3
+Cass,"Howard Township, Precinct 2A",Governor,,REP,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2A",Governor,,REP,Ballots Cast,359,138,13,208
+Cass,"Howard Township, Precinct 2B",Governor,,REP,Mike Cox,12,6,0,6
+Cass,"Howard Township, Precinct 2B",Governor,,REP,John James,51,17,5,29
+Cass,"Howard Township, Precinct 2B",Governor,,REP,Perry Johnson,34,10,2,22
+Cass,"Howard Township, Precinct 2B",Governor,,REP,Aric Nesbitt,5,3,0,2
+Cass,"Howard Township, Precinct 2B",Governor,,REP,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",Governor,,REP,Ballots Cast,102,36,7,59
+Cass,"Jefferson Township, Precinct 1A",Governor,,REP,Mike Cox,11,0,3,8
+Cass,"Jefferson Township, Precinct 1A",Governor,,REP,John James,91,0,5,86
+Cass,"Jefferson Township, Precinct 1A",Governor,,REP,Perry Johnson,46,0,7,39
+Cass,"Jefferson Township, Precinct 1A",Governor,,REP,Aric Nesbitt,3,0,0,3
+Cass,"Jefferson Township, Precinct 1A",Governor,,REP,Write-In,2,0,0,2
+Cass,"Jefferson Township, Precinct 1A",Governor,,REP,Ballots Cast,151,0,15,136
+Cass,"Jefferson Township, Precinct 1B",Governor,,REP,Mike Cox,14,0,1,13
+Cass,"Jefferson Township, Precinct 1B",Governor,,REP,John James,85,0,3,82
+Cass,"Jefferson Township, Precinct 1B",Governor,,REP,Perry Johnson,39,0,4,35
+Cass,"Jefferson Township, Precinct 1B",Governor,,REP,Aric Nesbitt,3,0,0,3
+Cass,"Jefferson Township, Precinct 1B",Governor,,REP,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",Governor,,REP,Ballots Cast,141,0,8,133
+Cass,"LaGrange Township, Precinct 1A",Governor,,REP,Mike Cox,43,0,1,42
+Cass,"LaGrange Township, Precinct 1A",Governor,,REP,John James,144,0,14,130
+Cass,"LaGrange Township, Precinct 1A",Governor,,REP,Perry Johnson,81,0,5,76
+Cass,"LaGrange Township, Precinct 1A",Governor,,REP,Aric Nesbitt,7,0,1,6
+Cass,"LaGrange Township, Precinct 1A",Governor,,REP,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1A",Governor,,REP,Ballots Cast,275,0,21,254
+Cass,"LaGrange Township, Precinct 1B",Governor,,REP,Mike Cox,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",Governor,,REP,John James,2,0,0,2
+Cass,"LaGrange Township, Precinct 1B",Governor,,REP,Perry Johnson,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",Governor,,REP,Aric Nesbitt,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",Governor,,REP,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",Governor,,REP,Ballots Cast,2,0,0,2
+Cass,"Marcellus Township, Precinct 1",Governor,,REP,Mike Cox,47,0,0,47
+Cass,"Marcellus Township, Precinct 1",Governor,,REP,John James,158,0,5,153
+Cass,"Marcellus Township, Precinct 1",Governor,,REP,Perry Johnson,81,0,0,81
+Cass,"Marcellus Township, Precinct 1",Governor,,REP,Aric Nesbitt,30,0,0,30
+Cass,"Marcellus Township, Precinct 1",Governor,,REP,Write-In,0,0,0,0
+Cass,"Marcellus Township, Precinct 1",Governor,,REP,Ballots Cast,316,0,5,311
+Cass,"Mason Township, Precinct 1A",Governor,,REP,Mike Cox,14,0,0,14
+Cass,"Mason Township, Precinct 1A",Governor,,REP,John James,125,0,1,124
+Cass,"Mason Township, Precinct 1A",Governor,,REP,Perry Johnson,60,0,1,59
+Cass,"Mason Township, Precinct 1A",Governor,,REP,Aric Nesbitt,6,0,0,6
+Cass,"Mason Township, Precinct 1A",Governor,,REP,Write-In,2,0,0,2
+Cass,"Mason Township, Precinct 1A",Governor,,REP,Ballots Cast,205,0,2,203
+Cass,"Mason Township, Precinct 1B",Governor,,REP,Mike Cox,6,0,0,6
+Cass,"Mason Township, Precinct 1B",Governor,,REP,John James,30,0,0,30
+Cass,"Mason Township, Precinct 1B",Governor,,REP,Perry Johnson,32,0,6,26
+Cass,"Mason Township, Precinct 1B",Governor,,REP,Aric Nesbitt,1,0,0,1
+Cass,"Mason Township, Precinct 1B",Governor,,REP,Write-In,1,0,0,1
+Cass,"Mason Township, Precinct 1B",Governor,,REP,Ballots Cast,69,0,6,63
+Cass,"Mason Township, Precinct 1C",Governor,,REP,Mike Cox,0,0,0,0
+Cass,"Mason Township, Precinct 1C",Governor,,REP,John James,2,0,0,2
+Cass,"Mason Township, Precinct 1C",Governor,,REP,Perry Johnson,0,0,0,0
+Cass,"Mason Township, Precinct 1C",Governor,,REP,Aric Nesbitt,0,0,0,0
+Cass,"Mason Township, Precinct 1C",Governor,,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",Governor,,REP,Ballots Cast,2,0,0,2
+Cass,"Milton Township, Precinct 1A",Governor,,REP,Mike Cox,16,0,0,16
+Cass,"Milton Township, Precinct 1A",Governor,,REP,John James,109,0,5,104
+Cass,"Milton Township, Precinct 1A",Governor,,REP,Perry Johnson,62,0,7,55
+Cass,"Milton Township, Precinct 1A",Governor,,REP,Aric Nesbitt,2,0,0,2
+Cass,"Milton Township, Precinct 1A",Governor,,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1A",Governor,,REP,Ballots Cast,189,0,12,177
+Cass,"Milton Township, Precinct 1B",Governor,,REP,Mike Cox,19,0,0,19
+Cass,"Milton Township, Precinct 1B",Governor,,REP,John James,122,0,0,122
+Cass,"Milton Township, Precinct 1B",Governor,,REP,Perry Johnson,59,0,2,57
+Cass,"Milton Township, Precinct 1B",Governor,,REP,Aric Nesbitt,4,0,0,4
+Cass,"Milton Township, Precinct 1B",Governor,,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1B",Governor,,REP,Ballots Cast,204,0,2,202
+Cass,"Newberg Township, Precinct 1A",Governor,,REP,Mike Cox,12,0,0,12
+Cass,"Newberg Township, Precinct 1A",Governor,,REP,John James,61,0,0,61
+Cass,"Newberg Township, Precinct 1A",Governor,,REP,Perry Johnson,26,0,0,26
+Cass,"Newberg Township, Precinct 1A",Governor,,REP,Aric Nesbitt,6,0,0,6
+Cass,"Newberg Township, Precinct 1A",Governor,,REP,Write-In,2,0,0,2
+Cass,"Newberg Township, Precinct 1A",Governor,,REP,Ballots Cast,105,0,0,105
+Cass,"Newberg Township, Precinct 1B",Governor,,REP,Mike Cox,8,0,2,6
+Cass,"Newberg Township, Precinct 1B",Governor,,REP,John James,60,0,1,59
+Cass,"Newberg Township, Precinct 1B",Governor,,REP,Perry Johnson,25,0,0,25
+Cass,"Newberg Township, Precinct 1B",Governor,,REP,Aric Nesbitt,4,0,0,4
+Cass,"Newberg Township, Precinct 1B",Governor,,REP,Write-In,1,0,1,0
+Cass,"Newberg Township, Precinct 1B",Governor,,REP,Ballots Cast,97,0,3,94
+Cass,"Ontwa Township, Precinct 1",Governor,,REP,Mike Cox,46,29,1,16
+Cass,"Ontwa Township, Precinct 1",Governor,,REP,John James,207,103,13,91
+Cass,"Ontwa Township, Precinct 1",Governor,,REP,Perry Johnson,88,44,1,43
+Cass,"Ontwa Township, Precinct 1",Governor,,REP,Aric Nesbitt,3,2,0,1
+Cass,"Ontwa Township, Precinct 1",Governor,,REP,Write-In,1,0,0,1
+Cass,"Ontwa Township, Precinct 1",Governor,,REP,Ballots Cast,344,178,15,151
+Cass,"Ontwa Township, Precinct 2",Governor,,REP,Mike Cox,48,32,0,16
+Cass,"Ontwa Township, Precinct 2",Governor,,REP,John James,232,136,12,84
+Cass,"Ontwa Township, Precinct 2",Governor,,REP,Perry Johnson,93,40,0,53
+Cass,"Ontwa Township, Precinct 2",Governor,,REP,Aric Nesbitt,4,4,0,0
+Cass,"Ontwa Township, Precinct 2",Governor,,REP,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",Governor,,REP,Ballots Cast,377,212,12,153
+Cass,"Penn Township, Precinct 1A",Governor,,REP,Mike Cox,20,0,0,20
+Cass,"Penn Township, Precinct 1A",Governor,,REP,John James,140,0,14,126
+Cass,"Penn Township, Precinct 1A",Governor,,REP,Perry Johnson,83,0,6,77
+Cass,"Penn Township, Precinct 1A",Governor,,REP,Aric Nesbitt,4,0,0,4
+Cass,"Penn Township, Precinct 1A",Governor,,REP,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1A",Governor,,REP,Ballots Cast,247,0,20,227
+Cass,"Penn Township, Precinct 1B",Governor,,REP,Mike Cox,1,0,0,1
+Cass,"Penn Township, Precinct 1B",Governor,,REP,John James,2,0,0,2
+Cass,"Penn Township, Precinct 1B",Governor,,REP,Perry Johnson,1,0,0,1
+Cass,"Penn Township, Precinct 1B",Governor,,REP,Aric Nesbitt,0,0,0,0
+Cass,"Penn Township, Precinct 1B",Governor,,REP,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B",Governor,,REP,Ballots Cast,4,0,0,4
+Cass,"Pokagon Township, Precinct 1",Governor,,REP,Mike Cox,16,0,1,15
+Cass,"Pokagon Township, Precinct 1",Governor,,REP,John James,115,0,3,112
+Cass,"Pokagon Township, Precinct 1",Governor,,REP,Perry Johnson,54,0,1,53
+Cass,"Pokagon Township, Precinct 1",Governor,,REP,Aric Nesbitt,7,0,0,7
+Cass,"Pokagon Township, Precinct 1",Governor,,REP,Write-In,0,0,0,0
+Cass,"Pokagon Township, Precinct 1",Governor,,REP,Ballots Cast,192,0,5,187
+Cass,"Porter Township, Precinct 1A",Governor,,REP,Mike Cox,32,0,0,32
+Cass,"Porter Township, Precinct 1A",Governor,,REP,John James,179,0,5,174
+Cass,"Porter Township, Precinct 1A",Governor,,REP,Perry Johnson,73,0,2,71
+Cass,"Porter Township, Precinct 1A",Governor,,REP,Aric Nesbitt,2,0,0,2
+Cass,"Porter Township, Precinct 1A",Governor,,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1A",Governor,,REP,Ballots Cast,286,0,7,279
+Cass,"Porter Township, Precinct 1B",Governor,,REP,Mike Cox,2,0,0,2
+Cass,"Porter Township, Precinct 1B",Governor,,REP,John James,12,0,0,12
+Cass,"Porter Township, Precinct 1B",Governor,,REP,Perry Johnson,9,0,0,9
+Cass,"Porter Township, Precinct 1B",Governor,,REP,Aric Nesbitt,1,0,0,1
+Cass,"Porter Township, Precinct 1B",Governor,,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B",Governor,,REP,Ballots Cast,24,0,0,24
+Cass,"Porter Township, Precinct 2A",Governor,,REP,Mike Cox,11,0,0,11
+Cass,"Porter Township, Precinct 2A",Governor,,REP,John James,58,0,3,55
+Cass,"Porter Township, Precinct 2A",Governor,,REP,Perry Johnson,18,0,0,18
+Cass,"Porter Township, Precinct 2A",Governor,,REP,Aric Nesbitt,8,0,0,8
+Cass,"Porter Township, Precinct 2A",Governor,,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2A",Governor,,REP,Ballots Cast,95,0,3,92
+Cass,"Porter Township, Precinct 2B",Governor,,REP,Mike Cox,20,0,1,19
+Cass,"Porter Township, Precinct 2B",Governor,,REP,John James,96,0,2,94
+Cass,"Porter Township, Precinct 2B",Governor,,REP,Perry Johnson,42,0,0,42
+Cass,"Porter Township, Precinct 2B",Governor,,REP,Aric Nesbitt,3,0,0,3
+Cass,"Porter Township, Precinct 2B",Governor,,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2B",Governor,,REP,Ballots Cast,161,0,3,158
+Cass,"Silver Creek Township, Precinct 1",Governor,,REP,Mike Cox,55,29,2,24
+Cass,"Silver Creek Township, Precinct 1",Governor,,REP,John James,221,81,19,121
+Cass,"Silver Creek Township, Precinct 1",Governor,,REP,Perry Johnson,130,51,7,72
+Cass,"Silver Creek Township, Precinct 1",Governor,,REP,Aric Nesbitt,19,6,1,12
+Cass,"Silver Creek Township, Precinct 1",Governor,,REP,Write-In,1,0,0,1
+Cass,"Silver Creek Township, Precinct 1",Governor,,REP,Ballots Cast,425,167,29,229
+Cass,"Volinia Township, Precinct 1A",Governor,,REP,Mike Cox,1,0,0,1
+Cass,"Volinia Township, Precinct 1A",Governor,,REP,John James,18,0,2,16
+Cass,"Volinia Township, Precinct 1A",Governor,,REP,Perry Johnson,8,0,0,8
+Cass,"Volinia Township, Precinct 1A",Governor,,REP,Aric Nesbitt,3,0,0,3
+Cass,"Volinia Township, Precinct 1A",Governor,,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",Governor,,REP,Ballots Cast,30,0,2,28
+Cass,"Volinia Township, Precinct 1B",Governor,,REP,Mike Cox,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Governor,,REP,John James,2,0,0,2
+Cass,"Volinia Township, Precinct 1B",Governor,,REP,Perry Johnson,1,0,0,1
+Cass,"Volinia Township, Precinct 1B",Governor,,REP,Aric Nesbitt,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Governor,,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Governor,,REP,Ballots Cast,3,0,0,3
+Cass,"Volinia Township, Precinct 1C",Governor,,REP,Mike Cox,14,0,0,14
+Cass,"Volinia Township, Precinct 1C",Governor,,REP,John James,74,0,4,70
+Cass,"Volinia Township, Precinct 1C",Governor,,REP,Perry Johnson,49,0,0,49
+Cass,"Volinia Township, Precinct 1C",Governor,,REP,Aric Nesbitt,15,0,1,14
+Cass,"Volinia Township, Precinct 1C",Governor,,REP,Write-In,2,0,0,2
+Cass,"Volinia Township, Precinct 1C",Governor,,REP,Ballots Cast,152,0,5,147
+Cass,"Wayne Township, Precinct 1A",Governor,,REP,Mike Cox,27,0,1,26
+Cass,"Wayne Township, Precinct 1A",Governor,,REP,John James,101,0,6,95
+Cass,"Wayne Township, Precinct 1A",Governor,,REP,Perry Johnson,66,0,0,66
+Cass,"Wayne Township, Precinct 1A",Governor,,REP,Aric Nesbitt,12,0,0,12
+Cass,"Wayne Township, Precinct 1A",Governor,,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1A",Governor,,REP,Ballots Cast,206,0,7,199
+Cass,"Wayne Township, Precinct 1B",Governor,,REP,Mike Cox,2,0,0,2
+Cass,"Wayne Township, Precinct 1B",Governor,,REP,John James,14,0,0,14
+Cass,"Wayne Township, Precinct 1B",Governor,,REP,Perry Johnson,16,0,0,16
+Cass,"Wayne Township, Precinct 1B",Governor,,REP,Aric Nesbitt,4,0,0,4
+Cass,"Wayne Township, Precinct 1B",Governor,,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",Governor,,REP,Ballots Cast,36,0,0,36
+Cass,"Wayne Township, Precinct 1C",Governor,,REP,Mike Cox,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Governor,,REP,John James,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Governor,,REP,Perry Johnson,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Governor,,REP,Aric Nesbitt,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Governor,,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Governor,,REP,Ballots Cast,0,0,0,0
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,157,0,14,143
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,REP,Write-In,2,0,0,2
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,157,0,14,143
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,REP,Mike Rogers,77,33,4,40
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,REP,Write-In,1,1,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,REP,Ballots Cast,77,33,4,40
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,REP,Mike Rogers,128,66,0,62
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,REP,Ballots Cast,128,66,0,62
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,REP,Mike Rogers,83,26,3,54
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,REP,Ballots Cast,83,26,3,54
+Cass,"Howard Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,488,150,19,319
+Cass,"Howard Township, Precinct 1",U.S. Senate,,REP,Write-In,2,0,0,2
+Cass,"Howard Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,488,150,19,319
+Cass,"Howard Township, Precinct 2A",U.S. Senate,,REP,Mike Rogers,346,131,13,202
+Cass,"Howard Township, Precinct 2A",U.S. Senate,,REP,Write-In,1,0,0,1
+Cass,"Howard Township, Precinct 2A",U.S. Senate,,REP,Ballots Cast,346,131,13,202
+Cass,"Howard Township, Precinct 2B",U.S. Senate,,REP,Mike Rogers,97,34,6,57
+Cass,"Howard Township, Precinct 2B",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",U.S. Senate,,REP,Ballots Cast,97,34,6,57
+Cass,"Jefferson Township, Precinct 1A",U.S. Senate,,REP,Mike Rogers,148,0,15,133
+Cass,"Jefferson Township, Precinct 1A",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1A",U.S. Senate,,REP,Ballots Cast,148,0,15,133
+Cass,"Jefferson Township, Precinct 1B",U.S. Senate,,REP,Mike Rogers,135,0,8,127
+Cass,"Jefferson Township, Precinct 1B",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",U.S. Senate,,REP,Ballots Cast,135,0,8,127
+Cass,"LaGrange Township, Precinct 1A",U.S. Senate,,REP,Mike Rogers,255,0,20,235
+Cass,"LaGrange Township, Precinct 1A",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1A",U.S. Senate,,REP,Ballots Cast,255,0,20,235
+Cass,"LaGrange Township, Precinct 1B",U.S. Senate,,REP,Mike Rogers,2,0,0,2
+Cass,"LaGrange Township, Precinct 1B",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",U.S. Senate,,REP,Ballots Cast,2,0,0,2
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,305,0,5,300
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,REP,Write-In,2,0,0,2
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,305,0,5,300
+Cass,"Mason Township, Precinct 1A",U.S. Senate,,REP,Mike Rogers,200,0,3,197
+Cass,"Mason Township, Precinct 1A",U.S. Senate,,REP,Write-In,1,0,0,1
+Cass,"Mason Township, Precinct 1A",U.S. Senate,,REP,Ballots Cast,200,0,3,197
+Cass,"Mason Township, Precinct 1B",U.S. Senate,,REP,Mike Rogers,69,0,6,63
+Cass,"Mason Township, Precinct 1B",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1B",U.S. Senate,,REP,Ballots Cast,69,0,6,63
+Cass,"Mason Township, Precinct 1C",U.S. Senate,,REP,Mike Rogers,2,0,0,2
+Cass,"Mason Township, Precinct 1C",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",U.S. Senate,,REP,Ballots Cast,2,0,0,2
+Cass,"Milton Township, Precinct 1A",U.S. Senate,,REP,Mike Rogers,186,0,10,176
+Cass,"Milton Township, Precinct 1A",U.S. Senate,,REP,Write-In,1,0,0,1
+Cass,"Milton Township, Precinct 1A",U.S. Senate,,REP,Ballots Cast,186,0,10,176
+Cass,"Milton Township, Precinct 1B",U.S. Senate,,REP,Mike Rogers,201,0,2,199
+Cass,"Milton Township, Precinct 1B",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1B",U.S. Senate,,REP,Ballots Cast,201,0,2,199
+Cass,"Newberg Township, Precinct 1A",U.S. Senate,,REP,Mike Rogers,99,0,0,99
+Cass,"Newberg Township, Precinct 1A",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1A",U.S. Senate,,REP,Ballots Cast,99,0,0,99
+Cass,"Newberg Township, Precinct 1B",U.S. Senate,,REP,Mike Rogers,93,0,4,89
+Cass,"Newberg Township, Precinct 1B",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1B",U.S. Senate,,REP,Ballots Cast,93,0,4,89
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,343,176,15,152
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,REP,Write-In,1,1,0,0
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,343,176,15,152
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,REP,Mike Rogers,370,209,12,149
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,REP,Ballots Cast,370,209,12,149
+Cass,"Penn Township, Precinct 1A",U.S. Senate,,REP,Mike Rogers,227,0,20,207
+Cass,"Penn Township, Precinct 1A",U.S. Senate,,REP,Write-In,1,0,0,1
+Cass,"Penn Township, Precinct 1A",U.S. Senate,,REP,Ballots Cast,227,0,20,207
+Cass,"Penn Township, Precinct 1B",U.S. Senate,,REP,Mike Rogers,4,0,0,4
+Cass,"Penn Township, Precinct 1B",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B",U.S. Senate,,REP,Ballots Cast,4,0,0,4
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,181,0,5,176
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,181,0,5,176
+Cass,"Porter Township, Precinct 1A",U.S. Senate,,REP,Mike Rogers,275,0,7,268
+Cass,"Porter Township, Precinct 1A",U.S. Senate,,REP,Write-In,2,0,0,2
+Cass,"Porter Township, Precinct 1A",U.S. Senate,,REP,Ballots Cast,275,0,7,268
+Cass,"Porter Township, Precinct 1B",U.S. Senate,,REP,Mike Rogers,23,0,0,23
+Cass,"Porter Township, Precinct 1B",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B",U.S. Senate,,REP,Ballots Cast,23,0,0,23
+Cass,"Porter Township, Precinct 2A",U.S. Senate,,REP,Mike Rogers,92,0,3,89
+Cass,"Porter Township, Precinct 2A",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2A",U.S. Senate,,REP,Ballots Cast,92,0,3,89
+Cass,"Porter Township, Precinct 2B",U.S. Senate,,REP,Mike Rogers,156,0,3,153
+Cass,"Porter Township, Precinct 2B",U.S. Senate,,REP,Write-In,1,0,0,1
+Cass,"Porter Township, Precinct 2B",U.S. Senate,,REP,Ballots Cast,156,0,3,153
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,411,165,28,218
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,REP,Write-In,2,0,0,2
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,411,165,28,218
+Cass,"Volinia Township, Precinct 1A",U.S. Senate,,REP,Mike Rogers,30,0,2,28
+Cass,"Volinia Township, Precinct 1A",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",U.S. Senate,,REP,Ballots Cast,30,0,2,28
+Cass,"Volinia Township, Precinct 1B",U.S. Senate,,REP,Mike Rogers,3,0,0,3
+Cass,"Volinia Township, Precinct 1B",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",U.S. Senate,,REP,Ballots Cast,3,0,0,3
+Cass,"Volinia Township, Precinct 1C",U.S. Senate,,REP,Mike Rogers,143,0,5,138
+Cass,"Volinia Township, Precinct 1C",U.S. Senate,,REP,Write-In,2,0,0,2
+Cass,"Volinia Township, Precinct 1C",U.S. Senate,,REP,Ballots Cast,143,0,5,138
+Cass,"Wayne Township, Precinct 1A",U.S. Senate,,REP,Mike Rogers,202,0,7,195
+Cass,"Wayne Township, Precinct 1A",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1A",U.S. Senate,,REP,Ballots Cast,202,0,7,195
+Cass,"Wayne Township, Precinct 1B",U.S. Senate,,REP,Mike Rogers,34,0,0,34
+Cass,"Wayne Township, Precinct 1B",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",U.S. Senate,,REP,Ballots Cast,34,0,0,34
+Cass,"Wayne Township, Precinct 1C",U.S. Senate,,REP,Mike Rogers,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",U.S. Senate,,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",U.S. Senate,,REP,Ballots Cast,0,0,0,0
+Cass,"Calvin Township, Precinct 1",U.S. House,5,REP,Tim Walberg,153,0,13,140
+Cass,"Calvin Township, Precinct 1",U.S. House,5,REP,Write-In,4,0,0,4
+Cass,"Calvin Township, Precinct 1",U.S. House,5,REP,Ballots Cast,153,0,13,140
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. House,5,REP,Tim Walberg,75,35,4,36
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. House,5,REP,Ballots Cast,75,35,4,36
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. House,5,REP,Tim Walberg,126,65,0,61
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. House,5,REP,Ballots Cast,126,65,0,61
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. House,5,REP,Tim Walberg,81,24,3,54
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. House,5,REP,Ballots Cast,81,24,3,54
+Cass,"Howard Township, Precinct 1",U.S. House,5,REP,Tim Walberg,486,152,20,314
+Cass,"Howard Township, Precinct 1",U.S. House,5,REP,Write-In,2,0,0,2
+Cass,"Howard Township, Precinct 1",U.S. House,5,REP,Ballots Cast,486,152,20,314
+Cass,"Howard Township, Precinct 2A",U.S. House,5,REP,Tim Walberg,349,132,13,204
+Cass,"Howard Township, Precinct 2A",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2A",U.S. House,5,REP,Ballots Cast,349,132,13,204
+Cass,"Howard Township, Precinct 2B",U.S. House,5,REP,Tim Walberg,97,34,6,57
+Cass,"Howard Township, Precinct 2B",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",U.S. House,5,REP,Ballots Cast,97,34,6,57
+Cass,"Jefferson Township, Precinct 1A",U.S. House,5,REP,Tim Walberg,145,0,13,132
+Cass,"Jefferson Township, Precinct 1A",U.S. House,5,REP,Write-In,1,0,0,1
+Cass,"Jefferson Township, Precinct 1A",U.S. House,5,REP,Ballots Cast,145,0,13,132
+Cass,"Jefferson Township, Precinct 1B",U.S. House,5,REP,Tim Walberg,129,0,8,121
+Cass,"Jefferson Township, Precinct 1B",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",U.S. House,5,REP,Ballots Cast,129,0,8,121
+Cass,"LaGrange Township, Precinct 1A",U.S. House,5,REP,Tim Walberg,248,0,19,229
+Cass,"LaGrange Township, Precinct 1A",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1A",U.S. House,5,REP,Ballots Cast,248,0,19,229
+Cass,"LaGrange Township, Precinct 1B",U.S. House,5,REP,Tim Walberg,2,0,0,2
+Cass,"LaGrange Township, Precinct 1B",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",U.S. House,5,REP,Ballots Cast,2,0,0,2
+Cass,"Marcellus Township, Precinct 1",U.S. House,5,REP,Tim Walberg,303,0,5,298
+Cass,"Marcellus Township, Precinct 1",U.S. House,5,REP,Write-In,1,0,0,1
+Cass,"Marcellus Township, Precinct 1",U.S. House,5,REP,Ballots Cast,303,0,5,298
+Cass,"Mason Township, Precinct 1A",U.S. House,5,REP,Tim Walberg,199,0,3,196
+Cass,"Mason Township, Precinct 1A",U.S. House,5,REP,Write-In,1,0,0,1
+Cass,"Mason Township, Precinct 1A",U.S. House,5,REP,Ballots Cast,199,0,3,196
+Cass,"Mason Township, Precinct 1B",U.S. House,5,REP,Tim Walberg,69,0,6,63
+Cass,"Mason Township, Precinct 1B",U.S. House,5,REP,Write-In,1,0,0,1
+Cass,"Mason Township, Precinct 1B",U.S. House,5,REP,Ballots Cast,69,0,6,63
+Cass,"Mason Township, Precinct 1C",U.S. House,5,REP,Tim Walberg,2,0,0,2
+Cass,"Mason Township, Precinct 1C",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",U.S. House,5,REP,Ballots Cast,2,0,0,2
+Cass,"Milton Township, Precinct 1A",U.S. House,5,REP,Tim Walberg,187,0,10,177
+Cass,"Milton Township, Precinct 1A",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1A",U.S. House,5,REP,Ballots Cast,187,0,10,177
+Cass,"Milton Township, Precinct 1B",U.S. House,5,REP,Tim Walberg,197,0,2,195
+Cass,"Milton Township, Precinct 1B",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1B",U.S. House,5,REP,Ballots Cast,197,0,2,195
+Cass,"Newberg Township, Precinct 1A",U.S. House,5,REP,Tim Walberg,97,0,0,97
+Cass,"Newberg Township, Precinct 1A",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1A",U.S. House,5,REP,Ballots Cast,97,0,0,97
+Cass,"Newberg Township, Precinct 1B",U.S. House,5,REP,Tim Walberg,92,0,4,88
+Cass,"Newberg Township, Precinct 1B",U.S. House,5,REP,Write-In,1,0,0,1
+Cass,"Newberg Township, Precinct 1B",U.S. House,5,REP,Ballots Cast,92,0,4,88
+Cass,"Ontwa Township, Precinct 1",U.S. House,5,REP,Tim Walberg,336,172,14,150
+Cass,"Ontwa Township, Precinct 1",U.S. House,5,REP,Write-In,4,4,0,0
+Cass,"Ontwa Township, Precinct 1",U.S. House,5,REP,Ballots Cast,336,172,14,150
+Cass,"Ontwa Township, Precinct 2",U.S. House,5,REP,Tim Walberg,365,207,12,146
+Cass,"Ontwa Township, Precinct 2",U.S. House,5,REP,Write-In,2,0,0,2
+Cass,"Ontwa Township, Precinct 2",U.S. House,5,REP,Ballots Cast,365,207,12,146
+Cass,"Penn Township, Precinct 1A",U.S. House,5,REP,Tim Walberg,223,0,20,203
+Cass,"Penn Township, Precinct 1A",U.S. House,5,REP,Write-In,3,0,0,3
+Cass,"Penn Township, Precinct 1A",U.S. House,5,REP,Ballots Cast,223,0,20,203
+Cass,"Penn Township, Precinct 1B",U.S. House,5,REP,Tim Walberg,4,0,0,4
+Cass,"Penn Township, Precinct 1B",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B",U.S. House,5,REP,Ballots Cast,4,0,0,4
+Cass,"Pokagon Township, Precinct 1",U.S. House,5,REP,Tim Walberg,180,0,5,175
+Cass,"Pokagon Township, Precinct 1",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Pokagon Township, Precinct 1",U.S. House,5,REP,Ballots Cast,180,0,5,175
+Cass,"Porter Township, Precinct 1A",U.S. House,5,REP,Tim Walberg,274,0,7,267
+Cass,"Porter Township, Precinct 1A",U.S. House,5,REP,Write-In,1,0,0,1
+Cass,"Porter Township, Precinct 1A",U.S. House,5,REP,Ballots Cast,274,0,7,267
+Cass,"Porter Township, Precinct 1B",U.S. House,5,REP,Tim Walberg,24,0,0,24
+Cass,"Porter Township, Precinct 1B",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B",U.S. House,5,REP,Ballots Cast,24,0,0,24
+Cass,"Porter Township, Precinct 2A",U.S. House,5,REP,Tim Walberg,90,0,2,88
+Cass,"Porter Township, Precinct 2A",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2A",U.S. House,5,REP,Ballots Cast,90,0,2,88
+Cass,"Porter Township, Precinct 2B",U.S. House,5,REP,Tim Walberg,156,0,3,153
+Cass,"Porter Township, Precinct 2B",U.S. House,5,REP,Write-In,1,0,0,1
+Cass,"Porter Township, Precinct 2B",U.S. House,5,REP,Ballots Cast,156,0,3,153
+Cass,"Silver Creek Township, Precinct 1",U.S. House,5,REP,Tim Walberg,407,162,28,217
+Cass,"Silver Creek Township, Precinct 1",U.S. House,5,REP,Write-In,2,0,0,2
+Cass,"Silver Creek Township, Precinct 1",U.S. House,5,REP,Ballots Cast,407,162,28,217
+Cass,"Volinia Township, Precinct 1A",U.S. House,5,REP,Tim Walberg,30,0,2,28
+Cass,"Volinia Township, Precinct 1A",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",U.S. House,5,REP,Ballots Cast,30,0,2,28
+Cass,"Volinia Township, Precinct 1B",U.S. House,5,REP,Tim Walberg,3,0,0,3
+Cass,"Volinia Township, Precinct 1B",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",U.S. House,5,REP,Ballots Cast,3,0,0,3
+Cass,"Volinia Township, Precinct 1C",U.S. House,5,REP,Tim Walberg,140,0,5,135
+Cass,"Volinia Township, Precinct 1C",U.S. House,5,REP,Write-In,4,0,0,4
+Cass,"Volinia Township, Precinct 1C",U.S. House,5,REP,Ballots Cast,140,0,5,135
+Cass,"Wayne Township, Precinct 1A",U.S. House,5,REP,Tim Walberg,201,0,7,194
+Cass,"Wayne Township, Precinct 1A",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1A",U.S. House,5,REP,Ballots Cast,201,0,7,194
+Cass,"Wayne Township, Precinct 1B",U.S. House,5,REP,Tim Walberg,34,0,0,34
+Cass,"Wayne Township, Precinct 1B",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",U.S. House,5,REP,Ballots Cast,34,0,0,34
+Cass,"Wayne Township, Precinct 1C",U.S. House,5,REP,Tim Walberg,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",U.S. House,5,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",U.S. House,5,REP,Ballots Cast,0,0,0,0
+Cass,"Calvin Township, Precinct 1",State Senate,17,REP,Jonathan Lindsey,154,0,14,140
+Cass,"Calvin Township, Precinct 1",State Senate,17,REP,Write-In,3,0,0,3
+Cass,"Calvin Township, Precinct 1",State Senate,17,REP,Ballots Cast,154,0,14,140
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State Senate,17,REP,Jonathan Lindsey,74,34,4,36
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State Senate,17,REP,Ballots Cast,74,34,4,36
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State Senate,17,REP,Jonathan Lindsey,124,64,0,60
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State Senate,17,REP,Ballots Cast,124,64,0,60
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State Senate,17,REP,Jonathan Lindsey,79,24,3,52
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State Senate,17,REP,Ballots Cast,79,24,3,52
+Cass,"Howard Township, Precinct 1",State Senate,17,REP,Jonathan Lindsey,480,149,20,311
+Cass,"Howard Township, Precinct 1",State Senate,17,REP,Write-In,2,0,0,2
+Cass,"Howard Township, Precinct 1",State Senate,17,REP,Ballots Cast,480,149,20,311
+Cass,"Howard Township, Precinct 2A",State Senate,17,REP,Jonathan Lindsey,340,131,12,197
+Cass,"Howard Township, Precinct 2A",State Senate,17,REP,Write-In,1,0,0,1
+Cass,"Howard Township, Precinct 2A",State Senate,17,REP,Ballots Cast,340,131,12,197
+Cass,"Howard Township, Precinct 2B",State Senate,17,REP,Jonathan Lindsey,94,32,5,57
+Cass,"Howard Township, Precinct 2B",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",State Senate,17,REP,Ballots Cast,94,32,5,57
+Cass,"Jefferson Township, Precinct 1A",State Senate,17,REP,Jonathan Lindsey,146,0,13,133
+Cass,"Jefferson Township, Precinct 1A",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1A",State Senate,17,REP,Ballots Cast,146,0,13,133
+Cass,"Jefferson Township, Precinct 1B",State Senate,17,REP,Jonathan Lindsey,131,0,8,123
+Cass,"Jefferson Township, Precinct 1B",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",State Senate,17,REP,Ballots Cast,131,0,8,123
+Cass,"LaGrange Township, Precinct 1A",State Senate,17,REP,Jonathan Lindsey,247,0,21,226
+Cass,"LaGrange Township, Precinct 1A",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1A",State Senate,17,REP,Ballots Cast,247,0,21,226
+Cass,"LaGrange Township, Precinct 1B",State Senate,17,REP,Jonathan Lindsey,2,0,0,2
+Cass,"LaGrange Township, Precinct 1B",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",State Senate,17,REP,Ballots Cast,2,0,0,2
+Cass,"Marcellus Township, Precinct 1",State Senate,17,REP,Jonathan Lindsey,296,0,4,292
+Cass,"Marcellus Township, Precinct 1",State Senate,17,REP,Write-In,1,0,0,1
+Cass,"Marcellus Township, Precinct 1",State Senate,17,REP,Ballots Cast,296,0,4,292
+Cass,"Mason Township, Precinct 1A",State Senate,17,REP,Jonathan Lindsey,192,0,3,189
+Cass,"Mason Township, Precinct 1A",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1A",State Senate,17,REP,Ballots Cast,192,0,3,189
+Cass,"Mason Township, Precinct 1B",State Senate,17,REP,Jonathan Lindsey,69,0,6,63
+Cass,"Mason Township, Precinct 1B",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1B",State Senate,17,REP,Ballots Cast,69,0,6,63
+Cass,"Mason Township, Precinct 1C",State Senate,17,REP,Jonathan Lindsey,2,0,0,2
+Cass,"Mason Township, Precinct 1C",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",State Senate,17,REP,Ballots Cast,2,0,0,2
+Cass,"Milton Township, Precinct 1A",State Senate,17,REP,Jonathan Lindsey,184,0,10,174
+Cass,"Milton Township, Precinct 1A",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1A",State Senate,17,REP,Ballots Cast,184,0,10,174
+Cass,"Milton Township, Precinct 1B",State Senate,17,REP,Jonathan Lindsey,195,0,2,193
+Cass,"Milton Township, Precinct 1B",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1B",State Senate,17,REP,Ballots Cast,195,0,2,193
+Cass,"Newberg Township, Precinct 1A",State Senate,17,REP,Jonathan Lindsey,95,0,0,95
+Cass,"Newberg Township, Precinct 1A",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1A",State Senate,17,REP,Ballots Cast,95,0,0,95
+Cass,"Newberg Township, Precinct 1B",State Senate,17,REP,Jonathan Lindsey,93,0,4,89
+Cass,"Newberg Township, Precinct 1B",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1B",State Senate,17,REP,Ballots Cast,93,0,4,89
+Cass,"Ontwa Township, Precinct 1",State Senate,17,REP,Jonathan Lindsey,331,168,15,148
+Cass,"Ontwa Township, Precinct 1",State Senate,17,REP,Write-In,4,3,0,1
+Cass,"Ontwa Township, Precinct 1",State Senate,17,REP,Ballots Cast,331,168,15,148
+Cass,"Ontwa Township, Precinct 2",State Senate,17,REP,Jonathan Lindsey,365,203,12,150
+Cass,"Ontwa Township, Precinct 2",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",State Senate,17,REP,Ballots Cast,365,203,12,150
+Cass,"Penn Township, Precinct 1A",State Senate,17,REP,Jonathan Lindsey,220,0,20,200
+Cass,"Penn Township, Precinct 1A",State Senate,17,REP,Write-In,1,0,0,1
+Cass,"Penn Township, Precinct 1A",State Senate,17,REP,Ballots Cast,220,0,20,200
+Cass,"Penn Township, Precinct 1B",State Senate,17,REP,Jonathan Lindsey,4,0,0,4
+Cass,"Penn Township, Precinct 1B",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B",State Senate,17,REP,Ballots Cast,4,0,0,4
+Cass,"Pokagon Township, Precinct 1",State Senate,17,REP,Jonathan Lindsey,176,0,4,172
+Cass,"Pokagon Township, Precinct 1",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Pokagon Township, Precinct 1",State Senate,17,REP,Ballots Cast,176,0,4,172
+Cass,"Porter Township, Precinct 1A",State Senate,17,REP,Jonathan Lindsey,271,0,7,264
+Cass,"Porter Township, Precinct 1A",State Senate,17,REP,Write-In,1,0,0,1
+Cass,"Porter Township, Precinct 1A",State Senate,17,REP,Ballots Cast,271,0,7,264
+Cass,"Porter Township, Precinct 1B",State Senate,17,REP,Jonathan Lindsey,24,0,0,24
+Cass,"Porter Township, Precinct 1B",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B",State Senate,17,REP,Ballots Cast,24,0,0,24
+Cass,"Porter Township, Precinct 2A",State Senate,17,REP,Jonathan Lindsey,86,0,3,83
+Cass,"Porter Township, Precinct 2A",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2A",State Senate,17,REP,Ballots Cast,86,0,3,83
+Cass,"Porter Township, Precinct 2B",State Senate,17,REP,Jonathan Lindsey,152,0,3,149
+Cass,"Porter Township, Precinct 2B",State Senate,17,REP,Write-In,1,0,0,1
+Cass,"Porter Township, Precinct 2B",State Senate,17,REP,Ballots Cast,152,0,3,149
+Cass,"Silver Creek Township, Precinct 1",State Senate,17,REP,Jonathan Lindsey,408,163,29,216
+Cass,"Silver Creek Township, Precinct 1",State Senate,17,REP,Write-In,3,0,0,3
+Cass,"Silver Creek Township, Precinct 1",State Senate,17,REP,Ballots Cast,408,163,29,216
+Cass,"Volinia Township, Precinct 1A",State Senate,17,REP,Jonathan Lindsey,30,0,2,28
+Cass,"Volinia Township, Precinct 1A",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",State Senate,17,REP,Ballots Cast,30,0,2,28
+Cass,"Volinia Township, Precinct 1B",State Senate,17,REP,Jonathan Lindsey,3,0,0,3
+Cass,"Volinia Township, Precinct 1B",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",State Senate,17,REP,Ballots Cast,3,0,0,3
+Cass,"Volinia Township, Precinct 1C",State Senate,17,REP,Jonathan Lindsey,142,0,5,137
+Cass,"Volinia Township, Precinct 1C",State Senate,17,REP,Write-In,1,0,0,1
+Cass,"Volinia Township, Precinct 1C",State Senate,17,REP,Ballots Cast,142,0,5,137
+Cass,"Wayne Township, Precinct 1A",State Senate,17,REP,Jonathan Lindsey,200,0,7,193
+Cass,"Wayne Township, Precinct 1A",State Senate,17,REP,Write-In,1,0,0,1
+Cass,"Wayne Township, Precinct 1A",State Senate,17,REP,Ballots Cast,200,0,7,193
+Cass,"Wayne Township, Precinct 1B",State Senate,17,REP,Jonathan Lindsey,32,0,0,32
+Cass,"Wayne Township, Precinct 1B",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",State Senate,17,REP,Ballots Cast,32,0,0,32
+Cass,"Wayne Township, Precinct 1C",State Senate,17,REP,Jonathan Lindsey,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",State Senate,17,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",State Senate,17,REP,Ballots Cast,0,0,0,0
+Cass,"Calvin Township, Precinct 1",State House,36,REP,Steve Carra,103,0,5,98
+Cass,"Calvin Township, Precinct 1",State House,36,REP,Max Coon,7,0,0,7
+Cass,"Calvin Township, Precinct 1",State House,36,REP,Luke Lori,52,0,9,43
+Cass,"Calvin Township, Precinct 1",State House,36,REP,Write-In,1,0,0,1
+Cass,"Calvin Township, Precinct 1",State House,36,REP,Ballots Cast,162,0,14,148
+Cass,"Jefferson Township, Precinct 1A",State House,36,REP,Steve Carra,98,0,9,89
+Cass,"Jefferson Township, Precinct 1A",State House,36,REP,Max Coon,12,0,0,12
+Cass,"Jefferson Township, Precinct 1A",State House,36,REP,Luke Lori,41,0,6,35
+Cass,"Jefferson Township, Precinct 1A",State House,36,REP,Write-In,1,0,0,1
+Cass,"Jefferson Township, Precinct 1A",State House,36,REP,Ballots Cast,151,0,15,136
+Cass,"Jefferson Township, Precinct 1B",State House,36,REP,Steve Carra,88,0,7,81
+Cass,"Jefferson Township, Precinct 1B",State House,36,REP,Max Coon,11,0,0,11
+Cass,"Jefferson Township, Precinct 1B",State House,36,REP,Luke Lori,41,0,1,40
+Cass,"Jefferson Township, Precinct 1B",State House,36,REP,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",State House,36,REP,Ballots Cast,140,0,8,132
+Cass,"LaGrange Township, Precinct 1A",State House,36,REP,Steve Carra,180,0,15,165
+Cass,"LaGrange Township, Precinct 1A",State House,36,REP,Max Coon,17,0,1,16
+Cass,"LaGrange Township, Precinct 1A",State House,36,REP,Luke Lori,80,0,5,75
+Cass,"LaGrange Township, Precinct 1A",State House,36,REP,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1A",State House,36,REP,Ballots Cast,277,0,21,256
+Cass,"Marcellus Township, Precinct 1",State House,36,REP,Steve Carra,215,0,2,213
+Cass,"Marcellus Township, Precinct 1",State House,36,REP,Max Coon,15,0,0,15
+Cass,"Marcellus Township, Precinct 1",State House,36,REP,Luke Lori,80,0,3,77
+Cass,"Marcellus Township, Precinct 1",State House,36,REP,Write-In,2,0,0,2
+Cass,"Marcellus Township, Precinct 1",State House,36,REP,Ballots Cast,310,0,5,305
+Cass,"Mason Township, Precinct 1A",State House,36,REP,Steve Carra,123,0,1,122
+Cass,"Mason Township, Precinct 1A",State House,36,REP,Max Coon,20,0,0,20
+Cass,"Mason Township, Precinct 1A",State House,36,REP,Luke Lori,59,0,2,57
+Cass,"Mason Township, Precinct 1A",State House,36,REP,Write-In,1,0,0,1
+Cass,"Mason Township, Precinct 1A",State House,36,REP,Ballots Cast,202,0,3,199
+Cass,"Mason Township, Precinct 1B",State House,36,REP,Steve Carra,40,0,5,35
+Cass,"Mason Township, Precinct 1B",State House,36,REP,Max Coon,11,0,1,10
+Cass,"Mason Township, Precinct 1B",State House,36,REP,Luke Lori,17,0,0,17
+Cass,"Mason Township, Precinct 1B",State House,36,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1B",State House,36,REP,Ballots Cast,68,0,6,62
+Cass,"Mason Township, Precinct 1C",State House,36,REP,Steve Carra,2,0,0,2
+Cass,"Mason Township, Precinct 1C",State House,36,REP,Max Coon,0,0,0,0
+Cass,"Mason Township, Precinct 1C",State House,36,REP,Luke Lori,0,0,0,0
+Cass,"Mason Township, Precinct 1C",State House,36,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",State House,36,REP,Ballots Cast,2,0,0,2
+Cass,"Newberg Township, Precinct 1A",State House,36,REP,Steve Carra,72,0,0,72
+Cass,"Newberg Township, Precinct 1A",State House,36,REP,Max Coon,3,0,0,3
+Cass,"Newberg Township, Precinct 1A",State House,36,REP,Luke Lori,31,0,0,31
+Cass,"Newberg Township, Precinct 1A",State House,36,REP,Write-In,1,0,0,1
+Cass,"Newberg Township, Precinct 1A",State House,36,REP,Ballots Cast,106,0,0,106
+Cass,"Newberg Township, Precinct 1B",State House,36,REP,Steve Carra,67,0,1,66
+Cass,"Newberg Township, Precinct 1B",State House,36,REP,Max Coon,8,0,0,8
+Cass,"Newberg Township, Precinct 1B",State House,36,REP,Luke Lori,20,0,3,17
+Cass,"Newberg Township, Precinct 1B",State House,36,REP,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1B",State House,36,REP,Ballots Cast,95,0,4,91
+Cass,"Ontwa Township, Precinct 1",State House,36,REP,Steve Carra,249,133,9,107
+Cass,"Ontwa Township, Precinct 1",State House,36,REP,Max Coon,17,12,0,5
+Cass,"Ontwa Township, Precinct 1",State House,36,REP,Luke Lori,83,36,6,41
+Cass,"Ontwa Township, Precinct 1",State House,36,REP,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 1",State House,36,REP,Ballots Cast,349,181,15,153
+Cass,"Ontwa Township, Precinct 2",State House,36,REP,Steve Carra,234,130,10,94
+Cass,"Ontwa Township, Precinct 2",State House,36,REP,Max Coon,30,20,0,10
+Cass,"Ontwa Township, Precinct 2",State House,36,REP,Luke Lori,112,61,2,49
+Cass,"Ontwa Township, Precinct 2",State House,36,REP,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",State House,36,REP,Ballots Cast,376,211,12,153
+Cass,"Penn Township, Precinct 1A",State House,36,REP,Steve Carra,168,0,17,151
+Cass,"Penn Township, Precinct 1A",State House,36,REP,Max Coon,8,0,0,8
+Cass,"Penn Township, Precinct 1A",State House,36,REP,Luke Lori,72,0,4,68
+Cass,"Penn Township, Precinct 1A",State House,36,REP,Write-In,1,0,0,1
+Cass,"Penn Township, Precinct 1A",State House,36,REP,Ballots Cast,248,0,21,227
+Cass,"Penn Township, Precinct 1B",State House,36,REP,Steve Carra,2,0,0,2
+Cass,"Penn Township, Precinct 1B",State House,36,REP,Max Coon,0,0,0,0
+Cass,"Penn Township, Precinct 1B",State House,36,REP,Luke Lori,2,0,0,2
+Cass,"Penn Township, Precinct 1B",State House,36,REP,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B",State House,36,REP,Ballots Cast,4,0,0,4
+Cass,"Porter Township, Precinct 1A",State House,36,REP,Steve Carra,189,0,5,184
+Cass,"Porter Township, Precinct 1A",State House,36,REP,Max Coon,21,0,2,19
+Cass,"Porter Township, Precinct 1A",State House,36,REP,Luke Lori,79,0,0,79
+Cass,"Porter Township, Precinct 1A",State House,36,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1A",State House,36,REP,Ballots Cast,289,0,7,282
+Cass,"Porter Township, Precinct 1B",State House,36,REP,Steve Carra,19,0,0,19
+Cass,"Porter Township, Precinct 1B",State House,36,REP,Max Coon,4,0,0,4
+Cass,"Porter Township, Precinct 1B",State House,36,REP,Luke Lori,1,0,0,1
+Cass,"Porter Township, Precinct 1B",State House,36,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B",State House,36,REP,Ballots Cast,24,0,0,24
+Cass,"Porter Township, Precinct 2A",State House,36,REP,Steve Carra,49,0,2,47
+Cass,"Porter Township, Precinct 2A",State House,36,REP,Max Coon,12,0,0,12
+Cass,"Porter Township, Precinct 2A",State House,36,REP,Luke Lori,33,0,1,32
+Cass,"Porter Township, Precinct 2A",State House,36,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2A",State House,36,REP,Ballots Cast,94,0,3,91
+Cass,"Porter Township, Precinct 2B",State House,36,REP,Steve Carra,110,0,2,108
+Cass,"Porter Township, Precinct 2B",State House,36,REP,Max Coon,15,0,0,15
+Cass,"Porter Township, Precinct 2B",State House,36,REP,Luke Lori,34,0,1,33
+Cass,"Porter Township, Precinct 2B",State House,36,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2B",State House,36,REP,Ballots Cast,159,0,3,156
+Cass,"Volinia Township, Precinct 1A",State House,36,REP,Steve Carra,20,0,0,20
+Cass,"Volinia Township, Precinct 1A",State House,36,REP,Max Coon,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",State House,36,REP,Luke Lori,8,0,2,6
+Cass,"Volinia Township, Precinct 1A",State House,36,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",State House,36,REP,Ballots Cast,28,0,2,26
+Cass,"Volinia Township, Precinct 1B",State House,36,REP,Steve Carra,3,0,0,3
+Cass,"Volinia Township, Precinct 1B",State House,36,REP,Max Coon,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",State House,36,REP,Luke Lori,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",State House,36,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",State House,36,REP,Ballots Cast,3,0,0,3
+Cass,"Volinia Township, Precinct 1C",State House,36,REP,Steve Carra,95,0,1,94
+Cass,"Volinia Township, Precinct 1C",State House,36,REP,Max Coon,4,0,0,4
+Cass,"Volinia Township, Precinct 1C",State House,36,REP,Luke Lori,52,0,4,48
+Cass,"Volinia Township, Precinct 1C",State House,36,REP,Write-In,3,0,0,3
+Cass,"Volinia Township, Precinct 1C",State House,36,REP,Ballots Cast,151,0,5,146
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State House,37,REP,Steve Bury,18,8,0,10
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State House,37,REP,Brad Paquette,61,26,4,31
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State House,37,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",State House,37,REP,Ballots Cast,79,34,4,41
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State House,37,REP,Steve Bury,16,10,0,6
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State House,37,REP,Brad Paquette,111,55,0,56
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State House,37,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",State House,37,REP,Ballots Cast,127,65,0,62
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State House,37,REP,Steve Bury,19,5,1,13
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State House,37,REP,Brad Paquette,67,22,2,43
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State House,37,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",State House,37,REP,Ballots Cast,86,27,3,56
+Cass,"Howard Township, Precinct 1",State House,37,REP,Steve Bury,34,9,2,23
+Cass,"Howard Township, Precinct 1",State House,37,REP,Brad Paquette,476,148,19,309
+Cass,"Howard Township, Precinct 1",State House,37,REP,Write-In,3,0,0,3
+Cass,"Howard Township, Precinct 1",State House,37,REP,Ballots Cast,510,157,21,332
+Cass,"Howard Township, Precinct 2A",State House,37,REP,Steve Bury,38,15,3,20
+Cass,"Howard Township, Precinct 2A",State House,37,REP,Brad Paquette,320,124,8,188
+Cass,"Howard Township, Precinct 2A",State House,37,REP,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2A",State House,37,REP,Ballots Cast,358,139,11,208
+Cass,"Howard Township, Precinct 2B",State House,37,REP,Steve Bury,14,3,0,11
+Cass,"Howard Township, Precinct 2B",State House,37,REP,Brad Paquette,82,32,6,44
+Cass,"Howard Township, Precinct 2B",State House,37,REP,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",State House,37,REP,Ballots Cast,96,35,6,55
+Cass,"LaGrange Township, Precinct 1B",State House,37,REP,Steve Bury,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",State House,37,REP,Brad Paquette,2,0,0,2
+Cass,"LaGrange Township, Precinct 1B",State House,37,REP,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",State House,37,REP,Ballots Cast,2,0,0,2
+Cass,"Milton Township, Precinct 1A",State House,37,REP,Steve Bury,23,0,0,23
+Cass,"Milton Township, Precinct 1A",State House,37,REP,Brad Paquette,161,0,11,150
+Cass,"Milton Township, Precinct 1A",State House,37,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1A",State House,37,REP,Ballots Cast,184,0,11,173
+Cass,"Milton Township, Precinct 1B",State House,37,REP,Steve Bury,27,0,0,27
+Cass,"Milton Township, Precinct 1B",State House,37,REP,Brad Paquette,171,0,2,169
+Cass,"Milton Township, Precinct 1B",State House,37,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1B",State House,37,REP,Ballots Cast,198,0,2,196
+Cass,"Pokagon Township, Precinct 1",State House,37,REP,Steve Bury,23,0,2,21
+Cass,"Pokagon Township, Precinct 1",State House,37,REP,Brad Paquette,164,0,3,161
+Cass,"Pokagon Township, Precinct 1",State House,37,REP,Write-In,0,0,0,0
+Cass,"Pokagon Township, Precinct 1",State House,37,REP,Ballots Cast,187,0,5,182
+Cass,"Silver Creek Township, Precinct 1",State House,37,REP,Steve Bury,72,25,3,44
+Cass,"Silver Creek Township, Precinct 1",State House,37,REP,Brad Paquette,343,139,26,178
+Cass,"Silver Creek Township, Precinct 1",State House,37,REP,Write-In,2,1,0,1
+Cass,"Silver Creek Township, Precinct 1",State House,37,REP,Ballots Cast,415,164,29,222
+Cass,"Wayne Township, Precinct 1A",State House,37,REP,Steve Bury,30,0,1,29
+Cass,"Wayne Township, Precinct 1A",State House,37,REP,Brad Paquette,170,0,6,164
+Cass,"Wayne Township, Precinct 1A",State House,37,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1A",State House,37,REP,Ballots Cast,200,0,7,193
+Cass,"Wayne Township, Precinct 1B",State House,37,REP,Steve Bury,13,0,0,13
+Cass,"Wayne Township, Precinct 1B",State House,37,REP,Brad Paquette,21,0,0,21
+Cass,"Wayne Township, Precinct 1B",State House,37,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",State House,37,REP,Ballots Cast,34,0,0,34
+Cass,"Wayne Township, Precinct 1C",State House,37,REP,Steve Bury,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",State House,37,REP,Brad Paquette,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",State House,37,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",State House,37,REP,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1A",Milton Township Supervisor Partial Term Ending 11/20/2028,,REP,Kurt Meyer,164,0,7,157
+Cass,"Milton Township, Precinct 1A",Milton Township Supervisor Partial Term Ending 11/20/2028,,REP,Write-In,2,0,0,2
+Cass,"Milton Township, Precinct 1A",Milton Township Supervisor Partial Term Ending 11/20/2028,,REP,Ballots Cast,164,0,7,157
+Cass,"Milton Township, Precinct 1B",Milton Township Supervisor Partial Term Ending 11/20/2028,,REP,Kurt Meyer,187,0,2,185
+Cass,"Milton Township, Precinct 1B",Milton Township Supervisor Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1B",Milton Township Supervisor Partial Term Ending 11/20/2028,,REP,Ballots Cast,187,0,2,185
+Cass,"Silver Creek Township, Precinct 1",Silver Creek Township Supervisor Partial Term Ending 11/20/2028,,REP,Mick Braman,279,115,18,146
+Cass,"Silver Creek Township, Precinct 1",Silver Creek Township Supervisor Partial Term Ending 11/20/2028,,REP,Bob Jones,125,48,11,66
+Cass,"Silver Creek Township, Precinct 1",Silver Creek Township Supervisor Partial Term Ending 11/20/2028,,REP,Write-In,2,1,0,1
+Cass,"Silver Creek Township, Precinct 1",Silver Creek Township Supervisor Partial Term Ending 11/20/2028,,REP,Ballots Cast,404,163,29,212
+Cass,"Jefferson Township, Precinct 1A",Jefferson Township Clerk Partial Term Ending 11/20/2028,,REP,Valerie Locke,138,0,11,127
+Cass,"Jefferson Township, Precinct 1A",Jefferson Township Clerk Partial Term Ending 11/20/2028,,REP,Write-In,2,0,0,2
+Cass,"Jefferson Township, Precinct 1A",Jefferson Township Clerk Partial Term Ending 11/20/2028,,REP,Ballots Cast,138,0,11,127
+Cass,"Jefferson Township, Precinct 1B",Jefferson Township Clerk Partial Term Ending 11/20/2028,,REP,Valerie Locke,121,0,7,114
+Cass,"Jefferson Township, Precinct 1B",Jefferson Township Clerk Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",Jefferson Township Clerk Partial Term Ending 11/20/2028,,REP,Ballots Cast,121,0,7,114
+Cass,"Wayne Township, Precinct 1A",Wayne Township Clerk Partial Term Ending 11/20/2028,,REP,Michelle L Smith,185,0,7,178
+Cass,"Wayne Township, Precinct 1A",Wayne Township Clerk Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1A",Wayne Township Clerk Partial Term Ending 11/20/2028,,REP,Ballots Cast,185,0,7,178
+Cass,"Wayne Township, Precinct 1B",Wayne Township Clerk Partial Term Ending 11/20/2028,,REP,Michelle L Smith,34,0,0,34
+Cass,"Wayne Township, Precinct 1B",Wayne Township Clerk Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",Wayne Township Clerk Partial Term Ending 11/20/2028,,REP,Ballots Cast,34,0,0,34
+Cass,"Wayne Township, Precinct 1C",Wayne Township Clerk Partial Term Ending 11/20/2028,,REP,Michelle L Smith,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Wayne Township Clerk Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Wayne Township Clerk Partial Term Ending 11/20/2028,,REP,Ballots Cast,0,0,0,0
+Cass,"Milton Township, Precinct 1A",Milton Township Treasurer Partial Term Ending 11/20/2028,,REP,Rachel Plank,163,0,7,156
+Cass,"Milton Township, Precinct 1A",Milton Township Treasurer Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1A",Milton Township Treasurer Partial Term Ending 11/20/2028,,REP,Ballots Cast,163,0,7,156
+Cass,"Milton Township, Precinct 1B",Milton Township Treasurer Partial Term Ending 11/20/2028,,REP,Rachel Plank,185,0,2,183
+Cass,"Milton Township, Precinct 1B",Milton Township Treasurer Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1B",Milton Township Treasurer Partial Term Ending 11/20/2028,,REP,Ballots Cast,185,0,2,183
+Cass,"Mason Township, Precinct 1A",Mason Township Trustee Partial Term Ending 11/20/2028,,REP,Debra Cloud,186,0,3,183
+Cass,"Mason Township, Precinct 1A",Mason Township Trustee Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1A",Mason Township Trustee Partial Term Ending 11/20/2028,,REP,Ballots Cast,186,0,3,183
+Cass,"Mason Township, Precinct 1B",Mason Township Trustee Partial Term Ending 11/20/2028,,REP,Debra Cloud,55,0,6,49
+Cass,"Mason Township, Precinct 1B",Mason Township Trustee Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1B",Mason Township Trustee Partial Term Ending 11/20/2028,,REP,Ballots Cast,55,0,6,49
+Cass,"Mason Township, Precinct 1C",Mason Township Trustee Partial Term Ending 11/20/2028,,REP,Debra Cloud,2,0,0,2
+Cass,"Mason Township, Precinct 1C",Mason Township Trustee Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",Mason Township Trustee Partial Term Ending 11/20/2028,,REP,Ballots Cast,2,0,0,2
+Cass,"Milton Township, Precinct 1A",Milton Township Trustee Partial Term Ending 11/20/2028,,REP,JT McDonald,165,0,6,159
+Cass,"Milton Township, Precinct 1A",Milton Township Trustee Partial Term Ending 11/20/2028,,REP,Write-In,1,0,0,1
+Cass,"Milton Township, Precinct 1A",Milton Township Trustee Partial Term Ending 11/20/2028,,REP,Ballots Cast,165,0,6,159
+Cass,"Milton Township, Precinct 1B",Milton Township Trustee Partial Term Ending 11/20/2028,,REP,JT McDonald,175,0,2,173
+Cass,"Milton Township, Precinct 1B",Milton Township Trustee Partial Term Ending 11/20/2028,,REP,Write-In,1,0,0,1
+Cass,"Milton Township, Precinct 1B",Milton Township Trustee Partial Term Ending 11/20/2028,,REP,Ballots Cast,175,0,2,173
+Cass,"Volinia Township, Precinct 1A",Volinia Township Trustee Partial Term Ending 11/20/2028,,REP,Efrim Johnson,13,0,0,13
+Cass,"Volinia Township, Precinct 1A",Volinia Township Trustee Partial Term Ending 11/20/2028,,REP,Brian Lamoreaux,15,0,2,13
+Cass,"Volinia Township, Precinct 1A",Volinia Township Trustee Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",Volinia Township Trustee Partial Term Ending 11/20/2028,,REP,Ballots Cast,28,0,2,26
+Cass,"Volinia Township, Precinct 1B",Volinia Township Trustee Partial Term Ending 11/20/2028,,REP,Efrim Johnson,3,0,0,3
+Cass,"Volinia Township, Precinct 1B",Volinia Township Trustee Partial Term Ending 11/20/2028,,REP,Brian Lamoreaux,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Volinia Township Trustee Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Volinia Township Trustee Partial Term Ending 11/20/2028,,REP,Ballots Cast,3,0,0,3
+Cass,"Volinia Township, Precinct 1C",Volinia Township Trustee Partial Term Ending 11/20/2028,,REP,Efrim Johnson,80,0,0,80
+Cass,"Volinia Township, Precinct 1C",Volinia Township Trustee Partial Term Ending 11/20/2028,,REP,Brian Lamoreaux,67,0,5,62
+Cass,"Volinia Township, Precinct 1C",Volinia Township Trustee Partial Term Ending 11/20/2028,,REP,Write-In,2,0,0,2
+Cass,"Volinia Township, Precinct 1C",Volinia Township Trustee Partial Term Ending 11/20/2028,,REP,Ballots Cast,147,0,5,142
+Cass,"Wayne Township, Precinct 1A",Wayne Township Trustee Partial Term Ending 11/20/2028,,REP,Maranda M. Wallace,185,0,7,178
+Cass,"Wayne Township, Precinct 1A",Wayne Township Trustee Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1A",Wayne Township Trustee Partial Term Ending 11/20/2028,,REP,Ballots Cast,185,0,7,178
+Cass,"Wayne Township, Precinct 1B",Wayne Township Trustee Partial Term Ending 11/20/2028,,REP,Maranda M. Wallace,33,0,0,33
+Cass,"Wayne Township, Precinct 1B",Wayne Township Trustee Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",Wayne Township Trustee Partial Term Ending 11/20/2028,,REP,Ballots Cast,33,0,0,33
+Cass,"Wayne Township, Precinct 1C",Wayne Township Trustee Partial Term Ending 11/20/2028,,REP,Maranda M. Wallace,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Wayne Township Trustee Partial Term Ending 11/20/2028,,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Wayne Township Trustee Partial Term Ending 11/20/2028,,REP,Ballots Cast,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1","City of Dowagiac, Precinct 1 Delegate to County Convention",,REP,MeLaDee S. Glaser,75,32,3,40
+Cass,"City of Dowagiac, Ward 1, Precinct 1","City of Dowagiac, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1","City of Dowagiac, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,75,32,3,40
+Cass,"City of Dowagiac, Ward 2, Precinct 2","City of Dowagiac, Precinct 2 Delegate to County Convention",,REP,Stacey Alan Wilder,122,62,0,60
+Cass,"City of Dowagiac, Ward 2, Precinct 2","City of Dowagiac, Precinct 2 Delegate to County Convention",,REP,Write-In,1,1,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2","City of Dowagiac, Precinct 2 Delegate to County Convention",,REP,Ballots Cast,122,62,0,60
+Cass,"City of Dowagiac, Ward 3, Precinct 3","City of Dowagiac, Precinct 3 Delegate to County Convention",,REP,Write-In,24,11,0,13
+Cass,"City of Dowagiac, Ward 3, Precinct 3","City of Dowagiac, Precinct 3 Delegate to County Convention",,REP,Ballots Cast,0,0,0,0
+Cass,"Calvin Township, Precinct 1","Calvin Township, Precinct 1 Delegate to County Convention",,REP,Kathleen Keenum,149,0,14,135
+Cass,"Calvin Township, Precinct 1","Calvin Township, Precinct 1 Delegate to County Convention",,REP,Write-In,13,0,0,13
+Cass,"Calvin Township, Precinct 1","Calvin Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,149,0,14,135
+Cass,"Howard Township, Precinct 1","Howard Township, Precinct 1 Delegate to County Convention",,REP,Larry Barrett,250,85,11,154
+Cass,"Howard Township, Precinct 1","Howard Township, Precinct 1 Delegate to County Convention",,REP,Val Barrett,206,75,9,122
+Cass,"Howard Township, Precinct 1","Howard Township, Precinct 1 Delegate to County Convention",,REP,Riley Kass,196,70,9,117
+Cass,"Howard Township, Precinct 1","Howard Township, Precinct 1 Delegate to County Convention",,REP,Annabelle Rogers,237,78,10,149
+Cass,"Howard Township, Precinct 1","Howard Township, Precinct 1 Delegate to County Convention",,REP,Bruce Vander Werf,234,79,13,142
+Cass,"Howard Township, Precinct 1","Howard Township, Precinct 1 Delegate to County Convention",,REP,Brian Woodbury,272,85,11,176
+Cass,"Howard Township, Precinct 1","Howard Township, Precinct 1 Delegate to County Convention",,REP,Write-In,2,0,0,2
+Cass,"Howard Township, Precinct 1","Howard Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,1395,472,63,860
+Cass,"Howard Township, Precinct 2A","Howard Township, Precinct 2 Delegate to County Convention",,REP,Josephine Jodi Marneris,189,84,9,96
+Cass,"Howard Township, Precinct 2A","Howard Township, Precinct 2 Delegate to County Convention",,REP,Richard T. Marneris,203,87,9,107
+Cass,"Howard Township, Precinct 2A","Howard Township, Precinct 2 Delegate to County Convention",,REP,Julie C. Roberts,219,92,9,118
+Cass,"Howard Township, Precinct 2A","Howard Township, Precinct 2 Delegate to County Convention",,REP,Write-In,1,0,0,1
+Cass,"Howard Township, Precinct 2A","Howard Township, Precinct 2 Delegate to County Convention",,REP,Ballots Cast,611,263,27,321
+Cass,"Howard Township, Precinct 2B","Howard Township, Precinct 2 Delegate to County Convention",,REP,Josephine Jodi Marneris,45,19,1,25
+Cass,"Howard Township, Precinct 2B","Howard Township, Precinct 2 Delegate to County Convention",,REP,Richard T. Marneris,55,22,2,31
+Cass,"Howard Township, Precinct 2B","Howard Township, Precinct 2 Delegate to County Convention",,REP,Julie C. Roberts,68,28,4,36
+Cass,"Howard Township, Precinct 2B","Howard Township, Precinct 2 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B","Howard Township, Precinct 2 Delegate to County Convention",,REP,Ballots Cast,168,69,7,92
+Cass,"Jefferson Township, Precinct 1A","Jefferson Township, Precinct 1 Delegate to County Convention",,REP,Wally Berndt,101,0,10,91
+Cass,"Jefferson Township, Precinct 1A","Jefferson Township, Precinct 1 Delegate to County Convention",,REP,Mark Howie,102,0,10,92
+Cass,"Jefferson Township, Precinct 1A","Jefferson Township, Precinct 1 Delegate to County Convention",,REP,Mary Howie,94,0,10,84
+Cass,"Jefferson Township, Precinct 1A","Jefferson Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1A","Jefferson Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,297,0,30,267
+Cass,"Jefferson Township, Precinct 1B","Jefferson Township, Precinct 1 Delegate to County Convention",,REP,Wally Berndt,95,0,7,88
+Cass,"Jefferson Township, Precinct 1B","Jefferson Township, Precinct 1 Delegate to County Convention",,REP,Mark Howie,96,0,7,89
+Cass,"Jefferson Township, Precinct 1B","Jefferson Township, Precinct 1 Delegate to County Convention",,REP,Mary Howie,91,0,7,84
+Cass,"Jefferson Township, Precinct 1B","Jefferson Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B","Jefferson Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,282,0,21,261
+Cass,"LaGrange Township, Precinct 1A","LaGrange Township, Precinct 1 Delegate to County Convention",,REP,Write-In,13,0,1,12
+Cass,"LaGrange Township, Precinct 1A","LaGrange Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B","LaGrange Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B","LaGrange Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,0,0,0,0
+Cass,"Marcellus Township, Precinct 1","Marcellus Township, Precinct 1 Delegate to County Convention",,REP,Cindy Castellanos,282,0,4,278
+Cass,"Marcellus Township, Precinct 1","Marcellus Township, Precinct 1 Delegate to County Convention",,REP,Write-In,5,0,0,5
+Cass,"Marcellus Township, Precinct 1","Marcellus Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,282,0,4,278
+Cass,"Mason Township, Precinct 1A","Mason Township, Precinct 1 Delegate to County Convention",,REP,Maxine E. Brundige-Harris,105,0,3,102
+Cass,"Mason Township, Precinct 1A","Mason Township, Precinct 1 Delegate to County Convention",,REP,Steven L. Harris,142,0,2,140
+Cass,"Mason Township, Precinct 1A","Mason Township, Precinct 1 Delegate to County Convention",,REP,Artell Watson,106,0,2,104
+Cass,"Mason Township, Precinct 1A","Mason Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1A","Mason Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,353,0,7,346
+Cass,"Mason Township, Precinct 1B","Mason Township, Precinct 1 Delegate to County Convention",,REP,Maxine E. Brundige-Harris,33,0,4,29
+Cass,"Mason Township, Precinct 1B","Mason Township, Precinct 1 Delegate to County Convention",,REP,Steven L. Harris,44,0,5,39
+Cass,"Mason Township, Precinct 1B","Mason Township, Precinct 1 Delegate to County Convention",,REP,Artell Watson,37,0,5,32
+Cass,"Mason Township, Precinct 1B","Mason Township, Precinct 1 Delegate to County Convention",,REP,Write-In,2,0,0,2
+Cass,"Mason Township, Precinct 1B","Mason Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,114,0,14,100
+Cass,"Mason Township, Precinct 1C","Mason Township, Precinct 1 Delegate to County Convention",,REP,Maxine E. Brundige-Harris,1,0,0,1
+Cass,"Mason Township, Precinct 1C","Mason Township, Precinct 1 Delegate to County Convention",,REP,Steven L. Harris,1,0,0,1
+Cass,"Mason Township, Precinct 1C","Mason Township, Precinct 1 Delegate to County Convention",,REP,Artell Watson,0,0,0,0
+Cass,"Mason Township, Precinct 1C","Mason Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C","Mason Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,2,0,0,2
+Cass,"Milton Township, Precinct 1A","Milton Township, Precinct 1 Delegate to County Convention",,REP,Brenda Beadenkopf,124,0,4,120
+Cass,"Milton Township, Precinct 1A","Milton Township, Precinct 1 Delegate to County Convention",,REP,William Beadenkopf,119,0,4,115
+Cass,"Milton Township, Precinct 1A","Milton Township, Precinct 1 Delegate to County Convention",,REP,Ryan Vondale Candler,119,0,4,115
+Cass,"Milton Township, Precinct 1A","Milton Township, Precinct 1 Delegate to County Convention",,REP,Betsy Carls,119,0,5,114
+Cass,"Milton Township, Precinct 1A","Milton Township, Precinct 1 Delegate to County Convention",,REP,R. Scott Hamilton,128,0,6,122
+Cass,"Milton Township, Precinct 1A","Milton Township, Precinct 1 Delegate to County Convention",,REP,Write-In,8,0,0,8
+Cass,"Milton Township, Precinct 1A","Milton Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,609,0,23,586
+Cass,"Milton Township, Precinct 1B","Milton Township, Precinct 1 Delegate to County Convention",,REP,Brenda Beadenkopf,118,0,2,116
+Cass,"Milton Township, Precinct 1B","Milton Township, Precinct 1 Delegate to County Convention",,REP,William Beadenkopf,122,0,2,120
+Cass,"Milton Township, Precinct 1B","Milton Township, Precinct 1 Delegate to County Convention",,REP,Ryan Vondale Candler,119,0,2,117
+Cass,"Milton Township, Precinct 1B","Milton Township, Precinct 1 Delegate to County Convention",,REP,Betsy Carls,124,0,2,122
+Cass,"Milton Township, Precinct 1B","Milton Township, Precinct 1 Delegate to County Convention",,REP,R. Scott Hamilton,132,0,2,130
+Cass,"Milton Township, Precinct 1B","Milton Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1B","Milton Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,615,0,10,605
+Cass,"Newberg Township, Precinct 1A","Newberg Township, Precinct 1 Delegate to County Convention",,REP,Linette Daugherty,65,0,0,65
+Cass,"Newberg Township, Precinct 1A","Newberg Township, Precinct 1 Delegate to County Convention",,REP,Kevin J. Weeks,70,0,0,70
+Cass,"Newberg Township, Precinct 1A","Newberg Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1A","Newberg Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,135,0,0,135
+Cass,"Newberg Township, Precinct 1B","Newberg Township, Precinct 1 Delegate to County Convention",,REP,Linette Daugherty,67,0,2,65
+Cass,"Newberg Township, Precinct 1B","Newberg Township, Precinct 1 Delegate to County Convention",,REP,Kevin J. Weeks,64,0,4,60
+Cass,"Newberg Township, Precinct 1B","Newberg Township, Precinct 1 Delegate to County Convention",,REP,Write-In,1,0,0,1
+Cass,"Newberg Township, Precinct 1B","Newberg Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,131,0,6,125
+Cass,"Ontwa Township, Precinct 1","Ontwa Township, Precinct 1 Delegate to County Convention",,REP,John F. Bossler,320,159,15,146
+Cass,"Ontwa Township, Precinct 1","Ontwa Township, Precinct 1 Delegate to County Convention",,REP,Write-In,8,3,0,5
+Cass,"Ontwa Township, Precinct 1","Ontwa Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,320,159,15,146
+Cass,"Ontwa Township, Precinct 2","Ontwa Township, Precinct 2 Delegate to County Convention",,REP,Jerry Bolock,244,139,7,98
+Cass,"Ontwa Township, Precinct 2","Ontwa Township, Precinct 2 Delegate to County Convention",,REP,Jerry L. Duck,282,163,8,111
+Cass,"Ontwa Township, Precinct 2","Ontwa Township, Precinct 2 Delegate to County Convention",,REP,Write-In,38,11,0,27
+Cass,"Ontwa Township, Precinct 2","Ontwa Township, Precinct 2 Delegate to County Convention",,REP,Ballots Cast,526,302,15,209
+Cass,"Penn Township, Precinct 1A","Penn Township, Precinct 1 Delegate to County Convention",,REP,Kelly Eash,159,0,16,143
+Cass,"Penn Township, Precinct 1A","Penn Township, Precinct 1 Delegate to County Convention",,REP,Dianna K. McGrew,164,0,15,149
+Cass,"Penn Township, Precinct 1A","Penn Township, Precinct 1 Delegate to County Convention",,REP,Amos Miller,141,0,15,126
+Cass,"Penn Township, Precinct 1A","Penn Township, Precinct 1 Delegate to County Convention",,REP,Janet B. Miller,141,0,15,126
+Cass,"Penn Township, Precinct 1A","Penn Township, Precinct 1 Delegate to County Convention",,REP,Sue Peterson,164,0,17,147
+Cass,"Penn Township, Precinct 1A","Penn Township, Precinct 1 Delegate to County Convention",,REP,Write-In,7,0,0,7
+Cass,"Penn Township, Precinct 1A","Penn Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,769,0,78,691
+Cass,"Penn Township, Precinct 1B","Penn Township, Precinct 1 Delegate to County Convention",,REP,Kelly Eash,2,0,0,2
+Cass,"Penn Township, Precinct 1B","Penn Township, Precinct 1 Delegate to County Convention",,REP,Dianna K. McGrew,2,0,0,2
+Cass,"Penn Township, Precinct 1B","Penn Township, Precinct 1 Delegate to County Convention",,REP,Amos Miller,3,0,0,3
+Cass,"Penn Township, Precinct 1B","Penn Township, Precinct 1 Delegate to County Convention",,REP,Janet B. Miller,2,0,0,2
+Cass,"Penn Township, Precinct 1B","Penn Township, Precinct 1 Delegate to County Convention",,REP,Sue Peterson,2,0,0,2
+Cass,"Penn Township, Precinct 1B","Penn Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B","Penn Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,11,0,0,11
+Cass,"Pokagon Township, Precinct 1","Pokagon Township, Precinct 1 Delegate to County Convention",,REP,Dan Adams,153,0,5,148
+Cass,"Pokagon Township, Precinct 1","Pokagon Township, Precinct 1 Delegate to County Convention",,REP,Kim Adams,125,0,5,120
+Cass,"Pokagon Township, Precinct 1","Pokagon Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Pokagon Township, Precinct 1","Pokagon Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,278,0,10,268
+Cass,"Porter Township, Precinct 1A","Porter Township, Precinct 1 Delegate to County Convention",,REP,Roger L. Boyer,192,0,6,186
+Cass,"Porter Township, Precinct 1A","Porter Township, Precinct 1 Delegate to County Convention",,REP,Sue L. Boyer,184,0,6,178
+Cass,"Porter Township, Precinct 1A","Porter Township, Precinct 1 Delegate to County Convention",,REP,Susan J. White,191,0,7,184
+Cass,"Porter Township, Precinct 1A","Porter Township, Precinct 1 Delegate to County Convention",,REP,William M. White,195,0,7,188
+Cass,"Porter Township, Precinct 1A","Porter Township, Precinct 1 Delegate to County Convention",,REP,Write-In,1,0,0,1
+Cass,"Porter Township, Precinct 1A","Porter Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,762,0,26,736
+Cass,"Porter Township, Precinct 1B","Porter Township, Precinct 1 Delegate to County Convention",,REP,Roger L. Boyer,18,0,0,18
+Cass,"Porter Township, Precinct 1B","Porter Township, Precinct 1 Delegate to County Convention",,REP,Sue L. Boyer,16,0,0,16
+Cass,"Porter Township, Precinct 1B","Porter Township, Precinct 1 Delegate to County Convention",,REP,Susan J. White,16,0,0,16
+Cass,"Porter Township, Precinct 1B","Porter Township, Precinct 1 Delegate to County Convention",,REP,William M. White,17,0,0,17
+Cass,"Porter Township, Precinct 1B","Porter Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B","Porter Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,67,0,0,67
+Cass,"Porter Township, Precinct 2A","Porter Township, Precinct 2 Delegate to County Convention",,REP,Karen Tan,59,0,2,57
+Cass,"Porter Township, Precinct 2A","Porter Township, Precinct 2 Delegate to County Convention",,REP,Natalie Thomas,61,0,2,59
+Cass,"Porter Township, Precinct 2A","Porter Township, Precinct 2 Delegate to County Convention",,REP,Joan Vidic,54,0,2,52
+Cass,"Porter Township, Precinct 2A","Porter Township, Precinct 2 Delegate to County Convention",,REP,Thomas Vidic,64,0,2,62
+Cass,"Porter Township, Precinct 2A","Porter Township, Precinct 2 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2A","Porter Township, Precinct 2 Delegate to County Convention",,REP,Ballots Cast,238,0,8,230
+Cass,"Porter Township, Precinct 2B","Porter Township, Precinct 2 Delegate to County Convention",,REP,Karen Tan,102,0,3,99
+Cass,"Porter Township, Precinct 2B","Porter Township, Precinct 2 Delegate to County Convention",,REP,Natalie Thomas,113,0,3,110
+Cass,"Porter Township, Precinct 2B","Porter Township, Precinct 2 Delegate to County Convention",,REP,Joan Vidic,110,0,3,107
+Cass,"Porter Township, Precinct 2B","Porter Township, Precinct 2 Delegate to County Convention",,REP,Thomas Vidic,116,0,3,113
+Cass,"Porter Township, Precinct 2B","Porter Township, Precinct 2 Delegate to County Convention",,REP,Write-In,10,0,0,10
+Cass,"Porter Township, Precinct 2B","Porter Township, Precinct 2 Delegate to County Convention",,REP,Ballots Cast,441,0,12,429
+Cass,"Silver Creek Township, Precinct 1","Silver Creek Township, Precinct 1 Delegate to County Convention",,REP,Dee Berry,226,106,18,102
+Cass,"Silver Creek Township, Precinct 1","Silver Creek Township, Precinct 1 Delegate to County Convention",,REP,Bruce Nevins,284,123,21,140
+Cass,"Silver Creek Township, Precinct 1","Silver Creek Township, Precinct 1 Delegate to County Convention",,REP,Nathan Wilder,259,113,22,124
+Cass,"Silver Creek Township, Precinct 1","Silver Creek Township, Precinct 1 Delegate to County Convention",,REP,Write-In,12,3,1,8
+Cass,"Silver Creek Township, Precinct 1","Silver Creek Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,769,342,61,366
+Cass,"Volinia Township, Precinct 1A","Volinia Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A","Volinia Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,0,0,0,0
+Cass,"Volinia Township, Precinct 1B","Volinia Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B","Volinia Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,0,0,0,0
+Cass,"Volinia Township, Precinct 1C","Volinia Township, Precinct 1 Delegate to County Convention",,REP,Write-In,12,0,0,12
+Cass,"Volinia Township, Precinct 1C","Volinia Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,0,0,0,0
+Cass,"Wayne Township, Precinct 1A","Wayne Township, Precinct 1 Delegate to County Convention",,REP,Paula Boyll,121,0,5,116
+Cass,"Wayne Township, Precinct 1A","Wayne Township, Precinct 1 Delegate to County Convention",,REP,Craig Schmidt,145,0,4,141
+Cass,"Wayne Township, Precinct 1A","Wayne Township, Precinct 1 Delegate to County Convention",,REP,Write-In,3,0,0,3
+Cass,"Wayne Township, Precinct 1A","Wayne Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,266,0,9,257
+Cass,"Wayne Township, Precinct 1B","Wayne Township, Precinct 1 Delegate to County Convention",,REP,Paula Boyll,18,0,0,18
+Cass,"Wayne Township, Precinct 1B","Wayne Township, Precinct 1 Delegate to County Convention",,REP,Craig Schmidt,25,0,0,25
+Cass,"Wayne Township, Precinct 1B","Wayne Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B","Wayne Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,43,0,0,43
+Cass,"Wayne Township, Precinct 1C","Wayne Township, Precinct 1 Delegate to County Convention",,REP,Paula Boyll,0,0,0,0
+Cass,"Wayne Township, Precinct 1C","Wayne Township, Precinct 1 Delegate to County Convention",,REP,Craig Schmidt,0,0,0,0
+Cass,"Wayne Township, Precinct 1C","Wayne Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C","Wayne Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,0,0,0,0
+Cass,"Calvin Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,176,0,17,159
+Cass,"Calvin Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,96,0,3,93
+Cass,"Calvin Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Calvin Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,272,0,20,252
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,134,76,2,56
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,73,41,2,30
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,207,117,4,86
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,194,113,0,81
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,87,42,2,43
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,281,155,2,124
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,130,57,6,67
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,54,20,1,33
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,184,77,7,100
+Cass,"Howard Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,424,197,15,212
+Cass,"Howard Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,331,109,14,208
+Cass,"Howard Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,755,306,29,420
+Cass,"Howard Township, Precinct 2A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,354,181,16,157
+Cass,"Howard Township, Precinct 2A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,242,115,8,119
+Cass,"Howard Township, Precinct 2A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,596,296,24,276
+Cass,"Howard Township, Precinct 2B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,82,35,3,44
+Cass,"Howard Township, Precinct 2B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,59,24,4,31
+Cass,"Howard Township, Precinct 2B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,141,59,7,75
+Cass,"Jefferson Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,149,0,16,133
+Cass,"Jefferson Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,100,0,8,92
+Cass,"Jefferson Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,249,0,24,225
+Cass,"Jefferson Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,183,0,9,174
+Cass,"Jefferson Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,67,0,2,65
+Cass,"Jefferson Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,250,0,11,239
+Cass,"LaGrange Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,381,0,33,348
+Cass,"LaGrange Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,135,0,8,127
+Cass,"LaGrange Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,516,0,41,475
+Cass,"LaGrange Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,5,0,1,4
+Cass,"LaGrange Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"LaGrange Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,5,0,1,4
+Cass,"Marcellus Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,403,0,8,395
+Cass,"Marcellus Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,159,0,0,159
+Cass,"Marcellus Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Marcellus Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,562,0,8,554
+Cass,"Mason Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,192,0,7,185
+Cass,"Mason Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,98,0,2,96
+Cass,"Mason Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,290,0,9,281
+Cass,"Mason Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,32,0,2,30
+Cass,"Mason Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,46,0,6,40
+Cass,"Mason Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,78,0,8,70
+Cass,"Mason Township, Precinct 1C",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,1,0,0,1
+Cass,"Mason Township, Precinct 1C",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,0,0,0,0
+Cass,"Mason Township, Precinct 1C",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,1,0,0,1
+Cass,"Milton Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,189,0,6,183
+Cass,"Milton Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,94,0,7,87
+Cass,"Milton Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,283,0,13,270
+Cass,"Milton Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,167,0,1,166
+Cass,"Milton Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,108,0,1,107
+Cass,"Milton Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,275,0,2,273
+Cass,"Newberg Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,121,0,1,120
+Cass,"Newberg Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,61,0,0,61
+Cass,"Newberg Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,182,0,1,181
+Cass,"Newberg Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,102,0,15,87
+Cass,"Newberg Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,49,0,0,49
+Cass,"Newberg Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,151,0,15,136
+Cass,"Ontwa Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,454,273,18,163
+Cass,"Ontwa Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,139,71,5,63
+Cass,"Ontwa Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,593,344,23,226
+Cass,"Ontwa Township, Precinct 2",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,476,293,13,170
+Cass,"Ontwa Township, Precinct 2",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,167,102,3,62
+Cass,"Ontwa Township, Precinct 2",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,643,395,16,232
+Cass,"Penn Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,248,0,29,219
+Cass,"Penn Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,106,0,9,97
+Cass,"Penn Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,354,0,38,316
+Cass,"Penn Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,4,0,0,4
+Cass,"Penn Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,2,0,0,2
+Cass,"Penn Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,6,0,0,6
+Cass,"Pokagon Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,215,0,14,201
+Cass,"Pokagon Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,98,0,3,95
+Cass,"Pokagon Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Pokagon Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,313,0,17,296
+Cass,"Porter Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,253,0,14,239
+Cass,"Porter Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,135,0,1,134
+Cass,"Porter Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,388,0,15,373
+Cass,"Porter Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,20,0,0,20
+Cass,"Porter Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,11,0,0,11
+Cass,"Porter Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,31,0,0,31
+Cass,"Porter Township, Precinct 2A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,51,0,3,48
+Cass,"Porter Township, Precinct 2A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,41,0,0,41
+Cass,"Porter Township, Precinct 2A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,92,0,3,89
+Cass,"Porter Township, Precinct 2B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,155,0,3,152
+Cass,"Porter Township, Precinct 2B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,94,0,0,94
+Cass,"Porter Township, Precinct 2B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,249,0,3,246
+Cass,"Silver Creek Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,432,229,22,181
+Cass,"Silver Creek Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,185,67,12,106
+Cass,"Silver Creek Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Silver Creek Township, Precinct 1",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,617,296,34,287
+Cass,"Volinia Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,28,0,4,24
+Cass,"Volinia Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,17,0,1,16
+Cass,"Volinia Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,45,0,5,40
+Cass,"Volinia Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,3,0,0,3
+Cass,"Volinia Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,3,0,0,3
+Cass,"Volinia Township, Precinct 1C",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,161,0,6,155
+Cass,"Volinia Township, Precinct 1C",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,85,0,3,82
+Cass,"Volinia Township, Precinct 1C",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,246,0,9,237
+Cass,"Wayne Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,231,0,10,221
+Cass,"Wayne Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,99,0,1,98
+Cass,"Wayne Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1A",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,330,0,11,319
+Cass,"Wayne Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,38,0,0,38
+Cass,"Wayne Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,25,0,0,25
+Cass,"Wayne Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,63,0,0,63
+Cass,"Wayne Township, Precinct 1C",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Yes,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Cass County 911 Central Dispatch Renewal Millage Proposal,,,No,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Cass County 911 Central Dispatch Renewal Millage Proposal,,,Ballots Cast,0,0,0,0
+Cass,"Howard Township, Precinct 1",Howard Township Disincorporation of Charter Township,,,Yes,560,198,24,338
+Cass,"Howard Township, Precinct 1",Howard Township Disincorporation of Charter Township,,,No,209,111,5,93
+Cass,"Howard Township, Precinct 1",Howard Township Disincorporation of Charter Township,,,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 1",Howard Township Disincorporation of Charter Township,,,Ballots Cast,769,309,29,431
+Cass,"Howard Township, Precinct 2A",Howard Township Disincorporation of Charter Township,,,Yes,383,174,14,195
+Cass,"Howard Township, Precinct 2A",Howard Township Disincorporation of Charter Township,,,No,221,129,7,85
+Cass,"Howard Township, Precinct 2A",Howard Township Disincorporation of Charter Township,,,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2A",Howard Township Disincorporation of Charter Township,,,Ballots Cast,604,303,21,280
+Cass,"Howard Township, Precinct 2B",Howard Township Disincorporation of Charter Township,,,Yes,88,39,5,44
+Cass,"Howard Township, Precinct 2B",Howard Township Disincorporation of Charter Township,,,No,50,18,2,30
+Cass,"Howard Township, Precinct 2B",Howard Township Disincorporation of Charter Township,,,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",Howard Township Disincorporation of Charter Township,,,Ballots Cast,138,57,7,74
+Cass,"Jefferson Township, Precinct 1A",Jefferson Township Road Millage Renewal,,,Yes,129,0,16,113
+Cass,"Jefferson Township, Precinct 1A",Jefferson Township Road Millage Renewal,,,No,121,0,8,113
+Cass,"Jefferson Township, Precinct 1A",Jefferson Township Road Millage Renewal,,,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1A",Jefferson Township Road Millage Renewal,,,Ballots Cast,250,0,24,226
+Cass,"Jefferson Township, Precinct 1B",Jefferson Township Road Millage Renewal,,,Yes,169,0,7,162
+Cass,"Jefferson Township, Precinct 1B",Jefferson Township Road Millage Renewal,,,No,82,0,5,77
+Cass,"Jefferson Township, Precinct 1B",Jefferson Township Road Millage Renewal,,,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",Jefferson Township Road Millage Renewal,,,Ballots Cast,251,0,12,239
+Cass,"Marcellus Township, Precinct 1",Marcellus Township Police/Law Enforcement Millage Renewal Proposition,,,Yes,392,0,8,384
+Cass,"Marcellus Township, Precinct 1",Marcellus Township Police/Law Enforcement Millage Renewal Proposition,,,No,171,0,0,171
+Cass,"Marcellus Township, Precinct 1",Marcellus Township Police/Law Enforcement Millage Renewal Proposition,,,Write-In,0,0,0,0
+Cass,"Marcellus Township, Precinct 1",Marcellus Township Police/Law Enforcement Millage Renewal Proposition,,,Ballots Cast,563,0,8,555
+Cass,"Newberg Township, Precinct 1A",Newberg Township Renewal of Newberg Township Road Millage,,,Yes,114,0,1,113
+Cass,"Newberg Township, Precinct 1A",Newberg Township Renewal of Newberg Township Road Millage,,,No,68,0,0,68
+Cass,"Newberg Township, Precinct 1A",Newberg Township Renewal of Newberg Township Road Millage,,,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1A",Newberg Township Renewal of Newberg Township Road Millage,,,Ballots Cast,182,0,1,181
+Cass,"Newberg Township, Precinct 1B",Newberg Township Renewal of Newberg Township Road Millage,,,Yes,89,0,13,76
+Cass,"Newberg Township, Precinct 1B",Newberg Township Renewal of Newberg Township Road Millage,,,No,63,0,3,60
+Cass,"Newberg Township, Precinct 1B",Newberg Township Renewal of Newberg Township Road Millage,,,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1B",Newberg Township Renewal of Newberg Township Road Millage,,,Ballots Cast,152,0,16,136
+Cass,"Newberg Township, Precinct 1A",Newberg Township Emergency Medical Services (Ambulance) Millage Renewal,,,Yes,132,0,1,131
+Cass,"Newberg Township, Precinct 1A",Newberg Township Emergency Medical Services (Ambulance) Millage Renewal,,,No,41,0,0,41
+Cass,"Newberg Township, Precinct 1A",Newberg Township Emergency Medical Services (Ambulance) Millage Renewal,,,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1A",Newberg Township Emergency Medical Services (Ambulance) Millage Renewal,,,Ballots Cast,173,0,1,172
+Cass,"Newberg Township, Precinct 1B",Newberg Township Emergency Medical Services (Ambulance) Millage Renewal,,,Yes,116,0,14,102
+Cass,"Newberg Township, Precinct 1B",Newberg Township Emergency Medical Services (Ambulance) Millage Renewal,,,No,37,0,2,35
+Cass,"Newberg Township, Precinct 1B",Newberg Township Emergency Medical Services (Ambulance) Millage Renewal,,,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1B",Newberg Township Emergency Medical Services (Ambulance) Millage Renewal,,,Ballots Cast,153,0,16,137
+Cass,"Ontwa Township, Precinct 1",Ontwa Township 1. Proposal for Ambulance Service Millage Renewal,,,Yes,462,268,17,177
+Cass,"Ontwa Township, Precinct 1",Ontwa Township 1. Proposal for Ambulance Service Millage Renewal,,,No,140,74,7,59
+Cass,"Ontwa Township, Precinct 1",Ontwa Township 1. Proposal for Ambulance Service Millage Renewal,,,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 1",Ontwa Township 1. Proposal for Ambulance Service Millage Renewal,,,Ballots Cast,602,342,24,236
+Cass,"Ontwa Township, Precinct 2",Ontwa Township 1. Proposal for Ambulance Service Millage Renewal,,,Yes,507,313,14,180
+Cass,"Ontwa Township, Precinct 2",Ontwa Township 1. Proposal for Ambulance Service Millage Renewal,,,No,147,91,2,54
+Cass,"Ontwa Township, Precinct 2",Ontwa Township 1. Proposal for Ambulance Service Millage Renewal,,,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",Ontwa Township 1. Proposal for Ambulance Service Millage Renewal,,,Ballots Cast,654,404,16,234
+Cass,"Ontwa Township, Precinct 1",Ontwa Township 2. Proposal for Ambulance Service Millage Renewal,,,Yes,476,277,18,181
+Cass,"Ontwa Township, Precinct 1",Ontwa Township 2. Proposal for Ambulance Service Millage Renewal,,,No,124,67,4,53
+Cass,"Ontwa Township, Precinct 1",Ontwa Township 2. Proposal for Ambulance Service Millage Renewal,,,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 1",Ontwa Township 2. Proposal for Ambulance Service Millage Renewal,,,Ballots Cast,600,344,22,234
+Cass,"Ontwa Township, Precinct 2",Ontwa Township 2. Proposal for Ambulance Service Millage Renewal,,,Yes,507,322,14,171
+Cass,"Ontwa Township, Precinct 2",Ontwa Township 2. Proposal for Ambulance Service Millage Renewal,,,No,135,76,2,57
+Cass,"Ontwa Township, Precinct 2",Ontwa Township 2. Proposal for Ambulance Service Millage Renewal,,,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",Ontwa Township 2. Proposal for Ambulance Service Millage Renewal,,,Ballots Cast,642,398,16,228
+Cass,"Volinia Township, Precinct 1A",Volinia Township Road Maintenance Millage Renewal,,,Yes,30,0,4,26
+Cass,"Volinia Township, Precinct 1A",Volinia Township Road Maintenance Millage Renewal,,,No,15,0,1,14
+Cass,"Volinia Township, Precinct 1A",Volinia Township Road Maintenance Millage Renewal,,,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",Volinia Township Road Maintenance Millage Renewal,,,Ballots Cast,45,0,5,40
+Cass,"Volinia Township, Precinct 1B",Volinia Township Road Maintenance Millage Renewal,,,Yes,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Volinia Township Road Maintenance Millage Renewal,,,No,3,0,0,3
+Cass,"Volinia Township, Precinct 1B",Volinia Township Road Maintenance Millage Renewal,,,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1B",Volinia Township Road Maintenance Millage Renewal,,,Ballots Cast,3,0,0,3
+Cass,"Volinia Township, Precinct 1C",Volinia Township Road Maintenance Millage Renewal,,,Yes,160,0,5,155
+Cass,"Volinia Township, Precinct 1C",Volinia Township Road Maintenance Millage Renewal,,,No,88,0,3,85
+Cass,"Volinia Township, Precinct 1C",Volinia Township Road Maintenance Millage Renewal,,,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",Volinia Township Road Maintenance Millage Renewal,,,Ballots Cast,248,0,8,240
+Cass,"Volinia Township, Precinct 1A",Decatur Public Schools Operating Millage Renewal Proposal,,,Yes,29,0,3,26
+Cass,"Volinia Township, Precinct 1A",Decatur Public Schools Operating Millage Renewal Proposal,,,No,16,0,2,14
+Cass,"Volinia Township, Precinct 1A",Decatur Public Schools Operating Millage Renewal Proposal,,,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1A",Decatur Public Schools Operating Millage Renewal Proposal,,,Ballots Cast,45,0,5,40
+Cass,"Wayne Township, Precinct 1B",Decatur Public Schools Operating Millage Renewal Proposal,,,Yes,28,0,0,28
+Cass,"Wayne Township, Precinct 1B",Decatur Public Schools Operating Millage Renewal Proposal,,,No,35,0,0,35
+Cass,"Wayne Township, Precinct 1B",Decatur Public Schools Operating Millage Renewal Proposal,,,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1B",Decatur Public Schools Operating Millage Renewal Proposal,,,Ballots Cast,63,0,0,63
+Cass,"Howard Township, Precinct 2B",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Yes,69,35,1,33
+Cass,"Howard Township, Precinct 2B",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,No,51,17,6,28
+Cass,"Howard Township, Precinct 2B",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Write-In,0,0,0,0
+Cass,"Howard Township, Precinct 2B",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Ballots Cast,120,52,7,61
+Cass,"Jefferson Township, Precinct 1B",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Yes,162,0,6,156
+Cass,"Jefferson Township, Precinct 1B",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,No,74,0,4,70
+Cass,"Jefferson Township, Precinct 1B",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Write-In,0,0,0,0
+Cass,"Jefferson Township, Precinct 1B",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Ballots Cast,236,0,10,226
+Cass,"Mason Township, Precinct 1A",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Yes,195,0,9,186
+Cass,"Mason Township, Precinct 1A",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,No,99,0,0,99
+Cass,"Mason Township, Precinct 1A",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1A",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Ballots Cast,294,0,9,285
+Cass,"Milton Township, Precinct 1A",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Yes,171,0,7,164
+Cass,"Milton Township, Precinct 1A",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,No,113,0,6,107
+Cass,"Milton Township, Precinct 1A",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Write-In,0,0,0,0
+Cass,"Milton Township, Precinct 1A",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Ballots Cast,284,0,13,271
+Cass,"Ontwa Township, Precinct 1",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Yes,443,263,19,161
+Cass,"Ontwa Township, Precinct 1",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,No,155,76,6,73
+Cass,"Ontwa Township, Precinct 1",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 1",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Ballots Cast,598,339,25,234
+Cass,"Ontwa Township, Precinct 2",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Yes,441,278,11,152
+Cass,"Ontwa Township, Precinct 2",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,No,188,110,4,74
+Cass,"Ontwa Township, Precinct 2",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Write-In,0,0,0,0
+Cass,"Ontwa Township, Precinct 2",Edwardsburg Public Schools Operating Millage Renewal Proposal,,,Ballots Cast,629,388,15,226
+Cass,"Flowerfield Township, Precinct 1 (St. Joseph County)",Marcellus Community Schools Bond Proposal,,,Yes,30,0,0,30
+Cass,"Flowerfield Township, Precinct 1 (St. Joseph County)",Marcellus Community Schools Bond Proposal,,,No,20,0,0,20
+Cass,"Flowerfield Township, Precinct 1 (St. Joseph County)",Marcellus Community Schools Bond Proposal,,,Write-In,0,0,0,0
+Cass,"Flowerfield Township, Precinct 1 (St. Joseph County)",Marcellus Community Schools Bond Proposal,,,Ballots Cast,50,0,0,50
+Cass,"Marcellus Township, Precinct 1",Marcellus Community Schools Bond Proposal,,,Yes,323,0,8,315
+Cass,"Marcellus Township, Precinct 1",Marcellus Community Schools Bond Proposal,,,No,239,0,0,239
+Cass,"Marcellus Township, Precinct 1",Marcellus Community Schools Bond Proposal,,,Write-In,0,0,0,0
+Cass,"Marcellus Township, Precinct 1",Marcellus Community Schools Bond Proposal,,,Ballots Cast,562,0,8,554
+Cass,"Newberg Township, Precinct 1B",Marcellus Community Schools Bond Proposal,,,Yes,67,0,10,57
+Cass,"Newberg Township, Precinct 1B",Marcellus Community Schools Bond Proposal,,,No,85,0,6,79
+Cass,"Newberg Township, Precinct 1B",Marcellus Community Schools Bond Proposal,,,Write-In,0,0,0,0
+Cass,"Newberg Township, Precinct 1B",Marcellus Community Schools Bond Proposal,,,Ballots Cast,152,0,16,136
+Cass,"Penn Township, Precinct 1B",Marcellus Community Schools Bond Proposal,,,Yes,4,0,0,4
+Cass,"Penn Township, Precinct 1B",Marcellus Community Schools Bond Proposal,,,No,2,0,0,2
+Cass,"Penn Township, Precinct 1B",Marcellus Community Schools Bond Proposal,,,Write-In,0,0,0,0
+Cass,"Penn Township, Precinct 1B",Marcellus Community Schools Bond Proposal,,,Ballots Cast,6,0,0,6
+Cass,"Porter Township, Precinct 1 (Van Buren County)",Marcellus Community Schools Bond Proposal,,,Yes,78,0,0,78
+Cass,"Porter Township, Precinct 1 (Van Buren County)",Marcellus Community Schools Bond Proposal,,,No,65,0,0,65
+Cass,"Porter Township, Precinct 1 (Van Buren County)",Marcellus Community Schools Bond Proposal,,,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1 (Van Buren County)",Marcellus Community Schools Bond Proposal,,,Ballots Cast,143,0,0,143
+Cass,"Volinia Township, Precinct 1C",Marcellus Community Schools Bond Proposal,,,Yes,121,0,6,115
+Cass,"Volinia Township, Precinct 1C",Marcellus Community Schools Bond Proposal,,,No,122,0,3,119
+Cass,"Volinia Township, Precinct 1C",Marcellus Community Schools Bond Proposal,,,Write-In,0,0,0,0
+Cass,"Volinia Township, Precinct 1C",Marcellus Community Schools Bond Proposal,,,Ballots Cast,243,0,9,234
+Cass,"Wayne Township, Precinct 1C",Marcellus Community Schools Bond Proposal,,,Yes,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Marcellus Community Schools Bond Proposal,,,No,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Marcellus Community Schools Bond Proposal,,,Write-In,0,0,0,0
+Cass,"Wayne Township, Precinct 1C",Marcellus Community Schools Bond Proposal,,,Ballots Cast,0,0,0,0
+Cass,"Mason Township, Precinct 1C",White Pigeon Community Schools Sinking Fund Millage Replacement Proposal,,,Yes,1,0,0,1
+Cass,"Mason Township, Precinct 1C",White Pigeon Community Schools Sinking Fund Millage Replacement Proposal,,,No,1,0,0,1
+Cass,"Mason Township, Precinct 1C",White Pigeon Community Schools Sinking Fund Millage Replacement Proposal,,,Write-In,0,0,0,0
+Cass,"Mason Township, Precinct 1C",White Pigeon Community Schools Sinking Fund Millage Replacement Proposal,,,Ballots Cast,2,0,0,2
+Cass,"Porter Township, Precinct 1B",White Pigeon Community Schools Sinking Fund Millage Replacement Proposal,,,Yes,7,0,0,7
+Cass,"Porter Township, Precinct 1B",White Pigeon Community Schools Sinking Fund Millage Replacement Proposal,,,No,24,0,0,24
+Cass,"Porter Township, Precinct 1B",White Pigeon Community Schools Sinking Fund Millage Replacement Proposal,,,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 1B",White Pigeon Community Schools Sinking Fund Millage Replacement Proposal,,,Ballots Cast,31,0,0,31
+Cass,"Porter Township, Precinct 2B",White Pigeon Community Schools Sinking Fund Millage Replacement Proposal,,,Yes,126,0,2,124
+Cass,"Porter Township, Precinct 2B",White Pigeon Community Schools Sinking Fund Millage Replacement Proposal,,,No,138,0,1,137
+Cass,"Porter Township, Precinct 2B",White Pigeon Community Schools Sinking Fund Millage Replacement Proposal,,,Write-In,0,0,0,0
+Cass,"Porter Township, Precinct 2B",White Pigeon Community Schools Sinking Fund Millage Replacement Proposal,,,Ballots Cast,264,0,3,261
