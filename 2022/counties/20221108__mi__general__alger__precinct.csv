@@ -19,76 +19,76 @@ Alger,"Munising Township, Precinct 1",Ballots Cast,,,,1052
 Alger,"Onota Township, Precinct 1",Ballots Cast,,,,279
 Alger,"Rock River Township, Precinct 1",Ballots Cast,,,,661
 Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Ballots Cast,,,,12
-Alger,"City of Munising, Precinct 1",Straight Party,,DEM,,251
-Alger,"AuTrain Township, Precinct 1",Straight Party,,DEM,,93
-Alger,"Burt Township, Precinct 1",Straight Party,,DEM,,68
-Alger,"Grand Island Township, Precinct 1",Straight Party,,DEM,,5
-Alger,"Limestone Township, Precinct 1",Straight Party,,DEM,,55
-Alger,"Mathias Township, Precinct 1",Straight Party,,DEM,,64
-Alger,"Munising Township, Precinct 1",Straight Party,,DEM,,177
-Alger,"Onota Township, Precinct 1",Straight Party,,DEM,,80
-Alger,"Rock River Township, Precinct 1",Straight Party,,DEM,,175
-Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,DEM,,0
-Alger,"City of Munising, Precinct 1",Straight Party,,REP,,220
-Alger,"AuTrain Township, Precinct 1",Straight Party,,REP,,210
-Alger,"Burt Township, Precinct 1",Straight Party,,REP,,112
-Alger,"Grand Island Township, Precinct 1",Straight Party,,REP,,3
-Alger,"Limestone Township, Precinct 1",Straight Party,,REP,,75
-Alger,"Mathias Township, Precinct 1",Straight Party,,REP,,78
-Alger,"Munising Township, Precinct 1",Straight Party,,REP,,350
-Alger,"Onota Township, Precinct 1",Straight Party,,REP,,66
-Alger,"Rock River Township, Precinct 1",Straight Party,,REP,,157
-Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,REP,,0
-Alger,"City of Munising, Precinct 1",Straight Party,,LIB,,3
-Alger,"AuTrain Township, Precinct 1",Straight Party,,LIB,,0
-Alger,"Burt Township, Precinct 1",Straight Party,,LIB,,3
-Alger,"Grand Island Township, Precinct 1",Straight Party,,LIB,,0
-Alger,"Limestone Township, Precinct 1",Straight Party,,LIB,,0
-Alger,"Mathias Township, Precinct 1",Straight Party,,LIB,,1
-Alger,"Munising Township, Precinct 1",Straight Party,,LIB,,4
-Alger,"Onota Township, Precinct 1",Straight Party,,LIB,,0
-Alger,"Rock River Township, Precinct 1",Straight Party,,LIB,,3
-Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,LIB,,0
-Alger,"City of Munising, Precinct 1",Straight Party,,UST,,2
-Alger,"AuTrain Township, Precinct 1",Straight Party,,UST,,0
-Alger,"Burt Township, Precinct 1",Straight Party,,UST,,1
-Alger,"Grand Island Township, Precinct 1",Straight Party,,UST,,0
-Alger,"Limestone Township, Precinct 1",Straight Party,,UST,,1
-Alger,"Mathias Township, Precinct 1",Straight Party,,UST,,1
-Alger,"Munising Township, Precinct 1",Straight Party,,UST,,4
-Alger,"Onota Township, Precinct 1",Straight Party,,UST,,1
-Alger,"Rock River Township, Precinct 1",Straight Party,,UST,,1
-Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,UST,,0
-Alger,"City of Munising, Precinct 1",Straight Party,,WCP,,4
-Alger,"AuTrain Township, Precinct 1",Straight Party,,WCP,,1
-Alger,"Burt Township, Precinct 1",Straight Party,,WCP,,1
-Alger,"Grand Island Township, Precinct 1",Straight Party,,WCP,,0
-Alger,"Limestone Township, Precinct 1",Straight Party,,WCP,,0
-Alger,"Mathias Township, Precinct 1",Straight Party,,WCP,,3
-Alger,"Munising Township, Precinct 1",Straight Party,,WCP,,4
-Alger,"Onota Township, Precinct 1",Straight Party,,WCP,,1
-Alger,"Rock River Township, Precinct 1",Straight Party,,WCP,,2
-Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,WCP,,0
-Alger,"City of Munising, Precinct 1",Straight Party,,GRN,,0
-Alger,"AuTrain Township, Precinct 1",Straight Party,,GRN,,1
-Alger,"Burt Township, Precinct 1",Straight Party,,GRN,,3
-Alger,"Grand Island Township, Precinct 1",Straight Party,,GRN,,0
-Alger,"Limestone Township, Precinct 1",Straight Party,,GRN,,0
-Alger,"Mathias Township, Precinct 1",Straight Party,,GRN,,1
-Alger,"Munising Township, Precinct 1",Straight Party,,GRN,,2
-Alger,"Onota Township, Precinct 1",Straight Party,,GRN,,0
-Alger,"Rock River Township, Precinct 1",Straight Party,,GRN,,1
-Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,GRN,,0
-Alger,"City of Munising, Precinct 1",Straight Party,,NLP,,1
-Alger,"AuTrain Township, Precinct 1",Straight Party,,NLP,,0
-Alger,"Burt Township, Precinct 1",Straight Party,,NLP,,0
-Alger,"Grand Island Township, Precinct 1",Straight Party,,NLP,,0
-Alger,"Limestone Township, Precinct 1",Straight Party,,NLP,,0
-Alger,"Mathias Township, Precinct 1",Straight Party,,NLP,,1
-Alger,"Munising Township, Precinct 1",Straight Party,,NLP,,0
-Alger,"Onota Township, Precinct 1",Straight Party,,NLP,,0
-Alger,"Rock River Township, Precinct 1",Straight Party,,NLP,,0
-Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,NLP,,0
+Alger,"City of Munising, Precinct 1",Straight Party,,DEM,Democratic,251
+Alger,"AuTrain Township, Precinct 1",Straight Party,,DEM,Democratic,93
+Alger,"Burt Township, Precinct 1",Straight Party,,DEM,Democratic,68
+Alger,"Grand Island Township, Precinct 1",Straight Party,,DEM,Democratic,5
+Alger,"Limestone Township, Precinct 1",Straight Party,,DEM,Democratic,55
+Alger,"Mathias Township, Precinct 1",Straight Party,,DEM,Democratic,64
+Alger,"Munising Township, Precinct 1",Straight Party,,DEM,Democratic,177
+Alger,"Onota Township, Precinct 1",Straight Party,,DEM,Democratic,80
+Alger,"Rock River Township, Precinct 1",Straight Party,,DEM,Democratic,175
+Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,DEM,Democratic,0
+Alger,"City of Munising, Precinct 1",Straight Party,,REP,Republican,220
+Alger,"AuTrain Township, Precinct 1",Straight Party,,REP,Republican,210
+Alger,"Burt Township, Precinct 1",Straight Party,,REP,Republican,112
+Alger,"Grand Island Township, Precinct 1",Straight Party,,REP,Republican,3
+Alger,"Limestone Township, Precinct 1",Straight Party,,REP,Republican,75
+Alger,"Mathias Township, Precinct 1",Straight Party,,REP,Republican,78
+Alger,"Munising Township, Precinct 1",Straight Party,,REP,Republican,350
+Alger,"Onota Township, Precinct 1",Straight Party,,REP,Republican,66
+Alger,"Rock River Township, Precinct 1",Straight Party,,REP,Republican,157
+Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,REP,Republican,0
+Alger,"City of Munising, Precinct 1",Straight Party,,LIB,Libertarian,3
+Alger,"AuTrain Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Alger,"Burt Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Alger,"Grand Island Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Alger,"Limestone Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Alger,"Mathias Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Alger,"Munising Township, Precinct 1",Straight Party,,LIB,Libertarian,4
+Alger,"Onota Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Alger,"Rock River Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,LIB,Libertarian,0
+Alger,"City of Munising, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Alger,"AuTrain Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Alger,"Burt Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Alger,"Grand Island Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Alger,"Limestone Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Alger,"Mathias Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Alger,"Munising Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,4
+Alger,"Onota Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Alger,"Rock River Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,UST,U.S. Taxpayers,0
+Alger,"City of Munising, Precinct 1",Straight Party,,WCP,Working Class,4
+Alger,"AuTrain Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Alger,"Burt Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Alger,"Grand Island Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Alger,"Limestone Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Alger,"Mathias Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Alger,"Munising Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Alger,"Onota Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Alger,"Rock River Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,WCP,Working Class,0
+Alger,"City of Munising, Precinct 1",Straight Party,,GRN,Green,0
+Alger,"AuTrain Township, Precinct 1",Straight Party,,GRN,Green,1
+Alger,"Burt Township, Precinct 1",Straight Party,,GRN,Green,3
+Alger,"Grand Island Township, Precinct 1",Straight Party,,GRN,Green,0
+Alger,"Limestone Township, Precinct 1",Straight Party,,GRN,Green,0
+Alger,"Mathias Township, Precinct 1",Straight Party,,GRN,Green,1
+Alger,"Munising Township, Precinct 1",Straight Party,,GRN,Green,2
+Alger,"Onota Township, Precinct 1",Straight Party,,GRN,Green,0
+Alger,"Rock River Township, Precinct 1",Straight Party,,GRN,Green,1
+Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,GRN,Green,0
+Alger,"City of Munising, Precinct 1",Straight Party,,NLP,Natural Law,1
+Alger,"AuTrain Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Alger,"Burt Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Alger,"Grand Island Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Alger,"Limestone Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Alger,"Mathias Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Alger,"Munising Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Alger,"Onota Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Alger,"Rock River Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Straight Party,,NLP,Natural Law,0
 Alger,"City of Munising, Precinct 1",Governor,,DEM,Gretchen Whitmer,509
 Alger,"AuTrain Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,244
 Alger,"Burt Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,136

@@ -1,0 +1,425 @@
+county,precinct,office,district,party,candidate,votes
+Gratiot,Arcada Township Precinct 1,Governor,,DEM,Gretchen Whitmer,107
+Gratiot,Arcada Township Precinct 1,Governor,,REP,Garrett Soldano,77
+Gratiot,Arcada Township Precinct 1,Governor,,REP,James Elmer Craig,2
+Gratiot,Arcada Township Precinct 1,Governor,,REP,Kevin Rinke,51
+Gratiot,Arcada Township Precinct 1,Governor,,REP,Ralph Rebandt,7
+Gratiot,Arcada Township Precinct 1,Governor,,REP,Ryan D. Kelley,58
+Gratiot,Arcada Township Precinct 1,Governor,,REP,Tudor M. Dixon,103
+Gratiot,Arcada Township Precinct 1,Governor,,REP,Write-In,2
+Gratiot,Arcada Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,104
+Gratiot,Arcada Township Precinct 1,U.S. House,2,REP,John Moolenaar,232
+Gratiot,Arcada Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,68
+Gratiot,Arcada Township Precinct 1,U.S. House,2,REP,Write-In,1
+Gratiot,Arcada Township Precinct 1,State Senate,34,DEM,Christine Gerace,105
+Gratiot,Arcada Township Precinct 1,State Senate,34,DEM,Write-In,1
+Gratiot,Arcada Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,62
+Gratiot,Arcada Township Precinct 1,State Senate,34,REP,Roger Hauck,216
+Gratiot,Arcada Township Precinct 1,State Senate,34,REP,Write-In,1
+Gratiot,Arcada Township Precinct 1,State House,92,DEM,Anthony D. Feig,103
+Gratiot,Arcada Township Precinct 1,State House,92,REP,Erin Zimmer,48
+Gratiot,Arcada Township Precinct 1,State House,92,REP,Gene Haymaker,47
+Gratiot,Arcada Township Precinct 1,State House,92,REP,Jerry Neyer,113
+Gratiot,Arcada Township Precinct 1,State House,92,REP,Thomas Anderman,24
+Gratiot,Arcada Township Precinct 1,State House,92,REP,Todd Schorle,44
+Gratiot,Arcada Township Precinct 1,State House,92,REP,Write-In,2
+Gratiot,Bethany Township Precinct 1,Governor,,DEM,Gretchen Whitmer,46
+Gratiot,Bethany Township Precinct 1,Governor,,REP,Garrett Soldano,40
+Gratiot,Bethany Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Gratiot,Bethany Township Precinct 1,Governor,,REP,Kevin Rinke,77
+Gratiot,Bethany Township Precinct 1,Governor,,REP,Ralph Rebandt,5
+Gratiot,Bethany Township Precinct 1,Governor,,REP,Ryan D. Kelley,50
+Gratiot,Bethany Township Precinct 1,Governor,,REP,Tudor M. Dixon,60
+Gratiot,Bethany Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,44
+Gratiot,Bethany Township Precinct 1,U.S. House,2,REP,John Moolenaar,178
+Gratiot,Bethany Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,59
+Gratiot,Bethany Township Precinct 1,U.S. House,2,REP,Write-In,1
+Gratiot,Bethany Township Precinct 1,State Senate,34,DEM,Christine Gerace,45
+Gratiot,Bethany Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,52
+Gratiot,Bethany Township Precinct 1,State Senate,34,REP,Roger Hauck,173
+Gratiot,Bethany Township Precinct 1,State Senate,34,REP,Write-In,1
+Gratiot,Bethany Township Precinct 1,State House,92,DEM,Anthony D. Feig,43
+Gratiot,Bethany Township Precinct 1,State House,92,REP,Erin Zimmer,50
+Gratiot,Bethany Township Precinct 1,State House,92,REP,Gene Haymaker,40
+Gratiot,Bethany Township Precinct 1,State House,92,REP,Jerry Neyer,68
+Gratiot,Bethany Township Precinct 1,State House,92,REP,Thomas Anderman,11
+Gratiot,Bethany Township Precinct 1,State House,92,REP,Todd Schorle,61
+Gratiot,Bethany Township Precinct 1,State House,92,REP,Write-In,1
+Gratiot,City of Alma Precinct 1,Governor,,DEM,Gretchen Whitmer,163
+Gratiot,City of Alma Precinct 1,Governor,,REP,Garrett Soldano,47
+Gratiot,City of Alma Precinct 1,Governor,,REP,James Elmer Craig,1
+Gratiot,City of Alma Precinct 1,Governor,,REP,Kevin Rinke,75
+Gratiot,City of Alma Precinct 1,Governor,,REP,Ralph Rebandt,6
+Gratiot,City of Alma Precinct 1,Governor,,REP,Ryan D. Kelley,50
+Gratiot,City of Alma Precinct 1,Governor,,REP,Tudor M. Dixon,74
+Gratiot,City of Alma Precinct 1,Governor,,REP,Write-In,3
+Gratiot,City of Alma Precinct 1,U.S. House,2,DEM,Jerry Hilliard,161
+Gratiot,City of Alma Precinct 1,U.S. House,2,REP,John Moolenaar,197
+Gratiot,City of Alma Precinct 1,U.S. House,2,REP,Thomas J. Norton,51
+Gratiot,City of Alma Precinct 1,U.S. House,2,REP,Write-In,2
+Gratiot,City of Alma Precinct 1,State Senate,34,DEM,Christine Gerace,160
+Gratiot,City of Alma Precinct 1,State Senate,34,REP,Lisa M. Sowers,44
+Gratiot,City of Alma Precinct 1,State Senate,34,REP,Roger Hauck,195
+Gratiot,City of Alma Precinct 1,State Senate,34,REP,Write-In,2
+Gratiot,City of Alma Precinct 1,State House,92,DEM,Anthony D. Feig,160
+Gratiot,City of Alma Precinct 1,State House,92,REP,Erin Zimmer,60
+Gratiot,City of Alma Precinct 1,State House,92,REP,Gene Haymaker,55
+Gratiot,City of Alma Precinct 1,State House,92,REP,Jerry Neyer,63
+Gratiot,City of Alma Precinct 1,State House,92,REP,Thomas Anderman,19
+Gratiot,City of Alma Precinct 1,State House,92,REP,Todd Schorle,38
+Gratiot,City of Alma Precinct 1,State House,92,REP,Write-In,1
+Gratiot,City of Alma Precinct 2,Governor,,DEM,Gretchen Whitmer,208
+Gratiot,City of Alma Precinct 2,Governor,,REP,Garrett Soldano,53
+Gratiot,City of Alma Precinct 2,Governor,,REP,James Elmer Craig,2
+Gratiot,City of Alma Precinct 2,Governor,,REP,Kevin Rinke,52
+Gratiot,City of Alma Precinct 2,Governor,,REP,Ralph Rebandt,11
+Gratiot,City of Alma Precinct 2,Governor,,REP,Ryan D. Kelley,59
+Gratiot,City of Alma Precinct 2,Governor,,REP,Tudor M. Dixon,76
+Gratiot,City of Alma Precinct 2,Governor,,REP,Write-In,6
+Gratiot,City of Alma Precinct 2,U.S. House,2,DEM,Jerry Hilliard,199
+Gratiot,City of Alma Precinct 2,U.S. House,2,REP,John Moolenaar,189
+Gratiot,City of Alma Precinct 2,U.S. House,2,REP,Thomas J. Norton,63
+Gratiot,City of Alma Precinct 2,U.S. House,2,REP,Write-In,2
+Gratiot,City of Alma Precinct 2,State Senate,34,DEM,Christine Gerace,197
+Gratiot,City of Alma Precinct 2,State Senate,34,REP,Lisa M. Sowers,71
+Gratiot,City of Alma Precinct 2,State Senate,34,REP,Roger Hauck,177
+Gratiot,City of Alma Precinct 2,State Senate,34,REP,Write-In,2
+Gratiot,City of Alma Precinct 2,State House,92,DEM,Anthony D. Feig,197
+Gratiot,City of Alma Precinct 2,State House,92,REP,Erin Zimmer,73
+Gratiot,City of Alma Precinct 2,State House,92,REP,Gene Haymaker,63
+Gratiot,City of Alma Precinct 2,State House,92,REP,Jerry Neyer,46
+Gratiot,City of Alma Precinct 2,State House,92,REP,Thomas Anderman,14
+Gratiot,City of Alma Precinct 2,State House,92,REP,Todd Schorle,48
+Gratiot,City of Alma Precinct 2,State House,92,REP,Write-In,1
+Gratiot,City of Alma Precinct 3,Governor,,DEM,Gretchen Whitmer,160
+Gratiot,City of Alma Precinct 3,Governor,,REP,Garrett Soldano,53
+Gratiot,City of Alma Precinct 3,Governor,,REP,James Elmer Craig,0
+Gratiot,City of Alma Precinct 3,Governor,,REP,Kevin Rinke,42
+Gratiot,City of Alma Precinct 3,Governor,,REP,Ralph Rebandt,9
+Gratiot,City of Alma Precinct 3,Governor,,REP,Ryan D. Kelley,35
+Gratiot,City of Alma Precinct 3,Governor,,REP,Tudor M. Dixon,49
+Gratiot,City of Alma Precinct 3,U.S. House,2,DEM,Jerry Hilliard,156
+Gratiot,City of Alma Precinct 3,U.S. House,2,REP,John Moolenaar,141
+Gratiot,City of Alma Precinct 3,U.S. House,2,REP,Thomas J. Norton,46
+Gratiot,City of Alma Precinct 3,State Senate,34,DEM,Christine Gerace,157
+Gratiot,City of Alma Precinct 3,State Senate,34,REP,Lisa M. Sowers,42
+Gratiot,City of Alma Precinct 3,State Senate,34,REP,Roger Hauck,134
+Gratiot,City of Alma Precinct 3,State House,92,DEM,Anthony D. Feig,156
+Gratiot,City of Alma Precinct 3,State House,92,REP,Erin Zimmer,38
+Gratiot,City of Alma Precinct 3,State House,92,REP,Gene Haymaker,46
+Gratiot,City of Alma Precinct 3,State House,92,REP,Jerry Neyer,47
+Gratiot,City of Alma Precinct 3,State House,92,REP,Thomas Anderman,14
+Gratiot,City of Alma Precinct 3,State House,92,REP,Todd Schorle,33
+Gratiot,City of Alma Precinct 3,State House,92,REP,Write-In,1
+Gratiot,City of Ithaca Precinct 1,Governor,,DEM,Gretchen Whitmer,173
+Gratiot,City of Ithaca Precinct 1,Governor,,REP,Garrett Soldano,103
+Gratiot,City of Ithaca Precinct 1,Governor,,REP,James Elmer Craig,2
+Gratiot,City of Ithaca Precinct 1,Governor,,REP,Kevin Rinke,112
+Gratiot,City of Ithaca Precinct 1,Governor,,REP,Ralph Rebandt,19
+Gratiot,City of Ithaca Precinct 1,Governor,,REP,Ryan D. Kelley,64
+Gratiot,City of Ithaca Precinct 1,Governor,,REP,Tudor M. Dixon,114
+Gratiot,City of Ithaca Precinct 1,Governor,,REP,Write-In,4
+Gratiot,City of Ithaca Precinct 1,U.S. House,2,DEM,Jerry Hilliard,166
+Gratiot,City of Ithaca Precinct 1,U.S. House,2,REP,John Moolenaar,283
+Gratiot,City of Ithaca Precinct 1,U.S. House,2,REP,Thomas J. Norton,123
+Gratiot,City of Ithaca Precinct 1,U.S. House,2,REP,Write-In,2
+Gratiot,City of Ithaca Precinct 1,State Senate,34,DEM,Christine Gerace,166
+Gratiot,City of Ithaca Precinct 1,State Senate,34,REP,Lisa M. Sowers,108
+Gratiot,City of Ithaca Precinct 1,State Senate,34,REP,Roger Hauck,276
+Gratiot,City of Ithaca Precinct 1,State Senate,34,REP,Write-In,2
+Gratiot,City of Ithaca Precinct 1,State House,92,DEM,Anthony D. Feig,166
+Gratiot,City of Ithaca Precinct 1,State House,92,REP,Erin Zimmer,110
+Gratiot,City of Ithaca Precinct 1,State House,92,REP,Gene Haymaker,42
+Gratiot,City of Ithaca Precinct 1,State House,92,REP,Jerry Neyer,83
+Gratiot,City of Ithaca Precinct 1,State House,92,REP,Thomas Anderman,43
+Gratiot,City of Ithaca Precinct 1,State House,92,REP,Todd Schorle,110
+Gratiot,City of Ithaca Precinct 1,State House,92,REP,Write-In,4
+Gratiot,City of St. Louis Precinct 1,Governor,,DEM,Gretchen Whitmer,181
+Gratiot,City of St. Louis Precinct 1,Governor,,DEM,Write-In,1
+Gratiot,City of St. Louis Precinct 1,Governor,,REP,Garrett Soldano,83
+Gratiot,City of St. Louis Precinct 1,Governor,,REP,James Elmer Craig,0
+Gratiot,City of St. Louis Precinct 1,Governor,,REP,Kevin Rinke,74
+Gratiot,City of St. Louis Precinct 1,Governor,,REP,Ralph Rebandt,11
+Gratiot,City of St. Louis Precinct 1,Governor,,REP,Ryan D. Kelley,86
+Gratiot,City of St. Louis Precinct 1,Governor,,REP,Tudor M. Dixon,116
+Gratiot,City of St. Louis Precinct 1,Governor,,REP,Write-In,2
+Gratiot,City of St. Louis Precinct 1,U.S. House,2,DEM,Jerry Hilliard,181
+Gratiot,City of St. Louis Precinct 1,U.S. House,2,REP,John Moolenaar,260
+Gratiot,City of St. Louis Precinct 1,U.S. House,2,REP,Thomas J. Norton,114
+Gratiot,City of St. Louis Precinct 1,U.S. House,2,REP,Write-In,1
+Gratiot,City of St. Louis Precinct 1,State Senate,34,DEM,Christine Gerace,182
+Gratiot,City of St. Louis Precinct 1,State Senate,34,REP,Lisa M. Sowers,89
+Gratiot,City of St. Louis Precinct 1,State Senate,34,REP,Roger Hauck,267
+Gratiot,City of St. Louis Precinct 1,State Senate,34,REP,Write-In,1
+Gratiot,City of St. Louis Precinct 1,State House,92,DEM,Anthony D. Feig,180
+Gratiot,City of St. Louis Precinct 1,State House,92,REP,Erin Zimmer,100
+Gratiot,City of St. Louis Precinct 1,State House,92,REP,Gene Haymaker,87
+Gratiot,City of St. Louis Precinct 1,State House,92,REP,Jerry Neyer,66
+Gratiot,City of St. Louis Precinct 1,State House,92,REP,Thomas Anderman,27
+Gratiot,City of St. Louis Precinct 1,State House,92,REP,Todd Schorle,76
+Gratiot,City of St. Louis Precinct 1,State House,92,REP,Write-In,1
+Gratiot,Elba Township Precinct 1,Governor,,DEM,Gretchen Whitmer,62
+Gratiot,Elba Township Precinct 1,Governor,,REP,Garrett Soldano,45
+Gratiot,Elba Township Precinct 1,Governor,,REP,James Elmer Craig,3
+Gratiot,Elba Township Precinct 1,Governor,,REP,Kevin Rinke,41
+Gratiot,Elba Township Precinct 1,Governor,,REP,Ralph Rebandt,10
+Gratiot,Elba Township Precinct 1,Governor,,REP,Ryan D. Kelley,30
+Gratiot,Elba Township Precinct 1,Governor,,REP,Tudor M. Dixon,52
+Gratiot,Elba Township Precinct 1,Governor,,REP,Write-In,3
+Gratiot,Elba Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,59
+Gratiot,Elba Township Precinct 1,U.S. House,2,REP,John Moolenaar,140
+Gratiot,Elba Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,39
+Gratiot,Elba Township Precinct 1,U.S. House,2,REP,Write-In,1
+Gratiot,Elba Township Precinct 1,State Senate,34,DEM,Christine Gerace,58
+Gratiot,Elba Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,51
+Gratiot,Elba Township Precinct 1,State Senate,34,REP,Roger Hauck,115
+Gratiot,Elba Township Precinct 1,State Senate,34,REP,Write-In,3
+Gratiot,Elba Township Precinct 1,State House,93,DEM,Jeffrey Lockwood,57
+Gratiot,Elba Township Precinct 1,State House,93,REP,Alan Hoover,39
+Gratiot,Elba Township Precinct 1,State House,93,REP,Graham Filler,136
+Gratiot,Emerson Township Precinct 1,Governor,,DEM,Gretchen Whitmer,37
+Gratiot,Emerson Township Precinct 1,Governor,,REP,Garrett Soldano,43
+Gratiot,Emerson Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Gratiot,Emerson Township Precinct 1,Governor,,REP,Kevin Rinke,43
+Gratiot,Emerson Township Precinct 1,Governor,,REP,Ralph Rebandt,4
+Gratiot,Emerson Township Precinct 1,Governor,,REP,Ryan D. Kelley,29
+Gratiot,Emerson Township Precinct 1,Governor,,REP,Tudor M. Dixon,52
+Gratiot,Emerson Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,35
+Gratiot,Emerson Township Precinct 1,U.S. House,2,REP,John Moolenaar,126
+Gratiot,Emerson Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,45
+Gratiot,Emerson Township Precinct 1,State Senate,34,DEM,Christine Gerace,35
+Gratiot,Emerson Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,39
+Gratiot,Emerson Township Precinct 1,State Senate,34,REP,Roger Hauck,123
+Gratiot,Emerson Township Precinct 1,State Senate,34,REP,Write-In,1
+Gratiot,Emerson Township Precinct 1,State House,92,DEM,Anthony D. Feig,35
+Gratiot,Emerson Township Precinct 1,State House,92,REP,Erin Zimmer,34
+Gratiot,Emerson Township Precinct 1,State House,92,REP,Gene Haymaker,23
+Gratiot,Emerson Township Precinct 1,State House,92,REP,Jerry Neyer,60
+Gratiot,Emerson Township Precinct 1,State House,92,REP,Thomas Anderman,9
+Gratiot,Emerson Township Precinct 1,State House,92,REP,Todd Schorle,32
+Gratiot,Emerson Township Precinct 1,State House,92,REP,Write-In,1
+Gratiot,Fulton Township Precinct 1,Governor,,DEM,Gretchen Whitmer,138
+Gratiot,Fulton Township Precinct 1,Governor,,REP,Garrett Soldano,84
+Gratiot,Fulton Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Gratiot,Fulton Township Precinct 1,Governor,,REP,Kevin Rinke,73
+Gratiot,Fulton Township Precinct 1,Governor,,REP,Ralph Rebandt,7
+Gratiot,Fulton Township Precinct 1,Governor,,REP,Ryan D. Kelley,90
+Gratiot,Fulton Township Precinct 1,Governor,,REP,Tudor M. Dixon,143
+Gratiot,Fulton Township Precinct 1,Governor,,REP,Write-In,8
+Gratiot,Fulton Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,129
+Gratiot,Fulton Township Precinct 1,U.S. House,2,REP,John Moolenaar,263
+Gratiot,Fulton Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,135
+Gratiot,Fulton Township Precinct 1,State Senate,34,DEM,Christine Gerace,127
+Gratiot,Fulton Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,119
+Gratiot,Fulton Township Precinct 1,State Senate,34,REP,Roger Hauck,239
+Gratiot,Fulton Township Precinct 1,State House,93,DEM,Jeffrey Lockwood,129
+Gratiot,Fulton Township Precinct 1,State House,93,REP,Alan Hoover,108
+Gratiot,Fulton Township Precinct 1,State House,93,REP,Graham Filler,262
+Gratiot,Hamilton Township Precinct 1,Governor,,DEM,Gretchen Whitmer,17
+Gratiot,Hamilton Township Precinct 1,Governor,,REP,Garrett Soldano,14
+Gratiot,Hamilton Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Gratiot,Hamilton Township Precinct 1,Governor,,REP,Kevin Rinke,17
+Gratiot,Hamilton Township Precinct 1,Governor,,REP,Ralph Rebandt,3
+Gratiot,Hamilton Township Precinct 1,Governor,,REP,Ryan D. Kelley,18
+Gratiot,Hamilton Township Precinct 1,Governor,,REP,Tudor M. Dixon,17
+Gratiot,Hamilton Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,17
+Gratiot,Hamilton Township Precinct 1,U.S. House,2,REP,John Moolenaar,59
+Gratiot,Hamilton Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,13
+Gratiot,Hamilton Township Precinct 1,State Senate,34,DEM,Christine Gerace,17
+Gratiot,Hamilton Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,19
+Gratiot,Hamilton Township Precinct 1,State Senate,34,REP,Roger Hauck,49
+Gratiot,Hamilton Township Precinct 1,State House,93,DEM,Jeffrey Lockwood,16
+Gratiot,Hamilton Township Precinct 1,State House,93,REP,Alan Hoover,19
+Gratiot,Hamilton Township Precinct 1,State House,93,REP,Graham Filler,51
+Gratiot,Lafayette Township Precinct 1,Governor,,DEM,Gretchen Whitmer,14
+Gratiot,Lafayette Township Precinct 1,Governor,,REP,Garrett Soldano,24
+Gratiot,Lafayette Township Precinct 1,Governor,,REP,James Elmer Craig,2
+Gratiot,Lafayette Township Precinct 1,Governor,,REP,Kevin Rinke,24
+Gratiot,Lafayette Township Precinct 1,Governor,,REP,Ralph Rebandt,6
+Gratiot,Lafayette Township Precinct 1,Governor,,REP,Ryan D. Kelley,25
+Gratiot,Lafayette Township Precinct 1,Governor,,REP,Tudor M. Dixon,31
+Gratiot,Lafayette Township Precinct 1,Governor,,REP,Write-In,4
+Gratiot,Lafayette Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,13
+Gratiot,Lafayette Township Precinct 1,U.S. House,2,REP,John Moolenaar,77
+Gratiot,Lafayette Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,34
+Gratiot,Lafayette Township Precinct 1,State Senate,34,DEM,Christine Gerace,13
+Gratiot,Lafayette Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,34
+Gratiot,Lafayette Township Precinct 1,State Senate,34,REP,Roger Hauck,66
+Gratiot,Lafayette Township Precinct 1,State House,93,DEM,Jeffrey Lockwood,14
+Gratiot,Lafayette Township Precinct 1,State House,93,REP,Alan Hoover,31
+Gratiot,Lafayette Township Precinct 1,State House,93,REP,Graham Filler,65
+Gratiot,New Haven Township Precinct 1,Governor,,DEM,Gretchen Whitmer,36
+Gratiot,New Haven Township Precinct 1,Governor,,REP,Garrett Soldano,34
+Gratiot,New Haven Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Gratiot,New Haven Township Precinct 1,Governor,,REP,Kevin Rinke,31
+Gratiot,New Haven Township Precinct 1,Governor,,REP,Ralph Rebandt,9
+Gratiot,New Haven Township Precinct 1,Governor,,REP,Ryan D. Kelley,44
+Gratiot,New Haven Township Precinct 1,Governor,,REP,Tudor M. Dixon,46
+Gratiot,New Haven Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,34
+Gratiot,New Haven Township Precinct 1,U.S. House,2,REP,John Moolenaar,101
+Gratiot,New Haven Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,60
+Gratiot,New Haven Township Precinct 1,State Senate,34,DEM,Christine Gerace,34
+Gratiot,New Haven Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,36
+Gratiot,New Haven Township Precinct 1,State Senate,34,REP,Roger Hauck,112
+Gratiot,New Haven Township Precinct 1,State Senate,34,REP,Write-In,1
+Gratiot,New Haven Township Precinct 1,State House,93,DEM,Jeffrey Lockwood,34
+Gratiot,New Haven Township Precinct 1,State House,93,REP,Alan Hoover,59
+Gratiot,New Haven Township Precinct 1,State House,93,REP,Graham Filler,77
+Gratiot,New Haven Township Precinct 1,State House,93,REP,Write-In,3
+Gratiot,Newark Township Precinct 1,Governor,,DEM,Gretchen Whitmer,40
+Gratiot,Newark Township Precinct 1,Governor,,REP,Garrett Soldano,37
+Gratiot,Newark Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Gratiot,Newark Township Precinct 1,Governor,,REP,Kevin Rinke,40
+Gratiot,Newark Township Precinct 1,Governor,,REP,Ralph Rebandt,4
+Gratiot,Newark Township Precinct 1,Governor,,REP,Ryan D. Kelley,30
+Gratiot,Newark Township Precinct 1,Governor,,REP,Tudor M. Dixon,50
+Gratiot,Newark Township Precinct 1,Governor,,REP,Write-In,2
+Gratiot,Newark Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,38
+Gratiot,Newark Township Precinct 1,U.S. House,2,REP,John Moolenaar,108
+Gratiot,Newark Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,54
+Gratiot,Newark Township Precinct 1,State Senate,34,DEM,Christine Gerace,38
+Gratiot,Newark Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,37
+Gratiot,Newark Township Precinct 1,State Senate,34,REP,Roger Hauck,122
+Gratiot,Newark Township Precinct 1,State House,93,DEM,Jeffrey Lockwood,36
+Gratiot,Newark Township Precinct 1,State House,93,REP,Alan Hoover,50
+Gratiot,Newark Township Precinct 1,State House,93,REP,Graham Filler,104
+Gratiot,North Shade Township Precinct 1,Governor,,DEM,Gretchen Whitmer,19
+Gratiot,North Shade Township Precinct 1,Governor,,REP,Garrett Soldano,18
+Gratiot,North Shade Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Gratiot,North Shade Township Precinct 1,Governor,,REP,Kevin Rinke,13
+Gratiot,North Shade Township Precinct 1,Governor,,REP,Ralph Rebandt,5
+Gratiot,North Shade Township Precinct 1,Governor,,REP,Ryan D. Kelley,16
+Gratiot,North Shade Township Precinct 1,Governor,,REP,Tudor M. Dixon,30
+Gratiot,North Shade Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,18
+Gratiot,North Shade Township Precinct 1,U.S. House,2,REP,John Moolenaar,56
+Gratiot,North Shade Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,27
+Gratiot,North Shade Township Precinct 1,State Senate,34,DEM,Christine Gerace,18
+Gratiot,North Shade Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,15
+Gratiot,North Shade Township Precinct 1,State Senate,34,REP,Roger Hauck,60
+Gratiot,North Shade Township Precinct 1,State House,93,DEM,Jeffrey Lockwood,18
+Gratiot,North Shade Township Precinct 1,State House,93,REP,Alan Hoover,18
+Gratiot,North Shade Township Precinct 1,State House,93,REP,Graham Filler,59
+Gratiot,North Star Township Precinct 1,Governor,,DEM,Gretchen Whitmer,42
+Gratiot,North Star Township Precinct 1,Governor,,REP,Garrett Soldano,61
+Gratiot,North Star Township Precinct 1,Governor,,REP,James Elmer Craig,1
+Gratiot,North Star Township Precinct 1,Governor,,REP,Kevin Rinke,29
+Gratiot,North Star Township Precinct 1,Governor,,REP,Ralph Rebandt,5
+Gratiot,North Star Township Precinct 1,Governor,,REP,Ryan D. Kelley,33
+Gratiot,North Star Township Precinct 1,Governor,,REP,Tudor M. Dixon,45
+Gratiot,North Star Township Precinct 1,Governor,,REP,Write-In,1
+Gratiot,North Star Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,41
+Gratiot,North Star Township Precinct 1,U.S. House,2,REP,John Moolenaar,134
+Gratiot,North Star Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,43
+Gratiot,North Star Township Precinct 1,U.S. House,2,REP,Write-In,1
+Gratiot,North Star Township Precinct 1,State Senate,34,DEM,Christine Gerace,41
+Gratiot,North Star Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,57
+Gratiot,North Star Township Precinct 1,State Senate,34,REP,Roger Hauck,114
+Gratiot,North Star Township Precinct 1,State Senate,34,REP,Write-In,3
+Gratiot,North Star Township Precinct 1,State House,92,DEM,Anthony D. Feig,0
+Gratiot,North Star Township Precinct 1,State House,92,REP,Erin Zimmer,0
+Gratiot,North Star Township Precinct 1,State House,92,REP,Gene Haymaker,0
+Gratiot,North Star Township Precinct 1,State House,92,REP,Jerry Neyer,0
+Gratiot,North Star Township Precinct 1,State House,92,REP,Thomas Anderman,0
+Gratiot,North Star Township Precinct 1,State House,92,REP,Todd Schorle,2
+Gratiot,North Star Township Precinct 1,State House,93,DEM,Jeffrey Lockwood,41
+Gratiot,North Star Township Precinct 1,State House,93,REP,Alan Hoover,42
+Gratiot,North Star Township Precinct 1,State House,93,REP,Graham Filler,117
+Gratiot,North Star Township Precinct 1,State House,93,REP,Write-In,4
+Gratiot,Pine River Township Precinct 1,Governor,,DEM,Gretchen Whitmer,150
+Gratiot,Pine River Township Precinct 1,Governor,,REP,Garrett Soldano,94
+Gratiot,Pine River Township Precinct 1,Governor,,REP,James Elmer Craig,2
+Gratiot,Pine River Township Precinct 1,Governor,,REP,Kevin Rinke,70
+Gratiot,Pine River Township Precinct 1,Governor,,REP,Ralph Rebandt,13
+Gratiot,Pine River Township Precinct 1,Governor,,REP,Ryan D. Kelley,101
+Gratiot,Pine River Township Precinct 1,Governor,,REP,Tudor M. Dixon,129
+Gratiot,Pine River Township Precinct 1,Governor,,REP,Write-In,2
+Gratiot,Pine River Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,144
+Gratiot,Pine River Township Precinct 1,U.S. House,2,REP,John Moolenaar,309
+Gratiot,Pine River Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,102
+Gratiot,Pine River Township Precinct 1,U.S. House,2,REP,Write-In,1
+Gratiot,Pine River Township Precinct 1,State Senate,34,DEM,Christine Gerace,143
+Gratiot,Pine River Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,79
+Gratiot,Pine River Township Precinct 1,State Senate,34,REP,Roger Hauck,322
+Gratiot,Pine River Township Precinct 1,State Senate,34,REP,Write-In,1
+Gratiot,Pine River Township Precinct 1,State House,92,DEM,Anthony D. Feig,142
+Gratiot,Pine River Township Precinct 1,State House,92,REP,Erin Zimmer,103
+Gratiot,Pine River Township Precinct 1,State House,92,REP,Gene Haymaker,93
+Gratiot,Pine River Township Precinct 1,State House,92,REP,Jerry Neyer,115
+Gratiot,Pine River Township Precinct 1,State House,92,REP,Thomas Anderman,22
+Gratiot,Pine River Township Precinct 1,State House,92,REP,Todd Schorle,68
+Gratiot,Pine River Township Precinct 1,State House,92,REP,Write-In,1
+Gratiot,Seville Township Precinct 1,Governor,,DEM,Gretchen Whitmer,95
+Gratiot,Seville Township Precinct 1,Governor,,REP,Garrett Soldano,78
+Gratiot,Seville Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Gratiot,Seville Township Precinct 1,Governor,,REP,Kevin Rinke,77
+Gratiot,Seville Township Precinct 1,Governor,,REP,Ralph Rebandt,13
+Gratiot,Seville Township Precinct 1,Governor,,REP,Ryan D. Kelley,62
+Gratiot,Seville Township Precinct 1,Governor,,REP,Tudor M. Dixon,108
+Gratiot,Seville Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,90
+Gratiot,Seville Township Precinct 1,U.S. House,2,REP,John Moolenaar,231
+Gratiot,Seville Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,113
+Gratiot,Seville Township Precinct 1,State Senate,34,DEM,Christine Gerace,91
+Gratiot,Seville Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,55
+Gratiot,Seville Township Precinct 1,State Senate,34,REP,Roger Hauck,274
+Gratiot,Seville Township Precinct 1,State Senate,34,REP,Write-In,1
+Gratiot,Seville Township Precinct 1,State House,92,DEM,Anthony D. Feig,90
+Gratiot,Seville Township Precinct 1,State House,92,REP,Erin Zimmer,67
+Gratiot,Seville Township Precinct 1,State House,92,REP,Gene Haymaker,73
+Gratiot,Seville Township Precinct 1,State House,92,REP,Jerry Neyer,100
+Gratiot,Seville Township Precinct 1,State House,92,REP,Thomas Anderman,34
+Gratiot,Seville Township Precinct 1,State House,92,REP,Todd Schorle,60
+Gratiot,Seville Township Precinct 1,State House,92,REP,Write-In,1
+Gratiot,Sumner Township Precinct 1,Governor,,DEM,Gretchen Whitmer,83
+Gratiot,Sumner Township Precinct 1,Governor,,REP,Garrett Soldano,94
+Gratiot,Sumner Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Gratiot,Sumner Township Precinct 1,Governor,,REP,Kevin Rinke,57
+Gratiot,Sumner Township Precinct 1,Governor,,REP,Ralph Rebandt,9
+Gratiot,Sumner Township Precinct 1,Governor,,REP,Ryan D. Kelley,54
+Gratiot,Sumner Township Precinct 1,Governor,,REP,Tudor M. Dixon,82
+Gratiot,Sumner Township Precinct 1,Governor,,REP,Write-In,2
+Gratiot,Sumner Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,81
+Gratiot,Sumner Township Precinct 1,U.S. House,2,REP,John Moolenaar,225
+Gratiot,Sumner Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,70
+Gratiot,Sumner Township Precinct 1,U.S. House,2,REP,Write-In,1
+Gratiot,Sumner Township Precinct 1,State Senate,34,DEM,Christine Gerace,81
+Gratiot,Sumner Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,46
+Gratiot,Sumner Township Precinct 1,State Senate,34,REP,Roger Hauck,241
+Gratiot,Sumner Township Precinct 1,State Senate,34,REP,Write-In,2
+Gratiot,Sumner Township Precinct 1,State House,93,DEM,Jeffrey Lockwood,78
+Gratiot,Sumner Township Precinct 1,State House,93,REP,Alan Hoover,72
+Gratiot,Sumner Township Precinct 1,State House,93,REP,Graham Filler,204
+Gratiot,Sumner Township Precinct 1,State House,93,REP,Write-In,3
+Gratiot,Washington Township Precinct 1,Governor,,DEM,Gretchen Whitmer,40
+Gratiot,Washington Township Precinct 1,Governor,,REP,Garrett Soldano,39
+Gratiot,Washington Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Gratiot,Washington Township Precinct 1,Governor,,REP,Kevin Rinke,24
+Gratiot,Washington Township Precinct 1,Governor,,REP,Ralph Rebandt,6
+Gratiot,Washington Township Precinct 1,Governor,,REP,Ryan D. Kelley,27
+Gratiot,Washington Township Precinct 1,Governor,,REP,Tudor M. Dixon,42
+Gratiot,Washington Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,35
+Gratiot,Washington Township Precinct 1,U.S. House,2,REP,John Moolenaar,107
+Gratiot,Washington Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,32
+Gratiot,Washington Township Precinct 1,State Senate,34,DEM,Christine Gerace,35
+Gratiot,Washington Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,26
+Gratiot,Washington Township Precinct 1,State Senate,34,REP,Roger Hauck,100
+Gratiot,Washington Township Precinct 1,State House,93,DEM,Jeffrey Lockwood,35
+Gratiot,Washington Township Precinct 1,State House,93,REP,Alan Hoover,35
+Gratiot,Washington Township Precinct 1,State House,93,REP,Graham Filler,97
+Gratiot,Wheeler Township Precinct 1,Governor,,DEM,Gretchen Whitmer,115
+Gratiot,Wheeler Township Precinct 1,Governor,,REP,Garrett Soldano,99
+Gratiot,Wheeler Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Gratiot,Wheeler Township Precinct 1,Governor,,REP,Kevin Rinke,79
+Gratiot,Wheeler Township Precinct 1,Governor,,REP,Ralph Rebandt,16
+Gratiot,Wheeler Township Precinct 1,Governor,,REP,Ryan D. Kelley,68
+Gratiot,Wheeler Township Precinct 1,Governor,,REP,Tudor M. Dixon,113
+Gratiot,Wheeler Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,112
+Gratiot,Wheeler Township Precinct 1,U.S. House,2,REP,John Moolenaar,273
+Gratiot,Wheeler Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,94
+Gratiot,Wheeler Township Precinct 1,U.S. House,2,REP,Write-In,2
+Gratiot,Wheeler Township Precinct 1,State Senate,34,DEM,Christine Gerace,112
+Gratiot,Wheeler Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,90
+Gratiot,Wheeler Township Precinct 1,State Senate,34,REP,Roger Hauck,264
+Gratiot,Wheeler Township Precinct 1,State Senate,34,REP,Write-In,1
+Gratiot,Wheeler Township Precinct 1,State House,93,DEM,Jeffrey Lockwood,111
+Gratiot,Wheeler Township Precinct 1,State House,93,REP,Alan Hoover,94
+Gratiot,Wheeler Township Precinct 1,State House,93,REP,Graham Filler,255

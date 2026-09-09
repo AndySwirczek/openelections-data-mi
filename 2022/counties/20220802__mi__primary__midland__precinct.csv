@@ -1,0 +1,989 @@
+county,precinct,office,district,party,candidate,votes
+Midland,City of Coleman Precinct 1,Governor,,DEM,Gretchen Whitmer,77
+Midland,City of Coleman Precinct 1,Governor,,REP,Garrett Soldano,29
+Midland,City of Coleman Precinct 1,Governor,,REP,Kevin Rinke,32
+Midland,City of Coleman Precinct 1,Governor,,REP,Ralph Rebandt,10
+Midland,City of Coleman Precinct 1,Governor,,REP,Ryan D. Kelley,36
+Midland,City of Coleman Precinct 1,Governor,,REP,Tudor M. Dixon,53
+Midland,City of Coleman Precinct 1,Governor,,REP,Write-In,1
+Midland,City of Coleman Precinct 1,U.S. House,2,DEM,Jerry Hilliard,69
+Midland,City of Coleman Precinct 1,U.S. House,2,REP,John Moolenaar,136
+Midland,City of Coleman Precinct 1,U.S. House,2,REP,Thomas J. Norton,25
+Midland,City of Coleman Precinct 1,State Senate,34,DEM,Christine Gerace,69
+Midland,City of Coleman Precinct 1,State Senate,34,REP,Lisa M. Sowers,19
+Midland,City of Coleman Precinct 1,State Senate,34,REP,Roger Hauck,143
+Midland,City of Coleman Precinct 1,State House,95,DEM,Larry Grell,8
+Midland,City of Coleman Precinct 1,State House,95,DEM,Matthew Dawson,61
+Midland,City of Coleman Precinct 1,State House,95,REP,Ann Manary,40
+Midland,City of Coleman Precinct 1,State House,95,REP,Bill G. Schuette,113
+Midland,City of Coleman Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,10
+Midland,City of Midland Precinct 1,Governor,,DEM,Gretchen Whitmer,178
+Midland,City of Midland Precinct 1,Governor,,REP,Garrett Soldano,74
+Midland,City of Midland Precinct 1,Governor,,REP,Kevin Rinke,73
+Midland,City of Midland Precinct 1,Governor,,REP,Ralph Rebandt,14
+Midland,City of Midland Precinct 1,Governor,,REP,Ryan D. Kelley,42
+Midland,City of Midland Precinct 1,Governor,,REP,Tudor M. Dixon,113
+Midland,City of Midland Precinct 1,Governor,,REP,Write-In,2
+Midland,City of Midland Precinct 1,U.S. House,8,DEM,Daniel T. Kildee,175
+Midland,City of Midland Precinct 1,U.S. House,8,REP,Candice Miller,71
+Midland,City of Midland Precinct 1,U.S. House,8,REP,Matthew Seely,72
+Midland,City of Midland Precinct 1,U.S. House,8,REP,Paul Junge,166
+Midland,City of Midland Precinct 1,U.S. House,8,REP,Write-In,2
+Midland,City of Midland Precinct 1,State Senate,35,DEM,Kristen McDonald Rivet,174
+Midland,City of Midland Precinct 1,State Senate,35,REP,Annette Glenn,176
+Midland,City of Midland Precinct 1,State Senate,35,REP,Christian Velasquez,83
+Midland,City of Midland Precinct 1,State Senate,35,REP,Martin Blank,41
+Midland,City of Midland Precinct 1,State Senate,35,REP,Tim Kelly,29
+Midland,City of Midland Precinct 1,State House,95,DEM,Larry Grell,62
+Midland,City of Midland Precinct 1,State House,95,DEM,Matthew Dawson,100
+Midland,City of Midland Precinct 1,State House,95,DEM,Write-In,1
+Midland,City of Midland Precinct 1,State House,95,REP,Ann Manary,113
+Midland,City of Midland Precinct 1,State House,95,REP,Bill G. Schuette,206
+Midland,City of Midland Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,20
+Midland,City of Midland Precinct 10,Governor,,DEM,Gretchen Whitmer,187
+Midland,City of Midland Precinct 10,Governor,,REP,Garrett Soldano,60
+Midland,City of Midland Precinct 10,Governor,,REP,Kevin Rinke,115
+Midland,City of Midland Precinct 10,Governor,,REP,Ralph Rebandt,24
+Midland,City of Midland Precinct 10,Governor,,REP,Ryan D. Kelley,66
+Midland,City of Midland Precinct 10,Governor,,REP,Tudor M. Dixon,198
+Midland,City of Midland Precinct 10,Governor,,REP,Write-In,9
+Midland,City of Midland Precinct 10,U.S. House,8,DEM,Daniel T. Kildee,184
+Midland,City of Midland Precinct 10,U.S. House,8,REP,Candice Miller,152
+Midland,City of Midland Precinct 10,U.S. House,8,REP,Matthew Seely,71
+Midland,City of Midland Precinct 10,U.S. House,8,REP,Paul Junge,246
+Midland,City of Midland Precinct 10,U.S. House,8,REP,Write-In,3
+Midland,City of Midland Precinct 10,State Senate,35,DEM,Kristen McDonald Rivet,179
+Midland,City of Midland Precinct 10,State Senate,35,REP,Annette Glenn,270
+Midland,City of Midland Precinct 10,State Senate,35,REP,Christian Velasquez,146
+Midland,City of Midland Precinct 10,State Senate,35,REP,Martin Blank,47
+Midland,City of Midland Precinct 10,State Senate,35,REP,Tim Kelly,34
+Midland,City of Midland Precinct 10,State Senate,35,REP,Write-In,4
+Midland,City of Midland Precinct 10,State House,95,DEM,Larry Grell,49
+Midland,City of Midland Precinct 10,State House,95,DEM,Matthew Dawson,120
+Midland,City of Midland Precinct 10,State House,95,DEM,Write-In,1
+Midland,City of Midland Precinct 10,State House,95,REP,Ann Manary,193
+Midland,City of Midland Precinct 10,State House,95,REP,Bill G. Schuette,348
+Midland,City of Midland Precinct 10,State House,95,REP,Charles A. McGinnis Jr.,9
+Midland,City of Midland Precinct 11,Governor,,DEM,Gretchen Whitmer,173
+Midland,City of Midland Precinct 11,Governor,,REP,Garrett Soldano,75
+Midland,City of Midland Precinct 11,Governor,,REP,Kevin Rinke,141
+Midland,City of Midland Precinct 11,Governor,,REP,Ralph Rebandt,32
+Midland,City of Midland Precinct 11,Governor,,REP,Ryan D. Kelley,63
+Midland,City of Midland Precinct 11,Governor,,REP,Tudor M. Dixon,219
+Midland,City of Midland Precinct 11,Governor,,REP,Write-In,9
+Midland,City of Midland Precinct 11,U.S. House,8,DEM,Daniel T. Kildee,170
+Midland,City of Midland Precinct 11,U.S. House,8,DEM,Write-In,1
+Midland,City of Midland Precinct 11,U.S. House,8,REP,Candice Miller,143
+Midland,City of Midland Precinct 11,U.S. House,8,REP,Matthew Seely,86
+Midland,City of Midland Precinct 11,U.S. House,8,REP,Paul Junge,301
+Midland,City of Midland Precinct 11,U.S. House,8,REP,Write-In,5
+Midland,City of Midland Precinct 11,State Senate,35,DEM,Kristen McDonald Rivet,170
+Midland,City of Midland Precinct 11,State Senate,35,REP,Annette Glenn,259
+Midland,City of Midland Precinct 11,State Senate,35,REP,Christian Velasquez,220
+Midland,City of Midland Precinct 11,State Senate,35,REP,Martin Blank,77
+Midland,City of Midland Precinct 11,State Senate,35,REP,Tim Kelly,29
+Midland,City of Midland Precinct 11,State Senate,35,REP,Write-In,3
+Midland,City of Midland Precinct 11,State House,95,DEM,Larry Grell,27
+Midland,City of Midland Precinct 11,State House,95,DEM,Matthew Dawson,131
+Midland,City of Midland Precinct 11,State House,95,DEM,Write-In,2
+Midland,City of Midland Precinct 11,State House,95,REP,Ann Manary,246
+Midland,City of Midland Precinct 11,State House,95,REP,Bill G. Schuette,362
+Midland,City of Midland Precinct 11,State House,95,REP,Charles A. McGinnis Jr.,20
+Midland,City of Midland Precinct 12,Governor,,DEM,Gretchen Whitmer,70
+Midland,City of Midland Precinct 12,Governor,,REP,Garrett Soldano,22
+Midland,City of Midland Precinct 12,Governor,,REP,Kevin Rinke,59
+Midland,City of Midland Precinct 12,Governor,,REP,Ralph Rebandt,7
+Midland,City of Midland Precinct 12,Governor,,REP,Ryan D. Kelley,13
+Midland,City of Midland Precinct 12,Governor,,REP,Tudor M. Dixon,42
+Midland,City of Midland Precinct 12,Governor,,REP,Write-In,3
+Midland,City of Midland Precinct 12,U.S. House,8,DEM,Daniel T. Kildee,69
+Midland,City of Midland Precinct 12,U.S. House,8,REP,Candice Miller,27
+Midland,City of Midland Precinct 12,U.S. House,8,REP,Matthew Seely,22
+Midland,City of Midland Precinct 12,U.S. House,8,REP,Paul Junge,93
+Midland,City of Midland Precinct 12,U.S. House,8,REP,Write-In,1
+Midland,City of Midland Precinct 12,State Senate,35,DEM,Kristen McDonald Rivet,67
+Midland,City of Midland Precinct 12,State Senate,35,REP,Annette Glenn,78
+Midland,City of Midland Precinct 12,State Senate,35,REP,Christian Velasquez,41
+Midland,City of Midland Precinct 12,State Senate,35,REP,Martin Blank,15
+Midland,City of Midland Precinct 12,State Senate,35,REP,Tim Kelly,16
+Midland,City of Midland Precinct 12,State House,95,DEM,Larry Grell,20
+Midland,City of Midland Precinct 12,State House,95,DEM,Matthew Dawson,45
+Midland,City of Midland Precinct 12,State House,95,REP,Ann Manary,43
+Midland,City of Midland Precinct 12,State House,95,REP,Bill G. Schuette,102
+Midland,City of Midland Precinct 12,State House,95,REP,Charles A. McGinnis Jr.,7
+Midland,City of Midland Precinct 13,Governor,,DEM,Gretchen Whitmer,232
+Midland,City of Midland Precinct 13,Governor,,REP,Garrett Soldano,63
+Midland,City of Midland Precinct 13,Governor,,REP,Kevin Rinke,98
+Midland,City of Midland Precinct 13,Governor,,REP,Ralph Rebandt,24
+Midland,City of Midland Precinct 13,Governor,,REP,Ryan D. Kelley,45
+Midland,City of Midland Precinct 13,Governor,,REP,Tudor M. Dixon,187
+Midland,City of Midland Precinct 13,Governor,,REP,Write-In,6
+Midland,City of Midland Precinct 13,U.S. House,8,DEM,Daniel T. Kildee,229
+Midland,City of Midland Precinct 13,U.S. House,8,REP,Candice Miller,121
+Midland,City of Midland Precinct 13,U.S. House,8,REP,Matthew Seely,99
+Midland,City of Midland Precinct 13,U.S. House,8,REP,Paul Junge,216
+Midland,City of Midland Precinct 13,U.S. House,8,REP,Write-In,5
+Midland,City of Midland Precinct 13,State Senate,35,DEM,Kristen McDonald Rivet,222
+Midland,City of Midland Precinct 13,State Senate,35,REP,Annette Glenn,228
+Midland,City of Midland Precinct 13,State Senate,35,REP,Christian Velasquez,152
+Midland,City of Midland Precinct 13,State Senate,35,REP,Martin Blank,59
+Midland,City of Midland Precinct 13,State Senate,35,REP,Tim Kelly,31
+Midland,City of Midland Precinct 13,State Senate,35,REP,Write-In,4
+Midland,City of Midland Precinct 13,State House,95,DEM,Larry Grell,50
+Midland,City of Midland Precinct 13,State House,95,DEM,Matthew Dawson,159
+Midland,City of Midland Precinct 13,State House,95,REP,Ann Manary,229
+Midland,City of Midland Precinct 13,State House,95,REP,Bill G. Schuette,278
+Midland,City of Midland Precinct 13,State House,95,REP,Charles A. McGinnis Jr.,11
+Midland,City of Midland Precinct 14,Governor,,DEM,Gretchen Whitmer,182
+Midland,City of Midland Precinct 14,Governor,,REP,Garrett Soldano,65
+Midland,City of Midland Precinct 14,Governor,,REP,Kevin Rinke,96
+Midland,City of Midland Precinct 14,Governor,,REP,Ralph Rebandt,23
+Midland,City of Midland Precinct 14,Governor,,REP,Ryan D. Kelley,53
+Midland,City of Midland Precinct 14,Governor,,REP,Tudor M. Dixon,171
+Midland,City of Midland Precinct 14,Governor,,REP,Write-In,5
+Midland,City of Midland Precinct 14,U.S. House,8,DEM,Daniel T. Kildee,180
+Midland,City of Midland Precinct 14,U.S. House,8,REP,Candice Miller,114
+Midland,City of Midland Precinct 14,U.S. House,8,REP,Matthew Seely,66
+Midland,City of Midland Precinct 14,U.S. House,8,REP,Paul Junge,225
+Midland,City of Midland Precinct 14,U.S. House,8,REP,Write-In,1
+Midland,City of Midland Precinct 14,State Senate,35,DEM,Kristen McDonald Rivet,173
+Midland,City of Midland Precinct 14,State Senate,35,REP,Annette Glenn,212
+Midland,City of Midland Precinct 14,State Senate,35,REP,Christian Velasquez,150
+Midland,City of Midland Precinct 14,State Senate,35,REP,Martin Blank,38
+Midland,City of Midland Precinct 14,State Senate,35,REP,Tim Kelly,31
+Midland,City of Midland Precinct 14,State Senate,35,REP,Write-In,2
+Midland,City of Midland Precinct 14,State House,95,DEM,Larry Grell,54
+Midland,City of Midland Precinct 14,State House,95,DEM,Matthew Dawson,107
+Midland,City of Midland Precinct 14,State House,95,DEM,Write-In,1
+Midland,City of Midland Precinct 14,State House,95,REP,Ann Manary,173
+Midland,City of Midland Precinct 14,State House,95,REP,Bill G. Schuette,262
+Midland,City of Midland Precinct 14,State House,95,REP,Charles A. McGinnis Jr.,14
+Midland,City of Midland Precinct 14,State House,95,REP,Write-In,1
+Midland,City of Midland Precinct 15,Governor,,DEM,Gretchen Whitmer,213
+Midland,City of Midland Precinct 15,Governor,,REP,Garrett Soldano,67
+Midland,City of Midland Precinct 15,Governor,,REP,Kevin Rinke,117
+Midland,City of Midland Precinct 15,Governor,,REP,Ralph Rebandt,37
+Midland,City of Midland Precinct 15,Governor,,REP,Ryan D. Kelley,57
+Midland,City of Midland Precinct 15,Governor,,REP,Tudor M. Dixon,188
+Midland,City of Midland Precinct 15,Governor,,REP,Write-In,7
+Midland,City of Midland Precinct 15,U.S. House,8,DEM,Daniel T. Kildee,206
+Midland,City of Midland Precinct 15,U.S. House,8,REP,Candice Miller,139
+Midland,City of Midland Precinct 15,U.S. House,8,REP,Matthew Seely,64
+Midland,City of Midland Precinct 15,U.S. House,8,REP,Paul Junge,264
+Midland,City of Midland Precinct 15,U.S. House,8,REP,Write-In,5
+Midland,City of Midland Precinct 15,State Senate,35,DEM,Kristen McDonald Rivet,199
+Midland,City of Midland Precinct 15,State Senate,35,REP,Annette Glenn,248
+Midland,City of Midland Precinct 15,State Senate,35,REP,Christian Velasquez,177
+Midland,City of Midland Precinct 15,State Senate,35,REP,Martin Blank,51
+Midland,City of Midland Precinct 15,State Senate,35,REP,Tim Kelly,23
+Midland,City of Midland Precinct 15,State Senate,35,REP,Write-In,2
+Midland,City of Midland Precinct 15,State House,95,DEM,Larry Grell,41
+Midland,City of Midland Precinct 15,State House,95,DEM,Matthew Dawson,137
+Midland,City of Midland Precinct 15,State House,95,REP,Ann Manary,219
+Midland,City of Midland Precinct 15,State House,95,REP,Bill G. Schuette,302
+Midland,City of Midland Precinct 15,State House,95,REP,Charles A. McGinnis Jr.,10
+Midland,City of Midland Precinct 15,State House,95,REP,Write-In,1
+Midland,City of Midland Precinct 16,Governor,,DEM,Gretchen Whitmer,165
+Midland,City of Midland Precinct 16,Governor,,REP,Garrett Soldano,52
+Midland,City of Midland Precinct 16,Governor,,REP,Kevin Rinke,52
+Midland,City of Midland Precinct 16,Governor,,REP,Ralph Rebandt,17
+Midland,City of Midland Precinct 16,Governor,,REP,Ryan D. Kelley,42
+Midland,City of Midland Precinct 16,Governor,,REP,Tudor M. Dixon,85
+Midland,City of Midland Precinct 16,Governor,,REP,Write-In,3
+Midland,City of Midland Precinct 16,U.S. House,8,DEM,Daniel T. Kildee,163
+Midland,City of Midland Precinct 16,U.S. House,8,REP,Candice Miller,63
+Midland,City of Midland Precinct 16,U.S. House,8,REP,Matthew Seely,63
+Midland,City of Midland Precinct 16,U.S. House,8,REP,Paul Junge,121
+Midland,City of Midland Precinct 16,U.S. House,8,REP,Write-In,3
+Midland,City of Midland Precinct 16,State Senate,35,DEM,Kristen McDonald Rivet,156
+Midland,City of Midland Precinct 16,State Senate,35,DEM,Write-In,1
+Midland,City of Midland Precinct 16,State Senate,35,REP,Annette Glenn,133
+Midland,City of Midland Precinct 16,State Senate,35,REP,Christian Velasquez,79
+Midland,City of Midland Precinct 16,State Senate,35,REP,Martin Blank,34
+Midland,City of Midland Precinct 16,State Senate,35,REP,Tim Kelly,20
+Midland,City of Midland Precinct 16,State House,95,DEM,Larry Grell,48
+Midland,City of Midland Precinct 16,State House,95,DEM,Matthew Dawson,97
+Midland,City of Midland Precinct 16,State House,95,DEM,Write-In,2
+Midland,City of Midland Precinct 16,State House,95,REP,Ann Manary,112
+Midland,City of Midland Precinct 16,State House,95,REP,Bill G. Schuette,160
+Midland,City of Midland Precinct 16,State House,95,REP,Charles A. McGinnis Jr.,12
+Midland,City of Midland Precinct 17,Governor,,DEM,Gretchen Whitmer,147
+Midland,City of Midland Precinct 17,Governor,,REP,Garrett Soldano,56
+Midland,City of Midland Precinct 17,Governor,,REP,Kevin Rinke,90
+Midland,City of Midland Precinct 17,Governor,,REP,Ralph Rebandt,21
+Midland,City of Midland Precinct 17,Governor,,REP,Ryan D. Kelley,42
+Midland,City of Midland Precinct 17,Governor,,REP,Tudor M. Dixon,134
+Midland,City of Midland Precinct 17,Governor,,REP,Write-In,9
+Midland,City of Midland Precinct 17,U.S. House,8,DEM,Daniel T. Kildee,146
+Midland,City of Midland Precinct 17,U.S. House,8,REP,Candice Miller,84
+Midland,City of Midland Precinct 17,U.S. House,8,REP,Matthew Seely,56
+Midland,City of Midland Precinct 17,U.S. House,8,REP,Paul Junge,198
+Midland,City of Midland Precinct 17,U.S. House,8,REP,Write-In,3
+Midland,City of Midland Precinct 17,State Senate,35,DEM,Kristen McDonald Rivet,140
+Midland,City of Midland Precinct 17,State Senate,35,REP,Annette Glenn,180
+Midland,City of Midland Precinct 17,State Senate,35,REP,Christian Velasquez,124
+Midland,City of Midland Precinct 17,State Senate,35,REP,Martin Blank,40
+Midland,City of Midland Precinct 17,State Senate,35,REP,Tim Kelly,29
+Midland,City of Midland Precinct 17,State Senate,35,REP,Write-In,2
+Midland,City of Midland Precinct 17,State House,95,DEM,Larry Grell,24
+Midland,City of Midland Precinct 17,State House,95,DEM,Matthew Dawson,99
+Midland,City of Midland Precinct 17,State House,95,DEM,Write-In,1
+Midland,City of Midland Precinct 17,State House,95,REP,Ann Manary,173
+Midland,City of Midland Precinct 17,State House,95,REP,Bill G. Schuette,223
+Midland,City of Midland Precinct 17,State House,95,REP,Charles A. McGinnis Jr.,13
+Midland,City of Midland Precinct 18,Governor,,DEM,Gretchen Whitmer,198
+Midland,City of Midland Precinct 18,Governor,,REP,Garrett Soldano,77
+Midland,City of Midland Precinct 18,Governor,,REP,Kevin Rinke,90
+Midland,City of Midland Precinct 18,Governor,,REP,Ralph Rebandt,17
+Midland,City of Midland Precinct 18,Governor,,REP,Ryan D. Kelley,47
+Midland,City of Midland Precinct 18,Governor,,REP,Tudor M. Dixon,159
+Midland,City of Midland Precinct 18,Governor,,REP,Write-In,3
+Midland,City of Midland Precinct 18,U.S. House,8,DEM,Daniel T. Kildee,195
+Midland,City of Midland Precinct 18,U.S. House,8,REP,Candice Miller,96
+Midland,City of Midland Precinct 18,U.S. House,8,REP,Matthew Seely,52
+Midland,City of Midland Precinct 18,U.S. House,8,REP,Paul Junge,238
+Midland,City of Midland Precinct 18,U.S. House,8,REP,Write-In,2
+Midland,City of Midland Precinct 18,State Senate,35,DEM,Kristen McDonald Rivet,198
+Midland,City of Midland Precinct 18,State Senate,35,REP,Annette Glenn,207
+Midland,City of Midland Precinct 18,State Senate,35,REP,Christian Velasquez,139
+Midland,City of Midland Precinct 18,State Senate,35,REP,Martin Blank,36
+Midland,City of Midland Precinct 18,State Senate,35,REP,Tim Kelly,40
+Midland,City of Midland Precinct 18,State Senate,35,REP,Write-In,1
+Midland,City of Midland Precinct 18,State House,95,DEM,Larry Grell,52
+Midland,City of Midland Precinct 18,State House,95,DEM,Matthew Dawson,132
+Midland,City of Midland Precinct 18,State House,95,REP,Ann Manary,163
+Midland,City of Midland Precinct 18,State House,95,REP,Bill G. Schuette,267
+Midland,City of Midland Precinct 18,State House,95,REP,Charles A. McGinnis Jr.,19
+Midland,City of Midland Precinct 19,Governor,,DEM,Gretchen Whitmer,188
+Midland,City of Midland Precinct 19,Governor,,REP,Garrett Soldano,62
+Midland,City of Midland Precinct 19,Governor,,REP,Kevin Rinke,86
+Midland,City of Midland Precinct 19,Governor,,REP,Ralph Rebandt,14
+Midland,City of Midland Precinct 19,Governor,,REP,Ryan D. Kelley,43
+Midland,City of Midland Precinct 19,Governor,,REP,Tudor M. Dixon,182
+Midland,City of Midland Precinct 19,Governor,,REP,Write-In,6
+Midland,City of Midland Precinct 19,U.S. House,8,DEM,Daniel T. Kildee,183
+Midland,City of Midland Precinct 19,U.S. House,8,REP,Candice Miller,113
+Midland,City of Midland Precinct 19,U.S. House,8,REP,Matthew Seely,75
+Midland,City of Midland Precinct 19,U.S. House,8,REP,Paul Junge,195
+Midland,City of Midland Precinct 19,U.S. House,8,REP,Write-In,5
+Midland,City of Midland Precinct 19,State Senate,35,DEM,Kristen McDonald Rivet,180
+Midland,City of Midland Precinct 19,State Senate,35,REP,Annette Glenn,223
+Midland,City of Midland Precinct 19,State Senate,35,REP,Christian Velasquez,122
+Midland,City of Midland Precinct 19,State Senate,35,REP,Martin Blank,44
+Midland,City of Midland Precinct 19,State Senate,35,REP,Tim Kelly,32
+Midland,City of Midland Precinct 19,State House,95,DEM,Larry Grell,27
+Midland,City of Midland Precinct 19,State House,95,DEM,Matthew Dawson,144
+Midland,City of Midland Precinct 19,State House,95,REP,Ann Manary,158
+Midland,City of Midland Precinct 19,State House,95,REP,Bill G. Schuette,277
+Midland,City of Midland Precinct 19,State House,95,REP,Charles A. McGinnis Jr.,10
+Midland,City of Midland Precinct 2,Governor,,DEM,Gretchen Whitmer,139
+Midland,City of Midland Precinct 2,Governor,,DEM,Write-In,1
+Midland,City of Midland Precinct 2,Governor,,REP,Garrett Soldano,39
+Midland,City of Midland Precinct 2,Governor,,REP,Kevin Rinke,55
+Midland,City of Midland Precinct 2,Governor,,REP,Ralph Rebandt,9
+Midland,City of Midland Precinct 2,Governor,,REP,Ryan D. Kelley,32
+Midland,City of Midland Precinct 2,Governor,,REP,Tudor M. Dixon,93
+Midland,City of Midland Precinct 2,Governor,,REP,Write-In,1
+Midland,City of Midland Precinct 2,U.S. House,8,DEM,Daniel T. Kildee,139
+Midland,City of Midland Precinct 2,U.S. House,8,DEM,Write-In,1
+Midland,City of Midland Precinct 2,U.S. House,8,REP,Candice Miller,60
+Midland,City of Midland Precinct 2,U.S. House,8,REP,Matthew Seely,54
+Midland,City of Midland Precinct 2,U.S. House,8,REP,Paul Junge,113
+Midland,City of Midland Precinct 2,State Senate,35,DEM,Kristen McDonald Rivet,136
+Midland,City of Midland Precinct 2,State Senate,35,DEM,Write-In,1
+Midland,City of Midland Precinct 2,State Senate,35,REP,Annette Glenn,142
+Midland,City of Midland Precinct 2,State Senate,35,REP,Christian Velasquez,46
+Midland,City of Midland Precinct 2,State Senate,35,REP,Martin Blank,24
+Midland,City of Midland Precinct 2,State Senate,35,REP,Tim Kelly,29
+Midland,City of Midland Precinct 2,State Senate,35,REP,Write-In,1
+Midland,City of Midland Precinct 2,State House,95,DEM,Larry Grell,29
+Midland,City of Midland Precinct 2,State House,95,DEM,Matthew Dawson,100
+Midland,City of Midland Precinct 2,State House,95,REP,Ann Manary,81
+Midland,City of Midland Precinct 2,State House,95,REP,Bill G. Schuette,166
+Midland,City of Midland Precinct 2,State House,95,REP,Charles A. McGinnis Jr.,4
+Midland,City of Midland Precinct 3,Governor,,DEM,Gretchen Whitmer,106
+Midland,City of Midland Precinct 3,Governor,,REP,Garrett Soldano,29
+Midland,City of Midland Precinct 3,Governor,,REP,Kevin Rinke,73
+Midland,City of Midland Precinct 3,Governor,,REP,Ralph Rebandt,16
+Midland,City of Midland Precinct 3,Governor,,REP,Ryan D. Kelley,37
+Midland,City of Midland Precinct 3,Governor,,REP,Tudor M. Dixon,82
+Midland,City of Midland Precinct 3,Governor,,REP,Write-In,1
+Midland,City of Midland Precinct 3,U.S. House,8,DEM,Daniel T. Kildee,106
+Midland,City of Midland Precinct 3,U.S. House,8,REP,Candice Miller,57
+Midland,City of Midland Precinct 3,U.S. House,8,REP,Matthew Seely,59
+Midland,City of Midland Precinct 3,U.S. House,8,REP,Paul Junge,120
+Midland,City of Midland Precinct 3,U.S. House,8,REP,Write-In,3
+Midland,City of Midland Precinct 3,State Senate,35,DEM,Kristen McDonald Rivet,103
+Midland,City of Midland Precinct 3,State Senate,35,REP,Annette Glenn,129
+Midland,City of Midland Precinct 3,State Senate,35,REP,Christian Velasquez,50
+Midland,City of Midland Precinct 3,State Senate,35,REP,Martin Blank,36
+Midland,City of Midland Precinct 3,State Senate,35,REP,Tim Kelly,33
+Midland,City of Midland Precinct 3,State Senate,35,REP,Write-In,3
+Midland,City of Midland Precinct 3,State House,95,DEM,Larry Grell,44
+Midland,City of Midland Precinct 3,State House,95,DEM,Matthew Dawson,51
+Midland,City of Midland Precinct 3,State House,95,REP,Ann Manary,83
+Midland,City of Midland Precinct 3,State House,95,REP,Bill G. Schuette,153
+Midland,City of Midland Precinct 3,State House,95,REP,Charles A. McGinnis Jr.,17
+Midland,City of Midland Precinct 4A,Governor,,DEM,Gretchen Whitmer,60
+Midland,City of Midland Precinct 4A,Governor,,REP,Garrett Soldano,31
+Midland,City of Midland Precinct 4A,Governor,,REP,Kevin Rinke,29
+Midland,City of Midland Precinct 4A,Governor,,REP,Ralph Rebandt,4
+Midland,City of Midland Precinct 4A,Governor,,REP,Ryan D. Kelley,25
+Midland,City of Midland Precinct 4A,Governor,,REP,Tudor M. Dixon,30
+Midland,City of Midland Precinct 4A,U.S. House,8,DEM,Daniel T. Kildee,58
+Midland,City of Midland Precinct 4A,U.S. House,8,REP,Candice Miller,23
+Midland,City of Midland Precinct 4A,U.S. House,8,REP,Matthew Seely,36
+Midland,City of Midland Precinct 4A,U.S. House,8,REP,Paul Junge,55
+Midland,City of Midland Precinct 4A,State Senate,35,DEM,Kristen McDonald Rivet,57
+Midland,City of Midland Precinct 4A,State Senate,35,REP,Annette Glenn,62
+Midland,City of Midland Precinct 4A,State Senate,35,REP,Christian Velasquez,28
+Midland,City of Midland Precinct 4A,State Senate,35,REP,Martin Blank,19
+Midland,City of Midland Precinct 4A,State Senate,35,REP,Tim Kelly,10
+Midland,City of Midland Precinct 4A,State House,95,DEM,Larry Grell,9
+Midland,City of Midland Precinct 4A,State House,95,DEM,Matthew Dawson,48
+Midland,City of Midland Precinct 4A,State House,95,REP,Ann Manary,28
+Midland,City of Midland Precinct 4A,State House,95,REP,Bill G. Schuette,84
+Midland,City of Midland Precinct 4A,State House,95,REP,Charles A. McGinnis Jr.,13
+Midland,City of Midland Precinct 4B,Governor,,DEM,Gretchen Whitmer,4
+Midland,City of Midland Precinct 4B,Governor,,REP,Garrett Soldano,5
+Midland,City of Midland Precinct 4B,Governor,,REP,Kevin Rinke,1
+Midland,City of Midland Precinct 4B,Governor,,REP,Ralph Rebandt,0
+Midland,City of Midland Precinct 4B,Governor,,REP,Ryan D. Kelley,3
+Midland,City of Midland Precinct 4B,Governor,,REP,Tudor M. Dixon,8
+Midland,City of Midland Precinct 4B,U.S. House,8,DEM,Daniel T. Kildee,5
+Midland,City of Midland Precinct 4B,U.S. House,8,REP,Candice Miller,1
+Midland,City of Midland Precinct 4B,U.S. House,8,REP,Matthew Seely,7
+Midland,City of Midland Precinct 4B,U.S. House,8,REP,Paul Junge,8
+Midland,City of Midland Precinct 4B,State Senate,35,DEM,Kristen McDonald Rivet,5
+Midland,City of Midland Precinct 4B,State Senate,35,REP,Annette Glenn,12
+Midland,City of Midland Precinct 4B,State Senate,35,REP,Christian Velasquez,2
+Midland,City of Midland Precinct 4B,State Senate,35,REP,Martin Blank,1
+Midland,City of Midland Precinct 4B,State Senate,35,REP,Tim Kelly,2
+Midland,City of Midland Precinct 4B,State House,95,DEM,Larry Grell,1
+Midland,City of Midland Precinct 4B,State House,95,DEM,Matthew Dawson,4
+Midland,City of Midland Precinct 4B,State House,95,REP,Ann Manary,1
+Midland,City of Midland Precinct 4B,State House,95,REP,Bill G. Schuette,13
+Midland,City of Midland Precinct 4B,State House,95,REP,Charles A. McGinnis Jr.,3
+Midland,City of Midland Precinct 5,Governor,,DEM,Gretchen Whitmer,74
+Midland,City of Midland Precinct 5,Governor,,REP,Garrett Soldano,28
+Midland,City of Midland Precinct 5,Governor,,REP,Kevin Rinke,37
+Midland,City of Midland Precinct 5,Governor,,REP,Ralph Rebandt,7
+Midland,City of Midland Precinct 5,Governor,,REP,Ryan D. Kelley,36
+Midland,City of Midland Precinct 5,Governor,,REP,Tudor M. Dixon,74
+Midland,City of Midland Precinct 5,Governor,,REP,Write-In,2
+Midland,City of Midland Precinct 5,U.S. House,8,DEM,Daniel T. Kildee,72
+Midland,City of Midland Precinct 5,U.S. House,8,REP,Candice Miller,44
+Midland,City of Midland Precinct 5,U.S. House,8,REP,Matthew Seely,38
+Midland,City of Midland Precinct 5,U.S. House,8,REP,Paul Junge,98
+Midland,City of Midland Precinct 5,State Senate,35,DEM,Kristen McDonald Rivet,70
+Midland,City of Midland Precinct 5,State Senate,35,REP,Annette Glenn,93
+Midland,City of Midland Precinct 5,State Senate,35,REP,Christian Velasquez,63
+Midland,City of Midland Precinct 5,State Senate,35,REP,Martin Blank,17
+Midland,City of Midland Precinct 5,State Senate,35,REP,Tim Kelly,23
+Midland,City of Midland Precinct 5,State House,95,DEM,Larry Grell,11
+Midland,City of Midland Precinct 5,State House,95,DEM,Matthew Dawson,53
+Midland,City of Midland Precinct 5,State House,95,REP,Ann Manary,73
+Midland,City of Midland Precinct 5,State House,95,REP,Bill G. Schuette,129
+Midland,City of Midland Precinct 5,State House,95,REP,Charles A. McGinnis Jr.,6
+Midland,City of Midland Precinct 6,Governor,,DEM,Gretchen Whitmer,74
+Midland,City of Midland Precinct 6,Governor,,REP,Garrett Soldano,22
+Midland,City of Midland Precinct 6,Governor,,REP,Kevin Rinke,68
+Midland,City of Midland Precinct 6,Governor,,REP,Ralph Rebandt,20
+Midland,City of Midland Precinct 6,Governor,,REP,Ryan D. Kelley,24
+Midland,City of Midland Precinct 6,Governor,,REP,Tudor M. Dixon,77
+Midland,City of Midland Precinct 6,Governor,,REP,Write-In,3
+Midland,City of Midland Precinct 6,U.S. House,8,DEM,Daniel T. Kildee,74
+Midland,City of Midland Precinct 6,U.S. House,8,REP,Candice Miller,59
+Midland,City of Midland Precinct 6,U.S. House,8,REP,Matthew Seely,31
+Midland,City of Midland Precinct 6,U.S. House,8,REP,Paul Junge,124
+Midland,City of Midland Precinct 6,U.S. House,8,REP,Write-In,1
+Midland,City of Midland Precinct 6,State Senate,35,DEM,Kristen McDonald Rivet,73
+Midland,City of Midland Precinct 6,State Senate,35,REP,Annette Glenn,109
+Midland,City of Midland Precinct 6,State Senate,35,REP,Christian Velasquez,67
+Midland,City of Midland Precinct 6,State Senate,35,REP,Martin Blank,28
+Midland,City of Midland Precinct 6,State Senate,35,REP,Tim Kelly,23
+Midland,City of Midland Precinct 6,State Senate,35,REP,Write-In,1
+Midland,City of Midland Precinct 6,State House,95,DEM,Larry Grell,28
+Midland,City of Midland Precinct 6,State House,95,DEM,Matthew Dawson,39
+Midland,City of Midland Precinct 6,State House,95,REP,Ann Manary,105
+Midland,City of Midland Precinct 6,State House,95,REP,Bill G. Schuette,144
+Midland,City of Midland Precinct 6,State House,95,REP,Charles A. McGinnis Jr.,14
+Midland,City of Midland Precinct 6,State House,95,REP,Write-In,1
+Midland,City of Midland Precinct 7,Governor,,DEM,Gretchen Whitmer,225
+Midland,City of Midland Precinct 7,Governor,,REP,Garrett Soldano,69
+Midland,City of Midland Precinct 7,Governor,,REP,Kevin Rinke,147
+Midland,City of Midland Precinct 7,Governor,,REP,Ralph Rebandt,41
+Midland,City of Midland Precinct 7,Governor,,REP,Ryan D. Kelley,59
+Midland,City of Midland Precinct 7,Governor,,REP,Tudor M. Dixon,180
+Midland,City of Midland Precinct 7,Governor,,REP,Write-In,7
+Midland,City of Midland Precinct 7,U.S. House,8,DEM,Daniel T. Kildee,221
+Midland,City of Midland Precinct 7,U.S. House,8,REP,Candice Miller,160
+Midland,City of Midland Precinct 7,U.S. House,8,REP,Matthew Seely,102
+Midland,City of Midland Precinct 7,U.S. House,8,REP,Paul Junge,244
+Midland,City of Midland Precinct 7,U.S. House,8,REP,Write-In,2
+Midland,City of Midland Precinct 7,State Senate,35,DEM,Kristen McDonald Rivet,221
+Midland,City of Midland Precinct 7,State Senate,35,DEM,Write-In,1
+Midland,City of Midland Precinct 7,State Senate,35,REP,Annette Glenn,225
+Midland,City of Midland Precinct 7,State Senate,35,REP,Christian Velasquez,232
+Midland,City of Midland Precinct 7,State Senate,35,REP,Martin Blank,57
+Midland,City of Midland Precinct 7,State Senate,35,REP,Tim Kelly,37
+Midland,City of Midland Precinct 7,State Senate,35,REP,Write-In,2
+Midland,City of Midland Precinct 7,State House,95,DEM,Larry Grell,31
+Midland,City of Midland Precinct 7,State House,95,DEM,Matthew Dawson,163
+Midland,City of Midland Precinct 7,State House,95,DEM,Write-In,1
+Midland,City of Midland Precinct 7,State House,95,REP,Ann Manary,291
+Midland,City of Midland Precinct 7,State House,95,REP,Bill G. Schuette,308
+Midland,City of Midland Precinct 7,State House,95,REP,Charles A. McGinnis Jr.,14
+Midland,City of Midland Precinct 7,State House,95,REP,Write-In,1
+Midland,City of Midland Precinct 8,Governor,,DEM,Gretchen Whitmer,153
+Midland,City of Midland Precinct 8,Governor,,REP,Garrett Soldano,50
+Midland,City of Midland Precinct 8,Governor,,REP,Kevin Rinke,53
+Midland,City of Midland Precinct 8,Governor,,REP,Ralph Rebandt,23
+Midland,City of Midland Precinct 8,Governor,,REP,Ryan D. Kelley,51
+Midland,City of Midland Precinct 8,Governor,,REP,Tudor M. Dixon,77
+Midland,City of Midland Precinct 8,Governor,,REP,Write-In,3
+Midland,City of Midland Precinct 8,U.S. House,8,DEM,Daniel T. Kildee,149
+Midland,City of Midland Precinct 8,U.S. House,8,REP,Candice Miller,62
+Midland,City of Midland Precinct 8,U.S. House,8,REP,Matthew Seely,87
+Midland,City of Midland Precinct 8,U.S. House,8,REP,Paul Junge,111
+Midland,City of Midland Precinct 8,U.S. House,8,REP,Write-In,1
+Midland,City of Midland Precinct 8,State Senate,35,DEM,Kristen McDonald Rivet,146
+Midland,City of Midland Precinct 8,State Senate,35,REP,Annette Glenn,139
+Midland,City of Midland Precinct 8,State Senate,35,REP,Christian Velasquez,61
+Midland,City of Midland Precinct 8,State Senate,35,REP,Martin Blank,41
+Midland,City of Midland Precinct 8,State Senate,35,REP,Tim Kelly,29
+Midland,City of Midland Precinct 8,State Senate,35,REP,Write-In,1
+Midland,City of Midland Precinct 8,State House,95,DEM,Larry Grell,43
+Midland,City of Midland Precinct 8,State House,95,DEM,Matthew Dawson,100
+Midland,City of Midland Precinct 8,State House,95,REP,Ann Manary,118
+Midland,City of Midland Precinct 8,State House,95,REP,Bill G. Schuette,150
+Midland,City of Midland Precinct 8,State House,95,REP,Charles A. McGinnis Jr.,30
+Midland,City of Midland Precinct 9,Governor,,DEM,Gretchen Whitmer,171
+Midland,City of Midland Precinct 9,Governor,,REP,Garrett Soldano,53
+Midland,City of Midland Precinct 9,Governor,,REP,Kevin Rinke,97
+Midland,City of Midland Precinct 9,Governor,,REP,Ralph Rebandt,21
+Midland,City of Midland Precinct 9,Governor,,REP,Ryan D. Kelley,64
+Midland,City of Midland Precinct 9,Governor,,REP,Tudor M. Dixon,163
+Midland,City of Midland Precinct 9,Governor,,REP,Write-In,5
+Midland,City of Midland Precinct 9,U.S. House,8,DEM,Daniel T. Kildee,167
+Midland,City of Midland Precinct 9,U.S. House,8,REP,Candice Miller,85
+Midland,City of Midland Precinct 9,U.S. House,8,REP,Matthew Seely,71
+Midland,City of Midland Precinct 9,U.S. House,8,REP,Paul Junge,236
+Midland,City of Midland Precinct 9,U.S. House,8,REP,Write-In,1
+Midland,City of Midland Precinct 9,State Senate,35,DEM,Kristen McDonald Rivet,165
+Midland,City of Midland Precinct 9,State Senate,35,REP,Annette Glenn,205
+Midland,City of Midland Precinct 9,State Senate,35,REP,Christian Velasquez,152
+Midland,City of Midland Precinct 9,State Senate,35,REP,Martin Blank,41
+Midland,City of Midland Precinct 9,State Senate,35,REP,Tim Kelly,29
+Midland,City of Midland Precinct 9,State House,95,DEM,Larry Grell,29
+Midland,City of Midland Precinct 9,State House,95,DEM,Matthew Dawson,120
+Midland,City of Midland Precinct 9,State House,95,DEM,Write-In,2
+Midland,City of Midland Precinct 9,State House,95,REP,Ann Manary,136
+Midland,City of Midland Precinct 9,State House,95,REP,Bill G. Schuette,290
+Midland,City of Midland Precinct 9,State House,95,REP,Charles A. McGinnis Jr.,21
+Midland,Edenville Township Precinct 1,Governor,,DEM,Gretchen Whitmer,149
+Midland,Edenville Township Precinct 1,Governor,,REP,Garrett Soldano,116
+Midland,Edenville Township Precinct 1,Governor,,REP,Kevin Rinke,92
+Midland,Edenville Township Precinct 1,Governor,,REP,Ralph Rebandt,14
+Midland,Edenville Township Precinct 1,Governor,,REP,Ryan D. Kelley,79
+Midland,Edenville Township Precinct 1,Governor,,REP,Tudor M. Dixon,183
+Midland,Edenville Township Precinct 1,Governor,,REP,Write-In,4
+Midland,Edenville Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,138
+Midland,Edenville Township Precinct 1,U.S. House,2,DEM,Write-In,1
+Midland,Edenville Township Precinct 1,U.S. House,2,REP,John Moolenaar,385
+Midland,Edenville Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,103
+Midland,Edenville Township Precinct 1,State Senate,34,DEM,Christine Gerace,138
+Midland,Edenville Township Precinct 1,State Senate,34,DEM,Write-In,1
+Midland,Edenville Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,91
+Midland,Edenville Township Precinct 1,State Senate,34,REP,Roger Hauck,382
+Midland,Edenville Township Precinct 1,State Senate,34,REP,Write-In,3
+Midland,Edenville Township Precinct 1,State House,95,DEM,Larry Grell,50
+Midland,Edenville Township Precinct 1,State House,95,DEM,Matthew Dawson,73
+Midland,Edenville Township Precinct 1,State House,95,DEM,Write-In,1
+Midland,Edenville Township Precinct 1,State House,95,REP,Ann Manary,140
+Midland,Edenville Township Precinct 1,State House,95,REP,Bill G. Schuette,345
+Midland,Edenville Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,18
+Midland,Edenville Township Precinct 1,State House,95,REP,Write-In,1
+Midland,Geneva Township Precinct 1,Governor,,DEM,Gretchen Whitmer,83
+Midland,Geneva Township Precinct 1,Governor,,REP,Garrett Soldano,52
+Midland,Geneva Township Precinct 1,Governor,,REP,Kevin Rinke,61
+Midland,Geneva Township Precinct 1,Governor,,REP,Ralph Rebandt,7
+Midland,Geneva Township Precinct 1,Governor,,REP,Ryan D. Kelley,27
+Midland,Geneva Township Precinct 1,Governor,,REP,Tudor M. Dixon,70
+Midland,Geneva Township Precinct 1,Governor,,REP,Write-In,2
+Midland,Geneva Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,77
+Midland,Geneva Township Precinct 1,U.S. House,2,REP,John Moolenaar,174
+Midland,Geneva Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,46
+Midland,Geneva Township Precinct 1,U.S. House,2,REP,Write-In,1
+Midland,Geneva Township Precinct 1,State Senate,34,DEM,Christine Gerace,75
+Midland,Geneva Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,36
+Midland,Geneva Township Precinct 1,State Senate,34,REP,Roger Hauck,186
+Midland,Geneva Township Precinct 1,State House,95,DEM,Larry Grell,9
+Midland,Geneva Township Precinct 1,State House,95,DEM,Matthew Dawson,61
+Midland,Geneva Township Precinct 1,State House,95,REP,Ann Manary,48
+Midland,Geneva Township Precinct 1,State House,95,REP,Bill G. Schuette,156
+Midland,Geneva Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,19
+Midland,Greendale Township Precinct 1,Governor,,DEM,Gretchen Whitmer,57
+Midland,Greendale Township Precinct 1,Governor,,REP,Garrett Soldano,81
+Midland,Greendale Township Precinct 1,Governor,,REP,Kevin Rinke,63
+Midland,Greendale Township Precinct 1,Governor,,REP,Ralph Rebandt,12
+Midland,Greendale Township Precinct 1,Governor,,REP,Ryan D. Kelley,57
+Midland,Greendale Township Precinct 1,Governor,,REP,Tudor M. Dixon,76
+Midland,Greendale Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,54
+Midland,Greendale Township Precinct 1,U.S. House,2,REP,John Moolenaar,197
+Midland,Greendale Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,87
+Midland,Greendale Township Precinct 1,State Senate,34,DEM,Christine Gerace,54
+Midland,Greendale Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,48
+Midland,Greendale Township Precinct 1,State Senate,34,REP,Roger Hauck,229
+Midland,Greendale Township Precinct 1,State House,95,DEM,Larry Grell,22
+Midland,Greendale Township Precinct 1,State House,95,DEM,Matthew Dawson,31
+Midland,Greendale Township Precinct 1,State House,95,REP,Ann Manary,66
+Midland,Greendale Township Precinct 1,State House,95,REP,Bill G. Schuette,190
+Midland,Greendale Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,32
+Midland,Homer Township Precinct 1,Governor,,DEM,Gretchen Whitmer,101
+Midland,Homer Township Precinct 1,Governor,,REP,Garrett Soldano,56
+Midland,Homer Township Precinct 1,Governor,,REP,Kevin Rinke,57
+Midland,Homer Township Precinct 1,Governor,,REP,Ralph Rebandt,8
+Midland,Homer Township Precinct 1,Governor,,REP,Ryan D. Kelley,29
+Midland,Homer Township Precinct 1,Governor,,REP,Tudor M. Dixon,85
+Midland,Homer Township Precinct 1,U.S. House,8,DEM,Daniel T. Kildee,95
+Midland,Homer Township Precinct 1,U.S. House,8,DEM,Write-In,1
+Midland,Homer Township Precinct 1,U.S. House,8,REP,Candice Miller,58
+Midland,Homer Township Precinct 1,U.S. House,8,REP,Matthew Seely,48
+Midland,Homer Township Precinct 1,U.S. House,8,REP,Paul Junge,133
+Midland,Homer Township Precinct 1,State Senate,35,DEM,Kristen McDonald Rivet,92
+Midland,Homer Township Precinct 1,State Senate,35,DEM,Write-In,1
+Midland,Homer Township Precinct 1,State Senate,35,REP,Annette Glenn,137
+Midland,Homer Township Precinct 1,State Senate,35,REP,Christian Velasquez,45
+Midland,Homer Township Precinct 1,State Senate,35,REP,Martin Blank,39
+Midland,Homer Township Precinct 1,State Senate,35,REP,Tim Kelly,24
+Midland,Homer Township Precinct 1,State House,95,DEM,Larry Grell,19
+Midland,Homer Township Precinct 1,State House,95,DEM,Matthew Dawson,67
+Midland,Homer Township Precinct 1,State House,95,REP,Ann Manary,85
+Midland,Homer Township Precinct 1,State House,95,REP,Bill G. Schuette,158
+Midland,Homer Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,12
+Midland,Homer Township Precinct 2,Governor,,DEM,Gretchen Whitmer,70
+Midland,Homer Township Precinct 2,Governor,,REP,Garrett Soldano,57
+Midland,Homer Township Precinct 2,Governor,,REP,Kevin Rinke,44
+Midland,Homer Township Precinct 2,Governor,,REP,Ralph Rebandt,9
+Midland,Homer Township Precinct 2,Governor,,REP,Ryan D. Kelley,48
+Midland,Homer Township Precinct 2,Governor,,REP,Tudor M. Dixon,82
+Midland,Homer Township Precinct 2,Governor,,REP,Write-In,3
+Midland,Homer Township Precinct 2,U.S. House,8,DEM,Daniel T. Kildee,66
+Midland,Homer Township Precinct 2,U.S. House,8,DEM,Write-In,2
+Midland,Homer Township Precinct 2,U.S. House,8,REP,Candice Miller,35
+Midland,Homer Township Precinct 2,U.S. House,8,REP,Matthew Seely,80
+Midland,Homer Township Precinct 2,U.S. House,8,REP,Paul Junge,122
+Midland,Homer Township Precinct 2,U.S. House,8,REP,Write-In,1
+Midland,Homer Township Precinct 2,State Senate,35,DEM,Kristen McDonald Rivet,65
+Midland,Homer Township Precinct 2,State Senate,35,REP,Annette Glenn,160
+Midland,Homer Township Precinct 2,State Senate,35,REP,Christian Velasquez,42
+Midland,Homer Township Precinct 2,State Senate,35,REP,Martin Blank,27
+Midland,Homer Township Precinct 2,State Senate,35,REP,Tim Kelly,25
+Midland,Homer Township Precinct 2,State House,95,DEM,Larry Grell,24
+Midland,Homer Township Precinct 2,State House,95,DEM,Matthew Dawson,38
+Midland,Homer Township Precinct 2,State House,95,DEM,Write-In,1
+Midland,Homer Township Precinct 2,State House,95,REP,Ann Manary,67
+Midland,Homer Township Precinct 2,State House,95,REP,Bill G. Schuette,178
+Midland,Homer Township Precinct 2,State House,95,REP,Charles A. McGinnis Jr.,12
+Midland,Homer Township Precinct 3,Governor,,DEM,Gretchen Whitmer,90
+Midland,Homer Township Precinct 3,Governor,,DEM,Write-In,1
+Midland,Homer Township Precinct 3,Governor,,REP,Garrett Soldano,60
+Midland,Homer Township Precinct 3,Governor,,REP,Kevin Rinke,83
+Midland,Homer Township Precinct 3,Governor,,REP,Ralph Rebandt,10
+Midland,Homer Township Precinct 3,Governor,,REP,Ryan D. Kelley,65
+Midland,Homer Township Precinct 3,Governor,,REP,Tudor M. Dixon,104
+Midland,Homer Township Precinct 3,Governor,,REP,Write-In,2
+Midland,Homer Township Precinct 3,U.S. House,8,DEM,Daniel T. Kildee,86
+Midland,Homer Township Precinct 3,U.S. House,8,DEM,Write-In,1
+Midland,Homer Township Precinct 3,U.S. House,8,REP,Candice Miller,93
+Midland,Homer Township Precinct 3,U.S. House,8,REP,Matthew Seely,62
+Midland,Homer Township Precinct 3,U.S. House,8,REP,Paul Junge,164
+Midland,Homer Township Precinct 3,U.S. House,8,REP,Write-In,1
+Midland,Homer Township Precinct 3,State Senate,35,DEM,Kristen McDonald Rivet,86
+Midland,Homer Township Precinct 3,State Senate,35,DEM,Write-In,1
+Midland,Homer Township Precinct 3,State Senate,35,REP,Annette Glenn,185
+Midland,Homer Township Precinct 3,State Senate,35,REP,Christian Velasquez,78
+Midland,Homer Township Precinct 3,State Senate,35,REP,Martin Blank,40
+Midland,Homer Township Precinct 3,State Senate,35,REP,Tim Kelly,36
+Midland,Homer Township Precinct 3,State House,95,DEM,Larry Grell,24
+Midland,Homer Township Precinct 3,State House,95,DEM,Matthew Dawson,53
+Midland,Homer Township Precinct 3,State House,95,DEM,Write-In,1
+Midland,Homer Township Precinct 3,State House,95,REP,Ann Manary,126
+Midland,Homer Township Precinct 3,State House,95,REP,Bill G. Schuette,199
+Midland,Homer Township Precinct 3,State House,95,REP,Charles A. McGinnis Jr.,20
+Midland,Hope Township Precinct 1,Governor,,DEM,Gretchen Whitmer,68
+Midland,Hope Township Precinct 1,Governor,,DEM,Write-In,1
+Midland,Hope Township Precinct 1,Governor,,REP,Garrett Soldano,64
+Midland,Hope Township Precinct 1,Governor,,REP,Kevin Rinke,71
+Midland,Hope Township Precinct 1,Governor,,REP,Ralph Rebandt,12
+Midland,Hope Township Precinct 1,Governor,,REP,Ryan D. Kelley,29
+Midland,Hope Township Precinct 1,Governor,,REP,Tudor M. Dixon,105
+Midland,Hope Township Precinct 1,U.S. House,8,DEM,Daniel T. Kildee,67
+Midland,Hope Township Precinct 1,U.S. House,8,REP,Candice Miller,74
+Midland,Hope Township Precinct 1,U.S. House,8,REP,Matthew Seely,74
+Midland,Hope Township Precinct 1,U.S. House,8,REP,Paul Junge,133
+Midland,Hope Township Precinct 1,State Senate,34,DEM,Christine Gerace,64
+Midland,Hope Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,36
+Midland,Hope Township Precinct 1,State Senate,34,REP,Roger Hauck,235
+Midland,Hope Township Precinct 1,State Senate,34,REP,Write-In,1
+Midland,Hope Township Precinct 1,State House,95,DEM,Larry Grell,32
+Midland,Hope Township Precinct 1,State House,95,DEM,Matthew Dawson,25
+Midland,Hope Township Precinct 1,State House,95,REP,Ann Manary,73
+Midland,Hope Township Precinct 1,State House,95,REP,Bill G. Schuette,193
+Midland,Hope Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,23
+Midland,Ingersoll Township Precinct 1,Governor,,DEM,Gretchen Whitmer,78
+Midland,Ingersoll Township Precinct 1,Governor,,REP,Garrett Soldano,55
+Midland,Ingersoll Township Precinct 1,Governor,,REP,Kevin Rinke,64
+Midland,Ingersoll Township Precinct 1,Governor,,REP,Ralph Rebandt,15
+Midland,Ingersoll Township Precinct 1,Governor,,REP,Ryan D. Kelley,27
+Midland,Ingersoll Township Precinct 1,Governor,,REP,Tudor M. Dixon,105
+Midland,Ingersoll Township Precinct 1,Governor,,REP,Write-In,1
+Midland,Ingersoll Township Precinct 1,U.S. House,8,DEM,Daniel T. Kildee,76
+Midland,Ingersoll Township Precinct 1,U.S. House,8,REP,Candice Miller,54
+Midland,Ingersoll Township Precinct 1,U.S. House,8,REP,Matthew Seely,40
+Midland,Ingersoll Township Precinct 1,U.S. House,8,REP,Paul Junge,171
+Midland,Ingersoll Township Precinct 1,U.S. House,8,REP,Write-In,1
+Midland,Ingersoll Township Precinct 1,State Senate,35,DEM,Kristen McDonald Rivet,75
+Midland,Ingersoll Township Precinct 1,State Senate,35,REP,Annette Glenn,151
+Midland,Ingersoll Township Precinct 1,State Senate,35,REP,Christian Velasquez,65
+Midland,Ingersoll Township Precinct 1,State Senate,35,REP,Martin Blank,32
+Midland,Ingersoll Township Precinct 1,State Senate,35,REP,Tim Kelly,27
+Midland,Ingersoll Township Precinct 1,State Senate,35,REP,Write-In,1
+Midland,Ingersoll Township Precinct 1,State House,95,DEM,Larry Grell,16
+Midland,Ingersoll Township Precinct 1,State House,95,DEM,Matthew Dawson,49
+Midland,Ingersoll Township Precinct 1,State House,95,REP,Ann Manary,76
+Midland,Ingersoll Township Precinct 1,State House,95,REP,Bill G. Schuette,181
+Midland,Ingersoll Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,21
+Midland,Ingersoll Township Precinct 1,State House,95,REP,Write-In,1
+Midland,Ingersoll Township Precinct 2,Governor,,DEM,Gretchen Whitmer,64
+Midland,Ingersoll Township Precinct 2,Governor,,REP,Garrett Soldano,49
+Midland,Ingersoll Township Precinct 2,Governor,,REP,Kevin Rinke,40
+Midland,Ingersoll Township Precinct 2,Governor,,REP,Ralph Rebandt,6
+Midland,Ingersoll Township Precinct 2,Governor,,REP,Ryan D. Kelley,22
+Midland,Ingersoll Township Precinct 2,Governor,,REP,Tudor M. Dixon,82
+Midland,Ingersoll Township Precinct 2,Governor,,REP,Write-In,2
+Midland,Ingersoll Township Precinct 2,U.S. House,8,DEM,Daniel T. Kildee,63
+Midland,Ingersoll Township Precinct 2,U.S. House,8,REP,Candice Miller,45
+Midland,Ingersoll Township Precinct 2,U.S. House,8,REP,Matthew Seely,29
+Midland,Ingersoll Township Precinct 2,U.S. House,8,REP,Paul Junge,122
+Midland,Ingersoll Township Precinct 2,U.S. House,8,REP,Write-In,2
+Midland,Ingersoll Township Precinct 2,State Senate,35,DEM,Kristen McDonald Rivet,61
+Midland,Ingersoll Township Precinct 2,State Senate,35,REP,Annette Glenn,91
+Midland,Ingersoll Township Precinct 2,State Senate,35,REP,Christian Velasquez,47
+Midland,Ingersoll Township Precinct 2,State Senate,35,REP,Martin Blank,33
+Midland,Ingersoll Township Precinct 2,State Senate,35,REP,Tim Kelly,27
+Midland,Ingersoll Township Precinct 2,State Senate,35,REP,Write-In,1
+Midland,Ingersoll Township Precinct 2,State House,95,DEM,Larry Grell,29
+Midland,Ingersoll Township Precinct 2,State House,95,DEM,Matthew Dawson,30
+Midland,Ingersoll Township Precinct 2,State House,95,REP,Ann Manary,64
+Midland,Ingersoll Township Precinct 2,State House,95,REP,Bill G. Schuette,135
+Midland,Ingersoll Township Precinct 2,State House,95,REP,Charles A. McGinnis Jr.,10
+Midland,Ingersoll Township Precinct 2,State House,95,REP,Write-In,1
+Midland,Jasper Township Precinct 1,Governor,,DEM,Gretchen Whitmer,50
+Midland,Jasper Township Precinct 1,Governor,,REP,Garrett Soldano,33
+Midland,Jasper Township Precinct 1,Governor,,REP,Kevin Rinke,45
+Midland,Jasper Township Precinct 1,Governor,,REP,Ralph Rebandt,6
+Midland,Jasper Township Precinct 1,Governor,,REP,Ryan D. Kelley,31
+Midland,Jasper Township Precinct 1,Governor,,REP,Tudor M. Dixon,45
+Midland,Jasper Township Precinct 1,Governor,,REP,Write-In,2
+Midland,Jasper Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,48
+Midland,Jasper Township Precinct 1,U.S. House,2,REP,John Moolenaar,123
+Midland,Jasper Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,37
+Midland,Jasper Township Precinct 1,State Senate,34,DEM,Christine Gerace,48
+Midland,Jasper Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,32
+Midland,Jasper Township Precinct 1,State Senate,34,REP,Roger Hauck,129
+Midland,Jasper Township Precinct 1,State House,95,DEM,Larry Grell,7
+Midland,Jasper Township Precinct 1,State House,95,DEM,Matthew Dawson,39
+Midland,Jasper Township Precinct 1,State House,95,REP,Ann Manary,31
+Midland,Jasper Township Precinct 1,State House,95,REP,Bill G. Schuette,113
+Midland,Jasper Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,16
+Midland,Jerome Township Precinct 1,Governor,,DEM,Gretchen Whitmer,146
+Midland,Jerome Township Precinct 1,Governor,,REP,Garrett Soldano,80
+Midland,Jerome Township Precinct 1,Governor,,REP,Kevin Rinke,84
+Midland,Jerome Township Precinct 1,Governor,,REP,Ralph Rebandt,13
+Midland,Jerome Township Precinct 1,Governor,,REP,Ryan D. Kelley,59
+Midland,Jerome Township Precinct 1,Governor,,REP,Tudor M. Dixon,146
+Midland,Jerome Township Precinct 1,Governor,,REP,Write-In,5
+Midland,Jerome Township Precinct 1,U.S. House,8,DEM,Daniel T. Kildee,142
+Midland,Jerome Township Precinct 1,U.S. House,8,REP,Candice Miller,95
+Midland,Jerome Township Precinct 1,U.S. House,8,REP,Matthew Seely,83
+Midland,Jerome Township Precinct 1,U.S. House,8,REP,Paul Junge,201
+Midland,Jerome Township Precinct 1,U.S. House,8,REP,Write-In,2
+Midland,Jerome Township Precinct 1,State Senate,34,DEM,Christine Gerace,133
+Midland,Jerome Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,64
+Midland,Jerome Township Precinct 1,State Senate,34,REP,Roger Hauck,292
+Midland,Jerome Township Precinct 1,State Senate,34,REP,Write-In,1
+Midland,Jerome Township Precinct 1,State House,95,DEM,Larry Grell,58
+Midland,Jerome Township Precinct 1,State House,95,DEM,Matthew Dawson,66
+Midland,Jerome Township Precinct 1,State House,95,REP,Ann Manary,110
+Midland,Jerome Township Precinct 1,State House,95,REP,Bill G. Schuette,291
+Midland,Jerome Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,21
+Midland,Jerome Township Precinct 1,State House,95,REP,Write-In,1
+Midland,Jerome Township Precinct 2,Governor,,DEM,Gretchen Whitmer,118
+Midland,Jerome Township Precinct 2,Governor,,DEM,Write-In,1
+Midland,Jerome Township Precinct 2,Governor,,REP,Garrett Soldano,89
+Midland,Jerome Township Precinct 2,Governor,,REP,Kevin Rinke,109
+Midland,Jerome Township Precinct 2,Governor,,REP,Ralph Rebandt,10
+Midland,Jerome Township Precinct 2,Governor,,REP,Ryan D. Kelley,51
+Midland,Jerome Township Precinct 2,Governor,,REP,Tudor M. Dixon,119
+Midland,Jerome Township Precinct 2,Governor,,REP,Write-In,10
+Midland,Jerome Township Precinct 2,U.S. House,8,DEM,Daniel T. Kildee,119
+Midland,Jerome Township Precinct 2,U.S. House,8,REP,Candice Miller,74
+Midland,Jerome Township Precinct 2,U.S. House,8,REP,Matthew Seely,103
+Midland,Jerome Township Precinct 2,U.S. House,8,REP,Paul Junge,198
+Midland,Jerome Township Precinct 2,U.S. House,8,REP,Write-In,2
+Midland,Jerome Township Precinct 2,State Senate,34,DEM,Christine Gerace,112
+Midland,Jerome Township Precinct 2,State Senate,34,REP,Lisa M. Sowers,63
+Midland,Jerome Township Precinct 2,State Senate,34,REP,Roger Hauck,284
+Midland,Jerome Township Precinct 2,State Senate,34,REP,Write-In,2
+Midland,Jerome Township Precinct 2,State House,95,DEM,Larry Grell,24
+Midland,Jerome Township Precinct 2,State House,95,DEM,Matthew Dawson,81
+Midland,Jerome Township Precinct 2,State House,95,REP,Ann Manary,105
+Midland,Jerome Township Precinct 2,State House,95,REP,Bill G. Schuette,285
+Midland,Jerome Township Precinct 2,State House,95,REP,Charles A. McGinnis Jr.,20
+Midland,Larkin Township Precinct 1,Governor,,DEM,Gretchen Whitmer,104
+Midland,Larkin Township Precinct 1,Governor,,REP,Garrett Soldano,70
+Midland,Larkin Township Precinct 1,Governor,,REP,Kevin Rinke,108
+Midland,Larkin Township Precinct 1,Governor,,REP,Ralph Rebandt,14
+Midland,Larkin Township Precinct 1,Governor,,REP,Ryan D. Kelley,56
+Midland,Larkin Township Precinct 1,Governor,,REP,Tudor M. Dixon,186
+Midland,Larkin Township Precinct 1,Governor,,REP,Write-In,3
+Midland,Larkin Township Precinct 1,U.S. House,8,DEM,Daniel T. Kildee,103
+Midland,Larkin Township Precinct 1,U.S. House,8,REP,Candice Miller,122
+Midland,Larkin Township Precinct 1,U.S. House,8,REP,Matthew Seely,64
+Midland,Larkin Township Precinct 1,U.S. House,8,REP,Paul Junge,235
+Midland,Larkin Township Precinct 1,U.S. House,8,REP,Write-In,1
+Midland,Larkin Township Precinct 1,State Senate,35,DEM,Kristen McDonald Rivet,102
+Midland,Larkin Township Precinct 1,State Senate,35,REP,Annette Glenn,240
+Midland,Larkin Township Precinct 1,State Senate,35,REP,Christian Velasquez,132
+Midland,Larkin Township Precinct 1,State Senate,35,REP,Martin Blank,50
+Midland,Larkin Township Precinct 1,State Senate,35,REP,Tim Kelly,33
+Midland,Larkin Township Precinct 1,State House,95,DEM,Larry Grell,35
+Midland,Larkin Township Precinct 1,State House,95,DEM,Matthew Dawson,59
+Midland,Larkin Township Precinct 1,State House,95,REP,Ann Manary,160
+Midland,Larkin Township Precinct 1,State House,95,REP,Bill G. Schuette,297
+Midland,Larkin Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,12
+Midland,Larkin Township Precinct 2,Governor,,DEM,Gretchen Whitmer,102
+Midland,Larkin Township Precinct 2,Governor,,DEM,Write-In,1
+Midland,Larkin Township Precinct 2,Governor,,REP,Garrett Soldano,46
+Midland,Larkin Township Precinct 2,Governor,,REP,Kevin Rinke,96
+Midland,Larkin Township Precinct 2,Governor,,REP,Ralph Rebandt,23
+Midland,Larkin Township Precinct 2,Governor,,REP,Ryan D. Kelley,35
+Midland,Larkin Township Precinct 2,Governor,,REP,Tudor M. Dixon,163
+Midland,Larkin Township Precinct 2,Governor,,REP,Write-In,2
+Midland,Larkin Township Precinct 2,U.S. House,8,DEM,Daniel T. Kildee,100
+Midland,Larkin Township Precinct 2,U.S. House,8,REP,Candice Miller,79
+Midland,Larkin Township Precinct 2,U.S. House,8,REP,Matthew Seely,46
+Midland,Larkin Township Precinct 2,U.S. House,8,REP,Paul Junge,230
+Midland,Larkin Township Precinct 2,State Senate,35,DEM,Kristen McDonald Rivet,101
+Midland,Larkin Township Precinct 2,State Senate,35,REP,Annette Glenn,183
+Midland,Larkin Township Precinct 2,State Senate,35,REP,Christian Velasquez,124
+Midland,Larkin Township Precinct 2,State Senate,35,REP,Martin Blank,63
+Midland,Larkin Township Precinct 2,State Senate,35,REP,Tim Kelly,19
+Midland,Larkin Township Precinct 2,State Senate,35,REP,Write-In,1
+Midland,Larkin Township Precinct 2,State House,95,DEM,Larry Grell,23
+Midland,Larkin Township Precinct 2,State House,95,DEM,Matthew Dawson,67
+Midland,Larkin Township Precinct 2,State House,95,DEM,Write-In,1
+Midland,Larkin Township Precinct 2,State House,95,REP,Ann Manary,133
+Midland,Larkin Township Precinct 2,State House,95,REP,Bill G. Schuette,258
+Midland,Larkin Township Precinct 2,State House,95,REP,Charles A. McGinnis Jr.,10
+Midland,Larkin Township Precinct 3,Governor,,DEM,Gretchen Whitmer,102
+Midland,Larkin Township Precinct 3,Governor,,REP,Garrett Soldano,48
+Midland,Larkin Township Precinct 3,Governor,,REP,Kevin Rinke,75
+Midland,Larkin Township Precinct 3,Governor,,REP,Ralph Rebandt,12
+Midland,Larkin Township Precinct 3,Governor,,REP,Ryan D. Kelley,27
+Midland,Larkin Township Precinct 3,Governor,,REP,Tudor M. Dixon,165
+Midland,Larkin Township Precinct 3,Governor,,REP,Write-In,2
+Midland,Larkin Township Precinct 3,U.S. House,8,DEM,Daniel T. Kildee,100
+Midland,Larkin Township Precinct 3,U.S. House,8,REP,Candice Miller,81
+Midland,Larkin Township Precinct 3,U.S. House,8,REP,Matthew Seely,44
+Midland,Larkin Township Precinct 3,U.S. House,8,REP,Paul Junge,202
+Midland,Larkin Township Precinct 3,U.S. House,8,REP,Write-In,3
+Midland,Larkin Township Precinct 3,State Senate,35,DEM,Kristen McDonald Rivet,96
+Midland,Larkin Township Precinct 3,State Senate,35,REP,Annette Glenn,162
+Midland,Larkin Township Precinct 3,State Senate,35,REP,Christian Velasquez,132
+Midland,Larkin Township Precinct 3,State Senate,35,REP,Martin Blank,32
+Midland,Larkin Township Precinct 3,State Senate,35,REP,Tim Kelly,24
+Midland,Larkin Township Precinct 3,State Senate,35,REP,Write-In,2
+Midland,Larkin Township Precinct 3,State House,95,DEM,Larry Grell,27
+Midland,Larkin Township Precinct 3,State House,95,DEM,Matthew Dawson,56
+Midland,Larkin Township Precinct 3,State House,95,DEM,Write-In,1
+Midland,Larkin Township Precinct 3,State House,95,REP,Ann Manary,127
+Midland,Larkin Township Precinct 3,State House,95,REP,Bill G. Schuette,235
+Midland,Larkin Township Precinct 3,State House,95,REP,Charles A. McGinnis Jr.,10
+Midland,Lee Township Precinct 1,Governor,,DEM,Gretchen Whitmer,79
+Midland,Lee Township Precinct 1,Governor,,REP,Garrett Soldano,88
+Midland,Lee Township Precinct 1,Governor,,REP,Kevin Rinke,63
+Midland,Lee Township Precinct 1,Governor,,REP,Ralph Rebandt,14
+Midland,Lee Township Precinct 1,Governor,,REP,Ryan D. Kelley,81
+Midland,Lee Township Precinct 1,Governor,,REP,Tudor M. Dixon,103
+Midland,Lee Township Precinct 1,Governor,,REP,Write-In,1
+Midland,Lee Township Precinct 1,U.S. House,8,DEM,Daniel T. Kildee,79
+Midland,Lee Township Precinct 1,U.S. House,8,REP,Candice Miller,58
+Midland,Lee Township Precinct 1,U.S. House,8,REP,Matthew Seely,122
+Midland,Lee Township Precinct 1,U.S. House,8,REP,Paul Junge,155
+Midland,Lee Township Precinct 1,State Senate,34,DEM,Christine Gerace,75
+Midland,Lee Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,69
+Midland,Lee Township Precinct 1,State Senate,34,REP,Roger Hauck,258
+Midland,Lee Township Precinct 1,State Senate,34,REP,Write-In,1
+Midland,Lee Township Precinct 1,State House,95,DEM,Larry Grell,11
+Midland,Lee Township Precinct 1,State House,95,DEM,Matthew Dawson,59
+Midland,Lee Township Precinct 1,State House,95,REP,Ann Manary,98
+Midland,Lee Township Precinct 1,State House,95,REP,Bill G. Schuette,240
+Midland,Lee Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,25
+Midland,Lee Township Precinct 2,Governor,,DEM,Gretchen Whitmer,73
+Midland,Lee Township Precinct 2,Governor,,REP,Garrett Soldano,73
+Midland,Lee Township Precinct 2,Governor,,REP,Kevin Rinke,94
+Midland,Lee Township Precinct 2,Governor,,REP,Ralph Rebandt,18
+Midland,Lee Township Precinct 2,Governor,,REP,Ryan D. Kelley,49
+Midland,Lee Township Precinct 2,Governor,,REP,Tudor M. Dixon,92
+Midland,Lee Township Precinct 2,Governor,,REP,Write-In,4
+Midland,Lee Township Precinct 2,U.S. House,8,DEM,Daniel T. Kildee,72
+Midland,Lee Township Precinct 2,U.S. House,8,REP,Candice Miller,72
+Midland,Lee Township Precinct 2,U.S. House,8,REP,Matthew Seely,75
+Midland,Lee Township Precinct 2,U.S. House,8,REP,Paul Junge,177
+Midland,Lee Township Precinct 2,U.S. House,8,REP,Write-In,1
+Midland,Lee Township Precinct 2,State Senate,34,DEM,Christine Gerace,71
+Midland,Lee Township Precinct 2,State Senate,34,REP,Lisa M. Sowers,73
+Midland,Lee Township Precinct 2,State Senate,34,REP,Roger Hauck,231
+Midland,Lee Township Precinct 2,State Senate,34,REP,Write-In,1
+Midland,Lee Township Precinct 2,State House,95,DEM,Larry Grell,22
+Midland,Lee Township Precinct 2,State House,95,DEM,Matthew Dawson,45
+Midland,Lee Township Precinct 2,State House,95,REP,Ann Manary,101
+Midland,Lee Township Precinct 2,State House,95,REP,Bill G. Schuette,226
+Midland,Lee Township Precinct 2,State House,95,REP,Charles A. McGinnis Jr.,24
+Midland,Lincoln Township Precinct 1,Governor,,DEM,Gretchen Whitmer,167
+Midland,Lincoln Township Precinct 1,Governor,,REP,Garrett Soldano,149
+Midland,Lincoln Township Precinct 1,Governor,,REP,Kevin Rinke,124
+Midland,Lincoln Township Precinct 1,Governor,,REP,Ralph Rebandt,25
+Midland,Lincoln Township Precinct 1,Governor,,REP,Ryan D. Kelley,37
+Midland,Lincoln Township Precinct 1,Governor,,REP,Tudor M. Dixon,196
+Midland,Lincoln Township Precinct 1,Governor,,REP,Write-In,2
+Midland,Lincoln Township Precinct 1,U.S. House,8,DEM,Daniel T. Kildee,157
+Midland,Lincoln Township Precinct 1,U.S. House,8,REP,Candice Miller,95
+Midland,Lincoln Township Precinct 1,U.S. House,8,REP,Matthew Seely,105
+Midland,Lincoln Township Precinct 1,U.S. House,8,REP,Paul Junge,326
+Midland,Lincoln Township Precinct 1,State Senate,35,DEM,Kristen McDonald Rivet,148
+Midland,Lincoln Township Precinct 1,State Senate,35,REP,Annette Glenn,333
+Midland,Lincoln Township Precinct 1,State Senate,35,REP,Christian Velasquez,118
+Midland,Lincoln Township Precinct 1,State Senate,35,REP,Martin Blank,51
+Midland,Lincoln Township Precinct 1,State Senate,35,REP,Tim Kelly,38
+Midland,Lincoln Township Precinct 1,State Senate,35,REP,Write-In,1
+Midland,Lincoln Township Precinct 1,State House,95,DEM,Larry Grell,35
+Midland,Lincoln Township Precinct 1,State House,95,DEM,Matthew Dawson,106
+Midland,Lincoln Township Precinct 1,State House,95,REP,Ann Manary,141
+Midland,Lincoln Township Precinct 1,State House,95,REP,Bill G. Schuette,396
+Midland,Lincoln Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,24
+Midland,Midland Township Precinct 1,Governor,,DEM,Gretchen Whitmer,123
+Midland,Midland Township Precinct 1,Governor,,REP,Garrett Soldano,93
+Midland,Midland Township Precinct 1,Governor,,REP,Kevin Rinke,99
+Midland,Midland Township Precinct 1,Governor,,REP,Ralph Rebandt,17
+Midland,Midland Township Precinct 1,Governor,,REP,Ryan D. Kelley,43
+Midland,Midland Township Precinct 1,Governor,,REP,Tudor M. Dixon,139
+Midland,Midland Township Precinct 1,Governor,,REP,Write-In,2
+Midland,Midland Township Precinct 1,U.S. House,8,DEM,Daniel T. Kildee,117
+Midland,Midland Township Precinct 1,U.S. House,8,REP,Candice Miller,98
+Midland,Midland Township Precinct 1,U.S. House,8,REP,Matthew Seely,61
+Midland,Midland Township Precinct 1,U.S. House,8,REP,Paul Junge,212
+Midland,Midland Township Precinct 1,U.S. House,8,REP,Write-In,2
+Midland,Midland Township Precinct 1,State Senate,35,DEM,Kristen McDonald Rivet,115
+Midland,Midland Township Precinct 1,State Senate,35,REP,Annette Glenn,213
+Midland,Midland Township Precinct 1,State Senate,35,REP,Christian Velasquez,94
+Midland,Midland Township Precinct 1,State Senate,35,REP,Martin Blank,46
+Midland,Midland Township Precinct 1,State Senate,35,REP,Tim Kelly,41
+Midland,Midland Township Precinct 1,State Senate,35,REP,Write-In,2
+Midland,Midland Township Precinct 1,State House,95,DEM,Larry Grell,43
+Midland,Midland Township Precinct 1,State House,95,DEM,Matthew Dawson,61
+Midland,Midland Township Precinct 1,State House,95,REP,Ann Manary,133
+Midland,Midland Township Precinct 1,State House,95,REP,Bill G. Schuette,247
+Midland,Midland Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,33
+Midland,Midland Township Precinct 1,State House,95,REP,Write-In,3
+Midland,Mills Township Precinct 1,Governor,,DEM,Gretchen Whitmer,88
+Midland,Mills Township Precinct 1,Governor,,REP,Garrett Soldano,65
+Midland,Mills Township Precinct 1,Governor,,REP,Kevin Rinke,98
+Midland,Mills Township Precinct 1,Governor,,REP,Ralph Rebandt,7
+Midland,Mills Township Precinct 1,Governor,,REP,Ryan D. Kelley,66
+Midland,Mills Township Precinct 1,Governor,,REP,Tudor M. Dixon,107
+Midland,Mills Township Precinct 1,U.S. House,8,DEM,Daniel T. Kildee,85
+Midland,Mills Township Precinct 1,U.S. House,8,DEM,Write-In,1
+Midland,Mills Township Precinct 1,U.S. House,8,REP,Candice Miller,66
+Midland,Mills Township Precinct 1,U.S. House,8,REP,Matthew Seely,75
+Midland,Mills Township Precinct 1,U.S. House,8,REP,Paul Junge,187
+Midland,Mills Township Precinct 1,State Senate,34,DEM,Christine Gerace,82
+Midland,Mills Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,59
+Midland,Mills Township Precinct 1,State Senate,34,REP,Roger Hauck,272
+Midland,Mills Township Precinct 1,State Senate,34,REP,Write-In,1
+Midland,Mills Township Precinct 1,State House,95,DEM,Larry Grell,16
+Midland,Mills Township Precinct 1,State House,95,DEM,Matthew Dawson,60
+Midland,Mills Township Precinct 1,State House,95,DEM,Write-In,1
+Midland,Mills Township Precinct 1,State House,95,REP,Ann Manary,71
+Midland,Mills Township Precinct 1,State House,95,REP,Bill G. Schuette,250
+Midland,Mills Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,31
+Midland,Mt. Haley Township Precinct 1,Governor,,DEM,Gretchen Whitmer,102
+Midland,Mt. Haley Township Precinct 1,Governor,,REP,Garrett Soldano,99
+Midland,Mt. Haley Township Precinct 1,Governor,,REP,Kevin Rinke,51
+Midland,Mt. Haley Township Precinct 1,Governor,,REP,Ralph Rebandt,18
+Midland,Mt. Haley Township Precinct 1,Governor,,REP,Ryan D. Kelley,36
+Midland,Mt. Haley Township Precinct 1,Governor,,REP,Tudor M. Dixon,77
+Midland,Mt. Haley Township Precinct 1,U.S. House,8,DEM,Daniel T. Kildee,99
+Midland,Mt. Haley Township Precinct 1,U.S. House,8,REP,Candice Miller,61
+Midland,Mt. Haley Township Precinct 1,U.S. House,8,REP,Matthew Seely,63
+Midland,Mt. Haley Township Precinct 1,U.S. House,8,REP,Paul Junge,151
+Midland,Mt. Haley Township Precinct 1,U.S. House,8,REP,Write-In,1
+Midland,Mt. Haley Township Precinct 1,State Senate,35,DEM,Kristen McDonald Rivet,96
+Midland,Mt. Haley Township Precinct 1,State Senate,35,REP,Annette Glenn,138
+Midland,Mt. Haley Township Precinct 1,State Senate,35,REP,Christian Velasquez,61
+Midland,Mt. Haley Township Precinct 1,State Senate,35,REP,Martin Blank,37
+Midland,Mt. Haley Township Precinct 1,State Senate,35,REP,Tim Kelly,54
+Midland,Mt. Haley Township Precinct 1,State House,95,DEM,Larry Grell,38
+Midland,Mt. Haley Township Precinct 1,State House,95,DEM,Matthew Dawson,53
+Midland,Mt. Haley Township Precinct 1,State House,95,DEM,Write-In,1
+Midland,Mt. Haley Township Precinct 1,State House,95,REP,Ann Manary,77
+Midland,Mt. Haley Township Precinct 1,State House,95,REP,Bill G. Schuette,193
+Midland,Mt. Haley Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,23
+Midland,Porter Township Precinct 1,Governor,,DEM,Gretchen Whitmer,59
+Midland,Porter Township Precinct 1,Governor,,REP,Garrett Soldano,44
+Midland,Porter Township Precinct 1,Governor,,REP,Kevin Rinke,31
+Midland,Porter Township Precinct 1,Governor,,REP,Ralph Rebandt,10
+Midland,Porter Township Precinct 1,Governor,,REP,Ryan D. Kelley,46
+Midland,Porter Township Precinct 1,Governor,,REP,Tudor M. Dixon,65
+Midland,Porter Township Precinct 1,Governor,,REP,Write-In,1
+Midland,Porter Township Precinct 1,U.S. House,8,DEM,Daniel T. Kildee,58
+Midland,Porter Township Precinct 1,U.S. House,8,REP,Candice Miller,39
+Midland,Porter Township Precinct 1,U.S. House,8,REP,Matthew Seely,44
+Midland,Porter Township Precinct 1,U.S. House,8,REP,Paul Junge,105
+Midland,Porter Township Precinct 1,U.S. House,8,REP,Write-In,1
+Midland,Porter Township Precinct 1,State Senate,34,DEM,Christine Gerace,57
+Midland,Porter Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,44
+Midland,Porter Township Precinct 1,State Senate,34,REP,Roger Hauck,143
+Midland,Porter Township Precinct 1,State Senate,34,REP,Write-In,1
+Midland,Porter Township Precinct 1,State House,95,DEM,Larry Grell,11
+Midland,Porter Township Precinct 1,State House,95,DEM,Matthew Dawson,41
+Midland,Porter Township Precinct 1,State House,95,REP,Ann Manary,41
+Midland,Porter Township Precinct 1,State House,95,REP,Bill G. Schuette,123
+Midland,Porter Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,29
+Midland,Warren Township Precinct 1,Governor,,DEM,Gretchen Whitmer,91
+Midland,Warren Township Precinct 1,Governor,,DEM,Write-In,1
+Midland,Warren Township Precinct 1,Governor,,REP,Garrett Soldano,91
+Midland,Warren Township Precinct 1,Governor,,REP,Kevin Rinke,92
+Midland,Warren Township Precinct 1,Governor,,REP,Ralph Rebandt,22
+Midland,Warren Township Precinct 1,Governor,,REP,Ryan D. Kelley,73
+Midland,Warren Township Precinct 1,Governor,,REP,Tudor M. Dixon,107
+Midland,Warren Township Precinct 1,Governor,,REP,Write-In,3
+Midland,Warren Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,80
+Midland,Warren Township Precinct 1,U.S. House,2,DEM,Write-In,1
+Midland,Warren Township Precinct 1,U.S. House,2,REP,John Moolenaar,286
+Midland,Warren Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,102
+Midland,Warren Township Precinct 1,U.S. House,2,REP,Write-In,1
+Midland,Warren Township Precinct 1,State Senate,34,DEM,Christine Gerace,79
+Midland,Warren Township Precinct 1,State Senate,34,DEM,Write-In,2
+Midland,Warren Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,66
+Midland,Warren Township Precinct 1,State Senate,34,REP,Roger Hauck,310
+Midland,Warren Township Precinct 1,State Senate,34,REP,Write-In,2
+Midland,Warren Township Precinct 1,State House,95,DEM,Larry Grell,33
+Midland,Warren Township Precinct 1,State House,95,DEM,Matthew Dawson,42
+Midland,Warren Township Precinct 1,State House,95,REP,Ann Manary,80
+Midland,Warren Township Precinct 1,State House,95,REP,Bill G. Schuette,296
+Midland,Warren Township Precinct 1,State House,95,REP,Charles A. McGinnis Jr.,18
+Midland,Warren Township Precinct 1,State House,95,REP,Write-In,2

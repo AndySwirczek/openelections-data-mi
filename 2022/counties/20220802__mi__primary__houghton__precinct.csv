@@ -1,0 +1,468 @@
+county,precinct,office,district,party,candidate,votes
+Houghton,"Adams Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,157
+Houghton,"Adams Township, Precinct 1",Governor,,REP,Garrett Soldano,79
+Houghton,"Adams Township, Precinct 1",Governor,,REP,Kevin Rinke,17
+Houghton,"Adams Township, Precinct 1",Governor,,REP,Ralph Rebandt,7
+Houghton,"Adams Township, Precinct 1",Governor,,REP,Ryan D. Kelley,38
+Houghton,"Adams Township, Precinct 1",Governor,,REP,Tudor M. Dixon,79
+Houghton,"Adams Township, Precinct 1",Governor,,REP,Write-In,2
+Houghton,"Adams Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,159
+Houghton,"Adams Township, Precinct 1",U.S. House,1,REP,Jack Bergman,212
+Houghton,"Adams Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Houghton,"Adams Township, Precinct 1",State Senate,38,DEM,John Braamse,157
+Houghton,"Adams Township, Precinct 1",State Senate,38,DEM,Write-In,1
+Houghton,"Adams Township, Precinct 1",State Senate,38,REP,Edward McBroom,137
+Houghton,"Adams Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,45
+Houghton,"Adams Township, Precinct 1",State Senate,38,REP,Matthew Furyk,39
+Houghton,"Adams Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,158
+Houghton,"Adams Township, Precinct 1",State House,110,REP,Gregory Markkanen,212
+Houghton,"Adams Township, Precinct 1",State House,110,REP,Write-In,2
+Houghton,"Calumet Charter Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,145
+Houghton,"Calumet Charter Township, Precinct 1",Governor,,DEM,Write-In,1
+Houghton,"Calumet Charter Township, Precinct 1",Governor,,REP,Garrett Soldano,54
+Houghton,"Calumet Charter Township, Precinct 1",Governor,,REP,James Elmer Craig,2
+Houghton,"Calumet Charter Township, Precinct 1",Governor,,REP,Kevin Rinke,28
+Houghton,"Calumet Charter Township, Precinct 1",Governor,,REP,Ralph Rebandt,7
+Houghton,"Calumet Charter Township, Precinct 1",Governor,,REP,Ryan D. Kelley,58
+Houghton,"Calumet Charter Township, Precinct 1",Governor,,REP,Tudor M. Dixon,76
+Houghton,"Calumet Charter Township, Precinct 1",Governor,,REP,Write-In,1
+Houghton,"Calumet Charter Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,145
+Houghton,"Calumet Charter Township, Precinct 1",U.S. House,1,REP,Jack Bergman,201
+Houghton,"Calumet Charter Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Houghton,"Calumet Charter Township, Precinct 1",State Senate,38,DEM,John Braamse,142
+Houghton,"Calumet Charter Township, Precinct 1",State Senate,38,REP,Edward McBroom,151
+Houghton,"Calumet Charter Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,31
+Houghton,"Calumet Charter Township, Precinct 1",State Senate,38,REP,Matthew Furyk,44
+Houghton,"Calumet Charter Township, Precinct 1",State Senate,38,REP,Write-In,1
+Houghton,"Calumet Charter Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,139
+Houghton,"Calumet Charter Township, Precinct 1",State House,110,REP,Gregory Markkanen,199
+Houghton,"Calumet Charter Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,61
+Houghton,"Calumet Charter Township, Precinct 2",Governor,,REP,Garrett Soldano,55
+Houghton,"Calumet Charter Township, Precinct 2",Governor,,REP,Kevin Rinke,21
+Houghton,"Calumet Charter Township, Precinct 2",Governor,,REP,Ralph Rebandt,3
+Houghton,"Calumet Charter Township, Precinct 2",Governor,,REP,Ryan D. Kelley,36
+Houghton,"Calumet Charter Township, Precinct 2",Governor,,REP,Tudor M. Dixon,52
+Houghton,"Calumet Charter Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,59
+Houghton,"Calumet Charter Township, Precinct 2",U.S. House,1,REP,Jack Bergman,147
+Houghton,"Calumet Charter Township, Precinct 2",U.S. House,1,REP,Write-In,2
+Houghton,"Calumet Charter Township, Precinct 2",State Senate,38,DEM,John Braamse,59
+Houghton,"Calumet Charter Township, Precinct 2",State Senate,38,REP,Edward McBroom,104
+Houghton,"Calumet Charter Township, Precinct 2",State Senate,38,REP,Kayla Wikstrom,21
+Houghton,"Calumet Charter Township, Precinct 2",State Senate,38,REP,Matthew Furyk,29
+Houghton,"Calumet Charter Township, Precinct 2",State Senate,38,REP,Write-In,1
+Houghton,"Calumet Charter Township, Precinct 2",State House,110,DEM,Casey VerBerkmoes,59
+Houghton,"Calumet Charter Township, Precinct 2",State House,110,REP,Gregory Markkanen,147
+Houghton,"Calumet Charter Township, Precinct 2",State House,110,REP,Write-In,2
+Houghton,"Calumet Charter Township, Precinct 5",Governor,,DEM,Gretchen Whitmer,46
+Houghton,"Calumet Charter Township, Precinct 5",Governor,,REP,Garrett Soldano,13
+Houghton,"Calumet Charter Township, Precinct 5",Governor,,REP,Kevin Rinke,5
+Houghton,"Calumet Charter Township, Precinct 5",Governor,,REP,Ralph Rebandt,1
+Houghton,"Calumet Charter Township, Precinct 5",Governor,,REP,Ryan D. Kelley,7
+Houghton,"Calumet Charter Township, Precinct 5",Governor,,REP,Tudor M. Dixon,18
+Houghton,"Calumet Charter Township, Precinct 5",U.S. House,1,DEM,Bob Lorinser,41
+Houghton,"Calumet Charter Township, Precinct 5",U.S. House,1,REP,Jack Bergman,39
+Houghton,"Calumet Charter Township, Precinct 5",U.S. House,1,REP,Write-In,1
+Houghton,"Calumet Charter Township, Precinct 5",State Senate,38,DEM,John Braamse,41
+Houghton,"Calumet Charter Township, Precinct 5",State Senate,38,REP,Edward McBroom,36
+Houghton,"Calumet Charter Township, Precinct 5",State Senate,38,REP,Kayla Wikstrom,3
+Houghton,"Calumet Charter Township, Precinct 5",State Senate,38,REP,Matthew Furyk,7
+Houghton,"Calumet Charter Township, Precinct 5",State House,110,DEM,Casey VerBerkmoes,43
+Houghton,"Calumet Charter Township, Precinct 5",State House,110,REP,Gregory Markkanen,39
+Houghton,"Calumet Charter Township, Precinct 5",State House,110,REP,Write-In,1
+Houghton,"Calumet Charter Township, Precinct 9",Governor,,DEM,Gretchen Whitmer,93
+Houghton,"Calumet Charter Township, Precinct 9",Governor,,REP,Garrett Soldano,51
+Houghton,"Calumet Charter Township, Precinct 9",Governor,,REP,James Elmer Craig,1
+Houghton,"Calumet Charter Township, Precinct 9",Governor,,REP,Kevin Rinke,23
+Houghton,"Calumet Charter Township, Precinct 9",Governor,,REP,Ralph Rebandt,7
+Houghton,"Calumet Charter Township, Precinct 9",Governor,,REP,Ryan D. Kelley,38
+Houghton,"Calumet Charter Township, Precinct 9",Governor,,REP,Tudor M. Dixon,72
+Houghton,"Calumet Charter Township, Precinct 9",U.S. House,1,DEM,Bob Lorinser,91
+Houghton,"Calumet Charter Township, Precinct 9",U.S. House,1,REP,Jack Bergman,180
+Houghton,"Calumet Charter Township, Precinct 9",State Senate,38,DEM,John Braamse,90
+Houghton,"Calumet Charter Township, Precinct 9",State Senate,38,DEM,Write-In,1
+Houghton,"Calumet Charter Township, Precinct 9",State Senate,38,REP,Edward McBroom,153
+Houghton,"Calumet Charter Township, Precinct 9",State Senate,38,REP,Kayla Wikstrom,21
+Houghton,"Calumet Charter Township, Precinct 9",State Senate,38,REP,Matthew Furyk,21
+Houghton,"Calumet Charter Township, Precinct 9",State House,110,DEM,Casey VerBerkmoes,90
+Houghton,"Calumet Charter Township, Precinct 9",State House,110,DEM,Write-In,2
+Houghton,"Calumet Charter Township, Precinct 9",State House,110,REP,Gregory Markkanen,181
+Houghton,"Chassell Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,98
+Houghton,"Chassell Township, Precinct 1",Governor,,REP,Garrett Soldano,76
+Houghton,"Chassell Township, Precinct 1",Governor,,REP,James Elmer Craig,3
+Houghton,"Chassell Township, Precinct 1",Governor,,REP,Kevin Rinke,40
+Houghton,"Chassell Township, Precinct 1",Governor,,REP,Ralph Rebandt,10
+Houghton,"Chassell Township, Precinct 1",Governor,,REP,Ryan D. Kelley,70
+Houghton,"Chassell Township, Precinct 1",Governor,,REP,Tudor M. Dixon,145
+Houghton,"Chassell Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,96
+Houghton,"Chassell Township, Precinct 1",U.S. House,1,REP,Jack Bergman,301
+Houghton,"Chassell Township, Precinct 1",U.S. House,1,REP,Write-In,3
+Houghton,"Chassell Township, Precinct 1",State Senate,38,DEM,John Braamse,95
+Houghton,"Chassell Township, Precinct 1",State Senate,38,REP,Edward McBroom,252
+Houghton,"Chassell Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,38
+Houghton,"Chassell Township, Precinct 1",State Senate,38,REP,Matthew Furyk,45
+Houghton,"Chassell Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,96
+Houghton,"Chassell Township, Precinct 1",State House,110,REP,Gregory Markkanen,306
+Houghton,"Chassell Township, Precinct 1",State House,110,REP,Write-In,4
+Houghton,"City of Hancock, Precinct 1",Governor,,DEM,Gretchen Whitmer,88
+Houghton,"City of Hancock, Precinct 1",Governor,,REP,Garrett Soldano,16
+Houghton,"City of Hancock, Precinct 1",Governor,,REP,James Elmer Craig,2
+Houghton,"City of Hancock, Precinct 1",Governor,,REP,Kevin Rinke,16
+Houghton,"City of Hancock, Precinct 1",Governor,,REP,Ralph Rebandt,3
+Houghton,"City of Hancock, Precinct 1",Governor,,REP,Ryan D. Kelley,20
+Houghton,"City of Hancock, Precinct 1",Governor,,REP,Tudor M. Dixon,37
+Houghton,"City of Hancock, Precinct 1",U.S. House,1,DEM,Bob Lorinser,87
+Houghton,"City of Hancock, Precinct 1",U.S. House,1,REP,Jack Bergman,79
+Houghton,"City of Hancock, Precinct 1",U.S. House,1,REP,Write-In,4
+Houghton,"City of Hancock, Precinct 1",State Senate,38,DEM,John Braamse,86
+Houghton,"City of Hancock, Precinct 1",State Senate,38,REP,Edward McBroom,73
+Houghton,"City of Hancock, Precinct 1",State Senate,38,REP,Kayla Wikstrom,10
+Houghton,"City of Hancock, Precinct 1",State Senate,38,REP,Matthew Furyk,12
+Houghton,"City of Hancock, Precinct 1",State House,110,DEM,Casey VerBerkmoes,86
+Houghton,"City of Hancock, Precinct 1",State House,110,REP,Gregory Markkanen,82
+Houghton,"City of Hancock, Precinct 1",State House,110,REP,Write-In,2
+Houghton,"City of Hancock, Precinct 2",Governor,,DEM,Gretchen Whitmer,101
+Houghton,"City of Hancock, Precinct 2",Governor,,REP,Garrett Soldano,32
+Houghton,"City of Hancock, Precinct 2",Governor,,REP,Kevin Rinke,24
+Houghton,"City of Hancock, Precinct 2",Governor,,REP,Ralph Rebandt,4
+Houghton,"City of Hancock, Precinct 2",Governor,,REP,Ryan D. Kelley,36
+Houghton,"City of Hancock, Precinct 2",Governor,,REP,Tudor M. Dixon,52
+Houghton,"City of Hancock, Precinct 2",U.S. House,1,DEM,Bob Lorinser,101
+Houghton,"City of Hancock, Precinct 2",U.S. House,1,REP,Jack Bergman,133
+Houghton,"City of Hancock, Precinct 2",U.S. House,1,REP,Write-In,2
+Houghton,"City of Hancock, Precinct 2",State Senate,38,DEM,John Braamse,101
+Houghton,"City of Hancock, Precinct 2",State Senate,38,REP,Edward McBroom,108
+Houghton,"City of Hancock, Precinct 2",State Senate,38,REP,Kayla Wikstrom,26
+Houghton,"City of Hancock, Precinct 2",State Senate,38,REP,Matthew Furyk,16
+Houghton,"City of Hancock, Precinct 2",State House,110,DEM,Casey VerBerkmoes,100
+Houghton,"City of Hancock, Precinct 2",State House,110,REP,Gregory Markkanen,133
+Houghton,"City of Hancock, Precinct 2",State House,110,REP,Write-In,1
+Houghton,"City of Hancock, Precinct 3",Governor,,DEM,Gretchen Whitmer,91
+Houghton,"City of Hancock, Precinct 3",Governor,,REP,Garrett Soldano,27
+Houghton,"City of Hancock, Precinct 3",Governor,,REP,James Elmer Craig,1
+Houghton,"City of Hancock, Precinct 3",Governor,,REP,Kevin Rinke,19
+Houghton,"City of Hancock, Precinct 3",Governor,,REP,Ralph Rebandt,8
+Houghton,"City of Hancock, Precinct 3",Governor,,REP,Ryan D. Kelley,14
+Houghton,"City of Hancock, Precinct 3",Governor,,REP,Tudor M. Dixon,64
+Houghton,"City of Hancock, Precinct 3",U.S. House,1,DEM,Bob Lorinser,91
+Houghton,"City of Hancock, Precinct 3",U.S. House,1,REP,Jack Bergman,120
+Houghton,"City of Hancock, Precinct 3",U.S. House,1,REP,Write-In,3
+Houghton,"City of Hancock, Precinct 3",State Senate,38,DEM,John Braamse,89
+Houghton,"City of Hancock, Precinct 3",State Senate,38,REP,Edward McBroom,106
+Houghton,"City of Hancock, Precinct 3",State Senate,38,REP,Kayla Wikstrom,19
+Houghton,"City of Hancock, Precinct 3",State Senate,38,REP,Matthew Furyk,7
+Houghton,"City of Hancock, Precinct 3",State House,110,DEM,Casey VerBerkmoes,89
+Houghton,"City of Hancock, Precinct 3",State House,110,REP,Gregory Markkanen,123
+Houghton,"City of Hancock, Precinct 3",State House,110,REP,Write-In,2
+Houghton,"City of Houghton, Precinct 1",Governor,,DEM,Gretchen Whitmer,66
+Houghton,"City of Houghton, Precinct 1",Governor,,REP,Garrett Soldano,13
+Houghton,"City of Houghton, Precinct 1",Governor,,REP,James Elmer Craig,1
+Houghton,"City of Houghton, Precinct 1",Governor,,REP,Kevin Rinke,17
+Houghton,"City of Houghton, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Houghton,"City of Houghton, Precinct 1",Governor,,REP,Ryan D. Kelley,13
+Houghton,"City of Houghton, Precinct 1",Governor,,REP,Tudor M. Dixon,32
+Houghton,"City of Houghton, Precinct 1",U.S. House,1,DEM,Bob Lorinser,66
+Houghton,"City of Houghton, Precinct 1",U.S. House,1,REP,Jack Bergman,70
+Houghton,"City of Houghton, Precinct 1",U.S. House,1,REP,Write-In,2
+Houghton,"City of Houghton, Precinct 1",State Senate,38,DEM,John Braamse,65
+Houghton,"City of Houghton, Precinct 1",State Senate,38,REP,Edward McBroom,62
+Houghton,"City of Houghton, Precinct 1",State Senate,38,REP,Kayla Wikstrom,9
+Houghton,"City of Houghton, Precinct 1",State Senate,38,REP,Matthew Furyk,7
+Houghton,"City of Houghton, Precinct 1",State House,110,DEM,Casey VerBerkmoes,65
+Houghton,"City of Houghton, Precinct 1",State House,110,REP,Gregory Markkanen,67
+Houghton,"City of Houghton, Precinct 1",State House,110,REP,Write-In,1
+Houghton,"City of Houghton, Precinct 2",Governor,,DEM,Gretchen Whitmer,281
+Houghton,"City of Houghton, Precinct 2",Governor,,DEM,Write-In,1
+Houghton,"City of Houghton, Precinct 2",Governor,,REP,Garrett Soldano,27
+Houghton,"City of Houghton, Precinct 2",Governor,,REP,James Elmer Craig,2
+Houghton,"City of Houghton, Precinct 2",Governor,,REP,Kevin Rinke,36
+Houghton,"City of Houghton, Precinct 2",Governor,,REP,Ralph Rebandt,7
+Houghton,"City of Houghton, Precinct 2",Governor,,REP,Ryan D. Kelley,33
+Houghton,"City of Houghton, Precinct 2",Governor,,REP,Tudor M. Dixon,72
+Houghton,"City of Houghton, Precinct 2",U.S. House,1,DEM,Bob Lorinser,280
+Houghton,"City of Houghton, Precinct 2",U.S. House,1,REP,Jack Bergman,160
+Houghton,"City of Houghton, Precinct 2",U.S. House,1,REP,Write-In,1
+Houghton,"City of Houghton, Precinct 2",State Senate,38,DEM,John Braamse,275
+Houghton,"City of Houghton, Precinct 2",State Senate,38,REP,Edward McBroom,159
+Houghton,"City of Houghton, Precinct 2",State Senate,38,REP,Kayla Wikstrom,15
+Houghton,"City of Houghton, Precinct 2",State Senate,38,REP,Matthew Furyk,18
+Houghton,"City of Houghton, Precinct 2",State House,110,DEM,Casey VerBerkmoes,276
+Houghton,"City of Houghton, Precinct 2",State House,110,REP,Gregory Markkanen,163
+Houghton,"City of Houghton, Precinct 2",State House,110,REP,Write-In,1
+Houghton,"Duncan Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,10
+Houghton,"Duncan Township, Precinct 1",Governor,,REP,Garrett Soldano,1
+Houghton,"Duncan Township, Precinct 1",Governor,,REP,Kevin Rinke,2
+Houghton,"Duncan Township, Precinct 1",Governor,,REP,Ryan D. Kelley,5
+Houghton,"Duncan Township, Precinct 1",Governor,,REP,Tudor M. Dixon,11
+Houghton,"Duncan Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,10
+Houghton,"Duncan Township, Precinct 1",U.S. House,1,REP,Jack Bergman,19
+Houghton,"Duncan Township, Precinct 1",State Senate,38,DEM,John Braamse,10
+Houghton,"Duncan Township, Precinct 1",State Senate,38,REP,Edward McBroom,14
+Houghton,"Duncan Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,3
+Houghton,"Duncan Township, Precinct 1",State Senate,38,REP,Matthew Furyk,2
+Houghton,"Duncan Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,10
+Houghton,"Duncan Township, Precinct 1",State House,110,REP,Gregory Markkanen,18
+Houghton,"Duncan Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,9
+Houghton,"Duncan Township, Precinct 2",Governor,,REP,Garrett Soldano,7
+Houghton,"Duncan Township, Precinct 2",Governor,,REP,Kevin Rinke,2
+Houghton,"Duncan Township, Precinct 2",Governor,,REP,Ryan D. Kelley,9
+Houghton,"Duncan Township, Precinct 2",Governor,,REP,Tudor M. Dixon,6
+Houghton,"Duncan Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,9
+Houghton,"Duncan Township, Precinct 2",U.S. House,1,REP,Jack Bergman,22
+Houghton,"Duncan Township, Precinct 2",State Senate,38,DEM,John Braamse,9
+Houghton,"Duncan Township, Precinct 2",State Senate,38,REP,Edward McBroom,20
+Houghton,"Duncan Township, Precinct 2",State Senate,38,REP,Matthew Furyk,3
+Houghton,"Duncan Township, Precinct 2",State House,110,DEM,Casey VerBerkmoes,9
+Houghton,"Duncan Township, Precinct 2",State House,110,REP,Gregory Markkanen,20
+Houghton,"Elm River Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,35
+Houghton,"Elm River Township, Precinct 1",Governor,,REP,Garrett Soldano,4
+Houghton,"Elm River Township, Precinct 1",Governor,,REP,Kevin Rinke,6
+Houghton,"Elm River Township, Precinct 1",Governor,,REP,Ralph Rebandt,2
+Houghton,"Elm River Township, Precinct 1",Governor,,REP,Ryan D. Kelley,6
+Houghton,"Elm River Township, Precinct 1",Governor,,REP,Tudor M. Dixon,18
+Houghton,"Elm River Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,33
+Houghton,"Elm River Township, Precinct 1",U.S. House,1,REP,Jack Bergman,34
+Houghton,"Elm River Township, Precinct 1",State Senate,38,DEM,John Braamse,33
+Houghton,"Elm River Township, Precinct 1",State Senate,38,REP,Edward McBroom,32
+Houghton,"Elm River Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,2
+Houghton,"Elm River Township, Precinct 1",State Senate,38,REP,Matthew Furyk,2
+Houghton,"Elm River Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,33
+Houghton,"Elm River Township, Precinct 1",State House,110,REP,Gregory Markkanen,34
+Houghton,"Franklin Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,50
+Houghton,"Franklin Township, Precinct 1",Governor,,REP,Garrett Soldano,49
+Houghton,"Franklin Township, Precinct 1",Governor,,REP,James Elmer Craig,1
+Houghton,"Franklin Township, Precinct 1",Governor,,REP,Kevin Rinke,14
+Houghton,"Franklin Township, Precinct 1",Governor,,REP,Ralph Rebandt,1
+Houghton,"Franklin Township, Precinct 1",Governor,,REP,Ryan D. Kelley,25
+Houghton,"Franklin Township, Precinct 1",Governor,,REP,Tudor M. Dixon,41
+Houghton,"Franklin Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,51
+Houghton,"Franklin Township, Precinct 1",U.S. House,1,REP,Jack Bergman,117
+Houghton,"Franklin Township, Precinct 1",State Senate,38,DEM,John Braamse,49
+Houghton,"Franklin Township, Precinct 1",State Senate,38,REP,Edward McBroom,88
+Houghton,"Franklin Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,24
+Houghton,"Franklin Township, Precinct 1",State Senate,38,REP,Matthew Furyk,16
+Houghton,"Franklin Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,47
+Houghton,"Franklin Township, Precinct 1",State House,110,REP,Gregory Markkanen,115
+Houghton,"Franklin Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,37
+Houghton,"Franklin Township, Precinct 2",Governor,,DEM,Write-In,1
+Houghton,"Franklin Township, Precinct 2",Governor,,REP,Garrett Soldano,10
+Houghton,"Franklin Township, Precinct 2",Governor,,REP,James Elmer Craig,1
+Houghton,"Franklin Township, Precinct 2",Governor,,REP,Kevin Rinke,2
+Houghton,"Franklin Township, Precinct 2",Governor,,REP,Ralph Rebandt,3
+Houghton,"Franklin Township, Precinct 2",Governor,,REP,Ryan D. Kelley,8
+Houghton,"Franklin Township, Precinct 2",Governor,,REP,Tudor M. Dixon,18
+Houghton,"Franklin Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,34
+Houghton,"Franklin Township, Precinct 2",U.S. House,1,DEM,Write-In,1
+Houghton,"Franklin Township, Precinct 2",U.S. House,1,REP,Jack Bergman,39
+Houghton,"Franklin Township, Precinct 2",State Senate,38,DEM,John Braamse,32
+Houghton,"Franklin Township, Precinct 2",State Senate,38,DEM,Write-In,1
+Houghton,"Franklin Township, Precinct 2",State Senate,38,REP,Edward McBroom,28
+Houghton,"Franklin Township, Precinct 2",State Senate,38,REP,Kayla Wikstrom,7
+Houghton,"Franklin Township, Precinct 2",State Senate,38,REP,Matthew Furyk,8
+Houghton,"Franklin Township, Precinct 2",State Senate,38,REP,Write-In,1
+Houghton,"Franklin Township, Precinct 2",State House,110,DEM,Casey VerBerkmoes,35
+Houghton,"Franklin Township, Precinct 2",State House,110,DEM,Write-In,1
+Houghton,"Franklin Township, Precinct 2",State House,110,REP,Gregory Markkanen,38
+Houghton,"Hancock Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,38
+Houghton,"Hancock Township, Precinct 1",Governor,,DEM,Write-In,1
+Houghton,"Hancock Township, Precinct 1",Governor,,REP,Garrett Soldano,26
+Houghton,"Hancock Township, Precinct 1",Governor,,REP,James Elmer Craig,3
+Houghton,"Hancock Township, Precinct 1",Governor,,REP,Kevin Rinke,14
+Houghton,"Hancock Township, Precinct 1",Governor,,REP,Ryan D. Kelley,13
+Houghton,"Hancock Township, Precinct 1",Governor,,REP,Tudor M. Dixon,28
+Houghton,"Hancock Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,38
+Houghton,"Hancock Township, Precinct 1",U.S. House,1,REP,Jack Bergman,72
+Houghton,"Hancock Township, Precinct 1",State Senate,38,DEM,John Braamse,38
+Houghton,"Hancock Township, Precinct 1",State Senate,38,REP,Edward McBroom,61
+Houghton,"Hancock Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,14
+Houghton,"Hancock Township, Precinct 1",State Senate,38,REP,Matthew Furyk,10
+Houghton,"Hancock Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,38
+Houghton,"Hancock Township, Precinct 1",State House,110,REP,Gregory Markkanen,75
+Houghton,"Laird Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,25
+Houghton,"Laird Township, Precinct 1",Governor,,REP,Garrett Soldano,21
+Houghton,"Laird Township, Precinct 1",Governor,,REP,Kevin Rinke,9
+Houghton,"Laird Township, Precinct 1",Governor,,REP,Ralph Rebandt,6
+Houghton,"Laird Township, Precinct 1",Governor,,REP,Ryan D. Kelley,14
+Houghton,"Laird Township, Precinct 1",Governor,,REP,Tudor M. Dixon,39
+Houghton,"Laird Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,24
+Houghton,"Laird Township, Precinct 1",U.S. House,1,REP,Jack Bergman,78
+Houghton,"Laird Township, Precinct 1",State Senate,38,DEM,John Braamse,22
+Houghton,"Laird Township, Precinct 1",State Senate,38,REP,Edward McBroom,63
+Houghton,"Laird Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,18
+Houghton,"Laird Township, Precinct 1",State Senate,38,REP,Matthew Furyk,9
+Houghton,"Laird Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,24
+Houghton,"Laird Township, Precinct 1",State House,110,REP,Gregory Markkanen,79
+Houghton,"Osceola Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,43
+Houghton,"Osceola Township, Precinct 1",Governor,,REP,Garrett Soldano,25
+Houghton,"Osceola Township, Precinct 1",Governor,,REP,Kevin Rinke,9
+Houghton,"Osceola Township, Precinct 1",Governor,,REP,Ralph Rebandt,1
+Houghton,"Osceola Township, Precinct 1",Governor,,REP,Ryan D. Kelley,16
+Houghton,"Osceola Township, Precinct 1",Governor,,REP,Tudor M. Dixon,24
+Houghton,"Osceola Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,43
+Houghton,"Osceola Township, Precinct 1",U.S. House,1,REP,Jack Bergman,67
+Houghton,"Osceola Township, Precinct 1",State Senate,38,DEM,John Braamse,43
+Houghton,"Osceola Township, Precinct 1",State Senate,38,REP,Edward McBroom,56
+Houghton,"Osceola Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,9
+Houghton,"Osceola Township, Precinct 1",State Senate,38,REP,Matthew Furyk,10
+Houghton,"Osceola Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,43
+Houghton,"Osceola Township, Precinct 1",State House,110,REP,Gregory Markkanen,64
+Houghton,"Osceola Township, Precinct 1",State House,110,REP,Write-In,1
+Houghton,"Osceola Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,50
+Houghton,"Osceola Township, Precinct 2",Governor,,REP,Garrett Soldano,29
+Houghton,"Osceola Township, Precinct 2",Governor,,REP,Kevin Rinke,15
+Houghton,"Osceola Township, Precinct 2",Governor,,REP,Ralph Rebandt,4
+Houghton,"Osceola Township, Precinct 2",Governor,,REP,Ryan D. Kelley,19
+Houghton,"Osceola Township, Precinct 2",Governor,,REP,Tudor M. Dixon,55
+Houghton,"Osceola Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,47
+Houghton,"Osceola Township, Precinct 2",U.S. House,1,REP,Jack Bergman,123
+Houghton,"Osceola Township, Precinct 2",U.S. House,1,REP,Write-In,1
+Houghton,"Osceola Township, Precinct 2",State Senate,38,DEM,John Braamse,45
+Houghton,"Osceola Township, Precinct 2",State Senate,38,REP,Edward McBroom,102
+Houghton,"Osceola Township, Precinct 2",State Senate,38,REP,Kayla Wikstrom,15
+Houghton,"Osceola Township, Precinct 2",State Senate,38,REP,Matthew Furyk,9
+Houghton,"Osceola Township, Precinct 2",State House,110,DEM,Casey VerBerkmoes,44
+Houghton,"Osceola Township, Precinct 2",State House,110,REP,Gregory Markkanen,119
+Houghton,"Osceola Township, Precinct 2",State House,110,REP,Write-In,1
+Houghton,"Osceola Township, Precinct 4",Governor,,DEM,Gretchen Whitmer,29
+Houghton,"Osceola Township, Precinct 4",Governor,,REP,Garrett Soldano,13
+Houghton,"Osceola Township, Precinct 4",Governor,,REP,Kevin Rinke,2
+Houghton,"Osceola Township, Precinct 4",Governor,,REP,Ralph Rebandt,1
+Houghton,"Osceola Township, Precinct 4",Governor,,REP,Ryan D. Kelley,20
+Houghton,"Osceola Township, Precinct 4",Governor,,REP,Tudor M. Dixon,19
+Houghton,"Osceola Township, Precinct 4",U.S. House,1,DEM,Bob Lorinser,27
+Houghton,"Osceola Township, Precinct 4",U.S. House,1,REP,Jack Bergman,46
+Houghton,"Osceola Township, Precinct 4",State Senate,38,DEM,John Braamse,27
+Houghton,"Osceola Township, Precinct 4",State Senate,38,REP,Edward McBroom,35
+Houghton,"Osceola Township, Precinct 4",State Senate,38,REP,Kayla Wikstrom,7
+Houghton,"Osceola Township, Precinct 4",State Senate,38,REP,Matthew Furyk,13
+Houghton,"Osceola Township, Precinct 4",State House,110,DEM,Casey VerBerkmoes,28
+Houghton,"Osceola Township, Precinct 4",State House,110,REP,Gregory Markkanen,47
+Houghton,"Portage Charter Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,152
+Houghton,"Portage Charter Township, Precinct 2",Governor,,REP,Garrett Soldano,34
+Houghton,"Portage Charter Township, Precinct 2",Governor,,REP,Kevin Rinke,41
+Houghton,"Portage Charter Township, Precinct 2",Governor,,REP,Ralph Rebandt,10
+Houghton,"Portage Charter Township, Precinct 2",Governor,,REP,Ryan D. Kelley,75
+Houghton,"Portage Charter Township, Precinct 2",Governor,,REP,Tudor M. Dixon,108
+Houghton,"Portage Charter Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,152
+Houghton,"Portage Charter Township, Precinct 2",U.S. House,1,REP,Jack Bergman,242
+Houghton,"Portage Charter Township, Precinct 2",U.S. House,1,REP,Write-In,6
+Houghton,"Portage Charter Township, Precinct 2",State Senate,38,DEM,John Braamse,150
+Houghton,"Portage Charter Township, Precinct 2",State Senate,38,REP,Edward McBroom,198
+Houghton,"Portage Charter Township, Precinct 2",State Senate,38,REP,Kayla Wikstrom,34
+Houghton,"Portage Charter Township, Precinct 2",State Senate,38,REP,Matthew Furyk,35
+Houghton,"Portage Charter Township, Precinct 2",State House,110,DEM,Casey VerBerkmoes,148
+Houghton,"Portage Charter Township, Precinct 2",State House,110,REP,Gregory Markkanen,238
+Houghton,"Portage Charter Township, Precinct 2",State House,110,REP,Write-In,5
+Houghton,"Portage Charter Township, Precinct 4",Governor,,DEM,Gretchen Whitmer,60
+Houghton,"Portage Charter Township, Precinct 4",Governor,,REP,Garrett Soldano,24
+Houghton,"Portage Charter Township, Precinct 4",Governor,,REP,Kevin Rinke,9
+Houghton,"Portage Charter Township, Precinct 4",Governor,,REP,Ralph Rebandt,3
+Houghton,"Portage Charter Township, Precinct 4",Governor,,REP,Ryan D. Kelley,27
+Houghton,"Portage Charter Township, Precinct 4",Governor,,REP,Tudor M. Dixon,28
+Houghton,"Portage Charter Township, Precinct 4",Governor,,REP,Write-In,2
+Houghton,"Portage Charter Township, Precinct 4",U.S. House,1,DEM,Bob Lorinser,60
+Houghton,"Portage Charter Township, Precinct 4",U.S. House,1,REP,Jack Bergman,82
+Houghton,"Portage Charter Township, Precinct 4",State Senate,38,DEM,John Braamse,60
+Houghton,"Portage Charter Township, Precinct 4",State Senate,38,REP,Edward McBroom,73
+Houghton,"Portage Charter Township, Precinct 4",State Senate,38,REP,Kayla Wikstrom,7
+Houghton,"Portage Charter Township, Precinct 4",State Senate,38,REP,Matthew Furyk,10
+Houghton,"Portage Charter Township, Precinct 4",State House,110,DEM,Casey VerBerkmoes,60
+Houghton,"Portage Charter Township, Precinct 4",State House,110,REP,Gregory Markkanen,82
+Houghton,"Quincy Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,6
+Houghton,"Quincy Township, Precinct 1",Governor,,REP,Garrett Soldano,11
+Houghton,"Quincy Township, Precinct 1",Governor,,REP,Kevin Rinke,4
+Houghton,"Quincy Township, Precinct 1",Governor,,REP,Ralph Rebandt,2
+Houghton,"Quincy Township, Precinct 1",Governor,,REP,Tudor M. Dixon,12
+Houghton,"Quincy Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,6
+Houghton,"Quincy Township, Precinct 1",U.S. House,1,REP,Jack Bergman,27
+Houghton,"Quincy Township, Precinct 1",State Senate,38,DEM,John Braamse,6
+Houghton,"Quincy Township, Precinct 1",State Senate,38,REP,Edward McBroom,21
+Houghton,"Quincy Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,4
+Houghton,"Quincy Township, Precinct 1",State Senate,38,REP,Matthew Furyk,2
+Houghton,"Quincy Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,6
+Houghton,"Quincy Township, Precinct 1",State House,110,REP,Gregory Markkanen,27
+Houghton,"Schoolcraft Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,129
+Houghton,"Schoolcraft Township, Precinct 1",Governor,,REP,Garrett Soldano,95
+Houghton,"Schoolcraft Township, Precinct 1",Governor,,REP,James Elmer Craig,2
+Houghton,"Schoolcraft Township, Precinct 1",Governor,,REP,Kevin Rinke,40
+Houghton,"Schoolcraft Township, Precinct 1",Governor,,REP,Ralph Rebandt,15
+Houghton,"Schoolcraft Township, Precinct 1",Governor,,REP,Ryan D. Kelley,42
+Houghton,"Schoolcraft Township, Precinct 1",Governor,,REP,Tudor M. Dixon,106
+Houghton,"Schoolcraft Township, Precinct 1",Governor,,REP,Write-In,2
+Houghton,"Schoolcraft Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,128
+Houghton,"Schoolcraft Township, Precinct 1",U.S. House,1,REP,Jack Bergman,273
+Houghton,"Schoolcraft Township, Precinct 1",U.S. House,1,REP,Write-In,3
+Houghton,"Schoolcraft Township, Precinct 1",State Senate,38,DEM,John Braamse,125
+Houghton,"Schoolcraft Township, Precinct 1",State Senate,38,DEM,Write-In,1
+Houghton,"Schoolcraft Township, Precinct 1",State Senate,38,REP,Edward McBroom,233
+Houghton,"Schoolcraft Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,43
+Houghton,"Schoolcraft Township, Precinct 1",State Senate,38,REP,Matthew Furyk,33
+Houghton,"Schoolcraft Township, Precinct 1",State Senate,38,REP,Write-In,2
+Houghton,"Schoolcraft Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,129
+Houghton,"Schoolcraft Township, Precinct 1",State House,110,REP,Gregory Markkanen,282
+Houghton,"Schoolcraft Township, Precinct 1",State House,110,REP,Write-In,4
+Houghton,"Stanton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,114
+Houghton,"Stanton Township, Precinct 1",Governor,,REP,Garrett Soldano,83
+Houghton,"Stanton Township, Precinct 1",Governor,,REP,James Elmer Craig,1
+Houghton,"Stanton Township, Precinct 1",Governor,,REP,Kevin Rinke,49
+Houghton,"Stanton Township, Precinct 1",Governor,,REP,Ralph Rebandt,11
+Houghton,"Stanton Township, Precinct 1",Governor,,REP,Ryan D. Kelley,82
+Houghton,"Stanton Township, Precinct 1",Governor,,REP,Tudor M. Dixon,122
+Houghton,"Stanton Township, Precinct 1",Governor,,REP,Write-In,2
+Houghton,"Stanton Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,111
+Houghton,"Stanton Township, Precinct 1",U.S. House,1,REP,Jack Bergman,314
+Houghton,"Stanton Township, Precinct 1",U.S. House,1,REP,Write-In,3
+Houghton,"Stanton Township, Precinct 1",State Senate,38,DEM,John Braamse,111
+Houghton,"Stanton Township, Precinct 1",State Senate,38,REP,Edward McBroom,266
+Houghton,"Stanton Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,43
+Houghton,"Stanton Township, Precinct 1",State Senate,38,REP,Matthew Furyk,47
+Houghton,"Stanton Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,111
+Houghton,"Stanton Township, Precinct 1",State House,110,REP,Gregory Markkanen,312
+Houghton,"Stanton Township, Precinct 1",State House,110,REP,Write-In,2
+Houghton,"Stanton Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,31
+Houghton,"Stanton Township, Precinct 2",Governor,,REP,Garrett Soldano,8
+Houghton,"Stanton Township, Precinct 2",Governor,,REP,Kevin Rinke,6
+Houghton,"Stanton Township, Precinct 2",Governor,,REP,Ralph Rebandt,2
+Houghton,"Stanton Township, Precinct 2",Governor,,REP,Ryan D. Kelley,8
+Houghton,"Stanton Township, Precinct 2",Governor,,REP,Tudor M. Dixon,8
+Houghton,"Stanton Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,28
+Houghton,"Stanton Township, Precinct 2",U.S. House,1,REP,Jack Bergman,21
+Houghton,"Stanton Township, Precinct 2",State Senate,38,DEM,John Braamse,28
+Houghton,"Stanton Township, Precinct 2",State Senate,38,REP,Edward McBroom,26
+Houghton,"Stanton Township, Precinct 2",State Senate,38,REP,Kayla Wikstrom,2
+Houghton,"Stanton Township, Precinct 2",State Senate,38,REP,Matthew Furyk,6
+Houghton,"Stanton Township, Precinct 2",State House,110,DEM,Casey VerBerkmoes,28
+Houghton,"Stanton Township, Precinct 2",State House,110,REP,Gregory Markkanen,23
+Houghton,"Torch Lake Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,81
+Houghton,"Torch Lake Township, Precinct 1",Governor,,REP,Garrett Soldano,43
+Houghton,"Torch Lake Township, Precinct 1",Governor,,REP,James Elmer Craig,3
+Houghton,"Torch Lake Township, Precinct 1",Governor,,REP,Kevin Rinke,21
+Houghton,"Torch Lake Township, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Houghton,"Torch Lake Township, Precinct 1",Governor,,REP,Ryan D. Kelley,30
+Houghton,"Torch Lake Township, Precinct 1",Governor,,REP,Tudor M. Dixon,68
+Houghton,"Torch Lake Township, Precinct 1",Governor,,REP,Write-In,1
+Houghton,"Torch Lake Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,80
+Houghton,"Torch Lake Township, Precinct 1",U.S. House,1,REP,Jack Bergman,164
+Houghton,"Torch Lake Township, Precinct 1",U.S. House,1,REP,Write-In,2
+Houghton,"Torch Lake Township, Precinct 1",State Senate,38,DEM,John Braamse,80
+Houghton,"Torch Lake Township, Precinct 1",State Senate,38,REP,Edward McBroom,138
+Houghton,"Torch Lake Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,20
+Houghton,"Torch Lake Township, Precinct 1",State Senate,38,REP,Matthew Furyk,15
+Houghton,"Torch Lake Township, Precinct 1",State Senate,38,REP,Write-In,1
+Houghton,"Torch Lake Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,80
+Houghton,"Torch Lake Township, Precinct 1",State House,110,REP,Gregory Markkanen,165
+Houghton,"Torch Lake Township, Precinct 1",State House,110,REP,Write-In,1
+Houghton,"Torch Lake Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,72
+Houghton,"Torch Lake Township, Precinct 2",Governor,,REP,Garrett Soldano,74
+Houghton,"Torch Lake Township, Precinct 2",Governor,,REP,Kevin Rinke,38
+Houghton,"Torch Lake Township, Precinct 2",Governor,,REP,Ralph Rebandt,6
+Houghton,"Torch Lake Township, Precinct 2",Governor,,REP,Ryan D. Kelley,22
+Houghton,"Torch Lake Township, Precinct 2",Governor,,REP,Tudor M. Dixon,66
+Houghton,"Torch Lake Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,70
+Houghton,"Torch Lake Township, Precinct 2",U.S. House,1,REP,Jack Bergman,197
+Houghton,"Torch Lake Township, Precinct 2",State Senate,38,DEM,John Braamse,68
+Houghton,"Torch Lake Township, Precinct 2",State Senate,38,REP,Edward McBroom,176
+Houghton,"Torch Lake Township, Precinct 2",State Senate,38,REP,Kayla Wikstrom,19
+Houghton,"Torch Lake Township, Precinct 2",State Senate,38,REP,Matthew Furyk,13
+Houghton,"Torch Lake Township, Precinct 2",State House,110,DEM,Casey VerBerkmoes,69
+Houghton,"Torch Lake Township, Precinct 2",State House,110,REP,Gregory Markkanen,198
+Houghton,"Torch Lake Township, Precinct 2",State House,110,REP,Write-In,1

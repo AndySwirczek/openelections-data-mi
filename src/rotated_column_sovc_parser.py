@@ -38,7 +38,7 @@ import pdfplumber
 
 NUM = re.compile(r'^\d[\d,]*$|^[\d.]+%$')
 TITLE_PARTY = re.compile(r'^(.*) - (Democratic|Republican|Nonpartisan)'
-                         r'(?: - Vote for not more than \d+)?$')
+                         r'(?: Party)?(?: - Vote for not more than \d+)?$')
 WRITE_IN = re.compile(r'^(Write-?in)\b', re.I)
 DISTRICT_PATTERNS = [
     (re.compile(r'^Representative in Congress (\d+)(?:st|nd|rd|th) District$'),
@@ -53,9 +53,10 @@ PARTY_CODES = {'Democratic': 'DEM', 'Republican': 'REP'}
 # the repo's convention is jurisdiction-first.
 JURISDICTION_LAST = re.compile(r'^(.+ Partial Term Ending [^,]+), (.+)$')
 AUX = ('Cast Votes', 'Undervotes', 'Overvotes', 'Invalid Votes',
-       'Unresolved write-in votes', 'Early Voting Ballots Cast',
-       'Absentee Voting Ballots Cast', 'Precinct Voting Ballots Cast',
-       'Total Ballots Cast', 'Registered Voters', 'Turnout Percentage')
+       'Rejected write-in votes', 'Unresolved write-in votes',
+       'Early Voting Ballots Cast', 'Absentee Voting Ballots Cast',
+       'Precinct Voting Ballots Cast', 'Total Ballots Cast',
+       'Registered Voters', 'Turnout Percentage')
 
 
 def header_cols(page):
@@ -73,11 +74,16 @@ def header_cols(page):
 
 def page_title(page_text):
     """Title = the line(s) between the 'Run Date ...' banner and the
-    'Precinct' column-header line."""
+    'Precinct' column-header line. The 2022 report prints the title on the
+    line right after 'Run Date' with the 'Precinct' header line above the
+    banner, so a title also stands alone there."""
     lines = [l.strip() for l in page_text.splitlines()]
     run_date = next((i for i, l in enumerate(lines) if l.startswith('Run Date')), None)
     if run_date is None:
         return None
+    nxt = lines[run_date + 1] if run_date + 1 < len(lines) else ''
+    if nxt and nxt != 'Precinct':
+        return nxt
     for i in range(run_date + 1, len(lines)):
         if lines[i] == 'Precinct':
             return ' '.join(lines[run_date + 1:i])
@@ -90,6 +96,7 @@ class Contest:
         self.rows = {}   # precinct label -> [cell per column]
         self.totals = None
         self.pages = 0
+        self.cand_names = []
 
     def finish(self, county, out_rows, problems):
         m = TITLE_PARTY.match(self.title)
@@ -133,6 +140,13 @@ def map_office(title):
     m = JURISDICTION_LAST.match(title)
     if m:
         title = f'{m.group(2)} {m.group(1)}'
+    else:
+        # 2024 titles print township offices jurisdiction-last with a comma
+        # ('Clerk, Brighton Charter Township'); the repo's convention is
+        # jurisdiction-first ('Brighton Charter Township Clerk').
+        m = re.match(r'^(Clerk|Treasurer|Supervisor|Trustee), (.+)$', title)
+        if m:
+            title = f'{m.group(2)} {m.group(1)}'
     return OFFICE_EXACT.get(title, title), '', ''
 
 
@@ -156,14 +170,26 @@ def main():
             if not cols or not title:
                 problems.append(f'page with no column headers or title')
                 continue
+            header_texts = [t for _, t in cols]
+            # A contest with more candidates than fit beside the aux columns
+            # continues onto a second page that carries only 'Total Ballots
+            # Cast' / 'Registered Voters' / 'Turnout Percentage' (Genoa and
+            # Marion township Trustee races); its rows extend the first
+            # page's. Such a page has no candidate columns and no
+            # 'Cast Votes' (which empty contests do print).
+            continuation = ('Cast Votes' not in header_texts
+                            and all(t in AUX for t in header_texts))
             if contest is None or contest.title != title:
                 contest = Contest(title)
             contest.pages += 1
-            contest.cand_names = [
-                re.sub(r' \(W\)$', '', t).strip() for x, t in cols
-                if t not in AUX]
+            if not continuation:
+                contest.cand_names = [
+                    re.sub(r' \(W\)$', '', t).strip() for x, t in cols
+                    if t not in AUX]
             words = page.extract_words()
-            max_x = cols[-1][0] + 12
+            # +20 (not +12): a wide contest's last Precinct Voting cell can
+            # sit 12.2pt right of its header band (Genoa Precinct 8's '62').
+            max_x = cols[-1][0] + 20
             # Label words live left of x=105 (measured max label x1 = 95.9,
             # 'Precinct'); data cells start at x0 >= 124.6. A fixed boundary is
             # required: on candidate-less (empty contest) pages the first data
@@ -183,8 +209,16 @@ def main():
                 else:
                     merged.append([t])
             label_words = [w for w in words if w['x1'] < 105]
+            # Data rows start below the 'Precinct' column header; the
+            # registration banner's '47293 of 167529 = 28.23%' row sits above
+            # it and matches a continuation page's 2-numbers-plus-% shape.
+            prec_top = min((w['top'] for w in words
+                            if w['text'] == 'Precinct' and w['x1'] < 105),
+                           default=0)
             col_x = [x for x, t in cols if t != 'Turnout Percentage']
             for group in merged:
+                if group[0] < prec_top:
+                    continue
                 # Page-header noise rows carry at most 2 numeric cells.
                 if len(bands[group[0]]) < 3:
                     continue
@@ -194,9 +228,13 @@ def main():
                 num_cells = sorted((w for w in cells
                                     if not w['text'].endswith('%')),
                                    key=lambda w: w['x0'])
-                if len(pct_cells) != 1:
+                # A wide contest's first page drops the Turnout Percentage
+                # column (and its header), so its rows print no % cell.
+                if len(pct_cells) != (0 if 'Turnout Percentage'
+                                      not in header_texts else 1):
                     problems.append(f'row at top={top:.0f} has {len(pct_cells)} '
-                                    f'percentage cells, expected 1')
+                                    f'percentage cells, expected '
+                                    f'{1 if "Turnout Percentage" in header_texts else 0}')
                     continue
                 # Cells right-align inside fixed column boxes, so x-order is
                 # column order. Empty contests print one extra unnamed column
@@ -212,13 +250,29 @@ def main():
                     (w for w in label_words if abs(w['top'] - top) <= 8),
                     key=lambda w: (w['top'], w['x0'])))
                 if label.startswith('Totals'):
-                    contest.totals = values
+                    if continuation and contest.totals is not None:
+                        contest.totals += values
+                    else:
+                        contest.totals = values
+                elif continuation:
+                    # The second page's three cells (Total Ballots Cast,
+                    # Registered Voters) extend the same precinct's first-page
+                    # row; its label must already be present.
+                    if label not in contest.rows:
+                        problems.append(f'continuation row {label!r} has no '
+                                        f'first-page row in {contest.title}')
+                    else:
+                        contest.rows[label] += values
                 else:
                     if label in contest.rows:
                         problems.append(f'duplicate precinct row {label!r} '
                                         f'in {contest.title}')
                     contest.rows[label] = values
-            if contest.totals is not None:
+            # A truncated (wide-contest) page's Totals row only starts the
+            # accumulated totals; the contest finishes on the continuation
+            # page that carries the full column set.
+            if (contest.totals is not None
+                    and 'Turnout Percentage' in header_texts):
                 contest.finish(args.county, out_rows, problems)
                 contest = None
     if contest is not None:

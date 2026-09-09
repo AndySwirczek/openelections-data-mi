@@ -1,0 +1,534 @@
+county,precinct,office,district,party,candidate,votes
+Emmet,"Bear Creek Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,409
+Emmet,"Bear Creek Township, Precinct 1",Governor,,DEM,Write-In,1
+Emmet,"Bear Creek Township, Precinct 1",Governor,,REP,Garrett Soldano,52
+Emmet,"Bear Creek Township, Precinct 1",Governor,,REP,James Elmer Craig,2
+Emmet,"Bear Creek Township, Precinct 1",Governor,,REP,Kevin Rinke,181
+Emmet,"Bear Creek Township, Precinct 1",Governor,,REP,Ralph Rebandt,17
+Emmet,"Bear Creek Township, Precinct 1",Governor,,REP,Ryan D. Kelley,52
+Emmet,"Bear Creek Township, Precinct 1",Governor,,REP,Tudor M. Dixon,188
+Emmet,"Bear Creek Township, Precinct 1",Governor,,REP,Write-In,2
+Emmet,"Bear Creek Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,396
+Emmet,"Bear Creek Township, Precinct 1",U.S. House,1,DEM,Write-In,1
+Emmet,"Bear Creek Township, Precinct 1",U.S. House,1,REP,Jack Bergman,439
+Emmet,"Bear Creek Township, Precinct 1",U.S. House,1,REP,Write-In,10
+Emmet,"Bear Creek Township, Precinct 1",State Senate,37,DEM,Barbara Conley,354
+Emmet,"Bear Creek Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,24
+Emmet,"Bear Creek Township, Precinct 1",State Senate,37,DEM,Randy Bishop,21
+Emmet,"Bear Creek Township, Precinct 1",State Senate,37,DEM,Write-In,2
+Emmet,"Bear Creek Township, Precinct 1",State Senate,37,REP,George Ranville,66
+Emmet,"Bear Creek Township, Precinct 1",State Senate,37,REP,John N. Damoose,324
+Emmet,"Bear Creek Township, Precinct 1",State Senate,37,REP,Triston Cole,87
+Emmet,"Bear Creek Township, Precinct 1",State Senate,37,REP,William Hindle,27
+Emmet,"Bear Creek Township, Precinct 1",State Senate,37,REP,Write-In,3
+Emmet,"Bear Creek Township, Precinct 1",State House,107,DEM,Jodi Decker,398
+Emmet,"Bear Creek Township, Precinct 1",State House,107,DEM,Write-In,1
+Emmet,"Bear Creek Township, Precinct 1",State House,107,REP,Bob Carr,20
+Emmet,"Bear Creek Township, Precinct 1",State House,107,REP,David James Laughbaum,16
+Emmet,"Bear Creek Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,84
+Emmet,"Bear Creek Township, Precinct 1",State House,107,REP,Neil W. Friske,154
+Emmet,"Bear Creek Township, Precinct 1",State House,107,REP,Parker Fairbairn,236
+Emmet,"Bear Creek Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,321
+Emmet,"Bear Creek Township, Precinct 2",Governor,,REP,Garrett Soldano,67
+Emmet,"Bear Creek Township, Precinct 2",Governor,,REP,James Elmer Craig,2
+Emmet,"Bear Creek Township, Precinct 2",Governor,,REP,Kevin Rinke,197
+Emmet,"Bear Creek Township, Precinct 2",Governor,,REP,Ralph Rebandt,35
+Emmet,"Bear Creek Township, Precinct 2",Governor,,REP,Ryan D. Kelley,84
+Emmet,"Bear Creek Township, Precinct 2",Governor,,REP,Tudor M. Dixon,310
+Emmet,"Bear Creek Township, Precinct 2",Governor,,REP,Write-In,4
+Emmet,"Bear Creek Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,310
+Emmet,"Bear Creek Township, Precinct 2",U.S. House,1,DEM,Write-In,1
+Emmet,"Bear Creek Township, Precinct 2",U.S. House,1,REP,Jack Bergman,641
+Emmet,"Bear Creek Township, Precinct 2",U.S. House,1,REP,Write-In,4
+Emmet,"Bear Creek Township, Precinct 2",State Senate,37,DEM,Barbara Conley,264
+Emmet,"Bear Creek Township, Precinct 2",State Senate,37,DEM,Jim Schmidt,30
+Emmet,"Bear Creek Township, Precinct 2",State Senate,37,DEM,Randy Bishop,17
+Emmet,"Bear Creek Township, Precinct 2",State Senate,37,REP,George Ranville,111
+Emmet,"Bear Creek Township, Precinct 2",State Senate,37,REP,John N. Damoose,396
+Emmet,"Bear Creek Township, Precinct 2",State Senate,37,REP,Triston Cole,139
+Emmet,"Bear Creek Township, Precinct 2",State Senate,37,REP,William Hindle,53
+Emmet,"Bear Creek Township, Precinct 2",State Senate,37,REP,Write-In,1
+Emmet,"Bear Creek Township, Precinct 2",State House,107,DEM,Jodi Decker,306
+Emmet,"Bear Creek Township, Precinct 2",State House,107,DEM,Write-In,2
+Emmet,"Bear Creek Township, Precinct 2",State House,107,REP,Bob Carr,27
+Emmet,"Bear Creek Township, Precinct 2",State House,107,REP,David James Laughbaum,25
+Emmet,"Bear Creek Township, Precinct 2",State House,107,REP,Jonathan D. Scheel,62
+Emmet,"Bear Creek Township, Precinct 2",State House,107,REP,Neil W. Friske,286
+Emmet,"Bear Creek Township, Precinct 2",State House,107,REP,Parker Fairbairn,308
+Emmet,"Bliss Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,64
+Emmet,"Bliss Township, Precinct 1",Governor,,REP,Garrett Soldano,25
+Emmet,"Bliss Township, Precinct 1",Governor,,REP,Kevin Rinke,36
+Emmet,"Bliss Township, Precinct 1",Governor,,REP,Ralph Rebandt,15
+Emmet,"Bliss Township, Precinct 1",Governor,,REP,Ryan D. Kelley,10
+Emmet,"Bliss Township, Precinct 1",Governor,,REP,Tudor M. Dixon,61
+Emmet,"Bliss Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,63
+Emmet,"Bliss Township, Precinct 1",U.S. House,1,REP,Jack Bergman,124
+Emmet,"Bliss Township, Precinct 1",U.S. House,1,REP,Write-In,3
+Emmet,"Bliss Township, Precinct 1",State Senate,37,DEM,Barbara Conley,44
+Emmet,"Bliss Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,12
+Emmet,"Bliss Township, Precinct 1",State Senate,37,DEM,Randy Bishop,3
+Emmet,"Bliss Township, Precinct 1",State Senate,37,REP,George Ranville,56
+Emmet,"Bliss Township, Precinct 1",State Senate,37,REP,John N. Damoose,64
+Emmet,"Bliss Township, Precinct 1",State Senate,37,REP,Triston Cole,22
+Emmet,"Bliss Township, Precinct 1",State Senate,37,REP,William Hindle,7
+Emmet,"Bliss Township, Precinct 1",State House,107,DEM,Jodi Decker,62
+Emmet,"Bliss Township, Precinct 1",State House,107,REP,Bob Carr,11
+Emmet,"Bliss Township, Precinct 1",State House,107,REP,David James Laughbaum,34
+Emmet,"Bliss Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,5
+Emmet,"Bliss Township, Precinct 1",State House,107,REP,Neil W. Friske,52
+Emmet,"Bliss Township, Precinct 1",State House,107,REP,Parker Fairbairn,45
+Emmet,"Carp Lake Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,73
+Emmet,"Carp Lake Township, Precinct 1",Governor,,REP,Garrett Soldano,21
+Emmet,"Carp Lake Township, Precinct 1",Governor,,REP,Kevin Rinke,48
+Emmet,"Carp Lake Township, Precinct 1",Governor,,REP,Ralph Rebandt,9
+Emmet,"Carp Lake Township, Precinct 1",Governor,,REP,Ryan D. Kelley,18
+Emmet,"Carp Lake Township, Precinct 1",Governor,,REP,Tudor M. Dixon,56
+Emmet,"Carp Lake Township, Precinct 1",Governor,,REP,Write-In,1
+Emmet,"Carp Lake Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,66
+Emmet,"Carp Lake Township, Precinct 1",U.S. House,1,REP,Jack Bergman,132
+Emmet,"Carp Lake Township, Precinct 1",State Senate,37,DEM,Barbara Conley,49
+Emmet,"Carp Lake Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,9
+Emmet,"Carp Lake Township, Precinct 1",State Senate,37,DEM,Randy Bishop,8
+Emmet,"Carp Lake Township, Precinct 1",State Senate,37,REP,George Ranville,59
+Emmet,"Carp Lake Township, Precinct 1",State Senate,37,REP,John N. Damoose,71
+Emmet,"Carp Lake Township, Precinct 1",State Senate,37,REP,Triston Cole,15
+Emmet,"Carp Lake Township, Precinct 1",State Senate,37,REP,William Hindle,7
+Emmet,"Carp Lake Township, Precinct 1",State Senate,37,REP,Write-In,1
+Emmet,"Carp Lake Township, Precinct 1",State House,107,DEM,Jodi Decker,68
+Emmet,"Carp Lake Township, Precinct 1",State House,107,REP,Bob Carr,6
+Emmet,"Carp Lake Township, Precinct 1",State House,107,REP,David James Laughbaum,31
+Emmet,"Carp Lake Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,9
+Emmet,"Carp Lake Township, Precinct 1",State House,107,REP,Neil W. Friske,63
+Emmet,"Carp Lake Township, Precinct 1",State House,107,REP,Parker Fairbairn,44
+Emmet,"Center Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,52
+Emmet,"Center Township, Precinct 1",Governor,,REP,Garrett Soldano,17
+Emmet,"Center Township, Precinct 1",Governor,,REP,Kevin Rinke,25
+Emmet,"Center Township, Precinct 1",Governor,,REP,Ralph Rebandt,5
+Emmet,"Center Township, Precinct 1",Governor,,REP,Ryan D. Kelley,13
+Emmet,"Center Township, Precinct 1",Governor,,REP,Tudor M. Dixon,38
+Emmet,"Center Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,50
+Emmet,"Center Township, Precinct 1",U.S. House,1,REP,Jack Bergman,91
+Emmet,"Center Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Emmet,"Center Township, Precinct 1",State Senate,37,DEM,Barbara Conley,48
+Emmet,"Center Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,3
+Emmet,"Center Township, Precinct 1",State Senate,37,REP,George Ranville,28
+Emmet,"Center Township, Precinct 1",State Senate,37,REP,John N. Damoose,53
+Emmet,"Center Township, Precinct 1",State Senate,37,REP,Triston Cole,8
+Emmet,"Center Township, Precinct 1",State Senate,37,REP,William Hindle,10
+Emmet,"Center Township, Precinct 1",State House,107,DEM,Jodi Decker,51
+Emmet,"Center Township, Precinct 1",State House,107,REP,Bob Carr,5
+Emmet,"Center Township, Precinct 1",State House,107,REP,David James Laughbaum,36
+Emmet,"Center Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,6
+Emmet,"Center Township, Precinct 1",State House,107,REP,Neil W. Friske,27
+Emmet,"Center Township, Precinct 1",State House,107,REP,Parker Fairbairn,27
+Emmet,"City of Harbor Springs, Precinct 1",Governor,,DEM,Gretchen Whitmer,249
+Emmet,"City of Harbor Springs, Precinct 1",Governor,,DEM,Write-In,1
+Emmet,"City of Harbor Springs, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,1
+Emmet,"City of Harbor Springs, Precinct 1",Governor,,REP,Garrett Soldano,29
+Emmet,"City of Harbor Springs, Precinct 1",Governor,,REP,James Elmer Craig,2
+Emmet,"City of Harbor Springs, Precinct 1",Governor,,REP,Kevin Rinke,91
+Emmet,"City of Harbor Springs, Precinct 1",Governor,,REP,Ralph Rebandt,13
+Emmet,"City of Harbor Springs, Precinct 1",Governor,,REP,Ryan D. Kelley,39
+Emmet,"City of Harbor Springs, Precinct 1",Governor,,REP,Tudor M. Dixon,134
+Emmet,"City of Harbor Springs, Precinct 1",Governor,,REP,Write-In,2
+Emmet,"City of Harbor Springs, Precinct 1",U.S. House,1,DEM,Bob Lorinser,239
+Emmet,"City of Harbor Springs, Precinct 1",U.S. House,1,DEM,Write-In,1
+Emmet,"City of Harbor Springs, Precinct 1",U.S. House,1,REP,Jack Bergman,291
+Emmet,"City of Harbor Springs, Precinct 1",U.S. House,1,REP,Write-In,5
+Emmet,"City of Harbor Springs, Precinct 1",State Senate,37,DEM,Barbara Conley,221
+Emmet,"City of Harbor Springs, Precinct 1",State Senate,37,DEM,Jim Schmidt,10
+Emmet,"City of Harbor Springs, Precinct 1",State Senate,37,DEM,Randy Bishop,12
+Emmet,"City of Harbor Springs, Precinct 1",State Senate,37,DEM,Write-In,1
+Emmet,"City of Harbor Springs, Precinct 1",State Senate,37,REP,George Ranville,31
+Emmet,"City of Harbor Springs, Precinct 1",State Senate,37,REP,John N. Damoose,227
+Emmet,"City of Harbor Springs, Precinct 1",State Senate,37,REP,Triston Cole,32
+Emmet,"City of Harbor Springs, Precinct 1",State Senate,37,REP,William Hindle,37
+Emmet,"City of Harbor Springs, Precinct 1",State House,107,DEM,Jodi Decker,241
+Emmet,"City of Harbor Springs, Precinct 1",State House,107,DEM,Write-In,1
+Emmet,"City of Harbor Springs, Precinct 1",State House,107,REP,Bob Carr,21
+Emmet,"City of Harbor Springs, Precinct 1",State House,107,REP,David James Laughbaum,12
+Emmet,"City of Harbor Springs, Precinct 1",State House,107,REP,Jonathan D. Scheel,17
+Emmet,"City of Harbor Springs, Precinct 1",State House,107,REP,Neil W. Friske,102
+Emmet,"City of Harbor Springs, Precinct 1",State House,107,REP,Parker Fairbairn,169
+Emmet,"City of Harbor Springs, Precinct 1",State House,107,REP,Write-In,1
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Governor,,DEM,Gretchen Whitmer,164
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Governor,,REP,Garrett Soldano,15
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Governor,,REP,James Elmer Craig,2
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Governor,,REP,Kevin Rinke,53
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Governor,,REP,Ryan D. Kelley,13
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Governor,,REP,Tudor M. Dixon,51
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Governor,,REP,Write-In,1
+Emmet,"City of Petoskey, Ward 1, Precinct 1",U.S. House,1,DEM,Bob Lorinser,162
+Emmet,"City of Petoskey, Ward 1, Precinct 1",U.S. House,1,REP,Jack Bergman,114
+Emmet,"City of Petoskey, Ward 1, Precinct 1",U.S. House,1,REP,Write-In,4
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State Senate,37,DEM,Barbara Conley,150
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State Senate,37,DEM,Jim Schmidt,7
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State Senate,37,DEM,Randy Bishop,5
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State Senate,37,REP,George Ranville,10
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State Senate,37,REP,John N. Damoose,86
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State Senate,37,REP,Triston Cole,33
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State Senate,37,REP,William Hindle,9
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State House,107,DEM,Jodi Decker,161
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State House,107,REP,Bob Carr,13
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State House,107,REP,David James Laughbaum,3
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State House,107,REP,Jonathan D. Scheel,13
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State House,107,REP,Neil W. Friske,48
+Emmet,"City of Petoskey, Ward 1, Precinct 1",State House,107,REP,Parker Fairbairn,62
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Governor,,DEM,Gretchen Whitmer,234
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Governor,,DEM,Write-In,1
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Governor,,REP,Garrett Soldano,27
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Governor,,REP,James Elmer Craig,4
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Governor,,REP,Kevin Rinke,53
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Governor,,REP,Ralph Rebandt,9
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Governor,,REP,Ryan D. Kelley,20
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Governor,,REP,Tudor M. Dixon,62
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Governor,,REP,Write-In,2
+Emmet,"City of Petoskey, Ward 2, Precinct 1",U.S. House,1,DEM,Bob Lorinser,232
+Emmet,"City of Petoskey, Ward 2, Precinct 1",U.S. House,1,REP,Jack Bergman,157
+Emmet,"City of Petoskey, Ward 2, Precinct 1",U.S. House,1,REP,Write-In,2
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State Senate,37,DEM,Barbara Conley,210
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State Senate,37,DEM,Jim Schmidt,11
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State Senate,37,DEM,Randy Bishop,6
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State Senate,37,REP,George Ranville,19
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State Senate,37,REP,John N. Damoose,123
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State Senate,37,REP,Triston Cole,33
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State Senate,37,REP,William Hindle,17
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State Senate,37,REP,Write-In,1
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State House,107,DEM,Jodi Decker,230
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State House,107,REP,Bob Carr,9
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State House,107,REP,David James Laughbaum,4
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State House,107,REP,Jonathan D. Scheel,37
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State House,107,REP,Neil W. Friske,76
+Emmet,"City of Petoskey, Ward 2, Precinct 1",State House,107,REP,Parker Fairbairn,66
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Governor,,DEM,Gretchen Whitmer,203
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Governor,,REP,Garrett Soldano,34
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Governor,,REP,James Elmer Craig,2
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Governor,,REP,Kevin Rinke,62
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Governor,,REP,Ralph Rebandt,5
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Governor,,REP,Ryan D. Kelley,22
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Governor,,REP,Tudor M. Dixon,127
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Governor,,REP,Write-In,2
+Emmet,"City of Petoskey, Ward 3, Precinct 1",U.S. House,1,DEM,Bob Lorinser,195
+Emmet,"City of Petoskey, Ward 3, Precinct 1",U.S. House,1,REP,Jack Bergman,231
+Emmet,"City of Petoskey, Ward 3, Precinct 1",U.S. House,1,REP,Write-In,2
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State Senate,37,DEM,Barbara Conley,174
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State Senate,37,DEM,Jim Schmidt,12
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State Senate,37,DEM,Randy Bishop,13
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State Senate,37,REP,George Ranville,32
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State Senate,37,REP,John N. Damoose,153
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State Senate,37,REP,Triston Cole,48
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State Senate,37,REP,William Hindle,26
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State House,107,DEM,Jodi Decker,195
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State House,107,REP,Bob Carr,16
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State House,107,REP,David James Laughbaum,6
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State House,107,REP,Jonathan D. Scheel,28
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State House,107,REP,Neil W. Friske,98
+Emmet,"City of Petoskey, Ward 3, Precinct 1",State House,107,REP,Parker Fairbairn,108
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Governor,,DEM,Gretchen Whitmer,158
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Governor,,REP,Garrett Soldano,20
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Governor,,REP,James Elmer Craig,1
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Governor,,REP,Kevin Rinke,44
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Governor,,REP,Ralph Rebandt,6
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Governor,,REP,Ryan D. Kelley,12
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Governor,,REP,Tudor M. Dixon,39
+Emmet,"City of Petoskey, Ward 4, Precinct 1",U.S. House,1,DEM,Bob Lorinser,156
+Emmet,"City of Petoskey, Ward 4, Precinct 1",U.S. House,1,REP,Jack Bergman,114
+Emmet,"City of Petoskey, Ward 4, Precinct 1",U.S. House,1,REP,Write-In,1
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State Senate,37,DEM,Barbara Conley,142
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State Senate,37,DEM,Jim Schmidt,8
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State Senate,37,DEM,Randy Bishop,8
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State Senate,37,REP,George Ranville,20
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State Senate,37,REP,John N. Damoose,73
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State Senate,37,REP,Triston Cole,20
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State Senate,37,REP,William Hindle,8
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State House,107,DEM,Jodi Decker,156
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State House,107,REP,Bob Carr,7
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State House,107,REP,David James Laughbaum,7
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State House,107,REP,Jonathan D. Scheel,12
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State House,107,REP,Neil W. Friske,48
+Emmet,"City of Petoskey, Ward 4, Precinct 1",State House,107,REP,Parker Fairbairn,49
+Emmet,"Cross Village Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,45
+Emmet,"Cross Village Township, Precinct 1",Governor,,REP,Garrett Soldano,10
+Emmet,"Cross Village Township, Precinct 1",Governor,,REP,Kevin Rinke,24
+Emmet,"Cross Village Township, Precinct 1",Governor,,REP,Ralph Rebandt,1
+Emmet,"Cross Village Township, Precinct 1",Governor,,REP,Ryan D. Kelley,3
+Emmet,"Cross Village Township, Precinct 1",Governor,,REP,Tudor M. Dixon,29
+Emmet,"Cross Village Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,40
+Emmet,"Cross Village Township, Precinct 1",U.S. House,1,REP,Jack Bergman,60
+Emmet,"Cross Village Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Emmet,"Cross Village Township, Precinct 1",State Senate,37,DEM,Barbara Conley,36
+Emmet,"Cross Village Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,4
+Emmet,"Cross Village Township, Precinct 1",State Senate,37,DEM,Randy Bishop,1
+Emmet,"Cross Village Township, Precinct 1",State Senate,37,REP,George Ranville,13
+Emmet,"Cross Village Township, Precinct 1",State Senate,37,REP,John N. Damoose,46
+Emmet,"Cross Village Township, Precinct 1",State Senate,37,REP,Triston Cole,6
+Emmet,"Cross Village Township, Precinct 1",State Senate,37,REP,William Hindle,3
+Emmet,"Cross Village Township, Precinct 1",State House,107,DEM,Jodi Decker,40
+Emmet,"Cross Village Township, Precinct 1",State House,107,REP,Bob Carr,4
+Emmet,"Cross Village Township, Precinct 1",State House,107,REP,David James Laughbaum,14
+Emmet,"Cross Village Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,4
+Emmet,"Cross Village Township, Precinct 1",State House,107,REP,Neil W. Friske,15
+Emmet,"Cross Village Township, Precinct 1",State House,107,REP,Parker Fairbairn,30
+Emmet,"Friendship Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,89
+Emmet,"Friendship Township, Precinct 1",Governor,,REP,Garrett Soldano,26
+Emmet,"Friendship Township, Precinct 1",Governor,,REP,James Elmer Craig,4
+Emmet,"Friendship Township, Precinct 1",Governor,,REP,Kevin Rinke,48
+Emmet,"Friendship Township, Precinct 1",Governor,,REP,Ralph Rebandt,7
+Emmet,"Friendship Township, Precinct 1",Governor,,REP,Ryan D. Kelley,25
+Emmet,"Friendship Township, Precinct 1",Governor,,REP,Tudor M. Dixon,81
+Emmet,"Friendship Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,83
+Emmet,"Friendship Township, Precinct 1",U.S. House,1,REP,Jack Bergman,172
+Emmet,"Friendship Township, Precinct 1",U.S. House,1,REP,Write-In,2
+Emmet,"Friendship Township, Precinct 1",State Senate,37,DEM,Barbara Conley,81
+Emmet,"Friendship Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,1
+Emmet,"Friendship Township, Precinct 1",State Senate,37,DEM,Randy Bishop,6
+Emmet,"Friendship Township, Precinct 1",State Senate,37,REP,George Ranville,23
+Emmet,"Friendship Township, Precinct 1",State Senate,37,REP,John N. Damoose,135
+Emmet,"Friendship Township, Precinct 1",State Senate,37,REP,Triston Cole,25
+Emmet,"Friendship Township, Precinct 1",State Senate,37,REP,William Hindle,12
+Emmet,"Friendship Township, Precinct 1",State House,107,DEM,Jodi Decker,82
+Emmet,"Friendship Township, Precinct 1",State House,107,REP,Bob Carr,7
+Emmet,"Friendship Township, Precinct 1",State House,107,REP,David James Laughbaum,16
+Emmet,"Friendship Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,14
+Emmet,"Friendship Township, Precinct 1",State House,107,REP,Neil W. Friske,37
+Emmet,"Friendship Township, Precinct 1",State House,107,REP,Parker Fairbairn,122
+Emmet,"Little Traverse Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,315
+Emmet,"Little Traverse Township, Precinct 1",Governor,,REP,Garrett Soldano,96
+Emmet,"Little Traverse Township, Precinct 1",Governor,,REP,Kevin Rinke,153
+Emmet,"Little Traverse Township, Precinct 1",Governor,,REP,Ralph Rebandt,18
+Emmet,"Little Traverse Township, Precinct 1",Governor,,REP,Ryan D. Kelley,40
+Emmet,"Little Traverse Township, Precinct 1",Governor,,REP,Tudor M. Dixon,213
+Emmet,"Little Traverse Township, Precinct 1",Governor,,REP,Write-In,3
+Emmet,"Little Traverse Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,295
+Emmet,"Little Traverse Township, Precinct 1",U.S. House,1,REP,Jack Bergman,504
+Emmet,"Little Traverse Township, Precinct 1",U.S. House,1,REP,Write-In,3
+Emmet,"Little Traverse Township, Precinct 1",State Senate,37,DEM,Barbara Conley,258
+Emmet,"Little Traverse Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,31
+Emmet,"Little Traverse Township, Precinct 1",State Senate,37,DEM,Randy Bishop,12
+Emmet,"Little Traverse Township, Precinct 1",State Senate,37,REP,George Ranville,52
+Emmet,"Little Traverse Township, Precinct 1",State Senate,37,REP,John N. Damoose,377
+Emmet,"Little Traverse Township, Precinct 1",State Senate,37,REP,Triston Cole,56
+Emmet,"Little Traverse Township, Precinct 1",State Senate,37,REP,William Hindle,44
+Emmet,"Little Traverse Township, Precinct 1",State Senate,37,REP,Write-In,1
+Emmet,"Little Traverse Township, Precinct 1",State House,107,DEM,Jodi Decker,291
+Emmet,"Little Traverse Township, Precinct 1",State House,107,REP,Bob Carr,29
+Emmet,"Little Traverse Township, Precinct 1",State House,107,REP,David James Laughbaum,20
+Emmet,"Little Traverse Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,36
+Emmet,"Little Traverse Township, Precinct 1",State House,107,REP,Neil W. Friske,145
+Emmet,"Little Traverse Township, Precinct 1",State House,107,REP,Parker Fairbairn,306
+Emmet,"Littlefield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,159
+Emmet,"Littlefield Township, Precinct 1",Governor,,REP,Garrett Soldano,73
+Emmet,"Littlefield Township, Precinct 1",Governor,,REP,James Elmer Craig,3
+Emmet,"Littlefield Township, Precinct 1",Governor,,REP,Kevin Rinke,98
+Emmet,"Littlefield Township, Precinct 1",Governor,,REP,Ralph Rebandt,9
+Emmet,"Littlefield Township, Precinct 1",Governor,,REP,Ryan D. Kelley,37
+Emmet,"Littlefield Township, Precinct 1",Governor,,REP,Tudor M. Dixon,194
+Emmet,"Littlefield Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,156
+Emmet,"Littlefield Township, Precinct 1",U.S. House,1,REP,Jack Bergman,377
+Emmet,"Littlefield Township, Precinct 1",State Senate,37,DEM,Barbara Conley,132
+Emmet,"Littlefield Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,14
+Emmet,"Littlefield Township, Precinct 1",State Senate,37,DEM,Randy Bishop,11
+Emmet,"Littlefield Township, Precinct 1",State Senate,37,REP,George Ranville,62
+Emmet,"Littlefield Township, Precinct 1",State Senate,37,REP,John N. Damoose,263
+Emmet,"Littlefield Township, Precinct 1",State Senate,37,REP,Triston Cole,50
+Emmet,"Littlefield Township, Precinct 1",State Senate,37,REP,William Hindle,32
+Emmet,"Littlefield Township, Precinct 1",State House,107,DEM,Jodi Decker,153
+Emmet,"Littlefield Township, Precinct 1",State House,107,REP,Bob Carr,20
+Emmet,"Littlefield Township, Precinct 1",State House,107,REP,David James Laughbaum,16
+Emmet,"Littlefield Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,19
+Emmet,"Littlefield Township, Precinct 1",State House,107,REP,Neil W. Friske,145
+Emmet,"Littlefield Township, Precinct 1",State House,107,REP,Parker Fairbairn,208
+Emmet,"Maple River Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,104
+Emmet,"Maple River Township, Precinct 1",Governor,,DEM,Write-In,2
+Emmet,"Maple River Township, Precinct 1",Governor,,REP,Garrett Soldano,48
+Emmet,"Maple River Township, Precinct 1",Governor,,REP,James Elmer Craig,2
+Emmet,"Maple River Township, Precinct 1",Governor,,REP,Kevin Rinke,65
+Emmet,"Maple River Township, Precinct 1",Governor,,REP,Ralph Rebandt,9
+Emmet,"Maple River Township, Precinct 1",Governor,,REP,Ryan D. Kelley,29
+Emmet,"Maple River Township, Precinct 1",Governor,,REP,Tudor M. Dixon,88
+Emmet,"Maple River Township, Precinct 1",Governor,,REP,Write-In,1
+Emmet,"Maple River Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,95
+Emmet,"Maple River Township, Precinct 1",U.S. House,1,REP,Jack Bergman,222
+Emmet,"Maple River Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Emmet,"Maple River Township, Precinct 1",State Senate,37,DEM,Barbara Conley,81
+Emmet,"Maple River Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,13
+Emmet,"Maple River Township, Precinct 1",State Senate,37,DEM,Randy Bishop,7
+Emmet,"Maple River Township, Precinct 1",State Senate,37,REP,George Ranville,42
+Emmet,"Maple River Township, Precinct 1",State Senate,37,REP,John N. Damoose,128
+Emmet,"Maple River Township, Precinct 1",State Senate,37,REP,Triston Cole,48
+Emmet,"Maple River Township, Precinct 1",State Senate,37,REP,William Hindle,25
+Emmet,"Maple River Township, Precinct 1",State House,107,DEM,Jodi Decker,99
+Emmet,"Maple River Township, Precinct 1",State House,107,REP,Bob Carr,13
+Emmet,"Maple River Township, Precinct 1",State House,107,REP,David James Laughbaum,23
+Emmet,"Maple River Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,22
+Emmet,"Maple River Township, Precinct 1",State House,107,REP,Neil W. Friske,100
+Emmet,"Maple River Township, Precinct 1",State House,107,REP,Parker Fairbairn,90
+Emmet,"McKinley Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,56
+Emmet,"McKinley Township, Precinct 1",Governor,,REP,Garrett Soldano,31
+Emmet,"McKinley Township, Precinct 1",Governor,,REP,James Elmer Craig,1
+Emmet,"McKinley Township, Precinct 1",Governor,,REP,Kevin Rinke,60
+Emmet,"McKinley Township, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Emmet,"McKinley Township, Precinct 1",Governor,,REP,Ryan D. Kelley,29
+Emmet,"McKinley Township, Precinct 1",Governor,,REP,Tudor M. Dixon,76
+Emmet,"McKinley Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,50
+Emmet,"McKinley Township, Precinct 1",U.S. House,1,REP,Jack Bergman,186
+Emmet,"McKinley Township, Precinct 1",U.S. House,1,REP,Write-In,2
+Emmet,"McKinley Township, Precinct 1",State Senate,37,DEM,Barbara Conley,40
+Emmet,"McKinley Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,7
+Emmet,"McKinley Township, Precinct 1",State Senate,37,DEM,Randy Bishop,3
+Emmet,"McKinley Township, Precinct 1",State Senate,37,DEM,Write-In,1
+Emmet,"McKinley Township, Precinct 1",State Senate,37,REP,George Ranville,57
+Emmet,"McKinley Township, Precinct 1",State Senate,37,REP,John N. Damoose,97
+Emmet,"McKinley Township, Precinct 1",State Senate,37,REP,Triston Cole,36
+Emmet,"McKinley Township, Precinct 1",State Senate,37,REP,William Hindle,15
+Emmet,"McKinley Township, Precinct 1",State House,107,DEM,Jodi Decker,52
+Emmet,"McKinley Township, Precinct 1",State House,107,DEM,Write-In,1
+Emmet,"McKinley Township, Precinct 1",State House,107,REP,Bob Carr,14
+Emmet,"McKinley Township, Precinct 1",State House,107,REP,David James Laughbaum,27
+Emmet,"McKinley Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,6
+Emmet,"McKinley Township, Precinct 1",State House,107,REP,Neil W. Friske,77
+Emmet,"McKinley Township, Precinct 1",State House,107,REP,Parker Fairbairn,80
+Emmet,"Pleasantview Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,91
+Emmet,"Pleasantview Township, Precinct 1",Governor,,REP,Garrett Soldano,38
+Emmet,"Pleasantview Township, Precinct 1",Governor,,REP,Kevin Rinke,54
+Emmet,"Pleasantview Township, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Emmet,"Pleasantview Township, Precinct 1",Governor,,REP,Ryan D. Kelley,12
+Emmet,"Pleasantview Township, Precinct 1",Governor,,REP,Tudor M. Dixon,109
+Emmet,"Pleasantview Township, Precinct 1",Governor,,REP,Write-In,1
+Emmet,"Pleasantview Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,87
+Emmet,"Pleasantview Township, Precinct 1",U.S. House,1,REP,Jack Bergman,193
+Emmet,"Pleasantview Township, Precinct 1",U.S. House,1,REP,Write-In,3
+Emmet,"Pleasantview Township, Precinct 1",State Senate,37,DEM,Barbara Conley,88
+Emmet,"Pleasantview Township, Precinct 1",State Senate,37,DEM,Randy Bishop,2
+Emmet,"Pleasantview Township, Precinct 1",State Senate,37,REP,George Ranville,20
+Emmet,"Pleasantview Township, Precinct 1",State Senate,37,REP,John N. Damoose,140
+Emmet,"Pleasantview Township, Precinct 1",State Senate,37,REP,Triston Cole,45
+Emmet,"Pleasantview Township, Precinct 1",State Senate,37,REP,William Hindle,12
+Emmet,"Pleasantview Township, Precinct 1",State House,107,DEM,Jodi Decker,88
+Emmet,"Pleasantview Township, Precinct 1",State House,107,REP,Bob Carr,13
+Emmet,"Pleasantview Township, Precinct 1",State House,107,REP,David James Laughbaum,5
+Emmet,"Pleasantview Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,16
+Emmet,"Pleasantview Township, Precinct 1",State House,107,REP,Neil W. Friske,82
+Emmet,"Pleasantview Township, Precinct 1",State House,107,REP,Parker Fairbairn,102
+Emmet,"Readmond Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,82
+Emmet,"Readmond Township, Precinct 1",Governor,,REP,Garrett Soldano,18
+Emmet,"Readmond Township, Precinct 1",Governor,,REP,James Elmer Craig,1
+Emmet,"Readmond Township, Precinct 1",Governor,,REP,Kevin Rinke,47
+Emmet,"Readmond Township, Precinct 1",Governor,,REP,Ralph Rebandt,8
+Emmet,"Readmond Township, Precinct 1",Governor,,REP,Ryan D. Kelley,17
+Emmet,"Readmond Township, Precinct 1",Governor,,REP,Tudor M. Dixon,60
+Emmet,"Readmond Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,80
+Emmet,"Readmond Township, Precinct 1",U.S. House,1,REP,Jack Bergman,131
+Emmet,"Readmond Township, Precinct 1",U.S. House,1,REP,Write-In,3
+Emmet,"Readmond Township, Precinct 1",State Senate,37,DEM,Barbara Conley,71
+Emmet,"Readmond Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,4
+Emmet,"Readmond Township, Precinct 1",State Senate,37,DEM,Randy Bishop,3
+Emmet,"Readmond Township, Precinct 1",State Senate,37,REP,George Ranville,34
+Emmet,"Readmond Township, Precinct 1",State Senate,37,REP,John N. Damoose,100
+Emmet,"Readmond Township, Precinct 1",State Senate,37,REP,Triston Cole,18
+Emmet,"Readmond Township, Precinct 1",State Senate,37,REP,William Hindle,3
+Emmet,"Readmond Township, Precinct 1",State House,107,DEM,Jodi Decker,76
+Emmet,"Readmond Township, Precinct 1",State House,107,DEM,Write-In,1
+Emmet,"Readmond Township, Precinct 1",State House,107,REP,Bob Carr,23
+Emmet,"Readmond Township, Precinct 1",State House,107,REP,David James Laughbaum,20
+Emmet,"Readmond Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,6
+Emmet,"Readmond Township, Precinct 1",State House,107,REP,Neil W. Friske,35
+Emmet,"Readmond Township, Precinct 1",State House,107,REP,Parker Fairbairn,72
+Emmet,"Resort Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,323
+Emmet,"Resort Township, Precinct 1",Governor,,REP,Garrett Soldano,91
+Emmet,"Resort Township, Precinct 1",Governor,,REP,James Elmer Craig,5
+Emmet,"Resort Township, Precinct 1",Governor,,REP,Kevin Rinke,213
+Emmet,"Resort Township, Precinct 1",Governor,,REP,Ralph Rebandt,27
+Emmet,"Resort Township, Precinct 1",Governor,,REP,Ryan D. Kelley,55
+Emmet,"Resort Township, Precinct 1",Governor,,REP,Tudor M. Dixon,263
+Emmet,"Resort Township, Precinct 1",Governor,,REP,Write-In,1
+Emmet,"Resort Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,311
+Emmet,"Resort Township, Precinct 1",U.S. House,1,REP,Jack Bergman,614
+Emmet,"Resort Township, Precinct 1",U.S. House,1,REP,Write-In,4
+Emmet,"Resort Township, Precinct 1",State Senate,37,DEM,Barbara Conley,281
+Emmet,"Resort Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,18
+Emmet,"Resort Township, Precinct 1",State Senate,37,DEM,Randy Bishop,16
+Emmet,"Resort Township, Precinct 1",State Senate,37,REP,George Ranville,82
+Emmet,"Resort Township, Precinct 1",State Senate,37,REP,John N. Damoose,372
+Emmet,"Resort Township, Precinct 1",State Senate,37,REP,Triston Cole,152
+Emmet,"Resort Township, Precinct 1",State Senate,37,REP,William Hindle,54
+Emmet,"Resort Township, Precinct 1",State House,107,DEM,Jodi Decker,310
+Emmet,"Resort Township, Precinct 1",State House,107,REP,Bob Carr,26
+Emmet,"Resort Township, Precinct 1",State House,107,REP,David James Laughbaum,30
+Emmet,"Resort Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,65
+Emmet,"Resort Township, Precinct 1",State House,107,REP,Neil W. Friske,263
+Emmet,"Resort Township, Precinct 1",State House,107,REP,Parker Fairbairn,275
+Emmet,"Springvale Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,202
+Emmet,"Springvale Township, Precinct 1",Governor,,REP,Garrett Soldano,63
+Emmet,"Springvale Township, Precinct 1",Governor,,REP,James Elmer Craig,2
+Emmet,"Springvale Township, Precinct 1",Governor,,REP,Kevin Rinke,90
+Emmet,"Springvale Township, Precinct 1",Governor,,REP,Ralph Rebandt,20
+Emmet,"Springvale Township, Precinct 1",Governor,,REP,Ryan D. Kelley,49
+Emmet,"Springvale Township, Precinct 1",Governor,,REP,Tudor M. Dixon,180
+Emmet,"Springvale Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,188
+Emmet,"Springvale Township, Precinct 1",U.S. House,1,REP,Jack Bergman,367
+Emmet,"Springvale Township, Precinct 1",U.S. House,1,REP,Write-In,3
+Emmet,"Springvale Township, Precinct 1",State Senate,37,DEM,Barbara Conley,159
+Emmet,"Springvale Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,16
+Emmet,"Springvale Township, Precinct 1",State Senate,37,DEM,Randy Bishop,18
+Emmet,"Springvale Township, Precinct 1",State Senate,37,REP,George Ranville,98
+Emmet,"Springvale Township, Precinct 1",State Senate,37,REP,John N. Damoose,190
+Emmet,"Springvale Township, Precinct 1",State Senate,37,REP,Triston Cole,93
+Emmet,"Springvale Township, Precinct 1",State Senate,37,REP,William Hindle,28
+Emmet,"Springvale Township, Precinct 1",State House,107,DEM,Jodi Decker,189
+Emmet,"Springvale Township, Precinct 1",State House,107,REP,Bob Carr,9
+Emmet,"Springvale Township, Precinct 1",State House,107,REP,David James Laughbaum,8
+Emmet,"Springvale Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,56
+Emmet,"Springvale Township, Precinct 1",State House,107,REP,Neil W. Friske,188
+Emmet,"Springvale Township, Precinct 1",State House,107,REP,Parker Fairbairn,146
+Emmet,"Wawatam Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,68
+Emmet,"Wawatam Township, Precinct 1",Governor,,REP,Garrett Soldano,14
+Emmet,"Wawatam Township, Precinct 1",Governor,,REP,Kevin Rinke,62
+Emmet,"Wawatam Township, Precinct 1",Governor,,REP,Ralph Rebandt,13
+Emmet,"Wawatam Township, Precinct 1",Governor,,REP,Ryan D. Kelley,18
+Emmet,"Wawatam Township, Precinct 1",Governor,,REP,Tudor M. Dixon,47
+Emmet,"Wawatam Township, Precinct 1",Governor,,REP,Write-In,1
+Emmet,"Wawatam Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,66
+Emmet,"Wawatam Township, Precinct 1",U.S. House,1,REP,Jack Bergman,131
+Emmet,"Wawatam Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Emmet,"Wawatam Township, Precinct 1",State Senate,37,DEM,Barbara Conley,39
+Emmet,"Wawatam Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,18
+Emmet,"Wawatam Township, Precinct 1",State Senate,37,DEM,Randy Bishop,7
+Emmet,"Wawatam Township, Precinct 1",State Senate,37,REP,George Ranville,87
+Emmet,"Wawatam Township, Precinct 1",State Senate,37,REP,John N. Damoose,57
+Emmet,"Wawatam Township, Precinct 1",State Senate,37,REP,Triston Cole,8
+Emmet,"Wawatam Township, Precinct 1",State Senate,37,REP,William Hindle,6
+Emmet,"Wawatam Township, Precinct 1",State House,107,DEM,Jodi Decker,66
+Emmet,"Wawatam Township, Precinct 1",State House,107,REP,Bob Carr,20
+Emmet,"Wawatam Township, Precinct 1",State House,107,REP,David James Laughbaum,9
+Emmet,"Wawatam Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,7
+Emmet,"Wawatam Township, Precinct 1",State House,107,REP,Neil W. Friske,61
+Emmet,"Wawatam Township, Precinct 1",State House,107,REP,Parker Fairbairn,54
+Emmet,"Wawatam Township, Precinct 1",State House,107,REP,Write-In,1
+Emmet,"West Traverse Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,256
+Emmet,"West Traverse Township, Precinct 1",Governor,,REP,Garrett Soldano,51
+Emmet,"West Traverse Township, Precinct 1",Governor,,REP,James Elmer Craig,8
+Emmet,"West Traverse Township, Precinct 1",Governor,,REP,Kevin Rinke,157
+Emmet,"West Traverse Township, Precinct 1",Governor,,REP,Ralph Rebandt,13
+Emmet,"West Traverse Township, Precinct 1",Governor,,REP,Ryan D. Kelley,47
+Emmet,"West Traverse Township, Precinct 1",Governor,,REP,Tudor M. Dixon,220
+Emmet,"West Traverse Township, Precinct 1",Governor,,REP,Write-In,1
+Emmet,"West Traverse Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,247
+Emmet,"West Traverse Township, Precinct 1",U.S. House,1,REP,Jack Bergman,457
+Emmet,"West Traverse Township, Precinct 1",U.S. House,1,REP,Write-In,5
+Emmet,"West Traverse Township, Precinct 1",State Senate,37,DEM,Barbara Conley,232
+Emmet,"West Traverse Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,6
+Emmet,"West Traverse Township, Precinct 1",State Senate,37,DEM,Randy Bishop,7
+Emmet,"West Traverse Township, Precinct 1",State Senate,37,REP,George Ranville,37
+Emmet,"West Traverse Township, Precinct 1",State Senate,37,REP,John N. Damoose,387
+Emmet,"West Traverse Township, Precinct 1",State Senate,37,REP,Triston Cole,64
+Emmet,"West Traverse Township, Precinct 1",State Senate,37,REP,William Hindle,23
+Emmet,"West Traverse Township, Precinct 1",State Senate,37,REP,Write-In,1
+Emmet,"West Traverse Township, Precinct 1",State House,107,DEM,Jodi Decker,242
+Emmet,"West Traverse Township, Precinct 1",State House,107,DEM,Write-In,2
+Emmet,"West Traverse Township, Precinct 1",State House,107,REP,Bob Carr,26
+Emmet,"West Traverse Township, Precinct 1",State House,107,REP,David James Laughbaum,13
+Emmet,"West Traverse Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,36
+Emmet,"West Traverse Township, Precinct 1",State House,107,REP,Neil W. Friske,130
+Emmet,"West Traverse Township, Precinct 1",State House,107,REP,Parker Fairbairn,310

@@ -1,0 +1,407 @@
+county,precinct,office,district,party,candidate,votes
+Montcalm,"Belvidere Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,117
+Montcalm,"Belvidere Township, Precinct 1",Governor,,REP,Garrett Soldano,110
+Montcalm,"Belvidere Township, Precinct 1",Governor,,REP,Kevin Rinke,98
+Montcalm,"Belvidere Township, Precinct 1",Governor,,REP,Ralph Rebandt,18
+Montcalm,"Belvidere Township, Precinct 1",Governor,,REP,Ryan D. Kelley,91
+Montcalm,"Belvidere Township, Precinct 1",Governor,,REP,Tudor M. Dixon,125
+Montcalm,"Belvidere Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,105
+Montcalm,"Belvidere Township, Precinct 1",U.S. House,2,REP,John Moolenaar,275
+Montcalm,"Belvidere Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,154
+Montcalm,"Belvidere Township, Precinct 1",State Senate,33,DEM,Mark Bignell,106
+Montcalm,"Belvidere Township, Precinct 1",State Senate,33,REP,Rick Outman,405
+Montcalm,"Belvidere Township, Precinct 1",State House,91,DEM,Frank J. LaFata,57
+Montcalm,"Belvidere Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,53
+Montcalm,"Belvidere Township, Precinct 1",State House,91,REP,Pat Outman,404
+Montcalm,"Bloomer Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,43
+Montcalm,"Bloomer Township, Precinct 1",Governor,,REP,Garrett Soldano,62
+Montcalm,"Bloomer Township, Precinct 1",Governor,,REP,Kevin Rinke,45
+Montcalm,"Bloomer Township, Precinct 1",Governor,,REP,Ralph Rebandt,9
+Montcalm,"Bloomer Township, Precinct 1",Governor,,REP,Ryan D. Kelley,35
+Montcalm,"Bloomer Township, Precinct 1",Governor,,REP,Tudor M. Dixon,90
+Montcalm,"Bloomer Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,38
+Montcalm,"Bloomer Township, Precinct 1",U.S. House,2,REP,John Moolenaar,155
+Montcalm,"Bloomer Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,85
+Montcalm,"Bloomer Township, Precinct 1",State Senate,33,DEM,Mark Bignell,36
+Montcalm,"Bloomer Township, Precinct 1",State Senate,33,REP,Rick Outman,204
+Montcalm,"Bloomer Township, Precinct 1",State House,93,DEM,Jeffrey Lockwood,35
+Montcalm,"Bloomer Township, Precinct 1",State House,93,REP,Alan Hoover,81
+Montcalm,"Bloomer Township, Precinct 1",State House,93,REP,Graham Filler,121
+Montcalm,"Bushnell Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,45
+Montcalm,"Bushnell Township, Precinct 1",Governor,,REP,Garrett Soldano,65
+Montcalm,"Bushnell Township, Precinct 1",Governor,,REP,Kevin Rinke,51
+Montcalm,"Bushnell Township, Precinct 1",Governor,,REP,Ralph Rebandt,7
+Montcalm,"Bushnell Township, Precinct 1",Governor,,REP,Ryan D. Kelley,31
+Montcalm,"Bushnell Township, Precinct 1",Governor,,REP,Tudor M. Dixon,98
+Montcalm,"Bushnell Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,39
+Montcalm,"Bushnell Township, Precinct 1",U.S. House,2,REP,John Moolenaar,141
+Montcalm,"Bushnell Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,103
+Montcalm,"Bushnell Township, Precinct 1",State Senate,33,DEM,Mark Bignell,39
+Montcalm,"Bushnell Township, Precinct 1",State Senate,33,REP,Rick Outman,213
+Montcalm,"Bushnell Township, Precinct 1",State House,91,DEM,Frank J. LaFata,12
+Montcalm,"Bushnell Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,28
+Montcalm,"Bushnell Township, Precinct 1",State House,91,REP,Pat Outman,211
+Montcalm,"Cato Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,155
+Montcalm,"Cato Township, Precinct 1",Governor,,REP,Garrett Soldano,161
+Montcalm,"Cato Township, Precinct 1",Governor,,REP,Kevin Rinke,80
+Montcalm,"Cato Township, Precinct 1",Governor,,REP,Ralph Rebandt,17
+Montcalm,"Cato Township, Precinct 1",Governor,,REP,Ryan D. Kelley,89
+Montcalm,"Cato Township, Precinct 1",Governor,,REP,Tudor M. Dixon,106
+Montcalm,"Cato Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,142
+Montcalm,"Cato Township, Precinct 1",U.S. House,2,REP,John Moolenaar,261
+Montcalm,"Cato Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,190
+Montcalm,"Cato Township, Precinct 1",State Senate,33,DEM,Mark Bignell,141
+Montcalm,"Cato Township, Precinct 1",State Senate,33,REP,Rick Outman,406
+Montcalm,"Cato Township, Precinct 1",State House,91,DEM,Frank J. LaFata,59
+Montcalm,"Cato Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,78
+Montcalm,"Cato Township, Precinct 1",State House,91,REP,Pat Outman,401
+Montcalm,"City of Carson City, Precinct 1",Governor,,DEM,Gretchen Whitmer,65
+Montcalm,"City of Carson City, Precinct 1",Governor,,REP,Garrett Soldano,38
+Montcalm,"City of Carson City, Precinct 1",Governor,,REP,Kevin Rinke,25
+Montcalm,"City of Carson City, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Montcalm,"City of Carson City, Precinct 1",Governor,,REP,Ryan D. Kelley,27
+Montcalm,"City of Carson City, Precinct 1",Governor,,REP,Tudor M. Dixon,34
+Montcalm,"City of Carson City, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,61
+Montcalm,"City of Carson City, Precinct 1",U.S. House,2,REP,John Moolenaar,77
+Montcalm,"City of Carson City, Precinct 1",U.S. House,2,REP,Thomas J. Norton,49
+Montcalm,"City of Carson City, Precinct 1",State Senate,33,DEM,Mark Bignell,62
+Montcalm,"City of Carson City, Precinct 1",State Senate,33,REP,Rick Outman,108
+Montcalm,"City of Carson City, Precinct 1",State House,93,DEM,Jeffrey Lockwood,59
+Montcalm,"City of Carson City, Precinct 1",State House,93,REP,Alan Hoover,48
+Montcalm,"City of Carson City, Precinct 1",State House,93,REP,Graham Filler,56
+Montcalm,"City of Greenville, Precinct 1",Governor,,DEM,Gretchen Whitmer,113
+Montcalm,"City of Greenville, Precinct 1",Governor,,REP,Garrett Soldano,62
+Montcalm,"City of Greenville, Precinct 1",Governor,,REP,Kevin Rinke,33
+Montcalm,"City of Greenville, Precinct 1",Governor,,REP,Ralph Rebandt,7
+Montcalm,"City of Greenville, Precinct 1",Governor,,REP,Ryan D. Kelley,29
+Montcalm,"City of Greenville, Precinct 1",Governor,,REP,Tudor M. Dixon,46
+Montcalm,"City of Greenville, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,105
+Montcalm,"City of Greenville, Precinct 1",U.S. House,2,REP,John Moolenaar,115
+Montcalm,"City of Greenville, Precinct 1",U.S. House,2,REP,Thomas J. Norton,58
+Montcalm,"City of Greenville, Precinct 1",State Senate,33,DEM,Mark Bignell,107
+Montcalm,"City of Greenville, Precinct 1",State Senate,33,REP,Rick Outman,148
+Montcalm,"City of Greenville, Precinct 1",State House,91,DEM,Frank J. LaFata,38
+Montcalm,"City of Greenville, Precinct 1",State House,91,DEM,Tammy L. DeVries,67
+Montcalm,"City of Greenville, Precinct 1",State House,91,REP,Pat Outman,144
+Montcalm,"City of Greenville, Precinct 2",Governor,,DEM,Gretchen Whitmer,147
+Montcalm,"City of Greenville, Precinct 2",Governor,,REP,Garrett Soldano,36
+Montcalm,"City of Greenville, Precinct 2",Governor,,REP,Kevin Rinke,36
+Montcalm,"City of Greenville, Precinct 2",Governor,,REP,Ralph Rebandt,8
+Montcalm,"City of Greenville, Precinct 2",Governor,,REP,Ryan D. Kelley,27
+Montcalm,"City of Greenville, Precinct 2",Governor,,REP,Tudor M. Dixon,70
+Montcalm,"City of Greenville, Precinct 2",U.S. House,2,DEM,Jerry Hilliard,133
+Montcalm,"City of Greenville, Precinct 2",U.S. House,2,REP,John Moolenaar,112
+Montcalm,"City of Greenville, Precinct 2",U.S. House,2,REP,Thomas J. Norton,63
+Montcalm,"City of Greenville, Precinct 2",State Senate,33,DEM,Mark Bignell,134
+Montcalm,"City of Greenville, Precinct 2",State Senate,33,REP,Rick Outman,157
+Montcalm,"City of Greenville, Precinct 2",State House,91,DEM,Frank J. LaFata,67
+Montcalm,"City of Greenville, Precinct 2",State House,91,DEM,Tammy L. DeVries,69
+Montcalm,"City of Greenville, Precinct 2",State House,91,REP,Pat Outman,156
+Montcalm,"City of Greenville, Precinct 3",Governor,,DEM,Gretchen Whitmer,195
+Montcalm,"City of Greenville, Precinct 3",Governor,,REP,Garrett Soldano,72
+Montcalm,"City of Greenville, Precinct 3",Governor,,REP,Kevin Rinke,70
+Montcalm,"City of Greenville, Precinct 3",Governor,,REP,Ralph Rebandt,21
+Montcalm,"City of Greenville, Precinct 3",Governor,,REP,Ryan D. Kelley,61
+Montcalm,"City of Greenville, Precinct 3",Governor,,REP,Tudor M. Dixon,79
+Montcalm,"City of Greenville, Precinct 3",U.S. House,2,DEM,Jerry Hilliard,179
+Montcalm,"City of Greenville, Precinct 3",U.S. House,2,REP,John Moolenaar,215
+Montcalm,"City of Greenville, Precinct 3",U.S. House,2,REP,Thomas J. Norton,78
+Montcalm,"City of Greenville, Precinct 3",State Senate,33,DEM,Mark Bignell,180
+Montcalm,"City of Greenville, Precinct 3",State Senate,33,REP,Rick Outman,254
+Montcalm,"City of Greenville, Precinct 3",State House,91,DEM,Frank J. LaFata,68
+Montcalm,"City of Greenville, Precinct 3",State House,91,DEM,Tammy L. DeVries,111
+Montcalm,"City of Greenville, Precinct 3",State House,91,REP,Pat Outman,250
+Montcalm,"City of Greenville, Precinct 4",Governor,,DEM,Gretchen Whitmer,83
+Montcalm,"City of Greenville, Precinct 4",Governor,,REP,Garrett Soldano,66
+Montcalm,"City of Greenville, Precinct 4",Governor,,REP,Kevin Rinke,25
+Montcalm,"City of Greenville, Precinct 4",Governor,,REP,Ralph Rebandt,4
+Montcalm,"City of Greenville, Precinct 4",Governor,,REP,Ryan D. Kelley,17
+Montcalm,"City of Greenville, Precinct 4",Governor,,REP,Tudor M. Dixon,33
+Montcalm,"City of Greenville, Precinct 4",U.S. House,2,DEM,Jerry Hilliard,80
+Montcalm,"City of Greenville, Precinct 4",U.S. House,2,REP,John Moolenaar,93
+Montcalm,"City of Greenville, Precinct 4",U.S. House,2,REP,Thomas J. Norton,45
+Montcalm,"City of Greenville, Precinct 4",State Senate,33,DEM,Mark Bignell,78
+Montcalm,"City of Greenville, Precinct 4",State Senate,33,REP,Rick Outman,123
+Montcalm,"City of Greenville, Precinct 4",State House,91,DEM,Frank J. LaFata,33
+Montcalm,"City of Greenville, Precinct 4",State House,91,DEM,Tammy L. DeVries,50
+Montcalm,"City of Greenville, Precinct 4",State House,91,REP,Pat Outman,121
+Montcalm,"City of Stanton, Precinct 1",Governor,,DEM,Gretchen Whitmer,36
+Montcalm,"City of Stanton, Precinct 1",Governor,,REP,Garrett Soldano,33
+Montcalm,"City of Stanton, Precinct 1",Governor,,REP,Kevin Rinke,39
+Montcalm,"City of Stanton, Precinct 1",Governor,,REP,Ralph Rebandt,7
+Montcalm,"City of Stanton, Precinct 1",Governor,,REP,Ryan D. Kelley,16
+Montcalm,"City of Stanton, Precinct 1",Governor,,REP,Tudor M. Dixon,38
+Montcalm,"City of Stanton, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,34
+Montcalm,"City of Stanton, Precinct 1",U.S. House,2,REP,John Moolenaar,96
+Montcalm,"City of Stanton, Precinct 1",U.S. House,2,REP,Thomas J. Norton,42
+Montcalm,"City of Stanton, Precinct 1",State Senate,33,DEM,Mark Bignell,34
+Montcalm,"City of Stanton, Precinct 1",State Senate,33,REP,Rick Outman,120
+Montcalm,"City of Stanton, Precinct 1",State House,91,DEM,Frank J. LaFata,6
+Montcalm,"City of Stanton, Precinct 1",State House,91,DEM,Tammy L. DeVries,27
+Montcalm,"City of Stanton, Precinct 1",State House,91,REP,Pat Outman,119
+Montcalm,"Crystal Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,150
+Montcalm,"Crystal Township, Precinct 1",Governor,,REP,Garrett Soldano,98
+Montcalm,"Crystal Township, Precinct 1",Governor,,REP,Kevin Rinke,72
+Montcalm,"Crystal Township, Precinct 1",Governor,,REP,Ralph Rebandt,15
+Montcalm,"Crystal Township, Precinct 1",Governor,,REP,Ryan D. Kelley,80
+Montcalm,"Crystal Township, Precinct 1",Governor,,REP,Tudor M. Dixon,136
+Montcalm,"Crystal Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,139
+Montcalm,"Crystal Township, Precinct 1",U.S. House,2,REP,John Moolenaar,249
+Montcalm,"Crystal Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,152
+Montcalm,"Crystal Township, Precinct 1",State Senate,33,DEM,Mark Bignell,139
+Montcalm,"Crystal Township, Precinct 1",State Senate,33,REP,Rick Outman,357
+Montcalm,"Crystal Township, Precinct 1",State House,93,DEM,Jeffrey Lockwood,137
+Montcalm,"Crystal Township, Precinct 1",State House,93,REP,Alan Hoover,163
+Montcalm,"Crystal Township, Precinct 1",State House,93,REP,Graham Filler,179
+Montcalm,"Day Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,41
+Montcalm,"Day Township, Precinct 1",Governor,,REP,Garrett Soldano,52
+Montcalm,"Day Township, Precinct 1",Governor,,REP,Kevin Rinke,34
+Montcalm,"Day Township, Precinct 1",Governor,,REP,Ralph Rebandt,10
+Montcalm,"Day Township, Precinct 1",Governor,,REP,Ryan D. Kelley,47
+Montcalm,"Day Township, Precinct 1",Governor,,REP,Tudor M. Dixon,56
+Montcalm,"Day Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,38
+Montcalm,"Day Township, Precinct 1",U.S. House,2,REP,John Moolenaar,135
+Montcalm,"Day Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,64
+Montcalm,"Day Township, Precinct 1",State Senate,33,DEM,Mark Bignell,39
+Montcalm,"Day Township, Precinct 1",State Senate,33,REP,Rick Outman,181
+Montcalm,"Day Township, Precinct 1",State House,91,DEM,Frank J. LaFata,17
+Montcalm,"Day Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,20
+Montcalm,"Day Township, Precinct 1",State House,91,REP,Pat Outman,179
+Montcalm,"Douglass Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,101
+Montcalm,"Douglass Township, Precinct 1",Governor,,REP,Garrett Soldano,104
+Montcalm,"Douglass Township, Precinct 1",Governor,,REP,Kevin Rinke,89
+Montcalm,"Douglass Township, Precinct 1",Governor,,REP,Ralph Rebandt,19
+Montcalm,"Douglass Township, Precinct 1",Governor,,REP,Ryan D. Kelley,105
+Montcalm,"Douglass Township, Precinct 1",Governor,,REP,Tudor M. Dixon,162
+Montcalm,"Douglass Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,90
+Montcalm,"Douglass Township, Precinct 1",U.S. House,2,REP,John Moolenaar,322
+Montcalm,"Douglass Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,144
+Montcalm,"Douglass Township, Precinct 1",State Senate,33,DEM,Mark Bignell,90
+Montcalm,"Douglass Township, Precinct 1",State Senate,33,REP,Rick Outman,406
+Montcalm,"Douglass Township, Precinct 1",State House,91,DEM,Frank J. LaFata,31
+Montcalm,"Douglass Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,63
+Montcalm,"Douglass Township, Precinct 1",State House,91,REP,Pat Outman,412
+Montcalm,"Eureka Charter Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,174
+Montcalm,"Eureka Charter Township, Precinct 1",Governor,,REP,Garrett Soldano,88
+Montcalm,"Eureka Charter Township, Precinct 1",Governor,,REP,Kevin Rinke,66
+Montcalm,"Eureka Charter Township, Precinct 1",Governor,,REP,Ralph Rebandt,22
+Montcalm,"Eureka Charter Township, Precinct 1",Governor,,REP,Ryan D. Kelley,50
+Montcalm,"Eureka Charter Township, Precinct 1",Governor,,REP,Tudor M. Dixon,80
+Montcalm,"Eureka Charter Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,159
+Montcalm,"Eureka Charter Township, Precinct 1",U.S. House,2,REP,John Moolenaar,175
+Montcalm,"Eureka Charter Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,122
+Montcalm,"Eureka Charter Township, Precinct 1",State Senate,33,DEM,Mark Bignell,156
+Montcalm,"Eureka Charter Township, Precinct 1",State Senate,33,REP,Rick Outman,257
+Montcalm,"Eureka Charter Township, Precinct 1",State House,91,DEM,Frank J. LaFata,80
+Montcalm,"Eureka Charter Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,77
+Montcalm,"Eureka Charter Township, Precinct 1",State House,91,REP,Pat Outman,260
+Montcalm,"Eureka Charter Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,135
+Montcalm,"Eureka Charter Township, Precinct 2",Governor,,REP,Garrett Soldano,86
+Montcalm,"Eureka Charter Township, Precinct 2",Governor,,REP,Kevin Rinke,74
+Montcalm,"Eureka Charter Township, Precinct 2",Governor,,REP,Ralph Rebandt,26
+Montcalm,"Eureka Charter Township, Precinct 2",Governor,,REP,Ryan D. Kelley,34
+Montcalm,"Eureka Charter Township, Precinct 2",Governor,,REP,Tudor M. Dixon,124
+Montcalm,"Eureka Charter Township, Precinct 2",U.S. House,2,DEM,Jerry Hilliard,129
+Montcalm,"Eureka Charter Township, Precinct 2",U.S. House,2,REP,John Moolenaar,222
+Montcalm,"Eureka Charter Township, Precinct 2",U.S. House,2,REP,Thomas J. Norton,115
+Montcalm,"Eureka Charter Township, Precinct 2",State Senate,33,DEM,Mark Bignell,128
+Montcalm,"Eureka Charter Township, Precinct 2",State Senate,33,REP,Rick Outman,289
+Montcalm,"Eureka Charter Township, Precinct 2",State House,91,DEM,Frank J. LaFata,66
+Montcalm,"Eureka Charter Township, Precinct 2",State House,91,DEM,Tammy L. DeVries,66
+Montcalm,"Eureka Charter Township, Precinct 2",State House,91,REP,Pat Outman,287
+Montcalm,"Evergreen Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,97
+Montcalm,"Evergreen Township, Precinct 1",Governor,,REP,Garrett Soldano,112
+Montcalm,"Evergreen Township, Precinct 1",Governor,,REP,Kevin Rinke,76
+Montcalm,"Evergreen Township, Precinct 1",Governor,,REP,Ralph Rebandt,22
+Montcalm,"Evergreen Township, Precinct 1",Governor,,REP,Ryan D. Kelley,39
+Montcalm,"Evergreen Township, Precinct 1",Governor,,REP,Tudor M. Dixon,116
+Montcalm,"Evergreen Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,89
+Montcalm,"Evergreen Township, Precinct 1",U.S. House,2,REP,John Moolenaar,232
+Montcalm,"Evergreen Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,127
+Montcalm,"Evergreen Township, Precinct 1",State Senate,33,DEM,Mark Bignell,90
+Montcalm,"Evergreen Township, Precinct 1",State Senate,33,REP,Rick Outman,320
+Montcalm,"Evergreen Township, Precinct 1",State House,91,DEM,Frank J. LaFata,44
+Montcalm,"Evergreen Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,45
+Montcalm,"Evergreen Township, Precinct 1",State House,91,REP,Pat Outman,314
+Montcalm,"Fairplain Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,87
+Montcalm,"Fairplain Township, Precinct 1",Governor,,REP,Garrett Soldano,88
+Montcalm,"Fairplain Township, Precinct 1",Governor,,REP,Kevin Rinke,40
+Montcalm,"Fairplain Township, Precinct 1",Governor,,REP,Ralph Rebandt,10
+Montcalm,"Fairplain Township, Precinct 1",Governor,,REP,Ryan D. Kelley,52
+Montcalm,"Fairplain Township, Precinct 1",Governor,,REP,Tudor M. Dixon,97
+Montcalm,"Fairplain Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,80
+Montcalm,"Fairplain Township, Precinct 1",U.S. House,2,REP,John Moolenaar,187
+Montcalm,"Fairplain Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,90
+Montcalm,"Fairplain Township, Precinct 1",State Senate,33,DEM,Mark Bignell,79
+Montcalm,"Fairplain Township, Precinct 1",State Senate,33,REP,Rick Outman,237
+Montcalm,"Fairplain Township, Precinct 1",State House,91,DEM,Frank J. LaFata,43
+Montcalm,"Fairplain Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,39
+Montcalm,"Fairplain Township, Precinct 1",State House,91,REP,Pat Outman,231
+Montcalm,"Ferris Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,50
+Montcalm,"Ferris Township, Precinct 1",Governor,,REP,Garrett Soldano,38
+Montcalm,"Ferris Township, Precinct 1",Governor,,REP,Kevin Rinke,25
+Montcalm,"Ferris Township, Precinct 1",Governor,,REP,Ralph Rebandt,8
+Montcalm,"Ferris Township, Precinct 1",Governor,,REP,Ryan D. Kelley,42
+Montcalm,"Ferris Township, Precinct 1",Governor,,REP,Tudor M. Dixon,55
+Montcalm,"Ferris Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,46
+Montcalm,"Ferris Township, Precinct 1",U.S. House,2,REP,John Moolenaar,121
+Montcalm,"Ferris Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,44
+Montcalm,"Ferris Township, Precinct 1",State Senate,33,DEM,Mark Bignell,46
+Montcalm,"Ferris Township, Precinct 1",State Senate,33,REP,Rick Outman,154
+Montcalm,"Ferris Township, Precinct 1",State House,93,DEM,Jeffrey Lockwood,44
+Montcalm,"Ferris Township, Precinct 1",State House,93,REP,Alan Hoover,56
+Montcalm,"Ferris Township, Precinct 1",State House,93,REP,Graham Filler,68
+Montcalm,"Home Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,109
+Montcalm,"Home Township, Precinct 1",Governor,,REP,Garrett Soldano,72
+Montcalm,"Home Township, Precinct 1",Governor,,REP,Kevin Rinke,71
+Montcalm,"Home Township, Precinct 1",Governor,,REP,Ralph Rebandt,12
+Montcalm,"Home Township, Precinct 1",Governor,,REP,Ryan D. Kelley,87
+Montcalm,"Home Township, Precinct 1",Governor,,REP,Tudor M. Dixon,99
+Montcalm,"Home Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,98
+Montcalm,"Home Township, Precinct 1",U.S. House,2,REP,John Moolenaar,211
+Montcalm,"Home Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,121
+Montcalm,"Home Township, Precinct 1",State Senate,33,DEM,Mark Bignell,98
+Montcalm,"Home Township, Precinct 1",State Senate,33,REP,Rick Outman,306
+Montcalm,"Home Township, Precinct 1",State House,91,DEM,Frank J. LaFata,36
+Montcalm,"Home Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,60
+Montcalm,"Home Township, Precinct 1",State House,91,REP,Pat Outman,303
+Montcalm,"Maple Valley Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,62
+Montcalm,"Maple Valley Township, Precinct 1",Governor,,REP,Garrett Soldano,98
+Montcalm,"Maple Valley Township, Precinct 1",Governor,,REP,Kevin Rinke,75
+Montcalm,"Maple Valley Township, Precinct 1",Governor,,REP,Ralph Rebandt,10
+Montcalm,"Maple Valley Township, Precinct 1",Governor,,REP,Ryan D. Kelley,138
+Montcalm,"Maple Valley Township, Precinct 1",Governor,,REP,Tudor M. Dixon,130
+Montcalm,"Maple Valley Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,58
+Montcalm,"Maple Valley Township, Precinct 1",U.S. House,2,REP,John Moolenaar,279
+Montcalm,"Maple Valley Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,166
+Montcalm,"Maple Valley Township, Precinct 1",State Senate,33,DEM,Mark Bignell,58
+Montcalm,"Maple Valley Township, Precinct 1",State Senate,33,REP,Rick Outman,401
+Montcalm,"Maple Valley Township, Precinct 1",State House,91,DEM,Frank J. LaFata,9
+Montcalm,"Maple Valley Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,51
+Montcalm,"Maple Valley Township, Precinct 1",State House,91,REP,Pat Outman,412
+Montcalm,"Montcalm Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,186
+Montcalm,"Montcalm Township, Precinct 1",Governor,,REP,Garrett Soldano,161
+Montcalm,"Montcalm Township, Precinct 1",Governor,,REP,Kevin Rinke,102
+Montcalm,"Montcalm Township, Precinct 1",Governor,,REP,Ralph Rebandt,35
+Montcalm,"Montcalm Township, Precinct 1",Governor,,REP,Ryan D. Kelley,98
+Montcalm,"Montcalm Township, Precinct 1",Governor,,REP,Tudor M. Dixon,192
+Montcalm,"Montcalm Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,170
+Montcalm,"Montcalm Township, Precinct 1",U.S. House,2,REP,John Moolenaar,362
+Montcalm,"Montcalm Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,206
+Montcalm,"Montcalm Township, Precinct 1",State Senate,33,DEM,Mark Bignell,170
+Montcalm,"Montcalm Township, Precinct 1",State Senate,33,REP,Rick Outman,493
+Montcalm,"Montcalm Township, Precinct 1",State House,91,DEM,Frank J. LaFata,74
+Montcalm,"Montcalm Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,95
+Montcalm,"Montcalm Township, Precinct 1",State House,91,REP,Pat Outman,497
+Montcalm,"Pierson Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,106
+Montcalm,"Pierson Township, Precinct 1",Governor,,REP,Garrett Soldano,78
+Montcalm,"Pierson Township, Precinct 1",Governor,,REP,Kevin Rinke,55
+Montcalm,"Pierson Township, Precinct 1",Governor,,REP,Ralph Rebandt,9
+Montcalm,"Pierson Township, Precinct 1",Governor,,REP,Ryan D. Kelley,82
+Montcalm,"Pierson Township, Precinct 1",Governor,,REP,Tudor M. Dixon,116
+Montcalm,"Pierson Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,96
+Montcalm,"Pierson Township, Precinct 1",U.S. House,2,REP,John Moolenaar,206
+Montcalm,"Pierson Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,122
+Montcalm,"Pierson Township, Precinct 1",State Senate,33,DEM,Mark Bignell,97
+Montcalm,"Pierson Township, Precinct 1",State Senate,33,REP,Rick Outman,300
+Montcalm,"Pierson Township, Precinct 1",State House,91,DEM,Frank J. LaFata,27
+Montcalm,"Pierson Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,71
+Montcalm,"Pierson Township, Precinct 1",State House,91,REP,Pat Outman,299
+Montcalm,"Pierson Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,93
+Montcalm,"Pierson Township, Precinct 2",Governor,,REP,Garrett Soldano,65
+Montcalm,"Pierson Township, Precinct 2",Governor,,REP,Kevin Rinke,56
+Montcalm,"Pierson Township, Precinct 2",Governor,,REP,Ralph Rebandt,7
+Montcalm,"Pierson Township, Precinct 2",Governor,,REP,Ryan D. Kelley,106
+Montcalm,"Pierson Township, Precinct 2",Governor,,REP,Tudor M. Dixon,112
+Montcalm,"Pierson Township, Precinct 2",U.S. House,2,DEM,Jerry Hilliard,86
+Montcalm,"Pierson Township, Precinct 2",U.S. House,2,REP,John Moolenaar,211
+Montcalm,"Pierson Township, Precinct 2",U.S. House,2,REP,Thomas J. Norton,126
+Montcalm,"Pierson Township, Precinct 2",State Senate,33,DEM,Mark Bignell,86
+Montcalm,"Pierson Township, Precinct 2",State Senate,33,REP,Rick Outman,314
+Montcalm,"Pierson Township, Precinct 2",State House,91,DEM,Frank J. LaFata,35
+Montcalm,"Pierson Township, Precinct 2",State House,91,DEM,Tammy L. DeVries,52
+Montcalm,"Pierson Township, Precinct 2",State House,91,REP,Pat Outman,311
+Montcalm,"Pine Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,121
+Montcalm,"Pine Township, Precinct 1",Governor,,REP,Garrett Soldano,90
+Montcalm,"Pine Township, Precinct 1",Governor,,REP,Kevin Rinke,37
+Montcalm,"Pine Township, Precinct 1",Governor,,REP,Ralph Rebandt,18
+Montcalm,"Pine Township, Precinct 1",Governor,,REP,Ryan D. Kelley,47
+Montcalm,"Pine Township, Precinct 1",Governor,,REP,Tudor M. Dixon,90
+Montcalm,"Pine Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,99
+Montcalm,"Pine Township, Precinct 1",U.S. House,2,REP,John Moolenaar,169
+Montcalm,"Pine Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,117
+Montcalm,"Pine Township, Precinct 1",State Senate,33,DEM,Mark Bignell,98
+Montcalm,"Pine Township, Precinct 1",State Senate,33,REP,Rick Outman,250
+Montcalm,"Pine Township, Precinct 1",State House,91,DEM,Frank J. LaFata,41
+Montcalm,"Pine Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,62
+Montcalm,"Pine Township, Precinct 1",State House,91,REP,Pat Outman,256
+Montcalm,"Reynolds Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,111
+Montcalm,"Reynolds Township, Precinct 1",Governor,,REP,Garrett Soldano,95
+Montcalm,"Reynolds Township, Precinct 1",Governor,,REP,Kevin Rinke,71
+Montcalm,"Reynolds Township, Precinct 1",Governor,,REP,Ralph Rebandt,17
+Montcalm,"Reynolds Township, Precinct 1",Governor,,REP,Ryan D. Kelley,134
+Montcalm,"Reynolds Township, Precinct 1",Governor,,REP,Tudor M. Dixon,121
+Montcalm,"Reynolds Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,103
+Montcalm,"Reynolds Township, Precinct 1",U.S. House,2,REP,John Moolenaar,267
+Montcalm,"Reynolds Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,157
+Montcalm,"Reynolds Township, Precinct 1",State Senate,33,DEM,Mark Bignell,102
+Montcalm,"Reynolds Township, Precinct 1",State Senate,33,REP,Rick Outman,387
+Montcalm,"Reynolds Township, Precinct 1",State House,91,DEM,Frank J. LaFata,45
+Montcalm,"Reynolds Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,57
+Montcalm,"Reynolds Township, Precinct 1",State House,91,REP,Pat Outman,380
+Montcalm,"Reynolds Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,91
+Montcalm,"Reynolds Township, Precinct 2",Governor,,REP,Garrett Soldano,94
+Montcalm,"Reynolds Township, Precinct 2",Governor,,REP,Kevin Rinke,45
+Montcalm,"Reynolds Township, Precinct 2",Governor,,REP,Ralph Rebandt,9
+Montcalm,"Reynolds Township, Precinct 2",Governor,,REP,Ryan D. Kelley,97
+Montcalm,"Reynolds Township, Precinct 2",Governor,,REP,Tudor M. Dixon,83
+Montcalm,"Reynolds Township, Precinct 2",U.S. House,2,DEM,Jerry Hilliard,82
+Montcalm,"Reynolds Township, Precinct 2",U.S. House,2,REP,John Moolenaar,216
+Montcalm,"Reynolds Township, Precinct 2",U.S. House,2,REP,Thomas J. Norton,108
+Montcalm,"Reynolds Township, Precinct 2",State Senate,33,DEM,Mark Bignell,83
+Montcalm,"Reynolds Township, Precinct 2",State Senate,33,REP,Rick Outman,286
+Montcalm,"Reynolds Township, Precinct 2",State House,91,DEM,Frank J. LaFata,27
+Montcalm,"Reynolds Township, Precinct 2",State House,91,DEM,Tammy L. DeVries,58
+Montcalm,"Reynolds Township, Precinct 2",State House,91,REP,Pat Outman,284
+Montcalm,"Richland Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,122
+Montcalm,"Richland Township, Precinct 1",Governor,,REP,Garrett Soldano,86
+Montcalm,"Richland Township, Precinct 1",Governor,,REP,Kevin Rinke,72
+Montcalm,"Richland Township, Precinct 1",Governor,,REP,Ralph Rebandt,8
+Montcalm,"Richland Township, Precinct 1",Governor,,REP,Ryan D. Kelley,119
+Montcalm,"Richland Township, Precinct 1",Governor,,REP,Tudor M. Dixon,105
+Montcalm,"Richland Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,111
+Montcalm,"Richland Township, Precinct 1",U.S. House,2,REP,John Moolenaar,277
+Montcalm,"Richland Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,102
+Montcalm,"Richland Township, Precinct 1",State Senate,33,DEM,Mark Bignell,108
+Montcalm,"Richland Township, Precinct 1",State Senate,33,REP,Rick Outman,340
+Montcalm,"Richland Township, Precinct 1",State House,91,DEM,Frank J. LaFata,41
+Montcalm,"Richland Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,72
+Montcalm,"Richland Township, Precinct 1",State House,91,REP,Pat Outman,335
+Montcalm,"Sidney Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,151
+Montcalm,"Sidney Township, Precinct 1",Governor,,REP,Garrett Soldano,113
+Montcalm,"Sidney Township, Precinct 1",Governor,,REP,Kevin Rinke,96
+Montcalm,"Sidney Township, Precinct 1",Governor,,REP,Ralph Rebandt,19
+Montcalm,"Sidney Township, Precinct 1",Governor,,REP,Ryan D. Kelley,99
+Montcalm,"Sidney Township, Precinct 1",Governor,,REP,Tudor M. Dixon,168
+Montcalm,"Sidney Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,136
+Montcalm,"Sidney Township, Precinct 1",U.S. House,2,REP,John Moolenaar,333
+Montcalm,"Sidney Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,147
+Montcalm,"Sidney Township, Precinct 1",State Senate,33,DEM,Mark Bignell,136
+Montcalm,"Sidney Township, Precinct 1",State Senate,33,REP,Rick Outman,405
+Montcalm,"Sidney Township, Precinct 1",State House,91,DEM,Frank J. LaFata,55
+Montcalm,"Sidney Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,82
+Montcalm,"Sidney Township, Precinct 1",State House,91,REP,Pat Outman,402
+Montcalm,"Winfield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,110
+Montcalm,"Winfield Township, Precinct 1",Governor,,REP,Garrett Soldano,154
+Montcalm,"Winfield Township, Precinct 1",Governor,,REP,Kevin Rinke,84
+Montcalm,"Winfield Township, Precinct 1",Governor,,REP,Ralph Rebandt,15
+Montcalm,"Winfield Township, Precinct 1",Governor,,REP,Ryan D. Kelley,151
+Montcalm,"Winfield Township, Precinct 1",Governor,,REP,Tudor M. Dixon,139
+Montcalm,"Winfield Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,101
+Montcalm,"Winfield Township, Precinct 1",U.S. House,2,REP,John Moolenaar,319
+Montcalm,"Winfield Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,193
+Montcalm,"Winfield Township, Precinct 1",State Senate,33,DEM,Mark Bignell,98
+Montcalm,"Winfield Township, Precinct 1",State Senate,33,REP,Rick Outman,441
+Montcalm,"Winfield Township, Precinct 1",State House,91,DEM,Frank J. LaFata,28
+Montcalm,"Winfield Township, Precinct 1",State House,91,DEM,Tammy L. DeVries,66
+Montcalm,"Winfield Township, Precinct 1",State House,91,REP,Pat Outman,433

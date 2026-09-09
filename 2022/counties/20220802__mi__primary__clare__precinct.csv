@@ -1,0 +1,355 @@
+county,precinct,office,district,party,candidate,votes
+Clare,"Arthur Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,16
+Clare,"Arthur Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Arthur Township, Precinct 1",Governor,,REP,Garrett Soldano,22
+Clare,"Arthur Township, Precinct 1",Governor,,REP,James Elmer Craig,3
+Clare,"Arthur Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Arthur Township, Precinct 1",Governor,,REP,Kevin Rinke,49
+Clare,"Arthur Township, Precinct 1",Governor,,REP,Ralph Rebandt,8
+Clare,"Arthur Township, Precinct 1",Governor,,REP,Ryan D. Kelley,22
+Clare,"Arthur Township, Precinct 1",Governor,,REP,Tudor M. Dixon,47
+Clare,"Arthur Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,14
+Clare,"Arthur Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Arthur Township, Precinct 1",U.S. House,2,REP,John Moolenaar,117
+Clare,"Arthur Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,35
+Clare,"Arthur Township, Precinct 1",State Senate,34,DEM,Christine Gerace,14
+Clare,"Arthur Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,14
+Clare,"Arthur Township, Precinct 1",State Senate,34,REP,Roger Hauck,132
+Clare,"Arthur Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,14
+Clare,"Arthur Township, Precinct 1",State House,99,REP,Alan Hover,12
+Clare,"Arthur Township, Precinct 1",State House,99,REP,Earl Lackie,8
+Clare,"Arthur Township, Precinct 1",State House,99,REP,Mike Hoadley,92
+Clare,"Arthur Township, Precinct 1",State House,99,REP,Shawn Petri,22
+Clare,"City of Clare, Precinct 1",Governor,,DEM,Gretchen Whitmer,178
+Clare,"City of Clare, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"City of Clare, Precinct 1",Governor,,REP,Garrett Soldano,59
+Clare,"City of Clare, Precinct 1",Governor,,REP,James Elmer Craig,0
+Clare,"City of Clare, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"City of Clare, Precinct 1",Governor,,REP,Kevin Rinke,83
+Clare,"City of Clare, Precinct 1",Governor,,REP,Ralph Rebandt,7
+Clare,"City of Clare, Precinct 1",Governor,,REP,Ryan D. Kelley,39
+Clare,"City of Clare, Precinct 1",Governor,,REP,Tudor M. Dixon,110
+Clare,"City of Clare, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,171
+Clare,"City of Clare, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"City of Clare, Precinct 1",U.S. House,2,REP,John Moolenaar,234
+Clare,"City of Clare, Precinct 1",U.S. House,2,REP,Thomas J. Norton,68
+Clare,"City of Clare, Precinct 1",State Senate,34,DEM,Christine Gerace,171
+Clare,"City of Clare, Precinct 1",State Senate,34,REP,Lisa M. Sowers,43
+Clare,"City of Clare, Precinct 1",State Senate,34,REP,Roger Hauck,249
+Clare,"City of Clare, Precinct 1",State House,100,DEM,Nate Bailey,170
+Clare,"City of Clare, Precinct 1",State House,100,REP,Tom Kunse,260
+Clare,"City of Harrison, Precinct 1",Governor,,DEM,Gretchen Whitmer,106
+Clare,"City of Harrison, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"City of Harrison, Precinct 1",Governor,,REP,Garrett Soldano,35
+Clare,"City of Harrison, Precinct 1",Governor,,REP,James Elmer Craig,2
+Clare,"City of Harrison, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"City of Harrison, Precinct 1",Governor,,REP,Kevin Rinke,81
+Clare,"City of Harrison, Precinct 1",Governor,,REP,Ralph Rebandt,14
+Clare,"City of Harrison, Precinct 1",Governor,,REP,Ryan D. Kelley,61
+Clare,"City of Harrison, Precinct 1",Governor,,REP,Tudor M. Dixon,63
+Clare,"City of Harrison, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,97
+Clare,"City of Harrison, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"City of Harrison, Precinct 1",U.S. House,2,REP,John Moolenaar,207
+Clare,"City of Harrison, Precinct 1",U.S. House,2,REP,Thomas J. Norton,52
+Clare,"City of Harrison, Precinct 1",State Senate,34,DEM,Christine Gerace,97
+Clare,"City of Harrison, Precinct 1",State Senate,34,REP,Lisa M. Sowers,61
+Clare,"City of Harrison, Precinct 1",State Senate,34,REP,Roger Hauck,176
+Clare,"City of Harrison, Precinct 1",State House,100,DEM,Nate Bailey,96
+Clare,"City of Harrison, Precinct 1",State House,100,REP,Tom Kunse,213
+Clare,"Franklin Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,56
+Clare,"Franklin Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Franklin Township, Precinct 1",Governor,,REP,Garrett Soldano,29
+Clare,"Franklin Township, Precinct 1",Governor,,REP,James Elmer Craig,0
+Clare,"Franklin Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Franklin Township, Precinct 1",Governor,,REP,Kevin Rinke,38
+Clare,"Franklin Township, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Clare,"Franklin Township, Precinct 1",Governor,,REP,Ryan D. Kelley,35
+Clare,"Franklin Township, Precinct 1",Governor,,REP,Tudor M. Dixon,37
+Clare,"Franklin Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,56
+Clare,"Franklin Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Franklin Township, Precinct 1",U.S. House,2,REP,John Moolenaar,99
+Clare,"Franklin Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,38
+Clare,"Franklin Township, Precinct 1",State Senate,34,DEM,Christine Gerace,56
+Clare,"Franklin Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,37
+Clare,"Franklin Township, Precinct 1",State Senate,34,REP,Roger Hauck,92
+Clare,"Franklin Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,56
+Clare,"Franklin Township, Precinct 1",State House,99,REP,Alan Hover,17
+Clare,"Franklin Township, Precinct 1",State House,99,REP,Earl Lackie,12
+Clare,"Franklin Township, Precinct 1",State House,99,REP,Mike Hoadley,77
+Clare,"Franklin Township, Precinct 1",State House,99,REP,Shawn Petri,24
+Clare,"Freeman Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,103
+Clare,"Freeman Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Freeman Township, Precinct 1",Governor,,REP,Garrett Soldano,31
+Clare,"Freeman Township, Precinct 1",Governor,,REP,James Elmer Craig,5
+Clare,"Freeman Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Freeman Township, Precinct 1",Governor,,REP,Kevin Rinke,74
+Clare,"Freeman Township, Precinct 1",Governor,,REP,Ralph Rebandt,6
+Clare,"Freeman Township, Precinct 1",Governor,,REP,Ryan D. Kelley,30
+Clare,"Freeman Township, Precinct 1",Governor,,REP,Tudor M. Dixon,70
+Clare,"Freeman Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,102
+Clare,"Freeman Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Freeman Township, Precinct 1",U.S. House,2,REP,John Moolenaar,173
+Clare,"Freeman Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,43
+Clare,"Freeman Township, Precinct 1",State Senate,34,DEM,Christine Gerace,99
+Clare,"Freeman Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,47
+Clare,"Freeman Township, Precinct 1",State Senate,34,REP,Roger Hauck,163
+Clare,"Freeman Township, Precinct 1",State House,100,DEM,Nate Bailey,101
+Clare,"Freeman Township, Precinct 1",State House,100,REP,Tom Kunse,191
+Clare,"Frost Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,65
+Clare,"Frost Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Frost Township, Precinct 1",Governor,,REP,Garrett Soldano,28
+Clare,"Frost Township, Precinct 1",Governor,,REP,James Elmer Craig,0
+Clare,"Frost Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Frost Township, Precinct 1",Governor,,REP,Kevin Rinke,69
+Clare,"Frost Township, Precinct 1",Governor,,REP,Ralph Rebandt,3
+Clare,"Frost Township, Precinct 1",Governor,,REP,Ryan D. Kelley,41
+Clare,"Frost Township, Precinct 1",Governor,,REP,Tudor M. Dixon,64
+Clare,"Frost Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,60
+Clare,"Frost Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Frost Township, Precinct 1",U.S. House,2,REP,John Moolenaar,145
+Clare,"Frost Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,56
+Clare,"Frost Township, Precinct 1",State Senate,34,DEM,Christine Gerace,61
+Clare,"Frost Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,55
+Clare,"Frost Township, Precinct 1",State Senate,34,REP,Roger Hauck,138
+Clare,"Frost Township, Precinct 1",State House,100,DEM,Nate Bailey,60
+Clare,"Frost Township, Precinct 1",State House,100,REP,Tom Kunse,182
+Clare,"Garfield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,116
+Clare,"Garfield Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Garfield Township, Precinct 1",Governor,,REP,Garrett Soldano,64
+Clare,"Garfield Township, Precinct 1",Governor,,REP,James Elmer Craig,1
+Clare,"Garfield Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Garfield Township, Precinct 1",Governor,,REP,Kevin Rinke,115
+Clare,"Garfield Township, Precinct 1",Governor,,REP,Ralph Rebandt,12
+Clare,"Garfield Township, Precinct 1",Governor,,REP,Ryan D. Kelley,46
+Clare,"Garfield Township, Precinct 1",Governor,,REP,Tudor M. Dixon,88
+Clare,"Garfield Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,113
+Clare,"Garfield Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Garfield Township, Precinct 1",U.S. House,2,REP,John Moolenaar,236
+Clare,"Garfield Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,93
+Clare,"Garfield Township, Precinct 1",State Senate,34,DEM,Christine Gerace,112
+Clare,"Garfield Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,71
+Clare,"Garfield Township, Precinct 1",State Senate,34,REP,Roger Hauck,246
+Clare,"Garfield Township, Precinct 1",State House,100,DEM,Nate Bailey,110
+Clare,"Garfield Township, Precinct 1",State House,100,REP,Tom Kunse,292
+Clare,"Grant Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,132
+Clare,"Grant Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Grant Township, Precinct 1",Governor,,REP,Garrett Soldano,113
+Clare,"Grant Township, Precinct 1",Governor,,REP,James Elmer Craig,0
+Clare,"Grant Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Grant Township, Precinct 1",Governor,,REP,Kevin Rinke,109
+Clare,"Grant Township, Precinct 1",Governor,,REP,Ralph Rebandt,22
+Clare,"Grant Township, Precinct 1",Governor,,REP,Ryan D. Kelley,108
+Clare,"Grant Township, Precinct 1",Governor,,REP,Tudor M. Dixon,168
+Clare,"Grant Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,129
+Clare,"Grant Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Grant Township, Precinct 1",U.S. House,2,REP,John Moolenaar,395
+Clare,"Grant Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,123
+Clare,"Grant Township, Precinct 1",State Senate,34,DEM,Christine Gerace,126
+Clare,"Grant Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,92
+Clare,"Grant Township, Precinct 1",State Senate,34,REP,Roger Hauck,398
+Clare,"Grant Township, Precinct 1",State House,100,DEM,Nate Bailey,127
+Clare,"Grant Township, Precinct 1",State House,100,REP,Tom Kunse,451
+Clare,"Greenwood Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,55
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,Garrett Soldano,38
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,James Elmer Craig,1
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,Kevin Rinke,73
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,Ralph Rebandt,8
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,Ryan D. Kelley,40
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,Tudor M. Dixon,80
+Clare,"Greenwood Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,53
+Clare,"Greenwood Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Greenwood Township, Precinct 1",U.S. House,2,REP,John Moolenaar,187
+Clare,"Greenwood Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,54
+Clare,"Greenwood Township, Precinct 1",State Senate,34,DEM,Christine Gerace,52
+Clare,"Greenwood Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,48
+Clare,"Greenwood Township, Precinct 1",State Senate,34,REP,Roger Hauck,183
+Clare,"Greenwood Township, Precinct 1",State House,100,DEM,Nate Bailey,51
+Clare,"Greenwood Township, Precinct 1",State House,100,REP,Tom Kunse,212
+Clare,"Halton Township, Precinct 1",State Senate,34,DEM,Christine Gerace,33
+Clare,"Hamilton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,106
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,Garrett Soldano,60
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,James Elmer Craig,5
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,Kevin Rinke,105
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,Ralph Rebandt,11
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,Ryan D. Kelley,77
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,Tudor M. Dixon,96
+Clare,"Hamilton Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,105
+Clare,"Hamilton Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Hamilton Township, Precinct 1",U.S. House,2,REP,John Moolenaar,248
+Clare,"Hamilton Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,101
+Clare,"Hamilton Township, Precinct 1",State Senate,34,DEM,Christine Gerace,105
+Clare,"Hamilton Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,75
+Clare,"Hamilton Township, Precinct 1",State Senate,34,REP,Roger Hauck,254
+Clare,"Hamilton Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,106
+Clare,"Hamilton Township, Precinct 1",State House,99,REP,Alan Hover,43
+Clare,"Hamilton Township, Precinct 1",State House,99,REP,Earl Lackie,35
+Clare,"Hamilton Township, Precinct 1",State House,99,REP,Mike Hoadley,162
+Clare,"Hamilton Township, Precinct 1",State House,99,REP,Shawn Petri,79
+Clare,"Hatton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,34
+Clare,"Hatton Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Hatton Township, Precinct 1",Governor,,REP,Garrett Soldano,24
+Clare,"Hatton Township, Precinct 1",Governor,,REP,James Elmer Craig,0
+Clare,"Hatton Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Hatton Township, Precinct 1",Governor,,REP,Kevin Rinke,55
+Clare,"Hatton Township, Precinct 1",Governor,,REP,Ralph Rebandt,6
+Clare,"Hatton Township, Precinct 1",Governor,,REP,Ryan D. Kelley,18
+Clare,"Hatton Township, Precinct 1",Governor,,REP,Tudor M. Dixon,59
+Clare,"Hatton Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,35
+Clare,"Hatton Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Hatton Township, Precinct 1",U.S. House,2,REP,John Moolenaar,120
+Clare,"Hatton Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,42
+Clare,"Hatton Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,24
+Clare,"Hatton Township, Precinct 1",State Senate,34,REP,Roger Hauck,132
+Clare,"Hatton Township, Precinct 1",State House,100,DEM,Nate Bailey,34
+Clare,"Hatton Township, Precinct 1",State House,100,REP,Tom Kunse,153
+Clare,"Hayes Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,106
+Clare,"Hayes Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Hayes Township, Precinct 1",Governor,,REP,Garrett Soldano,48
+Clare,"Hayes Township, Precinct 1",Governor,,REP,James Elmer Craig,3
+Clare,"Hayes Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Hayes Township, Precinct 1",Governor,,REP,Kevin Rinke,84
+Clare,"Hayes Township, Precinct 1",Governor,,REP,Ralph Rebandt,7
+Clare,"Hayes Township, Precinct 1",Governor,,REP,Ryan D. Kelley,74
+Clare,"Hayes Township, Precinct 1",Governor,,REP,Tudor M. Dixon,109
+Clare,"Hayes Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,102
+Clare,"Hayes Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Hayes Township, Precinct 1",U.S. House,2,REP,John Moolenaar,217
+Clare,"Hayes Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,107
+Clare,"Hayes Township, Precinct 1",State Senate,34,DEM,Christine Gerace,104
+Clare,"Hayes Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,86
+Clare,"Hayes Township, Precinct 1",State Senate,34,REP,Roger Hauck,219
+Clare,"Hayes Township, Precinct 1",State House,100,DEM,Nate Bailey,105
+Clare,"Hayes Township, Precinct 1",State House,100,REP,Tom Kunse,287
+Clare,"Hayes Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,129
+Clare,"Hayes Township, Precinct 2",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Hayes Township, Precinct 2",Governor,,REP,Garrett Soldano,38
+Clare,"Hayes Township, Precinct 2",Governor,,REP,James Elmer Craig,2
+Clare,"Hayes Township, Precinct 2",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Hayes Township, Precinct 2",Governor,,REP,Kevin Rinke,70
+Clare,"Hayes Township, Precinct 2",Governor,,REP,Ralph Rebandt,5
+Clare,"Hayes Township, Precinct 2",Governor,,REP,Ryan D. Kelley,79
+Clare,"Hayes Township, Precinct 2",Governor,,REP,Tudor M. Dixon,96
+Clare,"Hayes Township, Precinct 2",U.S. House,2,DEM,Jerry Hilliard,118
+Clare,"Hayes Township, Precinct 2",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Hayes Township, Precinct 2",U.S. House,2,REP,John Moolenaar,200
+Clare,"Hayes Township, Precinct 2",U.S. House,2,REP,Thomas J. Norton,85
+Clare,"Hayes Township, Precinct 2",State Senate,34,DEM,Christine Gerace,117
+Clare,"Hayes Township, Precinct 2",State Senate,34,REP,Lisa M. Sowers,70
+Clare,"Hayes Township, Precinct 2",State Senate,34,REP,Roger Hauck,209
+Clare,"Hayes Township, Precinct 2",State House,100,DEM,Nate Bailey,117
+Clare,"Hayes Township, Precinct 2",State House,100,REP,Tom Kunse,262
+Clare,"Lincoln Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,130
+Clare,"Lincoln Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Lincoln Township, Precinct 1",Governor,,REP,Garrett Soldano,52
+Clare,"Lincoln Township, Precinct 1",Governor,,REP,James Elmer Craig,3
+Clare,"Lincoln Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Lincoln Township, Precinct 1",Governor,,REP,Kevin Rinke,116
+Clare,"Lincoln Township, Precinct 1",Governor,,REP,Ralph Rebandt,23
+Clare,"Lincoln Township, Precinct 1",Governor,,REP,Ryan D. Kelley,54
+Clare,"Lincoln Township, Precinct 1",Governor,,REP,Tudor M. Dixon,103
+Clare,"Lincoln Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,128
+Clare,"Lincoln Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Lincoln Township, Precinct 1",U.S. House,2,REP,John Moolenaar,246
+Clare,"Lincoln Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,102
+Clare,"Lincoln Township, Precinct 1",State Senate,34,DEM,Christine Gerace,127
+Clare,"Lincoln Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,89
+Clare,"Lincoln Township, Precinct 1",State Senate,34,REP,Roger Hauck,238
+Clare,"Lincoln Township, Precinct 1",State House,100,DEM,Nate Bailey,121
+Clare,"Lincoln Township, Precinct 1",State House,100,REP,Tom Kunse,291
+Clare,"Redding Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,22
+Clare,"Redding Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Redding Township, Precinct 1",Governor,,REP,Garrett Soldano,10
+Clare,"Redding Township, Precinct 1",Governor,,REP,James Elmer Craig,0
+Clare,"Redding Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Redding Township, Precinct 1",Governor,,REP,Kevin Rinke,23
+Clare,"Redding Township, Precinct 1",Governor,,REP,Ralph Rebandt,2
+Clare,"Redding Township, Precinct 1",Governor,,REP,Ryan D. Kelley,20
+Clare,"Redding Township, Precinct 1",Governor,,REP,Tudor M. Dixon,17
+Clare,"Redding Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,20
+Clare,"Redding Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Redding Township, Precinct 1",U.S. House,2,REP,John Moolenaar,50
+Clare,"Redding Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,20
+Clare,"Redding Township, Precinct 1",State Senate,34,DEM,Christine Gerace,20
+Clare,"Redding Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,14
+Clare,"Redding Township, Precinct 1",State Senate,34,REP,Roger Hauck,53
+Clare,"Redding Township, Precinct 1",State House,100,DEM,Nate Bailey,21
+Clare,"Redding Township, Precinct 1",State House,100,REP,Tom Kunse,62
+Clare,"Sheridan Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,41
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,Garrett Soldano,50
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,James Elmer Craig,0
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,Kevin Rinke,50
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,Ralph Rebandt,10
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,Ryan D. Kelley,23
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,Tudor M. Dixon,55
+Clare,"Sheridan Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,38
+Clare,"Sheridan Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Sheridan Township, Precinct 1",U.S. House,2,REP,John Moolenaar,146
+Clare,"Sheridan Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,38
+Clare,"Sheridan Township, Precinct 1",State Senate,34,DEM,Christine Gerace,36
+Clare,"Sheridan Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,20
+Clare,"Sheridan Township, Precinct 1",State Senate,34,REP,Roger Hauck,160
+Clare,"Sheridan Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,36
+Clare,"Sheridan Township, Precinct 1",State House,99,REP,Alan Hover,17
+Clare,"Sheridan Township, Precinct 1",State House,99,REP,Earl Lackie,15
+Clare,"Sheridan Township, Precinct 1",State House,99,REP,Mike Hoadley,95
+Clare,"Sheridan Township, Precinct 1",State House,99,REP,Shawn Petri,42
+Clare,"Summerfield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,21
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,Garrett Soldano,14
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,James Elmer Craig,0
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,Kevin Rinke,23
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,Ralph Rebandt,1
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,Ryan D. Kelley,12
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,Tudor M. Dixon,21
+Clare,"Summerfield Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,20
+Clare,"Summerfield Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Summerfield Township, Precinct 1",U.S. House,2,REP,John Moolenaar,56
+Clare,"Summerfield Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,12
+Clare,"Summerfield Township, Precinct 1",State Senate,34,DEM,Christine Gerace,20
+Clare,"Summerfield Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,15
+Clare,"Summerfield Township, Precinct 1",State Senate,34,REP,Roger Hauck,48
+Clare,"Summerfield Township, Precinct 1",State House,100,DEM,Nate Bailey,18
+Clare,"Summerfield Township, Precinct 1",State House,100,REP,Tom Kunse,56
+Clare,"Surrey Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,226
+Clare,"Surrey Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Surrey Township, Precinct 1",Governor,,REP,Garrett Soldano,74
+Clare,"Surrey Township, Precinct 1",Governor,,REP,James Elmer Craig,1
+Clare,"Surrey Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Surrey Township, Precinct 1",Governor,,REP,Kevin Rinke,177
+Clare,"Surrey Township, Precinct 1",Governor,,REP,Ralph Rebandt,18
+Clare,"Surrey Township, Precinct 1",Governor,,REP,Ryan D. Kelley,74
+Clare,"Surrey Township, Precinct 1",Governor,,REP,Tudor M. Dixon,139
+Clare,"Surrey Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,216
+Clare,"Surrey Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Surrey Township, Precinct 1",U.S. House,2,REP,John Moolenaar,341
+Clare,"Surrey Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,136
+Clare,"Surrey Township, Precinct 1",State Senate,34,DEM,Christine Gerace,216
+Clare,"Surrey Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,81
+Clare,"Surrey Township, Precinct 1",State Senate,34,REP,Roger Hauck,371
+Clare,"Surrey Township, Precinct 1",State House,100,DEM,Nate Bailey,213
+Clare,"Surrey Township, Precinct 1",State House,100,REP,Tom Kunse,423
+Clare,"Winterfield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,29
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,Elizabeth Ann Adkisson,0
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,Garrett Soldano,24
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,James Elmer Craig,1
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,Justin Paul Blackburn,0
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,Kevin Rinke,25
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,Ralph Rebandt,3
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,Ryan D. Kelley,16
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,Tudor M. Dixon,23
+Clare,"Winterfield Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,29
+Clare,"Winterfield Township, Precinct 1",U.S. House,2,REP,Jericho Joel Gonzales,0
+Clare,"Winterfield Township, Precinct 1",U.S. House,2,REP,John Moolenaar,71
+Clare,"Winterfield Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,23
+Clare,"Winterfield Township, Precinct 1",State Senate,34,DEM,Christine Gerace,30
+Clare,"Winterfield Township, Precinct 1",State Senate,34,REP,Lisa M. Sowers,25
+Clare,"Winterfield Township, Precinct 1",State Senate,34,REP,Roger Hauck,65
+Clare,"Winterfield Township, Precinct 1",State House,100,DEM,Nate Bailey,29
+Clare,"Winterfield Township, Precinct 1",State House,100,REP,Tom Kunse,80

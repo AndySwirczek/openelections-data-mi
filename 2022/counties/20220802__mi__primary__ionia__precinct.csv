@@ -1,0 +1,591 @@
+county,precinct,office,district,party,candidate,votes
+Ionia,City of Belding 1,Governor,,DEM,Gretchen Whitmer,77
+Ionia,City of Belding 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,City of Belding 1,Governor,,REP,Garrett Soldano,51
+Ionia,City of Belding 1,Governor,,REP,James Elmer Craig,1
+Ionia,City of Belding 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,City of Belding 1,Governor,,REP,Kevin Rinke,31
+Ionia,City of Belding 1,Governor,,REP,Ralph Rebandt,8
+Ionia,City of Belding 1,Governor,,REP,Ryan D. Kelley,35
+Ionia,City of Belding 1,Governor,,REP,Tudor M. Dixon,77
+Ionia,City of Belding 1,U.S. House,2,DEM,Jerry Hilliard,71
+Ionia,City of Belding 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,City of Belding 1,U.S. House,2,REP,John Moolenaar,125
+Ionia,City of Belding 1,U.S. House,2,REP,Thomas J. Norton,72
+Ionia,City of Belding 1,State Senate,33,DEM,Mark Bignell,71
+Ionia,City of Belding 1,State Senate,33,REP,Rick Outman,186
+Ionia,City of Belding 1,State House,91,DEM,Frank J. LaFata,22
+Ionia,City of Belding 1,State House,91,DEM,Tammy L. DeVries,52
+Ionia,City of Belding 1,State House,91,REP,Pat Outman,181
+Ionia,City of Belding 2,Governor,,DEM,Gretchen Whitmer,86
+Ionia,City of Belding 2,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,City of Belding 2,Governor,,REP,Garrett Soldano,44
+Ionia,City of Belding 2,Governor,,REP,James Elmer Craig,1
+Ionia,City of Belding 2,Governor,,REP,Justin Paul Blackburn,0
+Ionia,City of Belding 2,Governor,,REP,Kevin Rinke,20
+Ionia,City of Belding 2,Governor,,REP,Ralph Rebandt,6
+Ionia,City of Belding 2,Governor,,REP,Ryan D. Kelley,34
+Ionia,City of Belding 2,Governor,,REP,Tudor M. Dixon,52
+Ionia,City of Belding 2,U.S. House,2,DEM,Jerry Hilliard,83
+Ionia,City of Belding 2,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,City of Belding 2,U.S. House,2,REP,John Moolenaar,98
+Ionia,City of Belding 2,U.S. House,2,REP,Thomas J. Norton,59
+Ionia,City of Belding 2,State Senate,33,DEM,Mark Bignell,81
+Ionia,City of Belding 2,State Senate,33,REP,Rick Outman,145
+Ionia,City of Belding 2,State House,91,DEM,Frank J. LaFata,36
+Ionia,City of Belding 2,State House,91,DEM,Tammy L. DeVries,48
+Ionia,City of Belding 2,State House,91,REP,Pat Outman,143
+Ionia,City of Belding 3,Governor,,DEM,Gretchen Whitmer,63
+Ionia,City of Belding 3,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,City of Belding 3,Governor,,REP,Garrett Soldano,33
+Ionia,City of Belding 3,Governor,,REP,James Elmer Craig,1
+Ionia,City of Belding 3,Governor,,REP,Justin Paul Blackburn,0
+Ionia,City of Belding 3,Governor,,REP,Kevin Rinke,25
+Ionia,City of Belding 3,Governor,,REP,Ralph Rebandt,13
+Ionia,City of Belding 3,Governor,,REP,Ryan D. Kelley,24
+Ionia,City of Belding 3,Governor,,REP,Tudor M. Dixon,70
+Ionia,City of Belding 3,U.S. House,2,DEM,Jerry Hilliard,60
+Ionia,City of Belding 3,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,City of Belding 3,U.S. House,2,REP,John Moolenaar,93
+Ionia,City of Belding 3,U.S. House,2,REP,Thomas J. Norton,68
+Ionia,City of Belding 3,State Senate,33,DEM,Mark Bignell,60
+Ionia,City of Belding 3,State Senate,33,REP,Rick Outman,147
+Ionia,City of Belding 3,State House,91,DEM,Frank J. LaFata,14
+Ionia,City of Belding 3,State House,91,DEM,Tammy L. DeVries,45
+Ionia,City of Belding 3,State House,91,REP,Pat Outman,145
+Ionia,City of Ionia 1,Governor,,DEM,Gretchen Whitmer,156
+Ionia,City of Ionia 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,City of Ionia 1,Governor,,REP,Garrett Soldano,31
+Ionia,City of Ionia 1,Governor,,REP,James Elmer Craig,0
+Ionia,City of Ionia 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,City of Ionia 1,Governor,,REP,Kevin Rinke,26
+Ionia,City of Ionia 1,Governor,,REP,Ralph Rebandt,16
+Ionia,City of Ionia 1,Governor,,REP,Ryan D. Kelley,48
+Ionia,City of Ionia 1,Governor,,REP,Tudor M. Dixon,68
+Ionia,City of Ionia 1,U.S. House,2,DEM,Jerry Hilliard,139
+Ionia,City of Ionia 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,City of Ionia 1,U.S. House,2,REP,John Moolenaar,109
+Ionia,City of Ionia 1,U.S. House,2,REP,Thomas J. Norton,68
+Ionia,City of Ionia 1,State Senate,33,DEM,Mark Bignell,139
+Ionia,City of Ionia 1,State Senate,33,REP,Rick Outman,150
+Ionia,City of Ionia 1,State House,78,DEM,Leah M. Groves,139
+Ionia,City of Ionia 1,State House,78,REP,Ben Geiger,46
+Ionia,City of Ionia 1,State House,78,REP,Christine E. Barnes,44
+Ionia,City of Ionia 1,State House,78,REP,Gina Johnsen,74
+Ionia,City of Ionia 1,State House,78,REP,Jon Clint Rocha,16
+Ionia,City of Ionia 2,Governor,,DEM,Gretchen Whitmer,119
+Ionia,City of Ionia 2,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,City of Ionia 2,Governor,,REP,Garrett Soldano,43
+Ionia,City of Ionia 2,Governor,,REP,James Elmer Craig,0
+Ionia,City of Ionia 2,Governor,,REP,Justin Paul Blackburn,0
+Ionia,City of Ionia 2,Governor,,REP,Kevin Rinke,15
+Ionia,City of Ionia 2,Governor,,REP,Ralph Rebandt,4
+Ionia,City of Ionia 2,Governor,,REP,Ryan D. Kelley,25
+Ionia,City of Ionia 2,Governor,,REP,Tudor M. Dixon,58
+Ionia,City of Ionia 2,U.S. House,2,DEM,Jerry Hilliard,111
+Ionia,City of Ionia 2,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,City of Ionia 2,U.S. House,2,REP,John Moolenaar,91
+Ionia,City of Ionia 2,U.S. House,2,REP,Thomas J. Norton,53
+Ionia,City of Ionia 2,State Senate,33,DEM,Mark Bignell,110
+Ionia,City of Ionia 2,State Senate,33,REP,Rick Outman,130
+Ionia,City of Ionia 2,State House,78,DEM,Leah M. Groves,111
+Ionia,City of Ionia 2,State House,78,REP,Ben Geiger,45
+Ionia,City of Ionia 2,State House,78,REP,Christine E. Barnes,57
+Ionia,City of Ionia 2,State House,78,REP,Gina Johnsen,35
+Ionia,City of Ionia 2,State House,78,REP,Jon Clint Rocha,9
+Ionia,City of Ionia 3,Governor,,DEM,Gretchen Whitmer,140
+Ionia,City of Ionia 3,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,City of Ionia 3,Governor,,REP,Garrett Soldano,53
+Ionia,City of Ionia 3,Governor,,REP,James Elmer Craig,2
+Ionia,City of Ionia 3,Governor,,REP,Justin Paul Blackburn,0
+Ionia,City of Ionia 3,Governor,,REP,Kevin Rinke,44
+Ionia,City of Ionia 3,Governor,,REP,Ralph Rebandt,14
+Ionia,City of Ionia 3,Governor,,REP,Ryan D. Kelley,23
+Ionia,City of Ionia 3,Governor,,REP,Tudor M. Dixon,61
+Ionia,City of Ionia 3,U.S. House,2,DEM,Jerry Hilliard,132
+Ionia,City of Ionia 3,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,City of Ionia 3,U.S. House,2,REP,John Moolenaar,117
+Ionia,City of Ionia 3,U.S. House,2,REP,Thomas J. Norton,72
+Ionia,City of Ionia 3,State Senate,33,DEM,Mark Bignell,133
+Ionia,City of Ionia 3,State Senate,33,REP,Rick Outman,159
+Ionia,City of Ionia 3,State House,78,DEM,Leah M. Groves,132
+Ionia,City of Ionia 3,State House,78,REP,Ben Geiger,54
+Ionia,City of Ionia 3,State House,78,REP,Christine E. Barnes,48
+Ionia,City of Ionia 3,State House,78,REP,Gina Johnsen,78
+Ionia,City of Ionia 3,State House,78,REP,Jon Clint Rocha,12
+Ionia,City of Ionia 4,Governor,,DEM,Gretchen Whitmer,122
+Ionia,City of Ionia 4,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,City of Ionia 4,Governor,,REP,Garrett Soldano,49
+Ionia,City of Ionia 4,Governor,,REP,James Elmer Craig,1
+Ionia,City of Ionia 4,Governor,,REP,Justin Paul Blackburn,0
+Ionia,City of Ionia 4,Governor,,REP,Kevin Rinke,31
+Ionia,City of Ionia 4,Governor,,REP,Ralph Rebandt,15
+Ionia,City of Ionia 4,Governor,,REP,Ryan D. Kelley,36
+Ionia,City of Ionia 4,Governor,,REP,Tudor M. Dixon,50
+Ionia,City of Ionia 4,U.S. House,2,DEM,Jerry Hilliard,107
+Ionia,City of Ionia 4,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,City of Ionia 4,U.S. House,2,REP,John Moolenaar,112
+Ionia,City of Ionia 4,U.S. House,2,REP,Thomas J. Norton,62
+Ionia,City of Ionia 4,State Senate,33,DEM,Mark Bignell,107
+Ionia,City of Ionia 4,State Senate,33,REP,Rick Outman,153
+Ionia,City of Ionia 4,State House,78,DEM,Leah M. Groves,107
+Ionia,City of Ionia 4,State House,78,REP,Ben Geiger,56
+Ionia,City of Ionia 4,State House,78,REP,Christine E. Barnes,43
+Ionia,City of Ionia 4,State House,78,REP,Gina Johnsen,69
+Ionia,City of Ionia 4,State House,78,REP,Jon Clint Rocha,4
+Ionia,City of Portland 1,Governor,,DEM,Gretchen Whitmer,254
+Ionia,City of Portland 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,City of Portland 1,Governor,,REP,Garrett Soldano,105
+Ionia,City of Portland 1,Governor,,REP,James Elmer Craig,2
+Ionia,City of Portland 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,City of Portland 1,Governor,,REP,Kevin Rinke,87
+Ionia,City of Portland 1,Governor,,REP,Ralph Rebandt,22
+Ionia,City of Portland 1,Governor,,REP,Ryan D. Kelley,75
+Ionia,City of Portland 1,Governor,,REP,Tudor M. Dixon,188
+Ionia,City of Portland 1,U.S. House,2,DEM,Jerry Hilliard,241
+Ionia,City of Portland 1,U.S. House,2,REP,Jericho Joel Gonzales,1
+Ionia,City of Portland 1,U.S. House,2,REP,John Moolenaar,276
+Ionia,City of Portland 1,U.S. House,2,REP,Thomas J. Norton,177
+Ionia,City of Portland 1,State Senate,33,DEM,Mark Bignell,240
+Ionia,City of Portland 1,State Senate,33,REP,Rick Outman,381
+Ionia,City of Portland 1,State House,78,DEM,Leah M. Groves,238
+Ionia,City of Portland 1,State House,78,REP,Ben Geiger,110
+Ionia,City of Portland 1,State House,78,REP,Christine E. Barnes,125
+Ionia,City of Portland 1,State House,78,REP,Gina Johnsen,188
+Ionia,City of Portland 1,State House,78,REP,Jon Clint Rocha,38
+Ionia,Township of Berlin 1,Governor,,DEM,Gretchen Whitmer,167
+Ionia,Township of Berlin 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Berlin 1,Governor,,REP,Garrett Soldano,182
+Ionia,Township of Berlin 1,Governor,,REP,James Elmer Craig,3
+Ionia,Township of Berlin 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Berlin 1,Governor,,REP,Kevin Rinke,87
+Ionia,Township of Berlin 1,Governor,,REP,Ralph Rebandt,17
+Ionia,Township of Berlin 1,Governor,,REP,Ryan D. Kelley,52
+Ionia,Township of Berlin 1,Governor,,REP,Tudor M. Dixon,131
+Ionia,Township of Berlin 1,U.S. House,2,DEM,Jerry Hilliard,147
+Ionia,Township of Berlin 1,U.S. House,2,REP,Jericho Joel Gonzales,1
+Ionia,Township of Berlin 1,U.S. House,2,REP,John Moolenaar,253
+Ionia,Township of Berlin 1,U.S. House,2,REP,Thomas J. Norton,193
+Ionia,Township of Berlin 1,State Senate,33,DEM,Mark Bignell,147
+Ionia,Township of Berlin 1,State Senate,33,REP,Rick Outman,373
+Ionia,Township of Berlin 1,State House,78,DEM,Leah M. Groves,144
+Ionia,Township of Berlin 1,State House,78,REP,Ben Geiger,128
+Ionia,Township of Berlin 1,State House,78,REP,Christine E. Barnes,152
+Ionia,Township of Berlin 1,State House,78,REP,Gina Johnsen,157
+Ionia,Township of Berlin 1,State House,78,REP,Jon Clint Rocha,15
+Ionia,Township of Boston 1,Governor,,DEM,Gretchen Whitmer,107
+Ionia,Township of Boston 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Boston 1,Governor,,REP,Garrett Soldano,143
+Ionia,Township of Boston 1,Governor,,REP,James Elmer Craig,3
+Ionia,Township of Boston 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Boston 1,Governor,,REP,Kevin Rinke,72
+Ionia,Township of Boston 1,Governor,,REP,Ralph Rebandt,8
+Ionia,Township of Boston 1,Governor,,REP,Ryan D. Kelley,40
+Ionia,Township of Boston 1,Governor,,REP,Tudor M. Dixon,106
+Ionia,Township of Boston 1,U.S. House,2,DEM,Jerry Hilliard,104
+Ionia,Township of Boston 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Boston 1,U.S. House,2,REP,John Moolenaar,229
+Ionia,Township of Boston 1,U.S. House,2,REP,Thomas J. Norton,131
+Ionia,Township of Boston 1,State Senate,18,DEM,Kai W. Degraaf,104
+Ionia,Township of Boston 1,State Senate,18,REP,Ryan P. Mancinelli,94
+Ionia,Township of Boston 1,State Senate,18,REP,Thomas A. Albert,257
+Ionia,Township of Boston 1,State House,78,DEM,Leah M. Groves,104
+Ionia,Township of Boston 1,State House,78,REP,Ben Geiger,78
+Ionia,Township of Boston 1,State House,78,REP,Christine E. Barnes,88
+Ionia,Township of Boston 1,State House,78,REP,Gina Johnsen,168
+Ionia,Township of Boston 1,State House,78,REP,Jon Clint Rocha,32
+Ionia,Township of Boston 2,Governor,,DEM,Gretchen Whitmer,69
+Ionia,Township of Boston 2,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Boston 2,Governor,,REP,Garrett Soldano,157
+Ionia,Township of Boston 2,Governor,,REP,James Elmer Craig,1
+Ionia,Township of Boston 2,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Boston 2,Governor,,REP,Kevin Rinke,55
+Ionia,Township of Boston 2,Governor,,REP,Ralph Rebandt,11
+Ionia,Township of Boston 2,Governor,,REP,Ryan D. Kelley,66
+Ionia,Township of Boston 2,Governor,,REP,Tudor M. Dixon,140
+Ionia,Township of Boston 2,U.S. House,2,DEM,Jerry Hilliard,65
+Ionia,Township of Boston 2,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Boston 2,U.S. House,2,REP,John Moolenaar,251
+Ionia,Township of Boston 2,U.S. House,2,REP,Thomas J. Norton,161
+Ionia,Township of Boston 2,State Senate,18,DEM,Kai W. Degraaf,65
+Ionia,Township of Boston 2,State Senate,18,REP,Ryan P. Mancinelli,100
+Ionia,Township of Boston 2,State Senate,18,REP,Thomas A. Albert,302
+Ionia,Township of Boston 2,State House,78,DEM,Leah M. Groves,64
+Ionia,Township of Boston 2,State House,78,REP,Ben Geiger,75
+Ionia,Township of Boston 2,State House,78,REP,Christine E. Barnes,91
+Ionia,Township of Boston 2,State House,78,REP,Gina Johnsen,212
+Ionia,Township of Boston 2,State House,78,REP,Jon Clint Rocha,42
+Ionia,Township of Boston 3,Governor,,DEM,Gretchen Whitmer,74
+Ionia,Township of Boston 3,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Boston 3,Governor,,REP,Garrett Soldano,98
+Ionia,Township of Boston 3,Governor,,REP,James Elmer Craig,1
+Ionia,Township of Boston 3,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Boston 3,Governor,,REP,Kevin Rinke,50
+Ionia,Township of Boston 3,Governor,,REP,Ralph Rebandt,11
+Ionia,Township of Boston 3,Governor,,REP,Ryan D. Kelley,54
+Ionia,Township of Boston 3,Governor,,REP,Tudor M. Dixon,107
+Ionia,Township of Boston 3,U.S. House,2,DEM,Jerry Hilliard,68
+Ionia,Township of Boston 3,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Boston 3,U.S. House,2,REP,John Moolenaar,194
+Ionia,Township of Boston 3,U.S. House,2,REP,Thomas J. Norton,121
+Ionia,Township of Boston 3,State Senate,18,DEM,Kai W. Degraaf,68
+Ionia,Township of Boston 3,State Senate,18,REP,Ryan P. Mancinelli,76
+Ionia,Township of Boston 3,State Senate,18,REP,Thomas A. Albert,230
+Ionia,Township of Boston 3,State House,78,DEM,Leah M. Groves,68
+Ionia,Township of Boston 3,State House,78,REP,Ben Geiger,54
+Ionia,Township of Boston 3,State House,78,REP,Christine E. Barnes,86
+Ionia,Township of Boston 3,State House,78,REP,Gina Johnsen,162
+Ionia,Township of Boston 3,State House,78,REP,Jon Clint Rocha,16
+Ionia,Township of Campbell 1,Governor,,DEM,Gretchen Whitmer,82
+Ionia,Township of Campbell 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Campbell 1,Governor,,REP,Garrett Soldano,172
+Ionia,Township of Campbell 1,Governor,,REP,James Elmer Craig,2
+Ionia,Township of Campbell 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Campbell 1,Governor,,REP,Kevin Rinke,74
+Ionia,Township of Campbell 1,Governor,,REP,Ralph Rebandt,18
+Ionia,Township of Campbell 1,Governor,,REP,Ryan D. Kelley,39
+Ionia,Township of Campbell 1,Governor,,REP,Tudor M. Dixon,196
+Ionia,Township of Campbell 1,U.S. House,2,DEM,Jerry Hilliard,80
+Ionia,Township of Campbell 1,U.S. House,2,REP,Jericho Joel Gonzales,2
+Ionia,Township of Campbell 1,U.S. House,2,REP,John Moolenaar,289
+Ionia,Township of Campbell 1,U.S. House,2,REP,Thomas J. Norton,187
+Ionia,Township of Campbell 1,State Senate,18,DEM,Kai W. Degraaf,80
+Ionia,Township of Campbell 1,State Senate,18,REP,Ryan P. Mancinelli,125
+Ionia,Township of Campbell 1,State Senate,18,REP,Thomas A. Albert,311
+Ionia,Township of Campbell 1,State House,78,DEM,Leah M. Groves,80
+Ionia,Township of Campbell 1,State House,78,REP,Ben Geiger,101
+Ionia,Township of Campbell 1,State House,78,REP,Christine E. Barnes,67
+Ionia,Township of Campbell 1,State House,78,REP,Gina Johnsen,299
+Ionia,Township of Campbell 1,State House,78,REP,Jon Clint Rocha,30
+Ionia,Township of Danby 1,Governor,,DEM,Gretchen Whitmer,106
+Ionia,Township of Danby 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Danby 1,Governor,,REP,Garrett Soldano,96
+Ionia,Township of Danby 1,Governor,,REP,James Elmer Craig,3
+Ionia,Township of Danby 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Danby 1,Governor,,REP,Kevin Rinke,77
+Ionia,Township of Danby 1,Governor,,REP,Ralph Rebandt,19
+Ionia,Township of Danby 1,Governor,,REP,Ryan D. Kelley,87
+Ionia,Township of Danby 1,Governor,,REP,Tudor M. Dixon,183
+Ionia,Township of Danby 1,U.S. House,2,DEM,Jerry Hilliard,100
+Ionia,Township of Danby 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Danby 1,U.S. House,2,REP,John Moolenaar,266
+Ionia,Township of Danby 1,U.S. House,2,REP,Thomas J. Norton,167
+Ionia,Township of Danby 1,State Senate,33,DEM,Mark Bignell,100
+Ionia,Township of Danby 1,State Senate,33,REP,Rick Outman,376
+Ionia,Township of Danby 1,State House,78,DEM,Leah M. Groves,97
+Ionia,Township of Danby 1,State House,78,REP,Ben Geiger,84
+Ionia,Township of Danby 1,State House,78,REP,Christine E. Barnes,129
+Ionia,Township of Danby 1,State House,78,REP,Gina Johnsen,207
+Ionia,Township of Danby 1,State House,78,REP,Jon Clint Rocha,36
+Ionia,Township of Easton 1,Governor,,DEM,Gretchen Whitmer,106
+Ionia,Township of Easton 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Easton 1,Governor,,REP,Garrett Soldano,111
+Ionia,Township of Easton 1,Governor,,REP,James Elmer Craig,2
+Ionia,Township of Easton 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Easton 1,Governor,,REP,Kevin Rinke,68
+Ionia,Township of Easton 1,Governor,,REP,Ralph Rebandt,6
+Ionia,Township of Easton 1,Governor,,REP,Ryan D. Kelley,45
+Ionia,Township of Easton 1,Governor,,REP,Tudor M. Dixon,87
+Ionia,Township of Easton 1,U.S. House,2,DEM,Jerry Hilliard,94
+Ionia,Township of Easton 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Easton 1,U.S. House,2,REP,John Moolenaar,198
+Ionia,Township of Easton 1,U.S. House,2,REP,Thomas J. Norton,100
+Ionia,Township of Easton 1,State Senate,33,DEM,Mark Bignell,91
+Ionia,Township of Easton 1,State Senate,33,REP,Rick Outman,254
+Ionia,Township of Easton 1,State House,78,DEM,Leah M. Groves,90
+Ionia,Township of Easton 1,State House,78,REP,Ben Geiger,59
+Ionia,Township of Easton 1,State House,78,REP,Christine E. Barnes,95
+Ionia,Township of Easton 1,State House,78,REP,Gina Johnsen,134
+Ionia,Township of Easton 1,State House,78,REP,Jon Clint Rocha,11
+Ionia,Township of Easton 2,Governor,,DEM,Gretchen Whitmer,124
+Ionia,Township of Easton 2,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Easton 2,Governor,,REP,Garrett Soldano,62
+Ionia,Township of Easton 2,Governor,,REP,James Elmer Craig,2
+Ionia,Township of Easton 2,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Easton 2,Governor,,REP,Kevin Rinke,42
+Ionia,Township of Easton 2,Governor,,REP,Ralph Rebandt,19
+Ionia,Township of Easton 2,Governor,,REP,Ryan D. Kelley,49
+Ionia,Township of Easton 2,Governor,,REP,Tudor M. Dixon,89
+Ionia,Township of Easton 2,U.S. House,2,DEM,Jerry Hilliard,117
+Ionia,Township of Easton 2,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Easton 2,U.S. House,2,REP,John Moolenaar,154
+Ionia,Township of Easton 2,U.S. House,2,REP,Thomas J. Norton,97
+Ionia,Township of Easton 2,State Senate,33,DEM,Mark Bignell,118
+Ionia,Township of Easton 2,State Senate,33,REP,Rick Outman,204
+Ionia,Township of Easton 2,State House,78,DEM,Leah M. Groves,116
+Ionia,Township of Easton 2,State House,78,REP,Ben Geiger,68
+Ionia,Township of Easton 2,State House,78,REP,Christine E. Barnes,70
+Ionia,Township of Easton 2,State House,78,REP,Gina Johnsen,96
+Ionia,Township of Easton 2,State House,78,REP,Jon Clint Rocha,9
+Ionia,Township of Ionia 1,Governor,,DEM,Gretchen Whitmer,297
+Ionia,Township of Ionia 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Ionia 1,Governor,,REP,Garrett Soldano,180
+Ionia,Township of Ionia 1,Governor,,REP,James Elmer Craig,0
+Ionia,Township of Ionia 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Ionia 1,Governor,,REP,Kevin Rinke,149
+Ionia,Township of Ionia 1,Governor,,REP,Ralph Rebandt,26
+Ionia,Township of Ionia 1,Governor,,REP,Ryan D. Kelley,95
+Ionia,Township of Ionia 1,Governor,,REP,Tudor M. Dixon,205
+Ionia,Township of Ionia 1,U.S. House,2,DEM,Jerry Hilliard,265
+Ionia,Township of Ionia 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Ionia 1,U.S. House,2,REP,John Moolenaar,351
+Ionia,Township of Ionia 1,U.S. House,2,REP,Thomas J. Norton,245
+Ionia,Township of Ionia 1,State Senate,33,DEM,Mark Bignell,266
+Ionia,Township of Ionia 1,State Senate,33,REP,Rick Outman,510
+Ionia,Township of Ionia 1,State House,78,DEM,Leah M. Groves,261
+Ionia,Township of Ionia 1,State House,78,REP,Ben Geiger,193
+Ionia,Township of Ionia 1,State House,78,REP,Christine E. Barnes,186
+Ionia,Township of Ionia 1,State House,78,REP,Gina Johnsen,203
+Ionia,Township of Ionia 1,State House,78,REP,Jon Clint Rocha,27
+Ionia,Township of Keene 1,Governor,,DEM,Gretchen Whitmer,65
+Ionia,Township of Keene 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Keene 1,Governor,,REP,Garrett Soldano,133
+Ionia,Township of Keene 1,Governor,,REP,James Elmer Craig,0
+Ionia,Township of Keene 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Keene 1,Governor,,REP,Kevin Rinke,99
+Ionia,Township of Keene 1,Governor,,REP,Ralph Rebandt,18
+Ionia,Township of Keene 1,Governor,,REP,Ryan D. Kelley,58
+Ionia,Township of Keene 1,Governor,,REP,Tudor M. Dixon,129
+Ionia,Township of Keene 1,U.S. House,2,DEM,Jerry Hilliard,60
+Ionia,Township of Keene 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Keene 1,U.S. House,2,REP,John Moolenaar,254
+Ionia,Township of Keene 1,U.S. House,2,REP,Thomas J. Norton,155
+Ionia,Township of Keene 1,State Senate,33,DEM,Mark Bignell,61
+Ionia,Township of Keene 1,State Senate,33,REP,Rick Outman,349
+Ionia,Township of Keene 1,State House,78,DEM,Leah M. Groves,60
+Ionia,Township of Keene 1,State House,78,REP,Ben Geiger,80
+Ionia,Township of Keene 1,State House,78,REP,Christine E. Barnes,110
+Ionia,Township of Keene 1,State House,78,REP,Gina Johnsen,214
+Ionia,Township of Keene 1,State House,78,REP,Jon Clint Rocha,18
+Ionia,Township of Lyons 1,Governor,,DEM,Gretchen Whitmer,84
+Ionia,Township of Lyons 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Lyons 1,Governor,,REP,Garrett Soldano,77
+Ionia,Township of Lyons 1,Governor,,REP,James Elmer Craig,0
+Ionia,Township of Lyons 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Lyons 1,Governor,,REP,Kevin Rinke,43
+Ionia,Township of Lyons 1,Governor,,REP,Ralph Rebandt,22
+Ionia,Township of Lyons 1,Governor,,REP,Ryan D. Kelley,48
+Ionia,Township of Lyons 1,Governor,,REP,Tudor M. Dixon,89
+Ionia,Township of Lyons 1,U.S. House,2,DEM,Jerry Hilliard,73
+Ionia,Township of Lyons 1,U.S. House,2,REP,Jericho Joel Gonzales,1
+Ionia,Township of Lyons 1,U.S. House,2,REP,John Moolenaar,148
+Ionia,Township of Lyons 1,U.S. House,2,REP,Thomas J. Norton,116
+Ionia,Township of Lyons 1,State Senate,33,DEM,Mark Bignell,72
+Ionia,Township of Lyons 1,State Senate,33,REP,Rick Outman,215
+Ionia,Township of Lyons 1,State House,93,DEM,Jeffrey Lockwood,72
+Ionia,Township of Lyons 1,State House,93,REP,Alan Hoover,100
+Ionia,Township of Lyons 1,State House,93,REP,Graham Filler,141
+Ionia,Township of Lyons 2,Governor,,DEM,Gretchen Whitmer,46
+Ionia,Township of Lyons 2,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Lyons 2,Governor,,REP,Garrett Soldano,105
+Ionia,Township of Lyons 2,Governor,,REP,James Elmer Craig,0
+Ionia,Township of Lyons 2,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Lyons 2,Governor,,REP,Kevin Rinke,44
+Ionia,Township of Lyons 2,Governor,,REP,Ralph Rebandt,5
+Ionia,Township of Lyons 2,Governor,,REP,Ryan D. Kelley,22
+Ionia,Township of Lyons 2,Governor,,REP,Tudor M. Dixon,66
+Ionia,Township of Lyons 2,U.S. House,2,DEM,Jerry Hilliard,45
+Ionia,Township of Lyons 2,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Lyons 2,U.S. House,2,REP,John Moolenaar,168
+Ionia,Township of Lyons 2,U.S. House,2,REP,Thomas J. Norton,68
+Ionia,Township of Lyons 2,State Senate,33,DEM,Mark Bignell,44
+Ionia,Township of Lyons 2,State Senate,33,REP,Rick Outman,210
+Ionia,Township of Lyons 2,State House,93,DEM,Jeffrey Lockwood,44
+Ionia,Township of Lyons 2,State House,93,REP,Alan Hoover,79
+Ionia,Township of Lyons 2,State House,93,REP,Graham Filler,137
+Ionia,Township of North Plains 1,Governor,,DEM,Gretchen Whitmer,55
+Ionia,Township of North Plains 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of North Plains 1,Governor,,REP,Garrett Soldano,46
+Ionia,Township of North Plains 1,Governor,,REP,James Elmer Craig,0
+Ionia,Township of North Plains 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of North Plains 1,Governor,,REP,Kevin Rinke,34
+Ionia,Township of North Plains 1,Governor,,REP,Ralph Rebandt,5
+Ionia,Township of North Plains 1,Governor,,REP,Ryan D. Kelley,24
+Ionia,Township of North Plains 1,Governor,,REP,Tudor M. Dixon,45
+Ionia,Township of North Plains 1,U.S. House,2,DEM,Jerry Hilliard,51
+Ionia,Township of North Plains 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of North Plains 1,U.S. House,2,REP,John Moolenaar,82
+Ionia,Township of North Plains 1,U.S. House,2,REP,Thomas J. Norton,63
+Ionia,Township of North Plains 1,State Senate,33,DEM,Mark Bignell,52
+Ionia,Township of North Plains 1,State Senate,33,REP,Rick Outman,126
+Ionia,Township of North Plains 1,State House,93,DEM,Jeffrey Lockwood,52
+Ionia,Township of North Plains 1,State House,93,REP,Alan Hoover,67
+Ionia,Township of North Plains 1,State House,93,REP,Graham Filler,63
+Ionia,Township of Odessa 1,Governor,,DEM,Gretchen Whitmer,89
+Ionia,Township of Odessa 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Odessa 1,Governor,,REP,Garrett Soldano,76
+Ionia,Township of Odessa 1,Governor,,REP,James Elmer Craig,0
+Ionia,Township of Odessa 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Odessa 1,Governor,,REP,Kevin Rinke,43
+Ionia,Township of Odessa 1,Governor,,REP,Ralph Rebandt,35
+Ionia,Township of Odessa 1,Governor,,REP,Ryan D. Kelley,31
+Ionia,Township of Odessa 1,Governor,,REP,Tudor M. Dixon,89
+Ionia,Township of Odessa 1,U.S. House,2,DEM,Jerry Hilliard,84
+Ionia,Township of Odessa 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Odessa 1,U.S. House,2,REP,John Moolenaar,161
+Ionia,Township of Odessa 1,U.S. House,2,REP,Thomas J. Norton,106
+Ionia,Township of Odessa 1,State Senate,18,DEM,Kai W. Degraaf,85
+Ionia,Township of Odessa 1,State Senate,18,REP,Ryan P. Mancinelli,77
+Ionia,Township of Odessa 1,State Senate,18,REP,Thomas A. Albert,174
+Ionia,Township of Odessa 1,State House,78,DEM,Leah M. Groves,85
+Ionia,Township of Odessa 1,State House,78,REP,Ben Geiger,94
+Ionia,Township of Odessa 1,State House,78,REP,Christine E. Barnes,59
+Ionia,Township of Odessa 1,State House,78,REP,Gina Johnsen,113
+Ionia,Township of Odessa 1,State House,78,REP,Jon Clint Rocha,13
+Ionia,Township of Odessa 2,Governor,,DEM,Gretchen Whitmer,68
+Ionia,Township of Odessa 2,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Odessa 2,Governor,,REP,Garrett Soldano,127
+Ionia,Township of Odessa 2,Governor,,REP,James Elmer Craig,2
+Ionia,Township of Odessa 2,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Odessa 2,Governor,,REP,Kevin Rinke,62
+Ionia,Township of Odessa 2,Governor,,REP,Ralph Rebandt,21
+Ionia,Township of Odessa 2,Governor,,REP,Ryan D. Kelley,51
+Ionia,Township of Odessa 2,Governor,,REP,Tudor M. Dixon,139
+Ionia,Township of Odessa 2,U.S. House,2,DEM,Jerry Hilliard,66
+Ionia,Township of Odessa 2,U.S. House,2,REP,Jericho Joel Gonzales,3
+Ionia,Township of Odessa 2,U.S. House,2,REP,John Moolenaar,223
+Ionia,Township of Odessa 2,U.S. House,2,REP,Thomas J. Norton,164
+Ionia,Township of Odessa 2,State Senate,18,DEM,Kai W. Degraaf,66
+Ionia,Township of Odessa 2,State Senate,18,REP,Ryan P. Mancinelli,101
+Ionia,Township of Odessa 2,State Senate,18,REP,Thomas A. Albert,272
+Ionia,Township of Odessa 2,State House,78,DEM,Leah M. Groves,65
+Ionia,Township of Odessa 2,State House,78,REP,Ben Geiger,110
+Ionia,Township of Odessa 2,State House,78,REP,Christine E. Barnes,98
+Ionia,Township of Odessa 2,State House,78,REP,Gina Johnsen,176
+Ionia,Township of Odessa 2,State House,78,REP,Jon Clint Rocha,14
+Ionia,Township of Orange 1,Governor,,DEM,Gretchen Whitmer,64
+Ionia,Township of Orange 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Orange 1,Governor,,REP,Garrett Soldano,52
+Ionia,Township of Orange 1,Governor,,REP,James Elmer Craig,0
+Ionia,Township of Orange 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Orange 1,Governor,,REP,Kevin Rinke,58
+Ionia,Township of Orange 1,Governor,,REP,Ralph Rebandt,11
+Ionia,Township of Orange 1,Governor,,REP,Ryan D. Kelley,37
+Ionia,Township of Orange 1,Governor,,REP,Tudor M. Dixon,92
+Ionia,Township of Orange 1,U.S. House,2,DEM,Jerry Hilliard,59
+Ionia,Township of Orange 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Orange 1,U.S. House,2,REP,John Moolenaar,160
+Ionia,Township of Orange 1,U.S. House,2,REP,Thomas J. Norton,77
+Ionia,Township of Orange 1,State Senate,33,DEM,Mark Bignell,59
+Ionia,Township of Orange 1,State Senate,33,REP,Rick Outman,195
+Ionia,Township of Orange 1,State House,78,DEM,Leah M. Groves,58
+Ionia,Township of Orange 1,State House,78,REP,Ben Geiger,61
+Ionia,Township of Orange 1,State House,78,REP,Christine E. Barnes,59
+Ionia,Township of Orange 1,State House,78,REP,Gina Johnsen,119
+Ionia,Township of Orange 1,State House,78,REP,Jon Clint Rocha,9
+Ionia,Township of Orleans 1,Governor,,DEM,Gretchen Whitmer,103
+Ionia,Township of Orleans 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Orleans 1,Governor,,REP,Garrett Soldano,103
+Ionia,Township of Orleans 1,Governor,,REP,James Elmer Craig,1
+Ionia,Township of Orleans 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Orleans 1,Governor,,REP,Kevin Rinke,67
+Ionia,Township of Orleans 1,Governor,,REP,Ralph Rebandt,18
+Ionia,Township of Orleans 1,Governor,,REP,Ryan D. Kelley,50
+Ionia,Township of Orleans 1,Governor,,REP,Tudor M. Dixon,124
+Ionia,Township of Orleans 1,U.S. House,2,DEM,Jerry Hilliard,95
+Ionia,Township of Orleans 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Orleans 1,U.S. House,2,REP,John Moolenaar,187
+Ionia,Township of Orleans 1,U.S. House,2,REP,Thomas J. Norton,164
+Ionia,Township of Orleans 1,State Senate,33,DEM,Mark Bignell,92
+Ionia,Township of Orleans 1,State Senate,33,REP,Rick Outman,302
+Ionia,Township of Orleans 1,State House,91,DEM,Frank J. LaFata,39
+Ionia,Township of Orleans 1,State House,91,DEM,Tammy L. DeVries,54
+Ionia,Township of Orleans 1,State House,91,REP,Pat Outman,294
+Ionia,Township of Otisco 1,Governor,,DEM,Gretchen Whitmer,87
+Ionia,Township of Otisco 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Otisco 1,Governor,,REP,Garrett Soldano,109
+Ionia,Township of Otisco 1,Governor,,REP,James Elmer Craig,0
+Ionia,Township of Otisco 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Otisco 1,Governor,,REP,Kevin Rinke,54
+Ionia,Township of Otisco 1,Governor,,REP,Ralph Rebandt,27
+Ionia,Township of Otisco 1,Governor,,REP,Ryan D. Kelley,66
+Ionia,Township of Otisco 1,Governor,,REP,Tudor M. Dixon,150
+Ionia,Township of Otisco 1,U.S. House,2,DEM,Jerry Hilliard,81
+Ionia,Township of Otisco 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Otisco 1,U.S. House,2,REP,John Moolenaar,215
+Ionia,Township of Otisco 1,U.S. House,2,REP,Thomas J. Norton,180
+Ionia,Township of Otisco 1,State Senate,33,DEM,Mark Bignell,79
+Ionia,Township of Otisco 1,State Senate,33,REP,Rick Outman,357
+Ionia,Township of Otisco 1,State House,91,DEM,Frank J. LaFata,29
+Ionia,Township of Otisco 1,State House,91,DEM,Tammy L. DeVries,52
+Ionia,Township of Otisco 1,State House,91,REP,Pat Outman,353
+Ionia,Township of Portland 1,Governor,,DEM,Gretchen Whitmer,95
+Ionia,Township of Portland 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Portland 1,Governor,,REP,Garrett Soldano,66
+Ionia,Township of Portland 1,Governor,,REP,James Elmer Craig,1
+Ionia,Township of Portland 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Portland 1,Governor,,REP,Kevin Rinke,43
+Ionia,Township of Portland 1,Governor,,REP,Ralph Rebandt,8
+Ionia,Township of Portland 1,Governor,,REP,Ryan D. Kelley,48
+Ionia,Township of Portland 1,Governor,,REP,Tudor M. Dixon,107
+Ionia,Township of Portland 1,U.S. House,2,DEM,Jerry Hilliard,93
+Ionia,Township of Portland 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Portland 1,U.S. House,2,REP,John Moolenaar,167
+Ionia,Township of Portland 1,U.S. House,2,REP,Thomas J. Norton,89
+Ionia,Township of Portland 1,State Senate,33,DEM,Mark Bignell,93
+Ionia,Township of Portland 1,State Senate,33,REP,Rick Outman,214
+Ionia,Township of Portland 1,State House,78,DEM,Leah M. Groves,91
+Ionia,Township of Portland 1,State House,78,REP,Ben Geiger,63
+Ionia,Township of Portland 1,State House,78,REP,Christine E. Barnes,62
+Ionia,Township of Portland 1,State House,78,REP,Gina Johnsen,124
+Ionia,Township of Portland 1,State House,78,REP,Jon Clint Rocha,14
+Ionia,Township of Portland 2,Governor,,DEM,Gretchen Whitmer,100
+Ionia,Township of Portland 2,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Portland 2,Governor,,REP,Garrett Soldano,64
+Ionia,Township of Portland 2,Governor,,REP,James Elmer Craig,2
+Ionia,Township of Portland 2,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Portland 2,Governor,,REP,Kevin Rinke,63
+Ionia,Township of Portland 2,Governor,,REP,Ralph Rebandt,10
+Ionia,Township of Portland 2,Governor,,REP,Ryan D. Kelley,40
+Ionia,Township of Portland 2,Governor,,REP,Tudor M. Dixon,118
+Ionia,Township of Portland 2,U.S. House,2,DEM,Jerry Hilliard,96
+Ionia,Township of Portland 2,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Portland 2,U.S. House,2,REP,John Moolenaar,175
+Ionia,Township of Portland 2,U.S. House,2,REP,Thomas J. Norton,109
+Ionia,Township of Portland 2,State Senate,33,DEM,Mark Bignell,95
+Ionia,Township of Portland 2,State Senate,33,REP,Rick Outman,232
+Ionia,Township of Portland 2,State House,78,DEM,Leah M. Groves,94
+Ionia,Township of Portland 2,State House,78,REP,Ben Geiger,65
+Ionia,Township of Portland 2,State House,78,REP,Christine E. Barnes,85
+Ionia,Township of Portland 2,State House,78,REP,Gina Johnsen,114
+Ionia,Township of Portland 2,State House,78,REP,Jon Clint Rocha,19
+Ionia,Township of Ronald 1,Governor,,DEM,Gretchen Whitmer,93
+Ionia,Township of Ronald 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Ronald 1,Governor,,REP,Garrett Soldano,92
+Ionia,Township of Ronald 1,Governor,,REP,James Elmer Craig,0
+Ionia,Township of Ronald 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Ronald 1,Governor,,REP,Kevin Rinke,88
+Ionia,Township of Ronald 1,Governor,,REP,Ralph Rebandt,11
+Ionia,Township of Ronald 1,Governor,,REP,Ryan D. Kelley,57
+Ionia,Township of Ronald 1,Governor,,REP,Tudor M. Dixon,129
+Ionia,Township of Ronald 1,U.S. House,2,DEM,Jerry Hilliard,87
+Ionia,Township of Ronald 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Ronald 1,U.S. House,2,REP,John Moolenaar,217
+Ionia,Township of Ronald 1,U.S. House,2,REP,Thomas J. Norton,142
+Ionia,Township of Ronald 1,State Senate,33,DEM,Mark Bignell,87
+Ionia,Township of Ronald 1,State Senate,33,REP,Rick Outman,307
+Ionia,Township of Ronald 1,State House,78,DEM,Leah M. Groves,87
+Ionia,Township of Ronald 1,State House,78,REP,Ben Geiger,150
+Ionia,Township of Ronald 1,State House,78,REP,Christine E. Barnes,73
+Ionia,Township of Ronald 1,State House,78,REP,Gina Johnsen,123
+Ionia,Township of Ronald 1,State House,78,REP,Jon Clint Rocha,24
+Ionia,Township of Sebewa 1,Governor,,DEM,Gretchen Whitmer,42
+Ionia,Township of Sebewa 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Ionia,Township of Sebewa 1,Governor,,REP,Garrett Soldano,73
+Ionia,Township of Sebewa 1,Governor,,REP,James Elmer Craig,0
+Ionia,Township of Sebewa 1,Governor,,REP,Justin Paul Blackburn,0
+Ionia,Township of Sebewa 1,Governor,,REP,Kevin Rinke,33
+Ionia,Township of Sebewa 1,Governor,,REP,Ralph Rebandt,3
+Ionia,Township of Sebewa 1,Governor,,REP,Ryan D. Kelley,34
+Ionia,Township of Sebewa 1,Governor,,REP,Tudor M. Dixon,82
+Ionia,Township of Sebewa 1,U.S. House,2,DEM,Jerry Hilliard,38
+Ionia,Township of Sebewa 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Ionia,Township of Sebewa 1,U.S. House,2,REP,John Moolenaar,119
+Ionia,Township of Sebewa 1,U.S. House,2,REP,Thomas J. Norton,95
+Ionia,Township of Sebewa 1,State Senate,33,DEM,Mark Bignell,38
+Ionia,Township of Sebewa 1,State Senate,33,REP,Rick Outman,183
+Ionia,Township of Sebewa 1,State House,78,DEM,Leah M. Groves,37
+Ionia,Township of Sebewa 1,State House,78,REP,Ben Geiger,58
+Ionia,Township of Sebewa 1,State House,78,REP,Christine E. Barnes,59
+Ionia,Township of Sebewa 1,State House,78,REP,Gina Johnsen,95
+Ionia,Township of Sebewa 1,State House,78,REP,Jon Clint Rocha,10

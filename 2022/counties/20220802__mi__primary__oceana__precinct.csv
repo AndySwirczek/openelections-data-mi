@@ -1,0 +1,351 @@
+county,precinct,office,district,party,candidate,votes
+Oceana,"Benona Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,179
+Oceana,"Benona Township, Precinct 1",Governor,,REP,Garrett Soldano,66
+Oceana,"Benona Township, Precinct 1",Governor,,REP,Kevin Rinke,61
+Oceana,"Benona Township, Precinct 1",Governor,,REP,Ralph Rebandt,18
+Oceana,"Benona Township, Precinct 1",Governor,,REP,Ryan D. Kelley,95
+Oceana,"Benona Township, Precinct 1",Governor,,REP,Tudor M. Dixon,195
+Oceana,"Benona Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,171
+Oceana,"Benona Township, Precinct 1",U.S. House,2,REP,John Moolenaar,278
+Oceana,"Benona Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,132
+Oceana,"Benona Township, Precinct 1",U.S. House,2,REP,Write-In,1
+Oceana,"Benona Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,171
+Oceana,"Benona Township, Precinct 1",State Senate,32,REP,Charles Ritchard,104
+Oceana,"Benona Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,321
+Oceana,"Benona Township, Precinct 1",State Senate,32,REP,Write-In,1
+Oceana,"Benona Township, Precinct 1",State House,102,DEM,Brian Hosticka,165
+Oceana,"Benona Township, Precinct 1",State House,102,REP,Andrew Sebolt,171
+Oceana,"Benona Township, Precinct 1",State House,102,REP,Curt VanderWall,211
+Oceana,"Benona Township, Precinct 1",State House,102,REP,Ryan E. Roberts,39
+Oceana,"City of Hart, Precinct 1",Governor,,DEM,Gretchen Whitmer,85
+Oceana,"City of Hart, Precinct 1",Governor,,REP,Garrett Soldano,28
+Oceana,"City of Hart, Precinct 1",Governor,,REP,Kevin Rinke,36
+Oceana,"City of Hart, Precinct 1",Governor,,REP,Ralph Rebandt,8
+Oceana,"City of Hart, Precinct 1",Governor,,REP,Ryan D. Kelley,60
+Oceana,"City of Hart, Precinct 1",Governor,,REP,Tudor M. Dixon,104
+Oceana,"City of Hart, Precinct 1",Governor,,REP,Write-In,3
+Oceana,"City of Hart, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,79
+Oceana,"City of Hart, Precinct 1",U.S. House,2,REP,John Moolenaar,154
+Oceana,"City of Hart, Precinct 1",U.S. House,2,REP,Thomas J. Norton,82
+Oceana,"City of Hart, Precinct 1",U.S. House,2,REP,Write-In,1
+Oceana,"City of Hart, Precinct 1",State Senate,32,DEM,Terry J. Sabo,79
+Oceana,"City of Hart, Precinct 1",State Senate,32,REP,Charles Ritchard,55
+Oceana,"City of Hart, Precinct 1",State Senate,32,REP,Jon C. Bumstead,194
+Oceana,"City of Hart, Precinct 1",State House,102,DEM,Brian Hosticka,79
+Oceana,"City of Hart, Precinct 1",State House,102,REP,Andrew Sebolt,98
+Oceana,"City of Hart, Precinct 1",State House,102,REP,Curt VanderWall,125
+Oceana,"City of Hart, Precinct 1",State House,102,REP,Ryan E. Roberts,27
+Oceana,"City of Hart, Precinct 1",State House,102,REP,Write-In,3
+Oceana,"Claybanks Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,62
+Oceana,"Claybanks Township, Precinct 1",Governor,,REP,Garrett Soldano,52
+Oceana,"Claybanks Township, Precinct 1",Governor,,REP,Kevin Rinke,18
+Oceana,"Claybanks Township, Precinct 1",Governor,,REP,Ralph Rebandt,15
+Oceana,"Claybanks Township, Precinct 1",Governor,,REP,Ryan D. Kelley,35
+Oceana,"Claybanks Township, Precinct 1",Governor,,REP,Tudor M. Dixon,95
+Oceana,"Claybanks Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,61
+Oceana,"Claybanks Township, Precinct 1",U.S. House,2,REP,John Moolenaar,133
+Oceana,"Claybanks Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,71
+Oceana,"Claybanks Township, Precinct 1",U.S. House,2,REP,Write-In,2
+Oceana,"Claybanks Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,61
+Oceana,"Claybanks Township, Precinct 1",State Senate,32,REP,Charles Ritchard,65
+Oceana,"Claybanks Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,149
+Oceana,"Claybanks Township, Precinct 1",State Senate,32,REP,Write-In,2
+Oceana,"Claybanks Township, Precinct 1",State House,102,DEM,Brian Hosticka,62
+Oceana,"Claybanks Township, Precinct 1",State House,102,REP,Andrew Sebolt,90
+Oceana,"Claybanks Township, Precinct 1",State House,102,REP,Curt VanderWall,95
+Oceana,"Claybanks Township, Precinct 1",State House,102,REP,Ryan E. Roberts,21
+Oceana,"Claybanks Township, Precinct 1",State House,102,REP,Write-In,2
+Oceana,"Colfax Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,30
+Oceana,"Colfax Township, Precinct 1",Governor,,DEM,Write-In,1
+Oceana,"Colfax Township, Precinct 1",Governor,,REP,Garrett Soldano,15
+Oceana,"Colfax Township, Precinct 1",Governor,,REP,Kevin Rinke,20
+Oceana,"Colfax Township, Precinct 1",Governor,,REP,Ralph Rebandt,7
+Oceana,"Colfax Township, Precinct 1",Governor,,REP,Ryan D. Kelley,13
+Oceana,"Colfax Township, Precinct 1",Governor,,REP,Tudor M. Dixon,24
+Oceana,"Colfax Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,28
+Oceana,"Colfax Township, Precinct 1",U.S. House,2,DEM,Write-In,1
+Oceana,"Colfax Township, Precinct 1",U.S. House,2,REP,John Moolenaar,53
+Oceana,"Colfax Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,26
+Oceana,"Colfax Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,28
+Oceana,"Colfax Township, Precinct 1",State Senate,32,DEM,Write-In,1
+Oceana,"Colfax Township, Precinct 1",State Senate,32,REP,Charles Ritchard,19
+Oceana,"Colfax Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,61
+Oceana,"Colfax Township, Precinct 1",State House,101,DEM,Amanda Siggins,28
+Oceana,"Colfax Township, Precinct 1",State House,101,DEM,Write-In,1
+Oceana,"Colfax Township, Precinct 1",State House,101,REP,Chad Pierce,4
+Oceana,"Colfax Township, Precinct 1",State House,101,REP,Diane J. Schindlbeck,17
+Oceana,"Colfax Township, Precinct 1",State House,101,REP,Joseph D. Fox,31
+Oceana,"Colfax Township, Precinct 1",State House,101,REP,Kelly J. Smith,21
+Oceana,"Crystal Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,30
+Oceana,"Crystal Township, Precinct 1",Governor,,REP,Garrett Soldano,21
+Oceana,"Crystal Township, Precinct 1",Governor,,REP,Kevin Rinke,30
+Oceana,"Crystal Township, Precinct 1",Governor,,REP,Ralph Rebandt,6
+Oceana,"Crystal Township, Precinct 1",Governor,,REP,Ryan D. Kelley,28
+Oceana,"Crystal Township, Precinct 1",Governor,,REP,Tudor M. Dixon,33
+Oceana,"Crystal Township, Precinct 1",Governor,,REP,Write-In,1
+Oceana,"Crystal Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,29
+Oceana,"Crystal Township, Precinct 1",U.S. House,2,REP,John Moolenaar,62
+Oceana,"Crystal Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,54
+Oceana,"Crystal Township, Precinct 1",U.S. House,2,REP,Write-In,1
+Oceana,"Crystal Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,28
+Oceana,"Crystal Township, Precinct 1",State Senate,32,REP,Charles Ritchard,21
+Oceana,"Crystal Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,101
+Oceana,"Crystal Township, Precinct 1",State Senate,32,REP,Write-In,2
+Oceana,"Crystal Township, Precinct 1",State House,102,DEM,Brian Hosticka,29
+Oceana,"Crystal Township, Precinct 1",State House,102,REP,Andrew Sebolt,46
+Oceana,"Crystal Township, Precinct 1",State House,102,REP,Curt VanderWall,64
+Oceana,"Crystal Township, Precinct 1",State House,102,REP,Ryan E. Roberts,13
+Oceana,"Crystal Township, Precinct 1",State House,102,REP,Write-In,2
+Oceana,"Elbridge Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,35
+Oceana,"Elbridge Township, Precinct 1",Governor,,REP,Garrett Soldano,38
+Oceana,"Elbridge Township, Precinct 1",Governor,,REP,Kevin Rinke,51
+Oceana,"Elbridge Township, Precinct 1",Governor,,REP,Ralph Rebandt,14
+Oceana,"Elbridge Township, Precinct 1",Governor,,REP,Ryan D. Kelley,51
+Oceana,"Elbridge Township, Precinct 1",Governor,,REP,Tudor M. Dixon,85
+Oceana,"Elbridge Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,32
+Oceana,"Elbridge Township, Precinct 1",U.S. House,2,REP,John Moolenaar,138
+Oceana,"Elbridge Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,93
+Oceana,"Elbridge Township, Precinct 1",U.S. House,2,REP,Write-In,1
+Oceana,"Elbridge Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,31
+Oceana,"Elbridge Township, Precinct 1",State Senate,32,REP,Charles Ritchard,62
+Oceana,"Elbridge Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,179
+Oceana,"Elbridge Township, Precinct 1",State Senate,32,REP,Write-In,1
+Oceana,"Elbridge Township, Precinct 1",State House,102,DEM,Brian Hosticka,31
+Oceana,"Elbridge Township, Precinct 1",State House,102,REP,Andrew Sebolt,117
+Oceana,"Elbridge Township, Precinct 1",State House,102,REP,Curt VanderWall,106
+Oceana,"Elbridge Township, Precinct 1",State House,102,REP,Ryan E. Roberts,26
+Oceana,"Elbridge Township, Precinct 1",State House,102,REP,Write-In,1
+Oceana,"Ferry Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,46
+Oceana,"Ferry Township, Precinct 1",Governor,,REP,Garrett Soldano,58
+Oceana,"Ferry Township, Precinct 1",Governor,,REP,Kevin Rinke,41
+Oceana,"Ferry Township, Precinct 1",Governor,,REP,Ralph Rebandt,14
+Oceana,"Ferry Township, Precinct 1",Governor,,REP,Ryan D. Kelley,72
+Oceana,"Ferry Township, Precinct 1",Governor,,REP,Tudor M. Dixon,78
+Oceana,"Ferry Township, Precinct 1",Governor,,REP,Write-In,1
+Oceana,"Ferry Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,42
+Oceana,"Ferry Township, Precinct 1",U.S. House,2,REP,John Moolenaar,167
+Oceana,"Ferry Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,83
+Oceana,"Ferry Township, Precinct 1",U.S. House,2,REP,Write-In,4
+Oceana,"Ferry Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,42
+Oceana,"Ferry Township, Precinct 1",State Senate,32,REP,Charles Ritchard,93
+Oceana,"Ferry Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,163
+Oceana,"Ferry Township, Precinct 1",State Senate,32,REP,Write-In,3
+Oceana,"Ferry Township, Precinct 1",State House,102,DEM,Brian Hosticka,40
+Oceana,"Ferry Township, Precinct 1",State House,102,REP,Andrew Sebolt,132
+Oceana,"Ferry Township, Precinct 1",State House,102,REP,Curt VanderWall,111
+Oceana,"Ferry Township, Precinct 1",State House,102,REP,Ryan E. Roberts,18
+Oceana,"Ferry Township, Precinct 1",State House,102,REP,Write-In,3
+Oceana,"Golden Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,116
+Oceana,"Golden Township, Precinct 1",Governor,,REP,Garrett Soldano,83
+Oceana,"Golden Township, Precinct 1",Governor,,REP,Kevin Rinke,85
+Oceana,"Golden Township, Precinct 1",Governor,,REP,Ralph Rebandt,21
+Oceana,"Golden Township, Precinct 1",Governor,,REP,Ryan D. Kelley,94
+Oceana,"Golden Township, Precinct 1",Governor,,REP,Tudor M. Dixon,165
+Oceana,"Golden Township, Precinct 1",Governor,,REP,Write-In,2
+Oceana,"Golden Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,109
+Oceana,"Golden Township, Precinct 1",U.S. House,2,REP,John Moolenaar,292
+Oceana,"Golden Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,140
+Oceana,"Golden Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,109
+Oceana,"Golden Township, Precinct 1",State Senate,32,REP,Charles Ritchard,106
+Oceana,"Golden Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,340
+Oceana,"Golden Township, Precinct 1",State House,102,DEM,Brian Hosticka,108
+Oceana,"Golden Township, Precinct 1",State House,102,REP,Andrew Sebolt,171
+Oceana,"Golden Township, Precinct 1",State House,102,REP,Curt VanderWall,242
+Oceana,"Golden Township, Precinct 1",State House,102,REP,Ryan E. Roberts,35
+Oceana,"Grant Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,123
+Oceana,"Grant Township, Precinct 1",Governor,,DEM,Write-In,2
+Oceana,"Grant Township, Precinct 1",Governor,,REP,Garrett Soldano,111
+Oceana,"Grant Township, Precinct 1",Governor,,REP,Kevin Rinke,69
+Oceana,"Grant Township, Precinct 1",Governor,,REP,Ralph Rebandt,18
+Oceana,"Grant Township, Precinct 1",Governor,,REP,Ryan D. Kelley,90
+Oceana,"Grant Township, Precinct 1",Governor,,REP,Tudor M. Dixon,207
+Oceana,"Grant Township, Precinct 1",Governor,,REP,Write-In,1
+Oceana,"Grant Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,118
+Oceana,"Grant Township, Precinct 1",U.S. House,2,DEM,Write-In,1
+Oceana,"Grant Township, Precinct 1",U.S. House,2,REP,John Moolenaar,304
+Oceana,"Grant Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,167
+Oceana,"Grant Township, Precinct 1",U.S. House,2,REP,Write-In,3
+Oceana,"Grant Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,114
+Oceana,"Grant Township, Precinct 1",State Senate,32,DEM,Write-In,2
+Oceana,"Grant Township, Precinct 1",State Senate,32,REP,Charles Ritchard,128
+Oceana,"Grant Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,351
+Oceana,"Grant Township, Precinct 1",State Senate,32,REP,Write-In,3
+Oceana,"Grant Township, Precinct 1",State House,102,DEM,Brian Hosticka,117
+Oceana,"Grant Township, Precinct 1",State House,102,DEM,Write-In,1
+Oceana,"Grant Township, Precinct 1",State House,102,REP,Andrew Sebolt,214
+Oceana,"Grant Township, Precinct 1",State House,102,REP,Curt VanderWall,226
+Oceana,"Grant Township, Precinct 1",State House,102,REP,Ryan E. Roberts,51
+Oceana,"Greenwood Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,47
+Oceana,"Greenwood Township, Precinct 1",Governor,,DEM,Write-In,1
+Oceana,"Greenwood Township, Precinct 1",Governor,,REP,Garrett Soldano,30
+Oceana,"Greenwood Township, Precinct 1",Governor,,REP,Kevin Rinke,27
+Oceana,"Greenwood Township, Precinct 1",Governor,,REP,Ralph Rebandt,8
+Oceana,"Greenwood Township, Precinct 1",Governor,,REP,Ryan D. Kelley,32
+Oceana,"Greenwood Township, Precinct 1",Governor,,REP,Tudor M. Dixon,52
+Oceana,"Greenwood Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,49
+Oceana,"Greenwood Township, Precinct 1",U.S. House,2,REP,John Moolenaar,88
+Oceana,"Greenwood Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,56
+Oceana,"Greenwood Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,49
+Oceana,"Greenwood Township, Precinct 1",State Senate,32,REP,Charles Ritchard,41
+Oceana,"Greenwood Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,105
+Oceana,"Greenwood Township, Precinct 1",State House,102,DEM,Brian Hosticka,49
+Oceana,"Greenwood Township, Precinct 1",State House,102,REP,Andrew Sebolt,52
+Oceana,"Greenwood Township, Precinct 1",State House,102,REP,Curt VanderWall,71
+Oceana,"Greenwood Township, Precinct 1",State House,102,REP,Ryan E. Roberts,17
+Oceana,"Hart Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,96
+Oceana,"Hart Township, Precinct 1",Governor,,REP,Garrett Soldano,63
+Oceana,"Hart Township, Precinct 1",Governor,,REP,Kevin Rinke,71
+Oceana,"Hart Township, Precinct 1",Governor,,REP,Ralph Rebandt,17
+Oceana,"Hart Township, Precinct 1",Governor,,REP,Ryan D. Kelley,82
+Oceana,"Hart Township, Precinct 1",Governor,,REP,Tudor M. Dixon,186
+Oceana,"Hart Township, Precinct 1",Governor,,REP,Write-In,2
+Oceana,"Hart Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,85
+Oceana,"Hart Township, Precinct 1",U.S. House,2,REP,John Moolenaar,275
+Oceana,"Hart Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,129
+Oceana,"Hart Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,84
+Oceana,"Hart Township, Precinct 1",State Senate,32,REP,Charles Ritchard,89
+Oceana,"Hart Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,338
+Oceana,"Hart Township, Precinct 1",State House,102,DEM,Brian Hosticka,83
+Oceana,"Hart Township, Precinct 1",State House,102,REP,Andrew Sebolt,171
+Oceana,"Hart Township, Precinct 1",State House,102,REP,Curt VanderWall,220
+Oceana,"Hart Township, Precinct 1",State House,102,REP,Ryan E. Roberts,42
+Oceana,"Leavitt Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,27
+Oceana,"Leavitt Township, Precinct 1",Governor,,REP,Garrett Soldano,18
+Oceana,"Leavitt Township, Precinct 1",Governor,,REP,Kevin Rinke,21
+Oceana,"Leavitt Township, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Oceana,"Leavitt Township, Precinct 1",Governor,,REP,Ryan D. Kelley,38
+Oceana,"Leavitt Township, Precinct 1",Governor,,REP,Tudor M. Dixon,53
+Oceana,"Leavitt Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,23
+Oceana,"Leavitt Township, Precinct 1",U.S. House,2,REP,John Moolenaar,87
+Oceana,"Leavitt Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,42
+Oceana,"Leavitt Township, Precinct 1",U.S. House,2,REP,Write-In,1
+Oceana,"Leavitt Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,23
+Oceana,"Leavitt Township, Precinct 1",State Senate,32,REP,Charles Ritchard,38
+Oceana,"Leavitt Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,92
+Oceana,"Leavitt Township, Precinct 1",State Senate,32,REP,Write-In,1
+Oceana,"Leavitt Township, Precinct 1",State House,101,DEM,Amanda Siggins,24
+Oceana,"Leavitt Township, Precinct 1",State House,101,REP,Chad Pierce,9
+Oceana,"Leavitt Township, Precinct 1",State House,101,REP,Diane J. Schindlbeck,26
+Oceana,"Leavitt Township, Precinct 1",State House,101,REP,Joseph D. Fox,60
+Oceana,"Leavitt Township, Precinct 1",State House,101,REP,Kelly J. Smith,25
+Oceana,"Leavitt Township, Precinct 1",State House,101,REP,Write-In,1
+Oceana,"Newfield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,124
+Oceana,"Newfield Township, Precinct 1",Governor,,REP,Garrett Soldano,61
+Oceana,"Newfield Township, Precinct 1",Governor,,REP,Kevin Rinke,66
+Oceana,"Newfield Township, Precinct 1",Governor,,REP,Ralph Rebandt,21
+Oceana,"Newfield Township, Precinct 1",Governor,,REP,Ryan D. Kelley,137
+Oceana,"Newfield Township, Precinct 1",Governor,,REP,Tudor M. Dixon,140
+Oceana,"Newfield Township, Precinct 1",Governor,,REP,Write-In,2
+Oceana,"Newfield Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,116
+Oceana,"Newfield Township, Precinct 1",U.S. House,2,DEM,Write-In,2
+Oceana,"Newfield Township, Precinct 1",U.S. House,2,REP,John Moolenaar,261
+Oceana,"Newfield Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,147
+Oceana,"Newfield Township, Precinct 1",U.S. House,2,REP,Write-In,2
+Oceana,"Newfield Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,115
+Oceana,"Newfield Township, Precinct 1",State Senate,32,DEM,Write-In,3
+Oceana,"Newfield Township, Precinct 1",State Senate,32,REP,Charles Ritchard,125
+Oceana,"Newfield Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,307
+Oceana,"Newfield Township, Precinct 1",State Senate,32,REP,Write-In,1
+Oceana,"Newfield Township, Precinct 1",State House,102,DEM,Brian Hosticka,114
+Oceana,"Newfield Township, Precinct 1",State House,102,DEM,Write-In,3
+Oceana,"Newfield Township, Precinct 1",State House,102,REP,Andrew Sebolt,172
+Oceana,"Newfield Township, Precinct 1",State House,102,REP,Curt VanderWall,178
+Oceana,"Newfield Township, Precinct 1",State House,102,REP,Ryan E. Roberts,66
+Oceana,"Newfield Township, Precinct 1",State House,102,REP,Write-In,2
+Oceana,"Otto Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,34
+Oceana,"Otto Township, Precinct 1",Governor,,REP,Garrett Soldano,22
+Oceana,"Otto Township, Precinct 1",Governor,,REP,Kevin Rinke,24
+Oceana,"Otto Township, Precinct 1",Governor,,REP,Ralph Rebandt,11
+Oceana,"Otto Township, Precinct 1",Governor,,REP,Ryan D. Kelley,35
+Oceana,"Otto Township, Precinct 1",Governor,,REP,Tudor M. Dixon,55
+Oceana,"Otto Township, Precinct 1",Governor,,REP,Write-In,1
+Oceana,"Otto Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,34
+Oceana,"Otto Township, Precinct 1",U.S. House,2,REP,John Moolenaar,95
+Oceana,"Otto Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,43
+Oceana,"Otto Township, Precinct 1",U.S. House,2,REP,Write-In,2
+Oceana,"Otto Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,33
+Oceana,"Otto Township, Precinct 1",State Senate,32,REP,Charles Ritchard,34
+Oceana,"Otto Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,107
+Oceana,"Otto Township, Precinct 1",State Senate,32,REP,Write-In,2
+Oceana,"Otto Township, Precinct 1",State House,102,DEM,Brian Hosticka,32
+Oceana,"Otto Township, Precinct 1",State House,102,REP,Andrew Sebolt,88
+Oceana,"Otto Township, Precinct 1",State House,102,REP,Curt VanderWall,46
+Oceana,"Otto Township, Precinct 1",State House,102,REP,Ryan E. Roberts,11
+Oceana,"Otto Township, Precinct 1",State House,102,REP,Write-In,1
+Oceana,"Pentwater Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,273
+Oceana,"Pentwater Township, Precinct 1",Governor,,REP,Garrett Soldano,56
+Oceana,"Pentwater Township, Precinct 1",Governor,,REP,Kevin Rinke,105
+Oceana,"Pentwater Township, Precinct 1",Governor,,REP,Ralph Rebandt,20
+Oceana,"Pentwater Township, Precinct 1",Governor,,REP,Ryan D. Kelley,50
+Oceana,"Pentwater Township, Precinct 1",Governor,,REP,Tudor M. Dixon,172
+Oceana,"Pentwater Township, Precinct 1",Governor,,REP,Write-In,8
+Oceana,"Pentwater Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,258
+Oceana,"Pentwater Township, Precinct 1",U.S. House,2,REP,John Moolenaar,277
+Oceana,"Pentwater Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,120
+Oceana,"Pentwater Township, Precinct 1",U.S. House,2,REP,Write-In,3
+Oceana,"Pentwater Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,260
+Oceana,"Pentwater Township, Precinct 1",State Senate,32,REP,Charles Ritchard,88
+Oceana,"Pentwater Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,320
+Oceana,"Pentwater Township, Precinct 1",State Senate,32,REP,Write-In,1
+Oceana,"Pentwater Township, Precinct 1",State House,102,DEM,Brian Hosticka,261
+Oceana,"Pentwater Township, Precinct 1",State House,102,REP,Andrew Sebolt,101
+Oceana,"Pentwater Township, Precinct 1",State House,102,REP,Curt VanderWall,274
+Oceana,"Pentwater Township, Precinct 1",State House,102,REP,Ryan E. Roberts,31
+Oceana,"Pentwater Township, Precinct 1",State House,102,REP,Write-In,1
+Oceana,"Shelby Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,122
+Oceana,"Shelby Township, Precinct 1",Governor,,REP,Garrett Soldano,78
+Oceana,"Shelby Township, Precinct 1",Governor,,REP,Kevin Rinke,65
+Oceana,"Shelby Township, Precinct 1",Governor,,REP,Ralph Rebandt,17
+Oceana,"Shelby Township, Precinct 1",Governor,,REP,Ryan D. Kelley,73
+Oceana,"Shelby Township, Precinct 1",Governor,,REP,Tudor M. Dixon,128
+Oceana,"Shelby Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,107
+Oceana,"Shelby Township, Precinct 1",U.S. House,2,REP,John Moolenaar,224
+Oceana,"Shelby Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,121
+Oceana,"Shelby Township, Precinct 1",U.S. House,2,REP,Write-In,1
+Oceana,"Shelby Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,106
+Oceana,"Shelby Township, Precinct 1",State Senate,32,REP,Charles Ritchard,90
+Oceana,"Shelby Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,277
+Oceana,"Shelby Township, Precinct 1",State House,102,DEM,Brian Hosticka,106
+Oceana,"Shelby Township, Precinct 1",State House,102,REP,Andrew Sebolt,143
+Oceana,"Shelby Township, Precinct 1",State House,102,REP,Curt VanderWall,181
+Oceana,"Shelby Township, Precinct 1",State House,102,REP,Ryan E. Roberts,36
+Oceana,"Shelby Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,45
+Oceana,"Shelby Township, Precinct 2",Governor,,DEM,Write-In,1
+Oceana,"Shelby Township, Precinct 2",Governor,,REP,Garrett Soldano,61
+Oceana,"Shelby Township, Precinct 2",Governor,,REP,Kevin Rinke,54
+Oceana,"Shelby Township, Precinct 2",Governor,,REP,Ralph Rebandt,14
+Oceana,"Shelby Township, Precinct 2",Governor,,REP,Ryan D. Kelley,51
+Oceana,"Shelby Township, Precinct 2",Governor,,REP,Tudor M. Dixon,102
+Oceana,"Shelby Township, Precinct 2",Governor,,REP,Write-In,1
+Oceana,"Shelby Township, Precinct 2",U.S. House,2,DEM,Jerry Hilliard,43
+Oceana,"Shelby Township, Precinct 2",U.S. House,2,REP,John Moolenaar,196
+Oceana,"Shelby Township, Precinct 2",U.S. House,2,REP,Thomas J. Norton,79
+Oceana,"Shelby Township, Precinct 2",U.S. House,2,REP,Write-In,2
+Oceana,"Shelby Township, Precinct 2",State Senate,32,DEM,Terry J. Sabo,43
+Oceana,"Shelby Township, Precinct 2",State Senate,32,REP,Charles Ritchard,70
+Oceana,"Shelby Township, Precinct 2",State Senate,32,REP,Jon C. Bumstead,216
+Oceana,"Shelby Township, Precinct 2",State Senate,32,REP,Write-In,1
+Oceana,"Shelby Township, Precinct 2",State House,102,DEM,Brian Hosticka,43
+Oceana,"Shelby Township, Precinct 2",State House,102,REP,Andrew Sebolt,105
+Oceana,"Shelby Township, Precinct 2",State House,102,REP,Curt VanderWall,158
+Oceana,"Shelby Township, Precinct 2",State House,102,REP,Ryan E. Roberts,20
+Oceana,"Shelby Township, Precinct 2",State House,102,REP,Write-In,1
+Oceana,"Weare Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,72
+Oceana,"Weare Township, Precinct 1",Governor,,REP,Garrett Soldano,46
+Oceana,"Weare Township, Precinct 1",Governor,,REP,Kevin Rinke,33
+Oceana,"Weare Township, Precinct 1",Governor,,REP,Ralph Rebandt,10
+Oceana,"Weare Township, Precinct 1",Governor,,REP,Ryan D. Kelley,68
+Oceana,"Weare Township, Precinct 1",Governor,,REP,Tudor M. Dixon,109
+Oceana,"Weare Township, Precinct 1",Governor,,REP,Write-In,1
+Oceana,"Weare Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,72
+Oceana,"Weare Township, Precinct 1",U.S. House,2,REP,John Moolenaar,155
+Oceana,"Weare Township, Precinct 1",U.S. House,2,REP,Thomas J. Norton,102
+Oceana,"Weare Township, Precinct 1",U.S. House,2,REP,Write-In,1
+Oceana,"Weare Township, Precinct 1",State Senate,32,DEM,Terry J. Sabo,72
+Oceana,"Weare Township, Precinct 1",State Senate,32,REP,Charles Ritchard,58
+Oceana,"Weare Township, Precinct 1",State Senate,32,REP,Jon C. Bumstead,205
+Oceana,"Weare Township, Precinct 1",State Senate,32,REP,Write-In,1
+Oceana,"Weare Township, Precinct 1",State House,102,DEM,Brian Hosticka,69
+Oceana,"Weare Township, Precinct 1",State House,102,REP,Andrew Sebolt,89
+Oceana,"Weare Township, Precinct 1",State House,102,REP,Curt VanderWall,148
+Oceana,"Weare Township, Precinct 1",State House,102,REP,Ryan E. Roberts,31

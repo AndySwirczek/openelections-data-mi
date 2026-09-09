@@ -36,10 +36,14 @@ def _token():
     raise SystemExit("No PaddleOCR token: set $PADDLEOCR_TOKEN or create ~/.paddleocr_token")
 
 
-def _submit_job(pdf_path, token):
+def _submit_job(pdf_path, token, orient=False):
     import requests
     headers = {"Authorization": f"bearer {token}"}
-    data = {"model": MODEL, "optionalPayload": json.dumps(OPTIONAL_PAYLOAD)}
+    payload = dict(OPTIONAL_PAYLOAD)
+    if orient:
+        # Rotated scans drop their title lines without orientation classify.
+        payload["useDocOrientationClassify"] = True
+    data = {"model": MODEL, "optionalPayload": json.dumps(payload)}
     r = None
     for attempt in range(20):
         try:
@@ -116,11 +120,15 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("pdfs", nargs="+")
     ap.add_argument("--cache", default="/tmp/paddleocr_md")
+    ap.add_argument("--orient", action="store_true",
+                    help="enable useDocOrientationClassify (for rotated scans)")
     args = ap.parse_args()
 
     token = _token()
     for pdf_path in args.pdfs:
         stem = re.sub(r"[^A-Za-z0-9]+", "_", os.path.splitext(os.path.basename(pdf_path))[0])
+        if args.orient:
+            stem += "_orient"
         cache = os.path.join(args.cache, stem)
         os.makedirs(cache, exist_ok=True)
         done_marker = os.path.join(cache, ".complete")
@@ -129,7 +137,7 @@ def main():
             print(f"{os.path.basename(pdf_path)}: cached ({have} pages)", flush=True)
             continue
         print(f"submitting {os.path.basename(pdf_path)} ...", flush=True)
-        job_id = _submit_job(pdf_path, token)
+        job_id = _submit_job(pdf_path, token, orient=args.orient)
         print(f"    job {job_id}", flush=True)
         jsonl_url = _poll_job(job_id, token)
         pages = _fetch_pages(jsonl_url)

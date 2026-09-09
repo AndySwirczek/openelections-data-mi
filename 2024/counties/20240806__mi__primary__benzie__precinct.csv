@@ -1,0 +1,778 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee,early_voting
+Benzie,"Almira Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,46,13,33,0
+Benzie,"Benzonia Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,58,18,39,1
+Benzie,"Blaine Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,6,6,,0
+Benzie,"Colfax Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,8,6,,2
+Benzie,"Crystal Lake Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,22,12,7,3
+Benzie,"Gilmore Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,24,24,,
+Benzie,"Homestead Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,24,21,,3
+Benzie,"Inland Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,33,30,,3
+Benzie,"Joyfield Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,13,12,,1
+Benzie,"Lake Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,15,15,,
+Benzie,Lake & Platte EV,U.S. Senate,,DEM,Hill Harper,2,,,2
+Benzie,"Platte Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,6,6,,
+Benzie,"Weldon Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,9,7,,2
+Benzie,"City of Frankfort, Precinct 1",U.S. Senate,,DEM,Hill Harper,27,27,,
+Benzie,Frankfort & Gilmore EV,U.S. Senate,,DEM,Hill Harper,4,,,4
+Benzie,"Almira Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,467,95,340,32
+Benzie,"Benzonia Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,430,108,294,28
+Benzie,"Blaine Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,84,81,,3
+Benzie,"Colfax Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,23,20,,3
+Benzie,"Crystal Lake Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,219,54,149,16
+Benzie,"Gilmore Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,107,107,,
+Benzie,"Homestead Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,217,191,,26
+Benzie,"Inland Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,172,160,,12
+Benzie,"Joyfield Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,80,78,,2
+Benzie,"Lake Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,211,211,,
+Benzie,Lake & Platte EV,U.S. Senate,,DEM,Elissa Slotkin,31,,,31
+Benzie,"Platte Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,58,58,,
+Benzie,"Weldon Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,59,48,,11
+Benzie,"City of Frankfort, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,241,241,,
+Benzie,Frankfort & Gilmore EV,U.S. Senate,,DEM,Elissa Slotkin,25,,,25
+Benzie,"Almira Township, Precinct 1",U.S. Senate,,REP,Justin Amash,67,35,26,6
+Benzie,"Benzonia Township, Precinct 1",U.S. Senate,,REP,Justin Amash,39,16,17,6
+Benzie,"Blaine Township, Precinct 1",U.S. Senate,,REP,Justin Amash,9,5,,4
+Benzie,"Colfax Township, Precinct 1",U.S. Senate,,REP,Justin Amash,17,15,,2
+Benzie,"Crystal Lake Township, Precinct 1",U.S. Senate,,REP,Justin Amash,17,8,7,2
+Benzie,"Gilmore Township, Precinct 1",U.S. Senate,,REP,Justin Amash,7,7,,
+Benzie,"Homestead Township, Precinct 1",U.S. Senate,,REP,Justin Amash,36,36,,0
+Benzie,"Inland Township, Precinct 1",U.S. Senate,,REP,Justin Amash,42,37,,5
+Benzie,"Joyfield Township, Precinct 1",U.S. Senate,,REP,Justin Amash,13,11,,2
+Benzie,"Lake Township, Precinct 1",U.S. Senate,,REP,Justin Amash,14,14,,
+Benzie,Lake & Platte EV,U.S. Senate,,REP,Justin Amash,2,,,2
+Benzie,"Platte Township, Precinct 1",U.S. Senate,,REP,Justin Amash,7,7,,
+Benzie,"Weldon Township, Precinct 1",U.S. Senate,,REP,Justin Amash,14,13,,1
+Benzie,"City of Frankfort, Precinct 1",U.S. Senate,,REP,Justin Amash,25,25,,
+Benzie,Frankfort & Gilmore EV,U.S. Senate,,REP,Justin Amash,2,,,2
+Benzie,"Almira Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,114,67,40,7
+Benzie,"Benzonia Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,66,33,31,2
+Benzie,"Blaine Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,22,20,,2
+Benzie,"Colfax Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,9,6,,3
+Benzie,"Crystal Lake Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,34,15,15,4
+Benzie,"Gilmore Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,13,13,,
+Benzie,"Homestead Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,54,47,,7
+Benzie,"Inland Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,50,49,,1
+Benzie,"Joyfield Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,42,39,,3
+Benzie,"Lake Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,22,22,,
+Benzie,Lake & Platte EV,U.S. Senate,,REP,Sherry O'Donnell,5,,,5
+Benzie,"Platte Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,12,12,,
+Benzie,"Weldon Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,10,10,,0
+Benzie,"City of Frankfort, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,21,21,,
+Benzie,Frankfort & Gilmore EV,U.S. Senate,,REP,Sherry O'Donnell,0,,,0
+Benzie,"Almira Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,56,11,40,5
+Benzie,"Benzonia Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,47,14,30,3
+Benzie,"Blaine Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,7,5,,2
+Benzie,"Colfax Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,6,6,,0
+Benzie,"Crystal Lake Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,22,3,17,2
+Benzie,"Gilmore Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,14,14,,
+Benzie,"Homestead Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,16,15,,1
+Benzie,"Inland Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,23,22,,1
+Benzie,"Joyfield Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,18,15,,3
+Benzie,"Lake Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,21,21,,
+Benzie,Lake & Platte EV,U.S. Senate,,REP,Sandy Pensler,1,,,1
+Benzie,"Platte Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,5,5,,
+Benzie,"Weldon Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,7,6,,1
+Benzie,"City of Frankfort, Precinct 1",U.S. Senate,,REP,Sandy Pensler,23,23,,
+Benzie,Frankfort & Gilmore EV,U.S. Senate,,REP,Sandy Pensler,1,,,1
+Benzie,"Almira Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,314,145,131,38
+Benzie,"Benzonia Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,259,112,129,18
+Benzie,"Blaine Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,57,47,,10
+Benzie,"Colfax Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,75,69,,6
+Benzie,"Crystal Lake Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,92,35,44,13
+Benzie,"Gilmore Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,54,54,,
+Benzie,"Homestead Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,217,193,,24
+Benzie,"Inland Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,212,202,,10
+Benzie,"Joyfield Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,79,73,,6
+Benzie,"Lake Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,99,99,,
+Benzie,Lake & Platte EV,U.S. Senate,,REP,Mike Rogers,6,,,6
+Benzie,"Platte Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,35,35,,
+Benzie,"Weldon Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,61,56,,5
+Benzie,"City of Frankfort, Precinct 1",U.S. Senate,,REP,Mike Rogers,79,79,,
+Benzie,Frankfort & Gilmore EV,U.S. Senate,,REP,Mike Rogers,9,,,9
+Benzie,"Almira Township, Precinct 1",U.S. House,1,DEM,Callie Barr,299,67,210,22
+Benzie,"Benzonia Township, Precinct 1",U.S. House,1,DEM,Callie Barr,277,78,179,20
+Benzie,"Blaine Township, Precinct 1",U.S. House,1,DEM,Callie Barr,51,49,,2
+Benzie,"Colfax Township, Precinct 1",U.S. House,1,DEM,Callie Barr,20,18,,2
+Benzie,"Crystal Lake Township, Precinct 1",U.S. House,1,DEM,Callie Barr,130,33,82,15
+Benzie,"Gilmore Township, Precinct 1",U.S. House,1,DEM,Callie Barr,79,79,,
+Benzie,"Homestead Township, Precinct 1",U.S. House,1,DEM,Callie Barr,123,105,,18
+Benzie,"Inland Township, Precinct 1",U.S. House,1,DEM,Callie Barr,131,123,,8
+Benzie,"Joyfield Township, Precinct 1",U.S. House,1,DEM,Callie Barr,45,44,,1
+Benzie,"Lake Township, Precinct 1",U.S. House,1,DEM,Callie Barr,129,129,,
+Benzie,Lake & Platte EV,U.S. House,1,DEM,Callie Barr,15,,,15
+Benzie,"Platte Township, Precinct 1",U.S. House,1,DEM,Callie Barr,31,31,,
+Benzie,"Weldon Township, Precinct 1",U.S. House,1,DEM,Callie Barr,39,32,,7
+Benzie,"City of Frankfort, Precinct 1",U.S. House,1,DEM,Callie Barr,139,139,,
+Benzie,Frankfort & Gilmore EV,U.S. House,1,DEM,Callie Barr,17,,,17
+Benzie,"Almira Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,211,40,161,10
+Benzie,"Benzonia Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,210,49,152,9
+Benzie,"Blaine Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,36,35,,1
+Benzie,"Colfax Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,11,8,,3
+Benzie,"Crystal Lake Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,110,31,75,4
+Benzie,"Gilmore Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,50,50,,
+Benzie,"Homestead Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,117,107,,10
+Benzie,"Inland Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,67,60,,7
+Benzie,"Joyfield Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,45,43,,2
+Benzie,"Lake Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,90,90,,
+Benzie,Lake & Platte EV,U.S. House,1,DEM,Bob Lorinser,17,,,17
+Benzie,"Platte Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,33,33,,
+Benzie,"Weldon Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,29,23,,6
+Benzie,"City of Frankfort, Precinct 1",U.S. House,1,DEM,Bob Lorinser,124,124,,
+Benzie,Frankfort & Gilmore EV,U.S. House,1,DEM,Bob Lorinser,11,,,11
+Benzie,"Almira Township, Precinct 1",U.S. House,1,REP,Jack Bergman,448,200,196,52
+Benzie,"Benzonia Township, Precinct 1",U.S. House,1,REP,Jack Bergman,365,151,188,26
+Benzie,"Blaine Township, Precinct 1",U.S. House,1,REP,Jack Bergman,74,58,,16
+Benzie,"Colfax Township, Precinct 1",U.S. House,1,REP,Jack Bergman,95,86,,9
+Benzie,"Crystal Lake Township, Precinct 1",U.S. House,1,REP,Jack Bergman,144,57,67,20
+Benzie,"Gilmore Township, Precinct 1",U.S. House,1,REP,Jack Bergman,86,86,,
+Benzie,"Homestead Township, Precinct 1",U.S. House,1,REP,Jack Bergman,286,261,,25
+Benzie,"Inland Township, Precinct 1",U.S. House,1,REP,Jack Bergman,282,269,,13
+Benzie,"Joyfield Township, Precinct 1",U.S. House,1,REP,Jack Bergman,132,119,,13
+Benzie,"Lake Township, Precinct 1",U.S. House,1,REP,Jack Bergman,137,137,,
+Benzie,Lake & Platte EV,U.S. House,1,REP,Jack Bergman,10,,,10
+Benzie,"Platte Township, Precinct 1",U.S. House,1,REP,Jack Bergman,63,63,,
+Benzie,"Weldon Township, Precinct 1",U.S. House,1,REP,Jack Bergman,82,76,,6
+Benzie,"City of Frankfort, Precinct 1",U.S. House,1,REP,Jack Bergman,118,118,,
+Benzie,Frankfort & Gilmore EV,U.S. House,1,REP,Jack Bergman,11,,,11
+Benzie,"Almira Township, Precinct 1",U.S. House,1,REP,Josh Saul,130,66,59,5
+Benzie,"Benzonia Township, Precinct 1",U.S. House,1,REP,Josh Saul,69,34,31,4
+Benzie,"Blaine Township, Precinct 1",U.S. House,1,REP,Josh Saul,29,25,,4
+Benzie,"Colfax Township, Precinct 1",U.S. House,1,REP,Josh Saul,26,22,,4
+Benzie,"Crystal Lake Township, Precinct 1",U.S. House,1,REP,Josh Saul,32,12,17,3
+Benzie,"Gilmore Township, Precinct 1",U.S. House,1,REP,Josh Saul,7,7,,
+Benzie,"Homestead Township, Precinct 1",U.S. House,1,REP,Josh Saul,57,51,,6
+Benzie,"Inland Township, Precinct 1",U.S. House,1,REP,Josh Saul,66,60,,6
+Benzie,"Joyfield Township, Precinct 1",U.S. House,1,REP,Josh Saul,34,29,,5
+Benzie,"Lake Township, Precinct 1",U.S. House,1,REP,Josh Saul,27,27,,
+Benzie,Lake & Platte EV,U.S. House,1,REP,Josh Saul,5,,,5
+Benzie,"Platte Township, Precinct 1",U.S. House,1,REP,Josh Saul,9,9,,
+Benzie,"Weldon Township, Precinct 1",U.S. House,1,REP,Josh Saul,16,13,,3
+Benzie,"City of Frankfort, Precinct 1",U.S. House,1,REP,Josh Saul,37,37,,
+Benzie,Frankfort & Gilmore EV,U.S. House,1,REP,Josh Saul,2,,,2
+Benzie,"Almira Township, Precinct 1",State House,103,DEM,Betsy Coffia,504,103,369,32
+Benzie,"Benzonia Township, Precinct 1",State House,103,DEM,Betsy Coffia,0,0,0,0
+Benzie,"Blaine Township, Precinct 1",State House,103,DEM,Betsy Coffia,0,0,,0
+Benzie,"Colfax Township, Precinct 1",State House,103,DEM,Betsy Coffia,0,0,,0
+Benzie,"Crystal Lake Township, Precinct 1",State House,103,DEM,Betsy Coffia,0,0,0,0
+Benzie,"Gilmore Township, Precinct 1",State House,103,DEM,Betsy Coffia,0,0,,
+Benzie,"Homestead Township, Precinct 1",State House,103,DEM,Betsy Coffia,0,0,,0
+Benzie,"Inland Township, Precinct 1",State House,103,DEM,Betsy Coffia,0,0,,0
+Benzie,"Joyfield Township, Precinct 1",State House,103,DEM,Betsy Coffia,0,0,,0
+Benzie,"Lake Township, Precinct 1",State House,103,DEM,Betsy Coffia,0,0,,
+Benzie,Lake & Platte EV,State House,103,DEM,Betsy Coffia,8,,,8
+Benzie,"Platte Township, Precinct 1",State House,103,DEM,Betsy Coffia,61,61,,
+Benzie,"Weldon Township, Precinct 1",State House,103,DEM,Betsy Coffia,0,0,,0
+Benzie,"City of Frankfort, Precinct 1",State House,103,DEM,Betsy Coffia,0,0,,
+Benzie,Frankfort & Gilmore EV,State House,103,DEM,Betsy Coffia,0,,,0
+Benzie,"Almira Township, Precinct 1",State House,103,REP,Tripp Garcia,23,11,11,1
+Benzie,"Benzonia Township, Precinct 1",State House,103,REP,Tripp Garcia,0,0,0,0
+Benzie,"Blaine Township, Precinct 1",State House,103,REP,Tripp Garcia,0,0,,0
+Benzie,"Colfax Township, Precinct 1",State House,103,REP,Tripp Garcia,0,0,,0
+Benzie,"Crystal Lake Township, Precinct 1",State House,103,REP,Tripp Garcia,0,0,0,0
+Benzie,"Gilmore Township, Precinct 1",State House,103,REP,Tripp Garcia,0,0,,
+Benzie,"Homestead Township, Precinct 1",State House,103,REP,Tripp Garcia,0,0,,0
+Benzie,"Inland Township, Precinct 1",State House,103,REP,Tripp Garcia,0,0,,0
+Benzie,"Joyfield Township, Precinct 1",State House,103,REP,Tripp Garcia,0,0,,0
+Benzie,"Lake Township, Precinct 1",State House,103,REP,Tripp Garcia,0,0,,
+Benzie,Lake & Platte EV,State House,103,REP,Tripp Garcia,0,,,0
+Benzie,"Platte Township, Precinct 1",State House,103,REP,Tripp Garcia,5,5,,
+Benzie,"Weldon Township, Precinct 1",State House,103,REP,Tripp Garcia,0,0,,0
+Benzie,"City of Frankfort, Precinct 1",State House,103,REP,Tripp Garcia,0,0,,
+Benzie,Frankfort & Gilmore EV,State House,103,REP,Tripp Garcia,0,,,0
+Benzie,"Almira Township, Precinct 1",State House,103,REP,Katie Kniss,268,140,104,24
+Benzie,"Benzonia Township, Precinct 1",State House,103,REP,Katie Kniss,0,0,0,0
+Benzie,"Blaine Township, Precinct 1",State House,103,REP,Katie Kniss,0,0,,0
+Benzie,"Colfax Township, Precinct 1",State House,103,REP,Katie Kniss,0,0,,0
+Benzie,"Crystal Lake Township, Precinct 1",State House,103,REP,Katie Kniss,0,0,0,0
+Benzie,"Gilmore Township, Precinct 1",State House,103,REP,Katie Kniss,0,0,,
+Benzie,"Homestead Township, Precinct 1",State House,103,REP,Katie Kniss,0,0,,0
+Benzie,"Inland Township, Precinct 1",State House,103,REP,Katie Kniss,0,0,,0
+Benzie,"Joyfield Township, Precinct 1",State House,103,REP,Katie Kniss,0,0,,0
+Benzie,"Lake Township, Precinct 1",State House,103,REP,Katie Kniss,0,0,,
+Benzie,Lake & Platte EV,State House,103,REP,Katie Kniss,1,,,1
+Benzie,"Platte Township, Precinct 1",State House,103,REP,Katie Kniss,22,22,,
+Benzie,"Weldon Township, Precinct 1",State House,103,REP,Katie Kniss,0,0,,0
+Benzie,"City of Frankfort, Precinct 1",State House,103,REP,Katie Kniss,0,0,,
+Benzie,Frankfort & Gilmore EV,State House,103,REP,Katie Kniss,0,,,0
+Benzie,"Almira Township, Precinct 1",State House,103,REP,Lisa Trombley,281,116,135,30
+Benzie,"Benzonia Township, Precinct 1",State House,103,REP,Lisa Trombley,0,0,0,0
+Benzie,"Blaine Township, Precinct 1",State House,103,REP,Lisa Trombley,0,0,,0
+Benzie,"Colfax Township, Precinct 1",State House,103,REP,Lisa Trombley,0,0,,0
+Benzie,"Crystal Lake Township, Precinct 1",State House,103,REP,Lisa Trombley,0,0,0,0
+Benzie,"Gilmore Township, Precinct 1",State House,103,REP,Lisa Trombley,0,0,,
+Benzie,"Homestead Township, Precinct 1",State House,103,REP,Lisa Trombley,0,0,,0
+Benzie,"Inland Township, Precinct 1",State House,103,REP,Lisa Trombley,0,0,,0
+Benzie,"Joyfield Township, Precinct 1",State House,103,REP,Lisa Trombley,0,0,,0
+Benzie,"Lake Township, Precinct 1",State House,103,REP,Lisa Trombley,0,0,,
+Benzie,Lake & Platte EV,State House,103,REP,Lisa Trombley,0,,,0
+Benzie,"Platte Township, Precinct 1",State House,103,REP,Lisa Trombley,40,40,,
+Benzie,"Weldon Township, Precinct 1",State House,103,REP,Lisa Trombley,0,0,,0
+Benzie,"City of Frankfort, Precinct 1",State House,103,REP,Lisa Trombley,0,0,,
+Benzie,Frankfort & Gilmore EV,State House,103,REP,Lisa Trombley,0,,,0
+Benzie,"Almira Township, Precinct 1",State House,104,DEM,Larry Knight,0,0,0,0
+Benzie,"Benzonia Township, Precinct 1",State House,104,DEM,Larry Knight,421,116,287,18
+Benzie,"Blaine Township, Precinct 1",State House,104,DEM,Larry Knight,81,78,,3
+Benzie,"Colfax Township, Precinct 1",State House,104,DEM,Larry Knight,27,22,,5
+Benzie,"Crystal Lake Township, Precinct 1",State House,104,DEM,Larry Knight,218,57,142,19
+Benzie,"Gilmore Township, Precinct 1",State House,104,DEM,Larry Knight,116,116,,
+Benzie,"Homestead Township, Precinct 1",State House,104,DEM,Larry Knight,212,193,,19
+Benzie,"Inland Township, Precinct 1",State House,104,DEM,Larry Knight,183,169,,14
+Benzie,"Joyfield Township, Precinct 1",State House,104,DEM,Larry Knight,82,79,,3
+Benzie,"Lake Township, Precinct 1",State House,104,DEM,Larry Knight,202,202,,
+Benzie,Lake & Platte EV,State House,104,DEM,Larry Knight,23,,,23
+Benzie,"Platte Township, Precinct 1",State House,104,DEM,Larry Knight,0,0,,
+Benzie,"Weldon Township, Precinct 1",State House,104,DEM,Larry Knight,63,50,,13
+Benzie,"City of Frankfort, Precinct 1",State House,104,DEM,Larry Knight,230,230,,
+Benzie,Frankfort & Gilmore EV,State House,104,DEM,Larry Knight,23,,,23
+Benzie,"Almira Township, Precinct 1",State House,104,REP,John R. Roth,0,0,0,0
+Benzie,"Benzonia Township, Precinct 1",State House,104,REP,John R. Roth,347,140,185,22
+Benzie,"Blaine Township, Precinct 1",State House,104,REP,John R. Roth,77,61,,16
+Benzie,"Colfax Township, Precinct 1",State House,104,REP,John R. Roth,101,88,,13
+Benzie,"Crystal Lake Township, Precinct 1",State House,104,REP,John R. Roth,150,56,75,19
+Benzie,"Gilmore Township, Precinct 1",State House,104,REP,John R. Roth,69,69,,
+Benzie,"Homestead Township, Precinct 1",State House,104,REP,John R. Roth,274,251,,23
+Benzie,"Inland Township, Precinct 1",State House,104,REP,John R. Roth,283,269,,14
+Benzie,"Joyfield Township, Precinct 1",State House,104,REP,John R. Roth,142,129,,13
+Benzie,"Lake Township, Precinct 1",State House,104,REP,John R. Roth,133,133,,
+Benzie,Lake & Platte EV,State House,104,REP,John R. Roth,7,,,7
+Benzie,"Platte Township, Precinct 1",State House,104,REP,John R. Roth,0,0,,
+Benzie,"Weldon Township, Precinct 1",State House,104,REP,John R. Roth,89,82,,7
+Benzie,"City of Frankfort, Precinct 1",State House,104,REP,John R. Roth,125,125,,
+Benzie,Frankfort & Gilmore EV,State House,104,REP,John R. Roth,12,,,12
+Benzie,"Almira Township, Precinct 1",State House,104,REP,Owen J. Suhy,0,0,0,0
+Benzie,"Benzonia Township, Precinct 1",State House,104,REP,Owen J. Suhy,61,31,24,6
+Benzie,"Blaine Township, Precinct 1",State House,104,REP,Owen J. Suhy,20,18,,2
+Benzie,"Colfax Township, Precinct 1",State House,104,REP,Owen J. Suhy,21,20,,1
+Benzie,"Crystal Lake Township, Precinct 1",State House,104,REP,Owen J. Suhy,17,7,8,2
+Benzie,"Gilmore Township, Precinct 1",State House,104,REP,Owen J. Suhy,17,17,,
+Benzie,"Homestead Township, Precinct 1",State House,104,REP,Owen J. Suhy,51,45,,6
+Benzie,"Inland Township, Precinct 1",State House,104,REP,Owen J. Suhy,54,50,,4
+Benzie,"Joyfield Township, Precinct 1",State House,104,REP,Owen J. Suhy,13,11,,2
+Benzie,"Lake Township, Precinct 1",State House,104,REP,Owen J. Suhy,22,22,,
+Benzie,Lake & Platte EV,State House,104,REP,Owen J. Suhy,6,,,6
+Benzie,"Platte Township, Precinct 1",State House,104,REP,Owen J. Suhy,0,0,,
+Benzie,"Weldon Township, Precinct 1",State House,104,REP,Owen J. Suhy,9,8,,1
+Benzie,"City of Frankfort, Precinct 1",State House,104,REP,Owen J. Suhy,23,23,,
+Benzie,Frankfort & Gilmore EV,State House,104,REP,Owen J. Suhy,1,,,1
+Benzie,"Almira Township, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,490,233,212,45
+Benzie,"Benzonia Township, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,377,161,188,28
+Benzie,"Blaine Township, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,89,72,,17
+Benzie,"Colfax Township, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,105,95,,10
+Benzie,"Crystal Lake Township, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,142,51,72,19
+Benzie,"Gilmore Township, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,81,81,,
+Benzie,"Homestead Township, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,289,266,,23
+Benzie,"Inland Township, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,290,276,,14
+Benzie,"Joyfield Township, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,134,121,,13
+Benzie,"Lake Township, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,145,145,,
+Benzie,Lake & Platte EV,Prosecuting Attorney,,REP,Sara Swanson,12,,,12
+Benzie,"Platte Township, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,63,63,,
+Benzie,"Weldon Township, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,81,75,,6
+Benzie,"City of Frankfort, Precinct 1",Prosecuting Attorney,,REP,Sara Swanson,132,132,,
+Benzie,Frankfort & Gilmore EV,Prosecuting Attorney,,REP,Sara Swanson,13,,,13
+Benzie,"Almira Township, Precinct 1",Sheriff,,REP,Kyle Rosa,523,242,228,53
+Benzie,"Benzonia Township, Precinct 1",Sheriff,,REP,Kyle Rosa,403,173,200,30
+Benzie,"Blaine Township, Precinct 1",Sheriff,,REP,Kyle Rosa,97,78,,19
+Benzie,"Colfax Township, Precinct 1",Sheriff,,REP,Kyle Rosa,110,99,,11
+Benzie,"Crystal Lake Township, Precinct 1",Sheriff,,REP,Kyle Rosa,162,61,79,22
+Benzie,"Gilmore Township, Precinct 1",Sheriff,,REP,Kyle Rosa,87,87,,
+Benzie,"Homestead Township, Precinct 1",Sheriff,,REP,Kyle Rosa,315,286,,29
+Benzie,"Inland Township, Precinct 1",Sheriff,,REP,Kyle Rosa,318,300,,18
+Benzie,"Joyfield Township, Precinct 1",Sheriff,,REP,Kyle Rosa,147,134,,13
+Benzie,"Lake Township, Precinct 1",Sheriff,,REP,Kyle Rosa,151,151,,
+Benzie,Lake & Platte EV,Sheriff,,REP,Kyle Rosa,14,,,14
+Benzie,"Platte Township, Precinct 1",Sheriff,,REP,Kyle Rosa,73,73,,
+Benzie,"Weldon Township, Precinct 1",Sheriff,,REP,Kyle Rosa,85,79,,6
+Benzie,"City of Frankfort, Precinct 1",Sheriff,,REP,Kyle Rosa,136,136,,
+Benzie,Frankfort & Gilmore EV,Sheriff,,REP,Kyle Rosa,12,,,12
+Benzie,"Almira Township, Precinct 1",Clerk,,REP,Tammy Bowers,506,233,222,51
+Benzie,"Benzonia Township, Precinct 1",Clerk,,REP,Tammy Bowers,386,165,195,26
+Benzie,"Blaine Township, Precinct 1",Clerk,,REP,Tammy Bowers,95,77,,18
+Benzie,"Colfax Township, Precinct 1",Clerk,,REP,Tammy Bowers,108,98,,10
+Benzie,"Crystal Lake Township, Precinct 1",Clerk,,REP,Tammy Bowers,156,59,76,21
+Benzie,"Gilmore Township, Precinct 1",Clerk,,REP,Tammy Bowers,85,85,,
+Benzie,"Homestead Township, Precinct 1",Clerk,,REP,Tammy Bowers,306,280,,26
+Benzie,"Inland Township, Precinct 1",Clerk,,REP,Tammy Bowers,298,280,,18
+Benzie,"Joyfield Township, Precinct 1",Clerk,,REP,Tammy Bowers,148,134,,14
+Benzie,"Lake Township, Precinct 1",Clerk,,REP,Tammy Bowers,145,145,,
+Benzie,Lake & Platte EV,Clerk,,REP,Tammy Bowers,12,,,12
+Benzie,"Platte Township, Precinct 1",Clerk,,REP,Tammy Bowers,64,64,,
+Benzie,"Weldon Township, Precinct 1",Clerk,,REP,Tammy Bowers,83,77,,6
+Benzie,"City of Frankfort, Precinct 1",Clerk,,REP,Tammy Bowers,137,137,,
+Benzie,Frankfort & Gilmore EV,Clerk,,REP,Tammy Bowers,13,,,13
+Benzie,"Almira Township, Precinct 1",Treasurer,,REP,Kelly J. Long,501,233,218,50
+Benzie,"Benzonia Township, Precinct 1",Treasurer,,REP,Kelly J. Long,375,161,187,27
+Benzie,"Blaine Township, Precinct 1",Treasurer,,REP,Kelly J. Long,96,78,,18
+Benzie,"Colfax Township, Precinct 1",Treasurer,,REP,Kelly J. Long,107,96,,11
+Benzie,"Crystal Lake Township, Precinct 1",Treasurer,,REP,Kelly J. Long,152,57,74,21
+Benzie,"Gilmore Township, Precinct 1",Treasurer,,REP,Kelly J. Long,82,82,,
+Benzie,"Homestead Township, Precinct 1",Treasurer,,REP,Kelly J. Long,305,278,,27
+Benzie,"Inland Township, Precinct 1",Treasurer,,REP,Kelly J. Long,293,278,,15
+Benzie,"Joyfield Township, Precinct 1",Treasurer,,REP,Kelly J. Long,144,129,,15
+Benzie,"Lake Township, Precinct 1",Treasurer,,REP,Kelly J. Long,146,146,,
+Benzie,Lake & Platte EV,Treasurer,,REP,Kelly J. Long,13,,,13
+Benzie,"Platte Township, Precinct 1",Treasurer,,REP,Kelly J. Long,62,62,,
+Benzie,"Weldon Township, Precinct 1",Treasurer,,REP,Kelly J. Long,81,75,,6
+Benzie,"City of Frankfort, Precinct 1",Treasurer,,REP,Kelly J. Long,137,137,,
+Benzie,Frankfort & Gilmore EV,Treasurer,,REP,Kelly J. Long,13,,,13
+Benzie,"Almira Township, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,497,229,218,50
+Benzie,"Benzonia Township, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,393,171,196,26
+Benzie,"Blaine Township, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,95,77,,18
+Benzie,"Colfax Township, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,110,100,,10
+Benzie,"Crystal Lake Township, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,150,57,72,21
+Benzie,"Gilmore Township, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,83,83,,
+Benzie,"Homestead Township, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,312,285,,27
+Benzie,"Inland Township, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,292,277,,15
+Benzie,"Joyfield Township, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,150,136,,14
+Benzie,"Lake Township, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,147,147,,
+Benzie,Lake & Platte EV,Register of Deeds,,REP,Paula M. Eberhart,13,,,13
+Benzie,"Platte Township, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,65,65,,
+Benzie,"Weldon Township, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,82,76,,6
+Benzie,"City of Frankfort, Precinct 1",Register of Deeds,,REP,Paula M. Eberhart,131,131,,
+Benzie,Frankfort & Gilmore EV,Register of Deeds,,REP,Paula M. Eberhart,13,,,13
+Benzie,"Almira Township, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,497,228,220,49
+Benzie,"Benzonia Township, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,392,170,194,28
+Benzie,"Blaine Township, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,92,75,,17
+Benzie,"Colfax Township, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,108,98,,10
+Benzie,"Crystal Lake Township, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,145,55,68,22
+Benzie,"Gilmore Township, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,80,80,,
+Benzie,"Homestead Township, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,303,275,,28
+Benzie,"Inland Township, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,313,295,,18
+Benzie,"Joyfield Township, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,144,130,,14
+Benzie,"Lake Township, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,143,143,,
+Benzie,Lake & Platte EV,County Road Commission,,REP,Paul A. Beechraft,13,,,13
+Benzie,"Platte Township, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,64,64,,
+Benzie,"Weldon Township, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,81,74,,7
+Benzie,"City of Frankfort, Precinct 1",County Road Commission,,REP,Paul A. Beechraft,132,132,,
+Benzie,Frankfort & Gilmore EV,County Road Commission,,REP,Paul A. Beechraft,13,,,13
+Benzie,"Almira Township, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,342,74,243,25
+Benzie,"Benzonia Township, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,352,99,235,18
+Benzie,"Blaine Township, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,51,49,,2
+Benzie,"Colfax Township, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,23,18,,5
+Benzie,"Crystal Lake Township, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,201,56,127,18
+Benzie,"Gilmore Township, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,89,89,,
+Benzie,"Homestead Township, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,171,159,,12
+Benzie,"Inland Township, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,153,144,,9
+Benzie,"Joyfield Township, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,61,60,,1
+Benzie,"Lake Township, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,183,183,,
+Benzie,Lake & Platte EV,Drain Commissioner,,DEM,Edward Hoogterp,24,,,24
+Benzie,"Platte Township, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,50,50,,
+Benzie,"Weldon Township, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,48,38,,10
+Benzie,"City of Frankfort, Precinct 1",Drain Commissioner,,DEM,Edward Hoogterp,184,184,,
+Benzie,Frankfort & Gilmore EV,Drain Commissioner,,DEM,Edward Hoogterp,22,,,22
+Benzie,"Almira Township, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,470,222,202,46
+Benzie,"Benzonia Township, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,372,160,184,28
+Benzie,"Blaine Township, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,90,72,,18
+Benzie,"Colfax Township, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,108,98,,10
+Benzie,"Crystal Lake Township, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,143,55,68,20
+Benzie,"Gilmore Township, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,80,80,,
+Benzie,"Homestead Township, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,291,265,,26
+Benzie,"Inland Township, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,270,258,,12
+Benzie,"Joyfield Township, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,134,122,,12
+Benzie,"Lake Township, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,132,132,,
+Benzie,Lake & Platte EV,Drain Commissioner,,REP,Mike Fiebing,13,,,13
+Benzie,"Platte Township, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,59,59,,
+Benzie,"Weldon Township, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,77,71,,6
+Benzie,"City of Frankfort, Precinct 1",Drain Commissioner,,REP,Mike Fiebing,129,129,,
+Benzie,Frankfort & Gilmore EV,Drain Commissioner,,REP,Mike Fiebing,13,,,13
+Benzie,"Almira Township, Precinct 1",Surveyor,,REP,John B. Smendzuik,477,222,206,49
+Benzie,"Benzonia Township, Precinct 1",Surveyor,,REP,John B. Smendzuik,370,158,184,28
+Benzie,"Blaine Township, Precinct 1",Surveyor,,REP,John B. Smendzuik,92,74,,18
+Benzie,"Colfax Township, Precinct 1",Surveyor,,REP,John B. Smendzuik,103,93,,10
+Benzie,"Crystal Lake Township, Precinct 1",Surveyor,,REP,John B. Smendzuik,150,55,74,21
+Benzie,"Gilmore Township, Precinct 1",Surveyor,,REP,John B. Smendzuik,79,79,,
+Benzie,"Homestead Township, Precinct 1",Surveyor,,REP,John B. Smendzuik,292,266,,26
+Benzie,"Inland Township, Precinct 1",Surveyor,,REP,John B. Smendzuik,287,273,,14
+Benzie,"Joyfield Township, Precinct 1",Surveyor,,REP,John B. Smendzuik,135,123,,12
+Benzie,"Lake Township, Precinct 1",Surveyor,,REP,John B. Smendzuik,143,143,,
+Benzie,Lake & Platte EV,Surveyor,,REP,John B. Smendzuik,13,,,13
+Benzie,"Platte Township, Precinct 1",Surveyor,,REP,John B. Smendzuik,63,63,,
+Benzie,"Weldon Township, Precinct 1",Surveyor,,REP,John B. Smendzuik,78,72,,6
+Benzie,"City of Frankfort, Precinct 1",Surveyor,,REP,John B. Smendzuik,131,131,,
+Benzie,Frankfort & Gilmore EV,Surveyor,,REP,John B. Smendzuik,12,,,12
+Benzie,"Almira Township, Precinct 1",County Commissioner 1st District,,REP,Bob Roelofs,326,156,142,28
+Benzie,"Almira Township, Precinct 1",County Commissioner 2nd District,,DEM,Stewart Allison McFerran,126,29,88,9
+Benzie,"Inland Township, Precinct 1",County Commissioner 2nd District,,DEM,Stewart Allison McFerran,47,42,,5
+Benzie,"Lake Township, Precinct 1",County Commissioner 2nd District,,DEM,Stewart Allison McFerran,145,145,,
+Benzie,Lake & Platte EV,County Commissioner 2nd District,,DEM,Stewart Allison McFerran,23,,,23
+Benzie,"Platte Township, Precinct 1",County Commissioner 2nd District,,DEM,Stewart Allison McFerran,53,53,,
+Benzie,"Almira Township, Precinct 1",County Commissioner 2nd District,,REP,Art Jeannot,165,71,70,24
+Benzie,"Inland Township, Precinct 1",County Commissioner 2nd District,,REP,Art Jeannot,72,67,,5
+Benzie,"Lake Township, Precinct 1",County Commissioner 2nd District,,REP,Art Jeannot,112,112,,
+Benzie,Lake & Platte EV,County Commissioner 2nd District,,REP,Art Jeannot,9,,,9
+Benzie,"Platte Township, Precinct 1",County Commissioner 2nd District,,REP,Art Jeannot,63,63,,
+Benzie,"Crystal Lake Township, Precinct 1",County Commissioner 3rd District,,DEM,Christina Trigg,206,56,133,17
+Benzie,"Lake Township, Precinct 1",County Commissioner 3rd District,,DEM,Christina Trigg,51,51,,
+Benzie,Lake & Platte EV,County Commissioner 3rd District,,DEM,Christina Trigg,5,,,5
+Benzie,"City of Frankfort, Precinct 1",County Commissioner 3rd District,,DEM,Christina Trigg,210,210,,
+Benzie,Frankfort & Gilmore EV,County Commissioner 3rd District,,DEM,Christina Trigg,18,,,18
+Benzie,"Crystal Lake Township, Precinct 1",County Commissioner 3rd District,,REP,Andy Miller,161,62,77,22
+Benzie,"Lake Township, Precinct 1",County Commissioner 3rd District,,REP,Andy Miller,30,30,,
+Benzie,Lake & Platte EV,County Commissioner 3rd District,,REP,Andy Miller,4,,,4
+Benzie,"City of Frankfort, Precinct 1",County Commissioner 3rd District,,REP,Andy Miller,143,143,,
+Benzie,Frankfort & Gilmore EV,County Commissioner 3rd District,,REP,Andy Miller,13,,,13
+Benzie,"Benzonia Township, Precinct 1",County Commissioner 4th District,,REP,Rhonda Nye,372,163,184,25
+Benzie,"Benzonia Township, Precinct 1",County Commissioner 5th District,,DEM,Michael F. Smith,18,4,13,1
+Benzie,"Homestead Township, Precinct 1",County Commissioner 5th District,,DEM,Michael F. Smith,188,174,,14
+Benzie,"Benzonia Township, Precinct 1",County Commissioner 5th District,,REP,Tim Markey,20,6,11,3
+Benzie,"Homestead Township, Precinct 1",County Commissioner 5th District,,REP,Tim Markey,297,271,,26
+Benzie,"Colfax Township, Precinct 1",County Commissioner 6th District,,DEM,Marie Wohadlo,27,22,,5
+Benzie,"Inland Township, Precinct 1",County Commissioner 6th District,,DEM,Marie Wohadlo,115,107,,8
+Benzie,"Colfax Township, Precinct 1",County Commissioner 6th District,,REP,Evan J. Warsecke,113,102,,11
+Benzie,"Inland Township, Precinct 1",County Commissioner 6th District,,REP,Evan J. Warsecke,221,209,,12
+Benzie,"Blaine Township, Precinct 1",County Commissioner 7th District,,REP,Gary G. Sauer,96,79,,17
+Benzie,"Gilmore Township, Precinct 1",County Commissioner 7th District,,REP,Gary G. Sauer,83,83,,
+Benzie,"Joyfield Township, Precinct 1",County Commissioner 7th District,,REP,Gary G. Sauer,147,132,,15
+Benzie,"Weldon Township, Precinct 1",County Commissioner 7th District,,REP,Gary G. Sauer,82,76,,6
+Benzie,Frankfort & Gilmore EV,County Commissioner 7th District,,REP,Gary G. Sauer,0,,,0
+Benzie,"Blaine Township, Precinct 1",County Commissioner 7th District,,,Write-In,21,18,,3
+Benzie,"Gilmore Township, Precinct 1",County Commissioner 7th District,,,Write-In,2,2,,
+Benzie,"Joyfield Township, Precinct 1",County Commissioner 7th District,,,Write-In,9,8,,1
+Benzie,"Weldon Township, Precinct 1",County Commissioner 7th District,,,Write-In,6,4,,2
+Benzie,Frankfort & Gilmore EV,County Commissioner 7th District,,,Write-In,2,,,2
+Benzie,"Almira Township, Precinct 1",Almira Township Supervisor,,REP,Mark E. Roper,490,229,214,47
+Benzie,"Almira Township, Precinct 1",Almira Township Clerk,,REP,Tammy Clous,492,228,218,46
+Benzie,"Almira Township, Precinct 1",Almira Township Treasurer,,DEM,Mandy Gray Rineer,391,80,287,24
+Benzie,"Almira Township, Precinct 1",Almira Township Trustee,,REP,Lori Florip,351,153,166,32
+Benzie,"Almira Township, Precinct 1",Almira Township Trustee,,REP,Matthew Therrien,470,218,206,46
+Benzie,"Almira Township, Precinct 1","Almira Township, Precinct 1 Delegate to County Convention",,REP,Andrew J. Alpers,306,154,116,36
+Benzie,"Almira Township, Precinct 1","Almira Township, Precinct 1 Delegate to County Convention",,REP,Randal E. Cosens,258,114,117,27
+Benzie,"Almira Township, Precinct 1","Almira Township, Precinct 1 Delegate to County Convention",,REP,Rick Drewyour,259,121,112,26
+Benzie,"Almira Township, Precinct 1","Almira Township, Precinct 1 Delegate to County Convention",,REP,Ernie Hromada,231,112,97,22
+Benzie,"Almira Township, Precinct 1","Almira Township, Precinct 1 Delegate to County Convention",,REP,Andrew Mazur,225,108,90,27
+Benzie,"Almira Township, Precinct 1","Almira Township, Precinct 1 Delegate to County Convention",,REP,Brent Mazur,223,111,86,26
+Benzie,"Almira Township, Precinct 1","Almira Township, Precinct 1 Delegate to County Convention",,REP,Kate Mazur,230,114,90,26
+Benzie,"Almira Township, Precinct 1","Almira Township, Precinct 1 Delegate to County Convention",,REP,Ruth Mazur,219,109,86,24
+Benzie,"Almira Township, Precinct 1","Almira Township, Precinct 1 Delegate to County Convention",,REP,David Stabnau,229,109,94,26
+Benzie,"Almira Township, Precinct 1","Almira Township, Precinct 1 Delegate to County Convention",,REP,Michelle Stabnau,229,113,93,23
+Benzie,"Almira Township, Precinct 1","Almira Township, Precinct 1 Delegate to County Convention",,REP,Raymond Stabnau,222,110,89,23
+Benzie,"Benzonia Township, Precinct 1",Benzonia Township Supervisor,,DEM,Jason A. Barnard,425,112,289,24
+Benzie,"Benzonia Township, Precinct 1",Benzonia Township Clerk,,DEM,Patricia Perkette,398,110,268,20
+Benzie,"Benzonia Township, Precinct 1",Benzonia Township Clerk,,REP,Diana L. Heller,382,161,196,25
+Benzie,"Benzonia Township, Precinct 1",Benzonia Township Treasurer,,REP,Karen L. Burns,385,163,199,23
+Benzie,"Benzonia Township, Precinct 1",Benzonia Township Trustee,,DEM,David Gardner,308,77,219,12
+Benzie,"Benzonia Township, Precinct 1",Benzonia Township Trustee,,DEM,Julie Orr,411,107,281,23
+Benzie,"Benzonia Township, Precinct 1",Benzonia Township Trustee,,REP,Ed Currier,291,121,155,15
+Benzie,"Benzonia Township, Precinct 1",Benzonia Township Trustee,,REP,Alan Rose,305,128,157,20
+Benzie,"Benzonia Township, Precinct 1","Benzonia Township, Precinct 1 Delegate to County Convention",,REP,Joanne Appelhof,242,97,131,14
+Benzie,"Benzonia Township, Precinct 1","Benzonia Township, Precinct 1 Delegate to County Convention",,REP,Edward Currier,237,101,123,13
+Benzie,"Benzonia Township, Precinct 1","Benzonia Township, Precinct 1 Delegate to County Convention",,REP,Joan L. Currier,213,86,116,11
+Benzie,"Benzonia Township, Precinct 1","Benzonia Township, Precinct 1 Delegate to County Convention",,REP,Michael J. Ignace,221,95,114,12
+Benzie,"Benzonia Township, Precinct 1","Benzonia Township, Precinct 1 Delegate to County Convention",,REP,Connie L. Marshall,245,99,132,14
+Benzie,"Benzonia Township, Precinct 1","Benzonia Township, Precinct 1 Delegate to County Convention",,REP,John P. Marshall,265,106,142,17
+Benzie,"Benzonia Township, Precinct 1","Benzonia Township, Precinct 1 Delegate to County Convention",,,Leonard Marvin Merrill Jr.,258,110,132,16
+Benzie,"Benzonia Township, Precinct 1","Benzonia Township, Precinct 1 Delegate to County Convention",,REP,Sally Jo Messersmith,221,89,117,15
+Benzie,"Blaine Township, Precinct 1",Blaine Township Supervisor,,REP,Paul E. Crandall,86,69,,17
+Benzie,"Blaine Township, Precinct 1",Blaine Township Clerk,,REP,Marjorie Rohn,88,72,,16
+Benzie,"Blaine Township, Precinct 1",Blaine Township Treasurer,,REP,Cynthia Sauer,93,76,,17
+Benzie,"Blaine Township, Precinct 1",Blaine Township Trustee,,REP,Charles Beale,83,72,,11
+Benzie,"Blaine Township, Precinct 1",Blaine Township Trustee,,REP,Walter Rohn,87,71,,16
+Benzie,"Blaine Township, Precinct 1","Blaine Township, Precinct 1 Delegate to County Convention",,REP,Mark G. Smith,83,68,,15
+Benzie,"Blaine Township, Precinct 1","Blaine Township, Precinct 1 Delegate to County Convention",,REP,Richard R. Taylor,73,59,,14
+Benzie,"Colfax Township, Precinct 1",Colfax Township Supervisor,,REP,Ron Seguin,100,87,,13
+Benzie,"Colfax Township, Precinct 1",Colfax Township Supervisor,,,Audrey J. Swisher,25,24,,1
+Benzie,"Colfax Township, Precinct 1",Colfax Township Clerk,,REP,Irene Dunham- Thayer,27,23,,4
+Benzie,"Colfax Township, Precinct 1",Colfax Township Clerk,,REP,DeAnn Mosher,97,87,,10
+Benzie,"Colfax Township, Precinct 1",Colfax Township Treasurer,,REP,Amanda Dunham,55,52,,3
+Benzie,"Colfax Township, Precinct 1",Colfax Township Treasurer,,REP,Barbara Hoseit,63,53,,10
+Benzie,"Colfax Township, Precinct 1",Colfax Township Trustee,,REP,Tom Besey,88,80,,8
+Benzie,"Colfax Township, Precinct 1",Colfax Township Trustee,,REP,Shelley Greene,66,55,,11
+Benzie,"Colfax Township, Precinct 1",Colfax Township Trustee,,REP,Gene Hoseit,35,33,,2
+Benzie,"Colfax Township, Precinct 1","Colfax Township, Precinct 1 Delegate to County Convention",,REP,Darlene Mathieu,93,84,,9
+Benzie,"Crystal Lake Township, Precinct 1",Crystal Lake Township Supervisor,,DEM,Amy Ferris,216,56,140,20
+Benzie,"Crystal Lake Township, Precinct 1",Crystal Lake Township Clerk,,DEM,Katherine Ralston,209,57,134,18
+Benzie,"Crystal Lake Township, Precinct 1",Crystal Lake Township Clerk,,REP,Judith VanMeter,156,59,76,21
+Benzie,"Crystal Lake Township, Precinct 1",Crystal Lake Township Treasurer,,DEM,Jill Marble,224,59,145,20
+Benzie,"Crystal Lake Township, Precinct 1",Crystal Lake Township Trustee,,DEM,Gregory Wright,230,58,152,20
+Benzie,"Crystal Lake Township, Precinct 1",Crystal Lake Township Trustee,,REP,Richard Nielsen,110,38,57,15
+Benzie,"Crystal Lake Township, Precinct 1",Crystal Lake Township Trustee,,REP,Sue Webber,143,55,69,19
+Benzie,"Crystal Lake Township, Precinct 1","Crystal Lake Township, Precinct 1 Delegate to County Convention",,REP,Brian Halliday,119,44,57,18
+Benzie,"Crystal Lake Township, Precinct 1","Crystal Lake Township, Precinct 1 Delegate to County Convention",,REP,Martha Papineau,122,42,62,18
+Benzie,"Crystal Lake Township, Precinct 1","Crystal Lake Township, Precinct 1 Delegate to County Convention",,REP,Brenda Sue Webber,131,50,63,18
+Benzie,"Gilmore Township, Precinct 1",Gilmore Township Trustee,,REP,Daniel H. Carter,66,66,,
+Benzie,Frankfort & Gilmore EV,Gilmore Township Trustee,,REP,Daniel H. Carter,0,,,0
+Benzie,"Gilmore Township, Precinct 1","Gilmore Township, Precinct 1 Delegate to County Convention",,REP,Janice Mick,68,68,,
+Benzie,Frankfort & Gilmore EV,"Gilmore Township, Precinct 1 Delegate to County Convention",,REP,Janice Mick,0,,,0
+Benzie,"Homestead Township, Precinct 1",Homestead Township Supervisor,,REP,Tia Kurina-Cooley,282,257,,25
+Benzie,"Homestead Township, Precinct 1",Homestead Township Clerk,,REP,Kit Wilson,282,256,,26
+Benzie,"Homestead Township, Precinct 1",Homestead Township Treasurer,,REP,Beverly Holbrook,282,258,,24
+Benzie,"Homestead Township, Precinct 1",Homestead Township Trustee,,REP,Michael C. Mead,253,233,,20
+Benzie,"Homestead Township, Precinct 1",Homestead Township Trustee,,REP,Shannon K. Purchase,246,223,,23
+Benzie,"Homestead Township, Precinct 1","Homestead Township, Precinct 1 Delegate to County Convention",,REP,Carol Bear,202,184,,18
+Benzie,"Homestead Township, Precinct 1","Homestead Township, Precinct 1 Delegate to County Convention",,REP,David Evans,213,193,,20
+Benzie,"Homestead Township, Precinct 1","Homestead Township, Precinct 1 Delegate to County Convention",,REP,Mary Haan,180,160,,20
+Benzie,"Homestead Township, Precinct 1","Homestead Township, Precinct 1 Delegate to County Convention",,REP,Richard Haan,178,161,,17
+Benzie,"Homestead Township, Precinct 1","Homestead Township, Precinct 1 Delegate to County Convention",,REP,Write-In,6,6,,0
+Benzie,"Inland Township, Precinct 1",Inland Township Supervisor,,REP,Lance Clabeaux,81,77,,4
+Benzie,"Inland Township, Precinct 1",Inland Township Supervisor,,REP,Dave Davis,159,149,,10
+Benzie,"Inland Township, Precinct 1",Inland Township Supervisor,,REP,Monika Fiebing,69,65,,4
+Benzie,"Inland Township, Precinct 1",Inland Township Clerk,,REP,Rose A. Wirth,285,269,,16
+Benzie,"Inland Township, Precinct 1",Inland Township Trustee,,DEM,Jenice L. Skusa,155,145,,10
+Benzie,"Inland Township, Precinct 1",Inland Township Trustee,,REP,Mary E. Miller,274,258,,16
+Benzie,"Inland Township, Precinct 1","Inland Township, Precinct 1 Delegate to County Convention",,REP,Joe Coleman,164,153,,11
+Benzie,"Inland Township, Precinct 1","Inland Township, Precinct 1 Delegate to County Convention",,REP,David Davis,183,169,,14
+Benzie,"Inland Township, Precinct 1","Inland Township, Precinct 1 Delegate to County Convention",,REP,Mike Fiebing,148,137,,11
+Benzie,"Inland Township, Precinct 1","Inland Township, Precinct 1 Delegate to County Convention",,REP,Monika Fiebing,152,140,,12
+Benzie,"Inland Township, Precinct 1","Inland Township, Precinct 1 Delegate to County Convention",,REP,Mary E. Miller,178,165,,13
+Benzie,"Inland Township, Precinct 1","Inland Township, Precinct 1 Delegate to County Convention",,REP,Rose A. Wirth,191,177,,14
+Benzie,"Inland Township, Precinct 1","Inland Township, Precinct 1 Delegate to County Convention",,REP,Benjamin Zeits,168,157,,11
+Benzie,"Joyfield Township, Precinct 1",Joyfield Township Supervisor,,REP,Jim Evans,131,119,,12
+Benzie,"Joyfield Township, Precinct 1",Joyfield Township Supervisor,,,Write-In,16,12,,4
+Benzie,"Joyfield Township, Precinct 1",Joyfield Township Clerk,,REP,Dodie Putney,161,143,,18
+Benzie,"Joyfield Township, Precinct 1",Joyfield Township Treasurer,,REP,Patricia Daugherty,153,136,,17
+Benzie,"Joyfield Township, Precinct 1",Joyfield Township Trustee,,REP,Mark A. Evans,109,97,,12
+Benzie,"Joyfield Township, Precinct 1",Joyfield Township Trustee,,REP,Margie Fagan,37,34,,3
+Benzie,"Joyfield Township, Precinct 1",Joyfield Township Trustee,,REP,Jason Streeter,119,108,,11
+Benzie,"Joyfield Township, Precinct 1","Joyfield Township, Precinct 1 Delegate to County Convention",,REP,Matthew Emery,96,86,,10
+Benzie,"Joyfield Township, Precinct 1","Joyfield Township, Precinct 1 Delegate to County Convention",,REP,Jim Evans,106,95,,11
+Benzie,"Joyfield Township, Precinct 1","Joyfield Township, Precinct 1 Delegate to County Convention",,REP,Mark A. Evans,98,89,,9
+Benzie,"Joyfield Township, Precinct 1","Joyfield Township, Precinct 1 Delegate to County Convention",,REP,Jay Frost,81,76,,5
+Benzie,"Lake Township, Precinct 1",Lake Township Clerk,,DEM,Penny Georgevich,178,178,,
+Benzie,Lake & Platte EV,Lake Township Clerk,,DEM,Penny Georgevich,22,,,22
+Benzie,"Lake Township, Precinct 1",Lake Township Treasurer,,REP,Maryanne Goodman,139,139,,
+Benzie,Lake & Platte EV,Lake Township Treasurer,,REP,Maryanne Goodman,12,,,12
+Benzie,"Lake Township, Precinct 1",Lake Township Trustee,,REP,Anna Grobe,127,127,,
+Benzie,Lake & Platte EV,Lake Township Trustee,,REP,Anna Grobe,10,,,10
+Benzie,"Lake Township, Precinct 1",Lake Township Trustee,,REP,Kyle Orr,120,120,,
+Benzie,Lake & Platte EV,Lake Township Trustee,,REP,Kyle Orr,8,,,8
+Benzie,"Lake Township, Precinct 1","Lake Township, Precinct 1 Delegate to County Convention",,REP,Jennifer L. Brogley,60,60,,
+Benzie,Lake & Platte EV,"Lake Township, Precinct 1 Delegate to County Convention",,REP,Jennifer L. Brogley,5,,,5
+Benzie,"Lake Township, Precinct 1","Lake Township, Precinct 1 Delegate to County Convention",,REP,Charles Clarke,77,77,,
+Benzie,Lake & Platte EV,"Lake Township, Precinct 1 Delegate to County Convention",,REP,Charles Clarke,6,,,6
+Benzie,"Lake Township, Precinct 1","Lake Township, Precinct 1 Delegate to County Convention",,REP,Donna D. Clarke,70,70,,
+Benzie,Lake & Platte EV,"Lake Township, Precinct 1 Delegate to County Convention",,REP,Donna D. Clarke,5,,,5
+Benzie,"Lake Township, Precinct 1","Lake Township, Precinct 1 Delegate to County Convention",,REP,Bob Costello,73,73,,
+Benzie,Lake & Platte EV,"Lake Township, Precinct 1 Delegate to County Convention",,REP,Bob Costello,9,,,9
+Benzie,"Lake Township, Precinct 1","Lake Township, Precinct 1 Delegate to County Convention",,REP,Jeannette Feeheley,66,66,,
+Benzie,Lake & Platte EV,"Lake Township, Precinct 1 Delegate to County Convention",,REP,Jeannette Feeheley,6,,,6
+Benzie,"Lake Township, Precinct 1","Lake Township, Precinct 1 Delegate to County Convention",,REP,Maureen Jeannot,87,87,,
+Benzie,Lake & Platte EV,"Lake Township, Precinct 1 Delegate to County Convention",,REP,Maureen Jeannot,7,,,7
+Benzie,"Platte Township, Precinct 1",Platte Township Supervisor,,REP,Paul Solem,63,63,,
+Benzie,Lake & Platte EV,Platte Township Supervisor,,REP,Paul Solem,1,,,1
+Benzie,"Platte Township, Precinct 1",Platte Township Clerk,,REP,Alison J. Michalak,66,66,,
+Benzie,Lake & Platte EV,Platte Township Clerk,,REP,Alison J. Michalak,1,,,1
+Benzie,"Platte Township, Precinct 1",Platte Township Treasurer,,REP,Cynthia Gottschalk,64,64,,
+Benzie,Lake & Platte EV,Platte Township Treasurer,,REP,Cynthia Gottschalk,1,,,1
+Benzie,"Platte Township, Precinct 1",Platte Township Trustee,,DEM,Robb Bollenberg,53,53,,
+Benzie,Lake & Platte EV,Platte Township Trustee,,DEM,Robb Bollenberg,7,,,7
+Benzie,"Platte Township, Precinct 1",Platte Township Trustee,,REP,Daniel E. Haswell,61,61,,
+Benzie,Lake & Platte EV,Platte Township Trustee,,REP,Daniel E. Haswell,1,,,1
+Benzie,"Platte Township, Precinct 1","Platte Township, Precinct 1 Delegate to County Convention",,REP,Gary Gielczyk,55,55,,
+Benzie,Lake & Platte EV,"Platte Township, Precinct 1 Delegate to County Convention",,REP,Gary Gielczyk,1,,,1
+Benzie,"Weldon Township, Precinct 1",Weldon Township Supervisor,,REP,Carrie Aldrich,87,79,,8
+Benzie,"Weldon Township, Precinct 1",Weldon Township Clerk,,REP,Fran Griffin,91,82,,9
+Benzie,"Weldon Township, Precinct 1",Weldon Township Treasurer,,REP,Sally Bobek,85,78,,7
+Benzie,"Weldon Township, Precinct 1",Weldon Township Trustee,,REP,Sue A. Meredith,87,79,,8
+Benzie,"Weldon Township, Precinct 1",Weldon Township Trustee,,REP,Scott V. Williams,60,57,,3
+Benzie,"Weldon Township, Precinct 1","Weldon Township, Precinct 1 Delegate to County Convention",,REP,Vicki Schwartz,77,70,,7
+Benzie,"City of Frankfort, Precinct 1","City of Frankfort, Precinct 1 Delegate to County Convention",,REP,Jane Freeland-Gerschick,97,97,,
+Benzie,Frankfort & Gilmore EV,"City of Frankfort, Precinct 1 Delegate to County Convention",,REP,Jane Freeland-Gerschick,6,,,6
+Benzie,"City of Frankfort, Precinct 1","City of Frankfort, Precinct 1 Delegate to County Convention",,REP,George B. Ryckman,116,116,,
+Benzie,Frankfort & Gilmore EV,"City of Frankfort, Precinct 1 Delegate to County Convention",,REP,George B. Ryckman,6,,,6
+Benzie,"Almira Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,841,253,521,67
+Benzie,"Benzonia Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,753,240,470,43
+Benzie,"Blaine Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,172,153,,19
+Benzie,"Colfax Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,116,103,,13
+Benzie,"Crystal Lake Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,345,98,221,26
+Benzie,"Gilmore Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,202,202,,
+Benzie,"Homestead Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,399,357,,42
+Benzie,"Inland Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,365,340,,25
+Benzie,"Joyfield Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,161,147,,14
+Benzie,"Lake Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,338,338,,
+Benzie,Lake & Platte EV,Benzie 911 Operating Surcharge,7th District,,Yes,35,,,35
+Benzie,"Platte Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,91,91,,
+Benzie,"Weldon Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,144,127,,17
+Benzie,"City of Frankfort, Precinct 1",Benzie 911 Operating Surcharge,7th District,,Yes,348,348,,
+Benzie,Frankfort & Gilmore EV,Benzie 911 Operating Surcharge,7th District,,Yes,35,,,35
+Benzie,"Almira Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,303,126,156,21
+Benzie,"Benzonia Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,241,88,134,19
+Benzie,"Blaine Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,37,33,,4
+Benzie,"Colfax Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,52,49,,3
+Benzie,"Crystal Lake Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,108,38,53,17
+Benzie,"Gilmore Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,41,41,,
+Benzie,"Homestead Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,235,212,,23
+Benzie,"Inland Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,211,199,,12
+Benzie,"Joyfield Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,108,100,,8
+Benzie,"Lake Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,69,69,,
+Benzie,Lake & Platte EV,Benzie 911 Operating Surcharge,7th District,,No,15,,,15
+Benzie,"Platte Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,59,59,,
+Benzie,"Weldon Township, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,32,26,,6
+Benzie,"City of Frankfort, Precinct 1",Benzie 911 Operating Surcharge,7th District,,No,86,86,,
+Benzie,Frankfort & Gilmore EV,Benzie 911 Operating Surcharge,7th District,,No,10,,,10
+Benzie,"Almira Township, Precinct 1",Jail Operations,7th District,,Yes,530,160,325,45
+Benzie,"Benzonia Township, Precinct 1",Jail Operations,7th District,,Yes,495,166,306,23
+Benzie,"Blaine Township, Precinct 1",Jail Operations,7th District,,Yes,105,89,,16
+Benzie,"Colfax Township, Precinct 1",Jail Operations,7th District,,Yes,60,57,,3
+Benzie,"Crystal Lake Township, Precinct 1",Jail Operations,7th District,,Yes,224,61,149,14
+Benzie,"Gilmore Township, Precinct 1",Jail Operations,7th District,,Yes,124,124,,
+Benzie,"Homestead Township, Precinct 1",Jail Operations,7th District,,Yes,230,202,,28
+Benzie,"Inland Township, Precinct 1",Jail Operations,7th District,,Yes,201,186,,15
+Benzie,"Joyfield Township, Precinct 1",Jail Operations,7th District,,Yes,104,97,,7
+Benzie,"Lake Township, Precinct 1",Jail Operations,7th District,,Yes,222,222,,
+Benzie,Lake & Platte EV,Jail Operations,7th District,,Yes,26,,,26
+Benzie,"Platte Township, Precinct 1",Jail Operations,7th District,,Yes,46,46,,
+Benzie,"Weldon Township, Precinct 1",Jail Operations,7th District,,Yes,106,92,,14
+Benzie,"City of Frankfort, Precinct 1",Jail Operations,7th District,,Yes,245,245,,
+Benzie,Frankfort & Gilmore EV,Jail Operations,7th District,,Yes,26,,,26
+Benzie,"Almira Township, Precinct 1",Jail Operations,7th District,,No,588,216,331,41
+Benzie,"Benzonia Township, Precinct 1",Jail Operations,7th District,,No,477,158,283,36
+Benzie,"Blaine Township, Precinct 1",Jail Operations,7th District,,No,99,92,,7
+Benzie,"Colfax Township, Precinct 1",Jail Operations,7th District,,No,104,91,,13
+Benzie,"Crystal Lake Township, Precinct 1",Jail Operations,7th District,,No,212,71,113,28
+Benzie,"Gilmore Township, Precinct 1",Jail Operations,7th District,,No,115,115,,
+Benzie,"Homestead Township, Precinct 1",Jail Operations,7th District,,No,386,352,,34
+Benzie,"Inland Township, Precinct 1",Jail Operations,7th District,,No,368,348,,20
+Benzie,"Joyfield Township, Precinct 1",Jail Operations,7th District,,No,162,147,,15
+Benzie,"Lake Township, Precinct 1",Jail Operations,7th District,,No,177,177,,
+Benzie,Lake & Platte EV,Jail Operations,7th District,,No,23,,,23
+Benzie,"Platte Township, Precinct 1",Jail Operations,7th District,,No,104,104,,
+Benzie,"Weldon Township, Precinct 1",Jail Operations,7th District,,No,70,61,,9
+Benzie,"City of Frankfort, Precinct 1",Jail Operations,7th District,,No,175,175,,
+Benzie,Frankfort & Gilmore EV,Jail Operations,7th District,,No,18,,,18
+Benzie,"Almira Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,596,169,377,50
+Benzie,"Benzonia Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,523,162,338,23
+Benzie,"Blaine Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,112,100,,12
+Benzie,"Colfax Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,61,57,,4
+Benzie,"Crystal Lake Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,257,71,160,26
+Benzie,"Gilmore Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,145,145,,
+Benzie,"Homestead Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,254,227,,27
+Benzie,"Inland Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,233,219,,14
+Benzie,"Joyfield Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,86,83,,3
+Benzie,"Lake Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,246,246,,
+Benzie,Lake & Platte EV,Alteration of Duration of Fixed Operation,7th District,,Yes,32,,,32
+Benzie,"Platte Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,60,60,,
+Benzie,"Weldon Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,98,88,,10
+Benzie,"City of Frankfort, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,Yes,260,260,,
+Benzie,Frankfort & Gilmore EV,Alteration of Duration of Fixed Operation,7th District,,Yes,26,,,26
+Benzie,"Almira Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,467,192,239,36
+Benzie,"Benzonia Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,422,149,236,37
+Benzie,"Blaine Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,84,75,,9
+Benzie,"Colfax Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,97,86,,11
+Benzie,"Crystal Lake Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,174,61,97,16
+Benzie,"Gilmore Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,77,77,,
+Benzie,"Homestead Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,340,310,,30
+Benzie,"Inland Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,324,305,,19
+Benzie,"Joyfield Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,174,155,,19
+Benzie,"Lake Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,139,139,,
+Benzie,Lake & Platte EV,Alteration of Duration of Fixed Operation,7th District,,No,18,,,18
+Benzie,"Platte Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,86,86,,
+Benzie,"Weldon Township, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,70,57,,13
+Benzie,"City of Frankfort, Precinct 1",Alteration of Duration of Fixed Operation,7th District,,No,142,142,,
+Benzie,Frankfort & Gilmore EV,Alteration of Duration of Fixed Operation,7th District,,No,17,,,17
+Benzie,"Almira Township, Precinct 1",Commissional on Aging,7th District,,Yes,750,213,481,56
+Benzie,"Benzonia Township, Precinct 1",Commissional on Aging,7th District,,Yes,718,225,452,41
+Benzie,"Blaine Township, Precinct 1",Commissional on Aging,7th District,,Yes,148,132,,16
+Benzie,"Colfax Township, Precinct 1",Commissional on Aging,7th District,,Yes,104,94,,10
+Benzie,"Crystal Lake Township, Precinct 1",Commissional on Aging,7th District,,Yes,337,101,208,28
+Benzie,"Gilmore Township, Precinct 1",Commissional on Aging,7th District,,Yes,190,190,,
+Benzie,"Homestead Township, Precinct 1",Commissional on Aging,7th District,,Yes,395,352,,43
+Benzie,"Inland Township, Precinct 1",Commissional on Aging,7th District,,Yes,325,299,,26
+Benzie,"Joyfield Township, Precinct 1",Commissional on Aging,7th District,,Yes,153,140,,13
+Benzie,"Lake Township, Precinct 1",Commissional on Aging,7th District,,Yes,301,301,,
+Benzie,Lake & Platte EV,Commissional on Aging,7th District,,Yes,38,,,38
+Benzie,"Platte Township, Precinct 1",Commissional on Aging,7th District,,Yes,94,94,,
+Benzie,"Weldon Township, Precinct 1",Commissional on Aging,7th District,,Yes,125,109,,16
+Benzie,"City of Frankfort, Precinct 1",Commissional on Aging,7th District,,Yes,353,353,,
+Benzie,Frankfort & Gilmore EV,Commissional on Aging,7th District,,Yes,35,,,35
+Benzie,"Almira Township, Precinct 1",Commissional on Aging,7th District,,No,385,163,191,31
+Benzie,"Benzonia Township, Precinct 1",Commissional on Aging,7th District,,No,274,101,152,21
+Benzie,"Blaine Township, Precinct 1",Commissional on Aging,7th District,,No,62,55,,7
+Benzie,"Colfax Township, Precinct 1",Commissional on Aging,7th District,,No,65,58,,7
+Benzie,"Crystal Lake Township, Precinct 1",Commissional on Aging,7th District,,No,121,36,70,15
+Benzie,"Gilmore Township, Precinct 1",Commissional on Aging,7th District,,No,53,53,,
+Benzie,"Homestead Township, Precinct 1",Commissional on Aging,7th District,,No,237,215,,22
+Benzie,"Inland Township, Precinct 1",Commissional on Aging,7th District,,No,254,244,,10
+Benzie,"Joyfield Township, Precinct 1",Commissional on Aging,7th District,,No,116,107,,9
+Benzie,"Lake Township, Precinct 1",Commissional on Aging,7th District,,No,103,103,,
+Benzie,Lake & Platte EV,Commissional on Aging,7th District,,No,11,,,11
+Benzie,"Platte Township, Precinct 1",Commissional on Aging,7th District,,No,58,58,,
+Benzie,"Weldon Township, Precinct 1",Commissional on Aging,7th District,,No,49,42,,7
+Benzie,"City of Frankfort, Precinct 1",Commissional on Aging,7th District,,No,79,79,,
+Benzie,Frankfort & Gilmore EV,Commissional on Aging,7th District,,No,10,,,10
+Benzie,"Almira Township, Precinct 1",Benzie Transportation Authority,7th District,,Yes,617,182,390,45
+Benzie,"Benzonia Township, Precinct 1",Benzie Transportation Authority,7th District,,Yes,623,200,393,30
+Benzie,"Blaine Township, Precinct 1",Benzie Transportation Authority,7th District,,Yes,133,118,,15
+Benzie,"Colfax Township, Precinct 1",Benzie Transportation Authority,7th District,,Yes,91,83,,8
+Benzie,"Crystal Lake Township, Precinct 1",Benzie Transportation Authority,7th District,,Yes,309,93,193,23
+Benzie,"Gilmore Township, Precinct 1",Benzie Transportation Authority,7th District,,Yes,162,162,,
+Benzie,"Homestead Township, Precinct 1",Benzie Transportation Authority,7th District,,Yes,330,300,,30
+Benzie,"Inland Township, Precinct 1",Benzie Transportation Authority,7th District,,Yes,241,218,,23
+Benzie,"Joyfield Township, Precinct 1",Benzie Transportation Authority,7th District,,Yes,132,123,,9
+Benzie,"Lake Township, Precinct 1",Benzie Transportation Authority,7th District,,Yes,277,277,,
+Benzie,Lake & Platte EV,Benzie Transportation Authority,7th District,,Yes,33,,,33
+Benzie,"Platte Township, Precinct 1",Benzie Transportation Authority,7th District,,Yes,74,74,,
+Benzie,"Weldon Township, Precinct 1",Benzie Transportation Authority,7th District,,Yes,116,101,,15
+Benzie,"City of Frankfort, Precinct 1",Benzie Transportation Authority,7th District,,Yes,333,333,,
+Benzie,Frankfort & Gilmore EV,Benzie Transportation Authority,7th District,,Yes,35,,,35
+Benzie,"Almira Township, Precinct 1",Benzie Transportation Authority,7th District,,No,508,193,274,41
+Benzie,"Benzonia Township, Precinct 1",Benzie Transportation Authority,7th District,,No,367,127,208,32
+Benzie,"Blaine Township, Precinct 1",Benzie Transportation Authority,7th District,,No,77,69,,8
+Benzie,"Colfax Township, Precinct 1",Benzie Transportation Authority,7th District,,No,80,71,,9
+Benzie,"Crystal Lake Township, Precinct 1",Benzie Transportation Authority,7th District,,No,144,44,80,20
+Benzie,"Gilmore Township, Precinct 1",Benzie Transportation Authority,7th District,,No,83,83,,
+Benzie,"Homestead Township, Precinct 1",Benzie Transportation Authority,7th District,,No,301,268,,33
+Benzie,"Inland Township, Precinct 1",Benzie Transportation Authority,7th District,,No,335,323,,12
+Benzie,"Joyfield Township, Precinct 1",Benzie Transportation Authority,7th District,,No,134,121,,13
+Benzie,"Lake Township, Precinct 1",Benzie Transportation Authority,7th District,,No,131,131,,
+Benzie,Lake & Platte EV,Benzie Transportation Authority,7th District,,No,15,,,15
+Benzie,"Platte Township, Precinct 1",Benzie Transportation Authority,7th District,,No,77,77,,
+Benzie,"Weldon Township, Precinct 1",Benzie Transportation Authority,7th District,,No,58,50,,8
+Benzie,"City of Frankfort, Precinct 1",Benzie Transportation Authority,7th District,,No,98,98,,
+Benzie,Frankfort & Gilmore EV,Benzie Transportation Authority,7th District,,No,10,,,10
+Benzie,"Almira Township, Precinct 1",Almira Township Fire EMS Equipment Renewal,7th District,,Yes,868,257,547,64
+Benzie,"Almira Township, Precinct 1",Almira Township Fire EMS Equipment Renewal,7th District,,No,266,113,130,23
+Benzie,"Almira Township, Precinct 1",Almira Township Parks and Recreation,7th District,,Yes,710,198,456,56
+Benzie,"Almira Township, Precinct 1",Almira Township Parks and Recreation,7th District,,No,417,168,218,31
+Benzie,"Blaine Township, Precinct 1",Blaine Township Fire/EMS Renewal,7th District,,Yes,168,150,,18
+Benzie,"Blaine Township, Precinct 1",Blaine Township Fire/EMS Renewal,7th District,,No,17,16,,1
+Benzie,"Colfax Township, Precinct 1",Colfax Township Emergency Fire Services,7th District,,Yes,95,86,,9
+Benzie,"Colfax Township, Precinct 1",Colfax Township Emergency Fire Services,7th District,,No,75,67,,8
+Benzie,"Gilmore Township, Precinct 1",Gilmore Township Fire Protection and First Responders,7th District,,Yes,190,190,,
+Benzie,Frankfort & Gilmore EV,Gilmore Township Fire Protection and First Responders,7th District,,Yes,6,,,6
+Benzie,"Gilmore Township, Precinct 1",Gilmore Township Fire Protection and First Responders,7th District,,No,39,39,,
+Benzie,Frankfort & Gilmore EV,Gilmore Township Fire Protection and First Responders,7th District,,No,1,,,1
+Benzie,"Homestead Township, Precinct 1",Homestead Township Fire Department Operations/Maintenance,7th District,,Yes,326,295,,31
+Benzie,"Homestead Township, Precinct 1",Homestead Township Fire Department Operations/Maintenance,7th District,,No,282,255,,27
+Benzie,Lake & Platte EV,Platte Township Fire Maintenance/Operations Renewal,7th District,,Yes,7,,,7
+Benzie,"Platte Township, Precinct 1",Platte Township Fire Maintenance/Operations Renewal,7th District,,Yes,100,100,,
+Benzie,Lake & Platte EV,Platte Township Fire Maintenance/Operations Renewal,7th District,,No,2,,,2
+Benzie,"Platte Township, Precinct 1",Platte Township Fire Maintenance/Operations Renewal,7th District,,No,47,47,,
+Benzie,Lake & Platte EV,Platte Township Fire Equipment Renewal,7th District,,Yes,4,,,4
+Benzie,"Platte Township, Precinct 1",Platte Township Fire Equipment Renewal,7th District,,Yes,93,93,,
+Benzie,Lake & Platte EV,Platte Township Fire Equipment Renewal,7th District,,No,3,,,3
+Benzie,"Platte Township, Precinct 1",Platte Township Fire Equipment Renewal,7th District,,No,49,49,,
+Benzie,"Weldon Township, Precinct 1",Weldon Township Fire Protection Services,7th District,,Yes,126,109,,17
+Benzie,"City of Frankfort, Precinct 1",Weldon Township Fire Protection Services,7th District,,Yes,0,0,,
+Benzie,"Weldon Township, Precinct 1",Weldon Township Fire Protection Services,7th District,,No,50,43,,7
+Benzie,"City of Frankfort, Precinct 1",Weldon Township Fire Protection Services,7th District,,No,0,0,,
+Benzie,"Almira Township, Precinct 1",Benzie Central Bond Proposal,7th District,,Yes,487,127,321,39
+Benzie,"Benzonia Township, Precinct 1",Benzie Central Bond Proposal,7th District,,Yes,572,183,360,29
+Benzie,"Blaine Township, Precinct 1",Benzie Central Bond Proposal,7th District,,Yes,22,21,,1
+Benzie,"Colfax Township, Precinct 1",Benzie Central Bond Proposal,7th District,,Yes,76,69,,7
+Benzie,"Gilmore Township, Precinct 1",Benzie Central Bond Proposal,7th District,,Yes,6,6,,
+Benzie,"Homestead Township, Precinct 1",Benzie Central Bond Proposal,7th District,,Yes,289,258,,31
+Benzie,"Inland Township, Precinct 1",Benzie Central Bond Proposal,7th District,,Yes,259,240,,19
+Benzie,"Joyfield Township, Precinct 1",Benzie Central Bond Proposal,7th District,,Yes,119,111,,8
+Benzie,"Lake Township, Precinct 1",Benzie Central Bond Proposal,7th District,,Yes,192,192,,
+Benzie,Lake & Platte EV,Benzie Central Bond Proposal,7th District,,Yes,28,,,28
+Benzie,"Platte Township, Precinct 1",Benzie Central Bond Proposal,7th District,,Yes,63,63,,
+Benzie,"Weldon Township, Precinct 1",Benzie Central Bond Proposal,7th District,,Yes,108,94,,14
+Benzie,Frankfort & Gilmore EV,Benzie Central Bond Proposal,7th District,,Yes,0,,,0
+Benzie,"Almira Township, Precinct 1",Benzie Central Bond Proposal,7th District,,No,305,130,150,25
+Benzie,"Benzonia Township, Precinct 1",Benzie Central Bond Proposal,7th District,,No,341,124,193,24
+Benzie,"Blaine Township, Precinct 1",Benzie Central Bond Proposal,7th District,,No,9,9,,0
+Benzie,"Colfax Township, Precinct 1",Benzie Central Bond Proposal,7th District,,No,95,85,,10
+Benzie,"Gilmore Township, Precinct 1",Benzie Central Bond Proposal,7th District,,No,3,3,,
+Benzie,"Homestead Township, Precinct 1",Benzie Central Bond Proposal,7th District,,No,318,291,,27
+Benzie,"Inland Township, Precinct 1",Benzie Central Bond Proposal,7th District,,No,265,252,,13
+Benzie,"Joyfield Township, Precinct 1",Benzie Central Bond Proposal,7th District,,No,134,123,,11
+Benzie,"Lake Township, Precinct 1",Benzie Central Bond Proposal,7th District,,No,93,93,,
+Benzie,Lake & Platte EV,Benzie Central Bond Proposal,7th District,,No,6,,,6
+Benzie,"Platte Township, Precinct 1",Benzie Central Bond Proposal,7th District,,No,79,79,,
+Benzie,"Weldon Township, Precinct 1",Benzie Central Bond Proposal,7th District,,No,66,56,,10
+Benzie,Frankfort & Gilmore EV,Benzie Central Bond Proposal,7th District,,No,0,,,0
+Benzie,"Almira Township, Precinct 1",TCAPS Bond Proposal,7th District,,Yes,151,42,104,5
+Benzie,"Almira Township, Precinct 1",TCAPS Bond Proposal,7th District,,No,176,66,93,17
+Benzie,"Colfax Township, Precinct 1",Betsie Valley Library Renewal,7th District,,Yes,96,87,,9
+Benzie,"Weldon Township, Precinct 1",Betsie Valley Library Renewal,7th District,,Yes,129,111,,18
+Benzie,"Colfax Township, Precinct 1",Betsie Valley Library Renewal,7th District,,No,75,67,,8
+Benzie,"Weldon Township, Precinct 1",Betsie Valley Library Renewal,7th District,,No,45,39,,6

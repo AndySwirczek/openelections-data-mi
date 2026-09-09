@@ -34,22 +34,41 @@ import pdfplumber
 PAIRS = r'((?: \d[\d,]* [\d.]+%)+)'
 ROW = re.compile(r'^(.+?)' + PAIRS + r'$')
 CAST = re.compile(r'^Cast Votes:' + PAIRS + r'$')
+# Montcalm 2022 prints the unresolved write-in counts without percentages
+# ('Unresolved write-in votes: 0 0': Election Day + Total)
+UNRESOLVED = re.compile(r'^Unresolved write-in votes:((?: \d[\d,]*)+)$')
 PAIR = re.compile(r'(\d[\d,]*) [\d.]+%')
 # The empty-contest marker: no candidate ran, so the report prints a bare
 # count+percentage row with no choice label.
 ZERO_ROW = re.compile(r'^(?:(?:\d[\d,]* [\d.]+% )+)\d[\d,]* [\d.]+%$')
-PRECINCT = re.compile(r'^(.+ \d+) (\d[\d,]*) of ([\d,]+) registered voters')
+# Muskegon 2024 reports split precincts as "Precinct 1 - A" / "- B" (each a
+# full report), so the label may end in a " - <letter>" suffix.
+PRECINCT = re.compile(
+    # Ionia 2024 writes split precincts without spaces ("Danby 1-A").
+    r'^(.+ \d+(?: ?- ?[A-Z])?) (\d[\d,]*) of ([\d,]+) registered voters')
 TITLE_DONE = re.compile(
     r' - (?:Democratic|Republican|Nonpartisan)(?: Party)? - '
     r'Vote?r? for not more than \d+$')
 PAGE_NOISE = re.compile(
-    r'^(Precinct Results|Official Results|Cumulative Results|'
+    r'^(Precinct Results.*|Official Results|Official Election Results.*|'
+    r'Unofficial Results|Cumulative Results|'
     r'Registered Voters|\d+ of [\d,]+ = [\d.]+%|Official Canvassed|'
-    r'Precincts Reporting|Election Night|Primary Election|8/4/2026|Run Time|'
-    r'Run Date|Choice Party|Early Voting -$|County$|Undervotes:|Overvotes:|'
-    r'Invalid Votes:|Unresolved write-in votes:|'
+    r'Precincts Reporting|Polling Places.*|Election Night|Primary Election|'
+    r'8/4/2026|'
+    r'Run Time.*|Run Date.*|Choice Party|Early Voting -$|County$|'
+    r'Undervotes:.*|Overvotes:.*|Invalid Votes:.*|'
+    r'Unresolved write-in votes:.*|Rejected write-in votes:.*|'
+    # Clinton 2024 repeats the election date in the page header.
+    r'\d{{1,2}}/\d{{1,2}}/\d{{4}}$|\w+ \d{{1,2}}, \d{{4}} .*Election|'
+    r'.*Election.*\d{{1,2}}, 20\d\d|'
     r'[^ ]* End of report|{county} County,? ?Michigan?$|'
-    r'{county} County - Precinct)')
+    r'{county} County - Precinct|'
+    # Ionia 2024's combined PDF prefixes each page with a dated banner, and
+    # wraps the method header of its combined "Election Day & Absentee
+    # Ballots" column.
+    r'\d{{8}} (?:Canvass|Precinct|Cumulative) Report.*|\d{{8}} (?:Primary|General) Election|'
+    r'Election Day &$|Choice Party Early Voting|Absentee Ballots( Total)?$|'
+    r'Early Voting$)')
 # Delegate-title jurisdiction abbreviations (the title abbreviates what the
 # precinct label spells out); used to confirm the title belongs to the
 # precinct section it prints in.
@@ -76,12 +95,74 @@ COUNTY_CONFIG = {
         'header': ['election_day', 'absentee', 'early_voting'],
         'delegate_full': True,
     },
+    # 2024 primary: jurisdiction-less delegate titles; keep the same
+    # full-label convention as Muskegon/Ottawa. The report prints a
+    # countywide contest block and then a township block, and both carry a
+    # bare "Treasurer - <Party>" title; the township one is jurisdiction-
+    # prefixed so the two stay distinct.
+    'Clinton': {
+        'methods': ['election_day', 'absentee', 'early_voting'],
+        'header': ['election_day', 'absentee', 'early_voting'],
+        'delegate_full': True,
+        'township_block': True,
+    },
+    # 2024 primary (the file lives in the Charlevoix sources folder but is
+    # Hillsdale's report): methods print Early Voting / AVCB / Election Day.
+    'Hillsdale 2024': {
+        'methods': ['early_voting', 'av_counting_boards', 'election_day'],
+        'header': ['early_voting', 'av_counting_boards', 'election_day'],
+        'delegate_full': False,
+        'township_block': True,
+    },
+    # 2024 primary: same report as Muskegon but the early-voting columns
+    # print Local before County (2026 prints County before Local).
+    'Muskegon 2024': {
+        'methods': ['election_day', 'absentee', 'ev_local', 'ev_county'],
+        'header': ['election_day', 'absentee', 'early_voting', 'ev_county',
+                   'ev_local'],
+        'delegate_full': True,
+    },
+    # 2024 primary: bare county titles plus a township block repeating
+    # "Clerk"/"Treasurer"; early voting prints before election day.
+    'Montcalm': {
+        'methods': ['early_voting', 'election_day'],
+        'header': ['early_voting', 'election_day'],
+        'delegate_full': True,
+        'township_block': True,
+    },
+    # 2024 primary (one combined PDF that also carries a contest-major
+    # canvass report; use --pages to parse only the precinct section): the
+    # method columns are "Early Voting" and a combined "Election Day &
+    # Absentee Ballots" the source does not split, so the combined count is
+    # carried in 'election_day' and 'absentee' stays blank.
+    'Ionia': {
+        'methods': ['election_day', 'early_voting'],
+        'header': ['election_day', 'absentee', 'early_voting'],
+        'delegate_full': True,
+        'township_block': True,
+    },
+    # 2022 primary: one "Election Day Voting" method column plus Total; the
+    # empty 'header' keeps the votes-only shape the 2022 county files use.
+    'Montcalm 2022': {
+        'methods': ['election_day'],
+        'header': [],
+        'delegate_full': True,
+        'unresolved_writeins': True,
+    },
+    # 2022 primary: methods print Precinct (election day) / Absentee.
+    'Muskegon 2022': {
+        'methods': ['election_day', 'absentee'],
+        'header': [],
+        'delegate_full': True,
+        'unresolved_writeins': True,
+    },
 }
 DISTRICT_PATTERNS = [
-    (re.compile(r'^Representative in Congress (\d+)(?:st|nd|rd|th) District$'),
+    # 'In' is title-cased in Hillsdale's 2022 report
+    (re.compile(r'^Representative [Ii]n Congress (\d+)(?:st|nd|rd|th) District$'),
      'U.S. House'),
     (re.compile(r'^State Senator (\d+)(?:st|nd|rd|th) District$'), 'State Senate'),
-    (re.compile(r'^Representative in State Legislature (\d+)(?:st|nd|rd|th) District$'),
+    (re.compile(r'^Representative [Ii]n State Legislature (\d+)(?:st|nd|rd|th) District$'),
      'State House'),
 ]
 OFFICE_EXACT = {'Governor': 'Governor', 'United States Senator': 'U.S. Senate'}
@@ -101,22 +182,26 @@ def ordinal(n):
 class Contest:
     """One contest section: title line through its Cast Votes row."""
 
-    def __init__(self, county, precinct):
+    def __init__(self, county, precinct, cfg):
         self.county = county
+        self.cfg = cfg
         self.precinct = precinct
         self.title = ''
         self.rows = []  # (name, method counts..., total)
         self.tags = []  # per-row party tag printed after the name (Ottawa)
         self.cast = None  # (method counts..., total)
+        self.writein = None  # 'Unresolved write-in votes' total (Montcalm 2022)
+        self.township = False  # township-block contest (Clinton)
 
     def finish(self, out_rows, problems):
-        cfg = COUNTY_CONFIG[self.county]
+        cfg = self.cfg
         if not self.title or self.cast is None:
             if self.title and self.cast is None:
                 problems.append(f'{self.precinct} / {self.title}: no Cast Votes row')
             return
         office, district, party = map_office(self.title, self.precinct,
-                                             self.county, problems)
+                                             self.cfg, problems,
+                                             self.township)
         counts = [int(v.replace(',', '')) for v in self.cast]
         methods, total = counts[:-1], counts[-1]
         if sum(methods) != total:
@@ -134,6 +219,11 @@ class Contest:
             out_rows.append([self.county, self.precinct, office, district, party,
                              name, cells[-1]]
                             + breakdown_values(cells[:-1], cfg))
+        # the unresolved write-in total sits outside Cast Votes; carried as a
+        # lumped 'Write-In' row (qualified write-ins can't be split out)
+        if self.writein:
+            out_rows.append([self.county, self.precinct, office, district,
+                             party, 'Write-In', self.writein])
         out_rows.append([self.county, self.precinct, office, district, party,
                          'Ballots Cast', total] + breakdown_values(methods, cfg))
 
@@ -158,15 +248,27 @@ def expand_abbrev(text):
     return text
 
 
-def map_office(title, precinct, county, problems):
+def map_office(title, precinct, cfg, problems, township=False):
     party = ''
     m = re.search(r' - (' + '|'.join(PARTY_WORDS) + r')(?: Party)?(?: - |$)', title)
     if m:
         party = PARTY_CODES.get(m.group(1), '')
+        tail = title[m.end():].strip()
         title = title[:m.start()].strip()
+        # A wrapped proposal title resumes after the party marker
+        # ("...Capital - Nonpartisan Party - Expenses Millage Proposal");
+        # only a trailing "Vote for not more than N" is not part of the name.
+        if tail and not re.match(r'Vote?r? for not more than \d+$', tail):
+            title = f'{title} {tail}'.strip()
     # "(W)" marks a write-in candidate; keep the printed name.
     jurisdiction = re.sub(r', (?:Ward [IVX]+, )?Precinct \d+$', '', precinct)
-    if re.search(r'Delegate to County C', title):
+    # Ionia 2024 writes precinct numbers without a comma ("Boston 1",
+    # "Lyons 2-B"); a jurisdiction never ends in its precinct number.
+    jurisdiction = re.sub(r' \d+(?: ?- ?[A-Z])?$', '', jurisdiction)
+    if township and title == 'Treasurer':
+        # Township block: same bare title as the county Treasurer contest.
+        title = f'{jurisdiction} {title}'
+    if re.search(r'Delegate to (?:the )?County C', title):
         # The title carries an abbreviated jurisdiction; confirm it is this
         # precinct's contest, then name the office from the precinct label.
         m = re.match(r'^(.+?) Pct (\d+) Delegate', title)
@@ -175,10 +277,14 @@ def map_office(title, precinct, county, problems):
             if expected != precinct:
                 problems.append(f'{precinct}: delegate title {title!r} does not '
                                 f'match precinct ({expected!r})')
-        if COUNTY_CONFIG[county]['delegate_full']:
+        if cfg['delegate_full']:
             return f'{precinct} Delegate to County Convention', '', party
         return f'{precinct} Delegate', '', party
-    if title.startswith(NEEDS_JURISDICTION):
+    if title.startswith(NEEDS_JURISDICTION) and (township or
+                                                 not cfg.get('township_block')):
+        # Counties with a township block print bare titles for both the
+        # county and the township contest ("Clerk", "Treasurer"); only the
+        # township one takes the jurisdiction.
         title = f'{jurisdiction} {title}'
     for pat, name in DISTRICT_PATTERNS:
         m = pat.match(title)
@@ -192,19 +298,44 @@ def main():
     ap.add_argument('pdf')
     ap.add_argument('--county', required=True)
     ap.add_argument('--out', required=True)
+    ap.add_argument('--config', default=None,
+                    help='COUNTY_CONFIG key when it differs from --county '
+                         '(e.g. a second election year for the same county)')
+    ap.add_argument('--pages', default=None,
+                    help='1-based page range "start-end" (end exclusive) to '
+                         'parse, when the PDF bundles several reports')
     args = ap.parse_args()
-    if args.county not in COUNTY_CONFIG:
-        sys.exit(f'no COUNTY_CONFIG for {args.county!r}')
+    cfg_key = args.config or args.county
+    if cfg_key not in COUNTY_CONFIG:
+        sys.exit(f'no COUNTY_CONFIG for {cfg_key!r}')
 
     out_rows = []
     problems = []
     contest = None
     precinct = None
+    township = False  # inside the precinct's township contest block (Clinton)
     noise = re.compile(PAGE_NOISE.pattern.format(county=re.escape(args.county)))
     with pdfplumber.open(args.pdf) as pdf:
-        pages = [p.extract_text() or '' for p in pdf.pages]
+        # x_tolerance 2: Clinton 2024's text layer omits inter-word spaces,
+        # and the default tolerance 3 welds every word together.
+        pages = [p.extract_text(x_tolerance=2) or '' for p in pdf.pages]
+    if args.pages:
+        start, end = (int(v) for v in args.pages.split('-'))
+        pages = pages[start - 1:end - 1]
     for page in pages:
         for line in (l.strip() for l in page.splitlines()):
+            # capture the unresolved-write-in total before the noise filter
+            # drops the line (Montcalm 2022)
+            if contest is not None and COUNTY_CONFIG[cfg_key].get(
+                    'unresolved_writeins'):
+                mu = UNRESOLVED.match(line)
+                if mu:
+                    if contest.writein is not None:
+                        problems.append(f'{precinct} / {contest.title}: '
+                                        f'duplicate Unresolved write-in votes')
+                    contest.writein = int(mu.group(1).split()[-1]
+                                          .replace(',', ''))
+                    continue
             if not line or noise.match(line) or ZERO_ROW.match(line):
                 continue
             m = CAST.match(line)
@@ -236,6 +367,7 @@ def main():
                         contest.finish(out_rows, problems)
                         contest = None
                     precinct = m.group(1)
+                    township = False
                 continue
             # Contest title line; wrapped titles continue on the next line.
             if contest is not None and not TITLE_DONE.search(contest.title):
@@ -243,7 +375,16 @@ def main():
             else:
                 if contest is not None:
                     contest.finish(out_rows, problems)
-                contest = Contest(args.county, precinct)
+                # Township-only offices announce the start of the township
+                # block; later bare "Treasurer" titles there are the
+                # township's, not the county's.
+                if COUNTY_CONFIG[cfg_key].get('township_block') and re.match(
+                        r'^(Supervisor|Trustee|Delegate to County Convention)\b',
+                        line):
+                    township = True
+                contest = Contest(args.county, precinct,
+                                  COUNTY_CONFIG[cfg_key])
+                contest.township = township
                 contest.title = line
     if contest is not None:
         contest.finish(out_rows, problems)
@@ -251,7 +392,7 @@ def main():
     with open(args.out, 'w', newline='') as fh:
         w = csv.writer(fh)
         w.writerow(['county', 'precinct', 'office', 'district', 'party', 'candidate',
-                    'votes'] + COUNTY_CONFIG[args.county]['header'])
+                    'votes'] + COUNTY_CONFIG[cfg_key]['header'])
         for row in out_rows:
             w.writerow(['' if v is None else v for v in row])
     print(f'Wrote {len(out_rows)} rows to {args.out}')

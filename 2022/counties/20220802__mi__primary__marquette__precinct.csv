@@ -1,0 +1,567 @@
+county,precinct,office,district,party,candidate,votes
+Marquette,"Champion Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,26
+Marquette,"Champion Township, Precinct 1",Governor,,REP,Garrett Soldano,10
+Marquette,"Champion Township, Precinct 1",Governor,,REP,Kevin Rinke,2
+Marquette,"Champion Township, Precinct 1",Governor,,REP,Ryan D. Kelley,4
+Marquette,"Champion Township, Precinct 1",Governor,,REP,Tudor M. Dixon,6
+Marquette,"Champion Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,24
+Marquette,"Champion Township, Precinct 1",U.S. House,1,REP,Jack Bergman,21
+Marquette,"Champion Township, Precinct 1",State Senate,38,DEM,John Braamse,24
+Marquette,"Champion Township, Precinct 1",State Senate,38,REP,Edward McBroom,11
+Marquette,"Champion Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,6
+Marquette,"Champion Township, Precinct 1",State Senate,38,REP,Matthew Furyk,2
+Marquette,"Champion Township, Precinct 1",State House,109,DEM,Jenn Hill,11
+Marquette,"Champion Township, Precinct 1",State House,109,DEM,Joe Boogren,15
+Marquette,"Champion Township, Precinct 1",State House,109,REP,Melody Wagner,12
+Marquette,"Champion Township, Precinct 1",State House,109,REP,Ron Gray,8
+Marquette,"Chocolay Charter Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,423
+Marquette,"Chocolay Charter Township, Precinct 1",Governor,,REP,Garrett Soldano,43
+Marquette,"Chocolay Charter Township, Precinct 1",Governor,,REP,Kevin Rinke,73
+Marquette,"Chocolay Charter Township, Precinct 1",Governor,,REP,Ralph Rebandt,11
+Marquette,"Chocolay Charter Township, Precinct 1",Governor,,REP,Ryan D. Kelley,48
+Marquette,"Chocolay Charter Township, Precinct 1",Governor,,REP,Tudor M. Dixon,134
+Marquette,"Chocolay Charter Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,410
+Marquette,"Chocolay Charter Township, Precinct 1",U.S. House,1,REP,Jack Bergman,295
+Marquette,"Chocolay Charter Township, Precinct 1",State Senate,38,DEM,John Braamse,404
+Marquette,"Chocolay Charter Township, Precinct 1",State Senate,38,REP,Edward McBroom,267
+Marquette,"Chocolay Charter Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,31
+Marquette,"Chocolay Charter Township, Precinct 1",State Senate,38,REP,Matthew Furyk,19
+Marquette,"Chocolay Charter Township, Precinct 1",State House,109,DEM,Jenn Hill,296
+Marquette,"Chocolay Charter Township, Precinct 1",State House,109,DEM,Joe Boogren,125
+Marquette,"Chocolay Charter Township, Precinct 1",State House,109,REP,Melody Wagner,172
+Marquette,"Chocolay Charter Township, Precinct 1",State House,109,REP,Ron Gray,128
+Marquette,"Chocolay Charter Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,491
+Marquette,"Chocolay Charter Township, Precinct 2",Governor,,REP,Garrett Soldano,58
+Marquette,"Chocolay Charter Township, Precinct 2",Governor,,REP,James Elmer Craig,1
+Marquette,"Chocolay Charter Township, Precinct 2",Governor,,REP,Kevin Rinke,106
+Marquette,"Chocolay Charter Township, Precinct 2",Governor,,REP,Ralph Rebandt,20
+Marquette,"Chocolay Charter Township, Precinct 2",Governor,,REP,Ryan D. Kelley,48
+Marquette,"Chocolay Charter Township, Precinct 2",Governor,,REP,Tudor M. Dixon,141
+Marquette,"Chocolay Charter Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,483
+Marquette,"Chocolay Charter Township, Precinct 2",U.S. House,1,REP,Jack Bergman,357
+Marquette,"Chocolay Charter Township, Precinct 2",State Senate,38,DEM,John Braamse,463
+Marquette,"Chocolay Charter Township, Precinct 2",State Senate,38,REP,Edward McBroom,310
+Marquette,"Chocolay Charter Township, Precinct 2",State Senate,38,REP,Kayla Wikstrom,46
+Marquette,"Chocolay Charter Township, Precinct 2",State Senate,38,REP,Matthew Furyk,19
+Marquette,"Chocolay Charter Township, Precinct 2",State House,109,DEM,Jenn Hill,290
+Marquette,"Chocolay Charter Township, Precinct 2",State House,109,DEM,Joe Boogren,204
+Marquette,"Chocolay Charter Township, Precinct 2",State House,109,REP,Melody Wagner,173
+Marquette,"Chocolay Charter Township, Precinct 2",State House,109,REP,Ron Gray,192
+Marquette,"City of Ishpeming, Precinct 1",Governor,,DEM,Gretchen Whitmer,312
+Marquette,"City of Ishpeming, Precinct 1",Governor,,REP,Garrett Soldano,30
+Marquette,"City of Ishpeming, Precinct 1",Governor,,REP,Kevin Rinke,29
+Marquette,"City of Ishpeming, Precinct 1",Governor,,REP,Ralph Rebandt,8
+Marquette,"City of Ishpeming, Precinct 1",Governor,,REP,Ryan D. Kelley,18
+Marquette,"City of Ishpeming, Precinct 1",Governor,,REP,Tudor M. Dixon,81
+Marquette,"City of Ishpeming, Precinct 1",U.S. House,1,DEM,Bob Lorinser,310
+Marquette,"City of Ishpeming, Precinct 1",U.S. House,1,REP,Jack Bergman,152
+Marquette,"City of Ishpeming, Precinct 1",State Senate,38,DEM,John Braamse,305
+Marquette,"City of Ishpeming, Precinct 1",State Senate,38,REP,Edward McBroom,131
+Marquette,"City of Ishpeming, Precinct 1",State Senate,38,REP,Kayla Wikstrom,18
+Marquette,"City of Ishpeming, Precinct 1",State Senate,38,REP,Matthew Furyk,16
+Marquette,"City of Ishpeming, Precinct 1",State House,109,DEM,Jenn Hill,166
+Marquette,"City of Ishpeming, Precinct 1",State House,109,DEM,Joe Boogren,144
+Marquette,"City of Ishpeming, Precinct 1",State House,109,REP,Melody Wagner,94
+Marquette,"City of Ishpeming, Precinct 1",State House,109,REP,Ron Gray,63
+Marquette,"City of Ishpeming, Precinct 2",Governor,,DEM,Gretchen Whitmer,306
+Marquette,"City of Ishpeming, Precinct 2",Governor,,REP,Garrett Soldano,33
+Marquette,"City of Ishpeming, Precinct 2",Governor,,REP,Kevin Rinke,25
+Marquette,"City of Ishpeming, Precinct 2",Governor,,REP,Ralph Rebandt,3
+Marquette,"City of Ishpeming, Precinct 2",Governor,,REP,Ryan D. Kelley,35
+Marquette,"City of Ishpeming, Precinct 2",Governor,,REP,Tudor M. Dixon,53
+Marquette,"City of Ishpeming, Precinct 2",U.S. House,1,DEM,Bob Lorinser,303
+Marquette,"City of Ishpeming, Precinct 2",U.S. House,1,REP,Jack Bergman,147
+Marquette,"City of Ishpeming, Precinct 2",State Senate,38,DEM,John Braamse,299
+Marquette,"City of Ishpeming, Precinct 2",State Senate,38,REP,Edward McBroom,122
+Marquette,"City of Ishpeming, Precinct 2",State Senate,38,REP,Kayla Wikstrom,18
+Marquette,"City of Ishpeming, Precinct 2",State Senate,38,REP,Matthew Furyk,8
+Marquette,"City of Ishpeming, Precinct 2",State House,109,DEM,Jenn Hill,146
+Marquette,"City of Ishpeming, Precinct 2",State House,109,DEM,Joe Boogren,163
+Marquette,"City of Ishpeming, Precinct 2",State House,109,REP,Melody Wagner,87
+Marquette,"City of Ishpeming, Precinct 2",State House,109,REP,Ron Gray,56
+Marquette,"City of Marquette, Precinct 1",Governor,,DEM,Gretchen Whitmer,393
+Marquette,"City of Marquette, Precinct 1",Governor,,REP,Garrett Soldano,28
+Marquette,"City of Marquette, Precinct 1",Governor,,REP,James Elmer Craig,2
+Marquette,"City of Marquette, Precinct 1",Governor,,REP,Kevin Rinke,45
+Marquette,"City of Marquette, Precinct 1",Governor,,REP,Ralph Rebandt,10
+Marquette,"City of Marquette, Precinct 1",Governor,,REP,Ryan D. Kelley,21
+Marquette,"City of Marquette, Precinct 1",Governor,,REP,Tudor M. Dixon,93
+Marquette,"City of Marquette, Precinct 1",U.S. House,1,DEM,Bob Lorinser,381
+Marquette,"City of Marquette, Precinct 1",U.S. House,1,REP,Jack Bergman,186
+Marquette,"City of Marquette, Precinct 1",State Senate,38,DEM,John Braamse,372
+Marquette,"City of Marquette, Precinct 1",State Senate,38,REP,Edward McBroom,177
+Marquette,"City of Marquette, Precinct 1",State Senate,38,REP,Kayla Wikstrom,13
+Marquette,"City of Marquette, Precinct 1",State Senate,38,REP,Matthew Furyk,12
+Marquette,"City of Marquette, Precinct 1",State House,109,DEM,Jenn Hill,260
+Marquette,"City of Marquette, Precinct 1",State House,109,DEM,Joe Boogren,141
+Marquette,"City of Marquette, Precinct 1",State House,109,REP,Melody Wagner,96
+Marquette,"City of Marquette, Precinct 1",State House,109,REP,Ron Gray,94
+Marquette,"City of Marquette, Precinct 2",Governor,,DEM,Gretchen Whitmer,434
+Marquette,"City of Marquette, Precinct 2",Governor,,REP,Garrett Soldano,21
+Marquette,"City of Marquette, Precinct 2",Governor,,REP,Kevin Rinke,68
+Marquette,"City of Marquette, Precinct 2",Governor,,REP,Ralph Rebandt,4
+Marquette,"City of Marquette, Precinct 2",Governor,,REP,Ryan D. Kelley,47
+Marquette,"City of Marquette, Precinct 2",Governor,,REP,Tudor M. Dixon,72
+Marquette,"City of Marquette, Precinct 2",U.S. House,1,DEM,Bob Lorinser,428
+Marquette,"City of Marquette, Precinct 2",U.S. House,1,REP,Jack Bergman,198
+Marquette,"City of Marquette, Precinct 2",State Senate,38,DEM,John Braamse,413
+Marquette,"City of Marquette, Precinct 2",State Senate,38,REP,Edward McBroom,183
+Marquette,"City of Marquette, Precinct 2",State Senate,38,REP,Kayla Wikstrom,24
+Marquette,"City of Marquette, Precinct 2",State Senate,38,REP,Matthew Furyk,10
+Marquette,"City of Marquette, Precinct 2",State House,109,DEM,Jenn Hill,278
+Marquette,"City of Marquette, Precinct 2",State House,109,DEM,Joe Boogren,163
+Marquette,"City of Marquette, Precinct 2",State House,109,REP,Melody Wagner,114
+Marquette,"City of Marquette, Precinct 2",State House,109,REP,Ron Gray,92
+Marquette,"City of Marquette, Precinct 3",Governor,,DEM,Gretchen Whitmer,399
+Marquette,"City of Marquette, Precinct 3",Governor,,REP,Garrett Soldano,19
+Marquette,"City of Marquette, Precinct 3",Governor,,REP,James Elmer Craig,1
+Marquette,"City of Marquette, Precinct 3",Governor,,REP,Kevin Rinke,49
+Marquette,"City of Marquette, Precinct 3",Governor,,REP,Ralph Rebandt,3
+Marquette,"City of Marquette, Precinct 3",Governor,,REP,Ryan D. Kelley,25
+Marquette,"City of Marquette, Precinct 3",Governor,,REP,Tudor M. Dixon,56
+Marquette,"City of Marquette, Precinct 3",U.S. House,1,DEM,Bob Lorinser,399
+Marquette,"City of Marquette, Precinct 3",U.S. House,1,REP,Jack Bergman,141
+Marquette,"City of Marquette, Precinct 3",State Senate,38,DEM,John Braamse,374
+Marquette,"City of Marquette, Precinct 3",State Senate,38,REP,Edward McBroom,140
+Marquette,"City of Marquette, Precinct 3",State Senate,38,REP,Kayla Wikstrom,13
+Marquette,"City of Marquette, Precinct 3",State Senate,38,REP,Matthew Furyk,7
+Marquette,"City of Marquette, Precinct 3",State House,109,DEM,Jenn Hill,243
+Marquette,"City of Marquette, Precinct 3",State House,109,DEM,Joe Boogren,168
+Marquette,"City of Marquette, Precinct 3",State House,109,REP,Melody Wagner,85
+Marquette,"City of Marquette, Precinct 3",State House,109,REP,Ron Gray,73
+Marquette,"City of Marquette, Precinct 4",Governor,,DEM,Gretchen Whitmer,376
+Marquette,"City of Marquette, Precinct 4",Governor,,REP,Garrett Soldano,13
+Marquette,"City of Marquette, Precinct 4",Governor,,REP,James Elmer Craig,1
+Marquette,"City of Marquette, Precinct 4",Governor,,REP,Kevin Rinke,27
+Marquette,"City of Marquette, Precinct 4",Governor,,REP,Ralph Rebandt,3
+Marquette,"City of Marquette, Precinct 4",Governor,,REP,Ryan D. Kelley,20
+Marquette,"City of Marquette, Precinct 4",Governor,,REP,Tudor M. Dixon,54
+Marquette,"City of Marquette, Precinct 4",U.S. House,1,DEM,Bob Lorinser,367
+Marquette,"City of Marquette, Precinct 4",U.S. House,1,REP,Jack Bergman,119
+Marquette,"City of Marquette, Precinct 4",State Senate,38,DEM,John Braamse,351
+Marquette,"City of Marquette, Precinct 4",State Senate,38,REP,Edward McBroom,100
+Marquette,"City of Marquette, Precinct 4",State Senate,38,REP,Kayla Wikstrom,12
+Marquette,"City of Marquette, Precinct 4",State Senate,38,REP,Matthew Furyk,9
+Marquette,"City of Marquette, Precinct 4",State House,109,DEM,Jenn Hill,226
+Marquette,"City of Marquette, Precinct 4",State House,109,DEM,Joe Boogren,153
+Marquette,"City of Marquette, Precinct 4",State House,109,REP,Melody Wagner,55
+Marquette,"City of Marquette, Precinct 4",State House,109,REP,Ron Gray,58
+Marquette,"City of Marquette, Precinct 5",Governor,,DEM,Gretchen Whitmer,388
+Marquette,"City of Marquette, Precinct 5",Governor,,REP,Garrett Soldano,12
+Marquette,"City of Marquette, Precinct 5",Governor,,REP,Kevin Rinke,17
+Marquette,"City of Marquette, Precinct 5",Governor,,REP,Ralph Rebandt,2
+Marquette,"City of Marquette, Precinct 5",Governor,,REP,Ryan D. Kelley,15
+Marquette,"City of Marquette, Precinct 5",Governor,,REP,Tudor M. Dixon,51
+Marquette,"City of Marquette, Precinct 5",U.S. House,1,DEM,Bob Lorinser,384
+Marquette,"City of Marquette, Precinct 5",U.S. House,1,REP,Jack Bergman,89
+Marquette,"City of Marquette, Precinct 5",State Senate,38,DEM,John Braamse,375
+Marquette,"City of Marquette, Precinct 5",State Senate,38,REP,Edward McBroom,87
+Marquette,"City of Marquette, Precinct 5",State Senate,38,REP,Kayla Wikstrom,11
+Marquette,"City of Marquette, Precinct 5",State Senate,38,REP,Matthew Furyk,3
+Marquette,"City of Marquette, Precinct 5",State House,109,DEM,Jenn Hill,284
+Marquette,"City of Marquette, Precinct 5",State House,109,DEM,Joe Boogren,114
+Marquette,"City of Marquette, Precinct 5",State House,109,REP,Melody Wagner,51
+Marquette,"City of Marquette, Precinct 5",State House,109,REP,Ron Gray,49
+Marquette,"City of Marquette, Precinct 6",Governor,,DEM,Gretchen Whitmer,271
+Marquette,"City of Marquette, Precinct 6",Governor,,REP,Garrett Soldano,9
+Marquette,"City of Marquette, Precinct 6",Governor,,REP,James Elmer Craig,4
+Marquette,"City of Marquette, Precinct 6",Governor,,REP,Kevin Rinke,18
+Marquette,"City of Marquette, Precinct 6",Governor,,REP,Ralph Rebandt,1
+Marquette,"City of Marquette, Precinct 6",Governor,,REP,Ryan D. Kelley,9
+Marquette,"City of Marquette, Precinct 6",Governor,,REP,Tudor M. Dixon,41
+Marquette,"City of Marquette, Precinct 6",U.S. House,1,DEM,Bob Lorinser,258
+Marquette,"City of Marquette, Precinct 6",U.S. House,1,REP,Jack Bergman,85
+Marquette,"City of Marquette, Precinct 6",State Senate,38,DEM,John Braamse,252
+Marquette,"City of Marquette, Precinct 6",State Senate,38,REP,Edward McBroom,79
+Marquette,"City of Marquette, Precinct 6",State Senate,38,REP,Kayla Wikstrom,9
+Marquette,"City of Marquette, Precinct 6",State Senate,38,REP,Matthew Furyk,4
+Marquette,"City of Marquette, Precinct 6",State House,109,DEM,Jenn Hill,189
+Marquette,"City of Marquette, Precinct 6",State House,109,DEM,Joe Boogren,82
+Marquette,"City of Marquette, Precinct 6",State House,109,REP,Melody Wagner,45
+Marquette,"City of Marquette, Precinct 6",State House,109,REP,Ron Gray,41
+Marquette,"City of Marquette, Precinct 7",Governor,,DEM,Gretchen Whitmer,585
+Marquette,"City of Marquette, Precinct 7",Governor,,REP,Garrett Soldano,14
+Marquette,"City of Marquette, Precinct 7",Governor,,REP,James Elmer Craig,1
+Marquette,"City of Marquette, Precinct 7",Governor,,REP,Kevin Rinke,27
+Marquette,"City of Marquette, Precinct 7",Governor,,REP,Ralph Rebandt,4
+Marquette,"City of Marquette, Precinct 7",Governor,,REP,Ryan D. Kelley,20
+Marquette,"City of Marquette, Precinct 7",Governor,,REP,Tudor M. Dixon,60
+Marquette,"City of Marquette, Precinct 7",U.S. House,1,DEM,Bob Lorinser,574
+Marquette,"City of Marquette, Precinct 7",U.S. House,1,REP,Jack Bergman,108
+Marquette,"City of Marquette, Precinct 7",State Senate,38,DEM,John Braamse,556
+Marquette,"City of Marquette, Precinct 7",State Senate,38,REP,Edward McBroom,101
+Marquette,"City of Marquette, Precinct 7",State Senate,38,REP,Kayla Wikstrom,14
+Marquette,"City of Marquette, Precinct 7",State Senate,38,REP,Matthew Furyk,8
+Marquette,"City of Marquette, Precinct 7",State House,109,DEM,Jenn Hill,449
+Marquette,"City of Marquette, Precinct 7",State House,109,DEM,Joe Boogren,140
+Marquette,"City of Marquette, Precinct 7",State House,109,REP,Melody Wagner,58
+Marquette,"City of Marquette, Precinct 7",State House,109,REP,Ron Gray,61
+Marquette,"City of Negaunee, Precinct 1",Governor,,DEM,Gretchen Whitmer,295
+Marquette,"City of Negaunee, Precinct 1",Governor,,REP,Garrett Soldano,28
+Marquette,"City of Negaunee, Precinct 1",Governor,,REP,Kevin Rinke,32
+Marquette,"City of Negaunee, Precinct 1",Governor,,REP,Ralph Rebandt,5
+Marquette,"City of Negaunee, Precinct 1",Governor,,REP,Ryan D. Kelley,31
+Marquette,"City of Negaunee, Precinct 1",Governor,,REP,Tudor M. Dixon,56
+Marquette,"City of Negaunee, Precinct 1",U.S. House,1,DEM,Bob Lorinser,289
+Marquette,"City of Negaunee, Precinct 1",U.S. House,1,REP,Jack Bergman,134
+Marquette,"City of Negaunee, Precinct 1",State Senate,38,DEM,John Braamse,284
+Marquette,"City of Negaunee, Precinct 1",State Senate,38,REP,Edward McBroom,119
+Marquette,"City of Negaunee, Precinct 1",State Senate,38,REP,Kayla Wikstrom,21
+Marquette,"City of Negaunee, Precinct 1",State Senate,38,REP,Matthew Furyk,13
+Marquette,"City of Negaunee, Precinct 1",State House,109,DEM,Jenn Hill,131
+Marquette,"City of Negaunee, Precinct 1",State House,109,DEM,Joe Boogren,166
+Marquette,"City of Negaunee, Precinct 1",State House,109,REP,Melody Wagner,81
+Marquette,"City of Negaunee, Precinct 1",State House,109,REP,Ron Gray,62
+Marquette,"City of Negaunee, Precinct 2",Governor,,DEM,Gretchen Whitmer,352
+Marquette,"City of Negaunee, Precinct 2",Governor,,REP,Garrett Soldano,13
+Marquette,"City of Negaunee, Precinct 2",Governor,,REP,James Elmer Craig,2
+Marquette,"City of Negaunee, Precinct 2",Governor,,REP,Kevin Rinke,42
+Marquette,"City of Negaunee, Precinct 2",Governor,,REP,Ralph Rebandt,5
+Marquette,"City of Negaunee, Precinct 2",Governor,,REP,Ryan D. Kelley,19
+Marquette,"City of Negaunee, Precinct 2",Governor,,REP,Tudor M. Dixon,90
+Marquette,"City of Negaunee, Precinct 2",U.S. House,1,DEM,Bob Lorinser,340
+Marquette,"City of Negaunee, Precinct 2",U.S. House,1,REP,Jack Bergman,163
+Marquette,"City of Negaunee, Precinct 2",State Senate,38,DEM,John Braamse,330
+Marquette,"City of Negaunee, Precinct 2",State Senate,38,REP,Edward McBroom,143
+Marquette,"City of Negaunee, Precinct 2",State Senate,38,REP,Kayla Wikstrom,20
+Marquette,"City of Negaunee, Precinct 2",State Senate,38,REP,Matthew Furyk,10
+Marquette,"City of Negaunee, Precinct 2",State House,109,DEM,Jenn Hill,183
+Marquette,"City of Negaunee, Precinct 2",State House,109,DEM,Joe Boogren,174
+Marquette,"City of Negaunee, Precinct 2",State House,109,REP,Melody Wagner,102
+Marquette,"City of Negaunee, Precinct 2",State House,109,REP,Ron Gray,70
+Marquette,"Ely Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,212
+Marquette,"Ely Township, Precinct 1",Governor,,REP,Garrett Soldano,29
+Marquette,"Ely Township, Precinct 1",Governor,,REP,Kevin Rinke,22
+Marquette,"Ely Township, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Marquette,"Ely Township, Precinct 1",Governor,,REP,Ryan D. Kelley,28
+Marquette,"Ely Township, Precinct 1",Governor,,REP,Tudor M. Dixon,102
+Marquette,"Ely Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,209
+Marquette,"Ely Township, Precinct 1",U.S. House,1,REP,Jack Bergman,176
+Marquette,"Ely Township, Precinct 1",State Senate,38,DEM,John Braamse,205
+Marquette,"Ely Township, Precinct 1",State Senate,38,REP,Edward McBroom,146
+Marquette,"Ely Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,26
+Marquette,"Ely Township, Precinct 1",State Senate,38,REP,Matthew Furyk,10
+Marquette,"Ely Township, Precinct 1",State House,109,DEM,Jenn Hill,88
+Marquette,"Ely Township, Precinct 1",State House,109,DEM,Joe Boogren,128
+Marquette,"Ely Township, Precinct 1",State House,109,REP,Melody Wagner,89
+Marquette,"Ely Township, Precinct 1",State House,109,REP,Ron Gray,90
+Marquette,"Ewing Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,22
+Marquette,"Ewing Township, Precinct 1",Governor,,REP,Garrett Soldano,12
+Marquette,"Ewing Township, Precinct 1",Governor,,REP,Kevin Rinke,9
+Marquette,"Ewing Township, Precinct 1",Governor,,REP,Ryan D. Kelley,5
+Marquette,"Ewing Township, Precinct 1",Governor,,REP,Tudor M. Dixon,11
+Marquette,"Ewing Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,21
+Marquette,"Ewing Township, Precinct 1",U.S. House,1,REP,Jack Bergman,32
+Marquette,"Ewing Township, Precinct 1",State Senate,38,DEM,John Braamse,21
+Marquette,"Ewing Township, Precinct 1",State Senate,38,REP,Edward McBroom,25
+Marquette,"Ewing Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,5
+Marquette,"Ewing Township, Precinct 1",State Senate,38,REP,Matthew Furyk,7
+Marquette,"Ewing Township, Precinct 1",State House,109,DEM,Jenn Hill,8
+Marquette,"Ewing Township, Precinct 1",State House,109,DEM,Joe Boogren,14
+Marquette,"Ewing Township, Precinct 1",State House,109,REP,Melody Wagner,20
+Marquette,"Ewing Township, Precinct 1",State House,109,REP,Ron Gray,15
+Marquette,"Forsyth Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,457
+Marquette,"Forsyth Township, Precinct 1",Governor,,REP,Garrett Soldano,63
+Marquette,"Forsyth Township, Precinct 1",Governor,,REP,Kevin Rinke,74
+Marquette,"Forsyth Township, Precinct 1",Governor,,REP,Ralph Rebandt,9
+Marquette,"Forsyth Township, Precinct 1",Governor,,REP,Ryan D. Kelley,69
+Marquette,"Forsyth Township, Precinct 1",Governor,,REP,Tudor M. Dixon,157
+Marquette,"Forsyth Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,447
+Marquette,"Forsyth Township, Precinct 1",U.S. House,1,REP,Jack Bergman,350
+Marquette,"Forsyth Township, Precinct 1",State Senate,38,DEM,John Braamse,432
+Marquette,"Forsyth Township, Precinct 1",State Senate,38,REP,Edward McBroom,293
+Marquette,"Forsyth Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,59
+Marquette,"Forsyth Township, Precinct 1",State Senate,38,REP,Matthew Furyk,20
+Marquette,"Forsyth Township, Precinct 1",State House,109,DEM,Jenn Hill,125
+Marquette,"Forsyth Township, Precinct 1",State House,109,DEM,Joe Boogren,372
+Marquette,"Forsyth Township, Precinct 1",State House,109,REP,Melody Wagner,219
+Marquette,"Forsyth Township, Precinct 1",State House,109,REP,Ron Gray,152
+Marquette,"Forsyth Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,116
+Marquette,"Forsyth Township, Precinct 2",Governor,,REP,Garrett Soldano,23
+Marquette,"Forsyth Township, Precinct 2",Governor,,REP,Kevin Rinke,34
+Marquette,"Forsyth Township, Precinct 2",Governor,,REP,Ralph Rebandt,8
+Marquette,"Forsyth Township, Precinct 2",Governor,,REP,Ryan D. Kelley,17
+Marquette,"Forsyth Township, Precinct 2",Governor,,REP,Tudor M. Dixon,70
+Marquette,"Forsyth Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,119
+Marquette,"Forsyth Township, Precinct 2",U.S. House,1,REP,Jack Bergman,149
+Marquette,"Forsyth Township, Precinct 2",State Senate,38,DEM,John Braamse,110
+Marquette,"Forsyth Township, Precinct 2",State Senate,38,REP,Edward McBroom,122
+Marquette,"Forsyth Township, Precinct 2",State Senate,38,REP,Kayla Wikstrom,22
+Marquette,"Forsyth Township, Precinct 2",State Senate,38,REP,Matthew Furyk,10
+Marquette,"Forsyth Township, Precinct 2",State House,109,DEM,Jenn Hill,20
+Marquette,"Forsyth Township, Precinct 2",State House,109,DEM,Joe Boogren,108
+Marquette,"Forsyth Township, Precinct 2",State House,109,REP,Melody Wagner,98
+Marquette,"Forsyth Township, Precinct 2",State House,109,REP,Ron Gray,57
+Marquette,"Forsyth Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,80
+Marquette,"Forsyth Township, Precinct 3",Governor,,REP,Garrett Soldano,21
+Marquette,"Forsyth Township, Precinct 3",Governor,,REP,Kevin Rinke,16
+Marquette,"Forsyth Township, Precinct 3",Governor,,REP,Ralph Rebandt,1
+Marquette,"Forsyth Township, Precinct 3",Governor,,REP,Ryan D. Kelley,21
+Marquette,"Forsyth Township, Precinct 3",Governor,,REP,Tudor M. Dixon,42
+Marquette,"Forsyth Township, Precinct 3",U.S. House,1,DEM,Bob Lorinser,81
+Marquette,"Forsyth Township, Precinct 3",U.S. House,1,REP,Jack Bergman,96
+Marquette,"Forsyth Township, Precinct 3",State Senate,38,DEM,John Braamse,79
+Marquette,"Forsyth Township, Precinct 3",State Senate,38,REP,Edward McBroom,77
+Marquette,"Forsyth Township, Precinct 3",State Senate,38,REP,Kayla Wikstrom,4
+Marquette,"Forsyth Township, Precinct 3",State Senate,38,REP,Matthew Furyk,21
+Marquette,"Forsyth Township, Precinct 3",State House,109,DEM,Jenn Hill,35
+Marquette,"Forsyth Township, Precinct 3",State House,109,DEM,Joe Boogren,49
+Marquette,"Forsyth Township, Precinct 3",State House,109,REP,Melody Wagner,42
+Marquette,"Forsyth Township, Precinct 3",State House,109,REP,Ron Gray,60
+Marquette,"Humboldt Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,60
+Marquette,"Humboldt Township, Precinct 1",Governor,,REP,Garrett Soldano,13
+Marquette,"Humboldt Township, Precinct 1",Governor,,REP,James Elmer Craig,1
+Marquette,"Humboldt Township, Precinct 1",Governor,,REP,Kevin Rinke,4
+Marquette,"Humboldt Township, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Marquette,"Humboldt Township, Precinct 1",Governor,,REP,Ryan D. Kelley,6
+Marquette,"Humboldt Township, Precinct 1",Governor,,REP,Tudor M. Dixon,23
+Marquette,"Humboldt Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,61
+Marquette,"Humboldt Township, Precinct 1",U.S. House,1,REP,Jack Bergman,45
+Marquette,"Humboldt Township, Precinct 1",State Senate,38,DEM,John Braamse,59
+Marquette,"Humboldt Township, Precinct 1",State Senate,38,REP,Edward McBroom,36
+Marquette,"Humboldt Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,8
+Marquette,"Humboldt Township, Precinct 1",State Senate,38,REP,Matthew Furyk,5
+Marquette,"Humboldt Township, Precinct 1",State House,109,DEM,Jenn Hill,32
+Marquette,"Humboldt Township, Precinct 1",State House,109,DEM,Joe Boogren,29
+Marquette,"Humboldt Township, Precinct 1",State House,109,REP,Melody Wagner,26
+Marquette,"Humboldt Township, Precinct 1",State House,109,REP,Ron Gray,24
+Marquette,"Ishpeming Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,214
+Marquette,"Ishpeming Township, Precinct 1",Governor,,REP,Garrett Soldano,22
+Marquette,"Ishpeming Township, Precinct 1",Governor,,REP,Kevin Rinke,33
+Marquette,"Ishpeming Township, Precinct 1",Governor,,REP,Ralph Rebandt,3
+Marquette,"Ishpeming Township, Precinct 1",Governor,,REP,Ryan D. Kelley,34
+Marquette,"Ishpeming Township, Precinct 1",Governor,,REP,Tudor M. Dixon,62
+Marquette,"Ishpeming Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,210
+Marquette,"Ishpeming Township, Precinct 1",U.S. House,1,REP,Jack Bergman,148
+Marquette,"Ishpeming Township, Precinct 1",State Senate,38,DEM,John Braamse,209
+Marquette,"Ishpeming Township, Precinct 1",State Senate,38,REP,Edward McBroom,131
+Marquette,"Ishpeming Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,15
+Marquette,"Ishpeming Township, Precinct 1",State Senate,38,REP,Matthew Furyk,11
+Marquette,"Ishpeming Township, Precinct 1",State House,109,DEM,Jenn Hill,98
+Marquette,"Ishpeming Township, Precinct 1",State House,109,DEM,Joe Boogren,118
+Marquette,"Ishpeming Township, Precinct 1",State House,109,REP,Melody Wagner,75
+Marquette,"Ishpeming Township, Precinct 1",State House,109,REP,Ron Gray,76
+Marquette,"Ishpeming Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,203
+Marquette,"Ishpeming Township, Precinct 2",Governor,,REP,Garrett Soldano,23
+Marquette,"Ishpeming Township, Precinct 2",Governor,,REP,Kevin Rinke,34
+Marquette,"Ishpeming Township, Precinct 2",Governor,,REP,Ralph Rebandt,1
+Marquette,"Ishpeming Township, Precinct 2",Governor,,REP,Ryan D. Kelley,30
+Marquette,"Ishpeming Township, Precinct 2",Governor,,REP,Tudor M. Dixon,52
+Marquette,"Ishpeming Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,203
+Marquette,"Ishpeming Township, Precinct 2",U.S. House,1,REP,Jack Bergman,137
+Marquette,"Ishpeming Township, Precinct 2",State Senate,38,DEM,John Braamse,198
+Marquette,"Ishpeming Township, Precinct 2",State Senate,38,REP,Edward McBroom,111
+Marquette,"Ishpeming Township, Precinct 2",State Senate,38,REP,Kayla Wikstrom,18
+Marquette,"Ishpeming Township, Precinct 2",State Senate,38,REP,Matthew Furyk,9
+Marquette,"Ishpeming Township, Precinct 2",State House,109,DEM,Jenn Hill,77
+Marquette,"Ishpeming Township, Precinct 2",State House,109,DEM,Joe Boogren,127
+Marquette,"Ishpeming Township, Precinct 2",State House,109,REP,Melody Wagner,73
+Marquette,"Ishpeming Township, Precinct 2",State House,109,REP,Ron Gray,65
+Marquette,"Marquette Charter Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,469
+Marquette,"Marquette Charter Township, Precinct 1",Governor,,REP,Garrett Soldano,34
+Marquette,"Marquette Charter Township, Precinct 1",Governor,,REP,James Elmer Craig,3
+Marquette,"Marquette Charter Township, Precinct 1",Governor,,REP,Kevin Rinke,51
+Marquette,"Marquette Charter Township, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Marquette,"Marquette Charter Township, Precinct 1",Governor,,REP,Ryan D. Kelley,39
+Marquette,"Marquette Charter Township, Precinct 1",Governor,,REP,Tudor M. Dixon,114
+Marquette,"Marquette Charter Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,464
+Marquette,"Marquette Charter Township, Precinct 1",U.S. House,1,REP,Jack Bergman,238
+Marquette,"Marquette Charter Township, Precinct 1",State Senate,38,DEM,John Braamse,445
+Marquette,"Marquette Charter Township, Precinct 1",State Senate,38,REP,Edward McBroom,200
+Marquette,"Marquette Charter Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,24
+Marquette,"Marquette Charter Township, Precinct 1",State Senate,38,REP,Matthew Furyk,20
+Marquette,"Marquette Charter Township, Precinct 1",State House,109,DEM,Jenn Hill,269
+Marquette,"Marquette Charter Township, Precinct 1",State House,109,DEM,Joe Boogren,201
+Marquette,"Marquette Charter Township, Precinct 1",State House,109,REP,Melody Wagner,116
+Marquette,"Marquette Charter Township, Precinct 1",State House,109,REP,Ron Gray,121
+Marquette,"Marquette Charter Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,223
+Marquette,"Marquette Charter Township, Precinct 2",Governor,,REP,Garrett Soldano,17
+Marquette,"Marquette Charter Township, Precinct 2",Governor,,REP,James Elmer Craig,1
+Marquette,"Marquette Charter Township, Precinct 2",Governor,,REP,Kevin Rinke,24
+Marquette,"Marquette Charter Township, Precinct 2",Governor,,REP,Ralph Rebandt,5
+Marquette,"Marquette Charter Township, Precinct 2",Governor,,REP,Ryan D. Kelley,14
+Marquette,"Marquette Charter Township, Precinct 2",Governor,,REP,Tudor M. Dixon,67
+Marquette,"Marquette Charter Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,221
+Marquette,"Marquette Charter Township, Precinct 2",U.S. House,1,REP,Jack Bergman,117
+Marquette,"Marquette Charter Township, Precinct 2",State Senate,38,DEM,John Braamse,218
+Marquette,"Marquette Charter Township, Precinct 2",State Senate,38,REP,Edward McBroom,99
+Marquette,"Marquette Charter Township, Precinct 2",State Senate,38,REP,Kayla Wikstrom,15
+Marquette,"Marquette Charter Township, Precinct 2",State Senate,38,REP,Matthew Furyk,11
+Marquette,"Marquette Charter Township, Precinct 2",State House,109,DEM,Jenn Hill,150
+Marquette,"Marquette Charter Township, Precinct 2",State House,109,DEM,Joe Boogren,80
+Marquette,"Marquette Charter Township, Precinct 2",State House,109,REP,Melody Wagner,53
+Marquette,"Marquette Charter Township, Precinct 2",State House,109,REP,Ron Gray,65
+Marquette,"Michigamme Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,48
+Marquette,"Michigamme Township, Precinct 1",Governor,,REP,Garrett Soldano,5
+Marquette,"Michigamme Township, Precinct 1",Governor,,REP,Kevin Rinke,9
+Marquette,"Michigamme Township, Precinct 1",Governor,,REP,Ralph Rebandt,1
+Marquette,"Michigamme Township, Precinct 1",Governor,,REP,Ryan D. Kelley,11
+Marquette,"Michigamme Township, Precinct 1",Governor,,REP,Tudor M. Dixon,34
+Marquette,"Michigamme Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,44
+Marquette,"Michigamme Township, Precinct 1",U.S. House,1,REP,Jack Bergman,60
+Marquette,"Michigamme Township, Precinct 1",State Senate,38,DEM,John Braamse,47
+Marquette,"Michigamme Township, Precinct 1",State Senate,38,REP,Edward McBroom,47
+Marquette,"Michigamme Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,8
+Marquette,"Michigamme Township, Precinct 1",State Senate,38,REP,Matthew Furyk,7
+Marquette,"Michigamme Township, Precinct 1",State House,109,DEM,Jenn Hill,19
+Marquette,"Michigamme Township, Precinct 1",State House,109,DEM,Joe Boogren,31
+Marquette,"Michigamme Township, Precinct 1",State House,109,REP,Melody Wagner,37
+Marquette,"Michigamme Township, Precinct 1",State House,109,REP,Ron Gray,18
+Marquette,"Negaunee Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,415
+Marquette,"Negaunee Township, Precinct 1",Governor,,REP,Garrett Soldano,75
+Marquette,"Negaunee Township, Precinct 1",Governor,,REP,James Elmer Craig,1
+Marquette,"Negaunee Township, Precinct 1",Governor,,REP,Kevin Rinke,43
+Marquette,"Negaunee Township, Precinct 1",Governor,,REP,Ralph Rebandt,5
+Marquette,"Negaunee Township, Precinct 1",Governor,,REP,Ryan D. Kelley,67
+Marquette,"Negaunee Township, Precinct 1",Governor,,REP,Tudor M. Dixon,136
+Marquette,"Negaunee Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,395
+Marquette,"Negaunee Township, Precinct 1",U.S. House,1,REP,Jack Bergman,299
+Marquette,"Negaunee Township, Precinct 1",State Senate,38,DEM,John Braamse,383
+Marquette,"Negaunee Township, Precinct 1",State Senate,38,REP,Edward McBroom,261
+Marquette,"Negaunee Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,40
+Marquette,"Negaunee Township, Precinct 1",State Senate,38,REP,Matthew Furyk,25
+Marquette,"Negaunee Township, Precinct 1",State House,109,DEM,Jenn Hill,220
+Marquette,"Negaunee Township, Precinct 1",State House,109,DEM,Joe Boogren,200
+Marquette,"Negaunee Township, Precinct 1",State House,109,REP,Melody Wagner,185
+Marquette,"Negaunee Township, Precinct 1",State House,109,REP,Ron Gray,130
+Marquette,"Powell Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,121
+Marquette,"Powell Township, Precinct 1",Governor,,REP,Garrett Soldano,19
+Marquette,"Powell Township, Precinct 1",Governor,,REP,Kevin Rinke,15
+Marquette,"Powell Township, Precinct 1",Governor,,REP,Ralph Rebandt,3
+Marquette,"Powell Township, Precinct 1",Governor,,REP,Ryan D. Kelley,25
+Marquette,"Powell Township, Precinct 1",Governor,,REP,Tudor M. Dixon,43
+Marquette,"Powell Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,117
+Marquette,"Powell Township, Precinct 1",U.S. House,1,REP,Jack Bergman,96
+Marquette,"Powell Township, Precinct 1",State Senate,38,DEM,John Braamse,117
+Marquette,"Powell Township, Precinct 1",State Senate,38,REP,Edward McBroom,82
+Marquette,"Powell Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,15
+Marquette,"Powell Township, Precinct 1",State Senate,38,REP,Matthew Furyk,8
+Marquette,"Powell Township, Precinct 1",State House,109,DEM,Jenn Hill,84
+Marquette,"Powell Township, Precinct 1",State House,109,DEM,Joe Boogren,42
+Marquette,"Powell Township, Precinct 1",State House,109,REP,Melody Wagner,40
+Marquette,"Powell Township, Precinct 1",State House,109,REP,Ron Gray,61
+Marquette,"Republic Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,142
+Marquette,"Republic Township, Precinct 1",Governor,,REP,Garrett Soldano,32
+Marquette,"Republic Township, Precinct 1",Governor,,REP,Kevin Rinke,17
+Marquette,"Republic Township, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Marquette,"Republic Township, Precinct 1",Governor,,REP,Ryan D. Kelley,23
+Marquette,"Republic Township, Precinct 1",Governor,,REP,Tudor M. Dixon,55
+Marquette,"Republic Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,133
+Marquette,"Republic Township, Precinct 1",U.S. House,1,REP,Jack Bergman,123
+Marquette,"Republic Township, Precinct 1",State Senate,38,DEM,John Braamse,133
+Marquette,"Republic Township, Precinct 1",State Senate,38,REP,Edward McBroom,101
+Marquette,"Republic Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,14
+Marquette,"Republic Township, Precinct 1",State Senate,38,REP,Matthew Furyk,14
+Marquette,"Republic Township, Precinct 1",State House,109,DEM,Jenn Hill,61
+Marquette,"Republic Township, Precinct 1",State House,109,DEM,Joe Boogren,86
+Marquette,"Republic Township, Precinct 1",State House,109,REP,Melody Wagner,88
+Marquette,"Republic Township, Precinct 1",State House,109,REP,Ron Gray,39
+Marquette,"Richmond Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,127
+Marquette,"Richmond Township, Precinct 1",Governor,,REP,Garrett Soldano,16
+Marquette,"Richmond Township, Precinct 1",Governor,,REP,Kevin Rinke,14
+Marquette,"Richmond Township, Precinct 1",Governor,,REP,Ryan D. Kelley,3
+Marquette,"Richmond Township, Precinct 1",Governor,,REP,Tudor M. Dixon,16
+Marquette,"Richmond Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,125
+Marquette,"Richmond Township, Precinct 1",U.S. House,1,REP,Jack Bergman,46
+Marquette,"Richmond Township, Precinct 1",State Senate,38,DEM,John Braamse,123
+Marquette,"Richmond Township, Precinct 1",State Senate,38,REP,Edward McBroom,37
+Marquette,"Richmond Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,8
+Marquette,"Richmond Township, Precinct 1",State Senate,38,REP,Matthew Furyk,4
+Marquette,"Richmond Township, Precinct 1",State House,109,DEM,Jenn Hill,46
+Marquette,"Richmond Township, Precinct 1",State House,109,DEM,Joe Boogren,85
+Marquette,"Richmond Township, Precinct 1",State House,109,REP,Melody Wagner,27
+Marquette,"Richmond Township, Precinct 1",State House,109,REP,Ron Gray,19
+Marquette,"Sands Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,266
+Marquette,"Sands Township, Precinct 1",Governor,,REP,Garrett Soldano,54
+Marquette,"Sands Township, Precinct 1",Governor,,REP,Kevin Rinke,62
+Marquette,"Sands Township, Precinct 1",Governor,,REP,Ralph Rebandt,5
+Marquette,"Sands Township, Precinct 1",Governor,,REP,Ryan D. Kelley,29
+Marquette,"Sands Township, Precinct 1",Governor,,REP,Tudor M. Dixon,107
+Marquette,"Sands Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,265
+Marquette,"Sands Township, Precinct 1",U.S. House,1,REP,Jack Bergman,251
+Marquette,"Sands Township, Precinct 1",State Senate,38,DEM,John Braamse,257
+Marquette,"Sands Township, Precinct 1",State Senate,38,REP,Edward McBroom,206
+Marquette,"Sands Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,43
+Marquette,"Sands Township, Precinct 1",State Senate,38,REP,Matthew Furyk,13
+Marquette,"Sands Township, Precinct 1",State House,109,DEM,Jenn Hill,142
+Marquette,"Sands Township, Precinct 1",State House,109,DEM,Joe Boogren,126
+Marquette,"Sands Township, Precinct 1",State House,109,REP,Melody Wagner,139
+Marquette,"Sands Township, Precinct 1",State House,109,REP,Ron Gray,110
+Marquette,"Skandia Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,96
+Marquette,"Skandia Township, Precinct 1",Governor,,REP,Garrett Soldano,15
+Marquette,"Skandia Township, Precinct 1",Governor,,REP,Kevin Rinke,18
+Marquette,"Skandia Township, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Marquette,"Skandia Township, Precinct 1",Governor,,REP,Ryan D. Kelley,17
+Marquette,"Skandia Township, Precinct 1",Governor,,REP,Tudor M. Dixon,35
+Marquette,"Skandia Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,93
+Marquette,"Skandia Township, Precinct 1",U.S. House,1,REP,Jack Bergman,83
+Marquette,"Skandia Township, Precinct 1",State Senate,38,DEM,John Braamse,92
+Marquette,"Skandia Township, Precinct 1",State Senate,38,REP,Edward McBroom,71
+Marquette,"Skandia Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,9
+Marquette,"Skandia Township, Precinct 1",State Senate,38,REP,Matthew Furyk,8
+Marquette,"Skandia Township, Precinct 1",State House,109,DEM,Jenn Hill,42
+Marquette,"Skandia Township, Precinct 1",State House,109,DEM,Joe Boogren,55
+Marquette,"Skandia Township, Precinct 1",State House,109,REP,Melody Wagner,32
+Marquette,"Skandia Township, Precinct 1",State House,109,REP,Ron Gray,49
+Marquette,"Tilden Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,108
+Marquette,"Tilden Township, Precinct 1",Governor,,REP,Garrett Soldano,28
+Marquette,"Tilden Township, Precinct 1",Governor,,REP,Kevin Rinke,14
+Marquette,"Tilden Township, Precinct 1",Governor,,REP,Ralph Rebandt,2
+Marquette,"Tilden Township, Precinct 1",Governor,,REP,Ryan D. Kelley,29
+Marquette,"Tilden Township, Precinct 1",Governor,,REP,Tudor M. Dixon,35
+Marquette,"Tilden Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,104
+Marquette,"Tilden Township, Precinct 1",U.S. House,1,REP,Jack Bergman,104
+Marquette,"Tilden Township, Precinct 1",State Senate,38,DEM,John Braamse,102
+Marquette,"Tilden Township, Precinct 1",State Senate,38,REP,Edward McBroom,90
+Marquette,"Tilden Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,11
+Marquette,"Tilden Township, Precinct 1",State Senate,38,REP,Matthew Furyk,7
+Marquette,"Tilden Township, Precinct 1",State House,109,DEM,Jenn Hill,47
+Marquette,"Tilden Township, Precinct 1",State House,109,DEM,Joe Boogren,63
+Marquette,"Tilden Township, Precinct 1",State House,109,REP,Melody Wagner,56
+Marquette,"Tilden Township, Precinct 1",State House,109,REP,Ron Gray,50
+Marquette,"Turin Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,10
+Marquette,"Turin Township, Precinct 1",Governor,,REP,Garrett Soldano,4
+Marquette,"Turin Township, Precinct 1",Governor,,REP,Kevin Rinke,4
+Marquette,"Turin Township, Precinct 1",Governor,,REP,Ralph Rebandt,2
+Marquette,"Turin Township, Precinct 1",Governor,,REP,Ryan D. Kelley,4
+Marquette,"Turin Township, Precinct 1",Governor,,REP,Tudor M. Dixon,12
+Marquette,"Turin Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,10
+Marquette,"Turin Township, Precinct 1",U.S. House,1,REP,Jack Bergman,24
+Marquette,"Turin Township, Precinct 1",State Senate,38,DEM,John Braamse,9
+Marquette,"Turin Township, Precinct 1",State Senate,38,REP,Edward McBroom,23
+Marquette,"Turin Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,2
+Marquette,"Turin Township, Precinct 1",State Senate,38,REP,Matthew Furyk,2
+Marquette,"Turin Township, Precinct 1",State House,109,DEM,Jenn Hill,3
+Marquette,"Turin Township, Precinct 1",State House,109,DEM,Joe Boogren,8
+Marquette,"Turin Township, Precinct 1",State House,109,REP,Melody Wagner,10
+Marquette,"Turin Township, Precinct 1",State House,109,REP,Ron Gray,17
+Marquette,"Wells Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,24
+Marquette,"Wells Township, Precinct 1",Governor,,REP,Garrett Soldano,6
+Marquette,"Wells Township, Precinct 1",Governor,,REP,Kevin Rinke,7
+Marquette,"Wells Township, Precinct 1",Governor,,REP,Ryan D. Kelley,9
+Marquette,"Wells Township, Precinct 1",Governor,,REP,Tudor M. Dixon,12
+Marquette,"Wells Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,22
+Marquette,"Wells Township, Precinct 1",U.S. House,1,REP,Jack Bergman,34
+Marquette,"Wells Township, Precinct 1",State Senate,38,DEM,John Braamse,23
+Marquette,"Wells Township, Precinct 1",State Senate,38,REP,Edward McBroom,29
+Marquette,"Wells Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,6
+Marquette,"Wells Township, Precinct 1",State House,109,DEM,Jenn Hill,6
+Marquette,"Wells Township, Precinct 1",State House,109,DEM,Joe Boogren,19
+Marquette,"Wells Township, Precinct 1",State House,109,REP,Melody Wagner,22
+Marquette,"Wells Township, Precinct 1",State House,109,REP,Ron Gray,11
+Marquette,"West Branch Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,141
+Marquette,"West Branch Township, Precinct 1",Governor,,REP,Garrett Soldano,24
+Marquette,"West Branch Township, Precinct 1",Governor,,REP,Kevin Rinke,20
+Marquette,"West Branch Township, Precinct 1",Governor,,REP,Ralph Rebandt,6
+Marquette,"West Branch Township, Precinct 1",Governor,,REP,Ryan D. Kelley,19
+Marquette,"West Branch Township, Precinct 1",Governor,,REP,Tudor M. Dixon,67
+Marquette,"West Branch Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,138
+Marquette,"West Branch Township, Precinct 1",U.S. House,1,REP,Jack Bergman,130
+Marquette,"West Branch Township, Precinct 1",State Senate,38,DEM,John Braamse,135
+Marquette,"West Branch Township, Precinct 1",State Senate,38,REP,Edward McBroom,100
+Marquette,"West Branch Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,25
+Marquette,"West Branch Township, Precinct 1",State Senate,38,REP,Matthew Furyk,12
+Marquette,"West Branch Township, Precinct 1",State House,109,DEM,Jenn Hill,74
+Marquette,"West Branch Township, Precinct 1",State House,109,DEM,Joe Boogren,70
+Marquette,"West Branch Township, Precinct 1",State House,109,REP,Melody Wagner,71
+Marquette,"West Branch Township, Precinct 1",State House,109,REP,Ron Gray,68

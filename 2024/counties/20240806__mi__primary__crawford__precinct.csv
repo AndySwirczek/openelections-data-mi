@@ -1,0 +1,880 @@
+county,precinct,office,district,party,candidate,votes
+Crawford,"Beaver Creek Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,61
+Crawford,"Beaver Creek Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,6
+Crawford,"Beaver Creek Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,67
+Crawford,"City of Grayling, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,64
+Crawford,"City of Grayling, Precinct 1",U.S. Senate,,DEM,Hill Harper,13
+Crawford,"City of Grayling, Precinct 1",U.S. Senate,,DEM,Ballots Cast,77
+Crawford,"Frederic Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,85
+Crawford,"Frederic Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,15
+Crawford,"Frederic Township, Precinct 1",U.S. Senate,,DEM,Write-In,1
+Crawford,"Frederic Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,101
+Crawford,"Grayling Charter Township, Precinct 304",U.S. Senate,,DEM,Elissa Slotkin,124
+Crawford,"Grayling Charter Township, Precinct 304",U.S. Senate,,DEM,Hill Harper,19
+Crawford,"Grayling Charter Township, Precinct 304",U.S. Senate,,DEM,Ballots Cast,143
+Crawford,"Grayling Charter Township, Precinct 305",U.S. Senate,,DEM,Elissa Slotkin,109
+Crawford,"Grayling Charter Township, Precinct 305",U.S. Senate,,DEM,Hill Harper,9
+Crawford,"Grayling Charter Township, Precinct 305",U.S. Senate,,DEM,Ballots Cast,118
+Crawford,"Grayling Charter Township, Precinct 306",U.S. Senate,,DEM,Elissa Slotkin,132
+Crawford,"Grayling Charter Township, Precinct 306",U.S. Senate,,DEM,Hill Harper,22
+Crawford,"Grayling Charter Township, Precinct 306",U.S. Senate,,DEM,Ballots Cast,154
+Crawford,"Lovells Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,44
+Crawford,"Lovells Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,8
+Crawford,"Lovells Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,52
+Crawford,"Maple Forest Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,24
+Crawford,"Maple Forest Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,7
+Crawford,"Maple Forest Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,31
+Crawford,"South Branch Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,145
+Crawford,"South Branch Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,16
+Crawford,"South Branch Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,161
+Crawford,"Beaver Creek Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,20
+Crawford,"Beaver Creek Township, Precinct 1",U.S. House,1,DEM,Callie Barr,46
+Crawford,"Beaver Creek Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,66
+Crawford,"City of Grayling, Precinct 1",U.S. House,1,DEM,Bob Lorinser,19
+Crawford,"City of Grayling, Precinct 1",U.S. House,1,DEM,Callie Barr,60
+Crawford,"City of Grayling, Precinct 1",U.S. House,1,DEM,Ballots Cast,79
+Crawford,"Frederic Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,34
+Crawford,"Frederic Township, Precinct 1",U.S. House,1,DEM,Callie Barr,60
+Crawford,"Frederic Township, Precinct 1",U.S. House,1,DEM,Write-In,1
+Crawford,"Frederic Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,95
+Crawford,"Grayling Charter Township, Precinct 304",U.S. House,1,DEM,Bob Lorinser,46
+Crawford,"Grayling Charter Township, Precinct 304",U.S. House,1,DEM,Callie Barr,92
+Crawford,"Grayling Charter Township, Precinct 304",U.S. House,1,DEM,Ballots Cast,138
+Crawford,"Grayling Charter Township, Precinct 305",U.S. House,1,DEM,Bob Lorinser,32
+Crawford,"Grayling Charter Township, Precinct 305",U.S. House,1,DEM,Callie Barr,83
+Crawford,"Grayling Charter Township, Precinct 305",U.S. House,1,DEM,Ballots Cast,115
+Crawford,"Grayling Charter Township, Precinct 306",U.S. House,1,DEM,Bob Lorinser,47
+Crawford,"Grayling Charter Township, Precinct 306",U.S. House,1,DEM,Callie Barr,103
+Crawford,"Grayling Charter Township, Precinct 306",U.S. House,1,DEM,Ballots Cast,150
+Crawford,"Lovells Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,16
+Crawford,"Lovells Township, Precinct 1",U.S. House,1,DEM,Callie Barr,36
+Crawford,"Lovells Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,52
+Crawford,"Maple Forest Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,11
+Crawford,"Maple Forest Township, Precinct 1",U.S. House,1,DEM,Callie Barr,21
+Crawford,"Maple Forest Township, Precinct 1",U.S. House,1,DEM,Write-In,1
+Crawford,"Maple Forest Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,33
+Crawford,"South Branch Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,53
+Crawford,"South Branch Township, Precinct 1",U.S. House,1,DEM,Callie Barr,103
+Crawford,"South Branch Township, Precinct 1",U.S. House,1,DEM,Write-In,1
+Crawford,"South Branch Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,157
+Crawford,"Beaver Creek Township, Precinct 1",State House,105,DEM,James Wojey,57
+Crawford,"Beaver Creek Township, Precinct 1",State House,105,DEM,Ballots Cast,57
+Crawford,"City of Grayling, Precinct 1",State House,105,DEM,James Wojey,68
+Crawford,"City of Grayling, Precinct 1",State House,105,DEM,Ballots Cast,68
+Crawford,"Frederic Township, Precinct 1",State House,105,DEM,James Wojey,88
+Crawford,"Frederic Township, Precinct 1",State House,105,DEM,Write-In,1
+Crawford,"Frederic Township, Precinct 1",State House,105,DEM,Ballots Cast,89
+Crawford,"Grayling Charter Township, Precinct 304",State House,105,DEM,James Wojey,106
+Crawford,"Grayling Charter Township, Precinct 304",State House,105,DEM,Ballots Cast,106
+Crawford,"Grayling Charter Township, Precinct 305",State House,105,DEM,James Wojey,97
+Crawford,"Grayling Charter Township, Precinct 305",State House,105,DEM,Ballots Cast,97
+Crawford,"Grayling Charter Township, Precinct 306",State House,105,DEM,James Wojey,131
+Crawford,"Grayling Charter Township, Precinct 306",State House,105,DEM,Write-In,2
+Crawford,"Grayling Charter Township, Precinct 306",State House,105,DEM,Ballots Cast,133
+Crawford,"Lovells Township, Precinct 1",State House,105,DEM,James Wojey,45
+Crawford,"Lovells Township, Precinct 1",State House,105,DEM,Ballots Cast,45
+Crawford,"Maple Forest Township, Precinct 1",State House,105,DEM,James Wojey,27
+Crawford,"Maple Forest Township, Precinct 1",State House,105,DEM,Write-In,1
+Crawford,"Maple Forest Township, Precinct 1",State House,105,DEM,Ballots Cast,28
+Crawford,"South Branch Township, Precinct 1",State House,105,DEM,James Wojey,135
+Crawford,"South Branch Township, Precinct 1",State House,105,DEM,Write-In,1
+Crawford,"South Branch Township, Precinct 1",State House,105,DEM,Ballots Cast,136
+Crawford,"Beaver Creek Township, Precinct 1",County Prosecuting Attorney for Crawford County,,DEM,Write-In,6
+Crawford,"Beaver Creek Township, Precinct 1",County Prosecuting Attorney for Crawford County,,DEM,Ballots Cast,6
+Crawford,"City of Grayling, Precinct 1",County Prosecuting Attorney for Crawford County,,DEM,Write-In,8
+Crawford,"City of Grayling, Precinct 1",County Prosecuting Attorney for Crawford County,,DEM,Ballots Cast,8
+Crawford,"Frederic Township, Precinct 1",County Prosecuting Attorney for Crawford County,,DEM,Write-In,11
+Crawford,"Frederic Township, Precinct 1",County Prosecuting Attorney for Crawford County,,DEM,Ballots Cast,11
+Crawford,"Grayling Charter Township, Precinct 304",County Prosecuting Attorney for Crawford County,,DEM,Write-In,11
+Crawford,"Grayling Charter Township, Precinct 304",County Prosecuting Attorney for Crawford County,,DEM,Ballots Cast,11
+Crawford,"Grayling Charter Township, Precinct 305",County Prosecuting Attorney for Crawford County,,DEM,Write-In,13
+Crawford,"Grayling Charter Township, Precinct 305",County Prosecuting Attorney for Crawford County,,DEM,Ballots Cast,13
+Crawford,"Grayling Charter Township, Precinct 306",County Prosecuting Attorney for Crawford County,,DEM,Write-In,15
+Crawford,"Grayling Charter Township, Precinct 306",County Prosecuting Attorney for Crawford County,,DEM,Ballots Cast,15
+Crawford,"Lovells Township, Precinct 1",County Prosecuting Attorney for Crawford County,,DEM,Write-In,10
+Crawford,"Lovells Township, Precinct 1",County Prosecuting Attorney for Crawford County,,DEM,Ballots Cast,10
+Crawford,"Maple Forest Township, Precinct 1",County Prosecuting Attorney for Crawford County,,DEM,Write-In,2
+Crawford,"Maple Forest Township, Precinct 1",County Prosecuting Attorney for Crawford County,,DEM,Ballots Cast,2
+Crawford,"South Branch Township, Precinct 1",County Prosecuting Attorney for Crawford County,,DEM,Write-In,12
+Crawford,"South Branch Township, Precinct 1",County Prosecuting Attorney for Crawford County,,DEM,Ballots Cast,12
+Crawford,"Beaver Creek Township, Precinct 1",County Sheriff for Crawford County,,DEM,Write-In,6
+Crawford,"Beaver Creek Township, Precinct 1",County Sheriff for Crawford County,,DEM,Ballots Cast,6
+Crawford,"City of Grayling, Precinct 1",County Sheriff for Crawford County,,DEM,Write-In,7
+Crawford,"City of Grayling, Precinct 1",County Sheriff for Crawford County,,DEM,Ballots Cast,7
+Crawford,"Frederic Township, Precinct 1",County Sheriff for Crawford County,,DEM,Write-In,10
+Crawford,"Frederic Township, Precinct 1",County Sheriff for Crawford County,,DEM,Ballots Cast,10
+Crawford,"Grayling Charter Township, Precinct 304",County Sheriff for Crawford County,,DEM,Write-In,10
+Crawford,"Grayling Charter Township, Precinct 304",County Sheriff for Crawford County,,DEM,Ballots Cast,10
+Crawford,"Grayling Charter Township, Precinct 305",County Sheriff for Crawford County,,DEM,Write-In,13
+Crawford,"Grayling Charter Township, Precinct 305",County Sheriff for Crawford County,,DEM,Ballots Cast,13
+Crawford,"Grayling Charter Township, Precinct 306",County Sheriff for Crawford County,,DEM,Write-In,16
+Crawford,"Grayling Charter Township, Precinct 306",County Sheriff for Crawford County,,DEM,Ballots Cast,16
+Crawford,"Lovells Township, Precinct 1",County Sheriff for Crawford County,,DEM,Write-In,9
+Crawford,"Lovells Township, Precinct 1",County Sheriff for Crawford County,,DEM,Ballots Cast,9
+Crawford,"Maple Forest Township, Precinct 1",County Sheriff for Crawford County,,DEM,Write-In,2
+Crawford,"Maple Forest Township, Precinct 1",County Sheriff for Crawford County,,DEM,Ballots Cast,2
+Crawford,"South Branch Township, Precinct 1",County Sheriff for Crawford County,,DEM,Write-In,12
+Crawford,"South Branch Township, Precinct 1",County Sheriff for Crawford County,,DEM,Ballots Cast,12
+Crawford,"Beaver Creek Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,DEM,Write-In,6
+Crawford,"Beaver Creek Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,DEM,Ballots Cast,6
+Crawford,"City of Grayling, Precinct 1",County Clerk and Register of Deeds for Crawford County,,DEM,Write-In,7
+Crawford,"City of Grayling, Precinct 1",County Clerk and Register of Deeds for Crawford County,,DEM,Ballots Cast,7
+Crawford,"Frederic Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,DEM,Write-In,10
+Crawford,"Frederic Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,DEM,Ballots Cast,10
+Crawford,"Grayling Charter Township, Precinct 304",County Clerk and Register of Deeds for Crawford County,,DEM,Write-In,10
+Crawford,"Grayling Charter Township, Precinct 304",County Clerk and Register of Deeds for Crawford County,,DEM,Ballots Cast,10
+Crawford,"Grayling Charter Township, Precinct 305",County Clerk and Register of Deeds for Crawford County,,DEM,Write-In,13
+Crawford,"Grayling Charter Township, Precinct 305",County Clerk and Register of Deeds for Crawford County,,DEM,Ballots Cast,13
+Crawford,"Grayling Charter Township, Precinct 306",County Clerk and Register of Deeds for Crawford County,,DEM,Write-In,15
+Crawford,"Grayling Charter Township, Precinct 306",County Clerk and Register of Deeds for Crawford County,,DEM,Ballots Cast,15
+Crawford,"Lovells Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,DEM,Write-In,10
+Crawford,"Lovells Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,DEM,Ballots Cast,10
+Crawford,"Maple Forest Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,DEM,Write-In,2
+Crawford,"Maple Forest Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,DEM,Ballots Cast,2
+Crawford,"South Branch Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,DEM,Write-In,12
+Crawford,"South Branch Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,DEM,Ballots Cast,12
+Crawford,"Beaver Creek Township, Precinct 1",County Treasurer for Crawford County,,DEM,Write-In,6
+Crawford,"Beaver Creek Township, Precinct 1",County Treasurer for Crawford County,,DEM,Ballots Cast,6
+Crawford,"City of Grayling, Precinct 1",County Treasurer for Crawford County,,DEM,Write-In,6
+Crawford,"City of Grayling, Precinct 1",County Treasurer for Crawford County,,DEM,Ballots Cast,6
+Crawford,"Frederic Township, Precinct 1",County Treasurer for Crawford County,,DEM,Write-In,9
+Crawford,"Frederic Township, Precinct 1",County Treasurer for Crawford County,,DEM,Ballots Cast,9
+Crawford,"Grayling Charter Township, Precinct 304",County Treasurer for Crawford County,,DEM,Write-In,10
+Crawford,"Grayling Charter Township, Precinct 304",County Treasurer for Crawford County,,DEM,Ballots Cast,10
+Crawford,"Grayling Charter Township, Precinct 305",County Treasurer for Crawford County,,DEM,Write-In,13
+Crawford,"Grayling Charter Township, Precinct 305",County Treasurer for Crawford County,,DEM,Ballots Cast,13
+Crawford,"Grayling Charter Township, Precinct 306",County Treasurer for Crawford County,,DEM,Write-In,15
+Crawford,"Grayling Charter Township, Precinct 306",County Treasurer for Crawford County,,DEM,Ballots Cast,15
+Crawford,"Lovells Township, Precinct 1",County Treasurer for Crawford County,,DEM,Write-In,10
+Crawford,"Lovells Township, Precinct 1",County Treasurer for Crawford County,,DEM,Ballots Cast,10
+Crawford,"Maple Forest Township, Precinct 1",County Treasurer for Crawford County,,DEM,Write-In,2
+Crawford,"Maple Forest Township, Precinct 1",County Treasurer for Crawford County,,DEM,Ballots Cast,2
+Crawford,"South Branch Township, Precinct 1",County Treasurer for Crawford County,,DEM,Write-In,11
+Crawford,"South Branch Township, Precinct 1",County Treasurer for Crawford County,,DEM,Ballots Cast,11
+Crawford,"Beaver Creek Township, Precinct 1",County Road Commissioner for Crawford County,,DEM,Write-In,6
+Crawford,"Beaver Creek Township, Precinct 1",County Road Commissioner for Crawford County,,DEM,Ballots Cast,6
+Crawford,"City of Grayling, Precinct 1",County Road Commissioner for Crawford County,,DEM,Write-In,7
+Crawford,"City of Grayling, Precinct 1",County Road Commissioner for Crawford County,,DEM,Ballots Cast,7
+Crawford,"Frederic Township, Precinct 1",County Road Commissioner for Crawford County,,DEM,Write-In,10
+Crawford,"Frederic Township, Precinct 1",County Road Commissioner for Crawford County,,DEM,Ballots Cast,10
+Crawford,"Grayling Charter Township, Precinct 304",County Road Commissioner for Crawford County,,DEM,Write-In,10
+Crawford,"Grayling Charter Township, Precinct 304",County Road Commissioner for Crawford County,,DEM,Ballots Cast,10
+Crawford,"Grayling Charter Township, Precinct 305",County Road Commissioner for Crawford County,,DEM,Write-In,13
+Crawford,"Grayling Charter Township, Precinct 305",County Road Commissioner for Crawford County,,DEM,Ballots Cast,13
+Crawford,"Grayling Charter Township, Precinct 306",County Road Commissioner for Crawford County,,DEM,Write-In,15
+Crawford,"Grayling Charter Township, Precinct 306",County Road Commissioner for Crawford County,,DEM,Ballots Cast,15
+Crawford,"Lovells Township, Precinct 1",County Road Commissioner for Crawford County,,DEM,Write-In,9
+Crawford,"Lovells Township, Precinct 1",County Road Commissioner for Crawford County,,DEM,Ballots Cast,9
+Crawford,"Maple Forest Township, Precinct 1",County Road Commissioner for Crawford County,,DEM,Write-In,3
+Crawford,"Maple Forest Township, Precinct 1",County Road Commissioner for Crawford County,,DEM,Ballots Cast,3
+Crawford,"South Branch Township, Precinct 1",County Road Commissioner for Crawford County,,DEM,Write-In,11
+Crawford,"South Branch Township, Precinct 1",County Road Commissioner for Crawford County,,DEM,Ballots Cast,11
+Crawford,"City of Grayling, Precinct 1",County Commissioner 1st District,,DEM,Write-In,6
+Crawford,"City of Grayling, Precinct 1",County Commissioner 1st District,,DEM,Ballots Cast,6
+Crawford,"Beaver Creek Township, Precinct 1",County Commissioner 2nd District,,DEM,Write-In,5
+Crawford,"Beaver Creek Township, Precinct 1",County Commissioner 2nd District,,DEM,Ballots Cast,5
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 2nd District,,DEM,Write-In,4
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 2nd District,,DEM,Ballots Cast,4
+Crawford,"Frederic Township, Precinct 1",County Commissioner 3rd District,,DEM,Stephanie A. Orlik,85
+Crawford,"Frederic Township, Precinct 1",County Commissioner 3rd District,,DEM,Write-In,1
+Crawford,"Frederic Township, Precinct 1",County Commissioner 3rd District,,DEM,Ballots Cast,86
+Crawford,"Maple Forest Township, Precinct 1",County Commissioner 3rd District,,DEM,Stephanie A. Orlik,23
+Crawford,"Maple Forest Township, Precinct 1",County Commissioner 3rd District,,DEM,Ballots Cast,23
+Crawford,"Grayling Charter Township, Precinct 304",County Commissioner 4th District,,DEM,Write-In,8
+Crawford,"Grayling Charter Township, Precinct 304",County Commissioner 4th District,,DEM,Ballots Cast,8
+Crawford,"Grayling Charter Township, Precinct 305",County Commissioner 5th District,,DEM,Write-In,13
+Crawford,"Grayling Charter Township, Precinct 305",County Commissioner 5th District,,DEM,Ballots Cast,13
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 6th District,,DEM,Write-In,8
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 6th District,,DEM,Ballots Cast,8
+Crawford,"Lovells Township, Precinct 1",County Commissioner 6th District,,DEM,Write-In,9
+Crawford,"Lovells Township, Precinct 1",County Commissioner 6th District,,DEM,Ballots Cast,9
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 7th District,,DEM,Write-In,3
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 7th District,,DEM,Ballots Cast,3
+Crawford,"South Branch Township, Precinct 1",County Commissioner 7th District,,DEM,Write-In,10
+Crawford,"South Branch Township, Precinct 1",County Commissioner 7th District,,DEM,Ballots Cast,10
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Supervisor,,DEM,Write-In,5
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Supervisor,,DEM,Ballots Cast,5
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Clerk,,DEM,Write-In,8
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Clerk,,DEM,Ballots Cast,8
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Treasurer,,DEM,Write-In,5
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Treasurer,,DEM,Ballots Cast,5
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Trustee,,DEM,Write-In,6
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Trustee,,DEM,Ballots Cast,6
+Crawford,"Frederic Township, Precinct 1",Frederic Township Supervisor,,DEM,Write-In,7
+Crawford,"Frederic Township, Precinct 1",Frederic Township Supervisor,,DEM,Ballots Cast,7
+Crawford,"Frederic Township, Precinct 1",Frederic Township Clerk,,DEM,Write-In,7
+Crawford,"Frederic Township, Precinct 1",Frederic Township Clerk,,DEM,Ballots Cast,7
+Crawford,"Frederic Township, Precinct 1",Frederic Township Treasurer,,DEM,Write-In,6
+Crawford,"Frederic Township, Precinct 1",Frederic Township Treasurer,,DEM,Ballots Cast,6
+Crawford,"Frederic Township, Precinct 1",Frederic Township Trustee,,DEM,Write-In,9
+Crawford,"Frederic Township, Precinct 1",Frederic Township Trustee,,DEM,Ballots Cast,9
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Supervisor,,DEM,Write-In,9
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Supervisor,,DEM,Ballots Cast,9
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Supervisor,,DEM,Write-In,14
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Supervisor,,DEM,Ballots Cast,14
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Supervisor,,DEM,Write-In,12
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Supervisor,,DEM,Ballots Cast,12
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Clerk,,DEM,Write-In,9
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Clerk,,DEM,Ballots Cast,9
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Clerk,,DEM,Write-In,14
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Clerk,,DEM,Ballots Cast,14
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Clerk,,DEM,Write-In,12
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Clerk,,DEM,Ballots Cast,12
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Treasurer,,DEM,Write-In,9
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Treasurer,,DEM,Ballots Cast,9
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Treasurer,,DEM,Write-In,14
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Treasurer,,DEM,Ballots Cast,14
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Treasurer,,DEM,Write-In,12
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Treasurer,,DEM,Ballots Cast,12
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Trustee,,DEM,Write-In,21
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Trustee,,DEM,Ballots Cast,21
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Trustee,,DEM,Write-In,38
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Trustee,,DEM,Ballots Cast,38
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Trustee,,DEM,Write-In,21
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Trustee,,DEM,Ballots Cast,21
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Constable,,DEM,Write-In,10
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Constable,,DEM,Ballots Cast,10
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Constable,,DEM,Write-In,14
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Constable,,DEM,Ballots Cast,14
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Constable,,DEM,Write-In,9
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Constable,,DEM,Ballots Cast,9
+Crawford,"Lovells Township, Precinct 1",Lovells Township Supervisor,,DEM,Write-In,9
+Crawford,"Lovells Township, Precinct 1",Lovells Township Supervisor,,DEM,Ballots Cast,9
+Crawford,"Lovells Township, Precinct 1",Lovells Township Clerk,,DEM,Write-In,9
+Crawford,"Lovells Township, Precinct 1",Lovells Township Clerk,,DEM,Ballots Cast,9
+Crawford,"Lovells Township, Precinct 1",Lovells Township Treasurer,,DEM,Tamara Kengel,44
+Crawford,"Lovells Township, Precinct 1",Lovells Township Treasurer,,DEM,Ballots Cast,44
+Crawford,"Lovells Township, Precinct 1",Lovells Township Trustee,,DEM,Randy Long,40
+Crawford,"Lovells Township, Precinct 1",Lovells Township Trustee,,DEM,Write-In,1
+Crawford,"Lovells Township, Precinct 1",Lovells Township Trustee,,DEM,Ballots Cast,41
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Supervisor,,DEM,Write-In,2
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Supervisor,,DEM,Ballots Cast,2
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Clerk,,DEM,Write-In,2
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Clerk,,DEM,Ballots Cast,2
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Treasurer,,DEM,Write-In,2
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Treasurer,,DEM,Ballots Cast,2
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Trustee,,DEM,Write-In,2
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Trustee,,DEM,Ballots Cast,2
+Crawford,"South Branch Township, Precinct 1",South Branch Township Supervisor,,DEM,Write-In,10
+Crawford,"South Branch Township, Precinct 1",South Branch Township Supervisor,,DEM,Ballots Cast,10
+Crawford,"South Branch Township, Precinct 1",South Branch Township Clerk,,DEM,Brenda Nelson,109
+Crawford,"South Branch Township, Precinct 1",South Branch Township Clerk,,DEM,Ballots Cast,109
+Crawford,"South Branch Township, Precinct 1",South Branch Township Treasurer,,DEM,Write-In,10
+Crawford,"South Branch Township, Precinct 1",South Branch Township Treasurer,,DEM,Ballots Cast,10
+Crawford,"South Branch Township, Precinct 1",South Branch Township Trustee,,DEM,Write-In,15
+Crawford,"South Branch Township, Precinct 1",South Branch Township Trustee,,DEM,Ballots Cast,15
+Crawford,"City of Grayling, Precinct 1","City of Grayling, Precinct 1, Delegate to County Convention",,DEM,Faith L. Dandois,63
+Crawford,"City of Grayling, Precinct 1","City of Grayling, Precinct 1, Delegate to County Convention",,DEM,Write-In,1
+Crawford,"City of Grayling, Precinct 1","City of Grayling, Precinct 1, Delegate to County Convention",,DEM,Ballots Cast,64
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,DEM,Write-In,6
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,DEM,Ballots Cast,6
+Crawford,"Frederic Township, Precinct 1","Frederic Township, Precinct 1, Delegate to County Convention",,DEM,Stephanie A. Orlik,84
+Crawford,"Frederic Township, Precinct 1","Frederic Township, Precinct 1, Delegate to County Convention",,DEM,Ballots Cast,84
+Crawford,"Grayling Charter Township, Precinct 304","Grayling Charter Township, Precinct 304, Delegate to County Convention",,DEM,John Pilon,98
+Crawford,"Grayling Charter Township, Precinct 304","Grayling Charter Township, Precinct 304, Delegate to County Convention",,DEM,Write-In,8
+Crawford,"Grayling Charter Township, Precinct 304","Grayling Charter Township, Precinct 304, Delegate to County Convention",,DEM,Ballots Cast,106
+Crawford,"Grayling Charter Township, Precinct 305","Grayling Charter Township, Precinct 305, Delegate to County Convention",,DEM,Write-In,20
+Crawford,"Grayling Charter Township, Precinct 305","Grayling Charter Township, Precinct 305, Delegate to County Convention",,DEM,Ballots Cast,20
+Crawford,"Grayling Charter Township, Precinct 306","Grayling Charter Township, Precinct 306, Delegate to County Convention",,DEM,Write-In,13
+Crawford,"Grayling Charter Township, Precinct 306","Grayling Charter Township, Precinct 306, Delegate to County Convention",,DEM,Ballots Cast,13
+Crawford,"Lovells Township, Precinct 1","Lovells Township, Precinct 1, Delegate to County Convention",,DEM,Write-In,12
+Crawford,"Lovells Township, Precinct 1","Lovells Township, Precinct 1, Delegate to County Convention",,DEM,Ballots Cast,12
+Crawford,"Maple Forest Township, Precinct 1","Maple Forest Township, Precinct 1, Delegate to County Convention",,DEM,Write-In,1
+Crawford,"Maple Forest Township, Precinct 1","Maple Forest Township, Precinct 1, Delegate to County Convention",,DEM,Ballots Cast,1
+Crawford,"South Branch Township, Precinct 1","South Branch Township, Precinct 1, Delegate to County Convention",,DEM,Write-In,21
+Crawford,"South Branch Township, Precinct 1","South Branch Township, Precinct 1, Delegate to County Convention",,DEM,Ballots Cast,21
+Crawford,"Beaver Creek Township, Precinct 1",U.S. Senate,,REP,Justin Amash,39
+Crawford,"Beaver Creek Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,212
+Crawford,"Beaver Creek Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,39
+Crawford,"Beaver Creek Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,70
+Crawford,"Beaver Creek Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Crawford,"Beaver Creek Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,361
+Crawford,"City of Grayling, Precinct 1",U.S. Senate,,REP,Justin Amash,14
+Crawford,"City of Grayling, Precinct 1",U.S. Senate,,REP,Mike Rogers,81
+Crawford,"City of Grayling, Precinct 1",U.S. Senate,,REP,Sandy Pensler,23
+Crawford,"City of Grayling, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,12
+Crawford,"City of Grayling, Precinct 1",U.S. Senate,,REP,Ballots Cast,130
+Crawford,"Frederic Township, Precinct 1",U.S. Senate,,REP,Justin Amash,22
+Crawford,"Frederic Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,111
+Crawford,"Frederic Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,26
+Crawford,"Frederic Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,40
+Crawford,"Frederic Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Crawford,"Frederic Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,201
+Crawford,"Grayling Charter Township, Precinct 304",U.S. Senate,,REP,Justin Amash,38
+Crawford,"Grayling Charter Township, Precinct 304",U.S. Senate,,REP,Mike Rogers,218
+Crawford,"Grayling Charter Township, Precinct 304",U.S. Senate,,REP,Sandy Pensler,63
+Crawford,"Grayling Charter Township, Precinct 304",U.S. Senate,,REP,Sherry O'Donnell,38
+Crawford,"Grayling Charter Township, Precinct 304",U.S. Senate,,REP,Ballots Cast,357
+Crawford,"Grayling Charter Township, Precinct 305",U.S. Senate,,REP,Justin Amash,17
+Crawford,"Grayling Charter Township, Precinct 305",U.S. Senate,,REP,Mike Rogers,127
+Crawford,"Grayling Charter Township, Precinct 305",U.S. Senate,,REP,Sandy Pensler,22
+Crawford,"Grayling Charter Township, Precinct 305",U.S. Senate,,REP,Sherry O'Donnell,30
+Crawford,"Grayling Charter Township, Precinct 305",U.S. Senate,,REP,Ballots Cast,196
+Crawford,"Grayling Charter Township, Precinct 306",U.S. Senate,,REP,Justin Amash,30
+Crawford,"Grayling Charter Township, Precinct 306",U.S. Senate,,REP,Mike Rogers,176
+Crawford,"Grayling Charter Township, Precinct 306",U.S. Senate,,REP,Sandy Pensler,30
+Crawford,"Grayling Charter Township, Precinct 306",U.S. Senate,,REP,Sherry O'Donnell,27
+Crawford,"Grayling Charter Township, Precinct 306",U.S. Senate,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 306",U.S. Senate,,REP,Ballots Cast,264
+Crawford,"Lovells Township, Precinct 1",U.S. Senate,,REP,Justin Amash,4
+Crawford,"Lovells Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,107
+Crawford,"Lovells Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,18
+Crawford,"Lovells Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,26
+Crawford,"Lovells Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,155
+Crawford,"Maple Forest Township, Precinct 1",U.S. Senate,,REP,Justin Amash,10
+Crawford,"Maple Forest Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,70
+Crawford,"Maple Forest Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,16
+Crawford,"Maple Forest Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,16
+Crawford,"Maple Forest Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Crawford,"Maple Forest Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,113
+Crawford,"South Branch Township, Precinct 1",U.S. Senate,,REP,Justin Amash,12
+Crawford,"South Branch Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,198
+Crawford,"South Branch Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,12
+Crawford,"South Branch Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,18
+Crawford,"South Branch Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,240
+Crawford,"Beaver Creek Township, Precinct 1",U.S. House,1,REP,Jack Bergman,258
+Crawford,"Beaver Creek Township, Precinct 1",U.S. House,1,REP,Josh Saul,109
+Crawford,"Beaver Creek Township, Precinct 1",U.S. House,1,REP,Ballots Cast,367
+Crawford,"City of Grayling, Precinct 1",U.S. House,1,REP,Jack Bergman,116
+Crawford,"City of Grayling, Precinct 1",U.S. House,1,REP,Josh Saul,21
+Crawford,"City of Grayling, Precinct 1",U.S. House,1,REP,Ballots Cast,137
+Crawford,"Frederic Township, Precinct 1",U.S. House,1,REP,Jack Bergman,166
+Crawford,"Frederic Township, Precinct 1",U.S. House,1,REP,Josh Saul,54
+Crawford,"Frederic Township, Precinct 1",U.S. House,1,REP,Write-In,2
+Crawford,"Frederic Township, Precinct 1",U.S. House,1,REP,Ballots Cast,222
+Crawford,"Grayling Charter Township, Precinct 304",U.S. House,1,REP,Jack Bergman,324
+Crawford,"Grayling Charter Township, Precinct 304",U.S. House,1,REP,Josh Saul,57
+Crawford,"Grayling Charter Township, Precinct 304",U.S. House,1,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 304",U.S. House,1,REP,Ballots Cast,382
+Crawford,"Grayling Charter Township, Precinct 305",U.S. House,1,REP,Jack Bergman,170
+Crawford,"Grayling Charter Township, Precinct 305",U.S. House,1,REP,Josh Saul,47
+Crawford,"Grayling Charter Township, Precinct 305",U.S. House,1,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 305",U.S. House,1,REP,Ballots Cast,218
+Crawford,"Grayling Charter Township, Precinct 306",U.S. House,1,REP,Jack Bergman,241
+Crawford,"Grayling Charter Township, Precinct 306",U.S. House,1,REP,Josh Saul,37
+Crawford,"Grayling Charter Township, Precinct 306",U.S. House,1,REP,Ballots Cast,278
+Crawford,"Lovells Township, Precinct 1",U.S. House,1,REP,Jack Bergman,144
+Crawford,"Lovells Township, Precinct 1",U.S. House,1,REP,Josh Saul,25
+Crawford,"Lovells Township, Precinct 1",U.S. House,1,REP,Ballots Cast,169
+Crawford,"Maple Forest Township, Precinct 1",U.S. House,1,REP,Jack Bergman,94
+Crawford,"Maple Forest Township, Precinct 1",U.S. House,1,REP,Josh Saul,21
+Crawford,"Maple Forest Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Crawford,"Maple Forest Township, Precinct 1",U.S. House,1,REP,Ballots Cast,116
+Crawford,"South Branch Township, Precinct 1",U.S. House,1,REP,Jack Bergman,205
+Crawford,"South Branch Township, Precinct 1",U.S. House,1,REP,Josh Saul,40
+Crawford,"South Branch Township, Precinct 1",U.S. House,1,REP,Ballots Cast,245
+Crawford,"Beaver Creek Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Christian Marcus,86
+Crawford,"Beaver Creek Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Ken Borton,273
+Crawford,"Beaver Creek Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Write-In,1
+Crawford,"Beaver Creek Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Ballots Cast,360
+Crawford,"City of Grayling, Precinct 1",Representative in State Legislature for 105th District,,REP,Christian Marcus,34
+Crawford,"City of Grayling, Precinct 1",Representative in State Legislature for 105th District,,REP,Ken Borton,96
+Crawford,"City of Grayling, Precinct 1",Representative in State Legislature for 105th District,,REP,Ballots Cast,130
+Crawford,"Frederic Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Christian Marcus,48
+Crawford,"Frederic Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Ken Borton,159
+Crawford,"Frederic Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Write-In,2
+Crawford,"Frederic Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Ballots Cast,209
+Crawford,"Grayling Charter Township, Precinct 304",Representative in State Legislature for 105th District,,REP,Christian Marcus,83
+Crawford,"Grayling Charter Township, Precinct 304",Representative in State Legislature for 105th District,,REP,Ken Borton,281
+Crawford,"Grayling Charter Township, Precinct 304",Representative in State Legislature for 105th District,,REP,Ballots Cast,364
+Crawford,"Grayling Charter Township, Precinct 305",Representative in State Legislature for 105th District,,REP,Christian Marcus,51
+Crawford,"Grayling Charter Township, Precinct 305",Representative in State Legislature for 105th District,,REP,Ken Borton,154
+Crawford,"Grayling Charter Township, Precinct 305",Representative in State Legislature for 105th District,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 305",Representative in State Legislature for 105th District,,REP,Ballots Cast,206
+Crawford,"Grayling Charter Township, Precinct 306",Representative in State Legislature for 105th District,,REP,Christian Marcus,52
+Crawford,"Grayling Charter Township, Precinct 306",Representative in State Legislature for 105th District,,REP,Ken Borton,215
+Crawford,"Grayling Charter Township, Precinct 306",Representative in State Legislature for 105th District,,REP,Ballots Cast,267
+Crawford,"Lovells Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Christian Marcus,36
+Crawford,"Lovells Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Ken Borton,127
+Crawford,"Lovells Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Ballots Cast,163
+Crawford,"Maple Forest Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Christian Marcus,19
+Crawford,"Maple Forest Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Ken Borton,92
+Crawford,"Maple Forest Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Ballots Cast,111
+Crawford,"South Branch Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Christian Marcus,45
+Crawford,"South Branch Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Ken Borton,198
+Crawford,"South Branch Township, Precinct 1",Representative in State Legislature for 105th District,,REP,Ballots Cast,243
+Crawford,"Beaver Creek Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Everette Ayers,177
+Crawford,"Beaver Creek Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Sierra R. Koch,189
+Crawford,"Beaver Creek Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Write-In,1
+Crawford,"Beaver Creek Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Ballots Cast,367
+Crawford,"City of Grayling, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Everette Ayers,60
+Crawford,"City of Grayling, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Sierra R. Koch,68
+Crawford,"City of Grayling, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Write-In,3
+Crawford,"City of Grayling, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Ballots Cast,131
+Crawford,"Frederic Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Everette Ayers,83
+Crawford,"Frederic Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Sierra R. Koch,132
+Crawford,"Frederic Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Write-In,1
+Crawford,"Frederic Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Ballots Cast,216
+Crawford,"Grayling Charter Township, Precinct 304",County Prosecuting Attorney for Crawford County,,REP,Everette Ayers,157
+Crawford,"Grayling Charter Township, Precinct 304",County Prosecuting Attorney for Crawford County,,REP,Sierra R. Koch,204
+Crawford,"Grayling Charter Township, Precinct 304",County Prosecuting Attorney for Crawford County,,REP,Write-In,3
+Crawford,"Grayling Charter Township, Precinct 304",County Prosecuting Attorney for Crawford County,,REP,Ballots Cast,364
+Crawford,"Grayling Charter Township, Precinct 305",County Prosecuting Attorney for Crawford County,,REP,Everette Ayers,81
+Crawford,"Grayling Charter Township, Precinct 305",County Prosecuting Attorney for Crawford County,,REP,Sierra R. Koch,150
+Crawford,"Grayling Charter Township, Precinct 305",County Prosecuting Attorney for Crawford County,,REP,Ballots Cast,231
+Crawford,"Grayling Charter Township, Precinct 306",County Prosecuting Attorney for Crawford County,,REP,Everette Ayers,129
+Crawford,"Grayling Charter Township, Precinct 306",County Prosecuting Attorney for Crawford County,,REP,Sierra R. Koch,135
+Crawford,"Grayling Charter Township, Precinct 306",County Prosecuting Attorney for Crawford County,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 306",County Prosecuting Attorney for Crawford County,,REP,Ballots Cast,265
+Crawford,"Lovells Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Everette Ayers,60
+Crawford,"Lovells Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Sierra R. Koch,89
+Crawford,"Lovells Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Write-In,1
+Crawford,"Lovells Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Ballots Cast,150
+Crawford,"Maple Forest Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Everette Ayers,42
+Crawford,"Maple Forest Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Sierra R. Koch,67
+Crawford,"Maple Forest Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Ballots Cast,109
+Crawford,"South Branch Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Everette Ayers,84
+Crawford,"South Branch Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Sierra R. Koch,139
+Crawford,"South Branch Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Write-In,1
+Crawford,"South Branch Township, Precinct 1",County Prosecuting Attorney for Crawford County,,REP,Ballots Cast,224
+Crawford,"Beaver Creek Township, Precinct 1",County Sheriff for Crawford County,,REP,Ryan A. Swope,338
+Crawford,"Beaver Creek Township, Precinct 1",County Sheriff for Crawford County,,REP,Write-In,7
+Crawford,"Beaver Creek Township, Precinct 1",County Sheriff for Crawford County,,REP,Ballots Cast,345
+Crawford,"City of Grayling, Precinct 1",County Sheriff for Crawford County,,REP,Ryan A. Swope,124
+Crawford,"City of Grayling, Precinct 1",County Sheriff for Crawford County,,REP,Write-In,3
+Crawford,"City of Grayling, Precinct 1",County Sheriff for Crawford County,,REP,Ballots Cast,127
+Crawford,"Frederic Township, Precinct 1",County Sheriff for Crawford County,,REP,Ryan A. Swope,201
+Crawford,"Frederic Township, Precinct 1",County Sheriff for Crawford County,,REP,Write-In,6
+Crawford,"Frederic Township, Precinct 1",County Sheriff for Crawford County,,REP,Ballots Cast,207
+Crawford,"Grayling Charter Township, Precinct 304",County Sheriff for Crawford County,,REP,Ryan A. Swope,358
+Crawford,"Grayling Charter Township, Precinct 304",County Sheriff for Crawford County,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 304",County Sheriff for Crawford County,,REP,Ballots Cast,359
+Crawford,"Grayling Charter Township, Precinct 305",County Sheriff for Crawford County,,REP,Ryan A. Swope,215
+Crawford,"Grayling Charter Township, Precinct 305",County Sheriff for Crawford County,,REP,Write-In,5
+Crawford,"Grayling Charter Township, Precinct 305",County Sheriff for Crawford County,,REP,Ballots Cast,220
+Crawford,"Grayling Charter Township, Precinct 306",County Sheriff for Crawford County,,REP,Ryan A. Swope,254
+Crawford,"Grayling Charter Township, Precinct 306",County Sheriff for Crawford County,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 306",County Sheriff for Crawford County,,REP,Ballots Cast,255
+Crawford,"Lovells Township, Precinct 1",County Sheriff for Crawford County,,REP,Ryan A. Swope,156
+Crawford,"Lovells Township, Precinct 1",County Sheriff for Crawford County,,REP,Write-In,1
+Crawford,"Lovells Township, Precinct 1",County Sheriff for Crawford County,,REP,Ballots Cast,157
+Crawford,"Maple Forest Township, Precinct 1",County Sheriff for Crawford County,,REP,Ryan A. Swope,112
+Crawford,"Maple Forest Township, Precinct 1",County Sheriff for Crawford County,,REP,Ballots Cast,112
+Crawford,"South Branch Township, Precinct 1",County Sheriff for Crawford County,,REP,Ryan A. Swope,214
+Crawford,"South Branch Township, Precinct 1",County Sheriff for Crawford County,,REP,Write-In,7
+Crawford,"South Branch Township, Precinct 1",County Sheriff for Crawford County,,REP,Ballots Cast,221
+Crawford,"Beaver Creek Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Jamie L. McClain,320
+Crawford,"Beaver Creek Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Write-In,5
+Crawford,"Beaver Creek Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Ballots Cast,325
+Crawford,"City of Grayling, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Jamie L. McClain,123
+Crawford,"City of Grayling, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Write-In,3
+Crawford,"City of Grayling, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Ballots Cast,126
+Crawford,"Frederic Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Jamie L. McClain,194
+Crawford,"Frederic Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Write-In,5
+Crawford,"Frederic Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Ballots Cast,199
+Crawford,"Grayling Charter Township, Precinct 304",County Clerk and Register of Deeds for Crawford County,,REP,Jamie L. McClain,358
+Crawford,"Grayling Charter Township, Precinct 304",County Clerk and Register of Deeds for Crawford County,,REP,Ballots Cast,358
+Crawford,"Grayling Charter Township, Precinct 305",County Clerk and Register of Deeds for Crawford County,,REP,Jamie L. McClain,215
+Crawford,"Grayling Charter Township, Precinct 305",County Clerk and Register of Deeds for Crawford County,,REP,Write-In,3
+Crawford,"Grayling Charter Township, Precinct 305",County Clerk and Register of Deeds for Crawford County,,REP,Ballots Cast,218
+Crawford,"Grayling Charter Township, Precinct 306",County Clerk and Register of Deeds for Crawford County,,REP,Jamie L. McClain,250
+Crawford,"Grayling Charter Township, Precinct 306",County Clerk and Register of Deeds for Crawford County,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 306",County Clerk and Register of Deeds for Crawford County,,REP,Ballots Cast,251
+Crawford,"Lovells Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Jamie L. McClain,153
+Crawford,"Lovells Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Write-In,1
+Crawford,"Lovells Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Ballots Cast,154
+Crawford,"Maple Forest Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Jamie L. McClain,108
+Crawford,"Maple Forest Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Ballots Cast,108
+Crawford,"South Branch Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Jamie L. McClain,212
+Crawford,"South Branch Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Write-In,2
+Crawford,"South Branch Township, Precinct 1",County Clerk and Register of Deeds for Crawford County,,REP,Ballots Cast,214
+Crawford,"Beaver Creek Township, Precinct 1",County Treasurer for Crawford County,,REP,Kate Wagner,311
+Crawford,"Beaver Creek Township, Precinct 1",County Treasurer for Crawford County,,REP,Write-In,7
+Crawford,"Beaver Creek Township, Precinct 1",County Treasurer for Crawford County,,REP,Ballots Cast,318
+Crawford,"City of Grayling, Precinct 1",County Treasurer for Crawford County,,REP,Kate Wagner,123
+Crawford,"City of Grayling, Precinct 1",County Treasurer for Crawford County,,REP,Write-In,1
+Crawford,"City of Grayling, Precinct 1",County Treasurer for Crawford County,,REP,Ballots Cast,124
+Crawford,"Frederic Township, Precinct 1",County Treasurer for Crawford County,,REP,Kate Wagner,192
+Crawford,"Frederic Township, Precinct 1",County Treasurer for Crawford County,,REP,Write-In,2
+Crawford,"Frederic Township, Precinct 1",County Treasurer for Crawford County,,REP,Ballots Cast,194
+Crawford,"Grayling Charter Township, Precinct 304",County Treasurer for Crawford County,,REP,Kate Wagner,347
+Crawford,"Grayling Charter Township, Precinct 304",County Treasurer for Crawford County,,REP,Ballots Cast,347
+Crawford,"Grayling Charter Township, Precinct 305",County Treasurer for Crawford County,,REP,Kate Wagner,205
+Crawford,"Grayling Charter Township, Precinct 305",County Treasurer for Crawford County,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 305",County Treasurer for Crawford County,,REP,Ballots Cast,206
+Crawford,"Grayling Charter Township, Precinct 306",County Treasurer for Crawford County,,REP,Kate Wagner,248
+Crawford,"Grayling Charter Township, Precinct 306",County Treasurer for Crawford County,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 306",County Treasurer for Crawford County,,REP,Ballots Cast,249
+Crawford,"Lovells Township, Precinct 1",County Treasurer for Crawford County,,REP,Kate Wagner,152
+Crawford,"Lovells Township, Precinct 1",County Treasurer for Crawford County,,REP,Ballots Cast,152
+Crawford,"Maple Forest Township, Precinct 1",County Treasurer for Crawford County,,REP,Kate Wagner,108
+Crawford,"Maple Forest Township, Precinct 1",County Treasurer for Crawford County,,REP,Write-In,1
+Crawford,"Maple Forest Township, Precinct 1",County Treasurer for Crawford County,,REP,Ballots Cast,109
+Crawford,"South Branch Township, Precinct 1",County Treasurer for Crawford County,,REP,Kate Wagner,215
+Crawford,"South Branch Township, Precinct 1",County Treasurer for Crawford County,,REP,Write-In,2
+Crawford,"South Branch Township, Precinct 1",County Treasurer for Crawford County,,REP,Ballots Cast,217
+Crawford,"Beaver Creek Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Ryan Halstead,311
+Crawford,"Beaver Creek Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Write-In,3
+Crawford,"Beaver Creek Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Ballots Cast,314
+Crawford,"City of Grayling, Precinct 1",County Road Commissioner for Crawford County,,REP,Ryan Halstead,124
+Crawford,"City of Grayling, Precinct 1",County Road Commissioner for Crawford County,,REP,Write-In,3
+Crawford,"City of Grayling, Precinct 1",County Road Commissioner for Crawford County,,REP,Ballots Cast,127
+Crawford,"Frederic Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Ryan Halstead,201
+Crawford,"Frederic Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Write-In,1
+Crawford,"Frederic Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Ballots Cast,202
+Crawford,"Grayling Charter Township, Precinct 304",County Road Commissioner for Crawford County,,REP,Ryan Halstead,345
+Crawford,"Grayling Charter Township, Precinct 304",County Road Commissioner for Crawford County,,REP,Ballots Cast,345
+Crawford,"Grayling Charter Township, Precinct 305",County Road Commissioner for Crawford County,,REP,Ryan Halstead,212
+Crawford,"Grayling Charter Township, Precinct 305",County Road Commissioner for Crawford County,,REP,Write-In,3
+Crawford,"Grayling Charter Township, Precinct 305",County Road Commissioner for Crawford County,,REP,Ballots Cast,215
+Crawford,"Grayling Charter Township, Precinct 306",County Road Commissioner for Crawford County,,REP,Ryan Halstead,251
+Crawford,"Grayling Charter Township, Precinct 306",County Road Commissioner for Crawford County,,REP,Write-In,3
+Crawford,"Grayling Charter Township, Precinct 306",County Road Commissioner for Crawford County,,REP,Ballots Cast,254
+Crawford,"Lovells Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Ryan Halstead,153
+Crawford,"Lovells Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Write-In,1
+Crawford,"Lovells Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Ballots Cast,154
+Crawford,"Maple Forest Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Ryan Halstead,103
+Crawford,"Maple Forest Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Write-In,1
+Crawford,"Maple Forest Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Ballots Cast,104
+Crawford,"South Branch Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Ryan Halstead,211
+Crawford,"South Branch Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Write-In,2
+Crawford,"South Branch Township, Precinct 1",County Road Commissioner for Crawford County,,REP,Ballots Cast,213
+Crawford,"City of Grayling, Precinct 1",County Commissioner 1st District,,REP,Laurie Jamison,123
+Crawford,"City of Grayling, Precinct 1",County Commissioner 1st District,,REP,Write-In,4
+Crawford,"City of Grayling, Precinct 1",County Commissioner 1st District,,REP,Ballots Cast,127
+Crawford,"Beaver Creek Township, Precinct 1",County Commissioner 2nd District,,REP,Dorothy A. Frederick,230
+Crawford,"Beaver Creek Township, Precinct 1",County Commissioner 2nd District,,REP,Max Meisner,151
+Crawford,"Beaver Creek Township, Precinct 1",County Commissioner 2nd District,,REP,Write-In,1
+Crawford,"Beaver Creek Township, Precinct 1",County Commissioner 2nd District,,REP,Ballots Cast,382
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 2nd District,,REP,Dorothy A. Frederick,34
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 2nd District,,REP,Max Meisner,28
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 2nd District,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 2nd District,,REP,Ballots Cast,63
+Crawford,"Frederic Township, Precinct 1",County Commissioner 3rd District,,REP,Ed Goscicki,198
+Crawford,"Frederic Township, Precinct 1",County Commissioner 3rd District,,REP,Write-In,2
+Crawford,"Frederic Township, Precinct 1",County Commissioner 3rd District,,REP,Ballots Cast,200
+Crawford,"Maple Forest Township, Precinct 1",County Commissioner 3rd District,,REP,Ed Goscicki,102
+Crawford,"Maple Forest Township, Precinct 1",County Commissioner 3rd District,,REP,Write-In,2
+Crawford,"Maple Forest Township, Precinct 1",County Commissioner 3rd District,,REP,Ballots Cast,104
+Crawford,"Grayling Charter Township, Precinct 304",County Commissioner 4th District,,REP,Shawn M. Kraycs,338
+Crawford,"Grayling Charter Township, Precinct 304",County Commissioner 4th District,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 304",County Commissioner 4th District,,REP,Ballots Cast,339
+Crawford,"Grayling Charter Township, Precinct 305",County Commissioner 5th District,,REP,Sandra Moore,201
+Crawford,"Grayling Charter Township, Precinct 305",County Commissioner 5th District,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 305",County Commissioner 5th District,,REP,Ballots Cast,202
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 6th District,,REP,Write-In,9
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 6th District,,REP,Ballots Cast,9
+Crawford,"Lovells Township, Precinct 1",County Commissioner 6th District,,REP,Write-In,15
+Crawford,"Lovells Township, Precinct 1",County Commissioner 6th District,,REP,Ballots Cast,15
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 7th District,,REP,Phil Lewis,16
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 7th District,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 306",County Commissioner 7th District,,REP,Ballots Cast,17
+Crawford,"South Branch Township, Precinct 1",County Commissioner 7th District,,REP,Phil Lewis,213
+Crawford,"South Branch Township, Precinct 1",County Commissioner 7th District,,REP,Write-In,3
+Crawford,"South Branch Township, Precinct 1",County Commissioner 7th District,,REP,Ballots Cast,216
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Supervisor,,REP,Dan Bonamie,121
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Supervisor,,REP,Kim VanNuck,274
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Supervisor,,REP,Write-In,2
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Supervisor,,REP,Ballots Cast,397
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Clerk,,REP,Jill Peacock,160
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Clerk,,REP,Sandy Beaudet,72
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Clerk,,REP,Write-In,1
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Clerk,,REP,Ballots Cast,233
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Treasurer,,REP,Hope Francis,259
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Treasurer,,REP,Witnee Rose,102
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Treasurer,,REP,Write-In,6
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Treasurer,,REP,Ballots Cast,367
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Trustee,,REP,Bill Morrow,77
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Trustee,,REP,Deb Helsel,91
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Trustee,,REP,Judy Locke,65
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Trustee,,REP,Lee C. Riley,111
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Trustee,,REP,Mary Dent,174
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Trustee,,REP,Steve Nelson,175
+Crawford,"Beaver Creek Township, Precinct 1",Beaver Creek Township Trustee,,REP,Ballots Cast,693
+Crawford,"Frederic Township, Precinct 1",Frederic Township Supervisor,,REP,Brandon M. Gabriel,187
+Crawford,"Frederic Township, Precinct 1",Frederic Township Supervisor,,REP,Write-In,3
+Crawford,"Frederic Township, Precinct 1",Frederic Township Supervisor,,REP,Ballots Cast,190
+Crawford,"Frederic Township, Precinct 1",Frederic Township Clerk,,REP,Amanda L. Siwecki,198
+Crawford,"Frederic Township, Precinct 1",Frederic Township Clerk,,REP,Write-In,2
+Crawford,"Frederic Township, Precinct 1",Frederic Township Clerk,,REP,Ballots Cast,200
+Crawford,"Frederic Township, Precinct 1",Frederic Township Treasurer,,REP,Angela McKinch,71
+Crawford,"Frederic Township, Precinct 1",Frederic Township Treasurer,,REP,Karen M. Dawson,153
+Crawford,"Frederic Township, Precinct 1",Frederic Township Treasurer,,REP,Write-In,1
+Crawford,"Frederic Township, Precinct 1",Frederic Township Treasurer,,REP,Ballots Cast,225
+Crawford,"Frederic Township, Precinct 1",Frederic Township Trustee,,REP,Donald Weaver,141
+Crawford,"Frederic Township, Precinct 1",Frederic Township Trustee,,REP,Nicole Pratt,75
+Crawford,"Frederic Township, Precinct 1",Frederic Township Trustee,,REP,Randy Richardson,151
+Crawford,"Frederic Township, Precinct 1",Frederic Township Trustee,,REP,Write-In,6
+Crawford,"Frederic Township, Precinct 1",Frederic Township Trustee,,REP,Ballots Cast,373
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Supervisor,,REP,Lacey D. Stephan III,321
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Supervisor,,REP,Write-In,5
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Supervisor,,REP,Ballots Cast,326
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Supervisor,,REP,Lacey D. Stephan III,194
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Supervisor,,REP,Write-In,7
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Supervisor,,REP,Ballots Cast,201
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Supervisor,,REP,Lacey D. Stephan III,228
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Supervisor,,REP,Write-In,3
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Supervisor,,REP,Ballots Cast,231
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Clerk,,REP,Diane Giska,325
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Clerk,,REP,Write-In,2
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Clerk,,REP,Ballots Cast,327
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Clerk,,REP,Diane Giska,195
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Clerk,,REP,Write-In,2
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Clerk,,REP,Ballots Cast,197
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Clerk,,REP,Diane Giska,229
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Clerk,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Clerk,,REP,Ballots Cast,230
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Treasurer,,REP,Brenda M. Wargo,323
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Treasurer,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Treasurer,,REP,Ballots Cast,324
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Treasurer,,REP,Brenda M. Wargo,192
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Treasurer,,REP,Ballots Cast,192
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Treasurer,,REP,Brenda M. Wargo,223
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Treasurer,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Treasurer,,REP,Ballots Cast,224
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Trustee,,REP,Claudia Selthoffer,215
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Trustee,,REP,JoAnn Michal,218
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Trustee,,REP,Joseph L Smock,243
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Trustee,,REP,Shannon Sorenson,266
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Trustee,,REP,Write-In,4
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Trustee,,REP,Ballots Cast,946
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Trustee,,REP,Claudia Selthoffer,111
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Trustee,,REP,JoAnn Michal,121
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Trustee,,REP,Joseph L Smock,153
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Trustee,,REP,Shannon Sorenson,148
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Trustee,,REP,Write-In,4
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Trustee,,REP,Ballots Cast,537
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Trustee,,REP,Claudia Selthoffer,142
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Trustee,,REP,JoAnn Michal,154
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Trustee,,REP,Joseph L Smock,175
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Trustee,,REP,Shannon Sorenson,176
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Trustee,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Trustee,,REP,Ballots Cast,648
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Constable,,REP,Kim Halstead,309
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Constable,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 304",Grayling Charter Township Constable,,REP,Ballots Cast,310
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Constable,,REP,Kim Halstead,177
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Constable,,REP,Write-In,4
+Crawford,"Grayling Charter Township, Precinct 305",Grayling Charter Township Constable,,REP,Ballots Cast,181
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Constable,,REP,Kim Halstead,211
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Constable,,REP,Write-In,1
+Crawford,"Grayling Charter Township, Precinct 306",Grayling Charter Township Constable,,REP,Ballots Cast,212
+Crawford,"Lovells Township, Precinct 1",Lovells Township Supervisor,,REP,Richard Wright,142
+Crawford,"Lovells Township, Precinct 1",Lovells Township Supervisor,,REP,Write-In,3
+Crawford,"Lovells Township, Precinct 1",Lovells Township Supervisor,,REP,Ballots Cast,145
+Crawford,"Lovells Township, Precinct 1",Lovells Township Clerk,,REP,Write-In,15
+Crawford,"Lovells Township, Precinct 1",Lovells Township Clerk,,REP,Ballots Cast,15
+Crawford,"Lovells Township, Precinct 1",Lovells Township Treasurer,,REP,Write-In,14
+Crawford,"Lovells Township, Precinct 1",Lovells Township Treasurer,,REP,Ballots Cast,14
+Crawford,"Lovells Township, Precinct 1",Lovells Township Trustee,,REP,Cheryl L. Hopp,104
+Crawford,"Lovells Township, Precinct 1",Lovells Township Trustee,,REP,Gary Neumann,115
+Crawford,"Lovells Township, Precinct 1",Lovells Township Trustee,,REP,Ronald Tallieu,77
+Crawford,"Lovells Township, Precinct 1",Lovells Township Trustee,,REP,Ballots Cast,296
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Supervisor,,REP,Thomas L. Coors,98
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Supervisor,,REP,Write-In,3
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Supervisor,,REP,Ballots Cast,101
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Clerk,,REP,April Hehir,102
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Clerk,,REP,Write-In,1
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Clerk,,REP,Ballots Cast,103
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Treasurer,,REP,Denise M. Joseph,99
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Treasurer,,REP,Write-In,2
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Treasurer,,REP,Ballots Cast,101
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Trustee,,REP,Connie Meyer,82
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Trustee,,REP,Phyllis Desprez,72
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Trustee,,REP,Ballots Cast,154
+Crawford,"South Branch Township, Precinct 1",South Branch Township Supervisor,,REP,Write-In,31
+Crawford,"South Branch Township, Precinct 1",South Branch Township Supervisor,,REP,Ballots Cast,31
+Crawford,"South Branch Township, Precinct 1",South Branch Township Clerk,,REP,Write-In,29
+Crawford,"South Branch Township, Precinct 1",South Branch Township Clerk,,REP,Ballots Cast,29
+Crawford,"South Branch Township, Precinct 1",South Branch Township Treasurer,,REP,Write-In,22
+Crawford,"South Branch Township, Precinct 1",South Branch Township Treasurer,,REP,Ballots Cast,22
+Crawford,"South Branch Township, Precinct 1",South Branch Township Trustee,,REP,Michael J. Janisse,195
+Crawford,"South Branch Township, Precinct 1",South Branch Township Trustee,,REP,Write-In,4
+Crawford,"South Branch Township, Precinct 1",South Branch Township Trustee,,REP,Ballots Cast,199
+Crawford,"City of Grayling, Precinct 1","City of Grayling, Precinct 1, Delegate to County Convention",,REP,Bryce Metcalfe,65
+Crawford,"City of Grayling, Precinct 1","City of Grayling, Precinct 1, Delegate to County Convention",,REP,Kathleen Armstrong,56
+Crawford,"City of Grayling, Precinct 1","City of Grayling, Precinct 1, Delegate to County Convention",,REP,Susan Fox Metcalfe,54
+Crawford,"City of Grayling, Precinct 1","City of Grayling, Precinct 1, Delegate to County Convention",,REP,William Jacob Armstrong,42
+Crawford,"City of Grayling, Precinct 1","City of Grayling, Precinct 1, Delegate to County Convention",,REP,Write-In,11
+Crawford,"City of Grayling, Precinct 1","City of Grayling, Precinct 1, Delegate to County Convention",,REP,Ballots Cast,228
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Alan Beaudet,83
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Angie Bonamie,77
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Dan Bonamie,101
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Deb Helsel,189
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Dorothy A. Frederick,191
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Hope Francis,202
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,James Burton,88
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Jill Peacock,197
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Kim VanNuck,237
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Mary Dent,170
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Max Meisner,139
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Scott Peacock,91
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Write-In,9
+Crawford,"Beaver Creek Township, Precinct 1","Beaver Creek Township, Precinct 1, Delegate to County Convention",,REP,Ballots Cast,1774
+Crawford,"Frederic Township, Precinct 1","Frederic Township, Precinct 1, Delegate to County Convention",,REP,Jim W. Shirkey,161
+Crawford,"Frederic Township, Precinct 1","Frederic Township, Precinct 1, Delegate to County Convention",,REP,Luanne M. Shirkey,145
+Crawford,"Frederic Township, Precinct 1","Frederic Township, Precinct 1, Delegate to County Convention",,REP,Write-In,8
+Crawford,"Frederic Township, Precinct 1","Frederic Township, Precinct 1, Delegate to County Convention",,REP,Ballots Cast,314
+Crawford,"Grayling Charter Township, Precinct 304","Grayling Charter Township, Precinct 304, Delegate to County Convention",,REP,Brian Noeske,220
+Crawford,"Grayling Charter Township, Precinct 304","Grayling Charter Township, Precinct 304, Delegate to County Convention",,REP,Dale Bonamie,208
+Crawford,"Grayling Charter Township, Precinct 304","Grayling Charter Township, Precinct 304, Delegate to County Convention",,REP,Patricia Bonamie,210
+Crawford,"Grayling Charter Township, Precinct 304","Grayling Charter Township, Precinct 304, Delegate to County Convention",,REP,Steve Anderson,237
+Crawford,"Grayling Charter Township, Precinct 304","Grayling Charter Township, Precinct 304, Delegate to County Convention",,REP,Write-In,12
+Crawford,"Grayling Charter Township, Precinct 304","Grayling Charter Township, Precinct 304, Delegate to County Convention",,REP,Ballots Cast,887
+Crawford,"Grayling Charter Township, Precinct 305","Grayling Charter Township, Precinct 305, Delegate to County Convention",,REP,Sandra Moore,168
+Crawford,"Grayling Charter Township, Precinct 305","Grayling Charter Township, Precinct 305, Delegate to County Convention",,REP,Thomas Cogswell,116
+Crawford,"Grayling Charter Township, Precinct 305","Grayling Charter Township, Precinct 305, Delegate to County Convention",,REP,Write-In,4
+Crawford,"Grayling Charter Township, Precinct 305","Grayling Charter Township, Precinct 305, Delegate to County Convention",,REP,Ballots Cast,288
+Crawford,"Grayling Charter Township, Precinct 306","Grayling Charter Township, Precinct 306, Delegate to County Convention",,REP,Write-In,2
+Crawford,"Grayling Charter Township, Precinct 306","Grayling Charter Township, Precinct 306, Delegate to County Convention",,REP,Ballots Cast,2
+Crawford,"Lovells Township, Precinct 1","Lovells Township, Precinct 1, Delegate to County Convention",,REP,Write-In,18
+Crawford,"Lovells Township, Precinct 1","Lovells Township, Precinct 1, Delegate to County Convention",,REP,Ballots Cast,18
+Crawford,"Maple Forest Township, Precinct 1","Maple Forest Township, Precinct 1, Delegate to County Convention",,REP,Charles C. Willis,94
+Crawford,"Maple Forest Township, Precinct 1","Maple Forest Township, Precinct 1, Delegate to County Convention",,REP,Write-In,2
+Crawford,"Maple Forest Township, Precinct 1","Maple Forest Township, Precinct 1, Delegate to County Convention",,REP,Ballots Cast,96
+Crawford,"South Branch Township, Precinct 1","South Branch Township, Precinct 1, Delegate to County Convention",,REP,Brett Krouse,135
+Crawford,"South Branch Township, Precinct 1","South Branch Township, Precinct 1, Delegate to County Convention",,REP,Cameron Jones,152
+Crawford,"South Branch Township, Precinct 1","South Branch Township, Precinct 1, Delegate to County Convention",,REP,Carol Jones,139
+Crawford,"South Branch Township, Precinct 1","South Branch Township, Precinct 1, Delegate to County Convention",,REP,Sheri Krouse,131
+Crawford,"South Branch Township, Precinct 1","South Branch Township, Precinct 1, Delegate to County Convention",,REP,Write-In,16
+Crawford,"South Branch Township, Precinct 1","South Branch Township, Precinct 1, Delegate to County Convention",,REP,Ballots Cast,573
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,No,204
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,Yes,279
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,Ballots Cast,483
+Crawford,"City of Grayling, Precinct 1",Crawford County Road Repair Millage Renewal,,,No,69
+Crawford,"City of Grayling, Precinct 1",Crawford County Road Repair Millage Renewal,,,Yes,166
+Crawford,"City of Grayling, Precinct 1",Crawford County Road Repair Millage Renewal,,,Ballots Cast,235
+Crawford,"Frederic Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,No,141
+Crawford,"Frederic Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,Yes,209
+Crawford,"Frederic Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,Ballots Cast,350
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Road Repair Millage Renewal,,,No,171
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Road Repair Millage Renewal,,,Yes,389
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Road Repair Millage Renewal,,,Ballots Cast,560
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Road Repair Millage Renewal,,,No,122
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Road Repair Millage Renewal,,,Yes,259
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Road Repair Millage Renewal,,,Ballots Cast,381
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Road Repair Millage Renewal,,,No,142
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Road Repair Millage Renewal,,,Yes,316
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Road Repair Millage Renewal,,,Ballots Cast,458
+Crawford,"Lovells Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,No,68
+Crawford,"Lovells Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,Yes,175
+Crawford,"Lovells Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,Ballots Cast,243
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,No,64
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,Yes,91
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,Ballots Cast,155
+Crawford,"South Branch Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,No,162
+Crawford,"South Branch Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,Yes,268
+Crawford,"South Branch Township, Precinct 1",Crawford County Road Repair Millage Renewal,,,Ballots Cast,430
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,No,201
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,Yes,290
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,Ballots Cast,491
+Crawford,"City of Grayling, Precinct 1",Crawford County Sheriff Millage Renewal,,,No,78
+Crawford,"City of Grayling, Precinct 1",Crawford County Sheriff Millage Renewal,,,Yes,157
+Crawford,"City of Grayling, Precinct 1",Crawford County Sheriff Millage Renewal,,,Ballots Cast,235
+Crawford,"Frederic Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,No,151
+Crawford,"Frederic Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,Yes,196
+Crawford,"Frederic Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,Ballots Cast,347
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Sheriff Millage Renewal,,,No,161
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Sheriff Millage Renewal,,,Yes,402
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Sheriff Millage Renewal,,,Ballots Cast,563
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Sheriff Millage Renewal,,,No,111
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Sheriff Millage Renewal,,,Yes,272
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Sheriff Millage Renewal,,,Ballots Cast,383
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Sheriff Millage Renewal,,,No,159
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Sheriff Millage Renewal,,,Yes,300
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Sheriff Millage Renewal,,,Ballots Cast,459
+Crawford,"Lovells Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,No,71
+Crawford,"Lovells Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,Yes,168
+Crawford,"Lovells Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,Ballots Cast,239
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,No,48
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,Yes,107
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,Ballots Cast,155
+Crawford,"South Branch Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,No,173
+Crawford,"South Branch Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,Yes,260
+Crawford,"South Branch Township, Precinct 1",Crawford County Sheriff Millage Renewal,,,Ballots Cast,433
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,No,184
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,Yes,301
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,Ballots Cast,485
+Crawford,"City of Grayling, Precinct 1",Crawford County Police Protection Millage Renewal,,,No,72
+Crawford,"City of Grayling, Precinct 1",Crawford County Police Protection Millage Renewal,,,Yes,161
+Crawford,"City of Grayling, Precinct 1",Crawford County Police Protection Millage Renewal,,,Ballots Cast,233
+Crawford,"Frederic Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,No,143
+Crawford,"Frederic Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,Yes,205
+Crawford,"Frederic Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,Ballots Cast,348
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Police Protection Millage Renewal,,,No,166
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Police Protection Millage Renewal,,,Yes,400
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Police Protection Millage Renewal,,,Ballots Cast,566
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Police Protection Millage Renewal,,,No,101
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Police Protection Millage Renewal,,,Yes,284
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Police Protection Millage Renewal,,,Ballots Cast,385
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Police Protection Millage Renewal,,,No,152
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Police Protection Millage Renewal,,,Yes,310
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Police Protection Millage Renewal,,,Ballots Cast,462
+Crawford,"Lovells Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,No,67
+Crawford,"Lovells Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,Yes,177
+Crawford,"Lovells Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,Ballots Cast,244
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,No,49
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,Yes,108
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,Ballots Cast,157
+Crawford,"South Branch Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,No,142
+Crawford,"South Branch Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,Yes,283
+Crawford,"South Branch Township, Precinct 1",Crawford County Police Protection Millage Renewal,,,Ballots Cast,425
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,No,14
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,Yes,23
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,Ballots Cast,37
+Crawford,"City of Grayling, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,No,73
+Crawford,"City of Grayling, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,Yes,162
+Crawford,"City of Grayling, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,Ballots Cast,235
+Crawford,"Frederic Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,No,120
+Crawford,"Frederic Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,Yes,231
+Crawford,"Frederic Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,Ballots Cast,351
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Commission on Aging Millage Renewal Proposal,,,No,169
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Commission on Aging Millage Renewal Proposal,,,Yes,401
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Commission on Aging Millage Renewal Proposal,,,Ballots Cast,570
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Commission on Aging Millage Renewal Proposal,,,No,98
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Commission on Aging Millage Renewal Proposal,,,Yes,287
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Commission on Aging Millage Renewal Proposal,,,Ballots Cast,385
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Commission on Aging Millage Renewal Proposal,,,No,157
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Commission on Aging Millage Renewal Proposal,,,Yes,303
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Commission on Aging Millage Renewal Proposal,,,Ballots Cast,460
+Crawford,"Lovells Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,No,74
+Crawford,"Lovells Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,Yes,167
+Crawford,"Lovells Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,Ballots Cast,241
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,No,56
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,Yes,101
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,Ballots Cast,157
+Crawford,"South Branch Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,No,133
+Crawford,"South Branch Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,Yes,296
+Crawford,"South Branch Township, Precinct 1",Crawford County Commission on Aging Millage Renewal Proposal,,,Ballots Cast,429
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,No,254
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,Yes,219
+Crawford,"Beaver Creek Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,Ballots Cast,473
+Crawford,"City of Grayling, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,No,73
+Crawford,"City of Grayling, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,Yes,154
+Crawford,"City of Grayling, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,Ballots Cast,227
+Crawford,"Frederic Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,No,153
+Crawford,"Frederic Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,Yes,191
+Crawford,"Frederic Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,Ballots Cast,344
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Transportation Authority Millage Proposal,,,No,222
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Transportation Authority Millage Proposal,,,Yes,309
+Crawford,"Grayling Charter Township, Precinct 304",Crawford County Transportation Authority Millage Proposal,,,Ballots Cast,531
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Transportation Authority Millage Proposal,,,No,134
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Transportation Authority Millage Proposal,,,Yes,240
+Crawford,"Grayling Charter Township, Precinct 305",Crawford County Transportation Authority Millage Proposal,,,Ballots Cast,374
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Transportation Authority Millage Proposal,,,No,189
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Transportation Authority Millage Proposal,,,Yes,231
+Crawford,"Grayling Charter Township, Precinct 306",Crawford County Transportation Authority Millage Proposal,,,Ballots Cast,420
+Crawford,"Lovells Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,No,101
+Crawford,"Lovells Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,Yes,137
+Crawford,"Lovells Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,Ballots Cast,238
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,No,72
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,Yes,80
+Crawford,"Maple Forest Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,Ballots Cast,152
+Crawford,"South Branch Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,No,200
+Crawford,"South Branch Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,Yes,211
+Crawford,"South Branch Township, Precinct 1",Crawford County Transportation Authority Millage Proposal,,,Ballots Cast,411
+Crawford,"Frederic Township, Precinct 1",Frederic Township Fire Protection Millage Renewal Proposition,,,No,131
+Crawford,"Frederic Township, Precinct 1",Frederic Township Fire Protection Millage Renewal Proposition,,,Yes,222
+Crawford,"Frederic Township, Precinct 1",Frederic Township Fire Protection Millage Renewal Proposition,,,Ballots Cast,353
+Crawford,"Frederic Township, Precinct 1",Frederic Township Proposal for Road Millage,,,No,164
+Crawford,"Frederic Township, Precinct 1",Frederic Township Proposal for Road Millage,,,Yes,184
+Crawford,"Frederic Township, Precinct 1",Frederic Township Proposal for Road Millage,,,Ballots Cast,348
+Crawford,"Frederic Township, Precinct 1",Frederic Township Ambulance Services Millage Renewal Proposition,,,No,111
+Crawford,"Frederic Township, Precinct 1",Frederic Township Ambulance Services Millage Renewal Proposition,,,Yes,243
+Crawford,"Frederic Township, Precinct 1",Frederic Township Ambulance Services Millage Renewal Proposition,,,Ballots Cast,354
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Emergency Fire and Ambulance Services Proposal,,,No,40
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Emergency Fire and Ambulance Services Proposal,,,Yes,114
+Crawford,"Maple Forest Township, Precinct 1",Maple Forest Township Emergency Fire and Ambulance Services Proposal,,,Ballots Cast,154
+Crawford,"South Branch Township, Precinct 1",South Branch Township Proposal to Renew General Operating Millage,,,No,164
+Crawford,"South Branch Township, Precinct 1",South Branch Township Proposal to Renew General Operating Millage,,,Yes,250
+Crawford,"South Branch Township, Precinct 1",South Branch Township Proposal to Renew General Operating Millage,,,Ballots Cast,414

@@ -1,0 +1,306 @@
+county,precinct,office,district,party,candidate,votes
+Alpena,"Alpena Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,125
+Alpena,"Alpena Township, Precinct 1",Governor,,DEM,Write-In,1
+Alpena,"Alpena Township, Precinct 1",Governor,,REP,Garrett Soldano,27
+Alpena,"Alpena Township, Precinct 1",Governor,,REP,Kevin Rinke,56
+Alpena,"Alpena Township, Precinct 1",Governor,,REP,Ralph Rebandt,8
+Alpena,"Alpena Township, Precinct 1",Governor,,REP,Ryan D. Kelley,88
+Alpena,"Alpena Township, Precinct 1",Governor,,REP,Tudor M. Dixon,128
+Alpena,"Alpena Township, Precinct 1",Governor,,REP,Write-In,12
+Alpena,"Alpena Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,120
+Alpena,"Alpena Township, Precinct 1",U.S. House,1,REP,Jack Bergman,293
+Alpena,"Alpena Township, Precinct 1",U.S. House,1,REP,Write-In,3
+Alpena,"Alpena Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,119
+Alpena,"Alpena Township, Precinct 1",State Senate,36,DEM,Write-In,1
+Alpena,"Alpena Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,289
+Alpena,"Alpena Township, Precinct 1",State Senate,36,REP,Write-In,1
+Alpena,"Alpena Township, Precinct 1",State House,106,DEM,Marie M. Fielder,120
+Alpena,"Alpena Township, Precinct 1",State House,106,DEM,Write-In,1
+Alpena,"Alpena Township, Precinct 1",State House,106,REP,Cam Cavitt,118
+Alpena,"Alpena Township, Precinct 1",State House,106,REP,Geyer W. Balog,156
+Alpena,"Alpena Township, Precinct 1",State House,106,REP,Larry Hull,33
+Alpena,"Alpena Township, Precinct 1",State House,106,REP,Write-In,2
+Alpena,"Alpena Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,208
+Alpena,"Alpena Township, Precinct 2",Governor,,REP,Garrett Soldano,50
+Alpena,"Alpena Township, Precinct 2",Governor,,REP,Kevin Rinke,74
+Alpena,"Alpena Township, Precinct 2",Governor,,REP,Ralph Rebandt,15
+Alpena,"Alpena Township, Precinct 2",Governor,,REP,Ryan D. Kelley,111
+Alpena,"Alpena Township, Precinct 2",Governor,,REP,Tudor M. Dixon,135
+Alpena,"Alpena Township, Precinct 2",Governor,,REP,Write-In,4
+Alpena,"Alpena Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,198
+Alpena,"Alpena Township, Precinct 2",U.S. House,1,REP,Jack Bergman,341
+Alpena,"Alpena Township, Precinct 2",U.S. House,1,REP,Write-In,5
+Alpena,"Alpena Township, Precinct 2",State Senate,36,DEM,Joel A. Sheltrown,197
+Alpena,"Alpena Township, Precinct 2",State Senate,36,REP,Michele Hoitenga,333
+Alpena,"Alpena Township, Precinct 2",State Senate,36,REP,Write-In,2
+Alpena,"Alpena Township, Precinct 2",State House,106,DEM,Marie M. Fielder,200
+Alpena,"Alpena Township, Precinct 2",State House,106,REP,Cam Cavitt,149
+Alpena,"Alpena Township, Precinct 2",State House,106,REP,Geyer W. Balog,161
+Alpena,"Alpena Township, Precinct 2",State House,106,REP,Larry Hull,71
+Alpena,"Alpena Township, Precinct 2",State House,106,REP,Write-In,1
+Alpena,"Alpena Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,233
+Alpena,"Alpena Township, Precinct 3",Governor,,REP,Garrett Soldano,31
+Alpena,"Alpena Township, Precinct 3",Governor,,REP,Kevin Rinke,80
+Alpena,"Alpena Township, Precinct 3",Governor,,REP,Ralph Rebandt,13
+Alpena,"Alpena Township, Precinct 3",Governor,,REP,Ryan D. Kelley,95
+Alpena,"Alpena Township, Precinct 3",Governor,,REP,Tudor M. Dixon,164
+Alpena,"Alpena Township, Precinct 3",Governor,,REP,Write-In,2
+Alpena,"Alpena Township, Precinct 3",U.S. House,1,DEM,Bob Lorinser,214
+Alpena,"Alpena Township, Precinct 3",U.S. House,1,DEM,Write-In,1
+Alpena,"Alpena Township, Precinct 3",U.S. House,1,REP,Jack Bergman,356
+Alpena,"Alpena Township, Precinct 3",U.S. House,1,REP,Write-In,2
+Alpena,"Alpena Township, Precinct 3",State Senate,36,DEM,Joel A. Sheltrown,212
+Alpena,"Alpena Township, Precinct 3",State Senate,36,DEM,Write-In,1
+Alpena,"Alpena Township, Precinct 3",State Senate,36,REP,Michele Hoitenga,347
+Alpena,"Alpena Township, Precinct 3",State House,106,DEM,Marie M. Fielder,214
+Alpena,"Alpena Township, Precinct 3",State House,106,DEM,Write-In,1
+Alpena,"Alpena Township, Precinct 3",State House,106,REP,Cam Cavitt,166
+Alpena,"Alpena Township, Precinct 3",State House,106,REP,Geyer W. Balog,179
+Alpena,"Alpena Township, Precinct 3",State House,106,REP,Larry Hull,52
+Alpena,"Alpena Township, Precinct 4",Governor,,DEM,Gretchen Whitmer,141
+Alpena,"Alpena Township, Precinct 4",Governor,,DEM,Write-In,1
+Alpena,"Alpena Township, Precinct 4",Governor,,REP,Garrett Soldano,26
+Alpena,"Alpena Township, Precinct 4",Governor,,REP,Kevin Rinke,52
+Alpena,"Alpena Township, Precinct 4",Governor,,REP,Ralph Rebandt,8
+Alpena,"Alpena Township, Precinct 4",Governor,,REP,Ryan D. Kelley,38
+Alpena,"Alpena Township, Precinct 4",Governor,,REP,Tudor M. Dixon,67
+Alpena,"Alpena Township, Precinct 4",Governor,,REP,Write-In,1
+Alpena,"Alpena Township, Precinct 4",U.S. House,1,DEM,Bob Lorinser,131
+Alpena,"Alpena Township, Precinct 4",U.S. House,1,REP,Jack Bergman,183
+Alpena,"Alpena Township, Precinct 4",U.S. House,1,REP,Write-In,1
+Alpena,"Alpena Township, Precinct 4",State Senate,36,DEM,Joel A. Sheltrown,131
+Alpena,"Alpena Township, Precinct 4",State Senate,36,REP,Michele Hoitenga,174
+Alpena,"Alpena Township, Precinct 4",State Senate,36,REP,Write-In,2
+Alpena,"Alpena Township, Precinct 4",State House,106,DEM,Marie M. Fielder,133
+Alpena,"Alpena Township, Precinct 4",State House,106,REP,Cam Cavitt,85
+Alpena,"Alpena Township, Precinct 4",State House,106,REP,Geyer W. Balog,98
+Alpena,"Alpena Township, Precinct 4",State House,106,REP,Larry Hull,11
+Alpena,"Alpena Township, Precinct 4",State House,106,REP,Write-In,1
+Alpena,"Alpena Township, Precinct 5",Governor,,DEM,Gretchen Whitmer,155
+Alpena,"Alpena Township, Precinct 5",Governor,,REP,Garrett Soldano,37
+Alpena,"Alpena Township, Precinct 5",Governor,,REP,Kevin Rinke,73
+Alpena,"Alpena Township, Precinct 5",Governor,,REP,Ralph Rebandt,14
+Alpena,"Alpena Township, Precinct 5",Governor,,REP,Ryan D. Kelley,92
+Alpena,"Alpena Township, Precinct 5",Governor,,REP,Tudor M. Dixon,130
+Alpena,"Alpena Township, Precinct 5",Governor,,REP,Write-In,5
+Alpena,"Alpena Township, Precinct 5",U.S. House,1,DEM,Bob Lorinser,152
+Alpena,"Alpena Township, Precinct 5",U.S. House,1,REP,Jack Bergman,320
+Alpena,"Alpena Township, Precinct 5",U.S. House,1,REP,Write-In,2
+Alpena,"Alpena Township, Precinct 5",State Senate,36,DEM,Joel A. Sheltrown,152
+Alpena,"Alpena Township, Precinct 5",State Senate,36,REP,Michele Hoitenga,314
+Alpena,"Alpena Township, Precinct 5",State Senate,36,REP,Write-In,3
+Alpena,"Alpena Township, Precinct 5",State House,106,DEM,Marie M. Fielder,152
+Alpena,"Alpena Township, Precinct 5",State House,106,REP,Cam Cavitt,153
+Alpena,"Alpena Township, Precinct 5",State House,106,REP,Geyer W. Balog,163
+Alpena,"Alpena Township, Precinct 5",State House,106,REP,Larry Hull,41
+Alpena,"Alpena Township, Precinct 5",State House,106,REP,Write-In,3
+Alpena,"City of Alpena, Precinct 1",Governor,,DEM,Gretchen Whitmer,181
+Alpena,"City of Alpena, Precinct 1",Governor,,REP,Garrett Soldano,22
+Alpena,"City of Alpena, Precinct 1",Governor,,REP,Kevin Rinke,42
+Alpena,"City of Alpena, Precinct 1",Governor,,REP,Ralph Rebandt,10
+Alpena,"City of Alpena, Precinct 1",Governor,,REP,Ryan D. Kelley,66
+Alpena,"City of Alpena, Precinct 1",Governor,,REP,Tudor M. Dixon,92
+Alpena,"City of Alpena, Precinct 1",U.S. House,1,DEM,Bob Lorinser,175
+Alpena,"City of Alpena, Precinct 1",U.S. House,1,REP,Jack Bergman,211
+Alpena,"City of Alpena, Precinct 1",U.S. House,1,REP,Write-In,4
+Alpena,"City of Alpena, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,173
+Alpena,"City of Alpena, Precinct 1",State Senate,36,REP,Michele Hoitenga,205
+Alpena,"City of Alpena, Precinct 1",State Senate,36,REP,Write-In,3
+Alpena,"City of Alpena, Precinct 1",State House,106,DEM,Marie M. Fielder,177
+Alpena,"City of Alpena, Precinct 1",State House,106,REP,Cam Cavitt,103
+Alpena,"City of Alpena, Precinct 1",State House,106,REP,Geyer W. Balog,94
+Alpena,"City of Alpena, Precinct 1",State House,106,REP,Larry Hull,38
+Alpena,"City of Alpena, Precinct 1",State House,106,REP,Write-In,1
+Alpena,"City of Alpena, Precinct 3",Governor,,DEM,Gretchen Whitmer,169
+Alpena,"City of Alpena, Precinct 3",Governor,,REP,Garrett Soldano,17
+Alpena,"City of Alpena, Precinct 3",Governor,,REP,Kevin Rinke,61
+Alpena,"City of Alpena, Precinct 3",Governor,,REP,Ralph Rebandt,3
+Alpena,"City of Alpena, Precinct 3",Governor,,REP,Ryan D. Kelley,49
+Alpena,"City of Alpena, Precinct 3",Governor,,REP,Tudor M. Dixon,82
+Alpena,"City of Alpena, Precinct 3",U.S. House,1,DEM,Bob Lorinser,162
+Alpena,"City of Alpena, Precinct 3",U.S. House,1,REP,Jack Bergman,196
+Alpena,"City of Alpena, Precinct 3",U.S. House,1,REP,Write-In,1
+Alpena,"City of Alpena, Precinct 3",State Senate,36,DEM,Joel A. Sheltrown,159
+Alpena,"City of Alpena, Precinct 3",State Senate,36,REP,Michele Hoitenga,185
+Alpena,"City of Alpena, Precinct 3",State Senate,36,REP,Write-In,1
+Alpena,"City of Alpena, Precinct 3",State House,106,DEM,Marie M. Fielder,165
+Alpena,"City of Alpena, Precinct 3",State House,106,REP,Cam Cavitt,104
+Alpena,"City of Alpena, Precinct 3",State House,106,REP,Geyer W. Balog,79
+Alpena,"City of Alpena, Precinct 3",State House,106,REP,Larry Hull,30
+Alpena,"City of Alpena, Precinct 4",Governor,,DEM,Gretchen Whitmer,142
+Alpena,"City of Alpena, Precinct 4",Governor,,REP,Garrett Soldano,32
+Alpena,"City of Alpena, Precinct 4",Governor,,REP,Kevin Rinke,57
+Alpena,"City of Alpena, Precinct 4",Governor,,REP,Ralph Rebandt,11
+Alpena,"City of Alpena, Precinct 4",Governor,,REP,Ryan D. Kelley,66
+Alpena,"City of Alpena, Precinct 4",Governor,,REP,Tudor M. Dixon,110
+Alpena,"City of Alpena, Precinct 4",Governor,,REP,Write-In,1
+Alpena,"City of Alpena, Precinct 4",U.S. House,1,DEM,Bob Lorinser,141
+Alpena,"City of Alpena, Precinct 4",U.S. House,1,REP,Jack Bergman,251
+Alpena,"City of Alpena, Precinct 4",U.S. House,1,REP,Write-In,1
+Alpena,"City of Alpena, Precinct 4",State Senate,36,DEM,Joel A. Sheltrown,138
+Alpena,"City of Alpena, Precinct 4",State Senate,36,DEM,Write-In,2
+Alpena,"City of Alpena, Precinct 4",State Senate,36,REP,Michele Hoitenga,243
+Alpena,"City of Alpena, Precinct 4",State House,106,DEM,Marie M. Fielder,141
+Alpena,"City of Alpena, Precinct 4",State House,106,REP,Cam Cavitt,123
+Alpena,"City of Alpena, Precinct 4",State House,106,REP,Geyer W. Balog,120
+Alpena,"City of Alpena, Precinct 4",State House,106,REP,Larry Hull,33
+Alpena,"City of Alpena, Precinct 5",Governor,,DEM,Gretchen Whitmer,187
+Alpena,"City of Alpena, Precinct 5",Governor,,REP,Garrett Soldano,26
+Alpena,"City of Alpena, Precinct 5",Governor,,REP,Kevin Rinke,50
+Alpena,"City of Alpena, Precinct 5",Governor,,REP,Ralph Rebandt,14
+Alpena,"City of Alpena, Precinct 5",Governor,,REP,Ryan D. Kelley,51
+Alpena,"City of Alpena, Precinct 5",Governor,,REP,Tudor M. Dixon,100
+Alpena,"City of Alpena, Precinct 5",Governor,,REP,Write-In,5
+Alpena,"City of Alpena, Precinct 5",U.S. House,1,DEM,Bob Lorinser,177
+Alpena,"City of Alpena, Precinct 5",U.S. House,1,REP,Jack Bergman,208
+Alpena,"City of Alpena, Precinct 5",U.S. House,1,REP,Write-In,4
+Alpena,"City of Alpena, Precinct 5",State Senate,36,DEM,Joel A. Sheltrown,176
+Alpena,"City of Alpena, Precinct 5",State Senate,36,REP,Michele Hoitenga,208
+Alpena,"City of Alpena, Precinct 5",State Senate,36,REP,Write-In,3
+Alpena,"City of Alpena, Precinct 5",State House,106,DEM,Marie M. Fielder,182
+Alpena,"City of Alpena, Precinct 5",State House,106,REP,Cam Cavitt,83
+Alpena,"City of Alpena, Precinct 5",State House,106,REP,Geyer W. Balog,113
+Alpena,"City of Alpena, Precinct 5",State House,106,REP,Larry Hull,43
+Alpena,"City of Alpena, Precinct 5",State House,106,REP,Write-In,1
+Alpena,"City of Alpena, Precinct 6",Governor,,DEM,Gretchen Whitmer,147
+Alpena,"City of Alpena, Precinct 6",Governor,,REP,Garrett Soldano,32
+Alpena,"City of Alpena, Precinct 6",Governor,,REP,Kevin Rinke,40
+Alpena,"City of Alpena, Precinct 6",Governor,,REP,Ralph Rebandt,13
+Alpena,"City of Alpena, Precinct 6",Governor,,REP,Ryan D. Kelley,55
+Alpena,"City of Alpena, Precinct 6",Governor,,REP,Tudor M. Dixon,85
+Alpena,"City of Alpena, Precinct 6",Governor,,REP,Write-In,3
+Alpena,"City of Alpena, Precinct 6",U.S. House,1,DEM,Bob Lorinser,141
+Alpena,"City of Alpena, Precinct 6",U.S. House,1,REP,Jack Bergman,206
+Alpena,"City of Alpena, Precinct 6",U.S. House,1,REP,Write-In,5
+Alpena,"City of Alpena, Precinct 6",State Senate,36,DEM,Joel A. Sheltrown,141
+Alpena,"City of Alpena, Precinct 6",State Senate,36,REP,Michele Hoitenga,199
+Alpena,"City of Alpena, Precinct 6",State Senate,36,REP,Write-In,4
+Alpena,"City of Alpena, Precinct 6",State House,106,DEM,Marie M. Fielder,141
+Alpena,"City of Alpena, Precinct 6",State House,106,REP,Cam Cavitt,89
+Alpena,"City of Alpena, Precinct 6",State House,106,REP,Geyer W. Balog,104
+Alpena,"City of Alpena, Precinct 6",State House,106,REP,Larry Hull,31
+Alpena,"City of Alpena, Precinct 6",State House,106,REP,Write-In,2
+Alpena,"Green Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,64
+Alpena,"Green Township, Precinct 1",Governor,,REP,Garrett Soldano,24
+Alpena,"Green Township, Precinct 1",Governor,,REP,Kevin Rinke,45
+Alpena,"Green Township, Precinct 1",Governor,,REP,Ralph Rebandt,10
+Alpena,"Green Township, Precinct 1",Governor,,REP,Ryan D. Kelley,46
+Alpena,"Green Township, Precinct 1",Governor,,REP,Tudor M. Dixon,101
+Alpena,"Green Township, Precinct 1",Governor,,REP,Write-In,4
+Alpena,"Green Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,62
+Alpena,"Green Township, Precinct 1",U.S. House,1,REP,Jack Bergman,212
+Alpena,"Green Township, Precinct 1",U.S. House,1,REP,Write-In,2
+Alpena,"Green Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,62
+Alpena,"Green Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,205
+Alpena,"Green Township, Precinct 1",State Senate,36,REP,Write-In,2
+Alpena,"Green Township, Precinct 1",State House,106,DEM,Marie M. Fielder,61
+Alpena,"Green Township, Precinct 1",State House,106,REP,Cam Cavitt,72
+Alpena,"Green Township, Precinct 1",State House,106,REP,Geyer W. Balog,139
+Alpena,"Green Township, Precinct 1",State House,106,REP,Larry Hull,17
+Alpena,"Green Township, Precinct 1",State House,106,REP,Write-In,2
+Alpena,"Long Rapids Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,83
+Alpena,"Long Rapids Township, Precinct 1",Governor,,REP,Garrett Soldano,26
+Alpena,"Long Rapids Township, Precinct 1",Governor,,REP,Kevin Rinke,36
+Alpena,"Long Rapids Township, Precinct 1",Governor,,REP,Ralph Rebandt,11
+Alpena,"Long Rapids Township, Precinct 1",Governor,,REP,Ryan D. Kelley,48
+Alpena,"Long Rapids Township, Precinct 1",Governor,,REP,Tudor M. Dixon,74
+Alpena,"Long Rapids Township, Precinct 1",Governor,,REP,Write-In,1
+Alpena,"Long Rapids Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,77
+Alpena,"Long Rapids Township, Precinct 1",U.S. House,1,DEM,Write-In,1
+Alpena,"Long Rapids Township, Precinct 1",U.S. House,1,REP,Jack Bergman,180
+Alpena,"Long Rapids Township, Precinct 1",U.S. House,1,REP,Write-In,2
+Alpena,"Long Rapids Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,75
+Alpena,"Long Rapids Township, Precinct 1",State Senate,36,DEM,Write-In,1
+Alpena,"Long Rapids Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,180
+Alpena,"Long Rapids Township, Precinct 1",State Senate,36,REP,Write-In,1
+Alpena,"Long Rapids Township, Precinct 1",State House,106,DEM,Marie M. Fielder,77
+Alpena,"Long Rapids Township, Precinct 1",State House,106,DEM,Write-In,1
+Alpena,"Long Rapids Township, Precinct 1",State House,106,REP,Cam Cavitt,39
+Alpena,"Long Rapids Township, Precinct 1",State House,106,REP,Geyer W. Balog,136
+Alpena,"Long Rapids Township, Precinct 1",State House,106,REP,Larry Hull,20
+Alpena,"Long Rapids Township, Precinct 1",State House,106,REP,Write-In,1
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,98
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,REP,Garrett Soldano,39
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,REP,Kevin Rinke,56
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,REP,Ralph Rebandt,14
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,REP,Ryan D. Kelley,77
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,REP,Tudor M. Dixon,105
+Alpena,"Maple Ridge Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,92
+Alpena,"Maple Ridge Township, Precinct 1",U.S. House,1,REP,Jack Bergman,268
+Alpena,"Maple Ridge Township, Precinct 1",U.S. House,1,REP,Write-In,2
+Alpena,"Maple Ridge Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,92
+Alpena,"Maple Ridge Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,261
+Alpena,"Maple Ridge Township, Precinct 1",State Senate,36,REP,Write-In,1
+Alpena,"Maple Ridge Township, Precinct 1",State House,106,DEM,Marie M. Fielder,94
+Alpena,"Maple Ridge Township, Precinct 1",State House,106,REP,Cam Cavitt,102
+Alpena,"Maple Ridge Township, Precinct 1",State House,106,REP,Geyer W. Balog,149
+Alpena,"Maple Ridge Township, Precinct 1",State House,106,REP,Larry Hull,41
+Alpena,"Maple Ridge Township, Precinct 1",State House,106,REP,Write-In,1
+Alpena,"Ossineke Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,68
+Alpena,"Ossineke Township, Precinct 1",Governor,,REP,Garrett Soldano,47
+Alpena,"Ossineke Township, Precinct 1",Governor,,REP,Kevin Rinke,58
+Alpena,"Ossineke Township, Precinct 1",Governor,,REP,Ralph Rebandt,14
+Alpena,"Ossineke Township, Precinct 1",Governor,,REP,Ryan D. Kelley,70
+Alpena,"Ossineke Township, Precinct 1",Governor,,REP,Tudor M. Dixon,133
+Alpena,"Ossineke Township, Precinct 1",Governor,,REP,Write-In,1
+Alpena,"Ossineke Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,66
+Alpena,"Ossineke Township, Precinct 1",U.S. House,1,REP,Jack Bergman,297
+Alpena,"Ossineke Township, Precinct 1",U.S. House,1,REP,Write-In,2
+Alpena,"Ossineke Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,61
+Alpena,"Ossineke Township, Precinct 1",State Senate,36,DEM,Write-In,1
+Alpena,"Ossineke Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,295
+Alpena,"Ossineke Township, Precinct 1",State Senate,36,REP,Write-In,1
+Alpena,"Ossineke Township, Precinct 1",State House,106,DEM,Marie M. Fielder,66
+Alpena,"Ossineke Township, Precinct 1",State House,106,REP,Cam Cavitt,109
+Alpena,"Ossineke Township, Precinct 1",State House,106,REP,Geyer W. Balog,189
+Alpena,"Ossineke Township, Precinct 1",State House,106,REP,Larry Hull,22
+Alpena,"Sanborn Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,117
+Alpena,"Sanborn Township, Precinct 1",Governor,,REP,Garrett Soldano,38
+Alpena,"Sanborn Township, Precinct 1",Governor,,REP,Kevin Rinke,50
+Alpena,"Sanborn Township, Precinct 1",Governor,,REP,Ralph Rebandt,16
+Alpena,"Sanborn Township, Precinct 1",Governor,,REP,Ryan D. Kelley,80
+Alpena,"Sanborn Township, Precinct 1",Governor,,REP,Tudor M. Dixon,142
+Alpena,"Sanborn Township, Precinct 1",Governor,,REP,Write-In,2
+Alpena,"Sanborn Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,110
+Alpena,"Sanborn Township, Precinct 1",U.S. House,1,REP,Jack Bergman,303
+Alpena,"Sanborn Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,107
+Alpena,"Sanborn Township, Precinct 1",State Senate,36,DEM,Write-In,1
+Alpena,"Sanborn Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,285
+Alpena,"Sanborn Township, Precinct 1",State Senate,36,REP,Write-In,1
+Alpena,"Sanborn Township, Precinct 1",State House,106,DEM,Marie M. Fielder,111
+Alpena,"Sanborn Township, Precinct 1",State House,106,DEM,Write-In,1
+Alpena,"Sanborn Township, Precinct 1",State House,106,REP,Cam Cavitt,144
+Alpena,"Sanborn Township, Precinct 1",State House,106,REP,Geyer W. Balog,158
+Alpena,"Sanborn Township, Precinct 1",State House,106,REP,Larry Hull,28
+Alpena,"Wellington Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,11
+Alpena,"Wellington Township, Precinct 1",Governor,,REP,Garrett Soldano,4
+Alpena,"Wellington Township, Precinct 1",Governor,,REP,Kevin Rinke,5
+Alpena,"Wellington Township, Precinct 1",Governor,,REP,Ralph Rebandt,2
+Alpena,"Wellington Township, Precinct 1",Governor,,REP,Ryan D. Kelley,31
+Alpena,"Wellington Township, Precinct 1",Governor,,REP,Tudor M. Dixon,27
+Alpena,"Wellington Township, Precinct 1",Governor,,REP,Write-In,1
+Alpena,"Wellington Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,10
+Alpena,"Wellington Township, Precinct 1",U.S. House,1,REP,Jack Bergman,67
+Alpena,"Wellington Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,10
+Alpena,"Wellington Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,66
+Alpena,"Wellington Township, Precinct 1",State House,106,DEM,Marie M. Fielder,10
+Alpena,"Wellington Township, Precinct 1",State House,106,REP,Cam Cavitt,15
+Alpena,"Wellington Township, Precinct 1",State House,106,REP,Geyer W. Balog,49
+Alpena,"Wellington Township, Precinct 1",State House,106,REP,Larry Hull,4
+Alpena,"Wilson Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,91
+Alpena,"Wilson Township, Precinct 1",Governor,,REP,Garrett Soldano,61
+Alpena,"Wilson Township, Precinct 1",Governor,,REP,Kevin Rinke,62
+Alpena,"Wilson Township, Precinct 1",Governor,,REP,Ralph Rebandt,26
+Alpena,"Wilson Township, Precinct 1",Governor,,REP,Ryan D. Kelley,112
+Alpena,"Wilson Township, Precinct 1",Governor,,REP,Tudor M. Dixon,146
+Alpena,"Wilson Township, Precinct 1",Governor,,REP,Write-In,1
+Alpena,"Wilson Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,89
+Alpena,"Wilson Township, Precinct 1",U.S. House,1,REP,Jack Bergman,379
+Alpena,"Wilson Township, Precinct 1",U.S. House,1,REP,Write-In,3
+Alpena,"Wilson Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,87
+Alpena,"Wilson Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,377
+Alpena,"Wilson Township, Precinct 1",State Senate,36,REP,Write-In,2
+Alpena,"Wilson Township, Precinct 1",State House,106,DEM,Marie M. Fielder,89
+Alpena,"Wilson Township, Precinct 1",State House,106,REP,Cam Cavitt,134
+Alpena,"Wilson Township, Precinct 1",State House,106,REP,Geyer W. Balog,244
+Alpena,"Wilson Township, Precinct 1",State House,106,REP,Larry Hull,43

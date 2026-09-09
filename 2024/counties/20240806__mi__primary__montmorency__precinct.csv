@@ -1,0 +1,936 @@
+county,precinct,office,district,party,candidate,votes
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,161
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,25
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,DEM,Write-In,2
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,22
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,3
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,60
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,15
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,85
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,17
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,5
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,4
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,44
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,2
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,41
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,DEM,Hill Harper,4
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,DEM,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,19
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,3
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,27
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,9
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,61
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,DEM,Callie Barr,123
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,10
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,DEM,Callie Barr,13
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,18
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,DEM,Callie Barr,57
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,40
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,DEM,Callie Barr,60
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,1
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,DEM,Callie Barr,8
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,14
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,DEM,Callie Barr,28
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,21
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,DEM,Callie Barr,25
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,DEM,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,8
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,DEM,Callie Barr,14
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,13
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,DEM,Callie Barr,23
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",State House,106,DEM,Mary Lucille Hamilton,63
+Montmorency,"Albert Township, Precinct 1",State House,106,DEM,Trina Borenstein,98
+Montmorency,"Albert Township, Precinct 1",State House,106,DEM,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",State House,106,DEM,Mary Lucille Hamilton,9
+Montmorency,"Avery Township, Precinct 1",State House,106,DEM,Trina Borenstein,11
+Montmorency,"Avery Township, Precinct 1",State House,106,DEM,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",State House,106,DEM,Mary Lucille Hamilton,21
+Montmorency,"Briley Township, Precinct 1",State House,106,DEM,Trina Borenstein,46
+Montmorency,"Briley Township, Precinct 1",State House,106,DEM,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",State House,106,DEM,Mary Lucille Hamilton,49
+Montmorency,"Hillman Township, Precinct 1",State House,106,DEM,Trina Borenstein,43
+Montmorency,"Hillman Township, Precinct 1",State House,106,DEM,Write-In,1
+Montmorency,"Hillman Township, Precinct 1",State House,106,DEM,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",State House,106,DEM,Mary Lucille Hamilton,4
+Montmorency,"Loud Township, Precinct 1",State House,106,DEM,Trina Borenstein,5
+Montmorency,"Loud Township, Precinct 1",State House,106,DEM,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",State House,106,DEM,Mary Lucille Hamilton,24
+Montmorency,"Montmorency Township, Precinct 1",State House,106,DEM,Trina Borenstein,17
+Montmorency,"Montmorency Township, Precinct 1",State House,106,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",State House,106,DEM,Mary Lucille Hamilton,14
+Montmorency,"Montmorency Township, Precinct 2",State House,106,DEM,Trina Borenstein,26
+Montmorency,"Montmorency Township, Precinct 2",State House,106,DEM,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",State House,106,DEM,Mary Lucille Hamilton,10
+Montmorency,"Rust Township, Precinct 1",State House,106,DEM,Trina Borenstein,10
+Montmorency,"Rust Township, Precinct 1",State House,106,DEM,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",State House,106,DEM,Mary Lucille Hamilton,19
+Montmorency,"Vienna Township, Precinct 1",State House,106,DEM,Trina Borenstein,15
+Montmorency,"Vienna Township, Precinct 1",State House,106,DEM,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,26
+Montmorency,"Albert Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,2
+Montmorency,"Avery Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,14
+Montmorency,"Briley Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,14
+Montmorency,"Hillman Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,1
+Montmorency,"Loud Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,10
+Montmorency,"Montmorency Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Prosecuting Attorney,,DEM,Write-In,7
+Montmorency,"Montmorency Township, Precinct 2",County Prosecuting Attorney,,DEM,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,3
+Montmorency,"Rust Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,3
+Montmorency,"Vienna Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",County Sheriff,,DEM,Write-In,27
+Montmorency,"Albert Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",County Sheriff,,DEM,Write-In,2
+Montmorency,"Avery Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",County Sheriff,,DEM,Write-In,15
+Montmorency,"Briley Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Sheriff,,DEM,Write-In,15
+Montmorency,"Hillman Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",County Sheriff,,DEM,Write-In,1
+Montmorency,"Loud Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",County Sheriff,,DEM,Write-In,10
+Montmorency,"Montmorency Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Sheriff,,DEM,Write-In,7
+Montmorency,"Montmorency Township, Precinct 2",County Sheriff,,DEM,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",County Sheriff,,DEM,Write-In,3
+Montmorency,"Rust Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",County Sheriff,,DEM,Write-In,3
+Montmorency,"Vienna Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",County Clerk,,DEM,Write-In,26
+Montmorency,"Albert Township, Precinct 1",County Clerk,,DEM,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",County Clerk,,DEM,Write-In,2
+Montmorency,"Avery Township, Precinct 1",County Clerk,,DEM,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",County Clerk,,DEM,Write-In,15
+Montmorency,"Briley Township, Precinct 1",County Clerk,,DEM,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Clerk,,DEM,Write-In,16
+Montmorency,"Hillman Township, Precinct 1",County Clerk,,DEM,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",County Clerk,,DEM,Write-In,1
+Montmorency,"Loud Township, Precinct 1",County Clerk,,DEM,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",County Clerk,,DEM,Write-In,9
+Montmorency,"Montmorency Township, Precinct 1",County Clerk,,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Clerk,,DEM,Write-In,7
+Montmorency,"Montmorency Township, Precinct 2",County Clerk,,DEM,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",County Clerk,,DEM,Write-In,3
+Montmorency,"Rust Township, Precinct 1",County Clerk,,DEM,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",County Clerk,,DEM,Write-In,3
+Montmorency,"Vienna Township, Precinct 1",County Clerk,,DEM,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",County Treasurer,,DEM,Write-In,24
+Montmorency,"Albert Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",County Treasurer,,DEM,Write-In,2
+Montmorency,"Avery Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",County Treasurer,,DEM,Write-In,15
+Montmorency,"Briley Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Treasurer,,DEM,Write-In,16
+Montmorency,"Hillman Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",County Treasurer,,DEM,Write-In,1
+Montmorency,"Loud Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",County Treasurer,,DEM,Write-In,10
+Montmorency,"Montmorency Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Treasurer,,DEM,Write-In,7
+Montmorency,"Montmorency Township, Precinct 2",County Treasurer,,DEM,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",County Treasurer,,DEM,Write-In,3
+Montmorency,"Rust Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",County Treasurer,,DEM,Write-In,3
+Montmorency,"Vienna Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",County Register of Deeds,,DEM,Write-In,23
+Montmorency,"Albert Township, Precinct 1",County Register of Deeds,,DEM,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",County Register of Deeds,,DEM,Write-In,2
+Montmorency,"Avery Township, Precinct 1",County Register of Deeds,,DEM,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",County Register of Deeds,,DEM,Write-In,15
+Montmorency,"Briley Township, Precinct 1",County Register of Deeds,,DEM,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Register of Deeds,,DEM,Write-In,15
+Montmorency,"Hillman Township, Precinct 1",County Register of Deeds,,DEM,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",County Register of Deeds,,DEM,Write-In,1
+Montmorency,"Loud Township, Precinct 1",County Register of Deeds,,DEM,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",County Register of Deeds,,DEM,Write-In,10
+Montmorency,"Montmorency Township, Precinct 1",County Register of Deeds,,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Register of Deeds,,DEM,Write-In,7
+Montmorency,"Montmorency Township, Precinct 2",County Register of Deeds,,DEM,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",County Register of Deeds,,DEM,Write-In,3
+Montmorency,"Rust Township, Precinct 1",County Register of Deeds,,DEM,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",County Register of Deeds,,DEM,Write-In,3
+Montmorency,"Vienna Township, Precinct 1",County Register of Deeds,,DEM,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",County Road Commissioner,,DEM,Write-In,24
+Montmorency,"Albert Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",County Road Commissioner,,DEM,Write-In,2
+Montmorency,"Avery Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",County Road Commissioner,,DEM,Write-In,15
+Montmorency,"Briley Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Road Commissioner,,DEM,Write-In,15
+Montmorency,"Hillman Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",County Road Commissioner,,DEM,Write-In,2
+Montmorency,"Loud Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",County Road Commissioner,,DEM,Write-In,11
+Montmorency,"Montmorency Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Road Commissioner,,DEM,Write-In,7
+Montmorency,"Montmorency Township, Precinct 2",County Road Commissioner,,DEM,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",County Road Commissioner,,DEM,Write-In,3
+Montmorency,"Rust Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",County Road Commissioner,,DEM,Write-In,3
+Montmorency,"Vienna Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,182
+Montmorency,"Hillman Township, Precinct 1",County Commissioner Dist 1,,DEM,Write-In,2
+Montmorency,"Hillman Township, Precinct 1",County Commissioner Dist 1,,DEM,Ballots Cast,109
+Montmorency,"Montmorency Township, Precinct 1",County Commissioner Dist 1,,DEM,Write-In,10
+Montmorency,"Montmorency Township, Precinct 1",County Commissioner Dist 1,,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Commissioner Dist 1,,DEM,Write-In,7
+Montmorency,"Montmorency Township, Precinct 2",County Commissioner Dist 1,,DEM,Ballots Cast,226
+Montmorency,"Vienna Township, Precinct 1",County Commissioner Dist 1,,DEM,Write-In,3
+Montmorency,"Vienna Township, Precinct 1",County Commissioner Dist 1,,DEM,Ballots Cast,182
+Montmorency,"Avery Township, Precinct 1",County Commissioner Dist 2,,DEM,Write-In,1
+Montmorency,"Avery Township, Precinct 1",County Commissioner Dist 2,,DEM,Ballots Cast,17
+Montmorency,"Briley Township, Precinct 1",County Commissioner Dist 2,,DEM,Write-In,15
+Montmorency,"Briley Township, Precinct 1",County Commissioner Dist 2,,DEM,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Commissioner Dist 3,,DEM,Write-In,11
+Montmorency,"Hillman Township, Precinct 1",County Commissioner Dist 3,,DEM,Ballots Cast,503
+Montmorency,"Albert Township, Precinct 1",County Commissioner Dist 4,,DEM,Write-In,19
+Montmorency,"Albert Township, Precinct 1",County Commissioner Dist 4,,DEM,Ballots Cast,654
+Montmorency,"Albert Township, Precinct 1",County Commissioner Dist 5,,DEM,Write-In,5
+Montmorency,"Albert Township, Precinct 1",County Commissioner Dist 5,,DEM,Ballots Cast,133
+Montmorency,"Avery Township, Precinct 1",County Commissioner Dist 5,,DEM,Write-In,1
+Montmorency,"Avery Township, Precinct 1",County Commissioner Dist 5,,DEM,Ballots Cast,187
+Montmorency,"Loud Township, Precinct 1",County Commissioner Dist 5,,DEM,Write-In,1
+Montmorency,"Loud Township, Precinct 1",County Commissioner Dist 5,,DEM,Ballots Cast,92
+Montmorency,"Rust Township, Precinct 1",County Commissioner Dist 5,,DEM,Write-In,3
+Montmorency,"Rust Township, Precinct 1",County Commissioner Dist 5,,DEM,Ballots Cast,177
+Montmorency,"Albert Township, Precinct 1",Albert Township Supervisor,,DEM,Write-In,22
+Montmorency,"Albert Township, Precinct 1",Albert Township Supervisor,,DEM,Ballots Cast,787
+Montmorency,"Albert Township, Precinct 1",Albert Township Clerk,,DEM,Write-In,22
+Montmorency,"Albert Township, Precinct 1",Albert Township Clerk,,DEM,Ballots Cast,787
+Montmorency,"Albert Township, Precinct 1",Albert Township Treasurer,,DEM,Write-In,21
+Montmorency,"Albert Township, Precinct 1",Albert Township Treasurer,,DEM,Ballots Cast,787
+Montmorency,"Albert Township, Precinct 1",Albert Township Trustee,,DEM,Write-In,33
+Montmorency,"Albert Township, Precinct 1",Albert Township Trustee,,DEM,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",Avery Township Supervisor,,DEM,Write-In,2
+Montmorency,"Avery Township, Precinct 1",Avery Township Supervisor,,DEM,Ballots Cast,204
+Montmorency,"Avery Township, Precinct 1",Avery Township Clerk,,DEM,Write-In,2
+Montmorency,"Avery Township, Precinct 1",Avery Township Clerk,,DEM,Ballots Cast,204
+Montmorency,"Avery Township, Precinct 1",Avery Township Treasurer,,DEM,Write-In,2
+Montmorency,"Avery Township, Precinct 1",Avery Township Treasurer,,DEM,Ballots Cast,204
+Montmorency,"Avery Township, Precinct 1",Avery Township Trustee,,DEM,Dawn A. Dobbyn,18
+Montmorency,"Avery Township, Precinct 1",Avery Township Trustee,,DEM,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",Briley Township Supervisor,,DEM,Write-In,13
+Montmorency,"Briley Township, Precinct 1",Briley Township Supervisor,,DEM,Ballots Cast,625
+Montmorency,"Briley Township, Precinct 1",Briley Township Clerk,,DEM,Write-In,14
+Montmorency,"Briley Township, Precinct 1",Briley Township Clerk,,DEM,Ballots Cast,625
+Montmorency,"Briley Township, Precinct 1",Briley Township Treasurer,,DEM,Write-In,14
+Montmorency,"Briley Township, Precinct 1",Briley Township Treasurer,,DEM,Ballots Cast,625
+Montmorency,"Briley Township, Precinct 1",Briley Township Trustee,,DEM,Write-In,18
+Montmorency,"Briley Township, Precinct 1",Briley Township Trustee,,DEM,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Supervisor,,DEM,John Burr,86
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Supervisor,,DEM,Write-In,1
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Supervisor,,DEM,Ballots Cast,612
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Clerk,,DEM,Write-In,10
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Clerk,,DEM,Ballots Cast,612
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Treasurer,,DEM,Write-In,10
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Treasurer,,DEM,Ballots Cast,612
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Trustee,,DEM,Write-In,15
+Montmorency,"Loud Township, Precinct 1",Loud Township Supervisor,,DEM,Write-In,1
+Montmorency,"Loud Township, Precinct 1",Loud Township Supervisor,,DEM,Ballots Cast,92
+Montmorency,"Loud Township, Precinct 1",Loud Township Clerk,,DEM,Ballots Cast,92
+Montmorency,"Loud Township, Precinct 1",Loud Township Treasurer,,DEM,Write-In,1
+Montmorency,"Loud Township, Precinct 1",Loud Township Treasurer,,DEM,Ballots Cast,92
+Montmorency,"Loud Township, Precinct 1",Loud Township Trustee,,DEM,Donna Stehle,6
+Montmorency,"Loud Township, Precinct 1",Loud Township Trustee,,DEM,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Supervisor,,DEM,Write-In,10
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Supervisor,,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Supervisor,,DEM,Write-In,6
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Supervisor,,DEM,Ballots Cast,226
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Clerk,,DEM,Write-In,10
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Clerk,,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Clerk,,DEM,Write-In,6
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Clerk,,DEM,Ballots Cast,226
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Treasurer,,DEM,Write-In,10
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Treasurer,,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Treasurer,,DEM,Write-In,6
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Treasurer,,DEM,Ballots Cast,226
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Trustee,,DEM,Write-In,17
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Trustee,,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Trustee,,DEM,Write-In,8
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Trustee,,DEM,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",Rust Township Supervisor,,DEM,Write-In,2
+Montmorency,"Rust Township, Precinct 1",Rust Township Supervisor,,DEM,Ballots Cast,177
+Montmorency,"Rust Township, Precinct 1",Rust Township Clerk,,DEM,Write-In,2
+Montmorency,"Rust Township, Precinct 1",Rust Township Clerk,,DEM,Ballots Cast,177
+Montmorency,"Rust Township, Precinct 1",Rust Township Treasurer,,DEM,Write-In,3
+Montmorency,"Rust Township, Precinct 1",Rust Township Treasurer,,DEM,Ballots Cast,177
+Montmorency,"Rust Township, Precinct 1",Rust Township Trustee,,DEM,Write-In,4
+Montmorency,"Rust Township, Precinct 1",Rust Township Trustee,,DEM,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Supervisor,,DEM,Write-In,4
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Supervisor,,DEM,Ballots Cast,182
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Clerk,,DEM,Write-In,4
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Clerk,,DEM,Ballots Cast,182
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Treasurer,,DEM,Write-In,4
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Treasurer,,DEM,Ballots Cast,182
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Trustee,,DEM,Diane E. Webber,30
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Trustee,,DEM,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1","Albert Township, Precinct 1 Delegate",,DEM,Write-In,30
+Montmorency,"Albert Township, Precinct 1","Albert Township, Precinct 1 Delegate",,DEM,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1","Avery Township, Precinct 1 Delegate",,DEM,Write-In,3
+Montmorency,"Avery Township, Precinct 1","Avery Township, Precinct 1 Delegate",,DEM,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1","Briley Township, Precinct 1 Delegate",,DEM,Write-In,17
+Montmorency,"Briley Township, Precinct 1","Briley Township, Precinct 1 Delegate",,DEM,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1","Hillman Township, Precinct 1 Delegate",,DEM,Write-In,12
+Montmorency,"Hillman Township, Precinct 1","Hillman Township, Precinct 1 Delegate",,DEM,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1","Loud Township, Precinct 1 Delegate",,DEM,Write-In,1
+Montmorency,"Loud Township, Precinct 1","Loud Township, Precinct 1 Delegate",,DEM,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1","Montmorency Township, Precinct 1 Delegate",,DEM,Write-In,14
+Montmorency,"Montmorency Township, Precinct 1","Montmorency Township, Precinct 1 Delegate",,DEM,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2","Montmorency Township, Precinct 2 Delegate",,DEM,Write-In,8
+Montmorency,"Montmorency Township, Precinct 2","Montmorency Township, Precinct 2 Delegate",,DEM,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1","Rust Township, Precinct 1 Delegate",,DEM,Write-In,5
+Montmorency,"Rust Township, Precinct 1","Rust Township, Precinct 1 Delegate",,DEM,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1","Vienna Township, Precinct 1 Delegate",,DEM,Write-In,3
+Montmorency,"Vienna Township, Precinct 1","Vienna Township, Precinct 1 Delegate",,DEM,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,REP,Justin Amash,58
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,312
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,49
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,52
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,REP,Justin Amash,12
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,87
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,8
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,33
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,REP,Justin Amash,39
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,294
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,47
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,50
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,REP,Justin Amash,37
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,304
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,29
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,46
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,REP,Justin Amash,10
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,42
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,4
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,10
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,REP,Justin Amash,18
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,117
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,25
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,24
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,REP,Justin Amash,12
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,REP,Mike Rogers,108
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,18
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,REP,Sherry O'Donnell,16
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,REP,Write-In,1
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,REP,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,REP,Justin Amash,9
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,78
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,7
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,20
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,REP,Justin Amash,7
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,84
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,8
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,14
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,REP,Write-In,4
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,REP,Jack Bergman,404
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,REP,Josh Saul,83
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,REP,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,REP,Jack Bergman,117
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,REP,Josh Saul,36
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,REP,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,REP,Jack Bergman,349
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,REP,Josh Saul,107
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,REP,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,REP,Jack Bergman,326
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,REP,Josh Saul,119
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,REP,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,REP,Jack Bergman,60
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,REP,Josh Saul,12
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,REP,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,REP,Jack Bergman,139
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,REP,Josh Saul,59
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,REP,Jack Bergman,129
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,REP,Josh Saul,32
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,REP,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,REP,Jack Bergman,105
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,REP,Josh Saul,26
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,REP,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,REP,Jack Bergman,111
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,REP,Josh Saul,17
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,REP,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",State House,106,REP,Cam Cavitt,288
+Montmorency,"Albert Township, Precinct 1",State House,106,REP,Todd J. Smalenberg,193
+Montmorency,"Albert Township, Precinct 1",State House,106,REP,Write-In,1
+Montmorency,"Albert Township, Precinct 1",State House,106,REP,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",State House,106,REP,Cam Cavitt,82
+Montmorency,"Avery Township, Precinct 1",State House,106,REP,Todd J. Smalenberg,76
+Montmorency,"Avery Township, Precinct 1",State House,106,REP,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",State House,106,REP,Cam Cavitt,248
+Montmorency,"Briley Township, Precinct 1",State House,106,REP,Todd J. Smalenberg,218
+Montmorency,"Briley Township, Precinct 1",State House,106,REP,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",State House,106,REP,Cam Cavitt,206
+Montmorency,"Hillman Township, Precinct 1",State House,106,REP,Todd J. Smalenberg,255
+Montmorency,"Hillman Township, Precinct 1",State House,106,REP,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",State House,106,REP,Cam Cavitt,42
+Montmorency,"Loud Township, Precinct 1",State House,106,REP,Todd J. Smalenberg,30
+Montmorency,"Loud Township, Precinct 1",State House,106,REP,Write-In,1
+Montmorency,"Loud Township, Precinct 1",State House,106,REP,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",State House,106,REP,Cam Cavitt,85
+Montmorency,"Montmorency Township, Precinct 1",State House,106,REP,Todd J. Smalenberg,118
+Montmorency,"Montmorency Township, Precinct 1",State House,106,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",State House,106,REP,Cam Cavitt,93
+Montmorency,"Montmorency Township, Precinct 2",State House,106,REP,Todd J. Smalenberg,68
+Montmorency,"Montmorency Township, Precinct 2",State House,106,REP,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",State House,106,REP,Cam Cavitt,70
+Montmorency,"Rust Township, Precinct 1",State House,106,REP,Todd J. Smalenberg,65
+Montmorency,"Rust Township, Precinct 1",State House,106,REP,Write-In,1
+Montmorency,"Rust Township, Precinct 1",State House,106,REP,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",State House,106,REP,Cam Cavitt,84
+Montmorency,"Vienna Township, Precinct 1",State House,106,REP,Todd J. Smalenberg,43
+Montmorency,"Vienna Township, Precinct 1",State House,106,REP,Write-In,1
+Montmorency,"Vienna Township, Precinct 1",State House,106,REP,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,58
+Montmorency,"Albert Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,8
+Montmorency,"Avery Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,34
+Montmorency,"Briley Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,35
+Montmorency,"Hillman Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,9
+Montmorency,"Loud Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,10
+Montmorency,"Montmorency Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Prosecuting Attorney,,REP,Write-In,9
+Montmorency,"Montmorency Township, Precinct 2",County Prosecuting Attorney,,REP,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,10
+Montmorency,"Rust Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,5
+Montmorency,"Vienna Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",County Sheriff,,REP,Chad Brown,357
+Montmorency,"Albert Township, Precinct 1",County Sheriff,,REP,Mike Karl,151
+Montmorency,"Albert Township, Precinct 1",County Sheriff,,REP,Write-In,2
+Montmorency,"Albert Township, Precinct 1",County Sheriff,,REP,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",County Sheriff,,REP,Chad Brown,118
+Montmorency,"Avery Township, Precinct 1",County Sheriff,,REP,Mike Karl,55
+Montmorency,"Avery Township, Precinct 1",County Sheriff,,REP,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",County Sheriff,,REP,Chad Brown,368
+Montmorency,"Briley Township, Precinct 1",County Sheriff,,REP,Mike Karl,135
+Montmorency,"Briley Township, Precinct 1",County Sheriff,,REP,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Sheriff,,REP,Chad Brown,330
+Montmorency,"Hillman Township, Precinct 1",County Sheriff,,REP,Mike Karl,143
+Montmorency,"Hillman Township, Precinct 1",County Sheriff,,REP,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",County Sheriff,,REP,Chad Brown,51
+Montmorency,"Loud Township, Precinct 1",County Sheriff,,REP,Mike Karl,25
+Montmorency,"Loud Township, Precinct 1",County Sheriff,,REP,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",County Sheriff,,REP,Chad Brown,129
+Montmorency,"Montmorency Township, Precinct 1",County Sheriff,,REP,Mike Karl,78
+Montmorency,"Montmorency Township, Precinct 1",County Sheriff,,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Sheriff,,REP,Chad Brown,125
+Montmorency,"Montmorency Township, Precinct 2",County Sheriff,,REP,Mike Karl,44
+Montmorency,"Montmorency Township, Precinct 2",County Sheriff,,REP,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",County Sheriff,,REP,Chad Brown,100
+Montmorency,"Rust Township, Precinct 1",County Sheriff,,REP,Mike Karl,41
+Montmorency,"Rust Township, Precinct 1",County Sheriff,,REP,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",County Sheriff,,REP,Chad Brown,92
+Montmorency,"Vienna Township, Precinct 1",County Sheriff,,REP,Mike Karl,40
+Montmorency,"Vienna Township, Precinct 1",County Sheriff,,REP,Write-In,1
+Montmorency,"Vienna Township, Precinct 1",County Sheriff,,REP,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",County Clerk,,REP,Cheryl A. Nelleen,326
+Montmorency,"Albert Township, Precinct 1",County Clerk,,REP,Tim Jacobs,168
+Montmorency,"Albert Township, Precinct 1",County Clerk,,REP,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",County Clerk,,REP,Cheryl A. Nelleen,110
+Montmorency,"Avery Township, Precinct 1",County Clerk,,REP,Tim Jacobs,56
+Montmorency,"Avery Township, Precinct 1",County Clerk,,REP,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",County Clerk,,REP,Cheryl A. Nelleen,314
+Montmorency,"Briley Township, Precinct 1",County Clerk,,REP,Tim Jacobs,172
+Montmorency,"Briley Township, Precinct 1",County Clerk,,REP,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Clerk,,REP,Cheryl A. Nelleen,287
+Montmorency,"Hillman Township, Precinct 1",County Clerk,,REP,Tim Jacobs,181
+Montmorency,"Hillman Township, Precinct 1",County Clerk,,REP,Write-In,1
+Montmorency,"Hillman Township, Precinct 1",County Clerk,,REP,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",County Clerk,,REP,Cheryl A. Nelleen,48
+Montmorency,"Loud Township, Precinct 1",County Clerk,,REP,Tim Jacobs,26
+Montmorency,"Loud Township, Precinct 1",County Clerk,,REP,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",County Clerk,,REP,Cheryl A. Nelleen,102
+Montmorency,"Montmorency Township, Precinct 1",County Clerk,,REP,Tim Jacobs,98
+Montmorency,"Montmorency Township, Precinct 1",County Clerk,,REP,Write-In,1
+Montmorency,"Montmorency Township, Precinct 1",County Clerk,,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Clerk,,REP,Cheryl A. Nelleen,113
+Montmorency,"Montmorency Township, Precinct 2",County Clerk,,REP,Tim Jacobs,49
+Montmorency,"Montmorency Township, Precinct 2",County Clerk,,REP,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",County Clerk,,REP,Cheryl A. Nelleen,87
+Montmorency,"Rust Township, Precinct 1",County Clerk,,REP,Tim Jacobs,50
+Montmorency,"Rust Township, Precinct 1",County Clerk,,REP,Write-In,2
+Montmorency,"Rust Township, Precinct 1",County Clerk,,REP,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",County Clerk,,REP,Cheryl A. Nelleen,95
+Montmorency,"Vienna Township, Precinct 1",County Clerk,,REP,Tim Jacobs,37
+Montmorency,"Vienna Township, Precinct 1",County Clerk,,REP,Write-In,7
+Montmorency,"Vienna Township, Precinct 1",County Clerk,,REP,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",County Treasurer,,REP,Cheri Eggett,210
+Montmorency,"Albert Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,255
+Montmorency,"Albert Township, Precinct 1",County Treasurer,,REP,Write-In,1
+Montmorency,"Albert Township, Precinct 1",County Treasurer,,REP,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",County Treasurer,,REP,Cheri Eggett,86
+Montmorency,"Avery Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,79
+Montmorency,"Avery Township, Precinct 1",County Treasurer,,REP,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",County Treasurer,,REP,Cheri Eggett,165
+Montmorency,"Briley Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,324
+Montmorency,"Briley Township, Precinct 1",County Treasurer,,REP,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Treasurer,,REP,Cheri Eggett,183
+Montmorency,"Hillman Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,262
+Montmorency,"Hillman Township, Precinct 1",County Treasurer,,REP,Write-In,1
+Montmorency,"Hillman Township, Precinct 1",County Treasurer,,REP,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",County Treasurer,,REP,Cheri Eggett,34
+Montmorency,"Loud Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,38
+Montmorency,"Loud Township, Precinct 1",County Treasurer,,REP,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",County Treasurer,,REP,Cheri Eggett,83
+Montmorency,"Montmorency Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,114
+Montmorency,"Montmorency Township, Precinct 1",County Treasurer,,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Treasurer,,REP,Cheri Eggett,68
+Montmorency,"Montmorency Township, Precinct 2",County Treasurer,,REP,Linsey Rogers,97
+Montmorency,"Montmorency Township, Precinct 2",County Treasurer,,REP,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",County Treasurer,,REP,Cheri Eggett,54
+Montmorency,"Rust Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,71
+Montmorency,"Rust Township, Precinct 1",County Treasurer,,REP,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",County Treasurer,,REP,Cheri Eggett,64
+Montmorency,"Vienna Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,57
+Montmorency,"Vienna Township, Precinct 1",County Treasurer,,REP,Write-In,2
+Montmorency,"Vienna Township, Precinct 1",County Treasurer,,REP,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,431
+Montmorency,"Albert Township, Precinct 1",County Register of Deeds,,REP,Write-In,5
+Montmorency,"Albert Township, Precinct 1",County Register of Deeds,,REP,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,140
+Montmorency,"Avery Township, Precinct 1",County Register of Deeds,,REP,Write-In,3
+Montmorency,"Avery Township, Precinct 1",County Register of Deeds,,REP,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,411
+Montmorency,"Briley Township, Precinct 1",County Register of Deeds,,REP,Write-In,7
+Montmorency,"Briley Township, Precinct 1",County Register of Deeds,,REP,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,394
+Montmorency,"Hillman Township, Precinct 1",County Register of Deeds,,REP,Write-In,7
+Montmorency,"Hillman Township, Precinct 1",County Register of Deeds,,REP,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,68
+Montmorency,"Loud Township, Precinct 1",County Register of Deeds,,REP,Write-In,2
+Montmorency,"Loud Township, Precinct 1",County Register of Deeds,,REP,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,178
+Montmorency,"Montmorency Township, Precinct 1",County Register of Deeds,,REP,Write-In,2
+Montmorency,"Montmorency Township, Precinct 1",County Register of Deeds,,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Register of Deeds,,REP,Teresa Walker,143
+Montmorency,"Montmorency Township, Precinct 2",County Register of Deeds,,REP,Write-In,1
+Montmorency,"Montmorency Township, Precinct 2",County Register of Deeds,,REP,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,127
+Montmorency,"Rust Township, Precinct 1",County Register of Deeds,,REP,Write-In,1
+Montmorency,"Rust Township, Precinct 1",County Register of Deeds,,REP,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,117
+Montmorency,"Vienna Township, Precinct 1",County Register of Deeds,,REP,Write-In,2
+Montmorency,"Vienna Township, Precinct 1",County Register of Deeds,,REP,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,403
+Montmorency,"Albert Township, Precinct 1",County Road Commissioner,,REP,Write-In,2
+Montmorency,"Albert Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,132
+Montmorency,"Avery Township, Precinct 1",County Road Commissioner,,REP,Write-In,3
+Montmorency,"Avery Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,373
+Montmorency,"Briley Township, Precinct 1",County Road Commissioner,,REP,Write-In,3
+Montmorency,"Briley Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,408
+Montmorency,"Hillman Township, Precinct 1",County Road Commissioner,,REP,Write-In,4
+Montmorency,"Hillman Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,62
+Montmorency,"Loud Township, Precinct 1",County Road Commissioner,,REP,Write-In,2
+Montmorency,"Loud Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,180
+Montmorency,"Montmorency Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Montmorency,"Montmorency Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Road Commissioner,,REP,Charles A. Arbour,141
+Montmorency,"Montmorency Township, Precinct 2",County Road Commissioner,,REP,Write-In,1
+Montmorency,"Montmorency Township, Precinct 2",County Road Commissioner,,REP,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,125
+Montmorency,"Rust Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Montmorency,"Rust Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,112
+Montmorency,"Vienna Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Montmorency,"Vienna Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,182
+Montmorency,"Hillman Township, Precinct 1",County Commissioner Dist 1,,REP,Mary Hardies,60
+Montmorency,"Hillman Township, Precinct 1",County Commissioner Dist 1,,REP,Ballots Cast,109
+Montmorency,"Montmorency Township, Precinct 1",County Commissioner Dist 1,,REP,Mary Hardies,181
+Montmorency,"Montmorency Township, Precinct 1",County Commissioner Dist 1,,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",County Commissioner Dist 1,,REP,Mary Hardies,135
+Montmorency,"Montmorency Township, Precinct 2",County Commissioner Dist 1,,REP,Write-In,2
+Montmorency,"Montmorency Township, Precinct 2",County Commissioner Dist 1,,REP,Ballots Cast,226
+Montmorency,"Vienna Township, Precinct 1",County Commissioner Dist 1,,REP,Mary Hardies,112
+Montmorency,"Vienna Township, Precinct 1",County Commissioner Dist 1,,REP,Write-In,1
+Montmorency,"Vienna Township, Precinct 1",County Commissioner Dist 1,,REP,Ballots Cast,182
+Montmorency,"Avery Township, Precinct 1",County Commissioner Dist 2,,REP,Bob DeVriend,3
+Montmorency,"Avery Township, Precinct 1",County Commissioner Dist 2,,REP,Kelly Karill,11
+Montmorency,"Avery Township, Precinct 1",County Commissioner Dist 2,,REP,Ballots Cast,17
+Montmorency,"Briley Township, Precinct 1",County Commissioner Dist 2,,REP,Bob DeVriend,289
+Montmorency,"Briley Township, Precinct 1",County Commissioner Dist 2,,REP,Kelly Karill,178
+Montmorency,"Briley Township, Precinct 1",County Commissioner Dist 2,,REP,Write-In,1
+Montmorency,"Briley Township, Precinct 1",County Commissioner Dist 2,,REP,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",County Commissioner Dist 3,,REP,Lloyd Pettier,317
+Montmorency,"Hillman Township, Precinct 1",County Commissioner Dist 3,,REP,Write-In,2
+Montmorency,"Hillman Township, Precinct 1",County Commissioner Dist 3,,REP,Ballots Cast,503
+Montmorency,"Albert Township, Precinct 1",County Commissioner Dist 4,,REP,Michelle LaRose,327
+Montmorency,"Albert Township, Precinct 1",County Commissioner Dist 4,,REP,Write-In,1
+Montmorency,"Albert Township, Precinct 1",County Commissioner Dist 4,,REP,Ballots Cast,654
+Montmorency,"Albert Township, Precinct 1",County Commissioner Dist 5,,REP,Michelle Hamlin,37
+Montmorency,"Albert Township, Precinct 1",County Commissioner Dist 5,,REP,Raymie Girardin,38
+Montmorency,"Albert Township, Precinct 1",County Commissioner Dist 5,,REP,Write-In,2
+Montmorency,"Albert Township, Precinct 1",County Commissioner Dist 5,,REP,Ballots Cast,133
+Montmorency,"Avery Township, Precinct 1",County Commissioner Dist 5,,REP,Michelle Hamlin,84
+Montmorency,"Avery Township, Precinct 1",County Commissioner Dist 5,,REP,Raymie Girardin,40
+Montmorency,"Avery Township, Precinct 1",County Commissioner Dist 5,,REP,Write-In,5
+Montmorency,"Avery Township, Precinct 1",County Commissioner Dist 5,,REP,Ballots Cast,187
+Montmorency,"Loud Township, Precinct 1",County Commissioner Dist 5,,REP,Michelle Hamlin,40
+Montmorency,"Loud Township, Precinct 1",County Commissioner Dist 5,,REP,Raymie Girardin,28
+Montmorency,"Loud Township, Precinct 1",County Commissioner Dist 5,,REP,Write-In,1
+Montmorency,"Loud Township, Precinct 1",County Commissioner Dist 5,,REP,Ballots Cast,92
+Montmorency,"Rust Township, Precinct 1",County Commissioner Dist 5,,REP,Michelle Hamlin,83
+Montmorency,"Rust Township, Precinct 1",County Commissioner Dist 5,,REP,Raymie Girardin,36
+Montmorency,"Rust Township, Precinct 1",County Commissioner Dist 5,,REP,Write-In,2
+Montmorency,"Rust Township, Precinct 1",County Commissioner Dist 5,,REP,Ballots Cast,177
+Montmorency,"Albert Township, Precinct 1",Albert Township Supervisor,,REP,Mike Szukhent,399
+Montmorency,"Albert Township, Precinct 1",Albert Township Supervisor,,REP,Write-In,8
+Montmorency,"Albert Township, Precinct 1",Albert Township Supervisor,,REP,Ballots Cast,787
+Montmorency,"Albert Township, Precinct 1",Albert Township Clerk,,REP,Sandra L. Raffin,405
+Montmorency,"Albert Township, Precinct 1",Albert Township Clerk,,REP,Write-In,7
+Montmorency,"Albert Township, Precinct 1",Albert Township Clerk,,REP,Ballots Cast,787
+Montmorency,"Albert Township, Precinct 1",Albert Township Treasurer,,REP,John Right,409
+Montmorency,"Albert Township, Precinct 1",Albert Township Treasurer,,REP,Write-In,5
+Montmorency,"Albert Township, Precinct 1",Albert Township Treasurer,,REP,Ballots Cast,787
+Montmorency,"Albert Township, Precinct 1",Albert Township Trustee,,REP,Brandi Nihranz,175
+Montmorency,"Albert Township, Precinct 1",Albert Township Trustee,,REP,Mark Bowser,275
+Montmorency,"Albert Township, Precinct 1",Albert Township Trustee,,REP,Marsha McDonald,255
+Montmorency,"Albert Township, Precinct 1",Albert Township Trustee,,REP,Write-In,3
+Montmorency,"Albert Township, Precinct 1",Albert Township Trustee,,REP,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",Avery Township Supervisor,,REP,Thomas Seymour,124
+Montmorency,"Avery Township, Precinct 1",Avery Township Supervisor,,REP,Write-In,3
+Montmorency,"Avery Township, Precinct 1",Avery Township Supervisor,,REP,Ballots Cast,204
+Montmorency,"Avery Township, Precinct 1",Avery Township Clerk,,REP,Write-In,9
+Montmorency,"Avery Township, Precinct 1",Avery Township Clerk,,REP,Ballots Cast,204
+Montmorency,"Avery Township, Precinct 1",Avery Township Treasurer,,REP,Elizabeth Culham,125
+Montmorency,"Avery Township, Precinct 1",Avery Township Treasurer,,REP,Ballots Cast,204
+Montmorency,"Avery Township, Precinct 1",Avery Township Trustee,,REP,Bernard H. Yantz,63
+Montmorency,"Avery Township, Precinct 1",Avery Township Trustee,,REP,Gary D. McMurphy,114
+Montmorency,"Avery Township, Precinct 1",Avery Township Trustee,,REP,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",Briley Township Supervisor,,REP,Ken Werner,421
+Montmorency,"Briley Township, Precinct 1",Briley Township Supervisor,,REP,Write-In,3
+Montmorency,"Briley Township, Precinct 1",Briley Township Supervisor,,REP,Ballots Cast,625
+Montmorency,"Briley Township, Precinct 1",Briley Township Clerk,,REP,Edwin Comber Qualified Write In,3
+Montmorency,"Briley Township, Precinct 1",Briley Township Clerk,,REP,Write-In,30
+Montmorency,"Briley Township, Precinct 1",Briley Township Clerk,,REP,Ballots Cast,625
+Montmorency,"Briley Township, Precinct 1",Briley Township Treasurer,,REP,Vanessa Werner,398
+Montmorency,"Briley Township, Precinct 1",Briley Township Treasurer,,REP,Write-In,3
+Montmorency,"Briley Township, Precinct 1",Briley Township Treasurer,,REP,Ballots Cast,625
+Montmorency,"Briley Township, Precinct 1",Briley Township Trustee,,REP,Cynthia Damoth,111
+Montmorency,"Briley Township, Precinct 1",Briley Township Trustee,,REP,Dan Kent,190
+Montmorency,"Briley Township, Precinct 1",Briley Township Trustee,,REP,Evelyn White,192
+Montmorency,"Briley Township, Precinct 1",Briley Township Trustee,,REP,Marc Edwards,132
+Montmorency,"Briley Township, Precinct 1",Briley Township Trustee,,REP,Phil LaMore,145
+Montmorency,"Briley Township, Precinct 1",Briley Township Trustee,,REP,Write-In,2
+Montmorency,"Briley Township, Precinct 1",Briley Township Trustee,,REP,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Supervisor,,REP,Write-In,43
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Supervisor,,REP,Ballots Cast,612
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Clerk,,REP,Kelli M. Ableidinger,407
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Clerk,,REP,Write-In,1
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Clerk,,REP,Ballots Cast,612
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Treasurer,,REP,Jody Vanderveer,402
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Treasurer,,REP,Ballots Cast,612
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Trustee,,REP,Daryl Peterson,279
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Trustee,,REP,Steven Achatz,318
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Trustee,,REP,Write-In,1
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Trustee,,REP,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",Loud Township Supervisor,,REP,Beau Williams,64
+Montmorency,"Loud Township, Precinct 1",Loud Township Supervisor,,REP,Write-In,1
+Montmorency,"Loud Township, Precinct 1",Loud Township Supervisor,,REP,Ballots Cast,92
+Montmorency,"Loud Township, Precinct 1",Loud Township Clerk,,REP,Robin Chinaware,62
+Montmorency,"Loud Township, Precinct 1",Loud Township Clerk,,REP,Write-In,1
+Montmorency,"Loud Township, Precinct 1",Loud Township Clerk,,REP,Ballots Cast,92
+Montmorency,"Loud Township, Precinct 1",Loud Township Treasurer,,REP,Kimberly Ann Rippee,62
+Montmorency,"Loud Township, Precinct 1",Loud Township Treasurer,,REP,Write-In,2
+Montmorency,"Loud Township, Precinct 1",Loud Township Treasurer,,REP,Ballots Cast,92
+Montmorency,"Loud Township, Precinct 1",Loud Township Trustee,,REP,Joel Bixel,62
+Montmorency,"Loud Township, Precinct 1",Loud Township Trustee,,REP,Write-In,1
+Montmorency,"Loud Township, Precinct 1",Loud Township Trustee,,REP,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Supervisor,,REP,Kelly R. Bennett,186
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Supervisor,,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Supervisor,,REP,Kelly R. Bennett,134
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Supervisor,,REP,Write-In,2
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Supervisor,,REP,Ballots Cast,226
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Clerk,,REP,Connie Brandt,184
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Clerk,,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Clerk,,REP,Connie Brandt,143
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Clerk,,REP,Write-In,1
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Clerk,,REP,Ballots Cast,226
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Treasurer,,REP,Paula M. Miller,162
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Treasurer,,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Treasurer,,REP,Paula M. Miller,146
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Treasurer,,REP,Write-In,1
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Treasurer,,REP,Ballots Cast,226
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Trustee,,REP,Dwight A. Hardies,173
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Trustee,,REP,Gerald Steinke,122
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Trustee,,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Trustee,,REP,Dwight A. Hardies,103
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Trustee,,REP,Gerald Steinke,110
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Trustee,,REP,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",Rust Township Supervisor,,REP,Jon Schulze,123
+Montmorency,"Rust Township, Precinct 1",Rust Township Supervisor,,REP,Write-In,2
+Montmorency,"Rust Township, Precinct 1",Rust Township Supervisor,,REP,Ballots Cast,177
+Montmorency,"Rust Township, Precinct 1",Rust Township Clerk,,REP,Carleen Klein,128
+Montmorency,"Rust Township, Precinct 1",Rust Township Clerk,,REP,Write-In,2
+Montmorency,"Rust Township, Precinct 1",Rust Township Clerk,,REP,Ballots Cast,177
+Montmorency,"Rust Township, Precinct 1",Rust Township Treasurer,,REP,Write-In,6
+Montmorency,"Rust Township, Precinct 1",Rust Township Treasurer,,REP,Ballots Cast,177
+Montmorency,"Rust Township, Precinct 1",Rust Township Trustee,,REP,James Fifield,109
+Montmorency,"Rust Township, Precinct 1",Rust Township Trustee,,REP,Janice L. Richert,91
+Montmorency,"Rust Township, Precinct 1",Rust Township Trustee,,REP,Write-In,1
+Montmorency,"Rust Township, Precinct 1",Rust Township Trustee,,REP,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Supervisor,,REP,Cheryl Klein,119
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Supervisor,,REP,Write-In,1
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Supervisor,,REP,Ballots Cast,182
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Clerk,,REP,Elaine Dixon,120
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Clerk,,REP,Ballots Cast,182
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Treasurer,,REP,Peggy Bush,116
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Treasurer,,REP,Write-In,3
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Treasurer,,REP,Ballots Cast,182
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Trustee,,REP,Mayree Payne,117
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Trustee,,REP,Write-In,1
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Trustee,,REP,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1","Albert Township, Precinct 1 Delegate",,REP,Write-In,30
+Montmorency,"Albert Township, Precinct 1","Albert Township, Precinct 1 Delegate",,REP,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1","Avery Township, Precinct 1 Delegate",,REP,Doris L. Smith,112
+Montmorency,"Avery Township, Precinct 1","Avery Township, Precinct 1 Delegate",,REP,Rick J. Wazrywak,74
+Montmorency,"Avery Township, Precinct 1","Avery Township, Precinct 1 Delegate",,REP,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1","Briley Township, Precinct 1 Delegate",,REP,Nancy Lou LaFrance,190
+Montmorency,"Briley Township, Precinct 1","Briley Township, Precinct 1 Delegate",,REP,Philip Dudzik,190
+Montmorency,"Briley Township, Precinct 1","Briley Township, Precinct 1 Delegate",,REP,Rhonda Adams,204
+Montmorency,"Briley Township, Precinct 1","Briley Township, Precinct 1 Delegate",,REP,Write-In,10
+Montmorency,"Briley Township, Precinct 1","Briley Township, Precinct 1 Delegate",,REP,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1","Hillman Township, Precinct 1 Delegate",,REP,Richard Olree Jr.,320
+Montmorency,"Hillman Township, Precinct 1","Hillman Township, Precinct 1 Delegate",,REP,Write-In,3
+Montmorency,"Hillman Township, Precinct 1","Hillman Township, Precinct 1 Delegate",,REP,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1","Loud Township, Precinct 1 Delegate",,REP,Write-In,5
+Montmorency,"Loud Township, Precinct 1","Loud Township, Precinct 1 Delegate",,REP,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1","Montmorency Township, Precinct 1 Delegate",,REP,Write-In,14
+Montmorency,"Montmorency Township, Precinct 1","Montmorency Township, Precinct 1 Delegate",,REP,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2","Montmorency Township, Precinct 2 Delegate",,REP,Write-In,5
+Montmorency,"Montmorency Township, Precinct 2","Montmorency Township, Precinct 2 Delegate",,REP,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1","Rust Township, Precinct 1 Delegate",,REP,Write-In,3
+Montmorency,"Rust Township, Precinct 1","Rust Township, Precinct 1 Delegate",,REP,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1","Vienna Township, Precinct 1 Delegate",,REP,Write-In,6
+Montmorency,"Vienna Township, Precinct 1","Vienna Township, Precinct 1 Delegate",,REP,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,No,267
+Montmorency,"Albert Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Yes,478
+Montmorency,"Albert Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,No,72
+Montmorency,"Avery Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Yes,126
+Montmorency,"Avery Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,No,221
+Montmorency,"Briley Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Yes,356
+Montmorency,"Briley Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,No,182
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Yes,390
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,No,25
+Montmorency,"Loud Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Yes,62
+Montmorency,"Loud Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,No,96
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Yes,146
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Sheriff Renewal and Restoration Proposal,,,No,44
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Sheriff Renewal and Restoration Proposal,,,Yes,158
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Sheriff Renewal and Restoration Proposal,,,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,No,67
+Montmorency,"Rust Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Yes,105
+Montmorency,"Rust Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,No,64
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Yes,111
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Sheriff Renewal and Restoration Proposal,,,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,N,390
+Montmorency,"Albert Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Write-In,340
+Montmorency,"Albert Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,N,104
+Montmorency,"Avery Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Write-In,85
+Montmorency,"Avery Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,N,298
+Montmorency,"Briley Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Write-In,272
+Montmorency,"Briley Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,N,284
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Write-In,284
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,N,42
+Montmorency,"Loud Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Write-In,45
+Montmorency,"Loud Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,N,136
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Write-In,105
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Proposal for General Operations Millage,,,N,75
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Proposal for General Operations Millage,,,Write-In,124
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Proposal for General Operations Millage,,,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,N,94
+Montmorency,"Rust Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Write-In,74
+Montmorency,"Rust Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,N,87
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Write-In,85
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Proposal for General Operations Millage,,,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,No,278
+Montmorency,"Albert Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Yes,463
+Montmorency,"Albert Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,No,81
+Montmorency,"Avery Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Yes,117
+Montmorency,"Avery Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,No,241
+Montmorency,"Briley Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Yes,334
+Montmorency,"Briley Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,No,229
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Yes,339
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,No,39
+Montmorency,"Loud Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Yes,47
+Montmorency,"Loud Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,No,121
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Yes,125
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Millage for Library Operation and Support,,,No,69
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Millage for Library Operation and Support,,,Yes,132
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Millage for Library Operation and Support,,,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,No,81
+Montmorency,"Rust Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Yes,90
+Montmorency,"Rust Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,No,75
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Yes,98
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Millage for Library Operation and Support,,,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,No,344
+Montmorency,"Albert Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Yes,383
+Montmorency,"Albert Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,No,79
+Montmorency,"Avery Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Yes,101
+Montmorency,"Avery Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,No,274
+Montmorency,"Briley Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Yes,305
+Montmorency,"Briley Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,No,238
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Yes,341
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,No,29
+Montmorency,"Loud Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Yes,53
+Montmorency,"Loud Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,No,119
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Yes,133
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Millage Renewal for Michigan State University Extension Services,,,No,75
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Yes,135
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,No,74
+Montmorency,"Rust Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Yes,99
+Montmorency,"Rust Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,No,81
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Yes,87
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Millage Renewal for Michigan State University Extension Services,,,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,No,244
+Montmorency,"Albert Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Yes,491
+Montmorency,"Albert Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,No,68
+Montmorency,"Avery Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Yes,115
+Montmorency,"Avery Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,No,214
+Montmorency,"Briley Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Yes,371
+Montmorency,"Briley Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,No,199
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Yes,385
+Montmorency,"Hillman Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,No,33
+Montmorency,"Loud Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Yes,51
+Montmorency,"Loud Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,No,91
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Yes,161
+Montmorency,"Montmorency Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Millage Renewal for Road Maintenance and Repair,,,No,51
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Yes,161
+Montmorency,"Montmorency Township, Precinct 2",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,No,62
+Montmorency,"Rust Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Yes,109
+Montmorency,"Rust Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,No,59
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Yes,111
+Montmorency,"Vienna Township, Precinct 1",Montmorency County Millage Renewal for Road Maintenance and Repair,,,Ballots Cast,182
+Montmorency,"Albert Township, Precinct 1",Albert Township Proposal for Cemetery and Parks Millage,,,No,316
+Montmorency,"Albert Township, Precinct 1",Albert Township Proposal for Cemetery and Parks Millage,,,Yes,419
+Montmorency,"Albert Township, Precinct 1",Albert Township Proposal for Cemetery and Parks Millage,,,Ballots Cast,787
+Montmorency,"Albert Township, Precinct 1",Albert Township Proposal for General Operating Millage,,,No,395
+Montmorency,"Albert Township, Precinct 1",Albert Township Proposal for General Operating Millage,,,Yes,342
+Montmorency,"Albert Township, Precinct 1",Albert Township Proposal for General Operating Millage,,,Ballots Cast,787
+Montmorency,"Avery Township, Precinct 1",Avery Township Fire Millage,,,No,57
+Montmorency,"Avery Township, Precinct 1",Avery Township Fire Millage,,,Yes,130
+Montmorency,"Avery Township, Precinct 1",Avery Township Fire Millage,,,Ballots Cast,204
+Montmorency,"Briley Township, Precinct 1",Briley Township Tri-Township Fire Services Millage,,,No,180
+Montmorency,"Briley Township, Precinct 1",Briley Township Tri-Township Fire Services Millage,,,Yes,409
+Montmorency,"Briley Township, Precinct 1",Briley Township Tri-Township Fire Services Millage,,,Ballots Cast,625
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Millage Renewal for Fire Department Operation and Equipment,,,No,114
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Millage Renewal for Fire Department Operation and Equipment,,,Yes,473
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Millage Renewal for Fire Department Operation and Equipment,,,Ballots Cast,612
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Advanced Life Support Ambulance Operation and Equipment Millage Proposal,,,No,139
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Advanced Life Support Ambulance Operation and Equipment Millage Proposal,,,Yes,449
+Montmorency,"Hillman Township, Precinct 1",Hillman Township Advanced Life Support Ambulance Operation and Equipment Millage Proposal,,,Ballots Cast,612
+Montmorency,"Loud Township, Precinct 1",Loud Township Proposal for Additional Tri-Township Fire Services Millage,,,No,18
+Montmorency,"Loud Township, Precinct 1",Loud Township Proposal for Additional Tri-Township Fire Services Millage,,,Yes,66
+Montmorency,"Loud Township, Precinct 1",Loud Township Proposal for Additional Tri-Township Fire Services Millage,,,Ballots Cast,92
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Millage Renewal and Increase for Advanced Life Support Ambulance Operation and Equipment,,,No,70
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Millage Renewal and Increase for Advanced Life Support Ambulance Operation and Equipment,,,Yes,180
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Millage Renewal and Increase for Advanced Life Support Ambulance Operation and Equipment,,,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Millage Renewal and Increase for Advanced Life Support Ambulance Operation and Equipment,,,No,49
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Millage Renewal and Increase for Advanced Life Support Ambulance Operation and Equipment,,,Yes,162
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Millage Renewal and Increase for Advanced Life Support Ambulance Operation and Equipment,,,Ballots Cast,226
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Millage Renewal and Increase for Fire Department Operation and Equipment,,,No,63
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Millage Renewal and Increase for Fire Department Operation and Equipment,,,Yes,185
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Millage Renewal and Increase for Fire Department Operation and Equipment,,,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Millage Renewal and Increase for Fire Department Operation and Equipment,,,No,56
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Millage Renewal and Increase for Fire Department Operation and Equipment,,,Yes,155
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Millage Renewal and Increase for Fire Department Operation and Equipment,,,Ballots Cast,226
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Millage Renewal and Increase for Operating and Equipping Refuse Transfer Sites,,,No,101
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Millage Renewal and Increase for Operating and Equipping Refuse Transfer Sites,,,Yes,151
+Montmorency,"Montmorency Township, Precinct 1",Montmorency Township Millage Renewal and Increase for Operating and Equipping Refuse Transfer Sites,,,Ballots Cast,266
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Millage Renewal and Increase for Operating and Equipping Refuse Transfer Sites,,,No,58
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Millage Renewal and Increase for Operating and Equipping Refuse Transfer Sites,,,Yes,150
+Montmorency,"Montmorency Township, Precinct 2",Montmorency Township Millage Renewal and Increase for Operating and Equipping Refuse Transfer Sites,,,Ballots Cast,226
+Montmorency,"Rust Township, Precinct 1",Rust Township Millage Renewal for Fire Department Operation and Equipment,,,No,45
+Montmorency,"Rust Township, Precinct 1",Rust Township Millage Renewal for Fire Department Operation and Equipment,,,Yes,128
+Montmorency,"Rust Township, Precinct 1",Rust Township Millage Renewal for Fire Department Operation and Equipment,,,Ballots Cast,177
+Montmorency,"Rust Township, Precinct 1","Rust Township Millage Renewal for Road Construction, Improvements, and Maintenance",,,No,67
+Montmorency,"Rust Township, Precinct 1","Rust Township Millage Renewal for Road Construction, Improvements, and Maintenance",,,Yes,104
+Montmorency,"Rust Township, Precinct 1","Rust Township Millage Renewal for Road Construction, Improvements, and Maintenance",,,Ballots Cast,177
+Montmorency,"Rust Township, Precinct 1",Rust Township Advanced Life Support Ambulance Operation and Equipment Millage Proposal,,,Yes,113
+Montmorency,"Rust Township, Precinct 1",Rust Township Advanced Life Support Ambulance Operation and Equipment Millage Proposal,,,Ballots Cast,177
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Millage Renewal for Emergency Medical Service,,,No,48
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Millage Renewal for Emergency Medical Service,,,Yes,123
+Montmorency,"Vienna Township, Precinct 1",Vienna Township Millage Renewal for Emergency Medical Service,,,Ballots Cast,182

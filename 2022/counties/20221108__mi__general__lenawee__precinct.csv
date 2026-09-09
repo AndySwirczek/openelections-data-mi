@@ -1,60 +1,60 @@
 county,precinct,office,district,party,candidate,votes
-Lenawee,"City of Adrian, Precinct 1",Registered voters,,,,2499
-Lenawee,"City of Adrian, Precinct 2",Registered voters,,,,2646
-Lenawee,"City of Adrian, Precinct 3",Registered voters,,,,2928
-Lenawee,"City of Adrian, Precinct 4",Registered voters,,,,2439
-Lenawee,"City of Adrian, Precinct 5",Registered voters,,,,2002
-Lenawee,"City of Adrian, Precinct 6",Registered voters,,,,2500
-Lenawee,"City of Hudson, Precinct 1",Registered voters,,,,1670
-Lenawee,"City of Morenci, Precinct 1",Registered voters,,,,1845
-Lenawee,"City of Tecumseh, Precinct 1",Registered voters,,,,1827
-Lenawee,"City of Tecumseh, Precinct 2",Registered voters,,,,1698
-Lenawee,"City of Tecumseh, Precinct 3",Registered voters,,,,1913
-Lenawee,"City of Tecumseh, Precinct 4",Registered voters,,,,1862
-Lenawee,"Adrian Township, Precinct 1",Registered voters,,,,2636
-Lenawee,"Adrian Township, Precinct 2",Registered voters,,,,2731
-Lenawee,"Blissfield Township, Precinct 1",Registered voters,,,,514
-Lenawee,"Blissfield Township, Precinct 2",Registered voters,,,,2720
-Lenawee,"Cambridge Township, Precinct 1",Registered voters,,,,1956
-Lenawee,"Cambridge Township, Precinct 2",Registered voters,,,,1755
-Lenawee,"Cambridge Township, Precinct 3",Registered voters,,,,1410
-Lenawee,"Clinton Township, Precinct 1",Registered voters,,,,1080
-Lenawee,"Clinton Township, Precinct 2",Registered voters,,,,1963
-Lenawee,"Deerfield Township, Precinct 1",Registered voters,,,,1256
-Lenawee,"Dover Township, Precinct 1",Registered voters,,,,1423
-Lenawee,"Fairfield Township, Precinct 1",Registered voters,,,,1333
-Lenawee,"Franklin Township, Precinct 1",Registered voters,,,,2724
-Lenawee,"Hudson Township, Precinct 1",Registered voters,,,,1290
-Lenawee,"Macon Township, Precinct 1",Registered voters,,,,1152
-Lenawee,"Madison Charter Township, Precinct 1",Registered voters,,,,2293
-Lenawee,"Madison Charter Township, Precinct 2",Registered voters,,,,1610
-Lenawee,"Madison Charter Township, Precinct 3",Registered voters,,,,1414
-Lenawee,"Medina Township, Precinct 1",Registered voters,,,,961
-Lenawee,"Ogden Township, Precinct 1",Registered voters,,,,793
-Lenawee,"Palmyra Township, Precinct 1",Registered voters,,,,1756
-Lenawee,"Raisin Charter Township, Precinct 1",Registered voters,,,,2571
-Lenawee,"Raisin Charter Township, Precinct 2",Registered voters,,,,1945
-Lenawee,"Raisin Charter Township, Precinct 3",Registered voters,,,,2104
-Lenawee,"Ridgeway Township, Precinct 1",Registered voters,,,,1226
-Lenawee,"Riga Township, Precinct 1",Registered voters,,,,1136
-Lenawee,"Rollin Township, Precinct 1",Registered voters,,,,2754
-Lenawee,"Rome Township, Precinct 1",Registered voters,,,,1554
-Lenawee,"Seneca Township, Precinct 1",Registered voters,,,,858
-Lenawee,"Tecumseh Township, Precinct 1",Registered voters,,,,1852
-Lenawee,"Woodstock Township, Precinct 1",Registered voters,,,,3328
-Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Registered voters,,,,0
-Lenawee,"Dundee Township, Precinct 1 (Out of County)",Registered voters,,,,0
-Lenawee,"Dundee Township, Precinct 2 (Out of County)",Registered voters,,,,0
-Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Registered voters,,,,0
-Lenawee,"Manchester Township, Precinct 2 (Out of County)",Registered voters,,,,0
-Lenawee,"Milan Township, Precinct 1 (Out of County)",Registered voters,,,,0
-Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Registered voters,,,,0
-Lenawee,"Saline Township, Precinct 1 (Out of County)",Registered voters,,,,0
-Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Registered voters,,,,0
-Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Registered voters,,,,0
-Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Registered voters,,,,0
-Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Registered voters,,,,0
-Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Registered voters,,,,0
+Lenawee,"City of Adrian, Precinct 1",Registered Voters,,,,2499
+Lenawee,"City of Adrian, Precinct 2",Registered Voters,,,,2646
+Lenawee,"City of Adrian, Precinct 3",Registered Voters,,,,2928
+Lenawee,"City of Adrian, Precinct 4",Registered Voters,,,,2439
+Lenawee,"City of Adrian, Precinct 5",Registered Voters,,,,2002
+Lenawee,"City of Adrian, Precinct 6",Registered Voters,,,,2500
+Lenawee,"City of Hudson, Precinct 1",Registered Voters,,,,1670
+Lenawee,"City of Morenci, Precinct 1",Registered Voters,,,,1845
+Lenawee,"City of Tecumseh, Precinct 1",Registered Voters,,,,1827
+Lenawee,"City of Tecumseh, Precinct 2",Registered Voters,,,,1698
+Lenawee,"City of Tecumseh, Precinct 3",Registered Voters,,,,1913
+Lenawee,"City of Tecumseh, Precinct 4",Registered Voters,,,,1862
+Lenawee,"Adrian Township, Precinct 1",Registered Voters,,,,2636
+Lenawee,"Adrian Township, Precinct 2",Registered Voters,,,,2731
+Lenawee,"Blissfield Township, Precinct 1",Registered Voters,,,,514
+Lenawee,"Blissfield Township, Precinct 2",Registered Voters,,,,2720
+Lenawee,"Cambridge Township, Precinct 1",Registered Voters,,,,1956
+Lenawee,"Cambridge Township, Precinct 2",Registered Voters,,,,1755
+Lenawee,"Cambridge Township, Precinct 3",Registered Voters,,,,1410
+Lenawee,"Clinton Township, Precinct 1",Registered Voters,,,,1080
+Lenawee,"Clinton Township, Precinct 2",Registered Voters,,,,1963
+Lenawee,"Deerfield Township, Precinct 1",Registered Voters,,,,1256
+Lenawee,"Dover Township, Precinct 1",Registered Voters,,,,1423
+Lenawee,"Fairfield Township, Precinct 1",Registered Voters,,,,1333
+Lenawee,"Franklin Township, Precinct 1",Registered Voters,,,,2724
+Lenawee,"Hudson Township, Precinct 1",Registered Voters,,,,1290
+Lenawee,"Macon Township, Precinct 1",Registered Voters,,,,1152
+Lenawee,"Madison Charter Township, Precinct 1",Registered Voters,,,,2293
+Lenawee,"Madison Charter Township, Precinct 2",Registered Voters,,,,1610
+Lenawee,"Madison Charter Township, Precinct 3",Registered Voters,,,,1414
+Lenawee,"Medina Township, Precinct 1",Registered Voters,,,,961
+Lenawee,"Ogden Township, Precinct 1",Registered Voters,,,,793
+Lenawee,"Palmyra Township, Precinct 1",Registered Voters,,,,1756
+Lenawee,"Raisin Charter Township, Precinct 1",Registered Voters,,,,2571
+Lenawee,"Raisin Charter Township, Precinct 2",Registered Voters,,,,1945
+Lenawee,"Raisin Charter Township, Precinct 3",Registered Voters,,,,2104
+Lenawee,"Ridgeway Township, Precinct 1",Registered Voters,,,,1226
+Lenawee,"Riga Township, Precinct 1",Registered Voters,,,,1136
+Lenawee,"Rollin Township, Precinct 1",Registered Voters,,,,2754
+Lenawee,"Rome Township, Precinct 1",Registered Voters,,,,1554
+Lenawee,"Seneca Township, Precinct 1",Registered Voters,,,,858
+Lenawee,"Tecumseh Township, Precinct 1",Registered Voters,,,,1852
+Lenawee,"Woodstock Township, Precinct 1",Registered Voters,,,,3328
+Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Registered Voters,,,,0
+Lenawee,"Dundee Township, Precinct 1 (Out of County)",Registered Voters,,,,0
+Lenawee,"Dundee Township, Precinct 2 (Out of County)",Registered Voters,,,,0
+Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Registered Voters,,,,0
+Lenawee,"Manchester Township, Precinct 2 (Out of County)",Registered Voters,,,,0
+Lenawee,"Milan Township, Precinct 1 (Out of County)",Registered Voters,,,,0
+Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Registered Voters,,,,0
+Lenawee,"Saline Township, Precinct 1 (Out of County)",Registered Voters,,,,0
+Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Registered Voters,,,,0
+Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Registered Voters,,,,0
+Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Registered Voters,,,,0
+Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Registered Voters,,,,0
+Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Registered Voters,,,,0
 Lenawee,"City of Adrian, Precinct 1",Ballots Cast,,,,932
 Lenawee,"City of Adrian, Precinct 2",Ballots Cast,,,,766
 Lenawee,"City of Adrian, Precinct 3",Ballots Cast,,,,891
@@ -111,398 +111,398 @@ Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Ballots Cast,,,,0
 Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Ballots Cast,,,,0
 Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Ballots Cast,,,,0
 Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Ballots Cast,,,,0
-Lenawee,"City of Adrian, Precinct 1",Straight Party,,DEM,,371
-Lenawee,"City of Adrian, Precinct 2",Straight Party,,DEM,,299
-Lenawee,"City of Adrian, Precinct 3",Straight Party,,DEM,,318
-Lenawee,"City of Adrian, Precinct 4",Straight Party,,DEM,,373
-Lenawee,"City of Adrian, Precinct 5",Straight Party,,DEM,,235
-Lenawee,"City of Adrian, Precinct 6",Straight Party,,DEM,,333
-Lenawee,"City of Hudson, Precinct 1",Straight Party,,DEM,,160
-Lenawee,"City of Morenci, Precinct 1",Straight Party,,DEM,,136
-Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,DEM,,328
-Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,DEM,,288
-Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,DEM,,309
-Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,DEM,,292
-Lenawee,"Adrian Township, Precinct 1",Straight Party,,DEM,,351
-Lenawee,"Adrian Township, Precinct 2",Straight Party,,DEM,,366
-Lenawee,"Blissfield Township, Precinct 1",Straight Party,,DEM,,32
-Lenawee,"Blissfield Township, Precinct 2",Straight Party,,DEM,,257
-Lenawee,"Cambridge Township, Precinct 1",Straight Party,,DEM,,189
-Lenawee,"Cambridge Township, Precinct 2",Straight Party,,DEM,,246
-Lenawee,"Cambridge Township, Precinct 3",Straight Party,,DEM,,196
-Lenawee,"Clinton Township, Precinct 1",Straight Party,,DEM,,111
-Lenawee,"Clinton Township, Precinct 2",Straight Party,,DEM,,325
-Lenawee,"Deerfield Township, Precinct 1",Straight Party,,DEM,,111
-Lenawee,"Dover Township, Precinct 1",Straight Party,,DEM,,106
-Lenawee,"Fairfield Township, Precinct 1",Straight Party,,DEM,,115
-Lenawee,"Franklin Township, Precinct 1",Straight Party,,DEM,,286
-Lenawee,"Hudson Township, Precinct 1",Straight Party,,DEM,,133
-Lenawee,"Macon Township, Precinct 1",Straight Party,,DEM,,98
-Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,DEM,,225
-Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,DEM,,119
-Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,DEM,,191
-Lenawee,"Medina Township, Precinct 1",Straight Party,,DEM,,59
-Lenawee,"Ogden Township, Precinct 1",Straight Party,,DEM,,59
-Lenawee,"Palmyra Township, Precinct 1",Straight Party,,DEM,,142
-Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,DEM,,300
-Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,DEM,,209
-Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,DEM,,302
-Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,DEM,,89
-Lenawee,"Riga Township, Precinct 1",Straight Party,,DEM,,97
-Lenawee,"Rollin Township, Precinct 1",Straight Party,,DEM,,256
-Lenawee,"Rome Township, Precinct 1",Straight Party,,DEM,,118
-Lenawee,"Seneca Township, Precinct 1",Straight Party,,DEM,,76
-Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,DEM,,215
-Lenawee,"Woodstock Township, Precinct 1",Straight Party,,DEM,,299
-Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,DEM,,0
-Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,DEM,,0
-Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,DEM,,0
-Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,DEM,,0
-Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,DEM,,0
-Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,DEM,,0
-Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,DEM,,0
-Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,DEM,,0
-Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,DEM,,0
-Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,DEM,,0
-Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,DEM,,0
-Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,DEM,,0
-Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,DEM,,0
-Lenawee,"City of Adrian, Precinct 1",Straight Party,,REP,,178
-Lenawee,"City of Adrian, Precinct 2",Straight Party,,REP,,171
-Lenawee,"City of Adrian, Precinct 3",Straight Party,,REP,,239
-Lenawee,"City of Adrian, Precinct 4",Straight Party,,REP,,295
-Lenawee,"City of Adrian, Precinct 5",Straight Party,,REP,,218
-Lenawee,"City of Adrian, Precinct 6",Straight Party,,REP,,261
-Lenawee,"City of Hudson, Precinct 1",Straight Party,,REP,,297
-Lenawee,"City of Morenci, Precinct 1",Straight Party,,REP,,256
-Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,REP,,299
-Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,REP,,294
-Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,REP,,279
-Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,REP,,258
-Lenawee,"Adrian Township, Precinct 1",Straight Party,,REP,,551
-Lenawee,"Adrian Township, Precinct 2",Straight Party,,REP,,520
-Lenawee,"Blissfield Township, Precinct 1",Straight Party,,REP,,116
-Lenawee,"Blissfield Township, Precinct 2",Straight Party,,REP,,430
-Lenawee,"Cambridge Township, Precinct 1",Straight Party,,REP,,422
-Lenawee,"Cambridge Township, Precinct 2",Straight Party,,REP,,380
-Lenawee,"Cambridge Township, Precinct 3",Straight Party,,REP,,323
-Lenawee,"Clinton Township, Precinct 1",Straight Party,,REP,,265
-Lenawee,"Clinton Township, Precinct 2",Straight Party,,REP,,338
-Lenawee,"Deerfield Township, Precinct 1",Straight Party,,REP,,259
-Lenawee,"Dover Township, Precinct 1",Straight Party,,REP,,277
-Lenawee,"Fairfield Township, Precinct 1",Straight Party,,REP,,283
-Lenawee,"Franklin Township, Precinct 1",Straight Party,,REP,,615
-Lenawee,"Hudson Township, Precinct 1",Straight Party,,REP,,332
-Lenawee,"Macon Township, Precinct 1",Straight Party,,REP,,200
-Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,REP,,255
-Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,REP,,364
-Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,REP,,258
-Lenawee,"Medina Township, Precinct 1",Straight Party,,REP,,197
-Lenawee,"Ogden Township, Precinct 1",Straight Party,,REP,,181
-Lenawee,"Palmyra Township, Precinct 1",Straight Party,,REP,,361
-Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,REP,,509
-Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,REP,,339
-Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,REP,,374
-Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,REP,,274
-Lenawee,"Riga Township, Precinct 1",Straight Party,,REP,,246
-Lenawee,"Rollin Township, Precinct 1",Straight Party,,REP,,603
-Lenawee,"Rome Township, Precinct 1",Straight Party,,REP,,376
-Lenawee,"Seneca Township, Precinct 1",Straight Party,,REP,,174
-Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,REP,,368
-Lenawee,"Woodstock Township, Precinct 1",Straight Party,,REP,,662
-Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,REP,,0
-Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,REP,,0
-Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,REP,,0
-Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,REP,,0
-Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,REP,,0
-Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,REP,,0
-Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,REP,,0
-Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,REP,,0
-Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,REP,,0
-Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,REP,,0
-Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,REP,,0
-Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,REP,,0
-Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,REP,,0
-Lenawee,"City of Adrian, Precinct 1",Straight Party,,LIB,,3
-Lenawee,"City of Adrian, Precinct 2",Straight Party,,LIB,,4
-Lenawee,"City of Adrian, Precinct 3",Straight Party,,LIB,,4
-Lenawee,"City of Adrian, Precinct 4",Straight Party,,LIB,,5
-Lenawee,"City of Adrian, Precinct 5",Straight Party,,LIB,,4
-Lenawee,"City of Adrian, Precinct 6",Straight Party,,LIB,,4
-Lenawee,"City of Hudson, Precinct 1",Straight Party,,LIB,,2
-Lenawee,"City of Morenci, Precinct 1",Straight Party,,LIB,,4
-Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,LIB,,5
-Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,LIB,,3
-Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,LIB,,9
-Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,LIB,,6
-Lenawee,"Adrian Township, Precinct 1",Straight Party,,LIB,,3
-Lenawee,"Adrian Township, Precinct 2",Straight Party,,LIB,,6
-Lenawee,"Blissfield Township, Precinct 1",Straight Party,,LIB,,2
-Lenawee,"Blissfield Township, Precinct 2",Straight Party,,LIB,,7
-Lenawee,"Cambridge Township, Precinct 1",Straight Party,,LIB,,4
-Lenawee,"Cambridge Township, Precinct 2",Straight Party,,LIB,,2
-Lenawee,"Cambridge Township, Precinct 3",Straight Party,,LIB,,1
-Lenawee,"Clinton Township, Precinct 1",Straight Party,,LIB,,4
-Lenawee,"Clinton Township, Precinct 2",Straight Party,,LIB,,3
-Lenawee,"Deerfield Township, Precinct 1",Straight Party,,LIB,,7
-Lenawee,"Dover Township, Precinct 1",Straight Party,,LIB,,3
-Lenawee,"Fairfield Township, Precinct 1",Straight Party,,LIB,,0
-Lenawee,"Franklin Township, Precinct 1",Straight Party,,LIB,,4
-Lenawee,"Hudson Township, Precinct 1",Straight Party,,LIB,,1
-Lenawee,"Macon Township, Precinct 1",Straight Party,,LIB,,0
-Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,LIB,,6
-Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,LIB,,3
-Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,LIB,,0
-Lenawee,"Medina Township, Precinct 1",Straight Party,,LIB,,1
-Lenawee,"Ogden Township, Precinct 1",Straight Party,,LIB,,3
-Lenawee,"Palmyra Township, Precinct 1",Straight Party,,LIB,,4
-Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,LIB,,6
-Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,LIB,,2
-Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,LIB,,8
-Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,LIB,,5
-Lenawee,"Riga Township, Precinct 1",Straight Party,,LIB,,3
-Lenawee,"Rollin Township, Precinct 1",Straight Party,,LIB,,4
-Lenawee,"Rome Township, Precinct 1",Straight Party,,LIB,,2
-Lenawee,"Seneca Township, Precinct 1",Straight Party,,LIB,,1
-Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,LIB,,4
-Lenawee,"Woodstock Township, Precinct 1",Straight Party,,LIB,,9
-Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,LIB,,0
-Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,LIB,,0
-Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,LIB,,0
-Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,LIB,,0
-Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,LIB,,0
-Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,LIB,,0
-Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,LIB,,0
-Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,LIB,,0
-Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,LIB,,0
-Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,LIB,,0
-Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,LIB,,0
-Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,LIB,,0
-Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,LIB,,0
-Lenawee,"City of Adrian, Precinct 1",Straight Party,,UST,,4
-Lenawee,"City of Adrian, Precinct 2",Straight Party,,UST,,4
-Lenawee,"City of Adrian, Precinct 3",Straight Party,,UST,,3
-Lenawee,"City of Adrian, Precinct 4",Straight Party,,UST,,0
-Lenawee,"City of Adrian, Precinct 5",Straight Party,,UST,,1
-Lenawee,"City of Adrian, Precinct 6",Straight Party,,UST,,2
-Lenawee,"City of Hudson, Precinct 1",Straight Party,,UST,,2
-Lenawee,"City of Morenci, Precinct 1",Straight Party,,UST,,3
-Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,UST,,0
-Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,UST,,0
-Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,UST,,0
-Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,UST,,2
-Lenawee,"Adrian Township, Precinct 1",Straight Party,,UST,,3
-Lenawee,"Adrian Township, Precinct 2",Straight Party,,UST,,0
-Lenawee,"Blissfield Township, Precinct 1",Straight Party,,UST,,0
-Lenawee,"Blissfield Township, Precinct 2",Straight Party,,UST,,0
-Lenawee,"Cambridge Township, Precinct 1",Straight Party,,UST,,2
-Lenawee,"Cambridge Township, Precinct 2",Straight Party,,UST,,0
-Lenawee,"Cambridge Township, Precinct 3",Straight Party,,UST,,0
-Lenawee,"Clinton Township, Precinct 1",Straight Party,,UST,,1
-Lenawee,"Clinton Township, Precinct 2",Straight Party,,UST,,0
-Lenawee,"Deerfield Township, Precinct 1",Straight Party,,UST,,1
-Lenawee,"Dover Township, Precinct 1",Straight Party,,UST,,0
-Lenawee,"Fairfield Township, Precinct 1",Straight Party,,UST,,0
-Lenawee,"Franklin Township, Precinct 1",Straight Party,,UST,,0
-Lenawee,"Hudson Township, Precinct 1",Straight Party,,UST,,1
-Lenawee,"Macon Township, Precinct 1",Straight Party,,UST,,1
-Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,UST,,1
-Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,UST,,1
-Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,UST,,0
-Lenawee,"Medina Township, Precinct 1",Straight Party,,UST,,0
-Lenawee,"Ogden Township, Precinct 1",Straight Party,,UST,,0
-Lenawee,"Palmyra Township, Precinct 1",Straight Party,,UST,,1
-Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,UST,,1
-Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,UST,,1
-Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,UST,,2
-Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,UST,,1
-Lenawee,"Riga Township, Precinct 1",Straight Party,,UST,,1
-Lenawee,"Rollin Township, Precinct 1",Straight Party,,UST,,2
-Lenawee,"Rome Township, Precinct 1",Straight Party,,UST,,4
-Lenawee,"Seneca Township, Precinct 1",Straight Party,,UST,,1
-Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,UST,,2
-Lenawee,"Woodstock Township, Precinct 1",Straight Party,,UST,,2
-Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,UST,,0
-Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,UST,,0
-Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,UST,,0
-Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,UST,,0
-Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,UST,,0
-Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,UST,,0
-Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,UST,,0
-Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,UST,,0
-Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,UST,,0
-Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,UST,,0
-Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,UST,,0
-Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,UST,,0
-Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,UST,,0
-Lenawee,"City of Adrian, Precinct 1",Straight Party,,WC,,4
-Lenawee,"City of Adrian, Precinct 2",Straight Party,,WC,,6
-Lenawee,"City of Adrian, Precinct 3",Straight Party,,WC,,7
-Lenawee,"City of Adrian, Precinct 4",Straight Party,,WC,,3
-Lenawee,"City of Adrian, Precinct 5",Straight Party,,WC,,3
-Lenawee,"City of Adrian, Precinct 6",Straight Party,,WC,,4
-Lenawee,"City of Hudson, Precinct 1",Straight Party,,WC,,0
-Lenawee,"City of Morenci, Precinct 1",Straight Party,,WC,,2
-Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,WC,,3
-Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,WC,,1
-Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,WC,,4
-Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,WC,,4
-Lenawee,"Adrian Township, Precinct 1",Straight Party,,WC,,4
-Lenawee,"Adrian Township, Precinct 2",Straight Party,,WC,,6
-Lenawee,"Blissfield Township, Precinct 1",Straight Party,,WC,,0
-Lenawee,"Blissfield Township, Precinct 2",Straight Party,,WC,,2
-Lenawee,"Cambridge Township, Precinct 1",Straight Party,,WC,,4
-Lenawee,"Cambridge Township, Precinct 2",Straight Party,,WC,,7
-Lenawee,"Cambridge Township, Precinct 3",Straight Party,,WC,,2
-Lenawee,"Clinton Township, Precinct 1",Straight Party,,WC,,3
-Lenawee,"Clinton Township, Precinct 2",Straight Party,,WC,,1
-Lenawee,"Deerfield Township, Precinct 1",Straight Party,,WC,,5
-Lenawee,"Dover Township, Precinct 1",Straight Party,,WC,,3
-Lenawee,"Fairfield Township, Precinct 1",Straight Party,,WC,,2
-Lenawee,"Franklin Township, Precinct 1",Straight Party,,WC,,6
-Lenawee,"Hudson Township, Precinct 1",Straight Party,,WC,,1
-Lenawee,"Macon Township, Precinct 1",Straight Party,,WC,,1
-Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,WC,,6
-Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,WC,,2
-Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,WC,,1
-Lenawee,"Medina Township, Precinct 1",Straight Party,,WC,,1
-Lenawee,"Ogden Township, Precinct 1",Straight Party,,WC,,1
-Lenawee,"Palmyra Township, Precinct 1",Straight Party,,WC,,8
-Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,WC,,5
-Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,WC,,3
-Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,WC,,5
-Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,WC,,2
-Lenawee,"Riga Township, Precinct 1",Straight Party,,WC,,2
-Lenawee,"Rollin Township, Precinct 1",Straight Party,,WC,,2
-Lenawee,"Rome Township, Precinct 1",Straight Party,,WC,,2
-Lenawee,"Seneca Township, Precinct 1",Straight Party,,WC,,2
-Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,WC,,1
-Lenawee,"Woodstock Township, Precinct 1",Straight Party,,WC,,4
-Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,WC,,0
-Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,WC,,0
-Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,WC,,0
-Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,WC,,0
-Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,WC,,0
-Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,WC,,0
-Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,WC,,0
-Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,WC,,0
-Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,WC,,0
-Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,WC,,0
-Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,WC,,0
-Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,WC,,0
-Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,WC,,0
-Lenawee,"City of Adrian, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"City of Adrian, Precinct 2",Straight Party,,GRN,,2
-Lenawee,"City of Adrian, Precinct 3",Straight Party,,GRN,,0
-Lenawee,"City of Adrian, Precinct 4",Straight Party,,GRN,,1
-Lenawee,"City of Adrian, Precinct 5",Straight Party,,GRN,,0
-Lenawee,"City of Adrian, Precinct 6",Straight Party,,GRN,,0
-Lenawee,"City of Hudson, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"City of Morenci, Precinct 1",Straight Party,,GRN,,1
-Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,GRN,,2
-Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,GRN,,0
-Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,GRN,,1
-Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,GRN,,0
-Lenawee,"Adrian Township, Precinct 1",Straight Party,,GRN,,1
-Lenawee,"Adrian Township, Precinct 2",Straight Party,,GRN,,3
-Lenawee,"Blissfield Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Blissfield Township, Precinct 2",Straight Party,,GRN,,0
-Lenawee,"Cambridge Township, Precinct 1",Straight Party,,GRN,,1
-Lenawee,"Cambridge Township, Precinct 2",Straight Party,,GRN,,2
-Lenawee,"Cambridge Township, Precinct 3",Straight Party,,GRN,,0
-Lenawee,"Clinton Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Clinton Township, Precinct 2",Straight Party,,GRN,,1
-Lenawee,"Deerfield Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Dover Township, Precinct 1",Straight Party,,GRN,,1
-Lenawee,"Fairfield Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Franklin Township, Precinct 1",Straight Party,,GRN,,1
-Lenawee,"Hudson Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Macon Township, Precinct 1",Straight Party,,GRN,,1
-Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,GRN,,0
-Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,GRN,,1
-Lenawee,"Medina Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Ogden Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Palmyra Township, Precinct 1",Straight Party,,GRN,,1
-Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,GRN,,0
-Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,GRN,,0
-Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,GRN,,3
-Lenawee,"Riga Township, Precinct 1",Straight Party,,GRN,,3
-Lenawee,"Rollin Township, Precinct 1",Straight Party,,GRN,,1
-Lenawee,"Rome Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Seneca Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Woodstock Township, Precinct 1",Straight Party,,GRN,,0
-Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,GRN,,0
-Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,GRN,,0
-Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,GRN,,0
-Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,GRN,,0
-Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,GRN,,0
-Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,GRN,,0
-Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,GRN,,0
-Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,GRN,,0
-Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,GRN,,0
-Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,GRN,,0
-Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,GRN,,0
-Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,GRN,,0
-Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,GRN,,0
-Lenawee,"City of Adrian, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"City of Adrian, Precinct 2",Straight Party,,NAT,,1
-Lenawee,"City of Adrian, Precinct 3",Straight Party,,NAT,,1
-Lenawee,"City of Adrian, Precinct 4",Straight Party,,NAT,,0
-Lenawee,"City of Adrian, Precinct 5",Straight Party,,NAT,,1
-Lenawee,"City of Adrian, Precinct 6",Straight Party,,NAT,,1
-Lenawee,"City of Hudson, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"City of Morenci, Precinct 1",Straight Party,,NAT,,1
-Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,NAT,,1
-Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,NAT,,1
-Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,NAT,,3
-Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,NAT,,1
-Lenawee,"Adrian Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Adrian Township, Precinct 2",Straight Party,,NAT,,0
-Lenawee,"Blissfield Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Blissfield Township, Precinct 2",Straight Party,,NAT,,0
-Lenawee,"Cambridge Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Cambridge Township, Precinct 2",Straight Party,,NAT,,0
-Lenawee,"Cambridge Township, Precinct 3",Straight Party,,NAT,,0
-Lenawee,"Clinton Township, Precinct 1",Straight Party,,NAT,,1
-Lenawee,"Clinton Township, Precinct 2",Straight Party,,NAT,,1
-Lenawee,"Deerfield Township, Precinct 1",Straight Party,,NAT,,1
-Lenawee,"Dover Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Fairfield Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Franklin Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Hudson Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Macon Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,NAT,,0
-Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,NAT,,0
-Lenawee,"Medina Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Ogden Township, Precinct 1",Straight Party,,NAT,,1
-Lenawee,"Palmyra Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,NAT,,1
-Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,NAT,,2
-Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Riga Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Rollin Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Rome Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Seneca Township, Precinct 1",Straight Party,,NAT,,1
-Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,NAT,,1
-Lenawee,"Woodstock Township, Precinct 1",Straight Party,,NAT,,0
-Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,NAT,,0
-Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,NAT,,0
-Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,NAT,,0
-Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,NAT,,0
-Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,NAT,,0
-Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,NAT,,0
-Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,NAT,,0
-Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,NAT,,0
-Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,NAT,,0
-Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,NAT,,0
-Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,NAT,,0
-Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,NAT,,0
-Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,NAT,,0
+Lenawee,"City of Adrian, Precinct 1",Straight Party,,DEM,Democratic,371
+Lenawee,"City of Adrian, Precinct 2",Straight Party,,DEM,Democratic,299
+Lenawee,"City of Adrian, Precinct 3",Straight Party,,DEM,Democratic,318
+Lenawee,"City of Adrian, Precinct 4",Straight Party,,DEM,Democratic,373
+Lenawee,"City of Adrian, Precinct 5",Straight Party,,DEM,Democratic,235
+Lenawee,"City of Adrian, Precinct 6",Straight Party,,DEM,Democratic,333
+Lenawee,"City of Hudson, Precinct 1",Straight Party,,DEM,Democratic,160
+Lenawee,"City of Morenci, Precinct 1",Straight Party,,DEM,Democratic,136
+Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,DEM,Democratic,328
+Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,DEM,Democratic,288
+Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,DEM,Democratic,309
+Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,DEM,Democratic,292
+Lenawee,"Adrian Township, Precinct 1",Straight Party,,DEM,Democratic,351
+Lenawee,"Adrian Township, Precinct 2",Straight Party,,DEM,Democratic,366
+Lenawee,"Blissfield Township, Precinct 1",Straight Party,,DEM,Democratic,32
+Lenawee,"Blissfield Township, Precinct 2",Straight Party,,DEM,Democratic,257
+Lenawee,"Cambridge Township, Precinct 1",Straight Party,,DEM,Democratic,189
+Lenawee,"Cambridge Township, Precinct 2",Straight Party,,DEM,Democratic,246
+Lenawee,"Cambridge Township, Precinct 3",Straight Party,,DEM,Democratic,196
+Lenawee,"Clinton Township, Precinct 1",Straight Party,,DEM,Democratic,111
+Lenawee,"Clinton Township, Precinct 2",Straight Party,,DEM,Democratic,325
+Lenawee,"Deerfield Township, Precinct 1",Straight Party,,DEM,Democratic,111
+Lenawee,"Dover Township, Precinct 1",Straight Party,,DEM,Democratic,106
+Lenawee,"Fairfield Township, Precinct 1",Straight Party,,DEM,Democratic,115
+Lenawee,"Franklin Township, Precinct 1",Straight Party,,DEM,Democratic,286
+Lenawee,"Hudson Township, Precinct 1",Straight Party,,DEM,Democratic,133
+Lenawee,"Macon Township, Precinct 1",Straight Party,,DEM,Democratic,98
+Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,DEM,Democratic,225
+Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,DEM,Democratic,119
+Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,DEM,Democratic,191
+Lenawee,"Medina Township, Precinct 1",Straight Party,,DEM,Democratic,59
+Lenawee,"Ogden Township, Precinct 1",Straight Party,,DEM,Democratic,59
+Lenawee,"Palmyra Township, Precinct 1",Straight Party,,DEM,Democratic,142
+Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,DEM,Democratic,300
+Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,DEM,Democratic,209
+Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,DEM,Democratic,302
+Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,DEM,Democratic,89
+Lenawee,"Riga Township, Precinct 1",Straight Party,,DEM,Democratic,97
+Lenawee,"Rollin Township, Precinct 1",Straight Party,,DEM,Democratic,256
+Lenawee,"Rome Township, Precinct 1",Straight Party,,DEM,Democratic,118
+Lenawee,"Seneca Township, Precinct 1",Straight Party,,DEM,Democratic,76
+Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,DEM,Democratic,215
+Lenawee,"Woodstock Township, Precinct 1",Straight Party,,DEM,Democratic,299
+Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,DEM,Democratic,0
+Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,DEM,Democratic,0
+Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,DEM,Democratic,0
+Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,DEM,Democratic,0
+Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,DEM,Democratic,0
+Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,DEM,Democratic,0
+Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,DEM,Democratic,0
+Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,DEM,Democratic,0
+Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,DEM,Democratic,0
+Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,DEM,Democratic,0
+Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,DEM,Democratic,0
+Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,DEM,Democratic,0
+Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,DEM,Democratic,0
+Lenawee,"City of Adrian, Precinct 1",Straight Party,,REP,Republican,178
+Lenawee,"City of Adrian, Precinct 2",Straight Party,,REP,Republican,171
+Lenawee,"City of Adrian, Precinct 3",Straight Party,,REP,Republican,239
+Lenawee,"City of Adrian, Precinct 4",Straight Party,,REP,Republican,295
+Lenawee,"City of Adrian, Precinct 5",Straight Party,,REP,Republican,218
+Lenawee,"City of Adrian, Precinct 6",Straight Party,,REP,Republican,261
+Lenawee,"City of Hudson, Precinct 1",Straight Party,,REP,Republican,297
+Lenawee,"City of Morenci, Precinct 1",Straight Party,,REP,Republican,256
+Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,REP,Republican,299
+Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,REP,Republican,294
+Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,REP,Republican,279
+Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,REP,Republican,258
+Lenawee,"Adrian Township, Precinct 1",Straight Party,,REP,Republican,551
+Lenawee,"Adrian Township, Precinct 2",Straight Party,,REP,Republican,520
+Lenawee,"Blissfield Township, Precinct 1",Straight Party,,REP,Republican,116
+Lenawee,"Blissfield Township, Precinct 2",Straight Party,,REP,Republican,430
+Lenawee,"Cambridge Township, Precinct 1",Straight Party,,REP,Republican,422
+Lenawee,"Cambridge Township, Precinct 2",Straight Party,,REP,Republican,380
+Lenawee,"Cambridge Township, Precinct 3",Straight Party,,REP,Republican,323
+Lenawee,"Clinton Township, Precinct 1",Straight Party,,REP,Republican,265
+Lenawee,"Clinton Township, Precinct 2",Straight Party,,REP,Republican,338
+Lenawee,"Deerfield Township, Precinct 1",Straight Party,,REP,Republican,259
+Lenawee,"Dover Township, Precinct 1",Straight Party,,REP,Republican,277
+Lenawee,"Fairfield Township, Precinct 1",Straight Party,,REP,Republican,283
+Lenawee,"Franklin Township, Precinct 1",Straight Party,,REP,Republican,615
+Lenawee,"Hudson Township, Precinct 1",Straight Party,,REP,Republican,332
+Lenawee,"Macon Township, Precinct 1",Straight Party,,REP,Republican,200
+Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,REP,Republican,255
+Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,REP,Republican,364
+Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,REP,Republican,258
+Lenawee,"Medina Township, Precinct 1",Straight Party,,REP,Republican,197
+Lenawee,"Ogden Township, Precinct 1",Straight Party,,REP,Republican,181
+Lenawee,"Palmyra Township, Precinct 1",Straight Party,,REP,Republican,361
+Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,REP,Republican,509
+Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,REP,Republican,339
+Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,REP,Republican,374
+Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,REP,Republican,274
+Lenawee,"Riga Township, Precinct 1",Straight Party,,REP,Republican,246
+Lenawee,"Rollin Township, Precinct 1",Straight Party,,REP,Republican,603
+Lenawee,"Rome Township, Precinct 1",Straight Party,,REP,Republican,376
+Lenawee,"Seneca Township, Precinct 1",Straight Party,,REP,Republican,174
+Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,REP,Republican,368
+Lenawee,"Woodstock Township, Precinct 1",Straight Party,,REP,Republican,662
+Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,REP,Republican,0
+Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,REP,Republican,0
+Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,REP,Republican,0
+Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,REP,Republican,0
+Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,REP,Republican,0
+Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,REP,Republican,0
+Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,REP,Republican,0
+Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,REP,Republican,0
+Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,REP,Republican,0
+Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,REP,Republican,0
+Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,REP,Republican,0
+Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,REP,Republican,0
+Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,REP,Republican,0
+Lenawee,"City of Adrian, Precinct 1",Straight Party,,LIB,Libertarian,3
+Lenawee,"City of Adrian, Precinct 2",Straight Party,,LIB,Libertarian,4
+Lenawee,"City of Adrian, Precinct 3",Straight Party,,LIB,Libertarian,4
+Lenawee,"City of Adrian, Precinct 4",Straight Party,,LIB,Libertarian,5
+Lenawee,"City of Adrian, Precinct 5",Straight Party,,LIB,Libertarian,4
+Lenawee,"City of Adrian, Precinct 6",Straight Party,,LIB,Libertarian,4
+Lenawee,"City of Hudson, Precinct 1",Straight Party,,LIB,Libertarian,2
+Lenawee,"City of Morenci, Precinct 1",Straight Party,,LIB,Libertarian,4
+Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,LIB,Libertarian,5
+Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,LIB,Libertarian,3
+Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,LIB,Libertarian,9
+Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,LIB,Libertarian,6
+Lenawee,"Adrian Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Lenawee,"Adrian Township, Precinct 2",Straight Party,,LIB,Libertarian,6
+Lenawee,"Blissfield Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Lenawee,"Blissfield Township, Precinct 2",Straight Party,,LIB,Libertarian,7
+Lenawee,"Cambridge Township, Precinct 1",Straight Party,,LIB,Libertarian,4
+Lenawee,"Cambridge Township, Precinct 2",Straight Party,,LIB,Libertarian,2
+Lenawee,"Cambridge Township, Precinct 3",Straight Party,,LIB,Libertarian,1
+Lenawee,"Clinton Township, Precinct 1",Straight Party,,LIB,Libertarian,4
+Lenawee,"Clinton Township, Precinct 2",Straight Party,,LIB,Libertarian,3
+Lenawee,"Deerfield Township, Precinct 1",Straight Party,,LIB,Libertarian,7
+Lenawee,"Dover Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Lenawee,"Fairfield Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Lenawee,"Franklin Township, Precinct 1",Straight Party,,LIB,Libertarian,4
+Lenawee,"Hudson Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Lenawee,"Macon Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,LIB,Libertarian,6
+Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,LIB,Libertarian,3
+Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,LIB,Libertarian,0
+Lenawee,"Medina Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Lenawee,"Ogden Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Lenawee,"Palmyra Township, Precinct 1",Straight Party,,LIB,Libertarian,4
+Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,LIB,Libertarian,6
+Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,LIB,Libertarian,2
+Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,LIB,Libertarian,8
+Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,LIB,Libertarian,5
+Lenawee,"Riga Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Lenawee,"Rollin Township, Precinct 1",Straight Party,,LIB,Libertarian,4
+Lenawee,"Rome Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Lenawee,"Seneca Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,LIB,Libertarian,4
+Lenawee,"Woodstock Township, Precinct 1",Straight Party,,LIB,Libertarian,9
+Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,LIB,Libertarian,0
+Lenawee,"City of Adrian, Precinct 1",Straight Party,,UST,U.S. Taxpayers,4
+Lenawee,"City of Adrian, Precinct 2",Straight Party,,UST,U.S. Taxpayers,4
+Lenawee,"City of Adrian, Precinct 3",Straight Party,,UST,U.S. Taxpayers,3
+Lenawee,"City of Adrian, Precinct 4",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"City of Adrian, Precinct 5",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"City of Adrian, Precinct 6",Straight Party,,UST,U.S. Taxpayers,2
+Lenawee,"City of Hudson, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Lenawee,"City of Morenci, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3
+Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,UST,U.S. Taxpayers,2
+Lenawee,"Adrian Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3
+Lenawee,"Adrian Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Blissfield Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Blissfield Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Cambridge Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Lenawee,"Cambridge Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Cambridge Township, Precinct 3",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Clinton Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"Clinton Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Deerfield Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"Dover Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Fairfield Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Franklin Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Hudson Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"Macon Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Medina Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Ogden Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Palmyra Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,UST,U.S. Taxpayers,2
+Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"Riga Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"Rollin Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Lenawee,"Rome Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,4
+Lenawee,"Seneca Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Lenawee,"Woodstock Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,UST,U.S. Taxpayers,0
+Lenawee,"City of Adrian, Precinct 1",Straight Party,,WCP,Working Class,4
+Lenawee,"City of Adrian, Precinct 2",Straight Party,,WCP,Working Class,6
+Lenawee,"City of Adrian, Precinct 3",Straight Party,,WCP,Working Class,7
+Lenawee,"City of Adrian, Precinct 4",Straight Party,,WCP,Working Class,3
+Lenawee,"City of Adrian, Precinct 5",Straight Party,,WCP,Working Class,3
+Lenawee,"City of Adrian, Precinct 6",Straight Party,,WCP,Working Class,4
+Lenawee,"City of Hudson, Precinct 1",Straight Party,,WCP,Working Class,0
+Lenawee,"City of Morenci, Precinct 1",Straight Party,,WCP,Working Class,2
+Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,WCP,Working Class,3
+Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,WCP,Working Class,1
+Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,WCP,Working Class,4
+Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,WCP,Working Class,4
+Lenawee,"Adrian Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Lenawee,"Adrian Township, Precinct 2",Straight Party,,WCP,Working Class,6
+Lenawee,"Blissfield Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Lenawee,"Blissfield Township, Precinct 2",Straight Party,,WCP,Working Class,2
+Lenawee,"Cambridge Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Lenawee,"Cambridge Township, Precinct 2",Straight Party,,WCP,Working Class,7
+Lenawee,"Cambridge Township, Precinct 3",Straight Party,,WCP,Working Class,2
+Lenawee,"Clinton Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Lenawee,"Clinton Township, Precinct 2",Straight Party,,WCP,Working Class,1
+Lenawee,"Deerfield Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Lenawee,"Dover Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Lenawee,"Fairfield Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Lenawee,"Franklin Township, Precinct 1",Straight Party,,WCP,Working Class,6
+Lenawee,"Hudson Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Lenawee,"Macon Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,WCP,Working Class,6
+Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,WCP,Working Class,2
+Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,WCP,Working Class,1
+Lenawee,"Medina Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Lenawee,"Ogden Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Lenawee,"Palmyra Township, Precinct 1",Straight Party,,WCP,Working Class,8
+Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,WCP,Working Class,3
+Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,WCP,Working Class,5
+Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Lenawee,"Riga Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Lenawee,"Rollin Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Lenawee,"Rome Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Lenawee,"Seneca Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Lenawee,"Woodstock Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,WCP,Working Class,0
+Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,WCP,Working Class,0
+Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,WCP,Working Class,0
+Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,WCP,Working Class,0
+Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,WCP,Working Class,0
+Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,WCP,Working Class,0
+Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,WCP,Working Class,0
+Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,WCP,Working Class,0
+Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,WCP,Working Class,0
+Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,WCP,Working Class,0
+Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,WCP,Working Class,0
+Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,WCP,Working Class,0
+Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,WCP,Working Class,0
+Lenawee,"City of Adrian, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"City of Adrian, Precinct 2",Straight Party,,GRN,Green,2
+Lenawee,"City of Adrian, Precinct 3",Straight Party,,GRN,Green,0
+Lenawee,"City of Adrian, Precinct 4",Straight Party,,GRN,Green,1
+Lenawee,"City of Adrian, Precinct 5",Straight Party,,GRN,Green,0
+Lenawee,"City of Adrian, Precinct 6",Straight Party,,GRN,Green,0
+Lenawee,"City of Hudson, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"City of Morenci, Precinct 1",Straight Party,,GRN,Green,1
+Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,GRN,Green,2
+Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,GRN,Green,0
+Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,GRN,Green,1
+Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,GRN,Green,0
+Lenawee,"Adrian Township, Precinct 1",Straight Party,,GRN,Green,1
+Lenawee,"Adrian Township, Precinct 2",Straight Party,,GRN,Green,3
+Lenawee,"Blissfield Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Blissfield Township, Precinct 2",Straight Party,,GRN,Green,0
+Lenawee,"Cambridge Township, Precinct 1",Straight Party,,GRN,Green,1
+Lenawee,"Cambridge Township, Precinct 2",Straight Party,,GRN,Green,2
+Lenawee,"Cambridge Township, Precinct 3",Straight Party,,GRN,Green,0
+Lenawee,"Clinton Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Clinton Township, Precinct 2",Straight Party,,GRN,Green,1
+Lenawee,"Deerfield Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Dover Township, Precinct 1",Straight Party,,GRN,Green,1
+Lenawee,"Fairfield Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Franklin Township, Precinct 1",Straight Party,,GRN,Green,1
+Lenawee,"Hudson Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Macon Township, Precinct 1",Straight Party,,GRN,Green,1
+Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,GRN,Green,0
+Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,GRN,Green,1
+Lenawee,"Medina Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Ogden Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Palmyra Township, Precinct 1",Straight Party,,GRN,Green,1
+Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,GRN,Green,0
+Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,GRN,Green,0
+Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,GRN,Green,3
+Lenawee,"Riga Township, Precinct 1",Straight Party,,GRN,Green,3
+Lenawee,"Rollin Township, Precinct 1",Straight Party,,GRN,Green,1
+Lenawee,"Rome Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Seneca Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Woodstock Township, Precinct 1",Straight Party,,GRN,Green,0
+Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,GRN,Green,0
+Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,GRN,Green,0
+Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,GRN,Green,0
+Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,GRN,Green,0
+Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,GRN,Green,0
+Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,GRN,Green,0
+Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,GRN,Green,0
+Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,GRN,Green,0
+Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,GRN,Green,0
+Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,GRN,Green,0
+Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,GRN,Green,0
+Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,GRN,Green,0
+Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,GRN,Green,0
+Lenawee,"City of Adrian, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"City of Adrian, Precinct 2",Straight Party,,NLP,Natural Law,1
+Lenawee,"City of Adrian, Precinct 3",Straight Party,,NLP,Natural Law,1
+Lenawee,"City of Adrian, Precinct 4",Straight Party,,NLP,Natural Law,0
+Lenawee,"City of Adrian, Precinct 5",Straight Party,,NLP,Natural Law,1
+Lenawee,"City of Adrian, Precinct 6",Straight Party,,NLP,Natural Law,1
+Lenawee,"City of Hudson, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"City of Morenci, Precinct 1",Straight Party,,NLP,Natural Law,1
+Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,NLP,Natural Law,1
+Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,NLP,Natural Law,1
+Lenawee,"City of Tecumseh, Precinct 3",Straight Party,,NLP,Natural Law,3
+Lenawee,"City of Tecumseh, Precinct 4",Straight Party,,NLP,Natural Law,1
+Lenawee,"Adrian Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Adrian Township, Precinct 2",Straight Party,,NLP,Natural Law,0
+Lenawee,"Blissfield Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Blissfield Township, Precinct 2",Straight Party,,NLP,Natural Law,0
+Lenawee,"Cambridge Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Cambridge Township, Precinct 2",Straight Party,,NLP,Natural Law,0
+Lenawee,"Cambridge Township, Precinct 3",Straight Party,,NLP,Natural Law,0
+Lenawee,"Clinton Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Lenawee,"Clinton Township, Precinct 2",Straight Party,,NLP,Natural Law,1
+Lenawee,"Deerfield Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Lenawee,"Dover Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Fairfield Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Franklin Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Hudson Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Macon Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,NLP,Natural Law,0
+Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,NLP,Natural Law,0
+Lenawee,"Medina Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Ogden Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Lenawee,"Palmyra Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,NLP,Natural Law,1
+Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,NLP,Natural Law,2
+Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Riga Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Rollin Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Rome Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Seneca Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Lenawee,"Woodstock Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Lenawee,"Bridgewater Township, Precinct 1 (Out of County)",Straight Party,,NLP,Natural Law,0
+Lenawee,"Dundee Township, Precinct 1 (Out of County)",Straight Party,,NLP,Natural Law,0
+Lenawee,"Dundee Township, Precinct 2 (Out of County)",Straight Party,,NLP,Natural Law,0
+Lenawee,"Liberty Township, Precinct 2 (Jackson County)",Straight Party,,NLP,Natural Law,0
+Lenawee,"Manchester Township, Precinct 2 (Out of County)",Straight Party,,NLP,Natural Law,0
+Lenawee,"Milan Township, Precinct 1 (Out of County)",Straight Party,,NLP,Natural Law,0
+Lenawee,"Pittsford Township, Precinct 1 (Hillsdale County)",Straight Party,,NLP,Natural Law,0
+Lenawee,"Saline Township, Precinct 1 (Out of County)",Straight Party,,NLP,Natural Law,0
+Lenawee,"Somerset Township, Precinct 1 (Hillsdale County)",Straight Party,,NLP,Natural Law,0
+Lenawee,"Somerset Township, Precinct 2 (Hillsdale County)",Straight Party,,NLP,Natural Law,0
+Lenawee,"Summerfield Township, Precinct 1 (Out of County)",Straight Party,,NLP,Natural Law,0
+Lenawee,"Wheatland Township, Precinct 1 (Hillsdale County)",Straight Party,,NLP,Natural Law,0
+Lenawee,"Wright Township, Precinct 1 (Hillsdale County)",Straight Party,,NLP,Natural Law,0
 Lenawee,"City of Adrian, Precinct 1",Governor,,DEM,Gretchen Whitmer,622
 Lenawee,"City of Adrian, Precinct 2",Governor,,DEM,Gretchen Whitmer,447
 Lenawee,"City of Adrian, Precinct 3",Governor,,DEM,Gretchen Whitmer,506
@@ -718,92 +718,92 @@ Lenawee,"Rome Township, Precinct 1",Governor,,GRN,Kevin Hogan,3
 Lenawee,"Seneca Township, Precinct 1",Governor,,GRN,Kevin Hogan,2
 Lenawee,"Tecumseh Township, Precinct 1",Governor,,GRN,Kevin Hogan,2
 Lenawee,"Woodstock Township, Precinct 1",Governor,,GRN,Kevin Hogan,2
-Lenawee,"City of Adrian, Precinct 1",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"City of Adrian, Precinct 2",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"City of Adrian, Precinct 3",Governor,,NAT,Daryl M. Simpson,5
-Lenawee,"City of Adrian, Precinct 4",Governor,,NAT,Daryl M. Simpson,1
-Lenawee,"City of Adrian, Precinct 5",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"City of Adrian, Precinct 6",Governor,,NAT,Daryl M. Simpson,1
-Lenawee,"City of Hudson, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"City of Morenci, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"City of Tecumseh, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"City of Tecumseh, Precinct 2",Governor,,NAT,Daryl M. Simpson,4
-Lenawee,"City of Tecumseh, Precinct 3",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"City of Tecumseh, Precinct 4",Governor,,NAT,Daryl M. Simpson,1
-Lenawee,"Adrian Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,1
-Lenawee,"Adrian Township, Precinct 2",Governor,,NAT,Daryl M. Simpson,3
-Lenawee,"Blissfield Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Blissfield Township, Precinct 2",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Cambridge Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,1
-Lenawee,"Cambridge Township, Precinct 2",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Cambridge Township, Precinct 3",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"Clinton Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,1
-Lenawee,"Clinton Township, Precinct 2",Governor,,NAT,Daryl M. Simpson,1
-Lenawee,"Deerfield Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Dover Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"Fairfield Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Franklin Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Hudson Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Macon Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"Madison Charter Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"Madison Charter Township, Precinct 2",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"Madison Charter Township, Precinct 3",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Medina Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Ogden Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"Palmyra Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Raisin Charter Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"Raisin Charter Township, Precinct 2",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"Raisin Charter Township, Precinct 3",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"Ridgeway Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,2
-Lenawee,"Riga Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Rollin Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,3
-Lenawee,"Rome Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,1
-Lenawee,"Seneca Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Tecumseh Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,0
-Lenawee,"Woodstock Township, Precinct 1",Governor,,NAT,Daryl M. Simpson,1
-Lenawee,"City of Adrian, Precinct 1",Governor,,,Unresolved write-in,1
-Lenawee,"City of Adrian, Precinct 2",Governor,,,Unresolved write-in,1
-Lenawee,"City of Adrian, Precinct 3",Governor,,,Unresolved write-in,4
-Lenawee,"City of Adrian, Precinct 4",Governor,,,Unresolved write-in,0
-Lenawee,"City of Adrian, Precinct 5",Governor,,,Unresolved write-in,0
-Lenawee,"City of Adrian, Precinct 6",Governor,,,Unresolved write-in,2
-Lenawee,"City of Hudson, Precinct 1",Governor,,,Unresolved write-in,3
-Lenawee,"City of Morenci, Precinct 1",Governor,,,Unresolved write-in,0
-Lenawee,"City of Tecumseh, Precinct 1",Governor,,,Unresolved write-in,0
-Lenawee,"City of Tecumseh, Precinct 2",Governor,,,Unresolved write-in,0
-Lenawee,"City of Tecumseh, Precinct 3",Governor,,,Unresolved write-in,1
-Lenawee,"City of Tecumseh, Precinct 4",Governor,,,Unresolved write-in,0
-Lenawee,"Adrian Township, Precinct 1",Governor,,,Unresolved write-in,1
-Lenawee,"Adrian Township, Precinct 2",Governor,,,Unresolved write-in,1
-Lenawee,"Blissfield Township, Precinct 1",Governor,,,Unresolved write-in,0
-Lenawee,"Blissfield Township, Precinct 2",Governor,,,Unresolved write-in,1
-Lenawee,"Cambridge Township, Precinct 1",Governor,,,Unresolved write-in,1
-Lenawee,"Cambridge Township, Precinct 2",Governor,,,Unresolved write-in,1
-Lenawee,"Cambridge Township, Precinct 3",Governor,,,Unresolved write-in,1
-Lenawee,"Clinton Township, Precinct 1",Governor,,,Unresolved write-in,0
-Lenawee,"Clinton Township, Precinct 2",Governor,,,Unresolved write-in,1
-Lenawee,"Deerfield Township, Precinct 1",Governor,,,Unresolved write-in,0
-Lenawee,"Dover Township, Precinct 1",Governor,,,Unresolved write-in,0
-Lenawee,"Fairfield Township, Precinct 1",Governor,,,Unresolved write-in,0
-Lenawee,"Franklin Township, Precinct 1",Governor,,,Unresolved write-in,2
-Lenawee,"Hudson Township, Precinct 1",Governor,,,Unresolved write-in,1
-Lenawee,"Macon Township, Precinct 1",Governor,,,Unresolved write-in,1
-Lenawee,"Madison Charter Township, Precinct 1",Governor,,,Unresolved write-in,2
-Lenawee,"Madison Charter Township, Precinct 2",Governor,,,Unresolved write-in,0
-Lenawee,"Madison Charter Township, Precinct 3",Governor,,,Unresolved write-in,1
-Lenawee,"Medina Township, Precinct 1",Governor,,,Unresolved write-in,0
-Lenawee,"Ogden Township, Precinct 1",Governor,,,Unresolved write-in,1
-Lenawee,"Palmyra Township, Precinct 1",Governor,,,Unresolved write-in,1
-Lenawee,"Raisin Charter Township, Precinct 1",Governor,,,Unresolved write-in,1
-Lenawee,"Raisin Charter Township, Precinct 2",Governor,,,Unresolved write-in,1
-Lenawee,"Raisin Charter Township, Precinct 3",Governor,,,Unresolved write-in,0
-Lenawee,"Ridgeway Township, Precinct 1",Governor,,,Unresolved write-in,2
-Lenawee,"Riga Township, Precinct 1",Governor,,,Unresolved write-in,1
-Lenawee,"Rollin Township, Precinct 1",Governor,,,Unresolved write-in,1
-Lenawee,"Rome Township, Precinct 1",Governor,,,Unresolved write-in,0
-Lenawee,"Seneca Township, Precinct 1",Governor,,,Unresolved write-in,0
-Lenawee,"Tecumseh Township, Precinct 1",Governor,,,Unresolved write-in,2
-Lenawee,"Woodstock Township, Precinct 1",Governor,,,Unresolved write-in,4
+Lenawee,"City of Adrian, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"City of Adrian, Precinct 2",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"City of Adrian, Precinct 3",Governor,,NLP,Daryl M. Simpson,5
+Lenawee,"City of Adrian, Precinct 4",Governor,,NLP,Daryl M. Simpson,1
+Lenawee,"City of Adrian, Precinct 5",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"City of Adrian, Precinct 6",Governor,,NLP,Daryl M. Simpson,1
+Lenawee,"City of Hudson, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"City of Morenci, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"City of Tecumseh, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"City of Tecumseh, Precinct 2",Governor,,NLP,Daryl M. Simpson,4
+Lenawee,"City of Tecumseh, Precinct 3",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"City of Tecumseh, Precinct 4",Governor,,NLP,Daryl M. Simpson,1
+Lenawee,"Adrian Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Lenawee,"Adrian Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,3
+Lenawee,"Blissfield Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Blissfield Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Cambridge Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Lenawee,"Cambridge Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Cambridge Township, Precinct 3",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"Clinton Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Lenawee,"Clinton Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,1
+Lenawee,"Deerfield Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Dover Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"Fairfield Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Franklin Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Hudson Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Macon Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"Madison Charter Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"Madison Charter Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"Madison Charter Township, Precinct 3",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Medina Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Ogden Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"Palmyra Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Raisin Charter Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"Raisin Charter Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"Raisin Charter Township, Precinct 3",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"Ridgeway Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Lenawee,"Riga Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Rollin Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,3
+Lenawee,"Rome Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Lenawee,"Seneca Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Tecumseh Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Lenawee,"Woodstock Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Lenawee,"City of Adrian, Precinct 1",Governor,,,Unresolved Write-In,1
+Lenawee,"City of Adrian, Precinct 2",Governor,,,Unresolved Write-In,1
+Lenawee,"City of Adrian, Precinct 3",Governor,,,Unresolved Write-In,4
+Lenawee,"City of Adrian, Precinct 4",Governor,,,Unresolved Write-In,0
+Lenawee,"City of Adrian, Precinct 5",Governor,,,Unresolved Write-In,0
+Lenawee,"City of Adrian, Precinct 6",Governor,,,Unresolved Write-In,2
+Lenawee,"City of Hudson, Precinct 1",Governor,,,Unresolved Write-In,3
+Lenawee,"City of Morenci, Precinct 1",Governor,,,Unresolved Write-In,0
+Lenawee,"City of Tecumseh, Precinct 1",Governor,,,Unresolved Write-In,0
+Lenawee,"City of Tecumseh, Precinct 2",Governor,,,Unresolved Write-In,0
+Lenawee,"City of Tecumseh, Precinct 3",Governor,,,Unresolved Write-In,1
+Lenawee,"City of Tecumseh, Precinct 4",Governor,,,Unresolved Write-In,0
+Lenawee,"Adrian Township, Precinct 1",Governor,,,Unresolved Write-In,1
+Lenawee,"Adrian Township, Precinct 2",Governor,,,Unresolved Write-In,1
+Lenawee,"Blissfield Township, Precinct 1",Governor,,,Unresolved Write-In,0
+Lenawee,"Blissfield Township, Precinct 2",Governor,,,Unresolved Write-In,1
+Lenawee,"Cambridge Township, Precinct 1",Governor,,,Unresolved Write-In,1
+Lenawee,"Cambridge Township, Precinct 2",Governor,,,Unresolved Write-In,1
+Lenawee,"Cambridge Township, Precinct 3",Governor,,,Unresolved Write-In,1
+Lenawee,"Clinton Township, Precinct 1",Governor,,,Unresolved Write-In,0
+Lenawee,"Clinton Township, Precinct 2",Governor,,,Unresolved Write-In,1
+Lenawee,"Deerfield Township, Precinct 1",Governor,,,Unresolved Write-In,0
+Lenawee,"Dover Township, Precinct 1",Governor,,,Unresolved Write-In,0
+Lenawee,"Fairfield Township, Precinct 1",Governor,,,Unresolved Write-In,0
+Lenawee,"Franklin Township, Precinct 1",Governor,,,Unresolved Write-In,2
+Lenawee,"Hudson Township, Precinct 1",Governor,,,Unresolved Write-In,1
+Lenawee,"Macon Township, Precinct 1",Governor,,,Unresolved Write-In,1
+Lenawee,"Madison Charter Township, Precinct 1",Governor,,,Unresolved Write-In,2
+Lenawee,"Madison Charter Township, Precinct 2",Governor,,,Unresolved Write-In,0
+Lenawee,"Madison Charter Township, Precinct 3",Governor,,,Unresolved Write-In,1
+Lenawee,"Medina Township, Precinct 1",Governor,,,Unresolved Write-In,0
+Lenawee,"Ogden Township, Precinct 1",Governor,,,Unresolved Write-In,1
+Lenawee,"Palmyra Township, Precinct 1",Governor,,,Unresolved Write-In,1
+Lenawee,"Raisin Charter Township, Precinct 1",Governor,,,Unresolved Write-In,1
+Lenawee,"Raisin Charter Township, Precinct 2",Governor,,,Unresolved Write-In,1
+Lenawee,"Raisin Charter Township, Precinct 3",Governor,,,Unresolved Write-In,0
+Lenawee,"Ridgeway Township, Precinct 1",Governor,,,Unresolved Write-In,2
+Lenawee,"Riga Township, Precinct 1",Governor,,,Unresolved Write-In,1
+Lenawee,"Rollin Township, Precinct 1",Governor,,,Unresolved Write-In,1
+Lenawee,"Rome Township, Precinct 1",Governor,,,Unresolved Write-In,0
+Lenawee,"Seneca Township, Precinct 1",Governor,,,Unresolved Write-In,0
+Lenawee,"Tecumseh Township, Precinct 1",Governor,,,Unresolved Write-In,2
+Lenawee,"Woodstock Township, Precinct 1",Governor,,,Unresolved Write-In,4
 Lenawee,"City of Adrian, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,623
 Lenawee,"City of Adrian, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,449
 Lenawee,"City of Adrian, Precinct 3",Secretary of State,,DEM,Jocelyn Benson,491
@@ -976,92 +976,92 @@ Lenawee,"Rome Township, Precinct 1",Secretary of State,,UST,Christine C. Schwart
 Lenawee,"Seneca Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,1
 Lenawee,"Tecumseh Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,8
 Lenawee,"Woodstock Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,14
-Lenawee,"City of Adrian, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4
-Lenawee,"City of Adrian, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",10
-Lenawee,"City of Adrian, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
-Lenawee,"City of Adrian, Precinct 4",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3
-Lenawee,"City of Adrian, Precinct 5",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5
-Lenawee,"City of Adrian, Precinct 6",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
-Lenawee,"City of Hudson, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3
-Lenawee,"City of Morenci, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3
-Lenawee,"City of Tecumseh, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4
-Lenawee,"City of Tecumseh, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
-Lenawee,"City of Tecumseh, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",9
-Lenawee,"City of Tecumseh, Precinct 4",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3
-Lenawee,"Adrian Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",7
-Lenawee,"Adrian Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4
-Lenawee,"Blissfield Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1
-Lenawee,"Blissfield Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
-Lenawee,"Cambridge Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",8
-Lenawee,"Cambridge Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",7
-Lenawee,"Cambridge Township, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1
-Lenawee,"Clinton Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
-Lenawee,"Clinton Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1
-Lenawee,"Deerfield Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
-Lenawee,"Dover Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3
-Lenawee,"Fairfield Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1
-Lenawee,"Franklin Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6
-Lenawee,"Hudson Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
-Lenawee,"Macon Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1
-Lenawee,"Madison Charter Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3
-Lenawee,"Madison Charter Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1
-Lenawee,"Madison Charter Township, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1
-Lenawee,"Medina Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1
-Lenawee,"Ogden Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1
-Lenawee,"Palmyra Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
-Lenawee,"Raisin Charter Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4
-Lenawee,"Raisin Charter Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3
-Lenawee,"Raisin Charter Township, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",8
-Lenawee,"Ridgeway Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
-Lenawee,"Riga Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5
-Lenawee,"Rollin Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4
-Lenawee,"Rome Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
-Lenawee,"Seneca Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
-Lenawee,"Tecumseh Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
-Lenawee,"Woodstock Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",9
-Lenawee,"City of Adrian, Precinct 1",Secretary of State,,,Unresolved write-in,2
-Lenawee,"City of Adrian, Precinct 2",Secretary of State,,,Unresolved write-in,0
-Lenawee,"City of Adrian, Precinct 3",Secretary of State,,,Unresolved write-in,4
-Lenawee,"City of Adrian, Precinct 4",Secretary of State,,,Unresolved write-in,1
-Lenawee,"City of Adrian, Precinct 5",Secretary of State,,,Unresolved write-in,1
-Lenawee,"City of Adrian, Precinct 6",Secretary of State,,,Unresolved write-in,2
-Lenawee,"City of Hudson, Precinct 1",Secretary of State,,,Unresolved write-in,3
-Lenawee,"City of Morenci, Precinct 1",Secretary of State,,,Unresolved write-in,2
-Lenawee,"City of Tecumseh, Precinct 1",Secretary of State,,,Unresolved write-in,0
-Lenawee,"City of Tecumseh, Precinct 2",Secretary of State,,,Unresolved write-in,0
-Lenawee,"City of Tecumseh, Precinct 3",Secretary of State,,,Unresolved write-in,0
-Lenawee,"City of Tecumseh, Precinct 4",Secretary of State,,,Unresolved write-in,2
-Lenawee,"Adrian Township, Precinct 1",Secretary of State,,,Unresolved write-in,2
-Lenawee,"Adrian Township, Precinct 2",Secretary of State,,,Unresolved write-in,2
-Lenawee,"Blissfield Township, Precinct 1",Secretary of State,,,Unresolved write-in,1
-Lenawee,"Blissfield Township, Precinct 2",Secretary of State,,,Unresolved write-in,1
-Lenawee,"Cambridge Township, Precinct 1",Secretary of State,,,Unresolved write-in,1
-Lenawee,"Cambridge Township, Precinct 2",Secretary of State,,,Unresolved write-in,1
-Lenawee,"Cambridge Township, Precinct 3",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Clinton Township, Precinct 1",Secretary of State,,,Unresolved write-in,1
-Lenawee,"Clinton Township, Precinct 2",Secretary of State,,,Unresolved write-in,2
-Lenawee,"Deerfield Township, Precinct 1",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Dover Township, Precinct 1",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Fairfield Township, Precinct 1",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Franklin Township, Precinct 1",Secretary of State,,,Unresolved write-in,4
-Lenawee,"Hudson Township, Precinct 1",Secretary of State,,,Unresolved write-in,1
-Lenawee,"Macon Township, Precinct 1",Secretary of State,,,Unresolved write-in,1
-Lenawee,"Madison Charter Township, Precinct 1",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Madison Charter Township, Precinct 2",Secretary of State,,,Unresolved write-in,1
-Lenawee,"Madison Charter Township, Precinct 3",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Medina Township, Precinct 1",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Ogden Township, Precinct 1",Secretary of State,,,Unresolved write-in,2
-Lenawee,"Palmyra Township, Precinct 1",Secretary of State,,,Unresolved write-in,2
-Lenawee,"Raisin Charter Township, Precinct 1",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Raisin Charter Township, Precinct 2",Secretary of State,,,Unresolved write-in,2
-Lenawee,"Raisin Charter Township, Precinct 3",Secretary of State,,,Unresolved write-in,3
-Lenawee,"Ridgeway Township, Precinct 1",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Riga Township, Precinct 1",Secretary of State,,,Unresolved write-in,1
-Lenawee,"Rollin Township, Precinct 1",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Rome Township, Precinct 1",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Seneca Township, Precinct 1",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Tecumseh Township, Precinct 1",Secretary of State,,,Unresolved write-in,0
-Lenawee,"Woodstock Township, Precinct 1",Secretary of State,,,Unresolved write-in,4
+Lenawee,"City of Adrian, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Lenawee,"City of Adrian, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,10
+Lenawee,"City of Adrian, Precinct 3",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lenawee,"City of Adrian, Precinct 4",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Lenawee,"City of Adrian, Precinct 5",Secretary of State,,GRN,Larry James Hutchinson Jr.,5
+Lenawee,"City of Adrian, Precinct 6",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lenawee,"City of Hudson, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Lenawee,"City of Morenci, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Lenawee,"City of Tecumseh, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Lenawee,"City of Tecumseh, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lenawee,"City of Tecumseh, Precinct 3",Secretary of State,,GRN,Larry James Hutchinson Jr.,9
+Lenawee,"City of Tecumseh, Precinct 4",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Lenawee,"Adrian Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,7
+Lenawee,"Adrian Township, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Lenawee,"Blissfield Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lenawee,"Blissfield Township, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lenawee,"Cambridge Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,8
+Lenawee,"Cambridge Township, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,7
+Lenawee,"Cambridge Township, Precinct 3",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lenawee,"Clinton Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lenawee,"Clinton Township, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lenawee,"Deerfield Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lenawee,"Dover Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Lenawee,"Fairfield Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lenawee,"Franklin Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,6
+Lenawee,"Hudson Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lenawee,"Macon Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lenawee,"Madison Charter Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Lenawee,"Madison Charter Township, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lenawee,"Madison Charter Township, Precinct 3",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lenawee,"Medina Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lenawee,"Ogden Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lenawee,"Palmyra Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lenawee,"Raisin Charter Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Lenawee,"Raisin Charter Township, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Lenawee,"Raisin Charter Township, Precinct 3",Secretary of State,,GRN,Larry James Hutchinson Jr.,8
+Lenawee,"Ridgeway Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lenawee,"Riga Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,5
+Lenawee,"Rollin Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Lenawee,"Rome Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lenawee,"Seneca Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lenawee,"Tecumseh Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lenawee,"Woodstock Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,9
+Lenawee,"City of Adrian, Precinct 1",Secretary of State,,,Unresolved Write-In,2
+Lenawee,"City of Adrian, Precinct 2",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"City of Adrian, Precinct 3",Secretary of State,,,Unresolved Write-In,4
+Lenawee,"City of Adrian, Precinct 4",Secretary of State,,,Unresolved Write-In,1
+Lenawee,"City of Adrian, Precinct 5",Secretary of State,,,Unresolved Write-In,1
+Lenawee,"City of Adrian, Precinct 6",Secretary of State,,,Unresolved Write-In,2
+Lenawee,"City of Hudson, Precinct 1",Secretary of State,,,Unresolved Write-In,3
+Lenawee,"City of Morenci, Precinct 1",Secretary of State,,,Unresolved Write-In,2
+Lenawee,"City of Tecumseh, Precinct 1",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"City of Tecumseh, Precinct 2",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"City of Tecumseh, Precinct 3",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"City of Tecumseh, Precinct 4",Secretary of State,,,Unresolved Write-In,2
+Lenawee,"Adrian Township, Precinct 1",Secretary of State,,,Unresolved Write-In,2
+Lenawee,"Adrian Township, Precinct 2",Secretary of State,,,Unresolved Write-In,2
+Lenawee,"Blissfield Township, Precinct 1",Secretary of State,,,Unresolved Write-In,1
+Lenawee,"Blissfield Township, Precinct 2",Secretary of State,,,Unresolved Write-In,1
+Lenawee,"Cambridge Township, Precinct 1",Secretary of State,,,Unresolved Write-In,1
+Lenawee,"Cambridge Township, Precinct 2",Secretary of State,,,Unresolved Write-In,1
+Lenawee,"Cambridge Township, Precinct 3",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Clinton Township, Precinct 1",Secretary of State,,,Unresolved Write-In,1
+Lenawee,"Clinton Township, Precinct 2",Secretary of State,,,Unresolved Write-In,2
+Lenawee,"Deerfield Township, Precinct 1",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Dover Township, Precinct 1",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Fairfield Township, Precinct 1",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Franklin Township, Precinct 1",Secretary of State,,,Unresolved Write-In,4
+Lenawee,"Hudson Township, Precinct 1",Secretary of State,,,Unresolved Write-In,1
+Lenawee,"Macon Township, Precinct 1",Secretary of State,,,Unresolved Write-In,1
+Lenawee,"Madison Charter Township, Precinct 1",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Madison Charter Township, Precinct 2",Secretary of State,,,Unresolved Write-In,1
+Lenawee,"Madison Charter Township, Precinct 3",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Medina Township, Precinct 1",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Ogden Township, Precinct 1",Secretary of State,,,Unresolved Write-In,2
+Lenawee,"Palmyra Township, Precinct 1",Secretary of State,,,Unresolved Write-In,2
+Lenawee,"Raisin Charter Township, Precinct 1",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Raisin Charter Township, Precinct 2",Secretary of State,,,Unresolved Write-In,2
+Lenawee,"Raisin Charter Township, Precinct 3",Secretary of State,,,Unresolved Write-In,3
+Lenawee,"Ridgeway Township, Precinct 1",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Riga Township, Precinct 1",Secretary of State,,,Unresolved Write-In,1
+Lenawee,"Rollin Township, Precinct 1",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Rome Township, Precinct 1",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Seneca Township, Precinct 1",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Tecumseh Township, Precinct 1",Secretary of State,,,Unresolved Write-In,0
+Lenawee,"Woodstock Township, Precinct 1",Secretary of State,,,Unresolved Write-In,4
 Lenawee,"City of Adrian, Precinct 1",Attorney General,,DEM,Dana Nessel,598
 Lenawee,"City of Adrian, Precinct 2",Attorney General,,DEM,Dana Nessel,431
 Lenawee,"City of Adrian, Precinct 3",Attorney General,,DEM,Dana Nessel,464
@@ -1148,49 +1148,49 @@ Lenawee,"Rome Township, Precinct 1",Attorney General,,REP,Matthew DePerno,646
 Lenawee,"Seneca Township, Precinct 1",Attorney General,,REP,Matthew DePerno,293
 Lenawee,"Tecumseh Township, Precinct 1",Attorney General,,REP,Matthew DePerno,652
 Lenawee,"Woodstock Township, Precinct 1",Attorney General,,REP,Matthew DePerno,1083
-Lenawee,"City of Adrian, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",16
-Lenawee,"City of Adrian, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",12
-Lenawee,"City of Adrian, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh, Jr.",13
-Lenawee,"City of Adrian, Precinct 4",Attorney General,,LIB,"Joseph W. McHugh, Jr.",16
-Lenawee,"City of Adrian, Precinct 5",Attorney General,,LIB,"Joseph W. McHugh, Jr.",13
-Lenawee,"City of Adrian, Precinct 6",Attorney General,,LIB,"Joseph W. McHugh, Jr.",21
-Lenawee,"City of Hudson, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",13
-Lenawee,"City of Morenci, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",13
-Lenawee,"City of Tecumseh, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",17
-Lenawee,"City of Tecumseh, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",13
-Lenawee,"City of Tecumseh, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh, Jr.",29
-Lenawee,"City of Tecumseh, Precinct 4",Attorney General,,LIB,"Joseph W. McHugh, Jr.",21
-Lenawee,"Adrian Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",19
-Lenawee,"Adrian Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",25
-Lenawee,"Blissfield Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",7
-Lenawee,"Blissfield Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",23
-Lenawee,"Cambridge Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",14
-Lenawee,"Cambridge Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",16
-Lenawee,"Cambridge Township, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh, Jr.",10
-Lenawee,"Clinton Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",14
-Lenawee,"Clinton Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",32
-Lenawee,"Deerfield Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",17
-Lenawee,"Dover Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",12
-Lenawee,"Fairfield Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",6
-Lenawee,"Franklin Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",22
-Lenawee,"Hudson Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",10
-Lenawee,"Macon Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",8
-Lenawee,"Madison Charter Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",17
-Lenawee,"Madison Charter Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",18
-Lenawee,"Madison Charter Township, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh, Jr.",7
-Lenawee,"Medina Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",7
-Lenawee,"Ogden Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",11
-Lenawee,"Palmyra Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",18
-Lenawee,"Raisin Charter Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",21
-Lenawee,"Raisin Charter Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",18
-Lenawee,"Raisin Charter Township, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh, Jr.",20
-Lenawee,"Ridgeway Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",15
-Lenawee,"Riga Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",11
-Lenawee,"Rollin Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",13
-Lenawee,"Rome Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",9
-Lenawee,"Seneca Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",7
-Lenawee,"Tecumseh Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",8
-Lenawee,"Woodstock Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",25
+Lenawee,"City of Adrian, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,16
+Lenawee,"City of Adrian, Precinct 2",Attorney General,,LIB,Joseph W. McHugh Jr.,12
+Lenawee,"City of Adrian, Precinct 3",Attorney General,,LIB,Joseph W. McHugh Jr.,13
+Lenawee,"City of Adrian, Precinct 4",Attorney General,,LIB,Joseph W. McHugh Jr.,16
+Lenawee,"City of Adrian, Precinct 5",Attorney General,,LIB,Joseph W. McHugh Jr.,13
+Lenawee,"City of Adrian, Precinct 6",Attorney General,,LIB,Joseph W. McHugh Jr.,21
+Lenawee,"City of Hudson, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,13
+Lenawee,"City of Morenci, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,13
+Lenawee,"City of Tecumseh, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,17
+Lenawee,"City of Tecumseh, Precinct 2",Attorney General,,LIB,Joseph W. McHugh Jr.,13
+Lenawee,"City of Tecumseh, Precinct 3",Attorney General,,LIB,Joseph W. McHugh Jr.,29
+Lenawee,"City of Tecumseh, Precinct 4",Attorney General,,LIB,Joseph W. McHugh Jr.,21
+Lenawee,"Adrian Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,19
+Lenawee,"Adrian Township, Precinct 2",Attorney General,,LIB,Joseph W. McHugh Jr.,25
+Lenawee,"Blissfield Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,7
+Lenawee,"Blissfield Township, Precinct 2",Attorney General,,LIB,Joseph W. McHugh Jr.,23
+Lenawee,"Cambridge Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,14
+Lenawee,"Cambridge Township, Precinct 2",Attorney General,,LIB,Joseph W. McHugh Jr.,16
+Lenawee,"Cambridge Township, Precinct 3",Attorney General,,LIB,Joseph W. McHugh Jr.,10
+Lenawee,"Clinton Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,14
+Lenawee,"Clinton Township, Precinct 2",Attorney General,,LIB,Joseph W. McHugh Jr.,32
+Lenawee,"Deerfield Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,17
+Lenawee,"Dover Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,12
+Lenawee,"Fairfield Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,6
+Lenawee,"Franklin Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,22
+Lenawee,"Hudson Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,10
+Lenawee,"Macon Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,8
+Lenawee,"Madison Charter Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,17
+Lenawee,"Madison Charter Township, Precinct 2",Attorney General,,LIB,Joseph W. McHugh Jr.,18
+Lenawee,"Madison Charter Township, Precinct 3",Attorney General,,LIB,Joseph W. McHugh Jr.,7
+Lenawee,"Medina Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,7
+Lenawee,"Ogden Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,11
+Lenawee,"Palmyra Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,18
+Lenawee,"Raisin Charter Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,21
+Lenawee,"Raisin Charter Township, Precinct 2",Attorney General,,LIB,Joseph W. McHugh Jr.,18
+Lenawee,"Raisin Charter Township, Precinct 3",Attorney General,,LIB,Joseph W. McHugh Jr.,20
+Lenawee,"Ridgeway Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,15
+Lenawee,"Riga Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,11
+Lenawee,"Rollin Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,13
+Lenawee,"Rome Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,9
+Lenawee,"Seneca Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,7
+Lenawee,"Tecumseh Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,8
+Lenawee,"Woodstock Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,25
 Lenawee,"City of Adrian, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,4
 Lenawee,"City of Adrian, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,18
 Lenawee,"City of Adrian, Precinct 3",Attorney General,,UST,Gerald T. Van Sickle,15
@@ -1234,49 +1234,49 @@ Lenawee,"Rome Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,9
 Lenawee,"Seneca Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,2
 Lenawee,"Tecumseh Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,8
 Lenawee,"Woodstock Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,19
-Lenawee,"City of Adrian, Precinct 1",Attorney General,,,Unresolved write-in,2
-Lenawee,"City of Adrian, Precinct 2",Attorney General,,,Unresolved write-in,0
-Lenawee,"City of Adrian, Precinct 3",Attorney General,,,Unresolved write-in,5
-Lenawee,"City of Adrian, Precinct 4",Attorney General,,,Unresolved write-in,2
-Lenawee,"City of Adrian, Precinct 5",Attorney General,,,Unresolved write-in,2
-Lenawee,"City of Adrian, Precinct 6",Attorney General,,,Unresolved write-in,2
-Lenawee,"City of Hudson, Precinct 1",Attorney General,,,Unresolved write-in,2
-Lenawee,"City of Morenci, Precinct 1",Attorney General,,,Unresolved write-in,1
-Lenawee,"City of Tecumseh, Precinct 1",Attorney General,,,Unresolved write-in,1
-Lenawee,"City of Tecumseh, Precinct 2",Attorney General,,,Unresolved write-in,0
-Lenawee,"City of Tecumseh, Precinct 3",Attorney General,,,Unresolved write-in,1
-Lenawee,"City of Tecumseh, Precinct 4",Attorney General,,,Unresolved write-in,2
-Lenawee,"Adrian Township, Precinct 1",Attorney General,,,Unresolved write-in,3
-Lenawee,"Adrian Township, Precinct 2",Attorney General,,,Unresolved write-in,3
-Lenawee,"Blissfield Township, Precinct 1",Attorney General,,,Unresolved write-in,0
-Lenawee,"Blissfield Township, Precinct 2",Attorney General,,,Unresolved write-in,2
-Lenawee,"Cambridge Township, Precinct 1",Attorney General,,,Unresolved write-in,1
-Lenawee,"Cambridge Township, Precinct 2",Attorney General,,,Unresolved write-in,1
-Lenawee,"Cambridge Township, Precinct 3",Attorney General,,,Unresolved write-in,1
-Lenawee,"Clinton Township, Precinct 1",Attorney General,,,Unresolved write-in,2
-Lenawee,"Clinton Township, Precinct 2",Attorney General,,,Unresolved write-in,3
-Lenawee,"Deerfield Township, Precinct 1",Attorney General,,,Unresolved write-in,1
-Lenawee,"Dover Township, Precinct 1",Attorney General,,,Unresolved write-in,0
-Lenawee,"Fairfield Township, Precinct 1",Attorney General,,,Unresolved write-in,0
-Lenawee,"Franklin Township, Precinct 1",Attorney General,,,Unresolved write-in,3
-Lenawee,"Hudson Township, Precinct 1",Attorney General,,,Unresolved write-in,0
-Lenawee,"Macon Township, Precinct 1",Attorney General,,,Unresolved write-in,2
-Lenawee,"Madison Charter Township, Precinct 1",Attorney General,,,Unresolved write-in,2
-Lenawee,"Madison Charter Township, Precinct 2",Attorney General,,,Unresolved write-in,3
-Lenawee,"Madison Charter Township, Precinct 3",Attorney General,,,Unresolved write-in,0
-Lenawee,"Medina Township, Precinct 1",Attorney General,,,Unresolved write-in,0
-Lenawee,"Ogden Township, Precinct 1",Attorney General,,,Unresolved write-in,2
-Lenawee,"Palmyra Township, Precinct 1",Attorney General,,,Unresolved write-in,2
-Lenawee,"Raisin Charter Township, Precinct 1",Attorney General,,,Unresolved write-in,1
-Lenawee,"Raisin Charter Township, Precinct 2",Attorney General,,,Unresolved write-in,1
-Lenawee,"Raisin Charter Township, Precinct 3",Attorney General,,,Unresolved write-in,4
-Lenawee,"Ridgeway Township, Precinct 1",Attorney General,,,Unresolved write-in,2
-Lenawee,"Riga Township, Precinct 1",Attorney General,,,Unresolved write-in,1
-Lenawee,"Rollin Township, Precinct 1",Attorney General,,,Unresolved write-in,0
-Lenawee,"Rome Township, Precinct 1",Attorney General,,,Unresolved write-in,2
-Lenawee,"Seneca Township, Precinct 1",Attorney General,,,Unresolved write-in,0
-Lenawee,"Tecumseh Township, Precinct 1",Attorney General,,,Unresolved write-in,0
-Lenawee,"Woodstock Township, Precinct 1",Attorney General,,,Unresolved write-in,5
+Lenawee,"City of Adrian, Precinct 1",Attorney General,,,Unresolved Write-In,2
+Lenawee,"City of Adrian, Precinct 2",Attorney General,,,Unresolved Write-In,0
+Lenawee,"City of Adrian, Precinct 3",Attorney General,,,Unresolved Write-In,5
+Lenawee,"City of Adrian, Precinct 4",Attorney General,,,Unresolved Write-In,2
+Lenawee,"City of Adrian, Precinct 5",Attorney General,,,Unresolved Write-In,2
+Lenawee,"City of Adrian, Precinct 6",Attorney General,,,Unresolved Write-In,2
+Lenawee,"City of Hudson, Precinct 1",Attorney General,,,Unresolved Write-In,2
+Lenawee,"City of Morenci, Precinct 1",Attorney General,,,Unresolved Write-In,1
+Lenawee,"City of Tecumseh, Precinct 1",Attorney General,,,Unresolved Write-In,1
+Lenawee,"City of Tecumseh, Precinct 2",Attorney General,,,Unresolved Write-In,0
+Lenawee,"City of Tecumseh, Precinct 3",Attorney General,,,Unresolved Write-In,1
+Lenawee,"City of Tecumseh, Precinct 4",Attorney General,,,Unresolved Write-In,2
+Lenawee,"Adrian Township, Precinct 1",Attorney General,,,Unresolved Write-In,3
+Lenawee,"Adrian Township, Precinct 2",Attorney General,,,Unresolved Write-In,3
+Lenawee,"Blissfield Township, Precinct 1",Attorney General,,,Unresolved Write-In,0
+Lenawee,"Blissfield Township, Precinct 2",Attorney General,,,Unresolved Write-In,2
+Lenawee,"Cambridge Township, Precinct 1",Attorney General,,,Unresolved Write-In,1
+Lenawee,"Cambridge Township, Precinct 2",Attorney General,,,Unresolved Write-In,1
+Lenawee,"Cambridge Township, Precinct 3",Attorney General,,,Unresolved Write-In,1
+Lenawee,"Clinton Township, Precinct 1",Attorney General,,,Unresolved Write-In,2
+Lenawee,"Clinton Township, Precinct 2",Attorney General,,,Unresolved Write-In,3
+Lenawee,"Deerfield Township, Precinct 1",Attorney General,,,Unresolved Write-In,1
+Lenawee,"Dover Township, Precinct 1",Attorney General,,,Unresolved Write-In,0
+Lenawee,"Fairfield Township, Precinct 1",Attorney General,,,Unresolved Write-In,0
+Lenawee,"Franklin Township, Precinct 1",Attorney General,,,Unresolved Write-In,3
+Lenawee,"Hudson Township, Precinct 1",Attorney General,,,Unresolved Write-In,0
+Lenawee,"Macon Township, Precinct 1",Attorney General,,,Unresolved Write-In,2
+Lenawee,"Madison Charter Township, Precinct 1",Attorney General,,,Unresolved Write-In,2
+Lenawee,"Madison Charter Township, Precinct 2",Attorney General,,,Unresolved Write-In,3
+Lenawee,"Madison Charter Township, Precinct 3",Attorney General,,,Unresolved Write-In,0
+Lenawee,"Medina Township, Precinct 1",Attorney General,,,Unresolved Write-In,0
+Lenawee,"Ogden Township, Precinct 1",Attorney General,,,Unresolved Write-In,2
+Lenawee,"Palmyra Township, Precinct 1",Attorney General,,,Unresolved Write-In,2
+Lenawee,"Raisin Charter Township, Precinct 1",Attorney General,,,Unresolved Write-In,1
+Lenawee,"Raisin Charter Township, Precinct 2",Attorney General,,,Unresolved Write-In,1
+Lenawee,"Raisin Charter Township, Precinct 3",Attorney General,,,Unresolved Write-In,4
+Lenawee,"Ridgeway Township, Precinct 1",Attorney General,,,Unresolved Write-In,2
+Lenawee,"Riga Township, Precinct 1",Attorney General,,,Unresolved Write-In,1
+Lenawee,"Rollin Township, Precinct 1",Attorney General,,,Unresolved Write-In,0
+Lenawee,"Rome Township, Precinct 1",Attorney General,,,Unresolved Write-In,2
+Lenawee,"Seneca Township, Precinct 1",Attorney General,,,Unresolved Write-In,0
+Lenawee,"Tecumseh Township, Precinct 1",Attorney General,,,Unresolved Write-In,0
+Lenawee,"Woodstock Township, Precinct 1",Attorney General,,,Unresolved Write-In,5
 Lenawee,"City of Adrian, Precinct 1",U.S. House,5,DEM,Bart Goldberg,577
 Lenawee,"City of Adrian, Precinct 2",U.S. House,5,DEM,Bart Goldberg,420
 Lenawee,"City of Adrian, Precinct 3",U.S. House,5,DEM,Bart Goldberg,457
@@ -1449,49 +1449,49 @@ Lenawee,"Rome Township, Precinct 1",U.S. House,5,UST,Ezra Scott,2
 Lenawee,"Seneca Township, Precinct 1",U.S. House,5,UST,Ezra Scott,0
 Lenawee,"Tecumseh Township, Precinct 1",U.S. House,5,UST,Ezra Scott,7
 Lenawee,"Woodstock Township, Precinct 1",U.S. House,5,UST,Ezra Scott,14
-Lenawee,"City of Adrian, Precinct 1",U.S. House,5,,Unresolved write-in,4
-Lenawee,"City of Adrian, Precinct 2",U.S. House,5,,Unresolved write-in,1
-Lenawee,"City of Adrian, Precinct 3",U.S. House,5,,Unresolved write-in,4
-Lenawee,"City of Adrian, Precinct 4",U.S. House,5,,Unresolved write-in,2
-Lenawee,"City of Adrian, Precinct 5",U.S. House,5,,Unresolved write-in,1
-Lenawee,"City of Adrian, Precinct 6",U.S. House,5,,Unresolved write-in,2
-Lenawee,"City of Hudson, Precinct 1",U.S. House,5,,Unresolved write-in,2
-Lenawee,"City of Morenci, Precinct 1",U.S. House,5,,Unresolved write-in,1
-Lenawee,"City of Tecumseh, Precinct 1",U.S. House,5,,Unresolved write-in,0
-Lenawee,"City of Tecumseh, Precinct 2",U.S. House,5,,Unresolved write-in,1
-Lenawee,"City of Tecumseh, Precinct 3",U.S. House,5,,Unresolved write-in,0
-Lenawee,"City of Tecumseh, Precinct 4",U.S. House,5,,Unresolved write-in,3
-Lenawee,"Adrian Township, Precinct 1",U.S. House,5,,Unresolved write-in,2
-Lenawee,"Adrian Township, Precinct 2",U.S. House,5,,Unresolved write-in,2
-Lenawee,"Blissfield Township, Precinct 1",U.S. House,5,,Unresolved write-in,0
-Lenawee,"Blissfield Township, Precinct 2",U.S. House,5,,Unresolved write-in,1
-Lenawee,"Cambridge Township, Precinct 1",U.S. House,5,,Unresolved write-in,0
-Lenawee,"Cambridge Township, Precinct 2",U.S. House,5,,Unresolved write-in,1
-Lenawee,"Cambridge Township, Precinct 3",U.S. House,5,,Unresolved write-in,0
-Lenawee,"Clinton Township, Precinct 1",U.S. House,5,,Unresolved write-in,2
-Lenawee,"Clinton Township, Precinct 2",U.S. House,5,,Unresolved write-in,2
-Lenawee,"Deerfield Township, Precinct 1",U.S. House,5,,Unresolved write-in,0
-Lenawee,"Dover Township, Precinct 1",U.S. House,5,,Unresolved write-in,0
-Lenawee,"Fairfield Township, Precinct 1",U.S. House,5,,Unresolved write-in,0
-Lenawee,"Franklin Township, Precinct 1",U.S. House,5,,Unresolved write-in,3
-Lenawee,"Hudson Township, Precinct 1",U.S. House,5,,Unresolved write-in,0
-Lenawee,"Macon Township, Precinct 1",U.S. House,5,,Unresolved write-in,2
-Lenawee,"Madison Charter Township, Precinct 1",U.S. House,5,,Unresolved write-in,2
-Lenawee,"Madison Charter Township, Precinct 2",U.S. House,5,,Unresolved write-in,1
-Lenawee,"Madison Charter Township, Precinct 3",U.S. House,5,,Unresolved write-in,1
-Lenawee,"Medina Township, Precinct 1",U.S. House,5,,Unresolved write-in,0
-Lenawee,"Ogden Township, Precinct 1",U.S. House,5,,Unresolved write-in,2
-Lenawee,"Palmyra Township, Precinct 1",U.S. House,5,,Unresolved write-in,2
-Lenawee,"Raisin Charter Township, Precinct 1",U.S. House,5,,Unresolved write-in,0
-Lenawee,"Raisin Charter Township, Precinct 2",U.S. House,5,,Unresolved write-in,1
-Lenawee,"Raisin Charter Township, Precinct 3",U.S. House,5,,Unresolved write-in,4
-Lenawee,"Ridgeway Township, Precinct 1",U.S. House,5,,Unresolved write-in,2
-Lenawee,"Riga Township, Precinct 1",U.S. House,5,,Unresolved write-in,2
-Lenawee,"Rollin Township, Precinct 1",U.S. House,5,,Unresolved write-in,1
-Lenawee,"Rome Township, Precinct 1",U.S. House,5,,Unresolved write-in,1
-Lenawee,"Seneca Township, Precinct 1",U.S. House,5,,Unresolved write-in,0
-Lenawee,"Tecumseh Township, Precinct 1",U.S. House,5,,Unresolved write-in,0
-Lenawee,"Woodstock Township, Precinct 1",U.S. House,5,,Unresolved write-in,6
+Lenawee,"City of Adrian, Precinct 1",U.S. House,5,,Unresolved Write-In,4
+Lenawee,"City of Adrian, Precinct 2",U.S. House,5,,Unresolved Write-In,1
+Lenawee,"City of Adrian, Precinct 3",U.S. House,5,,Unresolved Write-In,4
+Lenawee,"City of Adrian, Precinct 4",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"City of Adrian, Precinct 5",U.S. House,5,,Unresolved Write-In,1
+Lenawee,"City of Adrian, Precinct 6",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"City of Hudson, Precinct 1",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"City of Morenci, Precinct 1",U.S. House,5,,Unresolved Write-In,1
+Lenawee,"City of Tecumseh, Precinct 1",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"City of Tecumseh, Precinct 2",U.S. House,5,,Unresolved Write-In,1
+Lenawee,"City of Tecumseh, Precinct 3",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"City of Tecumseh, Precinct 4",U.S. House,5,,Unresolved Write-In,3
+Lenawee,"Adrian Township, Precinct 1",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"Adrian Township, Precinct 2",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"Blissfield Township, Precinct 1",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"Blissfield Township, Precinct 2",U.S. House,5,,Unresolved Write-In,1
+Lenawee,"Cambridge Township, Precinct 1",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"Cambridge Township, Precinct 2",U.S. House,5,,Unresolved Write-In,1
+Lenawee,"Cambridge Township, Precinct 3",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"Clinton Township, Precinct 1",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"Clinton Township, Precinct 2",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"Deerfield Township, Precinct 1",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"Dover Township, Precinct 1",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"Fairfield Township, Precinct 1",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"Franklin Township, Precinct 1",U.S. House,5,,Unresolved Write-In,3
+Lenawee,"Hudson Township, Precinct 1",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"Macon Township, Precinct 1",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"Madison Charter Township, Precinct 1",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"Madison Charter Township, Precinct 2",U.S. House,5,,Unresolved Write-In,1
+Lenawee,"Madison Charter Township, Precinct 3",U.S. House,5,,Unresolved Write-In,1
+Lenawee,"Medina Township, Precinct 1",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"Ogden Township, Precinct 1",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"Palmyra Township, Precinct 1",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"Raisin Charter Township, Precinct 1",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"Raisin Charter Township, Precinct 2",U.S. House,5,,Unresolved Write-In,1
+Lenawee,"Raisin Charter Township, Precinct 3",U.S. House,5,,Unresolved Write-In,4
+Lenawee,"Ridgeway Township, Precinct 1",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"Riga Township, Precinct 1",U.S. House,5,,Unresolved Write-In,2
+Lenawee,"Rollin Township, Precinct 1",U.S. House,5,,Unresolved Write-In,1
+Lenawee,"Rome Township, Precinct 1",U.S. House,5,,Unresolved Write-In,1
+Lenawee,"Seneca Township, Precinct 1",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"Tecumseh Township, Precinct 1",U.S. House,5,,Unresolved Write-In,0
+Lenawee,"Woodstock Township, Precinct 1",U.S. House,5,,Unresolved Write-In,6
 Lenawee,"City of Tecumseh, Precinct 1",State Senate,15,DEM,Jeff Irwin,606
 Lenawee,"City of Tecumseh, Precinct 2",State Senate,15,DEM,Jeff Irwin,570
 Lenawee,"City of Tecumseh, Precinct 3",State Senate,15,DEM,Jeff Irwin,577
@@ -1508,14 +1508,14 @@ Lenawee,"Clinton Township, Precinct 1",State Senate,15,REP,Scott Price,457
 Lenawee,"Clinton Township, Precinct 2",State Senate,15,REP,Scott Price,552
 Lenawee,"Macon Township, Precinct 1",State Senate,15,REP,Scott Price,535
 Lenawee,"Tecumseh Township, Precinct 1",State Senate,15,REP,Scott Price,666
-Lenawee,"City of Tecumseh, Precinct 1",State Senate,15,,Unresolved write-in,1
-Lenawee,"City of Tecumseh, Precinct 2",State Senate,15,,Unresolved write-in,3
-Lenawee,"City of Tecumseh, Precinct 3",State Senate,15,,Unresolved write-in,2
-Lenawee,"City of Tecumseh, Precinct 4",State Senate,15,,Unresolved write-in,3
-Lenawee,"Clinton Township, Precinct 1",State Senate,15,,Unresolved write-in,4
-Lenawee,"Clinton Township, Precinct 2",State Senate,15,,Unresolved write-in,5
-Lenawee,"Macon Township, Precinct 1",State Senate,15,,Unresolved write-in,5
-Lenawee,"Tecumseh Township, Precinct 1",State Senate,15,,Unresolved write-in,3
+Lenawee,"City of Tecumseh, Precinct 1",State Senate,15,,Unresolved Write-In,1
+Lenawee,"City of Tecumseh, Precinct 2",State Senate,15,,Unresolved Write-In,3
+Lenawee,"City of Tecumseh, Precinct 3",State Senate,15,,Unresolved Write-In,2
+Lenawee,"City of Tecumseh, Precinct 4",State Senate,15,,Unresolved Write-In,3
+Lenawee,"Clinton Township, Precinct 1",State Senate,15,,Unresolved Write-In,4
+Lenawee,"Clinton Township, Precinct 2",State Senate,15,,Unresolved Write-In,5
+Lenawee,"Macon Township, Precinct 1",State Senate,15,,Unresolved Write-In,5
+Lenawee,"Tecumseh Township, Precinct 1",State Senate,15,,Unresolved Write-In,3
 Lenawee,"City of Adrian, Precinct 1",State Senate,16,DEM,Katybeth Davis,594
 Lenawee,"City of Adrian, Precinct 2",State Senate,16,DEM,Katybeth Davis,437
 Lenawee,"City of Adrian, Precinct 3",State Senate,16,DEM,Katybeth Davis,479
@@ -1551,88 +1551,88 @@ Lenawee,"Rollin Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,473
 Lenawee,"Rome Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,201
 Lenawee,"Seneca Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,128
 Lenawee,"Woodstock Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,510
-Lenawee,"City of Adrian, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",296
-Lenawee,"City of Adrian, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",302
-Lenawee,"City of Adrian, Precinct 3",State Senate,16,REP,"Joseph Bellino, Jr.",372
-Lenawee,"City of Adrian, Precinct 4",State Senate,16,REP,"Joseph Bellino, Jr.",605
-Lenawee,"City of Adrian, Precinct 5",State Senate,16,REP,"Joseph Bellino, Jr.",402
-Lenawee,"City of Adrian, Precinct 6",State Senate,16,REP,"Joseph Bellino, Jr.",461
-Lenawee,"City of Hudson, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",456
-Lenawee,"City of Morenci, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",430
-Lenawee,"Adrian Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",1038
-Lenawee,"Adrian Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",901
-Lenawee,"Blissfield Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",233
-Lenawee,"Blissfield Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",886
-Lenawee,"Cambridge Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",795
-Lenawee,"Cambridge Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",649
-Lenawee,"Cambridge Township, Precinct 3",State Senate,16,REP,"Joseph Bellino, Jr.",567
-Lenawee,"Deerfield Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",476
-Lenawee,"Dover Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",487
-Lenawee,"Fairfield Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",489
-Lenawee,"Franklin Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",1086
-Lenawee,"Hudson Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",518
-Lenawee,"Madison Charter Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",437
-Lenawee,"Madison Charter Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",648
-Lenawee,"Madison Charter Township, Precinct 3",State Senate,16,REP,"Joseph Bellino, Jr.",471
-Lenawee,"Medina Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",324
-Lenawee,"Ogden Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",350
-Lenawee,"Palmyra Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",646
-Lenawee,"Raisin Charter Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",911
-Lenawee,"Raisin Charter Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",633
-Lenawee,"Raisin Charter Township, Precinct 3",State Senate,16,REP,"Joseph Bellino, Jr.",685
-Lenawee,"Ridgeway Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",474
-Lenawee,"Riga Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",462
-Lenawee,"Rollin Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",1041
-Lenawee,"Rome Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",664
-Lenawee,"Seneca Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",296
-Lenawee,"Woodstock Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",1116
-Lenawee,"City of Adrian, Precinct 1",State Senate,16,,Unresolved write-in,6
-Lenawee,"City of Adrian, Precinct 2",State Senate,16,,Unresolved write-in,3
-Lenawee,"City of Adrian, Precinct 3",State Senate,16,,Unresolved write-in,5
-Lenawee,"City of Adrian, Precinct 4",State Senate,16,,Unresolved write-in,9
-Lenawee,"City of Adrian, Precinct 5",State Senate,16,,Unresolved write-in,4
-Lenawee,"City of Adrian, Precinct 6",State Senate,16,,Unresolved write-in,6
-Lenawee,"City of Hudson, Precinct 1",State Senate,16,,Unresolved write-in,5
-Lenawee,"City of Morenci, Precinct 1",State Senate,16,,Unresolved write-in,5
-Lenawee,"Adrian Township, Precinct 1",State Senate,16,,Unresolved write-in,8
-Lenawee,"Adrian Township, Precinct 2",State Senate,16,,Unresolved write-in,12
-Lenawee,"Blissfield Township, Precinct 1",State Senate,16,,Unresolved write-in,0
-Lenawee,"Blissfield Township, Precinct 2",State Senate,16,,Unresolved write-in,6
-Lenawee,"Cambridge Township, Precinct 1",State Senate,16,,Unresolved write-in,3
-Lenawee,"Cambridge Township, Precinct 2",State Senate,16,,Unresolved write-in,4
-Lenawee,"Cambridge Township, Precinct 3",State Senate,16,,Unresolved write-in,4
-Lenawee,"Deerfield Township, Precinct 1",State Senate,16,,Unresolved write-in,3
-Lenawee,"Dover Township, Precinct 1",State Senate,16,,Unresolved write-in,8
-Lenawee,"Fairfield Township, Precinct 1",State Senate,16,,Unresolved write-in,1
-Lenawee,"Franklin Township, Precinct 1",State Senate,16,,Unresolved write-in,8
-Lenawee,"Hudson Township, Precinct 1",State Senate,16,,Unresolved write-in,2
-Lenawee,"Madison Charter Township, Precinct 1",State Senate,16,,Unresolved write-in,5
-Lenawee,"Madison Charter Township, Precinct 2",State Senate,16,,Unresolved write-in,3
-Lenawee,"Madison Charter Township, Precinct 3",State Senate,16,,Unresolved write-in,3
-Lenawee,"Medina Township, Precinct 1",State Senate,16,,Unresolved write-in,1
-Lenawee,"Ogden Township, Precinct 1",State Senate,16,,Unresolved write-in,3
-Lenawee,"Palmyra Township, Precinct 1",State Senate,16,,Unresolved write-in,4
-Lenawee,"Raisin Charter Township, Precinct 1",State Senate,16,,Unresolved write-in,8
-Lenawee,"Raisin Charter Township, Precinct 2",State Senate,16,,Unresolved write-in,4
-Lenawee,"Raisin Charter Township, Precinct 3",State Senate,16,,Unresolved write-in,6
-Lenawee,"Ridgeway Township, Precinct 1",State Senate,16,,Unresolved write-in,4
-Lenawee,"Riga Township, Precinct 1",State Senate,16,,Unresolved write-in,2
-Lenawee,"Rollin Township, Precinct 1",State Senate,16,,Unresolved write-in,6
-Lenawee,"Rome Township, Precinct 1",State Senate,16,,Unresolved write-in,6
-Lenawee,"Seneca Township, Precinct 1",State Senate,16,,Unresolved write-in,2
-Lenawee,"Woodstock Township, Precinct 1",State Senate,16,,Unresolved write-in,17
+Lenawee,"City of Adrian, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,296
+Lenawee,"City of Adrian, Precinct 2",State Senate,16,REP,Joseph Bellino Jr.,302
+Lenawee,"City of Adrian, Precinct 3",State Senate,16,REP,Joseph Bellino Jr.,372
+Lenawee,"City of Adrian, Precinct 4",State Senate,16,REP,Joseph Bellino Jr.,605
+Lenawee,"City of Adrian, Precinct 5",State Senate,16,REP,Joseph Bellino Jr.,402
+Lenawee,"City of Adrian, Precinct 6",State Senate,16,REP,Joseph Bellino Jr.,461
+Lenawee,"City of Hudson, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,456
+Lenawee,"City of Morenci, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,430
+Lenawee,"Adrian Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,1038
+Lenawee,"Adrian Township, Precinct 2",State Senate,16,REP,Joseph Bellino Jr.,901
+Lenawee,"Blissfield Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,233
+Lenawee,"Blissfield Township, Precinct 2",State Senate,16,REP,Joseph Bellino Jr.,886
+Lenawee,"Cambridge Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,795
+Lenawee,"Cambridge Township, Precinct 2",State Senate,16,REP,Joseph Bellino Jr.,649
+Lenawee,"Cambridge Township, Precinct 3",State Senate,16,REP,Joseph Bellino Jr.,567
+Lenawee,"Deerfield Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,476
+Lenawee,"Dover Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,487
+Lenawee,"Fairfield Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,489
+Lenawee,"Franklin Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,1086
+Lenawee,"Hudson Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,518
+Lenawee,"Madison Charter Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,437
+Lenawee,"Madison Charter Township, Precinct 2",State Senate,16,REP,Joseph Bellino Jr.,648
+Lenawee,"Madison Charter Township, Precinct 3",State Senate,16,REP,Joseph Bellino Jr.,471
+Lenawee,"Medina Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,324
+Lenawee,"Ogden Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,350
+Lenawee,"Palmyra Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,646
+Lenawee,"Raisin Charter Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,911
+Lenawee,"Raisin Charter Township, Precinct 2",State Senate,16,REP,Joseph Bellino Jr.,633
+Lenawee,"Raisin Charter Township, Precinct 3",State Senate,16,REP,Joseph Bellino Jr.,685
+Lenawee,"Ridgeway Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,474
+Lenawee,"Riga Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,462
+Lenawee,"Rollin Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,1041
+Lenawee,"Rome Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,664
+Lenawee,"Seneca Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,296
+Lenawee,"Woodstock Township, Precinct 1",State Senate,16,REP,Joseph Bellino Jr.,1116
+Lenawee,"City of Adrian, Precinct 1",State Senate,16,,Unresolved Write-In,6
+Lenawee,"City of Adrian, Precinct 2",State Senate,16,,Unresolved Write-In,3
+Lenawee,"City of Adrian, Precinct 3",State Senate,16,,Unresolved Write-In,5
+Lenawee,"City of Adrian, Precinct 4",State Senate,16,,Unresolved Write-In,9
+Lenawee,"City of Adrian, Precinct 5",State Senate,16,,Unresolved Write-In,4
+Lenawee,"City of Adrian, Precinct 6",State Senate,16,,Unresolved Write-In,6
+Lenawee,"City of Hudson, Precinct 1",State Senate,16,,Unresolved Write-In,5
+Lenawee,"City of Morenci, Precinct 1",State Senate,16,,Unresolved Write-In,5
+Lenawee,"Adrian Township, Precinct 1",State Senate,16,,Unresolved Write-In,8
+Lenawee,"Adrian Township, Precinct 2",State Senate,16,,Unresolved Write-In,12
+Lenawee,"Blissfield Township, Precinct 1",State Senate,16,,Unresolved Write-In,0
+Lenawee,"Blissfield Township, Precinct 2",State Senate,16,,Unresolved Write-In,6
+Lenawee,"Cambridge Township, Precinct 1",State Senate,16,,Unresolved Write-In,3
+Lenawee,"Cambridge Township, Precinct 2",State Senate,16,,Unresolved Write-In,4
+Lenawee,"Cambridge Township, Precinct 3",State Senate,16,,Unresolved Write-In,4
+Lenawee,"Deerfield Township, Precinct 1",State Senate,16,,Unresolved Write-In,3
+Lenawee,"Dover Township, Precinct 1",State Senate,16,,Unresolved Write-In,8
+Lenawee,"Fairfield Township, Precinct 1",State Senate,16,,Unresolved Write-In,1
+Lenawee,"Franklin Township, Precinct 1",State Senate,16,,Unresolved Write-In,8
+Lenawee,"Hudson Township, Precinct 1",State Senate,16,,Unresolved Write-In,2
+Lenawee,"Madison Charter Township, Precinct 1",State Senate,16,,Unresolved Write-In,5
+Lenawee,"Madison Charter Township, Precinct 2",State Senate,16,,Unresolved Write-In,3
+Lenawee,"Madison Charter Township, Precinct 3",State Senate,16,,Unresolved Write-In,3
+Lenawee,"Medina Township, Precinct 1",State Senate,16,,Unresolved Write-In,1
+Lenawee,"Ogden Township, Precinct 1",State Senate,16,,Unresolved Write-In,3
+Lenawee,"Palmyra Township, Precinct 1",State Senate,16,,Unresolved Write-In,4
+Lenawee,"Raisin Charter Township, Precinct 1",State Senate,16,,Unresolved Write-In,8
+Lenawee,"Raisin Charter Township, Precinct 2",State Senate,16,,Unresolved Write-In,4
+Lenawee,"Raisin Charter Township, Precinct 3",State Senate,16,,Unresolved Write-In,6
+Lenawee,"Ridgeway Township, Precinct 1",State Senate,16,,Unresolved Write-In,4
+Lenawee,"Riga Township, Precinct 1",State Senate,16,,Unresolved Write-In,2
+Lenawee,"Rollin Township, Precinct 1",State Senate,16,,Unresolved Write-In,6
+Lenawee,"Rome Township, Precinct 1",State Senate,16,,Unresolved Write-In,6
+Lenawee,"Seneca Township, Precinct 1",State Senate,16,,Unresolved Write-In,2
+Lenawee,"Woodstock Township, Precinct 1",State Senate,16,,Unresolved Write-In,17
 Lenawee,"Blissfield Township, Precinct 1",State House,30,DEM,Suzanne Jennens,27
 Lenawee,"Deerfield Township, Precinct 1",State House,30,DEM,Suzanne Jennens,196
 Lenawee,"Ridgeway Township, Precinct 1",State House,30,DEM,Suzanne Jennens,190
 Lenawee,"Blissfield Township, Precinct 1",State House,30,REP,William Bruck,101
 Lenawee,"Deerfield Township, Precinct 1",State House,30,REP,William Bruck,487
 Lenawee,"Ridgeway Township, Precinct 1",State House,30,REP,William Bruck,473
-Lenawee,"Blissfield Township, Precinct 1",State House,30,,Unresolved write-in,0
-Lenawee,"Deerfield Township, Precinct 1",State House,30,,Unresolved write-in,4
-Lenawee,"Ridgeway Township, Precinct 1",State House,30,,Unresolved write-in,3
+Lenawee,"Blissfield Township, Precinct 1",State House,30,,Unresolved Write-In,0
+Lenawee,"Deerfield Township, Precinct 1",State House,30,,Unresolved Write-In,4
+Lenawee,"Ridgeway Township, Precinct 1",State House,30,,Unresolved Write-In,3
 Lenawee,"Macon Township, Precinct 1",State House,31,DEM,Reggie Miller,227
 Lenawee,"Macon Township, Precinct 1",State House,31,REP,Dale Biniecki,546
-Lenawee,"Macon Township, Precinct 1",State House,31,,Unresolved write-in,8
+Lenawee,"Macon Township, Precinct 1",State House,31,,Unresolved Write-In,8
 Lenawee,"City of Adrian, Precinct 1",State House,34,DEM,John E. Dahlgren,562
 Lenawee,"City of Adrian, Precinct 2",State House,34,DEM,John E. Dahlgren,414
 Lenawee,"City of Adrian, Precinct 3",State House,34,DEM,John E. Dahlgren,458
@@ -1711,48 +1711,48 @@ Lenawee,"Rome Township, Precinct 1",State House,34,REP,Dale W. Zorn,685
 Lenawee,"Seneca Township, Precinct 1",State House,34,REP,Dale W. Zorn,304
 Lenawee,"Tecumseh Township, Precinct 1",State House,34,REP,Dale W. Zorn,702
 Lenawee,"Woodstock Township, Precinct 1",State House,34,REP,Dale W. Zorn,1166
-Lenawee,"City of Adrian, Precinct 1",State House,34,,Unresolved write-in,6
-Lenawee,"City of Adrian, Precinct 2",State House,34,,Unresolved write-in,4
-Lenawee,"City of Adrian, Precinct 3",State House,34,,Unresolved write-in,6
-Lenawee,"City of Adrian, Precinct 4",State House,34,,Unresolved write-in,9
-Lenawee,"City of Adrian, Precinct 5",State House,34,,Unresolved write-in,4
-Lenawee,"City of Adrian, Precinct 6",State House,34,,Unresolved write-in,3
-Lenawee,"City of Morenci, Precinct 1",State House,34,,Unresolved write-in,4
-Lenawee,"City of Tecumseh, Precinct 1",State House,34,,Unresolved write-in,2
-Lenawee,"City of Tecumseh, Precinct 2",State House,34,,Unresolved write-in,1
-Lenawee,"City of Tecumseh, Precinct 3",State House,34,,Unresolved write-in,4
-Lenawee,"City of Tecumseh, Precinct 4",State House,34,,Unresolved write-in,3
-Lenawee,"Adrian Township, Precinct 1",State House,34,,Unresolved write-in,5
-Lenawee,"Adrian Township, Precinct 2",State House,34,,Unresolved write-in,6
-Lenawee,"Blissfield Township, Precinct 1",State House,34,,Unresolved write-in,1
-Lenawee,"Blissfield Township, Precinct 2",State House,34,,Unresolved write-in,4
-Lenawee,"Cambridge Township, Precinct 1",State House,34,,Unresolved write-in,4
-Lenawee,"Cambridge Township, Precinct 2",State House,34,,Unresolved write-in,4
-Lenawee,"Cambridge Township, Precinct 3",State House,34,,Unresolved write-in,2
-Lenawee,"Clinton Township, Precinct 1",State House,34,,Unresolved write-in,4
-Lenawee,"Clinton Township, Precinct 2",State House,34,,Unresolved write-in,4
-Lenawee,"Dover Township, Precinct 1",State House,34,,Unresolved write-in,4
-Lenawee,"Fairfield Township, Precinct 1",State House,34,,Unresolved write-in,3
-Lenawee,"Franklin Township, Precinct 1",State House,34,,Unresolved write-in,6
-Lenawee,"Hudson Township, Precinct 1",State House,34,,Unresolved write-in,2
-Lenawee,"Madison Charter Township, Precinct 1",State House,34,,Unresolved write-in,4
-Lenawee,"Madison Charter Township, Precinct 2",State House,34,,Unresolved write-in,3
-Lenawee,"Madison Charter Township, Precinct 3",State House,34,,Unresolved write-in,2
-Lenawee,"Medina Township, Precinct 1",State House,34,,Unresolved write-in,2
-Lenawee,"Ogden Township, Precinct 1",State House,34,,Unresolved write-in,2
-Lenawee,"Palmyra Township, Precinct 1",State House,34,,Unresolved write-in,2
-Lenawee,"Raisin Charter Township, Precinct 1",State House,34,,Unresolved write-in,2
-Lenawee,"Raisin Charter Township, Precinct 2",State House,34,,Unresolved write-in,5
-Lenawee,"Raisin Charter Township, Precinct 3",State House,34,,Unresolved write-in,4
-Lenawee,"Riga Township, Precinct 1",State House,34,,Unresolved write-in,2
-Lenawee,"Rollin Township, Precinct 1",State House,34,,Unresolved write-in,9
-Lenawee,"Rome Township, Precinct 1",State House,34,,Unresolved write-in,2
-Lenawee,"Seneca Township, Precinct 1",State House,34,,Unresolved write-in,0
-Lenawee,"Tecumseh Township, Precinct 1",State House,34,,Unresolved write-in,4
-Lenawee,"Woodstock Township, Precinct 1",State House,34,,Unresolved write-in,12
+Lenawee,"City of Adrian, Precinct 1",State House,34,,Unresolved Write-In,6
+Lenawee,"City of Adrian, Precinct 2",State House,34,,Unresolved Write-In,4
+Lenawee,"City of Adrian, Precinct 3",State House,34,,Unresolved Write-In,6
+Lenawee,"City of Adrian, Precinct 4",State House,34,,Unresolved Write-In,9
+Lenawee,"City of Adrian, Precinct 5",State House,34,,Unresolved Write-In,4
+Lenawee,"City of Adrian, Precinct 6",State House,34,,Unresolved Write-In,3
+Lenawee,"City of Morenci, Precinct 1",State House,34,,Unresolved Write-In,4
+Lenawee,"City of Tecumseh, Precinct 1",State House,34,,Unresolved Write-In,2
+Lenawee,"City of Tecumseh, Precinct 2",State House,34,,Unresolved Write-In,1
+Lenawee,"City of Tecumseh, Precinct 3",State House,34,,Unresolved Write-In,4
+Lenawee,"City of Tecumseh, Precinct 4",State House,34,,Unresolved Write-In,3
+Lenawee,"Adrian Township, Precinct 1",State House,34,,Unresolved Write-In,5
+Lenawee,"Adrian Township, Precinct 2",State House,34,,Unresolved Write-In,6
+Lenawee,"Blissfield Township, Precinct 1",State House,34,,Unresolved Write-In,1
+Lenawee,"Blissfield Township, Precinct 2",State House,34,,Unresolved Write-In,4
+Lenawee,"Cambridge Township, Precinct 1",State House,34,,Unresolved Write-In,4
+Lenawee,"Cambridge Township, Precinct 2",State House,34,,Unresolved Write-In,4
+Lenawee,"Cambridge Township, Precinct 3",State House,34,,Unresolved Write-In,2
+Lenawee,"Clinton Township, Precinct 1",State House,34,,Unresolved Write-In,4
+Lenawee,"Clinton Township, Precinct 2",State House,34,,Unresolved Write-In,4
+Lenawee,"Dover Township, Precinct 1",State House,34,,Unresolved Write-In,4
+Lenawee,"Fairfield Township, Precinct 1",State House,34,,Unresolved Write-In,3
+Lenawee,"Franklin Township, Precinct 1",State House,34,,Unresolved Write-In,6
+Lenawee,"Hudson Township, Precinct 1",State House,34,,Unresolved Write-In,2
+Lenawee,"Madison Charter Township, Precinct 1",State House,34,,Unresolved Write-In,4
+Lenawee,"Madison Charter Township, Precinct 2",State House,34,,Unresolved Write-In,3
+Lenawee,"Madison Charter Township, Precinct 3",State House,34,,Unresolved Write-In,2
+Lenawee,"Medina Township, Precinct 1",State House,34,,Unresolved Write-In,2
+Lenawee,"Ogden Township, Precinct 1",State House,34,,Unresolved Write-In,2
+Lenawee,"Palmyra Township, Precinct 1",State House,34,,Unresolved Write-In,2
+Lenawee,"Raisin Charter Township, Precinct 1",State House,34,,Unresolved Write-In,2
+Lenawee,"Raisin Charter Township, Precinct 2",State House,34,,Unresolved Write-In,5
+Lenawee,"Raisin Charter Township, Precinct 3",State House,34,,Unresolved Write-In,4
+Lenawee,"Riga Township, Precinct 1",State House,34,,Unresolved Write-In,2
+Lenawee,"Rollin Township, Precinct 1",State House,34,,Unresolved Write-In,9
+Lenawee,"Rome Township, Precinct 1",State House,34,,Unresolved Write-In,2
+Lenawee,"Seneca Township, Precinct 1",State House,34,,Unresolved Write-In,0
+Lenawee,"Tecumseh Township, Precinct 1",State House,34,,Unresolved Write-In,4
+Lenawee,"Woodstock Township, Precinct 1",State House,34,,Unresolved Write-In,12
 Lenawee,"City of Hudson, Precinct 1",State House,35,DEM,Andrew Watkins,242
 Lenawee,"City of Hudson, Precinct 1",State House,35,REP,Andrew Fink,468
-Lenawee,"City of Hudson, Precinct 1",State House,35,,Unresolved write-in,2
+Lenawee,"City of Hudson, Precinct 1",State House,35,,Unresolved Write-In,2
 Lenawee,"City of Adrian, Precinct 1",Proposal 22-3,,,Yes,584
 Lenawee,"City of Adrian, Precinct 2",Proposal 22-3,,,Yes,449
 Lenawee,"City of Adrian, Precinct 3",Proposal 22-3,,,Yes,504

@@ -55,6 +55,10 @@ DISTRICT_PATTERNS = [
     (re.compile(r'^Representative in Congress (\d+)(?:st|nd|rd|th) District$'), 'U.S. House'),
     (re.compile(r'^State Senator (\d+)(?:st|nd|rd|th) District$'), 'State Senate'),
     (re.compile(r'^Representative in State Legislature (\d+)(?:st|nd|rd|th) District$'), 'State House'),
+    # 2024 sources prefix "State" ("State Representative in State
+    # Legislature 99th District").
+    (re.compile(r'^State Representative in State Legislature (\d+)(?:st|nd|rd|th) District$'),
+     'State House'),
     # Gogebic embeds the district in the office text instead of plain
     # "State Senator Nth District".
     (re.compile(r'^State Senate (\d+)(?:st|nd|rd|th) District$'), 'State Senate'),
@@ -62,6 +66,7 @@ DISTRICT_PATTERNS = [
     # Oceana abbreviates and, for State House, puts the district first.
     (re.compile(r'^Rep in Congress (\d+)(?:st|nd|rd|th) Dist$'), 'U.S. House'),
     (re.compile(r'^State Senator for (\d+)(?:st|nd|rd|th) Dist$'), 'State Senate'),
+    (re.compile(r'^Rep in State Legislature (\d+)(?:st|nd|rd|th) Dist$'), 'State House'),
     (re.compile(r'^(\d+)(?:st|nd|rd|th) Dist Repr? in State Legislature$'), 'State House'),
     # Ingham puts "District" before the plain number.
     (re.compile(r'^Representative in Congress District (\d+)$'), 'U.S. House'),
@@ -72,6 +77,42 @@ OFFICE_EXACT = {
     'Governor': 'Governor',
     'Governor for State': 'Governor',
     'United States Senator': 'U.S. Senate',
+    'United States Senator for State': 'U.S. Senate',
+    'US Senator': 'U.S. Senate',
+}
+# County office titles each county's own general file uses (Oceana 2024
+# drops the 'County' prefix; its Prosecuting Attorney keeps it).
+COUNTY_OFFICES = {
+    'Oceana': {'County Clerk': 'Clerk', 'County Sheriff': 'Sheriff',
+               'County Treasurer': 'Treasurer',
+               'County Register of Deeds': 'Register of Deeds',
+               'County Drain Commissioner': 'Drain Commissioner',
+               'County Road Commissioner': 'Road Commissioner',
+               'County Surveyor': 'Surveyor',
+               'County Pros Attorney': 'County Prosecuting Attorney'},
+    # Gladwin 2024's primary titles carry a 'for <County>' tail its general
+    # file drops.
+    'Gladwin': {'County Clerk for Gladwin County': 'County Clerk',
+                'County Sheriff for Gladwin County': 'County Sheriff',
+                'County Treasurer for Gladwin County': 'County Treasurer',
+                'County Register of Deeds for Gladwin County':
+                    'County Register of Deeds',
+                'County Drain Commissioner for Gladwin County':
+                    'County Drain Commissioner',
+                'County Road Commissioner for Gladwin County':
+                    'County Road Commissioner',
+                'Prosecuting Attorney for Gladwin County':
+                    'County Prosecuting Attorney'},
+    # Alger 2024's primary titles carry a 'for Alger County' tail its
+    # general file drops.
+    'Alger': {'County Sheriff for Alger County': 'County Sheriff',
+              'County Treasurer for Alger County': 'County Treasurer',
+              'County Road Commissioner for Alger County':
+                  'County Road Commissioner',
+              'County Clerk and Register of Deeds for Alger County':
+                  'County Clerk and Register of Deeds',
+              'County Prosecuting Attorney for Alger County':
+                  'County Prosecuting Attorney'},
 }
 JUDGE_PATTERNS = [
     (re.compile(r'^Judge of District Court (\d+)(?:st|nd|rd|th) District'
@@ -79,6 +120,11 @@ JUDGE_PATTERNS = [
      'District Court Judge'),
 ]
 WRITE_IN_TAG = re.compile(r'Qualified Write[- ]?In$', re.I)
+PARTY_TOKEN = re.compile(r'(?:DEM|REP|LIB|GRN|UST)')
+# Header-remnant lines that sit in the wider title zone on Gladwin 2024's
+# title-less continuation pages ('District District' at ~94).
+REMNANT_TITLE = re.compile(r'(?:District|Precinct|County|Michigan)'
+                           r'(?: (?:District|Precinct|County|Michigan))*')
 AUX_HEADERS = ('Times Cast', 'Registered Voters', 'Undervotes', 'Overvotes')
 METHOD_LABELS = ('Election Day', 'AV Counting Boards', 'Early Voting', 'Total')
 # Breakdown column tokens match Baraga's own 2024 header (COUNTY_COLUMN_MAP
@@ -90,6 +136,9 @@ SUMMARY_TITLE = re.compile(r'^(?:Official )?Statement of Votes Cast$|^Registered
 # Method mode: a label-only row is a precinct label only if it names a
 # jurisdiction; other fragments are rotated-header remnants (e.g. 'r ( T').
 PLAUSIBLE_LABEL = re.compile(r'(Precinct|Township|City|Village|County|Ward|Commission)')
+# Label wrap fragment when the first line ends with 'Ward' (Kent's
+# 'East Grand Rapids City, Ward' + '1, Precinct 1').
+WARD_FRAG = re.compile(r'^\d+, Precinct \d+$')
 # Local offices printed as "<Office> ... for <Jurisdiction>" with the
 # jurisdiction's Township suffix omitted (Cass-style); flipped to
 # jurisdiction-first. "Nauganee" is the source's misspelling of Negaunee.
@@ -127,7 +176,7 @@ def flip_title(title):
     return title
 
 
-def map_office(title, county=None):
+def map_office(title, county=None, map_offices=False):
     title = re.sub(r' \*+ - Insufficient Turnout to Protect Voter Privacy$', '', title)
     title = re.sub(r' \(Vote for \d+\)$', '', title)
     party = ''
@@ -141,13 +190,27 @@ def map_office(title, county=None):
         if m:
             party = m.group(1)
             title = title[:m.start()]
+        else:
+            # Gladwin 2024's write-in-only titles carry a mid-title party
+            # tag and county tail ('Township Supervisor for Secord Township
+            # (DEM), Gladwin County Michigan').
+            m = re.search(r' \((?:DEM|REP|LIB|GRN|UST)\), .+$', title)
+            if m:
+                title = title[:m.start()]
     # "Delegate(s) to County Convention for <jurisdiction>" -> jurisdiction-first.
     m = re.match(r'^Delegates? to County Convention for (.+)$', title)
     if m:
         title = (f'{m.group(1).strip()} Delegate to County Convention'
                  .replace('Nauganee', 'Negaunee').replace('Au Train', 'AuTrain'))
+    title = re.sub(r'\bTwp\.?\b', 'Township', title)
+    # "<X>, Precinct N Precinct Delegate" (Marquette 2024) -> the same form;
+    # its titles misspell two jurisdictions the precinct labels get right.
+    m = re.match(r'^(.+), (Precinct \d+) Precinct Delegate$', title)
+    if m:
+        title = f'{m.group(1)}, {m.group(2)} Delegate to County Convention'
+    title = title.replace('Nauganee', 'Negaunee').replace('Turnin', 'Turin')
     # "County Commissioner District 5" -> the repo's "Nth District" form.
-    m = re.match(r'^County Commissioner (?:District|Dist) (\d+)(.*)$', title)
+    m = re.match(r'^County Commissioner,? (?:for )?(?:District|Dist) (\d+)(.*)$', title)
     if m:
         title = f'County Commissioner {ordinal(int(m.group(1)))} District{m.group(2)}'
     office = OFFICE_EXACT.get(title)
@@ -171,6 +234,8 @@ def map_office(title, county=None):
                     break
             else:
                 office = flip_title(title)
+    if map_offices and county in COUNTY_OFFICES and office in COUNTY_OFFICES[county]:
+        office = COUNTY_OFFICES[county][office]
     return office, district, party
 
 
@@ -205,7 +270,11 @@ def rotated_blocks(page):
     without a space. 'Total Votes' is always its own column even where
     Ingham prints it <20pt from 'Unresolved Write-In'.
     """
-    chars = [c for c in page.chars if abs(c['matrix'][1]) > 0.05]
+    # Chippewa 2024 writes its rotated headers with a tiny text matrix
+    # ((0, 0.02) vs upright (0.02, 0)), so the old abs(m1) > 0.05 scale
+    # test missed them; compare the matrix components instead.
+    chars = [c for c in page.chars
+             if abs(c['matrix'][1]) > abs(c['matrix'][0])]
     xs = sorted({round(c['x0']) for c in chars})
     groups = []
     for x in xs:
@@ -310,6 +379,39 @@ def data_rows(page, carried=None):
 
     rows = []  # [label, {main col: votes}, {aux col: votes}] for all data lines
     built = []  # [label, cells, aux_cells, cut, left words]
+
+    def monotone_assign(main, cands):
+        """Min-cost order-preserving assignment of candidate cells (x1, value)
+        onto the anchor columns; None unless counts match exactly.
+
+        Schoolcraft 2024's cells drift right of their header lines far enough
+        that a cell can sit closer to the NEXT column's anchor, so
+        first-match-within-tol drops or overwrites it. When a row carries one
+        cell per column, the only sensible reading is the order-preserving
+        one, and min total |x1 - anchor| resolves the drift.
+        """
+        if len(cands) != len(main) or len(main) < 2:
+            return None
+        n = len(cands)
+        INF = float('inf')
+        # dp[i][j]: min cost assigning the first i candidates to the first j
+        # anchors, candidate i-1 on anchor j-1.
+        dp = [[INF] * (len(main) + 1) for _ in range(n + 1)]
+        dp[0][0] = 0
+        for i in range(1, n + 1):
+            x1, _ = cands[i - 1]
+            for j in range(i, len(main) + 1):
+                prev = dp[i - 1][j - 1]
+                if prev < INF:
+                    dp[i][j] = prev + abs(x1 - main[j - 1][1])
+        if dp[n][len(main)] == INF:
+            return None
+        out, j = {}, len(main)
+        for i in range(n, 0, -1):
+            out[j - 1] = cands[i - 1][1]
+            j -= 1
+        return out
+
     for line in data_lines:
         cells, aux_cells, right, left = {}, {}, [], []
         # The label column ends at the row's first data cell — but only the
@@ -318,14 +420,15 @@ def data_rows(page, carried=None):
         # would keep the right table's duplicate label words. Lines matched
         # on main cells only fall back to the fixed cutoff in label_of.
         cut = None
+        main_cands = []  # (x1, value) for every main-zone numeric word
         for w in line:
             if PERCENT.match(w['text']) or w['text'] == '****':
                 continue  # percentage columns; insufficient-turnout masks
-                continue
             if NUMERIC.match(w['text']):
                 i = match(main, w['x1'])
                 if i is not None:
                     cells[i] = int(w['text'].replace(',', ''))
+                    main_cands.append((w['x1'], cells[i]))
                     continue
                 i = match(aux, w['x1'])
                 if i is not None:
@@ -341,6 +444,7 @@ def data_rows(page, carried=None):
                     i = match(main, w['x1'], 34)
                     if i is not None:
                         cells[i] = int(w['text'].replace(',', ''))
+                        main_cands.append((w['x1'], cells[i]))
                         continue
                     i = match(aux, w['x1'], 34)
                     if i is not None:
@@ -351,6 +455,9 @@ def data_rows(page, carried=None):
                 right.append(w)
             else:
                 left.append(w)
+        fixed = monotone_assign(main, main_cands)
+        if fixed is not None and fixed != cells:
+            cells = fixed
         built.append([label_of(right, left, cut), cells, aux_cells, cut, left])
     # A label-only line (no matched cells, cut None) borrows the label-column
     # boundary of the next cell line: a long precinct label's trailing words
@@ -366,9 +473,10 @@ def data_rows(page, carried=None):
 
 
 class Contest:
-    def __init__(self, county, title):
+    def __init__(self, county, title, map_offices=False):
         self.county = county
         self.title = title
+        self.map_offices = map_offices
         self.method_mode = False
         self.votes = {}  # precinct mode: precinct -> {column name: votes}
         # method mode: precinct -> {candidate -> {method: votes}}
@@ -388,9 +496,20 @@ class Contest:
         # carried across pages whose tables repeat no rotated headers
         # (Mecosta's continuation pages).
         self.anchors = None
+        # Precinct mode, no-'Total Votes' reports (Marquette 2024): the aux
+        # Times Cast table per contest provides ballots cast. Recorded like
+        # the main cells so _finish_precinct can use them and verify the
+        # printed county total.
+        self.saw_total_votes = False
+        self.aux = {}  # precinct -> {aux column name: votes}
+        self.aux_county = {}  # aux column name -> printed county total
+        self.aux_cumulative = {}
+        # Precinct mode: Gladwin-style ballot-style section ('City' /
+        # 'Township') the current rows fall under.
+        self.section = None
 
     @staticmethod
-    def _merge_continuations(county, rows, method_mode):
+    def _merge_continuations(county, rows, method_mode, no_main=False):
         """Attach label-only continuation lines to the preceding row.
 
         Method mode: only the county row's wrapped "Total" merges — any
@@ -424,6 +543,14 @@ class Contest:
                         merged[-1][0] += ' ' + label
                         merged[-1][2].update(aux_cells)
                         continue
+                    if (merged[-1][0].endswith('Ward')
+                            and WARD_FRAG.match(label)):
+                        # Kent wraps after 'Ward' ('East Grand Rapids City,
+                        # Ward' + '1, Precinct 1') where Grand Rapids' wider
+                        # first line keeps 'Ward 1,' on it.
+                        merged[-1][0] += ' ' + label
+                        merged[-1][2].update(aux_cells)
+                        continue
                 merged.append([label, cells, aux_cells])
             return merged
         wrap = re.compile(r'^(Precinct )?\d+$')
@@ -442,13 +569,44 @@ class Contest:
                         or label in ('County', 'Michigan')
                         or re.match(r'^\w+ County$', label)):
                     continue  # header remnants / summary labels
+                if label in ('City', 'Township', 'Village'):
+                    # Gladwin 2024's ballot-style section headers: label-only
+                    # lines that must stand alone so _add_precinct_page sees
+                    # them (its precinct rows below carry the cells).
+                    flush()
+                    merged.append([label, {}, {}])
+                    continue
                 if pending is not None:
                     if not pending[0].endswith(label):
-                        pending[0] += ' ' + label
-                elif (merged and label.strip(' -') == 'Total'
+                        # Marquette 2024's single-precinct contests print no
+                        # candidate columns at all; the precinct's wrapped
+                        # label plus its Times Cast aux cell is already a
+                        # complete row, and the county-total label line that
+                        # follows must not weld onto it. A '(X County)'
+                        # fragment is Wexford's cross-county suffix instead —
+                        # it still welds.
+                        if (pending[2] and not pending[1] and 'County' in label
+                                and not re.fullmatch(r'\([A-Za-z ]+ County\)',
+                                                     label)):
+                            flush()
+                            pending = [label, {}, {}]
+                        elif (no_main and pending[2] and not pending[1]
+                                and not wrap.match(label)
+                                and not any(t in label for t in (
+                                    'County', 'Cumulative', 'Total'))):
+                            # Candidate-free contest: this line is the next
+                            # precinct's own turnout row, not a continuation.
+                            flush()
+                            pending = [label, {}, {}]
+                        else:
+                            pending[0] += ' ' + label
+                elif (merged and label.strip(' -') in ('Total',
+                                                       'Michigan - Total')
                         and 'County' in merged[-1][0]
                         and not merged[-1][0].endswith('Total')):
-                    merged[-1][0] += ' ' + label  # county row's wrapped '- Total'
+                    # county row's wrapped '- Total' (Oceana 2026) or
+                    # 'Michigan - Total' tail (Oceana 2024)
+                    merged[-1][0] += ' ' + label
                 elif (merged and merged[-1][0].count('(') > merged[-1][0].count(')')
                         and label.endswith(')')
                         and not merged[-1][0].endswith(label)):
@@ -468,6 +626,16 @@ class Contest:
                     # Precinct 1' + '(Manistee County)'); the unbalanced-paren
                     # branch above only covers labels split mid-paren.
                     merged[-1][0] += ' ' + label
+                elif (merged
+                        and re.fullmatch(r'(?:Township|Village|City|Charter), '
+                                         r'Precinct \d+', label)
+                        and not merged[-1][0].endswith(('Total', ')'))
+                        and not merged[-1][0][-1:].isdigit()):
+                    # Alger 2024 wraps mid-jurisdiction ('Grand Island' +
+                    # 'Township, Precinct 1') where the first line already
+                    # carries the row's cells; the fragment is a label-only
+                    # line.
+                    merged[-1][0] += ' ' + label
                 elif label:
                     flush()
                     pending = [label, {}, {}]
@@ -480,7 +648,9 @@ class Contest:
                         pending[2].setdefault(i, v)
                     continue
                 if wrap.match(label) or (label == 'Total'
-                                         and 'County' in pending[0]):
+                                         and 'County' in pending[0]) or (
+                        pending[0].endswith('Ward')
+                        and WARD_FRAG.match(label)):
                     pending[0] += ' ' + label
                     for i, v in cells.items():
                         pending[1].setdefault(i, v)
@@ -500,7 +670,15 @@ class Contest:
                         for i, v in aux_cells.items():
                             pending[2].setdefault(i, v)
                         continue
-                    if not pending[1]:
+                    # A complete second turnout row (Marquette 2024's
+                    # candidate-free contests print one Times Cast row per
+                    # precinct) is its own block, not a relabel of the
+                    # pending one; only county/summary label lines replace
+                    # the pending label.
+                    if (not pending[1]
+                            and (not pending[2] or any(
+                                t in label for t in ('County', 'Cumulative',
+                                                     'Total')))):
                         pending[0] = label
                         for i, v in aux_cells.items():
                             pending[2].setdefault(i, v)
@@ -519,7 +697,9 @@ class Contest:
                 # turnout cell sits on its own line).
                 merged[-1][2].update(aux_cells)
                 continue
-            if wrap.match(label):
+            if wrap.match(label) or (merged
+                                     and merged[-1][0].endswith('Ward')
+                                     and WARD_FRAG.match(label)):
                 # Turnout-table line holding the wrapped final digit of
                 # the previous block's label.
                 if merged and not merged[-1][0].endswith(label):
@@ -530,33 +710,54 @@ class Contest:
                         merged[-1][2].setdefault(i, v)
                 continue
             if label.endswith((',', 'Precinct', 'Township', 'Ward', 'Charter')):
+                if (merged and merged[-1][1] and not merged[-1][2]
+                        and not merged[-1][0][-1].isdigit()
+                        and not merged[-1][0].endswith(')')):
+                    # Oceana 2024's deep wrap: the precinct's main cells
+                    # print on the label's first line ('Benona'), its Times
+                    # Cast/Registered cells on the middle fragment
+                    # ('Township,'), and 'Precinct 1' completes the label.
+                    merged[-1][0] += ' ' + label
+                    merged[-1][2].update(aux_cells)
+                    continue
                 pending = [label, dict(cells), dict(aux_cells)]
                 continue
             merged.append([label, cells, aux_cells])
         flush()
         return merged
 
+    @staticmethod
+    def _col_name(h):
+        # A candidate's own "Qualified Write In" line is a suffix of the
+        # welded header (2026); stripped, it leaves the candidate name. Some
+        # vendors (Marquette 2024) print it as its OWN column holding the
+        # contest's write-in votes — that header reduces to nothing under
+        # the strip, so map it to the merged write-in row name instead.
+        if WRITE_IN_TAG.fullmatch(h.strip()):
+            return 'Write-In'
+        return WRITE_IN_TAG.sub('', PARTY_TAG.sub('', h)).strip()
+
     def add_page(self, page, problems):
         main_anchors, aux_anchors, rows, fresh = data_rows(page, self.anchors)
         if fresh:
             self.anchors = (main_anchors, aux_anchors)
-        names = [WRITE_IN_TAG.sub('', PARTY_TAG.sub('', h)).strip()
-                 for h, _ in main_anchors]
-        aux_names = [WRITE_IN_TAG.sub('', PARTY_TAG.sub('', h)).strip()
-                     for h, _ in aux_anchors]
+        names = [self._col_name(h) for h, _ in main_anchors]
+        aux_names = [self._col_name(h) for h, _ in aux_anchors]
         # Detect the page's mode before merging: a method-mode page merged
         # with precinct-mode rules welds the county remnant onto the next
         # precinct label. 'Total' is deliberately excluded — precinct-mode
         # write-in pages also carry bare 'Total' label rows (Oceana).
         self.method_mode = self.method_mode or any(
             cells and label in METHOD_LABELS[:3] for label, cells, _ in rows)
-        rows = self._merge_continuations(self.county, rows, self.method_mode)
+        rows = self._merge_continuations(self.county, rows, self.method_mode,
+                                         no_main=not main_anchors)
         if self.method_mode:
             self._add_method_page(names, aux_names, rows, problems)
         else:
-            self._add_precinct_page(names, rows, problems)
+            self._add_precinct_page(names, aux_names, rows, problems)
 
-    def _add_precinct_page(self, names, rows, problems):
+    def _add_precinct_page(self, names, aux_names, rows, problems):
+        self.saw_total_votes = self.saw_total_votes or 'Total Votes' in names
         if rows and any(row[1] for row in rows):
             width = max(max(row[1]) + 1 for row in rows if row[1])
             # Trailing headers can legitimately carry no cells (Ingham prints
@@ -564,8 +765,14 @@ class Contest:
             if width > len(names):
                 problems.append(f'{self.title}: {len(names)} headers {names} for '
                                 f'columns {sorted({i for row in rows for i in row[1]})}')
-        for label, cells, _ in rows:
-            if not cells:
+        for label, cells, aux_cells in rows:
+            if not cells and not aux_cells:
+                # Gladwin 2024 groups precincts under bare section headers
+                # ('City' / 'Township'); its City section re-uses the
+                # Unincorporated label for an aggregate row covering every
+                # non-city ballot.
+                if label in ('City', 'Township', 'Village'):
+                    self.section = label
                 continue
             if 'Cumulative' in label and 'Total' in label:
                 # Post-precinct adjustments folded into the county total
@@ -573,20 +780,51 @@ class Contest:
                 for i, v in cells.items():
                     if i < len(names):
                         self.county_cumulative[names[i]] = v
+                for i, v in aux_cells.items():
+                    if i < len(aux_names):
+                        self.aux_cumulative[aux_names[i]] = v
                 continue
             if label.startswith('Cumulative'):
                 continue
-            if 'County' in label and 'Total' in label:
+            if (('County' in label or 'State' in label or 'Michigan' in label)
+                    and 'Total' in label):
+                # Crawford 2024's continuation pages label the county total
+                # row "State - Total".
                 for i, v in cells.items():
                     if i < len(names):
                         self.county_totals[names[i]] = v
+                for i, v in aux_cells.items():
+                    if i < len(aux_names):
+                        self.aux_county[aux_names[i]] = v
                 continue
+            if label.endswith(' - Total'):
+                # Gladwin 2024 prints every precinct row as '<Jurisdiction>
+                # - Total' (with the bare jurisdiction as a label-only line
+                # above it); section subtotals are the bare section word
+                # ('Township - Total', 'City - Total'). Each section also
+                # prints an 'Unincorporated - Total' row aggregating the
+                # OTHER section's real precincts (the City section's
+                # aggregates the townships, 6,063; the Township section's
+                # aggregates the two cities, 183+676=859) — Gladwin has no
+                # Unincorporated precinct at all. The section is deliberately
+                # NOT reset at a subtotal: a contest spanning several
+                # candidate-table pages repeats each section's rows, and the
+                # continuation pages carry no bare section header.
+                if re.fullmatch(r'(?:Township|City|Village) - Total', label):
+                    continue
+                if label == 'Unincorporated - Total' and self.section:
+                    continue
+                label = label[:-len(' - Total')]
             votes = self.votes.setdefault(label, {})
             for i, v in cells.items():
                 if i >= len(names):
                     problems.append(f'{self.title} / {label}: cell {i} has no header')
                     continue
                 votes[names[i]] = v
+            for i, v in aux_cells.items():
+                if i < len(aux_names):
+                    self.aux.setdefault(label, {}).setdefault(
+                        aux_names[i], v)
             missing = [names[i] for i in range(len(names)) if i not in cells]
             if missing:
                 problems.append(f'{self.title} / {label}: missing cells {missing}')
@@ -628,9 +866,12 @@ class Contest:
                         and not re.match(r'^\w+ County\b', label)):
                     # Wrapped labels print on two lines; the continuation is
                     # a "Precinct N"/bare "N" fragment following an
-                    # incomplete label.
-                    if (re.match(r'^(Precinct )?\d+$', label) and precinct
+                    # incomplete label (Gogebic's suffixes: "1A", "2B").
+                    if (re.match(r'^(Precinct )?\d+[A-Z]?$', label) and precinct
                             and precinct.endswith((',', 'Precinct', 'Township'))):
+                        precinct = f'{precinct} {label}'
+                    elif (precinct and precinct.endswith('Ward')
+                            and WARD_FRAG.match(label)):
                         precinct = f'{precinct} {label}'
                     elif PLAUSIBLE_LABEL.search(label):
                         precinct = label
@@ -651,8 +892,18 @@ class Contest:
                 if self.after_county:
                     continue  # Cumulative block: zero-filled re-print
                 if precinct is None:
-                    problems.append(f'{self.title}: {label} row with no precinct')
-                    continue
+                    # Baraga 2024's single-precinct contests put the precinct
+                    # in the title ("Baraga Township, Precinct 3 Precinct
+                    # Delegate") and print no label row.
+                    t = re.sub(r' \((?:DEM|REP|LIB|GRN|UST)\)$', '', self.title)
+                    t = re.sub(r' \(Vote for \d+\)$', '', t)
+                    m = re.match(r'^(.+?, (?:Ward [\dIVX]+, )?Precinct \d+)\b', t)
+                    if m:
+                        precinct = m.group(1)
+                        self.after_county = False
+                    else:
+                        problems.append(f'{self.title}: {label} row with no precinct')
+                        continue
                 mv = self.method_votes.setdefault(precinct, {})
                 av = self.aux_votes.setdefault(precinct, {})
                 for i, v in cells.items():
@@ -673,6 +924,17 @@ class Contest:
                         if i < len(aux_names):
                             self.county_aux.setdefault('__county__', {})[aux_names[i]] = v
             else:
+                if (not label and cells and self.after_county):
+                    # Continuation of a wrapped county-total label: Gogebic
+                    # 2024 splits "Gogebic County Michigan -" / "Total" and
+                    # carries the remaining cells on the tail line.
+                    for i, v in cells.items():
+                        if i < len(names):
+                            self.county_totals.setdefault(names[i], v)
+                    for i, v in aux_cells.items():
+                        if i < len(aux_names):
+                            self.county_aux.setdefault('__county__', {})[aux_names[i]] = v
+                    continue
                 if not label.startswith('Cumulative'):
                     problems.append(f'{self.title}: unexpected row {label!r} {cells}')
                     precinct = label
@@ -682,13 +944,16 @@ class Contest:
         self.precinct = precinct
 
     def finish(self, out_rows, problems):
-        office, district, party = map_office(self.title, self.county)
+        office, district, party = map_office(self.title, self.county,
+                                             self.map_offices)
         precincts = sorted(self.method_votes if self.method_mode else self.votes)
         if len(precincts) == 1:
             # Mecosta's local offices print one precinct per page under a
             # jurisdiction-less title; the repo convention is
-            # jurisdiction-first, and delegate offices carry the full
-            # precinct label (Marquette/Baraga precedent).
+            # jurisdiction-first, and a jurisdiction-less delegate office
+            # carries the full precinct label (Marquette/Baraga precedent).
+            # Titles that already name their jurisdiction stay as printed —
+            # Osceola prints 'City of Evart Delegate to County Convention'.
             label = precincts[0]
             if office == 'Delegate to County Convention':
                 office = f'{label} Delegate to County Convention'
@@ -706,8 +971,17 @@ class Contest:
     def _finish_precinct(self, out_rows, problems, office, district, party):
         # Iron prints unresolved write-ins in their own column, outside
         # 'Total Votes'; they count as write-in votes and ballots cast.
+        # Wexford 2024 also prints a 'Write-in' column holding ALL write-in
+        # votes (qualified write-in candidates + unresolved), which must not
+        # be added to the candidates: Total Votes covers the qualified
+        # write-in candidates but not the unresolved ones, so
+        # wi = total - candidate_sum + unresolved reconstructs the row.
         cand_names = sorted({n for v in self.votes.values() for n in v}
-                            - {'Total Votes', 'Unresolved Write-In'})
+                            - {'Total Votes', 'Unresolved Write-In', 'Write-in'})
+        # Marquette 2024 style: no 'Total Votes' column anywhere; the aux
+        # Times Cast table is the ballots cast, and any write-in votes sit in
+        # a 'Write-In' column already emitted among the candidates.
+        no_total_votes = not self.saw_total_votes
         no_total = []
         for precinct in sorted(self.votes):
             votes = self.votes[precinct]
@@ -718,6 +992,14 @@ class Contest:
                 if votes.get(n):
                     out_rows.append([self.county, precinct, office, district, party, n,
                                      votes[n]])
+            if total is None and no_total_votes:
+                ballots = self.aux.get(precinct, {}).get('Times Cast')
+                if ballots is None:
+                    no_total.append(precinct)
+                    continue
+                out_rows.append([self.county, precinct, office, district, party,
+                                 'Ballots Cast', ballots])
+                continue
             if total is None:
                 no_total.append(precinct)
                 continue
@@ -739,6 +1021,14 @@ class Contest:
         for name, expected in sorted(self.county_totals.items()):
             summed = sum(v.get(name, 0) for v in self.votes.values())
             adj = expected - self.county_cumulative.get(name, 0)
+            if summed != adj:
+                problems.append(f'{self.title} / {name}: precinct sum {summed} != '
+                                f'County - Total {expected}')
+        # The no-'Total Votes' reports print their Times Cast county total in
+        # the aux table's own County - Total row; verify it too.
+        for name, expected in sorted(self.aux_county.items()):
+            summed = sum(v.get(name, 0) for v in self.aux.values())
+            adj = expected - self.aux_cumulative.get(name, 0)
             if summed != adj:
                 problems.append(f'{self.title} / {name}: precinct sum {summed} != '
                                 f'County - Total {expected}')
@@ -858,18 +1148,41 @@ def page_title(page):
     # "for 1)"): join zone lines until parentheses balance. Rotated-header
     # fragments ('DEM') only follow lines that already end in ')' — the
     # title itself ends in ')' so the join breaks before reaching them.
-    # Calhoun prints the title just below the page header (top ~27).
+    # Calhoun prints the title just below the page header (top ~27); Alger
+    # 2024's proposal pages sit the title at ~71 and delegate titles wrap
+    # 'for 1)' to ~75, so a title-less primary zone falls back to the
+    # wider 15-100 zone (Baraga-style continuation pages start their data
+    # at ~94, and their 'Precinct ...' header lines are skipped anyway).
+    lines = page_lines(page, tol=5)
+
+    def zone_lines(lo, hi):
+        for line in lines:
+            top = round(line[0]['top'])
+            if lo < top < hi:
+                text = ' '.join(w['text'] for w in line)
+                if (text.startswith('Page:') or text.startswith('Precinct')
+                        or REMNANT_TITLE.fullmatch(text)
+                        or re.match(r'^\w+ County$', text)):
+                    continue
+                yield text
+
     parts = []
-    for line in page_lines(page, tol=5):
-        top = round(line[0]['top'])
-        if not 15 < top < 62:
-            continue
-        text = ' '.join(w['text'] for w in line)
-        if text.startswith('Page:'):
-            continue
-        parts.append(text)
-        if text.endswith(')'):
-            break
+
+    def collect(texts):
+        for text in texts:
+            if PARTY_TOKEN.fullmatch(text):
+                return False  # truncated title ended; the party line follows
+            parts.append(text)
+            if text.endswith(')'):
+                return False
+        return True  # title still open
+
+    if collect(zone_lines(15, 62)):
+        # Only extend into the wider zone while the title is open (a
+        # wrapped tail or a title the primary zone missed entirely):
+        # lower zone lines on title pages are table data ('Precinct ...'
+        # headers at ~94 on Baraga-style pages), never title.
+        collect(zone_lines(62, 100))
     # A header-less continuation page (Mecosta) starts its data at the page
     # top, so precinct labels and data lines land in the title zone; such a
     # page repeats no rotated headers, and its zone content is data unless
@@ -881,52 +1194,75 @@ def page_title(page):
     return ' '.join(parts) if parts else None
 
 
+def run(pdf_path, county, out_rows, problems, chunk=300,
+        map_offices=False):
+    """Parse the whole PDF, keeping only one contest's state at a time.
+
+    Thousand-page SOVCs (Kent 2024: 3495 pages) exhaust memory if every
+    parsed page stays cached, so pages are processed in reopenable chunks:
+    contest state (the current Contest and has_methods) carries across chunk
+    boundaries — a contest straddling a boundary simply continues on the
+    chunk's first page — while pdfplumber's page objects are freed.
+    """
+    contest = None
+    has_methods = False
+    with pdfplumber.open(pdf_path) as pdf:
+        page_count = len(pdf.pages)
+    for start in range(0, page_count, chunk):
+        with pdfplumber.open(pdf_path) as pdf:
+            for page in pdf.pages[start:start + chunk]:
+                title = page_title(page)
+                if title is not None and SUMMARY_TITLE.match(title):
+                    if contest is not None:
+                        contest.finish(out_rows, problems)
+                        contest = None
+                    continue  # turnout summary pages
+                if title is not None:
+                    # Calhoun-style vendors repeat the contest title on every
+                    # page, including totals-only continuation pages; a repeated
+                    # title continues the current contest. Exception: Mecosta
+                    # prints one precinct per page for local contests that share
+                    # a title, each page with its own rotated headers — a
+                    # header-bearing page after a county-total row starts a new
+                    # contest (regular multi-page contests carry their headers
+                    # only on the first page, and totals-only continuations
+                    # carry no headers).
+                    if (contest is not None and title == contest.title
+                            and contest.method_mode and contest.county_totals
+                            and rotated_blocks(page)):
+                        contest.finish(out_rows, problems)
+                        has_methods = True
+                        contest = Contest(county, title, map_offices=map_offices)
+                    elif contest is not None and title != contest.title:
+                        contest.finish(out_rows, problems)
+                        has_methods = has_methods or contest.method_mode
+                    if contest is None or title != contest.title:
+                        contest = Contest(county, title, map_offices=map_offices)
+                elif contest is None:
+                    continue  # turnout summary pages
+                contest.add_page(page, problems)
+                page.flush_cache()  # don't hold every page's objects in memory
+                page.close()
+    if contest is not None:
+        contest.finish(out_rows, problems)
+        has_methods = has_methods or contest.method_mode
+    return has_methods
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('pdf')
     ap.add_argument('--county', required=True)
     ap.add_argument('--out', required=True)
+    ap.add_argument('--map-offices', action='store_true',
+                    help='apply COUNTY_OFFICES renames (2024 files: match '
+                         'each county\'s own general-file spellings)')
     args = ap.parse_args()
 
     out_rows = []
     problems = []
-    contest = None
-    has_methods = False
-    with pdfplumber.open(args.pdf) as pdf:
-        for page in pdf.pages:
-            title = page_title(page)
-            if title is not None and SUMMARY_TITLE.match(title):
-                if contest is not None:
-                    contest.finish(out_rows, problems)
-                    contest = None
-                continue  # turnout summary pages
-            if title is not None:
-                # Calhoun-style vendors repeat the contest title on every
-                # page, including totals-only continuation pages; a repeated
-                # title continues the current contest. Exception: Mecosta
-                # prints one precinct per page for local contests that share
-                # a title, each page with its own rotated headers — a
-                # header-bearing page after a county-total row starts a new
-                # contest (regular multi-page contests carry their headers
-                # only on the first page, and totals-only continuations
-                # carry no headers).
-                if (contest is not None and title == contest.title
-                        and contest.method_mode and contest.county_totals
-                        and rotated_blocks(page)):
-                    contest.finish(out_rows, problems)
-                    has_methods = True
-                    contest = Contest(args.county, title)
-                elif contest is not None and title != contest.title:
-                    contest.finish(out_rows, problems)
-                    has_methods = has_methods or contest.method_mode
-                if contest is None or title != contest.title:
-                    contest = Contest(args.county, title)
-            elif contest is None:
-                continue  # turnout summary pages
-            contest.add_page(page, problems)
-        if contest is not None:
-            contest.finish(out_rows, problems)
-            has_methods = has_methods or contest.method_mode
+    has_methods = run(args.pdf, args.county, out_rows, problems,
+                      map_offices=args.map_offices)
 
     header = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
     if has_methods:

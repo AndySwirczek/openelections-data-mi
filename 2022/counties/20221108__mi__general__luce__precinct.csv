@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes
 Luce,"McMillan Township, Precinct 1",Registered Voters,,,,986
 Luce,"McMillan Township, Precinct 1",Ballots Cast,,,,986
-Luce,"McMillan Township, Precinct 1",Straight Party,,DEM,,144
-Luce,"McMillan Township, Precinct 1",Straight Party,,REP,,405
-Luce,"McMillan Township, Precinct 1",Straight Party,,LIB,,4
-Luce,"McMillan Township, Precinct 1",Straight Party,,UST,,3
-Luce,"McMillan Township, Precinct 1",Straight Party,,WCP,,4
-Luce,"McMillan Township, Precinct 1",Straight Party,,GRN,,1
-Luce,"McMillan Township, Precinct 1",Straight Party,,NLP,,0
+Luce,"McMillan Township, Precinct 1",Straight Party,,DEM,Democratic,144
+Luce,"McMillan Township, Precinct 1",Straight Party,,REP,Republican,405
+Luce,"McMillan Township, Precinct 1",Straight Party,,LIB,Libertarian,4
+Luce,"McMillan Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3
+Luce,"McMillan Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Luce,"McMillan Township, Precinct 1",Straight Party,,GRN,Green,1
+Luce,"McMillan Township, Precinct 1",Straight Party,,NLP,Natural Law,0
 Luce,"McMillan Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,364
 Luce,"McMillan Township, Precinct 1",Governor,,REP,Tudor M. Dixon,586
 Luce,"McMillan Township, Precinct 1",Governor,,LIB,Mary Buzuma,10
@@ -18,10 +18,10 @@ Luce,"McMillan Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,352
 Luce,"McMillan Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,592
 Luce,"McMillan Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,14
 Luce,"McMillan Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,4
-Luce,"McMillan Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",8
+Luce,"McMillan Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,8
 Luce,"McMillan Township, Precinct 1",Attorney General,,DEM,Dana Nessel,326
 Luce,"McMillan Township, Precinct 1",Attorney General,,REP,Matthew DePerno,603
-Luce,"McMillan Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",16
+Luce,"McMillan Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,16
 Luce,"McMillan Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,9
 Luce,"McMillan Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,262
 Luce,"McMillan Township, Precinct 1",U.S. House,1,REP,Jack Bergman,667
@@ -36,13 +36,13 @@ Luce,"McMillan Township, Precinct 1",Proposal 22-3,,,Yes,423
 Luce,"McMillan Township, Precinct 1",Proposal 22-3,,,No,535
 Luce,"Columbus Township, Precinct 1",Registered Voters,,,,94
 Luce,"Columbus Township, Precinct 1",Ballots Cast,,,,94
-Luce,"Columbus Township, Precinct 1",Straight Party,,DEM,,6
-Luce,"Columbus Township, Precinct 1",Straight Party,,REP,,44
-Luce,"Columbus Township, Precinct 1",Straight Party,,LIB,,0
-Luce,"Columbus Township, Precinct 1",Straight Party,,UST,,0
-Luce,"Columbus Township, Precinct 1",Straight Party,,WCP,,0
-Luce,"Columbus Township, Precinct 1",Straight Party,,GRN,,1
-Luce,"Columbus Township, Precinct 1",Straight Party,,NLP,,0
+Luce,"Columbus Township, Precinct 1",Straight Party,,DEM,Democratic,6
+Luce,"Columbus Township, Precinct 1",Straight Party,,REP,Republican,44
+Luce,"Columbus Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Luce,"Columbus Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Luce,"Columbus Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Luce,"Columbus Township, Precinct 1",Straight Party,,GRN,Green,1
+Luce,"Columbus Township, Precinct 1",Straight Party,,NLP,Natural Law,0
 Luce,"Columbus Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,23
 Luce,"Columbus Township, Precinct 1",Governor,,REP,Tudor M. Dixon,68
 Luce,"Columbus Township, Precinct 1",Governor,,LIB,Mary Buzuma,0
@@ -53,10 +53,10 @@ Luce,"Columbus Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,25
 Luce,"Columbus Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,63
 Luce,"Columbus Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,1
 Luce,"Columbus Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,2
-Luce,"Columbus Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1
+Luce,"Columbus Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
 Luce,"Columbus Township, Precinct 1",Attorney General,,DEM,Dana Nessel,24
 Luce,"Columbus Township, Precinct 1",Attorney General,,REP,Matthew DePerno,66
-Luce,"Columbus Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",2
+Luce,"Columbus Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,2
 Luce,"Columbus Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,0
 Luce,"Columbus Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,22
 Luce,"Columbus Township, Precinct 1",U.S. House,1,REP,Jack Bergman,68
@@ -71,13 +71,13 @@ Luce,"Columbus Township, Precinct 1",Proposal 22-3,,,Yes,28
 Luce,"Columbus Township, Precinct 1",Proposal 22-3,,,No,64
 Luce,"Lakefield Township, Precinct 1",Registered Voters,,,,613
 Luce,"Lakefield Township, Precinct 1",Ballots Cast,,,,613
-Luce,"Lakefield Township, Precinct 1",Straight Party,,DEM,,77
-Luce,"Lakefield Township, Precinct 1",Straight Party,,REP,,262
-Luce,"Lakefield Township, Precinct 1",Straight Party,,LIB,,0
-Luce,"Lakefield Township, Precinct 1",Straight Party,,UST,,0
-Luce,"Lakefield Township, Precinct 1",Straight Party,,WCP,,4
-Luce,"Lakefield Township, Precinct 1",Straight Party,,GRN,,0
-Luce,"Lakefield Township, Precinct 1",Straight Party,,NLP,,0
+Luce,"Lakefield Township, Precinct 1",Straight Party,,DEM,Democratic,77
+Luce,"Lakefield Township, Precinct 1",Straight Party,,REP,Republican,262
+Luce,"Lakefield Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Luce,"Lakefield Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Luce,"Lakefield Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Luce,"Lakefield Township, Precinct 1",Straight Party,,GRN,Green,0
+Luce,"Lakefield Township, Precinct 1",Straight Party,,NLP,Natural Law,0
 Luce,"Lakefield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,182
 Luce,"Lakefield Township, Precinct 1",Governor,,REP,Tudor M. Dixon,413
 Luce,"Lakefield Township, Precinct 1",Governor,,LIB,Mary Buzuma,6
@@ -88,10 +88,10 @@ Luce,"Lakefield Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,178
 Luce,"Lakefield Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,412
 Luce,"Lakefield Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,4
 Luce,"Lakefield Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,6
-Luce,"Lakefield Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2
+Luce,"Lakefield Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
 Luce,"Lakefield Township, Precinct 1",Attorney General,,DEM,Dana Nessel,174
 Luce,"Lakefield Township, Precinct 1",Attorney General,,REP,Matthew DePerno,418
-Luce,"Lakefield Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",3
+Luce,"Lakefield Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,3
 Luce,"Lakefield Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,4
 Luce,"Lakefield Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,144
 Luce,"Lakefield Township, Precinct 1",U.S. House,1,REP,Jack Bergman,445
@@ -106,13 +106,13 @@ Luce,"Lakefield Township, Precinct 1",Proposal 22-3,,,Yes,228
 Luce,"Lakefield Township, Precinct 1",Proposal 22-3,,,No,367
 Luce,"Pentland Township, Precinct 1",Registered Voters,,,,689
 Luce,"Pentland Township, Precinct 1",Ballots Cast,,,,689
-Luce,"Pentland Township, Precinct 1",Straight Party,,DEM,,86
-Luce,"Pentland Township, Precinct 1",Straight Party,,REP,,272
-Luce,"Pentland Township, Precinct 1",Straight Party,,LIB,,0
-Luce,"Pentland Township, Precinct 1",Straight Party,,UST,,2
-Luce,"Pentland Township, Precinct 1",Straight Party,,WCP,,4
-Luce,"Pentland Township, Precinct 1",Straight Party,,GRN,,0
-Luce,"Pentland Township, Precinct 1",Straight Party,,NLP,,1
+Luce,"Pentland Township, Precinct 1",Straight Party,,DEM,Democratic,86
+Luce,"Pentland Township, Precinct 1",Straight Party,,REP,Republican,272
+Luce,"Pentland Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Luce,"Pentland Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Luce,"Pentland Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Luce,"Pentland Township, Precinct 1",Straight Party,,GRN,Green,0
+Luce,"Pentland Township, Precinct 1",Straight Party,,NLP,Natural Law,1
 Luce,"Pentland Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,217
 Luce,"Pentland Township, Precinct 1",Governor,,REP,Tudor M. Dixon,453
 Luce,"Pentland Township, Precinct 1",Governor,,LIB,Mary Buzuma,4
@@ -123,10 +123,10 @@ Luce,"Pentland Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,215
 Luce,"Pentland Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,448
 Luce,"Pentland Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,5
 Luce,"Pentland Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,8
-Luce,"Pentland Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1
+Luce,"Pentland Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
 Luce,"Pentland Township, Precinct 1",Attorney General,,DEM,Dana Nessel,199
 Luce,"Pentland Township, Precinct 1",Attorney General,,REP,Matthew DePerno,455
-Luce,"Pentland Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",8
+Luce,"Pentland Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,8
 Luce,"Pentland Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,10
 Luce,"Pentland Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,175
 Luce,"Pentland Township, Precinct 1",U.S. House,1,REP,Jack Bergman,486

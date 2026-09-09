@@ -24,6 +24,15 @@ by county token:
   Total Votes only (Roscommon). District offices print without a number, so
   districts come from the 2026 CENR county file via DISTRICT_FILL.
 - Roscommon also has zero-value REGISTERED VOTERS contests, skipped.
+- Roscommon 2024: the export carries no ballotsCast / voterTurnout attributes
+  on <VoterTurnout> (only totalVoters, which holds registered voters), so the
+  XML is patched before clarify parses it, and --registered-voters emits a
+  per-precinct Registered Voters row from the VoterTurnout precincts. Contest
+  texts are "DEM Supervisor -- Democratic Au Sable Township" with the
+  jurisdiction truncated in the suffix, so the 2024 config resolves local
+  offices, delegate precincts and county-commissioner districts from the
+  precincts each contest covers, and renames proposals to the county's
+  Official List of Proposals (roscommoncounty.net DocumentCenter 2601).
 
 Convention notes:
 - Undervotes/Overvotes and regVotersCounty rows are dropped; a Ballots Cast
@@ -44,6 +53,7 @@ import argparse
 import csv
 import re
 import sys
+import zipfile
 
 from clarify.parser import Parser
 
@@ -80,6 +90,21 @@ COUNTY_CONFIG = {
         },
         'breakdown_order': ['election', 'early_voting', 'absentee'],
     },
+    # Eaton Aug 2024 primary: same style as 2026, but the bare office words
+    # ("Supervisor", "Clerk", ...) stay bare — the county's own general-file
+    # convention — and only the delegate contests (all bare "Delegate to
+    # County Convention", one per precinct) get their office built from
+    # coverage.
+    'Eaton 2024': {
+        'style': 'choice_party',
+        'methods': {
+            'Absentee': 'absentee',
+            'Early Voting': 'early_voting',
+            'Election': 'election',
+        },
+        'breakdown_order': ['election', 'early_voting', 'absentee'],
+        'coverage_delegates': True,
+    },
     'Emmet': {
         'style': 'prefix',
         'methods': {
@@ -99,6 +124,64 @@ COUNTY_CONFIG = {
         'breakdown_order': [],
         'district_fill': {'U.S. House': '1', 'State Senate': '36', 'State House': '105'},
         'bare_townships': True,  # "Supervisor Denton" -> "Denton Township Supervisor"
+    },
+    # Roscommon 2024: dash-suffix contest texts ("DEM Supervisor -- Democratic
+    # Au Sable Township") with the suffix jurisdiction truncated, bare office
+    # words whose jurisdiction (or commissioner district) must come from the
+    # precincts the contest covers, and truncated proposal titles.
+    'Roscommon 2024': {
+        'county_name': 'Roscommon',
+        'style': 'prefix',
+        'methods': {
+            'Total Votes': None,
+            'regVotersCounty': None,
+        },
+        'breakdown_order': [],
+        'district_fill': {'U.S. House': '1', 'State House': '105'},
+        'coverage_jurisdictions': True,
+        # County commissioner districts, from the precincts each contest
+        # covers (Denton 1 is split between districts 3 and 5).
+        'commissioner_districts': {
+            frozenset(['Denton Township, Precinct 1', 'Denton Township, Precinct 2']): '5',
+            frozenset(['Lake Township, Precinct 1', 'Lyon Township, Precinct 1',
+                       'Markey Township, Precinct 1']): '1',
+            frozenset(['Gerrish Township, Precinct 1',
+                       'Higgins Township, Precinct 1']): '2',
+            frozenset(['Au Sable Township, Precinct 1', 'Backus Township, Precinct 1',
+                       'Denton Township, Precinct 1',
+                       'Richfield Township, Precinct 1']): '3',
+            frozenset(['Nester Township, Precinct 1', 'Roscommon Township, Precinct 1',
+                       'Roscommon Township, Precinct 2']): '4',
+        },
+        # Source titles (truncated) -> titles from the county's Official List
+        # of Proposals for the August 6, 2024 primary.
+        'proposal_titles': {
+            'Animal Shelter/Animal Control Program Roscommon County':
+                'Roscommon County Animal Shelter/Animal Control Program '
+                'Millage Proposal',
+            'County Capital Improvement and Maintenance Roscommon Cou':
+                'Roscommon County Capital Improvement and Maintenance '
+                'Millage Proposal',
+            'RCEDC and MSUE/4-H Program Millage Roscommon County':
+                'Roscommon Economic Development Committee and MSU '
+                'Extension/4-H Program Millage Proposal',
+            'Denton Twp Ambulance Services Denton Township':
+                'Denton Township Ambulance Services Millage Increase Proposal',
+            'Denton Twp Streetlight Millage Denton Township':
+                'Denton Township Streetlight Operation and Maintenance '
+                'Millage Renewal Proposal',
+            'Denton Twp Gen Operating Millage Denton Township':
+                'Denton Township Allocated Voted General Operating Millage '
+                'Renewal Proposal',
+            'Gerrish Township Bond Proposal Gerrish Township':
+                'Gerrish Township Bond Proposal',
+            'Road Maintenance and Improvement Millage Renewal Markey':
+                'Markey Township Road Maintenance and Improvement Millage '
+                'Renewal Proposal',
+            'Roscommon Twp Fire Dept Operating Roscommon Township':
+                'Roscommon Township Fire Department Operating Millage '
+                'Renewal Proposal',
+        },
     },
     # Macomb: prefix style with numbered districts, XML-style precinct labels
     # kept verbatim ("Armada Twp, Pct 1" — same as its 2024 file), write-in
@@ -158,6 +241,20 @@ OFFICE_TYPES = ('Supervisor', 'Clerk', 'Treasurer', 'Trustee', 'Constable',
                 'Judge of Probate')
 # Trailing term clause kept in place when flipping office-first titles.
 TERM_SUFFIX = re.compile(r'(Term Ending .*)$')
+# Bare office words that turn out to be county-wide once the covered
+# precincts show the contest is not a single township's (Roscommon 2024).
+COUNTY_LOCAL_OFFICES = {
+    'Clerk & Register of Deeds': 'County Clerk and Register of Deeds',
+    'Treasurer': 'County Treasurer',
+    'Sheriff': 'County Sheriff',
+    'Prosecuting Attorney': 'County Prosecuting Attorney',
+    'Drain Commissioner': 'County Drain Commissioner',
+}
+ORDINALS = {1: 'st', 2: 'nd', 3: 'rd'}
+
+
+def ordinal(n):
+    return (f'{n}{ORDINALS.get(n % 10 if n % 100 not in (11, 12, 13) else 0, "th")}')
 
 
 def strip_party(text, style, choice_party=None):
@@ -173,7 +270,15 @@ def strip_party(text, style, choice_party=None):
     elif style == 'prefix':
         m = re.match(r'(DEM|REP|LIB|GRN|UST) (.*)$', text)
         if m:
-            return m.group(2), m.group(1)
+            title = m.group(2)
+            # "DEM Supervisor -- Democratic Au Sable Township" (Roscommon
+            # 2024): drop the repeated " -- <Party adjective> <jurisdiction>"
+            # suffix; the jurisdiction is truncated there anyway.
+            m2 = re.match(r'(.*) -- (?:Democratic|Republican|Libertarian|'
+                          r'Green|U.S. Taxpayers|Nonpartisan) .*$', title)
+            if m2:
+                title = m2.group(1).strip()
+            return title, m.group(1)
     elif style == 'choice_party':
         return text, choice_party or ''
     return text, ''
@@ -199,6 +304,10 @@ def map_office(title, config):
     office = OFFICE_EXACT.get(title)
     if office:
         return office, ''
+    # "Clerk & Register of Deeds" (Roscommon 2024) must not be flipped
+    # office-first; its county/township resolution happens from coverage.
+    if title == 'Clerk & Register of Deeds':
+        return title, ''
 
     # "Township Clerk Partial Term Ending ... for Jefferson Township" (Cass)
     m = re.match(r'^(?:Township )?(%s) (Partial Term Ending .*?) for (.+)$' % '|'.join(OFFICE_TYPES), title)
@@ -241,16 +350,39 @@ def map_contest(text, style, choice_party, config):
     return office, district, party
 
 
-def parse(path, county):
+VOTER_TURNOOUT_TAG = re.compile(r'<VoterTurnout\b[^>]*>')
+
+
+def load_xml(path):
+    """Return detail.xml contents, patching exports that lack ballotsCast.
+
+    Roscommon 2024 writes <VoterTurnout totalVoters="23917"> — clarify indexes
+    .values()[1] and [2] for ballotsCast and voterTurnout, so add zeros; the
+    totalVoters attribute there actually holds registered voters, which the
+    precinct rows keep regardless.
+    """
+    if path.endswith('.zip'):
+        with zipfile.ZipFile(path) as archive:
+            contents = archive.read('detail.xml').decode()
+    else:
+        with open(path, encoding='utf8') as fh:
+            contents = fh.read()
+    m = VOTER_TURNOOUT_TAG.search(contents)
+    if m and 'ballotsCast' not in m.group(0):
+        contents = (contents[:m.start()] +
+                    m.group(0)[:-1] + ' ballotsCast="0" voterTurnout="0.0">' +
+                    contents[m.end():])
+    return contents
+
+
+def parse(path, county, registered_voters=False):
     config = COUNTY_CONFIG[county]
+    county = config.get('county_name', county)
     style = config['style']
     methods = config['methods']
     breakdown_order = config['breakdown_order']
     parser = Parser()
-    if path.endswith('.zip'):
-        parser.parse_zip(path)
-    else:
-        parser.parse(path)
+    parser.parse(load_xml(path))
 
     out_rows = []
     problems = []
@@ -274,6 +406,44 @@ def parse(path, county):
                 cell = precinct_votes.setdefault(r.jurisdiction.name, {})
                 tally = cell.setdefault(choice, {})
                 tally[r.vote_type] = tally.get(r.vote_type, 0) + r.votes
+        # Roscommon 2024: bare titles whose jurisdiction (or county-
+        # commissioner district, or delegate precinct) is only implied by the
+        # precincts the contest covers; proposals carry truncated titles.
+        if config.get('coverage_jurisdictions') and precinct_votes:
+            covered = sorted(precinct_votes)
+            title = office
+            if title in config.get('proposal_titles', {}):
+                office = config['proposal_titles'][title]
+            elif title == 'County Commissioner':
+                district = config.get('commissioner_districts', {}) \
+                    .get(frozenset(covered))
+                if district:
+                    office = f'County Commissioner {ordinal(int(district))} District'
+                else:
+                    problems.append(f'{contest.text}: no district for '
+                                    f'covered precincts {covered}')
+            elif title == 'Delegate to County Convention':
+                if len(covered) == 1:
+                    office = f'{covered[0]} Delegate to County Convention'
+                else:
+                    problems.append(f'{contest.text}: delegate contest covers '
+                                    f'{len(covered)} precincts: {covered}')
+            elif title in OFFICE_TYPES or title in COUNTY_LOCAL_OFFICES:
+                townships = {re.split(r', Precinct', p)[0] for p in covered}
+                if len(townships) == 1:
+                    office = f'{townships.pop()} {title}'
+                else:
+                    office = COUNTY_LOCAL_OFFICES.get(title, title)
+        elif config.get('coverage_delegates') and precinct_votes \
+                and office == 'Delegate to County Convention':
+            # Eaton 2024: one bare delegate contest per precinct; the office
+            # names the precinct it covers.
+            covered = sorted(precinct_votes)
+            if len(covered) == 1:
+                office = f'{covered[0]} Delegate to County Convention'
+            else:
+                problems.append(f'{contest.text}: delegate contest covers '
+                                f'{len(covered)} precincts: {covered}')
         # Delegate contests occasionally carry a wrong precinct label in the
         # contest text (Eaton 2026: all four Grand Ledge contests say
         # "Precinct 1"); when the contest covers a single precinct whose label
@@ -355,6 +525,10 @@ def parse(path, county):
     out_rows = [agg[k] for k in order]
 
     # Cross-check candidate rows against the Choice aggregates.
+    if registered_voters:
+        rv_rows = [[county, j.name, 'Registered Voters', '', '', '',
+                    j.total_voters] for j in parser.result_jurisdictions]
+        out_rows = rv_rows + out_rows
     return out_rows, problems, parser
 
 
@@ -363,9 +537,13 @@ def main():
     ap.add_argument('path', help='detail.xml zip or XML file')
     ap.add_argument('--county', required=True, choices=sorted(COUNTY_CONFIG))
     ap.add_argument('--out', required=True)
+    ap.add_argument('--registered-voters', action='store_true',
+                    help='emit a per-precinct Registered Voters row '
+                         '(from VoterTurnout precincts)')
     args = ap.parse_args()
 
-    out_rows, problems, parser = parse(args.path, args.county)
+    out_rows, problems, parser = parse(args.path, args.county,
+                                       args.registered_voters)
     config = COUNTY_CONFIG[args.county]
     header = BASE_HEADER + config['breakdown_order']
     with open(args.out, 'w', newline='') as fh:

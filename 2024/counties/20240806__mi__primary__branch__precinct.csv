@@ -1,0 +1,731 @@
+county,precinct,office,district,party,candidate,votes
+Branch,"City of Bronson, Precinct 1",U.S. Senate,,DEM,Hill Harper,11
+Branch,"City of Bronson, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,33
+Branch,"City of Coldwater, Precinct 1",U.S. Senate,,DEM,Hill Harper,23
+Branch,"City of Coldwater, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,58
+Branch,"City of Coldwater, Precinct 2",U.S. Senate,,DEM,Hill Harper,12
+Branch,"City of Coldwater, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,70
+Branch,"City of Coldwater, Precinct 3",U.S. Senate,,DEM,Hill Harper,9
+Branch,"City of Coldwater, Precinct 3",U.S. Senate,,DEM,Elissa Slotkin,126
+Branch,"City of Coldwater, Precinct 4",U.S. Senate,,DEM,Hill Harper,19
+Branch,"City of Coldwater, Precinct 4",U.S. Senate,,DEM,Elissa Slotkin,61
+Branch,"Algansee Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,5
+Branch,"Algansee Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,58
+Branch,"Batavia Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,5
+Branch,"Batavia Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,24
+Branch,"Bethel Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,2
+Branch,"Bethel Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,33
+Branch,"Bronson Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,9
+Branch,"Bronson Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,35
+Branch,"Butler Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,2
+Branch,"Butler Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,33
+Branch,"California Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,4
+Branch,"California Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,9
+Branch,"Coldwater Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,11
+Branch,"Coldwater Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,88
+Branch,"Gilead Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,5
+Branch,"Gilead Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,15
+Branch,"Girard Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,5
+Branch,"Girard Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,62
+Branch,"Kinderhook Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,3
+Branch,"Kinderhook Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,54
+Branch,"Matteson Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,9
+Branch,"Matteson Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,52
+Branch,"Noble Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,3
+Branch,"Noble Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,6
+Branch,"Ovid Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,7
+Branch,"Ovid Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,88
+Branch,"Quincy Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,13
+Branch,"Quincy Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,108
+Branch,"Sherwood Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,10
+Branch,"Sherwood Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,63
+Branch,"Union Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,17
+Branch,"Union Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,84
+Branch,"City of Bronson, Precinct 1",U.S. House,5,DEM,Libbi Urban,43
+Branch,"City of Coldwater, Precinct 1",U.S. House,5,DEM,Libbi Urban,78
+Branch,"City of Coldwater, Precinct 2",U.S. House,5,DEM,Libbi Urban,77
+Branch,"City of Coldwater, Precinct 3",U.S. House,5,DEM,Libbi Urban,127
+Branch,"City of Coldwater, Precinct 4",U.S. House,5,DEM,Libbi Urban,79
+Branch,"Algansee Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,57
+Branch,"Batavia Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,27
+Branch,"Bethel Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,32
+Branch,"Bronson Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,41
+Branch,"Butler Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,34
+Branch,"California Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,11
+Branch,"Coldwater Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,90
+Branch,"Gilead Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,20
+Branch,"Girard Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,63
+Branch,"Kinderhook Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,55
+Branch,"Matteson Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,48
+Branch,"Noble Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,9
+Branch,"Ovid Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,91
+Branch,"Quincy Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,112
+Branch,"Sherwood Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,71
+Branch,"Union Township, Precinct 1",U.S. House,5,DEM,Libbi Urban,92
+Branch,"City of Bronson, Precinct 1",State House,35,DEM,Don Hicks,44
+Branch,"City of Coldwater, Precinct 1",State House,35,DEM,Don Hicks,77
+Branch,"City of Coldwater, Precinct 2",State House,35,DEM,Don Hicks,79
+Branch,"City of Coldwater, Precinct 3",State House,35,DEM,Don Hicks,130
+Branch,"City of Coldwater, Precinct 4",State House,35,DEM,Don Hicks,81
+Branch,"Algansee Township, Precinct 1",State House,35,DEM,Don Hicks,61
+Branch,"Batavia Township, Precinct 1",State House,35,DEM,Don Hicks,27
+Branch,"Bethel Township, Precinct 1",State House,35,DEM,Don Hicks,35
+Branch,"Bronson Township, Precinct 1",State House,35,DEM,Don Hicks,38
+Branch,"Butler Township, Precinct 1",State House,35,DEM,Don Hicks,35
+Branch,"California Township, Precinct 1",State House,35,DEM,Don Hicks,11
+Branch,"Coldwater Township, Precinct 1",State House,35,DEM,Don Hicks,88
+Branch,"Gilead Township, Precinct 1",State House,35,DEM,Don Hicks,21
+Branch,"Girard Township, Precinct 1",State House,35,DEM,Don Hicks,66
+Branch,"Kinderhook Township, Precinct 1",State House,35,DEM,Don Hicks,55
+Branch,"Matteson Township, Precinct 1",State House,35,DEM,Don Hicks,50
+Branch,"Noble Township, Precinct 1",State House,35,DEM,Don Hicks,8
+Branch,"Ovid Township, Precinct 1",State House,35,DEM,Don Hicks,90
+Branch,"Quincy Township, Precinct 1",State House,35,DEM,Don Hicks,111
+Branch,"Sherwood Township, Precinct 1",State House,35,DEM,Don Hicks,71
+Branch,"Union Township, Precinct 1",State House,35,DEM,Don Hicks,95
+Branch,"Butler Township, Precinct 1",Butler Township Clerk,,DEM,Linda D. Hammontree,32
+Branch,"Matteson Township, Precinct 1",Matteson Township Clerk,,DEM,Karon Jo Fisher-Barr,49
+Branch,"Algansee Township, Precinct 1",Algansee Township Treasurer,,DEM,Kelli E. Kaufmann,46
+Branch,"City of Coldwater, Precinct 3","Coldwater City, Precinct 3 Delegate to County Convention",,DEM,Jim Bilsborrow,116
+Branch,"City of Coldwater, Precinct 4","Coldwater City, Precinct 4 Delegate to County Convention",,DEM,Anthony Pawloski,55
+Branch,"City of Coldwater, Precinct 4","Coldwater City, Precinct 4 Delegate to County Convention",,DEM,Jennifer M. Wingard,69
+Branch,"Coldwater Township, Precinct 1","Coldwater Township, Precinct 1 Delegate to County Convention",,DEM,Anita Hoyt,79
+Branch,"Coldwater Township, Precinct 1","Coldwater Township, Precinct 1 Delegate to County Convention",,DEM,Amaryllis Thomas,72
+Branch,"Matteson Township, Precinct 1","Matteson Township, Precinct 1 Delegate to County Convention",,DEM,Kathryn Barnes,42
+Branch,"Quincy Township, Precinct 1","Quincy Township, Precinct 1 Delegate to County Convention",,DEM,Sue Ann Fillmore,103
+Branch,"City of Bronson, Precinct 1",U.S. Senate,,REP,Justin Amash,31
+Branch,"City of Bronson, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,23
+Branch,"City of Bronson, Precinct 1",U.S. Senate,,REP,Sandy Pensler,8
+Branch,"City of Bronson, Precinct 1",U.S. Senate,,REP,Mike Rogers,104
+Branch,"City of Coldwater, Precinct 1",U.S. Senate,,REP,Justin Amash,42
+Branch,"City of Coldwater, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,54
+Branch,"City of Coldwater, Precinct 1",U.S. Senate,,REP,Sandy Pensler,16
+Branch,"City of Coldwater, Precinct 1",U.S. Senate,,REP,Mike Rogers,112
+Branch,"City of Coldwater, Precinct 2",U.S. Senate,,REP,Justin Amash,35
+Branch,"City of Coldwater, Precinct 2",U.S. Senate,,REP,Sherry O'Donnell,42
+Branch,"City of Coldwater, Precinct 2",U.S. Senate,,REP,Sandy Pensler,37
+Branch,"City of Coldwater, Precinct 2",U.S. Senate,,REP,Mike Rogers,198
+Branch,"City of Coldwater, Precinct 3",U.S. Senate,,REP,Justin Amash,97
+Branch,"City of Coldwater, Precinct 3",U.S. Senate,,REP,Sherry O'Donnell,67
+Branch,"City of Coldwater, Precinct 3",U.S. Senate,,REP,Sandy Pensler,43
+Branch,"City of Coldwater, Precinct 3",U.S. Senate,,REP,Mike Rogers,307
+Branch,"City of Coldwater, Precinct 4",U.S. Senate,,REP,Justin Amash,54
+Branch,"City of Coldwater, Precinct 4",U.S. Senate,,REP,Sherry O'Donnell,47
+Branch,"City of Coldwater, Precinct 4",U.S. Senate,,REP,Sandy Pensler,21
+Branch,"City of Coldwater, Precinct 4",U.S. Senate,,REP,Mike Rogers,122
+Branch,"Algansee Township, Precinct 1",U.S. Senate,,REP,Justin Amash,61
+Branch,"Algansee Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,43
+Branch,"Algansee Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,16
+Branch,"Algansee Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,236
+Branch,"Batavia Township, Precinct 1",U.S. Senate,,REP,Justin Amash,30
+Branch,"Batavia Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,21
+Branch,"Batavia Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,13
+Branch,"Batavia Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,137
+Branch,"Bethel Township, Precinct 1",U.S. Senate,,REP,Justin Amash,30
+Branch,"Bethel Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,37
+Branch,"Bethel Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,12
+Branch,"Bethel Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,112
+Branch,"Bronson Township, Precinct 1",U.S. Senate,,REP,Justin Amash,53
+Branch,"Bronson Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,48
+Branch,"Bronson Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,4
+Branch,"Bronson Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,106
+Branch,"Butler Township, Precinct 1",U.S. Senate,,REP,Justin Amash,30
+Branch,"Butler Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,21
+Branch,"Butler Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,8
+Branch,"Butler Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,119
+Branch,"California Township, Precinct 1",U.S. Senate,,REP,Justin Amash,11
+Branch,"California Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,7
+Branch,"California Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,4
+Branch,"California Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,63
+Branch,"Coldwater Township, Precinct 1",U.S. Senate,,REP,Justin Amash,103
+Branch,"Coldwater Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,65
+Branch,"Coldwater Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,41
+Branch,"Coldwater Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,441
+Branch,"Gilead Township, Precinct 1",U.S. Senate,,REP,Justin Amash,14
+Branch,"Gilead Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,6
+Branch,"Gilead Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,1
+Branch,"Gilead Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,54
+Branch,"Girard Township, Precinct 1",U.S. Senate,,REP,Justin Amash,76
+Branch,"Girard Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,48
+Branch,"Girard Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,27
+Branch,"Girard Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,208
+Branch,"Kinderhook Township, Precinct 1",U.S. Senate,,REP,Justin Amash,29
+Branch,"Kinderhook Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,32
+Branch,"Kinderhook Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,31
+Branch,"Kinderhook Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,202
+Branch,"Matteson Township, Precinct 1",U.S. Senate,,REP,Justin Amash,45
+Branch,"Matteson Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,23
+Branch,"Matteson Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,9
+Branch,"Matteson Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,101
+Branch,"Noble Township, Precinct 1",U.S. Senate,,REP,Justin Amash,13
+Branch,"Noble Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,14
+Branch,"Noble Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,3
+Branch,"Noble Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,41
+Branch,"Ovid Township, Precinct 1",U.S. Senate,,REP,Justin Amash,75
+Branch,"Ovid Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,98
+Branch,"Ovid Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,44
+Branch,"Ovid Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,306
+Branch,"Quincy Township, Precinct 1",U.S. Senate,,REP,Justin Amash,90
+Branch,"Quincy Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,68
+Branch,"Quincy Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,75
+Branch,"Quincy Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,374
+Branch,"Sherwood Township, Precinct 1",U.S. Senate,,REP,Justin Amash,43
+Branch,"Sherwood Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,28
+Branch,"Sherwood Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,11
+Branch,"Sherwood Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,134
+Branch,"Union Township, Precinct 1",U.S. Senate,,REP,Justin Amash,107
+Branch,"Union Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,29
+Branch,"Union Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,24
+Branch,"Union Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,193
+Branch,"City of Bronson, Precinct 1",U.S. House,5,REP,Tim Walberg,163
+Branch,"City of Coldwater, Precinct 1",U.S. House,5,REP,Tim Walberg,209
+Branch,"City of Coldwater, Precinct 2",U.S. House,5,REP,Tim Walberg,300
+Branch,"City of Coldwater, Precinct 3",U.S. House,5,REP,Tim Walberg,481
+Branch,"City of Coldwater, Precinct 4",U.S. House,5,REP,Tim Walberg,226
+Branch,"Algansee Township, Precinct 1",U.S. House,5,REP,Tim Walberg,340
+Branch,"Batavia Township, Precinct 1",U.S. House,5,REP,Tim Walberg,192
+Branch,"Bethel Township, Precinct 1",U.S. House,5,REP,Tim Walberg,187
+Branch,"Bronson Township, Precinct 1",U.S. House,5,REP,Tim Walberg,199
+Branch,"Butler Township, Precinct 1",U.S. House,5,REP,Tim Walberg,172
+Branch,"California Township, Precinct 1",U.S. House,5,REP,Tim Walberg,81
+Branch,"Coldwater Township, Precinct 1",U.S. House,5,REP,Tim Walberg,628
+Branch,"Gilead Township, Precinct 1",U.S. House,5,REP,Tim Walberg,76
+Branch,"Girard Township, Precinct 1",U.S. House,5,REP,Tim Walberg,336
+Branch,"Kinderhook Township, Precinct 1",U.S. House,5,REP,Tim Walberg,279
+Branch,"Matteson Township, Precinct 1",U.S. House,5,REP,Tim Walberg,166
+Branch,"Noble Township, Precinct 1",U.S. House,5,REP,Tim Walberg,67
+Branch,"Ovid Township, Precinct 1",U.S. House,5,REP,Tim Walberg,488
+Branch,"Quincy Township, Precinct 1",U.S. House,5,REP,Tim Walberg,583
+Branch,"Sherwood Township, Precinct 1",U.S. House,5,REP,Tim Walberg,200
+Branch,"Union Township, Precinct 1",U.S. House,5,REP,Tim Walberg,322
+Branch,"City of Bronson, Precinct 1",State House,35,REP,Tom Matthew,31
+Branch,"City of Bronson, Precinct 1",State House,35,REP,Adam L. Stockford,53
+Branch,"City of Bronson, Precinct 1",State House,35,REP,Jennifer Wortz,80
+Branch,"City of Coldwater, Precinct 1",State House,35,REP,Tom Matthew,58
+Branch,"City of Coldwater, Precinct 1",State House,35,REP,Adam L. Stockford,67
+Branch,"City of Coldwater, Precinct 1",State House,35,REP,Jennifer Wortz,100
+Branch,"City of Coldwater, Precinct 2",State House,35,REP,Tom Matthew,93
+Branch,"City of Coldwater, Precinct 2",State House,35,REP,Adam L. Stockford,56
+Branch,"City of Coldwater, Precinct 2",State House,35,REP,Jennifer Wortz,176
+Branch,"City of Coldwater, Precinct 3",State House,35,REP,Tom Matthew,161
+Branch,"City of Coldwater, Precinct 3",State House,35,REP,Adam L. Stockford,83
+Branch,"City of Coldwater, Precinct 3",State House,35,REP,Jennifer Wortz,290
+Branch,"City of Coldwater, Precinct 4",State House,35,REP,Tom Matthew,46
+Branch,"City of Coldwater, Precinct 4",State House,35,REP,Adam L. Stockford,63
+Branch,"City of Coldwater, Precinct 4",State House,35,REP,Jennifer Wortz,141
+Branch,"Algansee Township, Precinct 1",State House,35,REP,Tom Matthew,84
+Branch,"Algansee Township, Precinct 1",State House,35,REP,Adam L. Stockford,76
+Branch,"Algansee Township, Precinct 1",State House,35,REP,Jennifer Wortz,220
+Branch,"Batavia Township, Precinct 1",State House,35,REP,Tom Matthew,56
+Branch,"Batavia Township, Precinct 1",State House,35,REP,Adam L. Stockford,57
+Branch,"Batavia Township, Precinct 1",State House,35,REP,Jennifer Wortz,93
+Branch,"Bethel Township, Precinct 1",State House,35,REP,Tom Matthew,35
+Branch,"Bethel Township, Precinct 1",State House,35,REP,Adam L. Stockford,53
+Branch,"Bethel Township, Precinct 1",State House,35,REP,Jennifer Wortz,111
+Branch,"Bronson Township, Precinct 1",State House,35,REP,Tom Matthew,43
+Branch,"Bronson Township, Precinct 1",State House,35,REP,Adam L. Stockford,61
+Branch,"Bronson Township, Precinct 1",State House,35,REP,Jennifer Wortz,115
+Branch,"Butler Township, Precinct 1",State House,35,REP,Tom Matthew,32
+Branch,"Butler Township, Precinct 1",State House,35,REP,Adam L. Stockford,31
+Branch,"Butler Township, Precinct 1",State House,35,REP,Jennifer Wortz,121
+Branch,"California Township, Precinct 1",State House,35,REP,Tom Matthew,19
+Branch,"California Township, Precinct 1",State House,35,REP,Adam L. Stockford,22
+Branch,"California Township, Precinct 1",State House,35,REP,Jennifer Wortz,47
+Branch,"Coldwater Township, Precinct 1",State House,35,REP,Tom Matthew,141
+Branch,"Coldwater Township, Precinct 1",State House,35,REP,Adam L. Stockford,169
+Branch,"Coldwater Township, Precinct 1",State House,35,REP,Jennifer Wortz,364
+Branch,"Gilead Township, Precinct 1",State House,35,REP,Tom Matthew,24
+Branch,"Gilead Township, Precinct 1",State House,35,REP,Adam L. Stockford,11
+Branch,"Gilead Township, Precinct 1",State House,35,REP,Jennifer Wortz,51
+Branch,"Girard Township, Precinct 1",State House,35,REP,Tom Matthew,78
+Branch,"Girard Township, Precinct 1",State House,35,REP,Adam L. Stockford,70
+Branch,"Girard Township, Precinct 1",State House,35,REP,Jennifer Wortz,210
+Branch,"Kinderhook Township, Precinct 1",State House,35,REP,Tom Matthew,122
+Branch,"Kinderhook Township, Precinct 1",State House,35,REP,Adam L. Stockford,37
+Branch,"Kinderhook Township, Precinct 1",State House,35,REP,Jennifer Wortz,144
+Branch,"Matteson Township, Precinct 1",State House,35,REP,Tom Matthew,31
+Branch,"Matteson Township, Precinct 1",State House,35,REP,Adam L. Stockford,36
+Branch,"Matteson Township, Precinct 1",State House,35,REP,Jennifer Wortz,112
+Branch,"Noble Township, Precinct 1",State House,35,REP,Tom Matthew,21
+Branch,"Noble Township, Precinct 1",State House,35,REP,Adam L. Stockford,12
+Branch,"Noble Township, Precinct 1",State House,35,REP,Jennifer Wortz,37
+Branch,"Ovid Township, Precinct 1",State House,35,REP,Tom Matthew,168
+Branch,"Ovid Township, Precinct 1",State House,35,REP,Adam L. Stockford,135
+Branch,"Ovid Township, Precinct 1",State House,35,REP,Jennifer Wortz,248
+Branch,"Quincy Township, Precinct 1",State House,35,REP,Tom Matthew,151
+Branch,"Quincy Township, Precinct 1",State House,35,REP,Adam L. Stockford,132
+Branch,"Quincy Township, Precinct 1",State House,35,REP,Jennifer Wortz,367
+Branch,"Sherwood Township, Precinct 1",State House,35,REP,Tom Matthew,62
+Branch,"Sherwood Township, Precinct 1",State House,35,REP,Adam L. Stockford,63
+Branch,"Sherwood Township, Precinct 1",State House,35,REP,Jennifer Wortz,95
+Branch,"Union Township, Precinct 1",State House,35,REP,Tom Matthew,88
+Branch,"Union Township, Precinct 1",State House,35,REP,Adam L. Stockford,78
+Branch,"Union Township, Precinct 1",State House,35,REP,Jennifer Wortz,180
+Branch,"City of Bronson, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,132
+Branch,"City of Coldwater, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,206
+Branch,"City of Coldwater, Precinct 2",County Prosecuting Attorney,,REP,Zachary W. Stempien,310
+Branch,"City of Coldwater, Precinct 3",County Prosecuting Attorney,,REP,Zachary W. Stempien,509
+Branch,"City of Coldwater, Precinct 4",County Prosecuting Attorney,,REP,Zachary W. Stempien,220
+Branch,"Algansee Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,332
+Branch,"Batavia Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,184
+Branch,"Bethel Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,174
+Branch,"Bronson Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,199
+Branch,"Butler Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,172
+Branch,"California Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,80
+Branch,"Coldwater Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,625
+Branch,"Gilead Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,78
+Branch,"Girard Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,329
+Branch,"Kinderhook Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,268
+Branch,"Matteson Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,156
+Branch,"Noble Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,67
+Branch,"Ovid Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,485
+Branch,"Quincy Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,578
+Branch,"Sherwood Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,190
+Branch,"Union Township, Precinct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,304
+Branch,"City of Bronson, Precinct 1",County Sheriff,,REP,Fred Blankenship,52
+Branch,"City of Bronson, Precinct 1",County Sheriff,,REP,Robin D. Swartz,34
+Branch,"City of Bronson, Precinct 1",County Sheriff,,REP,Michael G. Thyng,97
+Branch,"City of Coldwater, Precinct 1",County Sheriff,,REP,Fred Blankenship,82
+Branch,"City of Coldwater, Precinct 1",County Sheriff,,REP,Robin D. Swartz,104
+Branch,"City of Coldwater, Precinct 1",County Sheriff,,REP,Michael G. Thyng,55
+Branch,"City of Coldwater, Precinct 2",County Sheriff,,REP,Fred Blankenship,167
+Branch,"City of Coldwater, Precinct 2",County Sheriff,,REP,Robin D. Swartz,118
+Branch,"City of Coldwater, Precinct 2",County Sheriff,,REP,Michael G. Thyng,53
+Branch,"City of Coldwater, Precinct 3",County Sheriff,,REP,Fred Blankenship,312
+Branch,"City of Coldwater, Precinct 3",County Sheriff,,REP,Robin D. Swartz,233
+Branch,"City of Coldwater, Precinct 3",County Sheriff,,REP,Michael G. Thyng,41
+Branch,"City of Coldwater, Precinct 4",County Sheriff,,REP,Fred Blankenship,114
+Branch,"City of Coldwater, Precinct 4",County Sheriff,,REP,Robin D. Swartz,92
+Branch,"City of Coldwater, Precinct 4",County Sheriff,,REP,Michael G. Thyng,55
+Branch,"Algansee Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,176
+Branch,"Algansee Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,122
+Branch,"Algansee Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,83
+Branch,"Batavia Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,112
+Branch,"Batavia Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,58
+Branch,"Batavia Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,47
+Branch,"Bethel Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,74
+Branch,"Bethel Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,68
+Branch,"Bethel Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,63
+Branch,"Bronson Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,74
+Branch,"Bronson Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,57
+Branch,"Bronson Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,96
+Branch,"Butler Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,121
+Branch,"Butler Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,47
+Branch,"Butler Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,22
+Branch,"California Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,37
+Branch,"California Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,21
+Branch,"California Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,29
+Branch,"Coldwater Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,369
+Branch,"Coldwater Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,254
+Branch,"Coldwater Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,99
+Branch,"Gilead Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,42
+Branch,"Gilead Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,25
+Branch,"Gilead Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,20
+Branch,"Girard Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,209
+Branch,"Girard Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,128
+Branch,"Girard Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,58
+Branch,"Kinderhook Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,161
+Branch,"Kinderhook Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,80
+Branch,"Kinderhook Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,65
+Branch,"Matteson Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,86
+Branch,"Matteson Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,40
+Branch,"Matteson Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,62
+Branch,"Noble Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,21
+Branch,"Noble Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,26
+Branch,"Noble Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,25
+Branch,"Ovid Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,305
+Branch,"Ovid Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,191
+Branch,"Ovid Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,90
+Branch,"Quincy Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,346
+Branch,"Quincy Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,208
+Branch,"Quincy Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,102
+Branch,"Sherwood Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,94
+Branch,"Sherwood Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,63
+Branch,"Sherwood Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,69
+Branch,"Union Township, Precinct 1",County Sheriff,,REP,Fred Blankenship,161
+Branch,"Union Township, Precinct 1",County Sheriff,,REP,Robin D. Swartz,129
+Branch,"Union Township, Precinct 1",County Sheriff,,REP,Michael G. Thyng,73
+Branch,"City of Bronson, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,158
+Branch,"City of Coldwater, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,209
+Branch,"City of Coldwater, Precinct 2",County Clerk,,REP,Terry Ann Kubasiak,311
+Branch,"City of Coldwater, Precinct 3",County Clerk,,REP,Terry Ann Kubasiak,513
+Branch,"City of Coldwater, Precinct 4",County Clerk,,REP,Terry Ann Kubasiak,221
+Branch,"Algansee Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,326
+Branch,"Batavia Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,189
+Branch,"Bethel Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,185
+Branch,"Bronson Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,214
+Branch,"Butler Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,166
+Branch,"California Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,85
+Branch,"Coldwater Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,640
+Branch,"Gilead Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,81
+Branch,"Girard Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,339
+Branch,"Kinderhook Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,269
+Branch,"Matteson Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,164
+Branch,"Noble Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,68
+Branch,"Ovid Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,498
+Branch,"Quincy Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,587
+Branch,"Sherwood Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,200
+Branch,"Union Township, Precinct 1",County Clerk,,REP,Terry Ann Kubasiak,322
+Branch,"City of Bronson, Precinct 1",County Treasurer,,REP,Steven A. Rutz,147
+Branch,"City of Coldwater, Precinct 1",County Treasurer,,REP,Steven A. Rutz,201
+Branch,"City of Coldwater, Precinct 2",County Treasurer,,REP,Steven A. Rutz,299
+Branch,"City of Coldwater, Precinct 3",County Treasurer,,REP,Steven A. Rutz,499
+Branch,"City of Coldwater, Precinct 4",County Treasurer,,REP,Steven A. Rutz,220
+Branch,"Algansee Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,308
+Branch,"Batavia Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,185
+Branch,"Bethel Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,176
+Branch,"Bronson Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,204
+Branch,"Butler Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,164
+Branch,"California Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,86
+Branch,"Coldwater Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,613
+Branch,"Gilead Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,77
+Branch,"Girard Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,328
+Branch,"Kinderhook Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,263
+Branch,"Matteson Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,157
+Branch,"Noble Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,66
+Branch,"Ovid Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,480
+Branch,"Quincy Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,562
+Branch,"Sherwood Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,197
+Branch,"Union Township, Precinct 1",County Treasurer,,REP,Steven A. Rutz,307
+Branch,"City of Bronson, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,139
+Branch,"City of Coldwater, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,201
+Branch,"City of Coldwater, Precinct 2",County Register of Deeds,,REP,Nyci DeLoach,300
+Branch,"City of Coldwater, Precinct 3",County Register of Deeds,,REP,Nyci DeLoach,487
+Branch,"City of Coldwater, Precinct 4",County Register of Deeds,,REP,Nyci DeLoach,216
+Branch,"Algansee Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,305
+Branch,"Batavia Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,183
+Branch,"Bethel Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,177
+Branch,"Bronson Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,201
+Branch,"Butler Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,164
+Branch,"California Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,86
+Branch,"Coldwater Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,610
+Branch,"Gilead Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,76
+Branch,"Girard Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,324
+Branch,"Kinderhook Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,265
+Branch,"Matteson Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,156
+Branch,"Noble Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,66
+Branch,"Ovid Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,468
+Branch,"Quincy Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,563
+Branch,"Sherwood Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,191
+Branch,"Union Township, Precinct 1",County Register of Deeds,,REP,Nyci DeLoach,304
+Branch,"City of Bronson, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,143
+Branch,"City of Coldwater, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,206
+Branch,"City of Coldwater, Precinct 2",County Drain Commissioner,,REP,Michael W. Hard,302
+Branch,"City of Coldwater, Precinct 3",County Drain Commissioner,,REP,Michael W. Hard,489
+Branch,"City of Coldwater, Precinct 4",County Drain Commissioner,,REP,Michael W. Hard,214
+Branch,"Algansee Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,323
+Branch,"Batavia Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,189
+Branch,"Bethel Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,184
+Branch,"Bronson Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,212
+Branch,"Butler Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,165
+Branch,"California Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,82
+Branch,"Coldwater Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,624
+Branch,"Gilead Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,77
+Branch,"Girard Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,336
+Branch,"Kinderhook Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,270
+Branch,"Matteson Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,160
+Branch,"Noble Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,67
+Branch,"Ovid Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,480
+Branch,"Quincy Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,591
+Branch,"Sherwood Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,198
+Branch,"Union Township, Precinct 1",County Drain Commissioner,,REP,Michael W. Hard,312
+Branch,"City of Bronson, Precinct 1",County Surveyor,,REP,Edward W. Reed,142
+Branch,"City of Coldwater, Precinct 1",County Surveyor,,REP,Edward W. Reed,204
+Branch,"City of Coldwater, Precinct 2",County Surveyor,,REP,Edward W. Reed,297
+Branch,"City of Coldwater, Precinct 3",County Surveyor,,REP,Edward W. Reed,494
+Branch,"City of Coldwater, Precinct 4",County Surveyor,,REP,Edward W. Reed,217
+Branch,"Algansee Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,303
+Branch,"Batavia Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,187
+Branch,"Bethel Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,179
+Branch,"Bronson Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,205
+Branch,"Butler Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,162
+Branch,"California Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,83
+Branch,"Coldwater Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,617
+Branch,"Gilead Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,79
+Branch,"Girard Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,334
+Branch,"Kinderhook Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,266
+Branch,"Matteson Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,156
+Branch,"Noble Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,67
+Branch,"Ovid Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,474
+Branch,"Quincy Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,570
+Branch,"Sherwood Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,191
+Branch,"Union Township, Precinct 1",County Surveyor,,REP,Edward W. Reed,310
+Branch,"City of Coldwater, Precinct 1",County Commissioner,1,REP,Jessica Green,109
+Branch,"City of Coldwater, Precinct 1",County Commissioner,1,REP,Randall Hazelbaker,119
+Branch,"City of Coldwater, Precinct 3",County Commissioner,1,REP,Jessica Green,168
+Branch,"City of Coldwater, Precinct 3",County Commissioner,1,REP,Randall Hazelbaker,374
+Branch,"City of Coldwater, Precinct 4",County Commissioner,1,REP,Jessica Green,98
+Branch,"City of Coldwater, Precinct 4",County Commissioner,1,REP,Randall Hazelbaker,147
+Branch,"City of Coldwater, Precinct 2",County Commissioner,2,REP,Jon E. Houtz,214
+Branch,"City of Coldwater, Precinct 2",County Commissioner,2,REP,John Towers,98
+Branch,"Coldwater Township, Precinct 1",County Commissioner,2,REP,Jon E. Houtz,431
+Branch,"Coldwater Township, Precinct 1",County Commissioner,2,REP,John Towers,218
+Branch,"Girard Township, Precinct 1",County Commissioner,2,REP,Jon E. Houtz,224
+Branch,"Girard Township, Precinct 1",County Commissioner,2,REP,John Towers,140
+Branch,"Batavia Township, Precinct 1",County Commissioner,3,REP,Tim Stoll,178
+Branch,"Bethel Township, Precinct 1",County Commissioner,3,REP,Tim Stoll,168
+Branch,"Matteson Township, Precinct 1",County Commissioner,3,REP,Tim Stoll,155
+Branch,"Sherwood Township, Precinct 1",County Commissioner,3,REP,Tim Stoll,203
+Branch,"Union Township, Precinct 1",County Commissioner,3,REP,Tim Stoll,309
+Branch,"City of Bronson, Precinct 1",County Commissioner,4,REP,Brett Burtrum,13
+Branch,"City of Bronson, Precinct 1",County Commissioner,4,REP,Rick Hollister,91
+Branch,"City of Bronson, Precinct 1",County Commissioner,4,REP,Richard Swanson,40
+Branch,"Bronson Township, Precinct 1",County Commissioner,4,REP,Brett Burtrum,9
+Branch,"Bronson Township, Precinct 1",County Commissioner,4,REP,Rick Hollister,178
+Branch,"Bronson Township, Precinct 1",County Commissioner,4,REP,Richard Swanson,26
+Branch,"Gilead Township, Precinct 1",County Commissioner,4,REP,Brett Burtrum,7
+Branch,"Gilead Township, Precinct 1",County Commissioner,4,REP,Rick Hollister,63
+Branch,"Gilead Township, Precinct 1",County Commissioner,4,REP,Richard Swanson,9
+Branch,"Kinderhook Township, Precinct 1",County Commissioner,4,REP,Brett Burtrum,23
+Branch,"Kinderhook Township, Precinct 1",County Commissioner,4,REP,Rick Hollister,165
+Branch,"Kinderhook Township, Precinct 1",County Commissioner,4,REP,Richard Swanson,54
+Branch,"Noble Township, Precinct 1",County Commissioner,4,REP,Brett Burtrum,10
+Branch,"Noble Township, Precinct 1",County Commissioner,4,REP,Rick Hollister,52
+Branch,"Noble Township, Precinct 1",County Commissioner,4,REP,Richard Swanson,7
+Branch,"Ovid Township, Precinct 1",County Commissioner,4,REP,Brett Burtrum,62
+Branch,"Ovid Township, Precinct 1",County Commissioner,4,REP,Rick Hollister,263
+Branch,"Ovid Township, Precinct 1",County Commissioner,4,REP,Richard Swanson,142
+Branch,"Algansee Township, Precinct 1",County Commissioner,5,REP,David Mansfield,183
+Branch,"Algansee Township, Precinct 1",County Commissioner,5,REP,Alan McClellan,183
+Branch,"Butler Township, Precinct 1",County Commissioner,5,REP,David Mansfield,95
+Branch,"Butler Township, Precinct 1",County Commissioner,5,REP,Alan McClellan,84
+Branch,"California Township, Precinct 1",County Commissioner,5,REP,David Mansfield,41
+Branch,"California Township, Precinct 1",County Commissioner,5,REP,Alan McClellan,42
+Branch,"Quincy Township, Precinct 1",County Commissioner,5,REP,David Mansfield,233
+Branch,"Quincy Township, Precinct 1",County Commissioner,5,REP,Alan McClellan,374
+Branch,"Batavia Township, Precinct 1",Batavia Township Supervisor,,REP,Taylor Fraser,185
+Branch,"Bethel Township, Precinct 1",Bethel Township Supervisor,,REP,Lawrence Lowell LaMontagne,174
+Branch,"Bronson Township, Precinct 1",Bronson Township Supervisor,,REP,Kenneth Carpenter,209
+Branch,"Butler Township, Precinct 1",Butler Township Supervisor,,REP,Rodney Olney,160
+Branch,"California Township, Precinct 1",California Township Supervisor,,REP,Basil S. Bassage Jr.,81
+Branch,"Coldwater Township, Precinct 1",Coldwater Township Supervisor,,REP,Donald E. Rogers,606
+Branch,"Girard Township, Precinct 1",Girard Township Supervisor,,REP,Candace Cox,338
+Branch,"Kinderhook Township, Precinct 1",Kinderhook Township Supervisor,,REP,Wayne Barnes,260
+Branch,"Matteson Township, Precinct 1",Matteson Township Supervisor,,REP,Kevin C. Barnes,160
+Branch,"Noble Township, Precinct 1",Noble Township Supervisor,,REP,Harry M. Metzger,68
+Branch,"Ovid Township, Precinct 1",Ovid Township Supervisor,,REP,Max William Benjamin,249
+Branch,"Ovid Township, Precinct 1",Ovid Township Supervisor,,REP,Ben Losinski,278
+Branch,"Quincy Township, Precinct 1",Quincy Township Supervisor,,REP,Kurt Barve,565
+Branch,"Sherwood Township, Precinct 1",Sherwood Township Supervisor,,REP,Toren Stanton,195
+Branch,"Union Township, Precinct 1",Union Township Supervisor,,REP,Ralph J. Strong,308
+Branch,"Algansee Township, Precinct 1",Algansee Township Clerk,,REP,Chantal Cochrane Paxton,298
+Branch,"Batavia Township, Precinct 1",Batavia Township Clerk,,REP,Teresa Cuthbert,185
+Branch,"Bethel Township, Precinct 1",Bethel Township Clerk,,REP,Lori Brewer,181
+Branch,"Bronson Township, Precinct 1",Bronson Township Clerk,,REP,Rhonda K. Noble,206
+Branch,"California Township, Precinct 1",California Township Clerk,,REP,Michael A. Hatt,82
+Branch,"Coldwater Township, Precinct 1",Coldwater Township Clerk,,REP,Nathan Gilchrist,612
+Branch,"Girard Township, Precinct 1",Girard Township Clerk,,REP,Kathy Weigt,330
+Branch,"Kinderhook Township, Precinct 1",Kinderhook Township Clerk,,REP,Pamela J. Tooman,261
+Branch,"Ovid Township, Precinct 1",Ovid Township Clerk,,REP,Amy Havasy,457
+Branch,"Quincy Township, Precinct 1",Quincy Township Clerk,,REP,Cindy Harleton,541
+Branch,"Sherwood Township, Precinct 1",Sherwood Township Clerk,,REP,Hannah Smith,200
+Branch,"Union Township, Precinct 1",Union Township Clerk,,REP,Sharon Boley,337
+Branch,"Algansee Township, Precinct 1",Algansee Township Treasurer,,REP,Sharon Atkinson,191
+Branch,"Algansee Township, Precinct 1",Algansee Township Treasurer,,REP,Onalee Connin,148
+Branch,"Batavia Township, Precinct 1",Batavia Township Treasurer,,REP,Ashley Gruner,182
+Branch,"Bethel Township, Precinct 1",Bethel Township Treasurer,,REP,Tracie Disbro,85
+Branch,"Bethel Township, Precinct 1",Bethel Township Treasurer,,REP,Tonia Vorce,22
+Branch,"Bethel Township, Precinct 1",Bethel Township Treasurer,,REP,James Webb,80
+Branch,"Bronson Township, Precinct 1",Bronson Township Treasurer,,REP,Mark Houghton,207
+Branch,"Butler Township, Precinct 1",Butler Township Treasurer,,REP,Deborah Bracy,163
+Branch,"California Township, Precinct 1",California Township Treasurer,,REP,Lori A. Bassage,81
+Branch,"Coldwater Township, Precinct 1",Coldwater Township Treasurer,,REP,Michael Sowles,605
+Branch,"Girard Township, Precinct 1",Girard Township Treasurer,,REP,Sarah K. Collins,325
+Branch,"Kinderhook Township, Precinct 1",Kinderhook Township Treasurer,,REP,Jody Ann Lewis,258
+Branch,"Matteson Township, Precinct 1",Matteson Township Treasurer,,REP,Sharon D. Butters,149
+Branch,"Noble Township, Precinct 1",Noble Township Treasurer,,REP,Ryan McFall,66
+Branch,"Ovid Township, Precinct 1",Ovid Township Treasurer,,REP,Shelly AcMoody,486
+Branch,"Quincy Township, Precinct 1",Quincy Township Treasurer,,REP,Timothy A. Brockway,556
+Branch,"Sherwood Township, Precinct 1",Sherwood Township Treasurer,,REP,Dale Marie Brubaker,199
+Branch,"Union Township, Precinct 1",Union Township Treasurer,,REP,Tara L. Powell,328
+Branch,"Algansee Township, Precinct 1",Algansee Township Trustee,,REP,Rodney Bassage,248
+Branch,"Algansee Township, Precinct 1",Algansee Township Trustee,,REP,Jason Shilling,243
+Branch,"Batavia Township, Precinct 1",Batavia Township Trustee,,REP,Michael Abrey,178
+Branch,"Bethel Township, Precinct 1",Bethel Township Trustee,,REP,Norbert Drust,99
+Branch,"Bethel Township, Precinct 1",Bethel Township Trustee,,REP,Jerry Haylett,102
+Branch,"Bethel Township, Precinct 1",Bethel Township Trustee,,REP,Robin Kehoe,106
+Branch,"Bronson Township, Precinct 1",Bronson Township Trustee,,REP,John R. Wielgos,185
+Branch,"Bronson Township, Precinct 1",Bronson Township Trustee,,REP,Roger D. Wisman,161
+Branch,"Butler Township, Precinct 1",Butler Township Trustee,,REP,Christopher D. Brenner,135
+Branch,"Butler Township, Precinct 1",Butler Township Trustee,,REP,Janis Olney,124
+Branch,"California Township, Precinct 1",California Township Trustee,,REP,Kelly Smith,75
+Branch,"Coldwater Township, Precinct 1",Coldwater Township Trustee,,REP,Ken Clayman,488
+Branch,"Coldwater Township, Precinct 1",Coldwater Township Trustee,,REP,Ted Short,468
+Branch,"Girard Township, Precinct 1",Girard Township Trustee,,REP,Adam L. Force,245
+Branch,"Girard Township, Precinct 1",Girard Township Trustee,,REP,William Wilber,264
+Branch,"Kinderhook Township, Precinct 1",Kinderhook Township Trustee,,REP,Hal McCurley,200
+Branch,"Kinderhook Township, Precinct 1",Kinderhook Township Trustee,,REP,Gary Stetler,197
+Branch,"Matteson Township, Precinct 1",Matteson Township Trustee,,REP,Richard W. Easterday,130
+Branch,"Matteson Township, Precinct 1",Matteson Township Trustee,,REP,Ted Stoll,124
+Branch,"Noble Township, Precinct 1",Noble Township Trustee,,REP,Bricelyn E. Allen,46
+Branch,"Noble Township, Precinct 1",Noble Township Trustee,,REP,Richard E. Wotta,63
+Branch,"Ovid Township, Precinct 1",Ovid Township Trustee,,REP,Steven P. Norton,401
+Branch,"Ovid Township, Precinct 1",Ovid Township Trustee,,REP,James Snivley,329
+Branch,"Quincy Township, Precinct 1",Quincy Township Trustee,,REP,Jim Harmon,435
+Branch,"Quincy Township, Precinct 1",Quincy Township Trustee,,REP,Marilyn Ostrander,401
+Branch,"Sherwood Township, Precinct 1",Sherwood Township Trustee,,REP,Jeff Brott,159
+Branch,"Sherwood Township, Precinct 1",Sherwood Township Trustee,,REP,Bill Courliss,143
+Branch,"Sherwood Township, Precinct 1",Sherwood Township Trustee,,REP,Donisha M. Leonard,63
+Branch,"Union Township, Precinct 1",Union Township Trustee,,REP,Justin Johnson,194
+Branch,"Union Township, Precinct 1",Union Township Trustee,,REP,Bobbi Snyder,133
+Branch,"Union Township, Precinct 1",Union Township Trustee,,REP,Bryan Washburn,229
+Branch,"Algansee Township, Precinct 1","Algansee Township, Precinct 1 Delegate to County Convention",,REP,David Mansfield,219
+Branch,"Algansee Township, Precinct 1","Algansee Township, Precinct 1 Delegate to County Convention",,REP,Judith R. Mansfield,159
+Branch,"Algansee Township, Precinct 1","Algansee Township, Precinct 1 Delegate to County Convention",,REP,Jeff Rider,178
+Branch,"Batavia Township, Precinct 1","Batavia Township, Precinct 1 Delegate to County Convention",,REP,Christine Ankner,122
+Branch,"Batavia Township, Precinct 1","Batavia Township, Precinct 1 Delegate to County Convention",,REP,Nicole Bohacz,125
+Branch,"Batavia Township, Precinct 1","Batavia Township, Precinct 1 Delegate to County Convention",,REP,Michelle A. Boyd,124
+Branch,"Bethel Township, Precinct 1","Bethel Township, Precinct 1 Delegate to County Convention",,REP,Mary Jo Evans,101
+Branch,"Bethel Township, Precinct 1","Bethel Township, Precinct 1 Delegate to County Convention",,REP,Larry Lindsey,122
+Branch,"Bethel Township, Precinct 1","Bethel Township, Precinct 1 Delegate to County Convention",,REP,Dennis Shaffer,122
+Branch,"Bethel Township, Precinct 1","Bethel Township, Precinct 1 Delegate to County Convention",,REP,Tiffanie Vargo,4
+Branch,"City of Bronson, Precinct 1","Bronson City, Precinct 1 Delegate to County Convention",,REP,Risa G. Davis,99
+Branch,"City of Bronson, Precinct 1","Bronson City, Precinct 1 Delegate to County Convention",,REP,Michael Grover Thyng,89
+Branch,"Bronson Township, Precinct 1","Bronson Township, Precinct 1 Delegate to County Convention",,REP,Seth Butters,162
+Branch,"Bronson Township, Precinct 1","Bronson Township, Precinct 1 Delegate to County Convention",,REP,Jesse D. Himebaugh,146
+Branch,"Bronson Township, Precinct 1","Bronson Township, Precinct 1 Delegate to County Convention",,REP,Randy Hollister,152
+Branch,"Bronson Township, Precinct 1","Bronson Township, Precinct 1 Delegate to County Convention",,REP,John Lindsey,160
+Branch,"Bronson Township, Precinct 1","Bronson Township, Precinct 1 Delegate to County Convention",,REP,Julia Lindsey,146
+Branch,"Bronson Township, Precinct 1","Bronson Township, Precinct 1 Delegate to County Convention",,REP,Mark Forrester,9
+Branch,"Bronson Township, Precinct 1","Bronson Township, Precinct 1 Delegate to County Convention",,REP,Lucis Shadix,4
+Branch,"Butler Township, Precinct 1","Butler Township, Precinct 1 Delegate to County Convention",,REP,Michael J. Milks,157
+Branch,"California Township, Precinct 1","California Township, Precinct 1 Delegate to County Convention",,REP,Robert Williams,76
+Branch,"City of Coldwater, Precinct 1","Coldwater City, Precinct 1 Delegate to County Convention",,REP,Robert Melton,191
+Branch,"City of Coldwater, Precinct 1","Coldwater City, Precinct 1 Delegate to County Convention",,REP,Susan DeLong,3
+Branch,"City of Coldwater, Precinct 2","Coldwater City, Precinct 2 Delegate to County Convention",,REP,David C. Lewis,149
+Branch,"City of Coldwater, Precinct 2","Coldwater City, Precinct 2 Delegate to County Convention",,REP,Lori L. Loveberry,226
+Branch,"City of Coldwater, Precinct 3","Coldwater City, Precinct 3 Delegate to County Convention",,REP,Veronica Brown,315
+Branch,"City of Coldwater, Precinct 3","Coldwater City, Precinct 3 Delegate to County Convention",,REP,Robert Foote,288
+Branch,"City of Coldwater, Precinct 4","Coldwater City, Precinct 4 Delegate to County Convention",,REP,Martin Gage,146
+Branch,"City of Coldwater, Precinct 4","Coldwater City, Precinct 4 Delegate to County Convention",,REP,Hal Nottingham,145
+Branch,"Coldwater Township, Precinct 1","Coldwater Township, Precinct 1 Delegate to County Convention",,REP,Ken Delaney,508
+Branch,"Coldwater Township, Precinct 1","Coldwater Township, Precinct 1 Delegate to County Convention",,REP,Scott Kirkpatrick,378
+Branch,"Coldwater Township, Precinct 1","Coldwater Township, Precinct 1 Delegate to County Convention",,REP,Chancelir Murdock,318
+Branch,"Coldwater Township, Precinct 1","Coldwater Township, Precinct 1 Delegate to County Convention",,REP,Cheryl Stechschulte,317
+Branch,"Coldwater Township, Precinct 1","Coldwater Township, Precinct 1 Delegate to County Convention",,REP,Gary Stechschulte,326
+Branch,"Coldwater Township, Precinct 1","Coldwater Township, Precinct 1 Delegate to County Convention",,REP,Jerry VanBlarcom,364
+Branch,"Coldwater Township, Precinct 1","Coldwater Township, Precinct 1 Delegate to County Convention",,REP,Letha M. VanBlarcom,354
+Branch,"Gilead Township, Precinct 1","Gilead Township, Precinct 1 Delegate to County Convention",,REP,Rick Hollister,59
+Branch,"Gilead Township, Precinct 1","Gilead Township, Precinct 1 Delegate to County Convention",,REP,Robert Lynn Mayer,44
+Branch,"Girard Township, Precinct 1","Girard Township, Precinct 1 Delegate to County Convention",,REP,Marygrace Nagy,199
+Branch,"Girard Township, Precinct 1","Girard Township, Precinct 1 Delegate to County Convention",,REP,Eryika Leigh-Mendelsohn Tucker,200
+Branch,"Girard Township, Precinct 1","Girard Township, Precinct 1 Delegate to County Convention",,REP,Megan Uetrecht,235
+Branch,"Kinderhook Township, Precinct 1","Kinderhook Township, Precinct 1 Delegate to County Convention",,REP,Angela O'Dell,234
+Branch,"Matteson Township, Precinct 1","Matteson Township, Precinct 1 Delegate to County Convention",,REP,Sharon D. Butters,141
+Branch,"Matteson Township, Precinct 1","Matteson Township, Precinct 1 Delegate to County Convention",,REP,Joanne Kirkpatrick,106
+Branch,"Matteson Township, Precinct 1","Matteson Township, Precinct 1 Delegate to County Convention",,REP,Karen L. Kirkpatrick,107
+Branch,"Ovid Township, Precinct 1","Ovid Township, Precinct 1 Delegate to County Convention",,REP,Daniel E. Barringer,317
+Branch,"Ovid Township, Precinct 1","Ovid Township, Precinct 1 Delegate to County Convention",,REP,Darius Barringer,274
+Branch,"Ovid Township, Precinct 1","Ovid Township, Precinct 1 Delegate to County Convention",,REP,Retta Clyne,290
+Branch,"Ovid Township, Precinct 1","Ovid Township, Precinct 1 Delegate to County Convention",,REP,Jerome L. Rahrig,267
+Branch,"Ovid Township, Precinct 1","Ovid Township, Precinct 1 Delegate to County Convention",,REP,Carolyn Rahrig,274
+Branch,"Ovid Township, Precinct 1","Ovid Township, Precinct 1 Delegate to County Convention",,REP,Mary Wachowicz,298
+Branch,"Quincy Township, Precinct 1","Quincy Township, Precinct 1 Delegate to County Convention",,REP,Angela R. Brewer,315
+Branch,"Quincy Township, Precinct 1","Quincy Township, Precinct 1 Delegate to County Convention",,REP,Tim Brewer,343
+Branch,"Quincy Township, Precinct 1","Quincy Township, Precinct 1 Delegate to County Convention",,REP,Doug Campbell,302
+Branch,"Quincy Township, Precinct 1","Quincy Township, Precinct 1 Delegate to County Convention",,REP,Jordan Oiler,267
+Branch,"Quincy Township, Precinct 1","Quincy Township, Precinct 1 Delegate to County Convention",,REP,Jennifer Wortz,376
+Branch,"Quincy Township, Precinct 1","Quincy Township, Precinct 1 Delegate to County Convention",,REP,Nathan Wortz,298
+Branch,"Union Township, Precinct 1","Union Township, Precinct 1 Delegate to County Convention",,REP,Cody Stanton,288
+Branch,"City of Bronson, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,144
+Branch,"City of Bronson, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,67
+Branch,"City of Coldwater, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,225
+Branch,"City of Coldwater, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,80
+Branch,"City of Coldwater, Precinct 2",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,326
+Branch,"City of Coldwater, Precinct 2",Branch County Commission on Aging Millage Renewal Proposal,,,No,98
+Branch,"City of Coldwater, Precinct 3",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,574
+Branch,"City of Coldwater, Precinct 3",Branch County Commission on Aging Millage Renewal Proposal,,,No,130
+Branch,"City of Coldwater, Precinct 4",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,245
+Branch,"City of Coldwater, Precinct 4",Branch County Commission on Aging Millage Renewal Proposal,,,No,97
+Branch,"Algansee Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,301
+Branch,"Algansee Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,149
+Branch,"Batavia Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,173
+Branch,"Batavia Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,69
+Branch,"Bethel Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,164
+Branch,"Bethel Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,54
+Branch,"Bronson Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,196
+Branch,"Bronson Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,67
+Branch,"Butler Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,146
+Branch,"Butler Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,76
+Branch,"California Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,58
+Branch,"California Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,41
+Branch,"Coldwater Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,597
+Branch,"Coldwater Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,193
+Branch,"Gilead Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,73
+Branch,"Gilead Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,35
+Branch,"Girard Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,321
+Branch,"Girard Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,133
+Branch,"Kinderhook Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,220
+Branch,"Kinderhook Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,129
+Branch,"Matteson Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,160
+Branch,"Matteson Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,81
+Branch,"Noble Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,49
+Branch,"Noble Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,27
+Branch,"Ovid Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,460
+Branch,"Ovid Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,191
+Branch,"Quincy Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,548
+Branch,"Quincy Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,209
+Branch,"Sherwood Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,198
+Branch,"Sherwood Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,84
+Branch,"Union Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,Yes,316
+Branch,"Union Township, Precinct 1",Branch County Commission on Aging Millage Renewal Proposal,,,No,160
+Branch,"City of Bronson, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,124
+Branch,"City of Bronson, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,86
+Branch,"City of Coldwater, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,192
+Branch,"City of Coldwater, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,111
+Branch,"City of Coldwater, Precinct 2",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,288
+Branch,"City of Coldwater, Precinct 2",Branch County Branch Area Transit Authority Millage Proposal,,,No,136
+Branch,"City of Coldwater, Precinct 3",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,501
+Branch,"City of Coldwater, Precinct 3",Branch County Branch Area Transit Authority Millage Proposal,,,No,205
+Branch,"City of Coldwater, Precinct 4",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,213
+Branch,"City of Coldwater, Precinct 4",Branch County Branch Area Transit Authority Millage Proposal,,,No,127
+Branch,"Algansee Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,249
+Branch,"Algansee Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,203
+Branch,"Batavia Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,142
+Branch,"Batavia Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,97
+Branch,"Bethel Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,128
+Branch,"Bethel Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,88
+Branch,"Bronson Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,169
+Branch,"Bronson Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,93
+Branch,"Butler Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,107
+Branch,"Butler Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,114
+Branch,"California Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,37
+Branch,"California Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,63
+Branch,"Coldwater Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,511
+Branch,"Coldwater Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,276
+Branch,"Gilead Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,62
+Branch,"Gilead Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,46
+Branch,"Girard Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,276
+Branch,"Girard Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,181
+Branch,"Kinderhook Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,189
+Branch,"Kinderhook Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,158
+Branch,"Matteson Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,125
+Branch,"Matteson Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,116
+Branch,"Noble Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,41
+Branch,"Noble Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,33
+Branch,"Ovid Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,392
+Branch,"Ovid Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,256
+Branch,"Quincy Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,432
+Branch,"Quincy Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,315
+Branch,"Sherwood Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,163
+Branch,"Sherwood Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,119
+Branch,"Union Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,Yes,268
+Branch,"Union Township, Precinct 1",Branch County Branch Area Transit Authority Millage Proposal,,,No,206
+Branch,"Batavia Township, Precinct 1","Batavia Township Millage Proposal, Fire Protection and Equipment",,,Yes,190
+Branch,"Batavia Township, Precinct 1","Batavia Township Millage Proposal, Fire Protection and Equipment",,,No,51
+Branch,"Union Township, Precinct 1",Union Township Millage Renewal for Cemetery Maintenance and Fire Protection,,,Yes,361
+Branch,"Union Township, Precinct 1",Union Township Millage Renewal for Cemetery Maintenance and Fire Protection,,,No,114
+Branch,"Butler Township, Precinct 1",Litchfield Community Schools Sinking Fund Millage Renewal Proposal,,,Yes,27
+Branch,"Butler Township, Precinct 1",Litchfield Community Schools Sinking Fund Millage Renewal Proposal,,,No,26
+Branch,"Algansee Township, Precinct 1",Quincy Community Schools Operating Millage Renewal Proposal,,,Yes,198
+Branch,"Algansee Township, Precinct 1",Quincy Community Schools Operating Millage Renewal Proposal,,,No,131
+Branch,"Butler Township, Precinct 1",Quincy Community Schools Operating Millage Renewal Proposal,,,Yes,71
+Branch,"Butler Township, Precinct 1",Quincy Community Schools Operating Millage Renewal Proposal,,,No,71
+Branch,"California Township, Precinct 1",Quincy Community Schools Operating Millage Renewal Proposal,,,Yes,22
+Branch,"California Township, Precinct 1",Quincy Community Schools Operating Millage Renewal Proposal,,,No,26
+Branch,"Coldwater Township, Precinct 1",Quincy Community Schools Operating Millage Renewal Proposal,,,Yes,10
+Branch,"Coldwater Township, Precinct 1",Quincy Community Schools Operating Millage Renewal Proposal,,,No,2
+Branch,"Ovid Township, Precinct 1",Quincy Community Schools Operating Millage Renewal Proposal,,,Yes,0
+Branch,"Ovid Township, Precinct 1",Quincy Community Schools Operating Millage Renewal Proposal,,,No,0
+Branch,"Quincy Township, Precinct 1",Quincy Community Schools Operating Millage Renewal Proposal,,,Yes,504
+Branch,"Quincy Township, Precinct 1",Quincy Community Schools Operating Millage Renewal Proposal,,,No,251

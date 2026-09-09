@@ -1,0 +1,566 @@
+county,precinct,office,district,party,candidate,votes
+Isabella,Broomfield Township Precinct 1,Governor,,DEM,Gretchen Whitmer,95
+Isabella,Broomfield Township Precinct 1,Governor,,REP,Garrett Soldano,68
+Isabella,Broomfield Township Precinct 1,Governor,,REP,Kevin Rinke,74
+Isabella,Broomfield Township Precinct 1,Governor,,REP,Ralph Rebandt,5
+Isabella,Broomfield Township Precinct 1,Governor,,REP,Ryan D. Kelley,55
+Isabella,Broomfield Township Precinct 1,Governor,,REP,Tudor M. Dixon,114
+Isabella,Broomfield Township Precinct 1,Governor,,REP,Write-In,6
+Isabella,Broomfield Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,91
+Isabella,Broomfield Township Precinct 1,U.S. House,2,REP,John Moolenaar,202
+Isabella,Broomfield Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,114
+Isabella,Broomfield Township Precinct 1,U.S. House,2,REP,Write-In,3
+Isabella,Broomfield Township Precinct 1,State Senate,34,DEM,Christine Gerace,89
+Isabella,Broomfield Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,62
+Isabella,Broomfield Township Precinct 1,State Senate,34,REP,Roger Hauck,256
+Isabella,Broomfield Township Precinct 1,State Senate,34,REP,Write-In,2
+Isabella,Broomfield Township Precinct 1,State House,92,DEM,Anthony D. Feig,89
+Isabella,Broomfield Township Precinct 1,State House,92,REP,Erin Zimmer,70
+Isabella,Broomfield Township Precinct 1,State House,92,REP,Gene Haymaker,59
+Isabella,Broomfield Township Precinct 1,State House,92,REP,Jerry Neyer,94
+Isabella,Broomfield Township Precinct 1,State House,92,REP,Thomas Anderman,37
+Isabella,Broomfield Township Precinct 1,State House,92,REP,Todd Schorle,55
+Isabella,Chippewa Township Precinct 1,Governor,,DEM,Gretchen Whitmer,145
+Isabella,Chippewa Township Precinct 1,Governor,,DEM,Write-In,1
+Isabella,Chippewa Township Precinct 1,Governor,,REP,Garrett Soldano,35
+Isabella,Chippewa Township Precinct 1,Governor,,REP,Kevin Rinke,52
+Isabella,Chippewa Township Precinct 1,Governor,,REP,Ralph Rebandt,10
+Isabella,Chippewa Township Precinct 1,Governor,,REP,Ryan D. Kelley,73
+Isabella,Chippewa Township Precinct 1,Governor,,REP,Tudor M. Dixon,62
+Isabella,Chippewa Township Precinct 1,Governor,,REP,Write-In,3
+Isabella,Chippewa Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,139
+Isabella,Chippewa Township Precinct 1,U.S. House,2,DEM,Write-In,1
+Isabella,Chippewa Township Precinct 1,U.S. House,2,REP,John Moolenaar,189
+Isabella,Chippewa Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,49
+Isabella,Chippewa Township Precinct 1,U.S. House,2,REP,Write-In,1
+Isabella,Chippewa Township Precinct 1,State Senate,34,DEM,Christine Gerace,137
+Isabella,Chippewa Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,55
+Isabella,Chippewa Township Precinct 1,State Senate,34,REP,Roger Hauck,181
+Isabella,Chippewa Township Precinct 1,State House,92,DEM,Anthony D. Feig,136
+Isabella,Chippewa Township Precinct 1,State House,92,REP,Erin Zimmer,32
+Isabella,Chippewa Township Precinct 1,State House,92,REP,Gene Haymaker,80
+Isabella,Chippewa Township Precinct 1,State House,92,REP,Jerry Neyer,54
+Isabella,Chippewa Township Precinct 1,State House,92,REP,Thomas Anderman,6
+Isabella,Chippewa Township Precinct 1,State House,92,REP,Todd Schorle,60
+Isabella,Chippewa Township Precinct 2,Governor,,DEM,Gretchen Whitmer,87
+Isabella,Chippewa Township Precinct 2,Governor,,REP,Garrett Soldano,12
+Isabella,Chippewa Township Precinct 2,Governor,,REP,Kevin Rinke,39
+Isabella,Chippewa Township Precinct 2,Governor,,REP,Ralph Rebandt,1
+Isabella,Chippewa Township Precinct 2,Governor,,REP,Ryan D. Kelley,30
+Isabella,Chippewa Township Precinct 2,Governor,,REP,Tudor M. Dixon,58
+Isabella,Chippewa Township Precinct 2,Governor,,REP,Write-In,3
+Isabella,Chippewa Township Precinct 2,U.S. House,2,DEM,Jerry Hilliard,83
+Isabella,Chippewa Township Precinct 2,U.S. House,2,REP,John Moolenaar,80
+Isabella,Chippewa Township Precinct 2,U.S. House,2,REP,Thomas J. Norton,62
+Isabella,Chippewa Township Precinct 2,State Senate,34,DEM,Christine Gerace,83
+Isabella,Chippewa Township Precinct 2,State Senate,34,REP,Lisa M. Sowers,32
+Isabella,Chippewa Township Precinct 2,State Senate,34,REP,Roger Hauck,111
+Isabella,Chippewa Township Precinct 2,State Senate,34,REP,Write-In,2
+Isabella,Chippewa Township Precinct 2,State House,92,DEM,Anthony D. Feig,83
+Isabella,Chippewa Township Precinct 2,State House,92,REP,Erin Zimmer,32
+Isabella,Chippewa Township Precinct 2,State House,92,REP,Gene Haymaker,28
+Isabella,Chippewa Township Precinct 2,State House,92,REP,Jerry Neyer,46
+Isabella,Chippewa Township Precinct 2,State House,92,REP,Thomas Anderman,9
+Isabella,Chippewa Township Precinct 2,State House,92,REP,Todd Schorle,29
+Isabella,City of Clare Precinct 1,Governor,,DEM,Gretchen Whitmer,0
+Isabella,City of Clare Precinct 1,Governor,,REP,Garrett Soldano,0
+Isabella,City of Clare Precinct 1,Governor,,REP,Kevin Rinke,0
+Isabella,City of Clare Precinct 1,Governor,,REP,Ralph Rebandt,0
+Isabella,City of Clare Precinct 1,Governor,,REP,Ryan D. Kelley,0
+Isabella,City of Clare Precinct 1,Governor,,REP,Tudor M. Dixon,0
+Isabella,City of Clare Precinct 1,U.S. House,2,DEM,Jerry Hilliard,0
+Isabella,City of Clare Precinct 1,U.S. House,2,REP,John Moolenaar,0
+Isabella,City of Clare Precinct 1,U.S. House,2,REP,Thomas J. Norton,0
+Isabella,City of Clare Precinct 1,State Senate,34,DEM,Christine Gerace,0
+Isabella,City of Clare Precinct 1,State Senate,34,REP,Lisa M. Sowers,0
+Isabella,City of Clare Precinct 1,State Senate,34,REP,Roger Hauck,0
+Isabella,City of Clare Precinct 1,State House,92,DEM,Anthony D. Feig,0
+Isabella,City of Clare Precinct 1,State House,92,REP,Erin Zimmer,0
+Isabella,City of Clare Precinct 1,State House,92,REP,Gene Haymaker,1
+Isabella,City of Clare Precinct 1,State House,92,REP,Jerry Neyer,2
+Isabella,City of Clare Precinct 1,State House,92,REP,Thomas Anderman,2
+Isabella,City of Clare Precinct 1,State House,92,REP,Todd Schorle,0
+Isabella,City of Mt. Pleasant Precinct 1,Governor,,DEM,Gretchen Whitmer,183
+Isabella,City of Mt. Pleasant Precinct 1,Governor,,REP,Garrett Soldano,22
+Isabella,City of Mt. Pleasant Precinct 1,Governor,,REP,Kevin Rinke,32
+Isabella,City of Mt. Pleasant Precinct 1,Governor,,REP,Ralph Rebandt,7
+Isabella,City of Mt. Pleasant Precinct 1,Governor,,REP,Ryan D. Kelley,34
+Isabella,City of Mt. Pleasant Precinct 1,Governor,,REP,Tudor M. Dixon,79
+Isabella,City of Mt. Pleasant Precinct 1,Governor,,REP,Write-In,4
+Isabella,City of Mt. Pleasant Precinct 1,U.S. House,2,DEM,Jerry Hilliard,182
+Isabella,City of Mt. Pleasant Precinct 1,U.S. House,2,REP,John Moolenaar,131
+Isabella,City of Mt. Pleasant Precinct 1,U.S. House,2,REP,Thomas J. Norton,46
+Isabella,City of Mt. Pleasant Precinct 1,State Senate,34,DEM,Christine Gerace,180
+Isabella,City of Mt. Pleasant Precinct 1,State Senate,34,REP,Lisa M. Sowers,33
+Isabella,City of Mt. Pleasant Precinct 1,State Senate,34,REP,Roger Hauck,144
+Isabella,City of Mt. Pleasant Precinct 1,State Senate,34,REP,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 1,State House,92,DEM,Anthony D. Feig,180
+Isabella,City of Mt. Pleasant Precinct 1,State House,92,REP,Erin Zimmer,30
+Isabella,City of Mt. Pleasant Precinct 1,State House,92,REP,Gene Haymaker,50
+Isabella,City of Mt. Pleasant Precinct 1,State House,92,REP,Jerry Neyer,56
+Isabella,City of Mt. Pleasant Precinct 1,State House,92,REP,Thomas Anderman,9
+Isabella,City of Mt. Pleasant Precinct 1,State House,92,REP,Todd Schorle,31
+Isabella,City of Mt. Pleasant Precinct 1,State House,92,REP,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 2,Governor,,DEM,Gretchen Whitmer,285
+Isabella,City of Mt. Pleasant Precinct 2,Governor,,DEM,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 2,Governor,,REP,Garrett Soldano,16
+Isabella,City of Mt. Pleasant Precinct 2,Governor,,REP,Kevin Rinke,39
+Isabella,City of Mt. Pleasant Precinct 2,Governor,,REP,Ralph Rebandt,11
+Isabella,City of Mt. Pleasant Precinct 2,Governor,,REP,Ryan D. Kelley,33
+Isabella,City of Mt. Pleasant Precinct 2,Governor,,REP,Tudor M. Dixon,51
+Isabella,City of Mt. Pleasant Precinct 2,Governor,,REP,Write-In,4
+Isabella,City of Mt. Pleasant Precinct 2,U.S. House,2,DEM,Jerry Hilliard,275
+Isabella,City of Mt. Pleasant Precinct 2,U.S. House,2,DEM,Write-In,2
+Isabella,City of Mt. Pleasant Precinct 2,U.S. House,2,REP,John Moolenaar,83
+Isabella,City of Mt. Pleasant Precinct 2,U.S. House,2,REP,Thomas J. Norton,66
+Isabella,City of Mt. Pleasant Precinct 2,State Senate,34,DEM,Christine Gerace,277
+Isabella,City of Mt. Pleasant Precinct 2,State Senate,34,REP,Lisa M. Sowers,38
+Isabella,City of Mt. Pleasant Precinct 2,State Senate,34,REP,Roger Hauck,111
+Isabella,City of Mt. Pleasant Precinct 2,State Senate,34,REP,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 2,State House,92,DEM,Anthony D. Feig,278
+Isabella,City of Mt. Pleasant Precinct 2,State House,92,DEM,Write-In,2
+Isabella,City of Mt. Pleasant Precinct 2,State House,92,REP,Erin Zimmer,42
+Isabella,City of Mt. Pleasant Precinct 2,State House,92,REP,Gene Haymaker,42
+Isabella,City of Mt. Pleasant Precinct 2,State House,92,REP,Jerry Neyer,37
+Isabella,City of Mt. Pleasant Precinct 2,State House,92,REP,Thomas Anderman,6
+Isabella,City of Mt. Pleasant Precinct 2,State House,92,REP,Todd Schorle,24
+Isabella,City of Mt. Pleasant Precinct 3,Governor,,DEM,Gretchen Whitmer,362
+Isabella,City of Mt. Pleasant Precinct 3,Governor,,REP,Garrett Soldano,34
+Isabella,City of Mt. Pleasant Precinct 3,Governor,,REP,Kevin Rinke,90
+Isabella,City of Mt. Pleasant Precinct 3,Governor,,REP,Ralph Rebandt,17
+Isabella,City of Mt. Pleasant Precinct 3,Governor,,REP,Ryan D. Kelley,71
+Isabella,City of Mt. Pleasant Precinct 3,Governor,,REP,Tudor M. Dixon,135
+Isabella,City of Mt. Pleasant Precinct 3,Governor,,REP,Write-In,9
+Isabella,City of Mt. Pleasant Precinct 3,U.S. House,2,DEM,Jerry Hilliard,348
+Isabella,City of Mt. Pleasant Precinct 3,U.S. House,2,DEM,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 3,U.S. House,2,REP,John Moolenaar,251
+Isabella,City of Mt. Pleasant Precinct 3,U.S. House,2,REP,Thomas J. Norton,98
+Isabella,City of Mt. Pleasant Precinct 3,U.S. House,2,REP,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 3,State Senate,34,DEM,Christine Gerace,349
+Isabella,City of Mt. Pleasant Precinct 3,State Senate,34,REP,Lisa M. Sowers,76
+Isabella,City of Mt. Pleasant Precinct 3,State Senate,34,REP,Roger Hauck,276
+Isabella,City of Mt. Pleasant Precinct 3,State Senate,34,REP,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 3,State House,92,DEM,Anthony D. Feig,350
+Isabella,City of Mt. Pleasant Precinct 3,State House,92,REP,Erin Zimmer,129
+Isabella,City of Mt. Pleasant Precinct 3,State House,92,REP,Gene Haymaker,91
+Isabella,City of Mt. Pleasant Precinct 3,State House,92,REP,Jerry Neyer,78
+Isabella,City of Mt. Pleasant Precinct 3,State House,92,REP,Thomas Anderman,17
+Isabella,City of Mt. Pleasant Precinct 3,State House,92,REP,Todd Schorle,39
+Isabella,City of Mt. Pleasant Precinct 3,State House,92,REP,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 4,Governor,,DEM,Gretchen Whitmer,205
+Isabella,City of Mt. Pleasant Precinct 4,Governor,,REP,Garrett Soldano,23
+Isabella,City of Mt. Pleasant Precinct 4,Governor,,REP,Kevin Rinke,52
+Isabella,City of Mt. Pleasant Precinct 4,Governor,,REP,Ralph Rebandt,16
+Isabella,City of Mt. Pleasant Precinct 4,Governor,,REP,Ryan D. Kelley,25
+Isabella,City of Mt. Pleasant Precinct 4,Governor,,REP,Tudor M. Dixon,63
+Isabella,City of Mt. Pleasant Precinct 4,Governor,,REP,Write-In,4
+Isabella,City of Mt. Pleasant Precinct 4,U.S. House,2,DEM,Jerry Hilliard,201
+Isabella,City of Mt. Pleasant Precinct 4,U.S. House,2,DEM,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 4,U.S. House,2,REP,John Moolenaar,128
+Isabella,City of Mt. Pleasant Precinct 4,U.S. House,2,REP,Thomas J. Norton,59
+Isabella,City of Mt. Pleasant Precinct 4,U.S. House,2,REP,Write-In,2
+Isabella,City of Mt. Pleasant Precinct 4,State Senate,34,DEM,Christine Gerace,201
+Isabella,City of Mt. Pleasant Precinct 4,State Senate,34,REP,Lisa M. Sowers,43
+Isabella,City of Mt. Pleasant Precinct 4,State Senate,34,REP,Roger Hauck,148
+Isabella,City of Mt. Pleasant Precinct 4,State House,92,DEM,Anthony D. Feig,200
+Isabella,City of Mt. Pleasant Precinct 4,State House,92,REP,Erin Zimmer,66
+Isabella,City of Mt. Pleasant Precinct 4,State House,92,REP,Gene Haymaker,29
+Isabella,City of Mt. Pleasant Precinct 4,State House,92,REP,Jerry Neyer,49
+Isabella,City of Mt. Pleasant Precinct 4,State House,92,REP,Thomas Anderman,7
+Isabella,City of Mt. Pleasant Precinct 4,State House,92,REP,Todd Schorle,36
+Isabella,City of Mt. Pleasant Precinct 5,Governor,,DEM,Gretchen Whitmer,281
+Isabella,City of Mt. Pleasant Precinct 5,Governor,,REP,Garrett Soldano,20
+Isabella,City of Mt. Pleasant Precinct 5,Governor,,REP,Kevin Rinke,40
+Isabella,City of Mt. Pleasant Precinct 5,Governor,,REP,Ralph Rebandt,7
+Isabella,City of Mt. Pleasant Precinct 5,Governor,,REP,Ryan D. Kelley,32
+Isabella,City of Mt. Pleasant Precinct 5,Governor,,REP,Tudor M. Dixon,82
+Isabella,City of Mt. Pleasant Precinct 5,Governor,,REP,Write-In,5
+Isabella,City of Mt. Pleasant Precinct 5,U.S. House,2,DEM,Jerry Hilliard,271
+Isabella,City of Mt. Pleasant Precinct 5,U.S. House,2,DEM,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 5,U.S. House,2,REP,John Moolenaar,136
+Isabella,City of Mt. Pleasant Precinct 5,U.S. House,2,REP,Thomas J. Norton,55
+Isabella,City of Mt. Pleasant Precinct 5,U.S. House,2,REP,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 5,State Senate,34,DEM,Christine Gerace,271
+Isabella,City of Mt. Pleasant Precinct 5,State Senate,34,REP,Lisa M. Sowers,45
+Isabella,City of Mt. Pleasant Precinct 5,State Senate,34,REP,Roger Hauck,144
+Isabella,City of Mt. Pleasant Precinct 5,State Senate,34,REP,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 5,State House,92,DEM,Anthony D. Feig,270
+Isabella,City of Mt. Pleasant Precinct 5,State House,92,DEM,Write-In,1
+Isabella,City of Mt. Pleasant Precinct 5,State House,92,REP,Erin Zimmer,58
+Isabella,City of Mt. Pleasant Precinct 5,State House,92,REP,Gene Haymaker,37
+Isabella,City of Mt. Pleasant Precinct 5,State House,92,REP,Jerry Neyer,45
+Isabella,City of Mt. Pleasant Precinct 5,State House,92,REP,Thomas Anderman,9
+Isabella,City of Mt. Pleasant Precinct 5,State House,92,REP,Todd Schorle,30
+Isabella,City of Mt. Pleasant Precinct 5,State House,92,REP,Write-In,3
+Isabella,Coe Township Precinct 1,Governor,,DEM,Gretchen Whitmer,101
+Isabella,Coe Township Precinct 1,Governor,,DEM,Write-In,1
+Isabella,Coe Township Precinct 1,Governor,,REP,Garrett Soldano,39
+Isabella,Coe Township Precinct 1,Governor,,REP,Kevin Rinke,81
+Isabella,Coe Township Precinct 1,Governor,,REP,Ralph Rebandt,8
+Isabella,Coe Township Precinct 1,Governor,,REP,Ryan D. Kelley,54
+Isabella,Coe Township Precinct 1,Governor,,REP,Tudor M. Dixon,83
+Isabella,Coe Township Precinct 1,Governor,,REP,Write-In,2
+Isabella,Coe Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,97
+Isabella,Coe Township Precinct 1,U.S. House,2,DEM,Write-In,2
+Isabella,Coe Township Precinct 1,U.S. House,2,REP,John Moolenaar,197
+Isabella,Coe Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,63
+Isabella,Coe Township Precinct 1,State Senate,34,DEM,Christine Gerace,97
+Isabella,Coe Township Precinct 1,State Senate,34,DEM,Write-In,2
+Isabella,Coe Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,58
+Isabella,Coe Township Precinct 1,State Senate,34,REP,Roger Hauck,202
+Isabella,Coe Township Precinct 1,State House,92,DEM,Anthony D. Feig,97
+Isabella,Coe Township Precinct 1,State House,92,DEM,Write-In,2
+Isabella,Coe Township Precinct 1,State House,92,REP,Erin Zimmer,55
+Isabella,Coe Township Precinct 1,State House,92,REP,Gene Haymaker,60
+Isabella,Coe Township Precinct 1,State House,92,REP,Jerry Neyer,91
+Isabella,Coe Township Precinct 1,State House,92,REP,Thomas Anderman,14
+Isabella,Coe Township Precinct 1,State House,92,REP,Todd Schorle,41
+Isabella,Coe Township Precinct 2,Governor,,DEM,Gretchen Whitmer,86
+Isabella,Coe Township Precinct 2,Governor,,REP,Garrett Soldano,34
+Isabella,Coe Township Precinct 2,Governor,,REP,Kevin Rinke,60
+Isabella,Coe Township Precinct 2,Governor,,REP,Ralph Rebandt,8
+Isabella,Coe Township Precinct 2,Governor,,REP,Ryan D. Kelley,43
+Isabella,Coe Township Precinct 2,Governor,,REP,Tudor M. Dixon,56
+Isabella,Coe Township Precinct 2,Governor,,REP,Write-In,1
+Isabella,Coe Township Precinct 2,U.S. House,2,DEM,Jerry Hilliard,82
+Isabella,Coe Township Precinct 2,U.S. House,2,REP,John Moolenaar,143
+Isabella,Coe Township Precinct 2,U.S. House,2,REP,Thomas J. Norton,60
+Isabella,Coe Township Precinct 2,State Senate,34,DEM,Christine Gerace,82
+Isabella,Coe Township Precinct 2,State Senate,34,REP,Lisa M. Sowers,37
+Isabella,Coe Township Precinct 2,State Senate,34,REP,Roger Hauck,167
+Isabella,Coe Township Precinct 2,State House,92,DEM,Anthony D. Feig,80
+Isabella,Coe Township Precinct 2,State House,92,REP,Erin Zimmer,35
+Isabella,Coe Township Precinct 2,State House,92,REP,Gene Haymaker,39
+Isabella,Coe Township Precinct 2,State House,92,REP,Jerry Neyer,77
+Isabella,Coe Township Precinct 2,State House,92,REP,Thomas Anderman,7
+Isabella,Coe Township Precinct 2,State House,92,REP,Todd Schorle,45
+Isabella,Coldwater Township Precinct 1,Governor,,DEM,Gretchen Whitmer,31
+Isabella,Coldwater Township Precinct 1,Governor,,REP,Garrett Soldano,24
+Isabella,Coldwater Township Precinct 1,Governor,,REP,Kevin Rinke,41
+Isabella,Coldwater Township Precinct 1,Governor,,REP,Ralph Rebandt,4
+Isabella,Coldwater Township Precinct 1,Governor,,REP,Ryan D. Kelley,22
+Isabella,Coldwater Township Precinct 1,Governor,,REP,Tudor M. Dixon,43
+Isabella,Coldwater Township Precinct 1,Governor,,REP,Write-In,1
+Isabella,Coldwater Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,30
+Isabella,Coldwater Township Precinct 1,U.S. House,2,REP,John Moolenaar,98
+Isabella,Coldwater Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,34
+Isabella,Coldwater Township Precinct 1,State Senate,34,DEM,Christine Gerace,30
+Isabella,Coldwater Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,32
+Isabella,Coldwater Township Precinct 1,State Senate,34,REP,Roger Hauck,101
+Isabella,Coldwater Township Precinct 1,State House,92,DEM,Anthony D. Feig,30
+Isabella,Coldwater Township Precinct 1,State House,92,REP,Erin Zimmer,17
+Isabella,Coldwater Township Precinct 1,State House,92,REP,Gene Haymaker,40
+Isabella,Coldwater Township Precinct 1,State House,92,REP,Jerry Neyer,37
+Isabella,Coldwater Township Precinct 1,State House,92,REP,Thomas Anderman,13
+Isabella,Coldwater Township Precinct 1,State House,92,REP,Todd Schorle,21
+Isabella,Deerfield Township Precinct 1,Governor,,DEM,Gretchen Whitmer,187
+Isabella,Deerfield Township Precinct 1,Governor,,REP,Garrett Soldano,34
+Isabella,Deerfield Township Precinct 1,Governor,,REP,Kevin Rinke,80
+Isabella,Deerfield Township Precinct 1,Governor,,REP,Ralph Rebandt,9
+Isabella,Deerfield Township Precinct 1,Governor,,REP,Ryan D. Kelley,63
+Isabella,Deerfield Township Precinct 1,Governor,,REP,Tudor M. Dixon,133
+Isabella,Deerfield Township Precinct 1,Governor,,REP,Write-In,1
+Isabella,Deerfield Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,184
+Isabella,Deerfield Township Precinct 1,U.S. House,2,REP,John Moolenaar,231
+Isabella,Deerfield Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,90
+Isabella,Deerfield Township Precinct 1,State Senate,34,DEM,Christine Gerace,183
+Isabella,Deerfield Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,64
+Isabella,Deerfield Township Precinct 1,State Senate,34,REP,Roger Hauck,256
+Isabella,Deerfield Township Precinct 1,State Senate,34,REP,Write-In,1
+Isabella,Deerfield Township Precinct 1,State House,92,DEM,Anthony D. Feig,179
+Isabella,Deerfield Township Precinct 1,State House,92,REP,Erin Zimmer,63
+Isabella,Deerfield Township Precinct 1,State House,92,REP,Gene Haymaker,68
+Isabella,Deerfield Township Precinct 1,State House,92,REP,Jerry Neyer,106
+Isabella,Deerfield Township Precinct 1,State House,92,REP,Thomas Anderman,18
+Isabella,Deerfield Township Precinct 1,State House,92,REP,Todd Schorle,62
+Isabella,Deerfield Township Precinct 2,Governor,,DEM,Gretchen Whitmer,64
+Isabella,Deerfield Township Precinct 2,Governor,,REP,Garrett Soldano,31
+Isabella,Deerfield Township Precinct 2,Governor,,REP,Kevin Rinke,58
+Isabella,Deerfield Township Precinct 2,Governor,,REP,Ralph Rebandt,14
+Isabella,Deerfield Township Precinct 2,Governor,,REP,Ryan D. Kelley,41
+Isabella,Deerfield Township Precinct 2,Governor,,REP,Tudor M. Dixon,71
+Isabella,Deerfield Township Precinct 2,U.S. House,2,DEM,Jerry Hilliard,62
+Isabella,Deerfield Township Precinct 2,U.S. House,2,REP,John Moolenaar,155
+Isabella,Deerfield Township Precinct 2,U.S. House,2,REP,Thomas J. Norton,59
+Isabella,Deerfield Township Precinct 2,State Senate,34,DEM,Christine Gerace,62
+Isabella,Deerfield Township Precinct 2,State Senate,34,REP,Lisa M. Sowers,26
+Isabella,Deerfield Township Precinct 2,State Senate,34,REP,Roger Hauck,188
+Isabella,Deerfield Township Precinct 2,State House,92,DEM,Anthony D. Feig,60
+Isabella,Deerfield Township Precinct 2,State House,92,REP,Erin Zimmer,44
+Isabella,Deerfield Township Precinct 2,State House,92,REP,Gene Haymaker,46
+Isabella,Deerfield Township Precinct 2,State House,92,REP,Jerry Neyer,82
+Isabella,Deerfield Township Precinct 2,State House,92,REP,Thomas Anderman,5
+Isabella,Deerfield Township Precinct 2,State House,92,REP,Todd Schorle,41
+Isabella,Denver Township Precinct 1,Governor,,DEM,Gretchen Whitmer,42
+Isabella,Denver Township Precinct 1,Governor,,REP,Garrett Soldano,35
+Isabella,Denver Township Precinct 1,Governor,,REP,Kevin Rinke,44
+Isabella,Denver Township Precinct 1,Governor,,REP,Ralph Rebandt,2
+Isabella,Denver Township Precinct 1,Governor,,REP,Ryan D. Kelley,19
+Isabella,Denver Township Precinct 1,Governor,,REP,Tudor M. Dixon,46
+Isabella,Denver Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,42
+Isabella,Denver Township Precinct 1,U.S. House,2,REP,John Moolenaar,106
+Isabella,Denver Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,37
+Isabella,Denver Township Precinct 1,State Senate,34,DEM,Christine Gerace,42
+Isabella,Denver Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,26
+Isabella,Denver Township Precinct 1,State Senate,34,REP,Roger Hauck,118
+Isabella,Denver Township Precinct 1,State Senate,34,REP,Write-In,1
+Isabella,Denver Township Precinct 1,State House,92,DEM,Anthony D. Feig,41
+Isabella,Denver Township Precinct 1,State House,92,REP,Erin Zimmer,33
+Isabella,Denver Township Precinct 1,State House,92,REP,Gene Haymaker,26
+Isabella,Denver Township Precinct 1,State House,92,REP,Jerry Neyer,34
+Isabella,Denver Township Precinct 1,State House,92,REP,Thomas Anderman,5
+Isabella,Denver Township Precinct 1,State House,92,REP,Todd Schorle,43
+Isabella,Fremont Township Precinct 1,Governor,,DEM,Gretchen Whitmer,62
+Isabella,Fremont Township Precinct 1,Governor,,REP,Garrett Soldano,37
+Isabella,Fremont Township Precinct 1,Governor,,REP,Kevin Rinke,44
+Isabella,Fremont Township Precinct 1,Governor,,REP,Ralph Rebandt,12
+Isabella,Fremont Township Precinct 1,Governor,,REP,Ryan D. Kelley,38
+Isabella,Fremont Township Precinct 1,Governor,,REP,Tudor M. Dixon,68
+Isabella,Fremont Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,61
+Isabella,Fremont Township Precinct 1,U.S. House,2,REP,John Moolenaar,149
+Isabella,Fremont Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,54
+Isabella,Fremont Township Precinct 1,State Senate,34,DEM,Christine Gerace,59
+Isabella,Fremont Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,37
+Isabella,Fremont Township Precinct 1,State Senate,34,REP,Roger Hauck,165
+Isabella,Fremont Township Precinct 1,State Senate,34,REP,Write-In,1
+Isabella,Fremont Township Precinct 1,State House,92,DEM,Anthony D. Feig,60
+Isabella,Fremont Township Precinct 1,State House,92,REP,Erin Zimmer,34
+Isabella,Fremont Township Precinct 1,State House,92,REP,Gene Haymaker,46
+Isabella,Fremont Township Precinct 1,State House,92,REP,Jerry Neyer,86
+Isabella,Fremont Township Precinct 1,State House,92,REP,Thomas Anderman,13
+Isabella,Fremont Township Precinct 1,State House,92,REP,Todd Schorle,23
+Isabella,Gilmore Township Precinct 1,Governor,,DEM,Gretchen Whitmer,70
+Isabella,Gilmore Township Precinct 1,Governor,,REP,Garrett Soldano,61
+Isabella,Gilmore Township Precinct 1,Governor,,REP,Kevin Rinke,70
+Isabella,Gilmore Township Precinct 1,Governor,,REP,Ralph Rebandt,9
+Isabella,Gilmore Township Precinct 1,Governor,,REP,Ryan D. Kelley,31
+Isabella,Gilmore Township Precinct 1,Governor,,REP,Tudor M. Dixon,78
+Isabella,Gilmore Township Precinct 1,Governor,,REP,Write-In,2
+Isabella,Gilmore Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,64
+Isabella,Gilmore Township Precinct 1,U.S. House,2,REP,John Moolenaar,182
+Isabella,Gilmore Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,62
+Isabella,Gilmore Township Precinct 1,U.S. House,2,REP,Write-In,1
+Isabella,Gilmore Township Precinct 1,State Senate,34,DEM,Christine Gerace,63
+Isabella,Gilmore Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,42
+Isabella,Gilmore Township Precinct 1,State Senate,34,REP,Roger Hauck,207
+Isabella,Gilmore Township Precinct 1,State House,92,DEM,Anthony D. Feig,64
+Isabella,Gilmore Township Precinct 1,State House,92,REP,Erin Zimmer,62
+Isabella,Gilmore Township Precinct 1,State House,92,REP,Gene Haymaker,53
+Isabella,Gilmore Township Precinct 1,State House,92,REP,Jerry Neyer,75
+Isabella,Gilmore Township Precinct 1,State House,92,REP,Thomas Anderman,10
+Isabella,Gilmore Township Precinct 1,State House,92,REP,Todd Schorle,38
+Isabella,Gilmore Township Precinct 1,State House,92,REP,Write-In,1
+Isabella,Isabella Township Precinct 1,Governor,,DEM,Gretchen Whitmer,139
+Isabella,Isabella Township Precinct 1,Governor,,REP,Garrett Soldano,49
+Isabella,Isabella Township Precinct 1,Governor,,REP,Kevin Rinke,70
+Isabella,Isabella Township Precinct 1,Governor,,REP,Ralph Rebandt,10
+Isabella,Isabella Township Precinct 1,Governor,,REP,Ryan D. Kelley,55
+Isabella,Isabella Township Precinct 1,Governor,,REP,Tudor M. Dixon,102
+Isabella,Isabella Township Precinct 1,Governor,,REP,Write-In,3
+Isabella,Isabella Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,137
+Isabella,Isabella Township Precinct 1,U.S. House,2,REP,John Moolenaar,207
+Isabella,Isabella Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,77
+Isabella,Isabella Township Precinct 1,State Senate,34,DEM,Christine Gerace,138
+Isabella,Isabella Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,49
+Isabella,Isabella Township Precinct 1,State Senate,34,REP,Roger Hauck,241
+Isabella,Isabella Township Precinct 1,State House,92,DEM,Anthony D. Feig,138
+Isabella,Isabella Township Precinct 1,State House,92,REP,Erin Zimmer,54
+Isabella,Isabella Township Precinct 1,State House,92,REP,Gene Haymaker,37
+Isabella,Isabella Township Precinct 1,State House,92,REP,Jerry Neyer,129
+Isabella,Isabella Township Precinct 1,State House,92,REP,Thomas Anderman,10
+Isabella,Isabella Township Precinct 1,State House,92,REP,Todd Schorle,64
+Isabella,Lincoln Township Precinct 1,Governor,,DEM,Gretchen Whitmer,108
+Isabella,Lincoln Township Precinct 1,Governor,,REP,Garrett Soldano,65
+Isabella,Lincoln Township Precinct 1,Governor,,REP,Kevin Rinke,90
+Isabella,Lincoln Township Precinct 1,Governor,,REP,Ralph Rebandt,14
+Isabella,Lincoln Township Precinct 1,Governor,,REP,Ryan D. Kelley,55
+Isabella,Lincoln Township Precinct 1,Governor,,REP,Tudor M. Dixon,120
+Isabella,Lincoln Township Precinct 1,Governor,,REP,Write-In,1
+Isabella,Lincoln Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,105
+Isabella,Lincoln Township Precinct 1,U.S. House,2,REP,John Moolenaar,250
+Isabella,Lincoln Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,95
+Isabella,Lincoln Township Precinct 1,U.S. House,2,REP,Write-In,1
+Isabella,Lincoln Township Precinct 1,State Senate,34,DEM,Christine Gerace,104
+Isabella,Lincoln Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,45
+Isabella,Lincoln Township Precinct 1,State Senate,34,REP,Roger Hauck,301
+Isabella,Lincoln Township Precinct 1,State House,92,DEM,Anthony D. Feig,104
+Isabella,Lincoln Township Precinct 1,State House,92,REP,Erin Zimmer,53
+Isabella,Lincoln Township Precinct 1,State House,92,REP,Gene Haymaker,57
+Isabella,Lincoln Township Precinct 1,State House,92,REP,Jerry Neyer,138
+Isabella,Lincoln Township Precinct 1,State House,92,REP,Thomas Anderman,8
+Isabella,Lincoln Township Precinct 1,State House,92,REP,Todd Schorle,88
+Isabella,Nottawa Township Precinct 1,Governor,,DEM,Gretchen Whitmer,104
+Isabella,Nottawa Township Precinct 1,Governor,,REP,Garrett Soldano,51
+Isabella,Nottawa Township Precinct 1,Governor,,REP,Kevin Rinke,80
+Isabella,Nottawa Township Precinct 1,Governor,,REP,Ralph Rebandt,12
+Isabella,Nottawa Township Precinct 1,Governor,,REP,Ryan D. Kelley,82
+Isabella,Nottawa Township Precinct 1,Governor,,REP,Tudor M. Dixon,125
+Isabella,Nottawa Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,95
+Isabella,Nottawa Township Precinct 1,U.S. House,2,REP,John Moolenaar,264
+Isabella,Nottawa Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,87
+Isabella,Nottawa Township Precinct 1,State Senate,34,DEM,Christine Gerace,93
+Isabella,Nottawa Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,41
+Isabella,Nottawa Township Precinct 1,State Senate,34,REP,Roger Hauck,323
+Isabella,Nottawa Township Precinct 1,State House,92,DEM,Anthony D. Feig,92
+Isabella,Nottawa Township Precinct 1,State House,92,REP,Erin Zimmer,88
+Isabella,Nottawa Township Precinct 1,State House,92,REP,Gene Haymaker,50
+Isabella,Nottawa Township Precinct 1,State House,92,REP,Jerry Neyer,169
+Isabella,Nottawa Township Precinct 1,State House,92,REP,Thomas Anderman,15
+Isabella,Nottawa Township Precinct 1,State House,92,REP,Todd Schorle,41
+Isabella,Rolland Township Precinct 1,Governor,,DEM,Gretchen Whitmer,62
+Isabella,Rolland Township Precinct 1,Governor,,REP,Garrett Soldano,45
+Isabella,Rolland Township Precinct 1,Governor,,REP,Kevin Rinke,32
+Isabella,Rolland Township Precinct 1,Governor,,REP,Ralph Rebandt,9
+Isabella,Rolland Township Precinct 1,Governor,,REP,Ryan D. Kelley,39
+Isabella,Rolland Township Precinct 1,Governor,,REP,Tudor M. Dixon,48
+Isabella,Rolland Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,60
+Isabella,Rolland Township Precinct 1,U.S. House,2,REP,John Moolenaar,126
+Isabella,Rolland Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,46
+Isabella,Rolland Township Precinct 1,State Senate,34,DEM,Christine Gerace,61
+Isabella,Rolland Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,35
+Isabella,Rolland Township Precinct 1,State Senate,34,REP,Roger Hauck,137
+Isabella,Rolland Township Precinct 1,State House,92,DEM,Anthony D. Feig,59
+Isabella,Rolland Township Precinct 1,State House,92,REP,Erin Zimmer,17
+Isabella,Rolland Township Precinct 1,State House,92,REP,Gene Haymaker,38
+Isabella,Rolland Township Precinct 1,State House,92,REP,Jerry Neyer,61
+Isabella,Rolland Township Precinct 1,State House,92,REP,Thomas Anderman,16
+Isabella,Rolland Township Precinct 1,State House,92,REP,Todd Schorle,37
+Isabella,Rolland Township Precinct 1,State House,92,REP,Write-In,1
+Isabella,Sherman Township Precinct 1,Governor,,DEM,Gretchen Whitmer,85
+Isabella,Sherman Township Precinct 1,Governor,,REP,Garrett Soldano,49
+Isabella,Sherman Township Precinct 1,Governor,,REP,Kevin Rinke,51
+Isabella,Sherman Township Precinct 1,Governor,,REP,Ralph Rebandt,12
+Isabella,Sherman Township Precinct 1,Governor,,REP,Ryan D. Kelley,53
+Isabella,Sherman Township Precinct 1,Governor,,REP,Tudor M. Dixon,70
+Isabella,Sherman Township Precinct 1,Governor,,REP,Write-In,1
+Isabella,Sherman Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,85
+Isabella,Sherman Township Precinct 1,U.S. House,2,REP,John Moolenaar,170
+Isabella,Sherman Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,67
+Isabella,Sherman Township Precinct 1,U.S. House,2,REP,Write-In,1
+Isabella,Sherman Township Precinct 1,State Senate,34,DEM,Christine Gerace,83
+Isabella,Sherman Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,40
+Isabella,Sherman Township Precinct 1,State Senate,34,REP,Roger Hauck,197
+Isabella,Sherman Township Precinct 1,State Senate,34,REP,Write-In,1
+Isabella,Sherman Township Precinct 1,State House,92,DEM,Anthony D. Feig,82
+Isabella,Sherman Township Precinct 1,State House,92,REP,Erin Zimmer,27
+Isabella,Sherman Township Precinct 1,State House,92,REP,Gene Haymaker,49
+Isabella,Sherman Township Precinct 1,State House,92,REP,Jerry Neyer,89
+Isabella,Sherman Township Precinct 1,State House,92,REP,Thomas Anderman,37
+Isabella,Sherman Township Precinct 1,State House,92,REP,Todd Schorle,35
+Isabella,Sherman Township Precinct 2,Governor,,DEM,Gretchen Whitmer,81
+Isabella,Sherman Township Precinct 2,Governor,,REP,Garrett Soldano,46
+Isabella,Sherman Township Precinct 2,Governor,,REP,Kevin Rinke,56
+Isabella,Sherman Township Precinct 2,Governor,,REP,Ralph Rebandt,7
+Isabella,Sherman Township Precinct 2,Governor,,REP,Ryan D. Kelley,39
+Isabella,Sherman Township Precinct 2,Governor,,REP,Tudor M. Dixon,72
+Isabella,Sherman Township Precinct 2,Governor,,REP,Write-In,1
+Isabella,Sherman Township Precinct 2,U.S. House,2,DEM,Jerry Hilliard,80
+Isabella,Sherman Township Precinct 2,U.S. House,2,REP,John Moolenaar,166
+Isabella,Sherman Township Precinct 2,U.S. House,2,REP,Thomas J. Norton,57
+Isabella,Sherman Township Precinct 2,State Senate,34,DEM,Christine Gerace,80
+Isabella,Sherman Township Precinct 2,State Senate,34,REP,Lisa M. Sowers,32
+Isabella,Sherman Township Precinct 2,State Senate,34,REP,Roger Hauck,194
+Isabella,Sherman Township Precinct 2,State House,92,DEM,Anthony D. Feig,80
+Isabella,Sherman Township Precinct 2,State House,92,REP,Erin Zimmer,55
+Isabella,Sherman Township Precinct 2,State House,92,REP,Gene Haymaker,30
+Isabella,Sherman Township Precinct 2,State House,92,REP,Jerry Neyer,82
+Isabella,Sherman Township Precinct 2,State House,92,REP,Thomas Anderman,7
+Isabella,Sherman Township Precinct 2,State House,92,REP,Todd Schorle,43
+Isabella,Union Charter Township Precinct 1,Governor,,DEM,Gretchen Whitmer,204
+Isabella,Union Charter Township Precinct 1,Governor,,REP,Garrett Soldano,38
+Isabella,Union Charter Township Precinct 1,Governor,,REP,Kevin Rinke,86
+Isabella,Union Charter Township Precinct 1,Governor,,REP,Ralph Rebandt,14
+Isabella,Union Charter Township Precinct 1,Governor,,REP,Ryan D. Kelley,56
+Isabella,Union Charter Township Precinct 1,Governor,,REP,Tudor M. Dixon,129
+Isabella,Union Charter Township Precinct 1,Governor,,REP,Write-In,2
+Isabella,Union Charter Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,198
+Isabella,Union Charter Township Precinct 1,U.S. House,2,REP,John Moolenaar,247
+Isabella,Union Charter Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,89
+Isabella,Union Charter Township Precinct 1,State Senate,34,DEM,Christine Gerace,196
+Isabella,Union Charter Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,61
+Isabella,Union Charter Township Precinct 1,State Senate,34,REP,Roger Hauck,282
+Isabella,Union Charter Township Precinct 1,State House,92,DEM,Anthony D. Feig,197
+Isabella,Union Charter Township Precinct 1,State House,92,REP,Erin Zimmer,102
+Isabella,Union Charter Township Precinct 1,State House,92,REP,Gene Haymaker,57
+Isabella,Union Charter Township Precinct 1,State House,92,REP,Jerry Neyer,110
+Isabella,Union Charter Township Precinct 1,State House,92,REP,Thomas Anderman,7
+Isabella,Union Charter Township Precinct 1,State House,92,REP,Todd Schorle,61
+Isabella,Union Charter Township Precinct 1,State House,92,REP,Write-In,1
+Isabella,Union Charter Township Precinct 2,Governor,,DEM,Gretchen Whitmer,206
+Isabella,Union Charter Township Precinct 2,Governor,,DEM,Write-In,1
+Isabella,Union Charter Township Precinct 2,Governor,,REP,Garrett Soldano,32
+Isabella,Union Charter Township Precinct 2,Governor,,REP,Kevin Rinke,60
+Isabella,Union Charter Township Precinct 2,Governor,,REP,Ralph Rebandt,15
+Isabella,Union Charter Township Precinct 2,Governor,,REP,Ryan D. Kelley,59
+Isabella,Union Charter Township Precinct 2,Governor,,REP,Tudor M. Dixon,64
+Isabella,Union Charter Township Precinct 2,Governor,,REP,Write-In,1
+Isabella,Union Charter Township Precinct 2,U.S. House,2,DEM,Jerry Hilliard,198
+Isabella,Union Charter Township Precinct 2,U.S. House,2,REP,John Moolenaar,156
+Isabella,Union Charter Township Precinct 2,U.S. House,2,REP,Thomas J. Norton,75
+Isabella,Union Charter Township Precinct 2,State Senate,34,DEM,Christine Gerace,200
+Isabella,Union Charter Township Precinct 2,State Senate,34,REP,Lisa M. Sowers,48
+Isabella,Union Charter Township Precinct 2,State Senate,34,REP,Roger Hauck,186
+Isabella,Union Charter Township Precinct 2,State House,92,DEM,Anthony D. Feig,199
+Isabella,Union Charter Township Precinct 2,State House,92,DEM,Write-In,1
+Isabella,Union Charter Township Precinct 2,State House,92,REP,Erin Zimmer,50
+Isabella,Union Charter Township Precinct 2,State House,92,REP,Gene Haymaker,73
+Isabella,Union Charter Township Precinct 2,State House,92,REP,Jerry Neyer,48
+Isabella,Union Charter Township Precinct 2,State House,92,REP,Thomas Anderman,9
+Isabella,Union Charter Township Precinct 2,State House,92,REP,Todd Schorle,49
+Isabella,Union Charter Township Precinct 3,Governor,,DEM,Gretchen Whitmer,161
+Isabella,Union Charter Township Precinct 3,Governor,,REP,Garrett Soldano,40
+Isabella,Union Charter Township Precinct 3,Governor,,REP,Kevin Rinke,49
+Isabella,Union Charter Township Precinct 3,Governor,,REP,Ralph Rebandt,16
+Isabella,Union Charter Township Precinct 3,Governor,,REP,Ryan D. Kelley,35
+Isabella,Union Charter Township Precinct 3,Governor,,REP,Tudor M. Dixon,101
+Isabella,Union Charter Township Precinct 3,Governor,,REP,Write-In,6
+Isabella,Union Charter Township Precinct 3,U.S. House,2,DEM,Jerry Hilliard,152
+Isabella,Union Charter Township Precinct 3,U.S. House,2,REP,John Moolenaar,187
+Isabella,Union Charter Township Precinct 3,U.S. House,2,REP,Thomas J. Norton,62
+Isabella,Union Charter Township Precinct 3,U.S. House,2,REP,Write-In,1
+Isabella,Union Charter Township Precinct 3,State Senate,34,DEM,Christine Gerace,153
+Isabella,Union Charter Township Precinct 3,State Senate,34,REP,Lisa M. Sowers,45
+Isabella,Union Charter Township Precinct 3,State Senate,34,REP,Roger Hauck,205
+Isabella,Union Charter Township Precinct 3,State House,92,DEM,Anthony D. Feig,152
+Isabella,Union Charter Township Precinct 3,State House,92,REP,Erin Zimmer,63
+Isabella,Union Charter Township Precinct 3,State House,92,REP,Gene Haymaker,36
+Isabella,Union Charter Township Precinct 3,State House,92,REP,Jerry Neyer,79
+Isabella,Union Charter Township Precinct 3,State House,92,REP,Thomas Anderman,14
+Isabella,Union Charter Township Precinct 3,State House,92,REP,Todd Schorle,56
+Isabella,Vernon Township Precinct 1,Governor,,DEM,Gretchen Whitmer,55
+Isabella,Vernon Township Precinct 1,Governor,,REP,Garrett Soldano,39
+Isabella,Vernon Township Precinct 1,Governor,,REP,Kevin Rinke,60
+Isabella,Vernon Township Precinct 1,Governor,,REP,Ralph Rebandt,8
+Isabella,Vernon Township Precinct 1,Governor,,REP,Ryan D. Kelley,26
+Isabella,Vernon Township Precinct 1,Governor,,REP,Tudor M. Dixon,83
+Isabella,Vernon Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,53
+Isabella,Vernon Township Precinct 1,U.S. House,2,REP,John Moolenaar,138
+Isabella,Vernon Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,79
+Isabella,Vernon Township Precinct 1,State Senate,34,DEM,Christine Gerace,54
+Isabella,Vernon Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,31
+Isabella,Vernon Township Precinct 1,State Senate,34,REP,Roger Hauck,188
+Isabella,Vernon Township Precinct 1,State House,92,DEM,Anthony D. Feig,54
+Isabella,Vernon Township Precinct 1,State House,92,REP,Erin Zimmer,47
+Isabella,Vernon Township Precinct 1,State House,92,REP,Gene Haymaker,38
+Isabella,Vernon Township Precinct 1,State House,92,REP,Jerry Neyer,85
+Isabella,Vernon Township Precinct 1,State House,92,REP,Thomas Anderman,8
+Isabella,Vernon Township Precinct 1,State House,92,REP,Todd Schorle,40
+Isabella,Wise Township Precinct 1,Governor,,DEM,Gretchen Whitmer,64
+Isabella,Wise Township Precinct 1,Governor,,REP,Garrett Soldano,39
+Isabella,Wise Township Precinct 1,Governor,,REP,Kevin Rinke,47
+Isabella,Wise Township Precinct 1,Governor,,REP,Ralph Rebandt,10
+Isabella,Wise Township Precinct 1,Governor,,REP,Ryan D. Kelley,49
+Isabella,Wise Township Precinct 1,Governor,,REP,Tudor M. Dixon,52
+Isabella,Wise Township Precinct 1,Governor,,REP,Write-In,2
+Isabella,Wise Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,61
+Isabella,Wise Township Precinct 1,U.S. House,2,REP,John Moolenaar,143
+Isabella,Wise Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,52
+Isabella,Wise Township Precinct 1,State Senate,34,DEM,Christine Gerace,61
+Isabella,Wise Township Precinct 1,State Senate,34,REP,Lisa M. Sowers,28
+Isabella,Wise Township Precinct 1,State Senate,34,REP,Roger Hauck,172
+Isabella,Wise Township Precinct 1,State House,92,DEM,Anthony D. Feig,61
+Isabella,Wise Township Precinct 1,State House,92,REP,Erin Zimmer,31
+Isabella,Wise Township Precinct 1,State House,92,REP,Gene Haymaker,38
+Isabella,Wise Township Precinct 1,State House,92,REP,Jerry Neyer,76
+Isabella,Wise Township Precinct 1,State House,92,REP,Thomas Anderman,6
+Isabella,Wise Township Precinct 1,State House,92,REP,Todd Schorle,38

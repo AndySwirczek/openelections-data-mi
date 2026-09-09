@@ -12,19 +12,19 @@ Ontonagon,"Ontonagon Township, Precinct 1",Registered Voters,,,,2172
 Ontonagon,"Rockland Township, Precinct 1",Registered Voters,,,,196
 Ontonagon,"Stannard Township, Precinct 1",Registered Voters,,,,643
 Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Registered Voters,,,,97
-Ontonagon,"Bergland Township, Precinct 1",Cards Cast,,,,282
-Ontonagon,"Bohemia Township, Precinct 1",Cards Cast,,,,22
-Ontonagon,"Bohemia Township, Precinct 2",Cards Cast,,,,27
-Ontonagon,"Carp Lake Township, Precinct 1",Cards Cast,,,,334
-Ontonagon,"Greenland Township, Precinct 1",Cards Cast,,,,348
-Ontonagon,"Haight Township, Precinct 1",Cards Cast,,,,128
-Ontonagon,"Interior Township, Precinct 1",Cards Cast,,,,157
-Ontonagon,"Matchwood Township, Precinct 1",Cards Cast,,,,56
-Ontonagon,"McMillan Township, Precinct 1",Cards Cast,,,,242
-Ontonagon,"Ontonagon Township, Precinct 1",Cards Cast,,,,1229
-Ontonagon,"Rockland Township, Precinct 1",Cards Cast,,,,110
-Ontonagon,"Stannard Township, Precinct 1",Cards Cast,,,,365
-Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Cards Cast,,,,62
+Ontonagon,"Bergland Township, Precinct 1",Ballots Cast,,,,282
+Ontonagon,"Bohemia Township, Precinct 1",Ballots Cast,,,,22
+Ontonagon,"Bohemia Township, Precinct 2",Ballots Cast,,,,27
+Ontonagon,"Carp Lake Township, Precinct 1",Ballots Cast,,,,334
+Ontonagon,"Greenland Township, Precinct 1",Ballots Cast,,,,348
+Ontonagon,"Haight Township, Precinct 1",Ballots Cast,,,,128
+Ontonagon,"Interior Township, Precinct 1",Ballots Cast,,,,157
+Ontonagon,"Matchwood Township, Precinct 1",Ballots Cast,,,,56
+Ontonagon,"McMillan Township, Precinct 1",Ballots Cast,,,,242
+Ontonagon,"Ontonagon Township, Precinct 1",Ballots Cast,,,,1229
+Ontonagon,"Rockland Township, Precinct 1",Ballots Cast,,,,110
+Ontonagon,"Stannard Township, Precinct 1",Ballots Cast,,,,365
+Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Ballots Cast,,,,62
 Ontonagon,"Bergland Township, Precinct 1",Voters Cast,,,,282
 Ontonagon,"Bohemia Township, Precinct 1",Voters Cast,,,,22
 Ontonagon,"Bohemia Township, Precinct 2",Voters Cast,,,,27
@@ -38,97 +38,97 @@ Ontonagon,"Ontonagon Township, Precinct 1",Voters Cast,,,,1229
 Ontonagon,"Rockland Township, Precinct 1",Voters Cast,,,,110
 Ontonagon,"Stannard Township, Precinct 1",Voters Cast,,,,365
 Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Voters Cast,,,,62
-Ontonagon,"Bergland Township, Precinct 1",Straight Party,,DEM,,49
-Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,DEM,,4
-Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,DEM,,5
-Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,DEM,,72
-Ontonagon,"Greenland Township, Precinct 1",Straight Party,,DEM,,71
-Ontonagon,"Haight Township, Precinct 1",Straight Party,,DEM,,26
-Ontonagon,"Interior Township, Precinct 1",Straight Party,,DEM,,33
-Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,DEM,,15
-Ontonagon,"McMillan Township, Precinct 1",Straight Party,,DEM,,52
-Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,DEM,,214
-Ontonagon,"Rockland Township, Precinct 1",Straight Party,,DEM,,17
-Ontonagon,"Stannard Township, Precinct 1",Straight Party,,DEM,,58
-Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,DEM,,0
-Ontonagon,"Bergland Township, Precinct 1",Straight Party,,REP,,102
-Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,REP,,8
-Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,REP,,11
-Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,REP,,94
-Ontonagon,"Greenland Township, Precinct 1",Straight Party,,REP,,120
-Ontonagon,"Haight Township, Precinct 1",Straight Party,,REP,,40
-Ontonagon,"Interior Township, Precinct 1",Straight Party,,REP,,49
-Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,REP,,11
-Ontonagon,"McMillan Township, Precinct 1",Straight Party,,REP,,70
-Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,REP,,328
-Ontonagon,"Rockland Township, Precinct 1",Straight Party,,REP,,42
-Ontonagon,"Stannard Township, Precinct 1",Straight Party,,REP,,142
-Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,REP,,0
-Ontonagon,"Bergland Township, Precinct 1",Straight Party,,LIB,,0
-Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,LIB,,1
-Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,LIB,,0
-Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,LIB,,0
-Ontonagon,"Greenland Township, Precinct 1",Straight Party,,LIB,,0
-Ontonagon,"Haight Township, Precinct 1",Straight Party,,LIB,,0
-Ontonagon,"Interior Township, Precinct 1",Straight Party,,LIB,,0
-Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,LIB,,0
-Ontonagon,"McMillan Township, Precinct 1",Straight Party,,LIB,,1
-Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,LIB,,5
-Ontonagon,"Rockland Township, Precinct 1",Straight Party,,LIB,,1
-Ontonagon,"Stannard Township, Precinct 1",Straight Party,,LIB,,1
-Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,LIB,,0
-Ontonagon,"Bergland Township, Precinct 1",Straight Party,,UST,,0
-Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,UST,,0
-Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,UST,,0
-Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,UST,,2
-Ontonagon,"Greenland Township, Precinct 1",Straight Party,,UST,,0
-Ontonagon,"Haight Township, Precinct 1",Straight Party,,UST,,1
-Ontonagon,"Interior Township, Precinct 1",Straight Party,,UST,,0
-Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,UST,,0
-Ontonagon,"McMillan Township, Precinct 1",Straight Party,,UST,,1
-Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,UST,,8
-Ontonagon,"Rockland Township, Precinct 1",Straight Party,,UST,,0
-Ontonagon,"Stannard Township, Precinct 1",Straight Party,,UST,,0
-Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,UST,,0
-Ontonagon,"Bergland Township, Precinct 1",Straight Party,,WCP,,0
-Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,WCP,,0
-Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,WCP,,0
-Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,WCP,,0
-Ontonagon,"Greenland Township, Precinct 1",Straight Party,,WCP,,6
-Ontonagon,"Haight Township, Precinct 1",Straight Party,,WCP,,0
-Ontonagon,"Interior Township, Precinct 1",Straight Party,,WCP,,0
-Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,WCP,,1
-Ontonagon,"McMillan Township, Precinct 1",Straight Party,,WCP,,0
-Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,WCP,,1
-Ontonagon,"Rockland Township, Precinct 1",Straight Party,,WCP,,0
-Ontonagon,"Stannard Township, Precinct 1",Straight Party,,WCP,,2
-Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,WCP,,0
-Ontonagon,"Bergland Township, Precinct 1",Straight Party,,GRN,,0
-Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,GRN,,0
-Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,GRN,,0
-Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,GRN,,0
-Ontonagon,"Greenland Township, Precinct 1",Straight Party,,GRN,,0
-Ontonagon,"Haight Township, Precinct 1",Straight Party,,GRN,,0
-Ontonagon,"Interior Township, Precinct 1",Straight Party,,GRN,,0
-Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,GRN,,0
-Ontonagon,"McMillan Township, Precinct 1",Straight Party,,GRN,,1
-Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,GRN,,0
-Ontonagon,"Rockland Township, Precinct 1",Straight Party,,GRN,,0
-Ontonagon,"Stannard Township, Precinct 1",Straight Party,,GRN,,0
-Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,GRN,,0
-Ontonagon,"Bergland Township, Precinct 1",Straight Party,,NLP,,0
-Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,NLP,,0
-Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,NLP,,0
-Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,NLP,,0
-Ontonagon,"Greenland Township, Precinct 1",Straight Party,,NLP,,0
-Ontonagon,"Haight Township, Precinct 1",Straight Party,,NLP,,0
-Ontonagon,"Interior Township, Precinct 1",Straight Party,,NLP,,1
-Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,NLP,,1
-Ontonagon,"McMillan Township, Precinct 1",Straight Party,,NLP,,0
-Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,NLP,,2
-Ontonagon,"Rockland Township, Precinct 1",Straight Party,,NLP,,0
-Ontonagon,"Stannard Township, Precinct 1",Straight Party,,NLP,,0
-Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,NLP,,0
+Ontonagon,"Bergland Township, Precinct 1",Straight Party,,DEM,Democratic,49
+Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,DEM,Democratic,4
+Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,DEM,Democratic,5
+Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,DEM,Democratic,72
+Ontonagon,"Greenland Township, Precinct 1",Straight Party,,DEM,Democratic,71
+Ontonagon,"Haight Township, Precinct 1",Straight Party,,DEM,Democratic,26
+Ontonagon,"Interior Township, Precinct 1",Straight Party,,DEM,Democratic,33
+Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,DEM,Democratic,15
+Ontonagon,"McMillan Township, Precinct 1",Straight Party,,DEM,Democratic,52
+Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,DEM,Democratic,214
+Ontonagon,"Rockland Township, Precinct 1",Straight Party,,DEM,Democratic,17
+Ontonagon,"Stannard Township, Precinct 1",Straight Party,,DEM,Democratic,58
+Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,DEM,Democratic,0
+Ontonagon,"Bergland Township, Precinct 1",Straight Party,,REP,Republican,102
+Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,REP,Republican,8
+Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,REP,Republican,11
+Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,REP,Republican,94
+Ontonagon,"Greenland Township, Precinct 1",Straight Party,,REP,Republican,120
+Ontonagon,"Haight Township, Precinct 1",Straight Party,,REP,Republican,40
+Ontonagon,"Interior Township, Precinct 1",Straight Party,,REP,Republican,49
+Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,REP,Republican,11
+Ontonagon,"McMillan Township, Precinct 1",Straight Party,,REP,Republican,70
+Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,REP,Republican,328
+Ontonagon,"Rockland Township, Precinct 1",Straight Party,,REP,Republican,42
+Ontonagon,"Stannard Township, Precinct 1",Straight Party,,REP,Republican,142
+Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,REP,Republican,0
+Ontonagon,"Bergland Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,LIB,Libertarian,0
+Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Ontonagon,"Greenland Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Ontonagon,"Haight Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Ontonagon,"Interior Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Ontonagon,"McMillan Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,LIB,Libertarian,5
+Ontonagon,"Rockland Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Ontonagon,"Stannard Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,LIB,Libertarian,0
+Ontonagon,"Bergland Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,0
+Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Ontonagon,"Greenland Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Ontonagon,"Haight Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Ontonagon,"Interior Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Ontonagon,"McMillan Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,8
+Ontonagon,"Rockland Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Ontonagon,"Stannard Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,UST,U.S. Taxpayers,0
+Ontonagon,"Bergland Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,WCP,Working Class,0
+Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Ontonagon,"Greenland Township, Precinct 1",Straight Party,,WCP,Working Class,6
+Ontonagon,"Haight Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Ontonagon,"Interior Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Ontonagon,"McMillan Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Ontonagon,"Rockland Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Ontonagon,"Stannard Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,WCP,Working Class,0
+Ontonagon,"Bergland Township, Precinct 1",Straight Party,,GRN,Green,0
+Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,GRN,Green,0
+Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,GRN,Green,0
+Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,GRN,Green,0
+Ontonagon,"Greenland Township, Precinct 1",Straight Party,,GRN,Green,0
+Ontonagon,"Haight Township, Precinct 1",Straight Party,,GRN,Green,0
+Ontonagon,"Interior Township, Precinct 1",Straight Party,,GRN,Green,0
+Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,GRN,Green,0
+Ontonagon,"McMillan Township, Precinct 1",Straight Party,,GRN,Green,1
+Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,GRN,Green,0
+Ontonagon,"Rockland Township, Precinct 1",Straight Party,,GRN,Green,0
+Ontonagon,"Stannard Township, Precinct 1",Straight Party,,GRN,Green,0
+Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,GRN,Green,0
+Ontonagon,"Bergland Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Ontonagon,"Bohemia Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Ontonagon,"Bohemia Township, Precinct 2",Straight Party,,NLP,Natural Law,0
+Ontonagon,"Carp Lake Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Ontonagon,"Greenland Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Ontonagon,"Haight Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Ontonagon,"Interior Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Ontonagon,"Matchwood Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Ontonagon,"McMillan Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Ontonagon,"Ontonagon Township, Precinct 1",Straight Party,,NLP,Natural Law,2
+Ontonagon,"Rockland Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Ontonagon,"Stannard Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Ontonagon,"Duncan Township, Precinct 1 (Houghton County)",Straight Party,,NLP,Natural Law,0
 Ontonagon,"Bergland Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,98
 Ontonagon,"Bohemia Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,9
 Ontonagon,"Bohemia Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,14
@@ -201,18 +201,18 @@ Ontonagon,"McMillan Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
 Ontonagon,"Ontonagon Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
 Ontonagon,"Rockland Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
 Ontonagon,"Stannard Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
-Ontonagon,"Bergland Township, Precinct 1",Governor,,,Write-in,1
-Ontonagon,"Bohemia Township, Precinct 1",Governor,,,Write-in,0
-Ontonagon,"Bohemia Township, Precinct 2",Governor,,,Write-in,0
-Ontonagon,"Carp Lake Township, Precinct 1",Governor,,,Write-in,0
-Ontonagon,"Greenland Township, Precinct 1",Governor,,,Write-in,0
-Ontonagon,"Haight Township, Precinct 1",Governor,,,Write-in,1
-Ontonagon,"Interior Township, Precinct 1",Governor,,,Write-in,0
-Ontonagon,"Matchwood Township, Precinct 1",Governor,,,Write-in,0
-Ontonagon,"McMillan Township, Precinct 1",Governor,,,Write-in,0
-Ontonagon,"Ontonagon Township, Precinct 1",Governor,,,Write-in,0
-Ontonagon,"Rockland Township, Precinct 1",Governor,,,Write-in,0
-Ontonagon,"Stannard Township, Precinct 1",Governor,,,Write-in,1
+Ontonagon,"Bergland Township, Precinct 1",Governor,,,Write-In,1
+Ontonagon,"Bohemia Township, Precinct 1",Governor,,,Write-In,0
+Ontonagon,"Bohemia Township, Precinct 2",Governor,,,Write-In,0
+Ontonagon,"Carp Lake Township, Precinct 1",Governor,,,Write-In,0
+Ontonagon,"Greenland Township, Precinct 1",Governor,,,Write-In,0
+Ontonagon,"Haight Township, Precinct 1",Governor,,,Write-In,1
+Ontonagon,"Interior Township, Precinct 1",Governor,,,Write-In,0
+Ontonagon,"Matchwood Township, Precinct 1",Governor,,,Write-In,0
+Ontonagon,"McMillan Township, Precinct 1",Governor,,,Write-In,0
+Ontonagon,"Ontonagon Township, Precinct 1",Governor,,,Write-In,0
+Ontonagon,"Rockland Township, Precinct 1",Governor,,,Write-In,0
+Ontonagon,"Stannard Township, Precinct 1",Governor,,,Write-In,1
 Ontonagon,"Bergland Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,100
 Ontonagon,"Bohemia Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,8
 Ontonagon,"Bohemia Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,14
@@ -273,18 +273,18 @@ Ontonagon,"McMillan Township, Precinct 1",Secretary of State,,GRN,Larry James Hu
 Ontonagon,"Ontonagon Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
 Ontonagon,"Rockland Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
 Ontonagon,"Stannard Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
-Ontonagon,"Bergland Township, Precinct 1",Secretary of State,,,Write-in,0
-Ontonagon,"Bohemia Township, Precinct 1",Secretary of State,,,Write-in,0
-Ontonagon,"Bohemia Township, Precinct 2",Secretary of State,,,Write-in,0
-Ontonagon,"Carp Lake Township, Precinct 1",Secretary of State,,,Write-in,0
-Ontonagon,"Greenland Township, Precinct 1",Secretary of State,,,Write-in,0
-Ontonagon,"Haight Township, Precinct 1",Secretary of State,,,Write-in,0
-Ontonagon,"Interior Township, Precinct 1",Secretary of State,,,Write-in,0
-Ontonagon,"Matchwood Township, Precinct 1",Secretary of State,,,Write-in,0
-Ontonagon,"McMillan Township, Precinct 1",Secretary of State,,,Write-in,0
-Ontonagon,"Ontonagon Township, Precinct 1",Secretary of State,,,Write-in,0
-Ontonagon,"Rockland Township, Precinct 1",Secretary of State,,,Write-in,0
-Ontonagon,"Stannard Township, Precinct 1",Secretary of State,,,Write-in,1
+Ontonagon,"Bergland Township, Precinct 1",Secretary of State,,,Write-In,0
+Ontonagon,"Bohemia Township, Precinct 1",Secretary of State,,,Write-In,0
+Ontonagon,"Bohemia Township, Precinct 2",Secretary of State,,,Write-In,0
+Ontonagon,"Carp Lake Township, Precinct 1",Secretary of State,,,Write-In,0
+Ontonagon,"Greenland Township, Precinct 1",Secretary of State,,,Write-In,0
+Ontonagon,"Haight Township, Precinct 1",Secretary of State,,,Write-In,0
+Ontonagon,"Interior Township, Precinct 1",Secretary of State,,,Write-In,0
+Ontonagon,"Matchwood Township, Precinct 1",Secretary of State,,,Write-In,0
+Ontonagon,"McMillan Township, Precinct 1",Secretary of State,,,Write-In,0
+Ontonagon,"Ontonagon Township, Precinct 1",Secretary of State,,,Write-In,0
+Ontonagon,"Rockland Township, Precinct 1",Secretary of State,,,Write-In,0
+Ontonagon,"Stannard Township, Precinct 1",Secretary of State,,,Write-In,1
 Ontonagon,"Bergland Township, Precinct 1",Attorney General,,DEM,Dana Nessel,93
 Ontonagon,"Bohemia Township, Precinct 1",Attorney General,,DEM,Dana Nessel,8
 Ontonagon,"Bohemia Township, Precinct 2",Attorney General,,DEM,Dana Nessel,13
@@ -333,18 +333,18 @@ Ontonagon,"McMillan Township, Precinct 1",Attorney General,,UST,Gerald T. Van Si
 Ontonagon,"Ontonagon Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,14
 Ontonagon,"Rockland Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,2
 Ontonagon,"Stannard Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,2
-Ontonagon,"Bergland Township, Precinct 1",Attorney General,,,Write-in,1
-Ontonagon,"Bohemia Township, Precinct 1",Attorney General,,,Write-in,0
-Ontonagon,"Bohemia Township, Precinct 2",Attorney General,,,Write-in,0
-Ontonagon,"Carp Lake Township, Precinct 1",Attorney General,,,Write-in,0
-Ontonagon,"Greenland Township, Precinct 1",Attorney General,,,Write-in,0
-Ontonagon,"Haight Township, Precinct 1",Attorney General,,,Write-in,0
-Ontonagon,"Interior Township, Precinct 1",Attorney General,,,Write-in,0
-Ontonagon,"Matchwood Township, Precinct 1",Attorney General,,,Write-in,0
-Ontonagon,"McMillan Township, Precinct 1",Attorney General,,,Write-in,0
-Ontonagon,"Ontonagon Township, Precinct 1",Attorney General,,,Write-in,0
-Ontonagon,"Rockland Township, Precinct 1",Attorney General,,,Write-in,0
-Ontonagon,"Stannard Township, Precinct 1",Attorney General,,,Write-in,1
+Ontonagon,"Bergland Township, Precinct 1",Attorney General,,,Write-In,1
+Ontonagon,"Bohemia Township, Precinct 1",Attorney General,,,Write-In,0
+Ontonagon,"Bohemia Township, Precinct 2",Attorney General,,,Write-In,0
+Ontonagon,"Carp Lake Township, Precinct 1",Attorney General,,,Write-In,0
+Ontonagon,"Greenland Township, Precinct 1",Attorney General,,,Write-In,0
+Ontonagon,"Haight Township, Precinct 1",Attorney General,,,Write-In,0
+Ontonagon,"Interior Township, Precinct 1",Attorney General,,,Write-In,0
+Ontonagon,"Matchwood Township, Precinct 1",Attorney General,,,Write-In,0
+Ontonagon,"McMillan Township, Precinct 1",Attorney General,,,Write-In,0
+Ontonagon,"Ontonagon Township, Precinct 1",Attorney General,,,Write-In,0
+Ontonagon,"Rockland Township, Precinct 1",Attorney General,,,Write-In,0
+Ontonagon,"Stannard Township, Precinct 1",Attorney General,,,Write-In,1
 Ontonagon,"Bergland Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,82
 Ontonagon,"Bohemia Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,7
 Ontonagon,"Bohemia Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,15
@@ -393,18 +393,18 @@ Ontonagon,"McMillan Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,5
 Ontonagon,"Ontonagon Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,14
 Ontonagon,"Rockland Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,1
 Ontonagon,"Stannard Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,9
-Ontonagon,"Bergland Township, Precinct 1",U.S. House,1,,Write-in,0
-Ontonagon,"Bohemia Township, Precinct 1",U.S. House,1,,Write-in,0
-Ontonagon,"Bohemia Township, Precinct 2",U.S. House,1,,Write-in,0
-Ontonagon,"Carp Lake Township, Precinct 1",U.S. House,1,,Write-in,0
-Ontonagon,"Greenland Township, Precinct 1",U.S. House,1,,Write-in,0
-Ontonagon,"Haight Township, Precinct 1",U.S. House,1,,Write-in,0
-Ontonagon,"Interior Township, Precinct 1",U.S. House,1,,Write-in,0
-Ontonagon,"Matchwood Township, Precinct 1",U.S. House,1,,Write-in,0
-Ontonagon,"McMillan Township, Precinct 1",U.S. House,1,,Write-in,0
-Ontonagon,"Ontonagon Township, Precinct 1",U.S. House,1,,Write-in,1
-Ontonagon,"Rockland Township, Precinct 1",U.S. House,1,,Write-in,1
-Ontonagon,"Stannard Township, Precinct 1",U.S. House,1,,Write-in,1
+Ontonagon,"Bergland Township, Precinct 1",U.S. House,1,,Write-In,0
+Ontonagon,"Bohemia Township, Precinct 1",U.S. House,1,,Write-In,0
+Ontonagon,"Bohemia Township, Precinct 2",U.S. House,1,,Write-In,0
+Ontonagon,"Carp Lake Township, Precinct 1",U.S. House,1,,Write-In,0
+Ontonagon,"Greenland Township, Precinct 1",U.S. House,1,,Write-In,0
+Ontonagon,"Haight Township, Precinct 1",U.S. House,1,,Write-In,0
+Ontonagon,"Interior Township, Precinct 1",U.S. House,1,,Write-In,0
+Ontonagon,"Matchwood Township, Precinct 1",U.S. House,1,,Write-In,0
+Ontonagon,"McMillan Township, Precinct 1",U.S. House,1,,Write-In,0
+Ontonagon,"Ontonagon Township, Precinct 1",U.S. House,1,,Write-In,1
+Ontonagon,"Rockland Township, Precinct 1",U.S. House,1,,Write-In,1
+Ontonagon,"Stannard Township, Precinct 1",U.S. House,1,,Write-In,1
 Ontonagon,"Bergland Township, Precinct 1",State Senate,38,DEM,John Braamse,81
 Ontonagon,"Bohemia Township, Precinct 1",State Senate,38,DEM,John Braamse,7
 Ontonagon,"Bohemia Township, Precinct 2",State Senate,38,DEM,John Braamse,10
@@ -441,18 +441,18 @@ Ontonagon,"McMillan Township, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,
 Ontonagon,"Ontonagon Township, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,10
 Ontonagon,"Rockland Township, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,1
 Ontonagon,"Stannard Township, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,4
-Ontonagon,"Bergland Township, Precinct 1",State Senate,38,,Write-in,1
-Ontonagon,"Bohemia Township, Precinct 1",State Senate,38,,Write-in,0
-Ontonagon,"Bohemia Township, Precinct 2",State Senate,38,,Write-in,0
-Ontonagon,"Carp Lake Township, Precinct 1",State Senate,38,,Write-in,0
-Ontonagon,"Greenland Township, Precinct 1",State Senate,38,,Write-in,1
-Ontonagon,"Haight Township, Precinct 1",State Senate,38,,Write-in,0
-Ontonagon,"Interior Township, Precinct 1",State Senate,38,,Write-in,0
-Ontonagon,"Matchwood Township, Precinct 1",State Senate,38,,Write-in,0
-Ontonagon,"McMillan Township, Precinct 1",State Senate,38,,Write-in,1
-Ontonagon,"Ontonagon Township, Precinct 1",State Senate,38,,Write-in,3
-Ontonagon,"Rockland Township, Precinct 1",State Senate,38,,Write-in,0
-Ontonagon,"Stannard Township, Precinct 1",State Senate,38,,Write-in,1
+Ontonagon,"Bergland Township, Precinct 1",State Senate,38,,Write-In,1
+Ontonagon,"Bohemia Township, Precinct 1",State Senate,38,,Write-In,0
+Ontonagon,"Bohemia Township, Precinct 2",State Senate,38,,Write-In,0
+Ontonagon,"Carp Lake Township, Precinct 1",State Senate,38,,Write-In,0
+Ontonagon,"Greenland Township, Precinct 1",State Senate,38,,Write-In,1
+Ontonagon,"Haight Township, Precinct 1",State Senate,38,,Write-In,0
+Ontonagon,"Interior Township, Precinct 1",State Senate,38,,Write-In,0
+Ontonagon,"Matchwood Township, Precinct 1",State Senate,38,,Write-In,0
+Ontonagon,"McMillan Township, Precinct 1",State Senate,38,,Write-In,1
+Ontonagon,"Ontonagon Township, Precinct 1",State Senate,38,,Write-In,3
+Ontonagon,"Rockland Township, Precinct 1",State Senate,38,,Write-In,0
+Ontonagon,"Stannard Township, Precinct 1",State Senate,38,,Write-In,1
 Ontonagon,"Bergland Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,80
 Ontonagon,"Bohemia Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,7
 Ontonagon,"Bohemia Township, Precinct 2",State House,110,DEM,Casey VerBerkmoes,11
@@ -477,18 +477,18 @@ Ontonagon,"McMillan Township, Precinct 1",State House,110,REP,Gregory Markkanen,
 Ontonagon,"Ontonagon Township, Precinct 1",State House,110,REP,Gregory Markkanen,803
 Ontonagon,"Rockland Township, Precinct 1",State House,110,REP,Gregory Markkanen,77
 Ontonagon,"Stannard Township, Precinct 1",State House,110,REP,Gregory Markkanen,255
-Ontonagon,"Bergland Township, Precinct 1",State House,110,,Write-in,2
-Ontonagon,"Bohemia Township, Precinct 1",State House,110,,Write-in,0
-Ontonagon,"Bohemia Township, Precinct 2",State House,110,,Write-in,0
-Ontonagon,"Carp Lake Township, Precinct 1",State House,110,,Write-in,1
-Ontonagon,"Greenland Township, Precinct 1",State House,110,,Write-in,4
-Ontonagon,"Haight Township, Precinct 1",State House,110,,Write-in,0
-Ontonagon,"Interior Township, Precinct 1",State House,110,,Write-in,0
-Ontonagon,"Matchwood Township, Precinct 1",State House,110,,Write-in,0
-Ontonagon,"McMillan Township, Precinct 1",State House,110,,Write-in,4
-Ontonagon,"Ontonagon Township, Precinct 1",State House,110,,Write-in,5
-Ontonagon,"Rockland Township, Precinct 1",State House,110,,Write-in,2
-Ontonagon,"Stannard Township, Precinct 1",State House,110,,Write-in,2
+Ontonagon,"Bergland Township, Precinct 1",State House,110,,Write-In,2
+Ontonagon,"Bohemia Township, Precinct 1",State House,110,,Write-In,0
+Ontonagon,"Bohemia Township, Precinct 2",State House,110,,Write-In,0
+Ontonagon,"Carp Lake Township, Precinct 1",State House,110,,Write-In,1
+Ontonagon,"Greenland Township, Precinct 1",State House,110,,Write-In,4
+Ontonagon,"Haight Township, Precinct 1",State House,110,,Write-In,0
+Ontonagon,"Interior Township, Precinct 1",State House,110,,Write-In,0
+Ontonagon,"Matchwood Township, Precinct 1",State House,110,,Write-In,0
+Ontonagon,"McMillan Township, Precinct 1",State House,110,,Write-In,4
+Ontonagon,"Ontonagon Township, Precinct 1",State House,110,,Write-In,5
+Ontonagon,"Rockland Township, Precinct 1",State House,110,,Write-In,2
+Ontonagon,"Stannard Township, Precinct 1",State House,110,,Write-In,2
 Ontonagon,"Bergland Township, Precinct 1",Proposal 22-3,,,Yes,116
 Ontonagon,"Bohemia Township, Precinct 1",Proposal 22-3,,,Yes,11
 Ontonagon,"Bohemia Township, Precinct 2",Proposal 22-3,,,Yes,13

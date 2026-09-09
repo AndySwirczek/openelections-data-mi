@@ -1,0 +1,964 @@
+county,precinct,office,district,party,candidate,votes
+Allegan,"Allegan Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,227
+Allegan,"Allegan Township, Precinct 1",Governor,,REP,Garrett Soldano,168
+Allegan,"Allegan Township, Precinct 1",Governor,,REP,Kevin Rinke,114
+Allegan,"Allegan Township, Precinct 1",Governor,,REP,Ralph Rebandt,25
+Allegan,"Allegan Township, Precinct 1",Governor,,REP,Ryan D. Kelley,72
+Allegan,"Allegan Township, Precinct 1",Governor,,REP,Tudor M. Dixon,152
+Allegan,"Allegan Township, Precinct 1",Governor,,REP,Write-In,2
+Allegan,"Allegan Township, Precinct 1",U.S. House,4,DEM,Write-In,80
+Allegan,"Allegan Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,481
+Allegan,"Allegan Township, Precinct 1",U.S. House,4,REP,Write-In,8
+Allegan,"Allegan Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,210
+Allegan,"Allegan Township, Precinct 1",State Senate,20,DEM,Write-In,1
+Allegan,"Allegan Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,304
+Allegan,"Allegan Township, Precinct 1",State Senate,20,REP,Austin Kreutz,148
+Allegan,"Allegan Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,47
+Allegan,"Allegan Township, Precinct 1",State Senate,20,REP,Write-In,8
+Allegan,"Allegan Township, Precinct 1",State House,43,DEM,Mark Ludwig,211
+Allegan,"Allegan Township, Precinct 1",State House,43,DEM,Write-In,1
+Allegan,"Allegan Township, Precinct 1",State House,43,REP,Lindsay Kronemeyer,109
+Allegan,"Allegan Township, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,22
+Allegan,"Allegan Township, Precinct 1",State House,43,REP,Phillip Joseph,85
+Allegan,"Allegan Township, Precinct 1",State House,43,REP,Rachelle M. Smit,279
+Allegan,"Allegan Township, Precinct 1",State House,43,REP,Write-In,9
+Allegan,"Allegan Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,66
+Allegan,"Allegan Township, Precinct 2",Governor,,DEM,Write-In,1
+Allegan,"Allegan Township, Precinct 2",Governor,,REP,Garrett Soldano,71
+Allegan,"Allegan Township, Precinct 2",Governor,,REP,Kevin Rinke,26
+Allegan,"Allegan Township, Precinct 2",Governor,,REP,Ralph Rebandt,13
+Allegan,"Allegan Township, Precinct 2",Governor,,REP,Ryan D. Kelley,39
+Allegan,"Allegan Township, Precinct 2",Governor,,REP,Tudor M. Dixon,53
+Allegan,"Allegan Township, Precinct 2",U.S. House,4,DEM,Write-In,24
+Allegan,"Allegan Township, Precinct 2",U.S. House,4,REP,Bill Huizenga,169
+Allegan,"Allegan Township, Precinct 2",U.S. House,4,REP,Write-In,1
+Allegan,"Allegan Township, Precinct 2",State Senate,20,DEM,Kim Jorgensen Gane,64
+Allegan,"Allegan Township, Precinct 2",State Senate,20,REP,Aric Nesbitt,107
+Allegan,"Allegan Township, Precinct 2",State Senate,20,REP,Austin Kreutz,64
+Allegan,"Allegan Township, Precinct 2",State Senate,20,REP,Kaleb M. Hudson,22
+Allegan,"Allegan Township, Precinct 2",State Senate,20,REP,Write-In,1
+Allegan,"Allegan Township, Precinct 2",State House,43,DEM,Mark Ludwig,65
+Allegan,"Allegan Township, Precinct 2",State House,43,REP,Lindsay Kronemeyer,51
+Allegan,"Allegan Township, Precinct 2",State House,43,REP,Nevin P. Cooper-Keel,10
+Allegan,"Allegan Township, Precinct 2",State House,43,REP,Phillip Joseph,25
+Allegan,"Allegan Township, Precinct 2",State House,43,REP,Rachelle M. Smit,110
+Allegan,"Casco Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,320
+Allegan,"Casco Township, Precinct 1",Governor,,REP,Garrett Soldano,77
+Allegan,"Casco Township, Precinct 1",Governor,,REP,Kevin Rinke,98
+Allegan,"Casco Township, Precinct 1",Governor,,REP,Ralph Rebandt,11
+Allegan,"Casco Township, Precinct 1",Governor,,REP,Ryan D. Kelley,58
+Allegan,"Casco Township, Precinct 1",Governor,,REP,Tudor M. Dixon,144
+Allegan,"Casco Township, Precinct 1",Governor,,REP,Write-In,5
+Allegan,"Casco Township, Precinct 1",U.S. House,4,DEM,Write-In,127
+Allegan,"Casco Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,363
+Allegan,"Casco Township, Precinct 1",U.S. House,4,REP,Write-In,2
+Allegan,"Casco Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,287
+Allegan,"Casco Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,282
+Allegan,"Casco Township, Precinct 1",State Senate,20,REP,Austin Kreutz,69
+Allegan,"Casco Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,34
+Allegan,"Casco Township, Precinct 1",State Senate,20,REP,Write-In,1
+Allegan,"Casco Township, Precinct 1",State House,38,DEM,Annie Brown,248
+Allegan,"Casco Township, Precinct 1",State House,38,DEM,Joey Andrews,73
+Allegan,"Casco Township, Precinct 1",State House,38,REP,George Steven Lucas,100
+Allegan,"Casco Township, Precinct 1",State House,38,REP,Kevin Whiteford,249
+Allegan,"Casco Township, Precinct 1",State House,38,REP,Troy Rolling,40
+Allegan,"Casco Township, Precinct 1",State House,38,REP,Write-In,1
+Allegan,"Cheshire Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,116
+Allegan,"Cheshire Township, Precinct 1",Governor,,REP,Garrett Soldano,76
+Allegan,"Cheshire Township, Precinct 1",Governor,,REP,Kevin Rinke,49
+Allegan,"Cheshire Township, Precinct 1",Governor,,REP,Ralph Rebandt,15
+Allegan,"Cheshire Township, Precinct 1",Governor,,REP,Ryan D. Kelley,36
+Allegan,"Cheshire Township, Precinct 1",Governor,,REP,Tudor M. Dixon,94
+Allegan,"Cheshire Township, Precinct 1",U.S. House,4,DEM,Write-In,45
+Allegan,"Cheshire Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,235
+Allegan,"Cheshire Township, Precinct 1",U.S. House,4,REP,Write-In,3
+Allegan,"Cheshire Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,109
+Allegan,"Cheshire Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,149
+Allegan,"Cheshire Township, Precinct 1",State Senate,20,REP,Austin Kreutz,63
+Allegan,"Cheshire Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,46
+Allegan,"Cheshire Township, Precinct 1",State Senate,20,REP,Write-In,2
+Allegan,"Cheshire Township, Precinct 1",State House,39,DEM,Jared Polonowski,108
+Allegan,"Cheshire Township, Precinct 1",State House,39,REP,Matt Nilson,111
+Allegan,"Cheshire Township, Precinct 1",State House,39,REP,Pauline Wendzel,146
+Allegan,"Cheshire Township, Precinct 1",State House,39,REP,Write-In,2
+Allegan,"City of Allegan, Precinct 1",Governor,,DEM,Gretchen Whitmer,108
+Allegan,"City of Allegan, Precinct 1",Governor,,REP,Garrett Soldano,51
+Allegan,"City of Allegan, Precinct 1",Governor,,REP,Kevin Rinke,28
+Allegan,"City of Allegan, Precinct 1",Governor,,REP,Ralph Rebandt,14
+Allegan,"City of Allegan, Precinct 1",Governor,,REP,Ryan D. Kelley,19
+Allegan,"City of Allegan, Precinct 1",Governor,,REP,Tudor M. Dixon,43
+Allegan,"City of Allegan, Precinct 1",Governor,,REP,Write-In,1
+Allegan,"City of Allegan, Precinct 1",U.S. House,4,DEM,Write-In,40
+Allegan,"City of Allegan, Precinct 1",U.S. House,4,REP,Bill Huizenga,117
+Allegan,"City of Allegan, Precinct 1",U.S. House,4,REP,Write-In,4
+Allegan,"City of Allegan, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,100
+Allegan,"City of Allegan, Precinct 1",State Senate,20,REP,Aric Nesbitt,62
+Allegan,"City of Allegan, Precinct 1",State Senate,20,REP,Austin Kreutz,50
+Allegan,"City of Allegan, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,37
+Allegan,"City of Allegan, Precinct 1",State House,43,DEM,Mark Ludwig,100
+Allegan,"City of Allegan, Precinct 1",State House,43,REP,Lindsay Kronemeyer,44
+Allegan,"City of Allegan, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,13
+Allegan,"City of Allegan, Precinct 1",State House,43,REP,Phillip Joseph,14
+Allegan,"City of Allegan, Precinct 1",State House,43,REP,Rachelle M. Smit,77
+Allegan,"City of Allegan, Precinct 2",Governor,,DEM,Gretchen Whitmer,161
+Allegan,"City of Allegan, Precinct 2",Governor,,REP,Garrett Soldano,71
+Allegan,"City of Allegan, Precinct 2",Governor,,REP,Kevin Rinke,58
+Allegan,"City of Allegan, Precinct 2",Governor,,REP,Ralph Rebandt,23
+Allegan,"City of Allegan, Precinct 2",Governor,,REP,Ryan D. Kelley,59
+Allegan,"City of Allegan, Precinct 2",Governor,,REP,Tudor M. Dixon,89
+Allegan,"City of Allegan, Precinct 2",Governor,,REP,Write-In,4
+Allegan,"City of Allegan, Precinct 2",U.S. House,4,DEM,Write-In,45
+Allegan,"City of Allegan, Precinct 2",U.S. House,4,REP,Bill Huizenga,252
+Allegan,"City of Allegan, Precinct 2",U.S. House,4,REP,Write-In,7
+Allegan,"City of Allegan, Precinct 2",State Senate,20,DEM,Kim Jorgensen Gane,145
+Allegan,"City of Allegan, Precinct 2",State Senate,20,DEM,Write-In,1
+Allegan,"City of Allegan, Precinct 2",State Senate,20,REP,Aric Nesbitt,171
+Allegan,"City of Allegan, Precinct 2",State Senate,20,REP,Austin Kreutz,98
+Allegan,"City of Allegan, Precinct 2",State Senate,20,REP,Kaleb M. Hudson,27
+Allegan,"City of Allegan, Precinct 2",State Senate,20,REP,Write-In,1
+Allegan,"City of Allegan, Precinct 2",State House,43,DEM,Mark Ludwig,145
+Allegan,"City of Allegan, Precinct 2",State House,43,DEM,Write-In,1
+Allegan,"City of Allegan, Precinct 2",State House,43,REP,Lindsay Kronemeyer,71
+Allegan,"City of Allegan, Precinct 2",State House,43,REP,Nevin P. Cooper-Keel,29
+Allegan,"City of Allegan, Precinct 2",State House,43,REP,Phillip Joseph,44
+Allegan,"City of Allegan, Precinct 2",State House,43,REP,Rachelle M. Smit,141
+Allegan,"City of Allegan, Precinct 2",State House,43,REP,Write-In,2
+Allegan,"City of Fennville, Precinct 1",Governor,,DEM,Gretchen Whitmer,66
+Allegan,"City of Fennville, Precinct 1",Governor,,DEM,Write-In,1
+Allegan,"City of Fennville, Precinct 1",Governor,,REP,Garrett Soldano,18
+Allegan,"City of Fennville, Precinct 1",Governor,,REP,Kevin Rinke,9
+Allegan,"City of Fennville, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Allegan,"City of Fennville, Precinct 1",Governor,,REP,Ryan D. Kelley,13
+Allegan,"City of Fennville, Precinct 1",Governor,,REP,Tudor M. Dixon,45
+Allegan,"City of Fennville, Precinct 1",Governor,,REP,Write-In,3
+Allegan,"City of Fennville, Precinct 1",U.S. House,4,DEM,Write-In,19
+Allegan,"City of Fennville, Precinct 1",U.S. House,4,REP,Bill Huizenga,86
+Allegan,"City of Fennville, Precinct 1",U.S. House,4,REP,Write-In,2
+Allegan,"City of Fennville, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,64
+Allegan,"City of Fennville, Precinct 1",State Senate,20,REP,Aric Nesbitt,51
+Allegan,"City of Fennville, Precinct 1",State Senate,20,REP,Austin Kreutz,17
+Allegan,"City of Fennville, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,16
+Allegan,"City of Fennville, Precinct 1",State Senate,20,REP,Write-In,1
+Allegan,"City of Fennville, Precinct 1",State House,43,DEM,Mark Ludwig,63
+Allegan,"City of Fennville, Precinct 1",State House,43,DEM,Write-In,1
+Allegan,"City of Fennville, Precinct 1",State House,43,REP,Lindsay Kronemeyer,22
+Allegan,"City of Fennville, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,3
+Allegan,"City of Fennville, Precinct 1",State House,43,REP,Phillip Joseph,10
+Allegan,"City of Fennville, Precinct 1",State House,43,REP,Rachelle M. Smit,51
+Allegan,"City of Fennville, Precinct 1",State House,43,REP,Write-In,1
+Allegan,"City of Otsego, Precinct 1",Governor,,DEM,Gretchen Whitmer,288
+Allegan,"City of Otsego, Precinct 1",Governor,,REP,Garrett Soldano,131
+Allegan,"City of Otsego, Precinct 1",Governor,,REP,Kevin Rinke,83
+Allegan,"City of Otsego, Precinct 1",Governor,,REP,Ralph Rebandt,18
+Allegan,"City of Otsego, Precinct 1",Governor,,REP,Ryan D. Kelley,58
+Allegan,"City of Otsego, Precinct 1",Governor,,REP,Tudor M. Dixon,102
+Allegan,"City of Otsego, Precinct 1",Governor,,REP,Write-In,2
+Allegan,"City of Otsego, Precinct 1",U.S. House,4,DEM,Write-In,104
+Allegan,"City of Otsego, Precinct 1",U.S. House,4,REP,Bill Huizenga,369
+Allegan,"City of Otsego, Precinct 1",U.S. House,4,REP,Write-In,6
+Allegan,"City of Otsego, Precinct 1",State Senate,18,DEM,Kai W. Degraaf,270
+Allegan,"City of Otsego, Precinct 1",State Senate,18,REP,Ryan P. Mancinelli,123
+Allegan,"City of Otsego, Precinct 1",State Senate,18,REP,Thomas A. Albert,239
+Allegan,"City of Otsego, Precinct 1",State Senate,18,REP,Write-In,6
+Allegan,"City of Otsego, Precinct 1",State House,42,DEM,Justin Mendoza,277
+Allegan,"City of Otsego, Precinct 1",State House,42,DEM,Write-In,1
+Allegan,"City of Otsego, Precinct 1",State House,42,REP,Gary Mitchell,92
+Allegan,"City of Otsego, Precinct 1",State House,42,REP,Matt Hall,284
+Allegan,"City of Otsego, Precinct 1",State House,42,REP,Write-In,4
+Allegan,"City of Plainwell, Precinct 1",Governor,,DEM,Gretchen Whitmer,294
+Allegan,"City of Plainwell, Precinct 1",Governor,,REP,Garrett Soldano,101
+Allegan,"City of Plainwell, Precinct 1",Governor,,REP,Kevin Rinke,57
+Allegan,"City of Plainwell, Precinct 1",Governor,,REP,Ralph Rebandt,13
+Allegan,"City of Plainwell, Precinct 1",Governor,,REP,Ryan D. Kelley,47
+Allegan,"City of Plainwell, Precinct 1",Governor,,REP,Tudor M. Dixon,136
+Allegan,"City of Plainwell, Precinct 1",Governor,,REP,Write-In,2
+Allegan,"City of Plainwell, Precinct 1",U.S. House,4,DEM,Write-In,104
+Allegan,"City of Plainwell, Precinct 1",U.S. House,4,REP,Bill Huizenga,315
+Allegan,"City of Plainwell, Precinct 1",U.S. House,4,REP,Write-In,1
+Allegan,"City of Plainwell, Precinct 1",State Senate,18,DEM,Kai W. Degraaf,268
+Allegan,"City of Plainwell, Precinct 1",State Senate,18,DEM,Write-In,1
+Allegan,"City of Plainwell, Precinct 1",State Senate,18,REP,Ryan P. Mancinelli,125
+Allegan,"City of Plainwell, Precinct 1",State Senate,18,REP,Thomas A. Albert,187
+Allegan,"City of Plainwell, Precinct 1",State House,42,DEM,Justin Mendoza,276
+Allegan,"City of Plainwell, Precinct 1",State House,42,DEM,Write-In,1
+Allegan,"City of Plainwell, Precinct 1",State House,42,REP,Gary Mitchell,101
+Allegan,"City of Plainwell, Precinct 1",State House,42,REP,Matt Hall,225
+Allegan,"City of Plainwell, Precinct 1",State House,42,REP,Write-In,1
+Allegan,"City of Saugatuck, Precinct 1",Governor,,DEM,Gretchen Whitmer,221
+Allegan,"City of Saugatuck, Precinct 1",Governor,,REP,Garrett Soldano,18
+Allegan,"City of Saugatuck, Precinct 1",Governor,,REP,Kevin Rinke,16
+Allegan,"City of Saugatuck, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Allegan,"City of Saugatuck, Precinct 1",Governor,,REP,Ryan D. Kelley,12
+Allegan,"City of Saugatuck, Precinct 1",Governor,,REP,Tudor M. Dixon,56
+Allegan,"City of Saugatuck, Precinct 1",Governor,,REP,Write-In,2
+Allegan,"City of Saugatuck, Precinct 1",U.S. House,4,DEM,Write-In,77
+Allegan,"City of Saugatuck, Precinct 1",U.S. House,4,REP,Bill Huizenga,97
+Allegan,"City of Saugatuck, Precinct 1",U.S. House,4,REP,Write-In,1
+Allegan,"City of Saugatuck, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,211
+Allegan,"City of Saugatuck, Precinct 1",State Senate,20,REP,Aric Nesbitt,74
+Allegan,"City of Saugatuck, Precinct 1",State Senate,20,REP,Austin Kreutz,19
+Allegan,"City of Saugatuck, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,7
+Allegan,"City of Saugatuck, Precinct 1",State House,38,DEM,Annie Brown,91
+Allegan,"City of Saugatuck, Precinct 1",State House,38,DEM,Joey Andrews,129
+Allegan,"City of Saugatuck, Precinct 1",State House,38,REP,George Steven Lucas,18
+Allegan,"City of Saugatuck, Precinct 1",State House,38,REP,Kevin Whiteford,69
+Allegan,"City of Saugatuck, Precinct 1",State House,38,REP,Troy Rolling,16
+Allegan,"City of Wayland, Precinct 1-WAY",Governor,,DEM,Gretchen Whitmer,126
+Allegan,"City of Wayland, Precinct 1-WAY",Governor,,DEM,Write-In,1
+Allegan,"City of Wayland, Precinct 1-WAY",Governor,,REP,Garrett Soldano,84
+Allegan,"City of Wayland, Precinct 1-WAY",Governor,,REP,Kevin Rinke,27
+Allegan,"City of Wayland, Precinct 1-WAY",Governor,,REP,Ralph Rebandt,13
+Allegan,"City of Wayland, Precinct 1-WAY",Governor,,REP,Ryan D. Kelley,45
+Allegan,"City of Wayland, Precinct 1-WAY",Governor,,REP,Tudor M. Dixon,110
+Allegan,"City of Wayland, Precinct 1-WAY",Governor,,REP,Write-In,2
+Allegan,"City of Wayland, Precinct 1-WAY",U.S. House,4,DEM,Write-In,38
+Allegan,"City of Wayland, Precinct 1-WAY",U.S. House,4,REP,Bill Huizenga,244
+Allegan,"City of Wayland, Precinct 1-WAY",U.S. House,4,REP,Write-In,7
+Allegan,"City of Wayland, Precinct 1-WAY",State Senate,18,DEM,Kai W. Degraaf,115
+Allegan,"City of Wayland, Precinct 1-WAY",State Senate,18,DEM,Write-In,3
+Allegan,"City of Wayland, Precinct 1-WAY",State Senate,18,REP,Ryan P. Mancinelli,96
+Allegan,"City of Wayland, Precinct 1-WAY",State Senate,18,REP,Thomas A. Albert,161
+Allegan,"City of Wayland, Precinct 1-WAY",State Senate,18,REP,Write-In,3
+Allegan,"City of Wayland, Precinct 1-WAY",State House,43,DEM,Mark Ludwig,118
+Allegan,"City of Wayland, Precinct 1-WAY",State House,43,DEM,Write-In,2
+Allegan,"City of Wayland, Precinct 1-WAY",State House,43,REP,Lindsay Kronemeyer,60
+Allegan,"City of Wayland, Precinct 1-WAY",State House,43,REP,Nevin P. Cooper-Keel,13
+Allegan,"City of Wayland, Precinct 1-WAY",State House,43,REP,Phillip Joseph,36
+Allegan,"City of Wayland, Precinct 1-WAY",State House,43,REP,Rachelle M. Smit,157
+Allegan,"City of Wayland, Precinct 1-WAY",State House,43,REP,Write-In,2
+Allegan,"City of Wayland, Precinct 2-WAY",Governor,,DEM,Gretchen Whitmer,165
+Allegan,"City of Wayland, Precinct 2-WAY",Governor,,DEM,Write-In,2
+Allegan,"City of Wayland, Precinct 2-WAY",Governor,,REP,Garrett Soldano,97
+Allegan,"City of Wayland, Precinct 2-WAY",Governor,,REP,Kevin Rinke,66
+Allegan,"City of Wayland, Precinct 2-WAY",Governor,,REP,Ralph Rebandt,12
+Allegan,"City of Wayland, Precinct 2-WAY",Governor,,REP,Ryan D. Kelley,79
+Allegan,"City of Wayland, Precinct 2-WAY",Governor,,REP,Tudor M. Dixon,102
+Allegan,"City of Wayland, Precinct 2-WAY",Governor,,REP,Write-In,2
+Allegan,"City of Wayland, Precinct 2-WAY",U.S. House,4,DEM,Write-In,66
+Allegan,"City of Wayland, Precinct 2-WAY",U.S. House,4,REP,Bill Huizenga,319
+Allegan,"City of Wayland, Precinct 2-WAY",U.S. House,4,REP,Write-In,5
+Allegan,"City of Wayland, Precinct 2-WAY",State Senate,18,DEM,Kai W. Degraaf,152
+Allegan,"City of Wayland, Precinct 2-WAY",State Senate,18,DEM,Write-In,1
+Allegan,"City of Wayland, Precinct 2-WAY",State Senate,18,REP,Ryan P. Mancinelli,139
+Allegan,"City of Wayland, Precinct 2-WAY",State Senate,18,REP,Thomas A. Albert,182
+Allegan,"City of Wayland, Precinct 2-WAY",State Senate,18,REP,Write-In,6
+Allegan,"City of Wayland, Precinct 2-WAY",State House,43,DEM,Mark Ludwig,152
+Allegan,"City of Wayland, Precinct 2-WAY",State House,43,DEM,Write-In,2
+Allegan,"City of Wayland, Precinct 2-WAY",State House,43,REP,Lindsay Kronemeyer,104
+Allegan,"City of Wayland, Precinct 2-WAY",State House,43,REP,Nevin P. Cooper-Keel,19
+Allegan,"City of Wayland, Precinct 2-WAY",State House,43,REP,Phillip Joseph,53
+Allegan,"City of Wayland, Precinct 2-WAY",State House,43,REP,Rachelle M. Smit,166
+Allegan,"City of Wayland, Precinct 2-WAY",State House,43,REP,Write-In,6
+Allegan,"City of the Village of Douglas, Precinct 1",Governor,,DEM,Gretchen Whitmer,345
+Allegan,"City of the Village of Douglas, Precinct 1",Governor,,REP,Garrett Soldano,28
+Allegan,"City of the Village of Douglas, Precinct 1",Governor,,REP,Kevin Rinke,30
+Allegan,"City of the Village of Douglas, Precinct 1",Governor,,REP,Ralph Rebandt,9
+Allegan,"City of the Village of Douglas, Precinct 1",Governor,,REP,Ryan D. Kelley,19
+Allegan,"City of the Village of Douglas, Precinct 1",Governor,,REP,Tudor M. Dixon,72
+Allegan,"City of the Village of Douglas, Precinct 1",U.S. House,4,DEM,Write-In,129
+Allegan,"City of the Village of Douglas, Precinct 1",U.S. House,4,REP,Bill Huizenga,140
+Allegan,"City of the Village of Douglas, Precinct 1",U.S. House,4,REP,Write-In,7
+Allegan,"City of the Village of Douglas, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,329
+Allegan,"City of the Village of Douglas, Precinct 1",State Senate,20,REP,Aric Nesbitt,83
+Allegan,"City of the Village of Douglas, Precinct 1",State Senate,20,REP,Austin Kreutz,31
+Allegan,"City of the Village of Douglas, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,30
+Allegan,"City of the Village of Douglas, Precinct 1",State Senate,20,REP,Write-In,3
+Allegan,"City of the Village of Douglas, Precinct 1",State House,38,DEM,Annie Brown,132
+Allegan,"City of the Village of Douglas, Precinct 1",State House,38,DEM,Joey Andrews,205
+Allegan,"City of the Village of Douglas, Precinct 1",State House,38,REP,George Steven Lucas,38
+Allegan,"City of the Village of Douglas, Precinct 1",State House,38,REP,Kevin Whiteford,86
+Allegan,"City of the Village of Douglas, Precinct 1",State House,38,REP,Troy Rolling,20
+Allegan,"City of the Village of Douglas, Precinct 1",State House,38,REP,Write-In,4
+Allegan,"Clyde Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,91
+Allegan,"Clyde Township, Precinct 1",Governor,,REP,Garrett Soldano,58
+Allegan,"Clyde Township, Precinct 1",Governor,,REP,Kevin Rinke,40
+Allegan,"Clyde Township, Precinct 1",Governor,,REP,Ralph Rebandt,10
+Allegan,"Clyde Township, Precinct 1",Governor,,REP,Ryan D. Kelley,33
+Allegan,"Clyde Township, Precinct 1",Governor,,REP,Tudor M. Dixon,88
+Allegan,"Clyde Township, Precinct 1",U.S. House,4,DEM,Write-In,41
+Allegan,"Clyde Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,208
+Allegan,"Clyde Township, Precinct 1",U.S. House,4,REP,Write-In,4
+Allegan,"Clyde Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,89
+Allegan,"Clyde Township, Precinct 1",State Senate,20,DEM,Write-In,1
+Allegan,"Clyde Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,116
+Allegan,"Clyde Township, Precinct 1",State Senate,20,REP,Austin Kreutz,65
+Allegan,"Clyde Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,33
+Allegan,"Clyde Township, Precinct 1",State Senate,20,REP,Write-In,1
+Allegan,"Clyde Township, Precinct 1",State House,43,DEM,Mark Ludwig,85
+Allegan,"Clyde Township, Precinct 1",State House,43,DEM,Write-In,2
+Allegan,"Clyde Township, Precinct 1",State House,43,REP,Lindsay Kronemeyer,75
+Allegan,"Clyde Township, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,8
+Allegan,"Clyde Township, Precinct 1",State House,43,REP,Phillip Joseph,32
+Allegan,"Clyde Township, Precinct 1",State House,43,REP,Rachelle M. Smit,100
+Allegan,"Dorr Township, Precinct 1-HOP",Governor,,DEM,Gretchen Whitmer,98
+Allegan,"Dorr Township, Precinct 1-HOP",Governor,,REP,Garrett Soldano,190
+Allegan,"Dorr Township, Precinct 1-HOP",Governor,,REP,Kevin Rinke,72
+Allegan,"Dorr Township, Precinct 1-HOP",Governor,,REP,Ralph Rebandt,26
+Allegan,"Dorr Township, Precinct 1-HOP",Governor,,REP,Ryan D. Kelley,92
+Allegan,"Dorr Township, Precinct 1-HOP",Governor,,REP,Tudor M. Dixon,167
+Allegan,"Dorr Township, Precinct 1-HOP",Governor,,REP,Write-In,2
+Allegan,"Dorr Township, Precinct 1-HOP",U.S. House,4,DEM,Write-In,27
+Allegan,"Dorr Township, Precinct 1-HOP",U.S. House,4,REP,Bill Huizenga,479
+Allegan,"Dorr Township, Precinct 1-HOP",U.S. House,4,REP,Write-In,6
+Allegan,"Dorr Township, Precinct 1-HOP",State Senate,20,DEM,Kim Jorgensen Gane,80
+Allegan,"Dorr Township, Precinct 1-HOP",State Senate,20,REP,Aric Nesbitt,329
+Allegan,"Dorr Township, Precinct 1-HOP",State Senate,20,REP,Austin Kreutz,131
+Allegan,"Dorr Township, Precinct 1-HOP",State Senate,20,REP,Kaleb M. Hudson,50
+Allegan,"Dorr Township, Precinct 1-HOP",State Senate,20,REP,Write-In,1
+Allegan,"Dorr Township, Precinct 1-HOP",State House,43,DEM,Mark Ludwig,84
+Allegan,"Dorr Township, Precinct 1-HOP",State House,43,REP,Lindsay Kronemeyer,171
+Allegan,"Dorr Township, Precinct 1-HOP",State House,43,REP,Nevin P. Cooper-Keel,18
+Allegan,"Dorr Township, Precinct 1-HOP",State House,43,REP,Phillip Joseph,61
+Allegan,"Dorr Township, Precinct 1-HOP",State House,43,REP,Rachelle M. Smit,280
+Allegan,"Dorr Township, Precinct 2-WAY",Governor,,DEM,Gretchen Whitmer,157
+Allegan,"Dorr Township, Precinct 2-WAY",Governor,,DEM,Write-In,2
+Allegan,"Dorr Township, Precinct 2-WAY",Governor,,REP,Garrett Soldano,219
+Allegan,"Dorr Township, Precinct 2-WAY",Governor,,REP,Kevin Rinke,93
+Allegan,"Dorr Township, Precinct 2-WAY",Governor,,REP,Ralph Rebandt,27
+Allegan,"Dorr Township, Precinct 2-WAY",Governor,,REP,Ryan D. Kelley,113
+Allegan,"Dorr Township, Precinct 2-WAY",Governor,,REP,Tudor M. Dixon,272
+Allegan,"Dorr Township, Precinct 2-WAY",Governor,,REP,Write-In,8
+Allegan,"Dorr Township, Precinct 2-WAY",U.S. House,4,DEM,Write-In,39
+Allegan,"Dorr Township, Precinct 2-WAY",U.S. House,4,REP,Bill Huizenga,667
+Allegan,"Dorr Township, Precinct 2-WAY",U.S. House,4,REP,Write-In,5
+Allegan,"Dorr Township, Precinct 2-WAY",State Senate,20,DEM,Kim Jorgensen Gane,135
+Allegan,"Dorr Township, Precinct 2-WAY",State Senate,20,REP,Aric Nesbitt,443
+Allegan,"Dorr Township, Precinct 2-WAY",State Senate,20,REP,Austin Kreutz,124
+Allegan,"Dorr Township, Precinct 2-WAY",State Senate,20,REP,Kaleb M. Hudson,110
+Allegan,"Dorr Township, Precinct 2-WAY",State Senate,20,REP,Write-In,7
+Allegan,"Dorr Township, Precinct 2-WAY",State House,43,DEM,Mark Ludwig,130
+Allegan,"Dorr Township, Precinct 2-WAY",State House,43,REP,Lindsay Kronemeyer,262
+Allegan,"Dorr Township, Precinct 2-WAY",State House,43,REP,Nevin P. Cooper-Keel,9
+Allegan,"Dorr Township, Precinct 2-WAY",State House,43,REP,Phillip Joseph,71
+Allegan,"Dorr Township, Precinct 2-WAY",State House,43,REP,Rachelle M. Smit,357
+Allegan,"Dorr Township, Precinct 2-WAY",State House,43,REP,Write-In,8
+Allegan,"Dorr Township, Precinct 3-WAY",Governor,,DEM,Gretchen Whitmer,142
+Allegan,"Dorr Township, Precinct 3-WAY",Governor,,REP,Garrett Soldano,158
+Allegan,"Dorr Township, Precinct 3-WAY",Governor,,REP,Kevin Rinke,77
+Allegan,"Dorr Township, Precinct 3-WAY",Governor,,REP,Ralph Rebandt,20
+Allegan,"Dorr Township, Precinct 3-WAY",Governor,,REP,Ryan D. Kelley,95
+Allegan,"Dorr Township, Precinct 3-WAY",Governor,,REP,Tudor M. Dixon,150
+Allegan,"Dorr Township, Precinct 3-WAY",Governor,,REP,Write-In,2
+Allegan,"Dorr Township, Precinct 3-WAY",U.S. House,4,DEM,Write-In,30
+Allegan,"Dorr Township, Precinct 3-WAY",U.S. House,4,REP,Bill Huizenga,434
+Allegan,"Dorr Township, Precinct 3-WAY",U.S. House,4,REP,Write-In,5
+Allegan,"Dorr Township, Precinct 3-WAY",State Senate,20,DEM,Kim Jorgensen Gane,133
+Allegan,"Dorr Township, Precinct 3-WAY",State Senate,20,REP,Aric Nesbitt,255
+Allegan,"Dorr Township, Precinct 3-WAY",State Senate,20,REP,Austin Kreutz,116
+Allegan,"Dorr Township, Precinct 3-WAY",State Senate,20,REP,Kaleb M. Hudson,81
+Allegan,"Dorr Township, Precinct 3-WAY",State Senate,20,REP,Write-In,3
+Allegan,"Dorr Township, Precinct 3-WAY",State House,43,DEM,Mark Ludwig,134
+Allegan,"Dorr Township, Precinct 3-WAY",State House,43,REP,Lindsay Kronemeyer,194
+Allegan,"Dorr Township, Precinct 3-WAY",State House,43,REP,Nevin P. Cooper-Keel,5
+Allegan,"Dorr Township, Precinct 3-WAY",State House,43,REP,Phillip Joseph,41
+Allegan,"Dorr Township, Precinct 3-WAY",State House,43,REP,Rachelle M. Smit,231
+Allegan,"Dorr Township, Precinct 3-WAY",State House,43,REP,Write-In,3
+Allegan,"Fillmore Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,92
+Allegan,"Fillmore Township, Precinct 1",Governor,,REP,Garrett Soldano,291
+Allegan,"Fillmore Township, Precinct 1",Governor,,REP,Kevin Rinke,90
+Allegan,"Fillmore Township, Precinct 1",Governor,,REP,Ralph Rebandt,16
+Allegan,"Fillmore Township, Precinct 1",Governor,,REP,Ryan D. Kelley,61
+Allegan,"Fillmore Township, Precinct 1",Governor,,REP,Tudor M. Dixon,266
+Allegan,"Fillmore Township, Precinct 1",Governor,,REP,Write-In,1
+Allegan,"Fillmore Township, Precinct 1",U.S. House,4,DEM,Write-In,33
+Allegan,"Fillmore Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,695
+Allegan,"Fillmore Township, Precinct 1",U.S. House,4,REP,Write-In,4
+Allegan,"Fillmore Township, Precinct 1",State Senate,31,DEM,Kim S. Nagy,88
+Allegan,"Fillmore Township, Precinct 1",State Senate,31,REP,Brian VanDussen,262
+Allegan,"Fillmore Township, Precinct 1",State Senate,31,REP,Roger Victory,442
+Allegan,"Fillmore Township, Precinct 1",State Senate,31,REP,Write-In,2
+Allegan,"Fillmore Township, Precinct 1",State House,43,DEM,Mark Ludwig,87
+Allegan,"Fillmore Township, Precinct 1",State House,43,REP,Lindsay Kronemeyer,312
+Allegan,"Fillmore Township, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,10
+Allegan,"Fillmore Township, Precinct 1",State House,43,REP,Phillip Joseph,57
+Allegan,"Fillmore Township, Precinct 1",State House,43,REP,Rachelle M. Smit,327
+Allegan,"Fillmore Township, Precinct 1",State House,43,REP,Write-In,1
+Allegan,"Ganges Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,295
+Allegan,"Ganges Township, Precinct 1",Governor,,DEM,Write-In,1
+Allegan,"Ganges Township, Precinct 1",Governor,,REP,Garrett Soldano,99
+Allegan,"Ganges Township, Precinct 1",Governor,,REP,Kevin Rinke,96
+Allegan,"Ganges Township, Precinct 1",Governor,,REP,Ralph Rebandt,9
+Allegan,"Ganges Township, Precinct 1",Governor,,REP,Ryan D. Kelley,58
+Allegan,"Ganges Township, Precinct 1",Governor,,REP,Tudor M. Dixon,161
+Allegan,"Ganges Township, Precinct 1",Governor,,REP,Write-In,2
+Allegan,"Ganges Township, Precinct 1",U.S. House,4,DEM,Write-In,91
+Allegan,"Ganges Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,381
+Allegan,"Ganges Township, Precinct 1",U.S. House,4,REP,Write-In,6
+Allegan,"Ganges Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,274
+Allegan,"Ganges Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,272
+Allegan,"Ganges Township, Precinct 1",State Senate,20,REP,Austin Kreutz,85
+Allegan,"Ganges Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,38
+Allegan,"Ganges Township, Precinct 1",State Senate,20,REP,Write-In,3
+Allegan,"Ganges Township, Precinct 1",State House,38,DEM,Annie Brown,185
+Allegan,"Ganges Township, Precinct 1",State House,38,DEM,Joey Andrews,99
+Allegan,"Ganges Township, Precinct 1",State House,38,REP,George Steven Lucas,96
+Allegan,"Ganges Township, Precinct 1",State House,38,REP,Kevin Whiteford,255
+Allegan,"Ganges Township, Precinct 1",State House,38,REP,Troy Rolling,44
+Allegan,"Ganges Township, Precinct 1",State House,38,REP,Write-In,4
+Allegan,"Gun Plain Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,278
+Allegan,"Gun Plain Township, Precinct 1",Governor,,REP,Garrett Soldano,135
+Allegan,"Gun Plain Township, Precinct 1",Governor,,REP,Kevin Rinke,71
+Allegan,"Gun Plain Township, Precinct 1",Governor,,REP,Ralph Rebandt,13
+Allegan,"Gun Plain Township, Precinct 1",Governor,,REP,Ryan D. Kelley,52
+Allegan,"Gun Plain Township, Precinct 1",Governor,,REP,Tudor M. Dixon,193
+Allegan,"Gun Plain Township, Precinct 1",Governor,,REP,Write-In,2
+Allegan,"Gun Plain Township, Precinct 1",U.S. House,4,DEM,Write-In,100
+Allegan,"Gun Plain Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,403
+Allegan,"Gun Plain Township, Precinct 1",U.S. House,4,REP,Write-In,1
+Allegan,"Gun Plain Township, Precinct 1",State Senate,18,DEM,Kai W. Degraaf,265
+Allegan,"Gun Plain Township, Precinct 1",State Senate,18,REP,Ryan P. Mancinelli,112
+Allegan,"Gun Plain Township, Precinct 1",State Senate,18,REP,Thomas A. Albert,289
+Allegan,"Gun Plain Township, Precinct 1",State Senate,18,REP,Write-In,3
+Allegan,"Gun Plain Township, Precinct 1",State House,42,DEM,Justin Mendoza,262
+Allegan,"Gun Plain Township, Precinct 1",State House,42,DEM,Write-In,1
+Allegan,"Gun Plain Township, Precinct 1",State House,42,REP,Gary Mitchell,128
+Allegan,"Gun Plain Township, Precinct 1",State House,42,REP,Matt Hall,293
+Allegan,"Gun Plain Township, Precinct 1",State House,42,REP,Write-In,1
+Allegan,"Gun Plain Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,155
+Allegan,"Gun Plain Township, Precinct 2",Governor,,DEM,Write-In,1
+Allegan,"Gun Plain Township, Precinct 2",Governor,,REP,Garrett Soldano,89
+Allegan,"Gun Plain Township, Precinct 2",Governor,,REP,Kevin Rinke,63
+Allegan,"Gun Plain Township, Precinct 2",Governor,,REP,Ralph Rebandt,12
+Allegan,"Gun Plain Township, Precinct 2",Governor,,REP,Ryan D. Kelley,62
+Allegan,"Gun Plain Township, Precinct 2",Governor,,REP,Tudor M. Dixon,117
+Allegan,"Gun Plain Township, Precinct 2",U.S. House,4,DEM,Write-In,48
+Allegan,"Gun Plain Township, Precinct 2",U.S. House,4,REP,Bill Huizenga,304
+Allegan,"Gun Plain Township, Precinct 2",U.S. House,4,REP,Write-In,5
+Allegan,"Gun Plain Township, Precinct 2",State Senate,18,DEM,Kai W. Degraaf,145
+Allegan,"Gun Plain Township, Precinct 2",State Senate,18,REP,Ryan P. Mancinelli,107
+Allegan,"Gun Plain Township, Precinct 2",State Senate,18,REP,Thomas A. Albert,207
+Allegan,"Gun Plain Township, Precinct 2",State Senate,18,REP,Write-In,2
+Allegan,"Gun Plain Township, Precinct 2",State House,42,DEM,Justin Mendoza,145
+Allegan,"Gun Plain Township, Precinct 2",State House,42,REP,Gary Mitchell,145
+Allegan,"Gun Plain Township, Precinct 2",State House,42,REP,Matt Hall,180
+Allegan,"Gun Plain Township, Precinct 2",State House,42,REP,Write-In,1
+Allegan,"Heath Township, Precinct 1-HAM",Governor,,DEM,Gretchen Whitmer,89
+Allegan,"Heath Township, Precinct 1-HAM",Governor,,DEM,Write-In,1
+Allegan,"Heath Township, Precinct 1-HAM",Governor,,REP,Garrett Soldano,302
+Allegan,"Heath Township, Precinct 1-HAM",Governor,,REP,Kevin Rinke,92
+Allegan,"Heath Township, Precinct 1-HAM",Governor,,REP,Ralph Rebandt,34
+Allegan,"Heath Township, Precinct 1-HAM",Governor,,REP,Ryan D. Kelley,111
+Allegan,"Heath Township, Precinct 1-HAM",Governor,,REP,Tudor M. Dixon,229
+Allegan,"Heath Township, Precinct 1-HAM",Governor,,REP,Write-In,1
+Allegan,"Heath Township, Precinct 1-HAM",U.S. House,4,DEM,Write-In,39
+Allegan,"Heath Township, Precinct 1-HAM",U.S. House,4,REP,Bill Huizenga,711
+Allegan,"Heath Township, Precinct 1-HAM",U.S. House,4,REP,Write-In,6
+Allegan,"Heath Township, Precinct 1-HAM",State Senate,20,DEM,Kim Jorgensen Gane,85
+Allegan,"Heath Township, Precinct 1-HAM",State Senate,20,REP,Aric Nesbitt,406
+Allegan,"Heath Township, Precinct 1-HAM",State Senate,20,REP,Austin Kreutz,233
+Allegan,"Heath Township, Precinct 1-HAM",State Senate,20,REP,Kaleb M. Hudson,86
+Allegan,"Heath Township, Precinct 1-HAM",State House,43,DEM,Mark Ludwig,85
+Allegan,"Heath Township, Precinct 1-HAM",State House,43,REP,Lindsay Kronemeyer,302
+Allegan,"Heath Township, Precinct 1-HAM",State House,43,REP,Nevin P. Cooper-Keel,13
+Allegan,"Heath Township, Precinct 1-HAM",State House,43,REP,Phillip Joseph,81
+Allegan,"Heath Township, Precinct 1-HAM",State House,43,REP,Rachelle M. Smit,350
+Allegan,"Heath Township, Precinct 1-HAM",State House,43,REP,Write-In,1
+Allegan,"Heath Township, Precinct 2-ALG",Governor,,DEM,Gretchen Whitmer,24
+Allegan,"Heath Township, Precinct 2-ALG",Governor,,REP,Garrett Soldano,36
+Allegan,"Heath Township, Precinct 2-ALG",Governor,,REP,Kevin Rinke,14
+Allegan,"Heath Township, Precinct 2-ALG",Governor,,REP,Ralph Rebandt,9
+Allegan,"Heath Township, Precinct 2-ALG",Governor,,REP,Ryan D. Kelley,34
+Allegan,"Heath Township, Precinct 2-ALG",Governor,,REP,Tudor M. Dixon,43
+Allegan,"Heath Township, Precinct 2-ALG",U.S. House,4,DEM,Write-In,9
+Allegan,"Heath Township, Precinct 2-ALG",U.S. House,4,REP,Bill Huizenga,122
+Allegan,"Heath Township, Precinct 2-ALG",State Senate,20,DEM,Kim Jorgensen Gane,22
+Allegan,"Heath Township, Precinct 2-ALG",State Senate,20,REP,Aric Nesbitt,72
+Allegan,"Heath Township, Precinct 2-ALG",State Senate,20,REP,Austin Kreutz,40
+Allegan,"Heath Township, Precinct 2-ALG",State Senate,20,REP,Kaleb M. Hudson,19
+Allegan,"Heath Township, Precinct 2-ALG",State House,43,DEM,Mark Ludwig,23
+Allegan,"Heath Township, Precinct 2-ALG",State House,43,REP,Lindsay Kronemeyer,49
+Allegan,"Heath Township, Precinct 2-ALG",State House,43,REP,Nevin P. Cooper-Keel,4
+Allegan,"Heath Township, Precinct 2-ALG",State House,43,REP,Phillip Joseph,17
+Allegan,"Heath Township, Precinct 2-ALG",State House,43,REP,Rachelle M. Smit,63
+Allegan,Holland City W4 Pct 9 (OTTAWA),Governor,,DEM,Gretchen Whitmer,192
+Allegan,Holland City W4 Pct 9 (OTTAWA),Governor,,REP,Garrett Soldano,74
+Allegan,Holland City W4 Pct 9 (OTTAWA),Governor,,REP,Kevin Rinke,61
+Allegan,Holland City W4 Pct 9 (OTTAWA),Governor,,REP,Ralph Rebandt,19
+Allegan,Holland City W4 Pct 9 (OTTAWA),Governor,,REP,Ryan D. Kelley,39
+Allegan,Holland City W4 Pct 9 (OTTAWA),Governor,,REP,Tudor M. Dixon,159
+Allegan,Holland City W4 Pct 9 (OTTAWA),Governor,,REP,Write-In,4
+Allegan,Holland City W4 Pct 9 (OTTAWA),U.S. House,4,DEM,Write-In,66
+Allegan,Holland City W4 Pct 9 (OTTAWA),U.S. House,4,REP,Bill Huizenga,316
+Allegan,Holland City W4 Pct 9 (OTTAWA),U.S. House,4,REP,Write-In,13
+Allegan,Holland City W4 Pct 9 (OTTAWA),State Senate,31,DEM,Kim S. Nagy,176
+Allegan,Holland City W4 Pct 9 (OTTAWA),State Senate,31,DEM,Write-In,1
+Allegan,Holland City W4 Pct 9 (OTTAWA),State Senate,31,REP,Brian VanDussen,134
+Allegan,Holland City W4 Pct 9 (OTTAWA),State Senate,31,REP,Roger Victory,207
+Allegan,Holland City W4 Pct 9 (OTTAWA),State Senate,31,REP,Write-In,2
+Allegan,Holland City W4 Pct 9 (OTTAWA),State House,86,DEM,Larry D. Jackson,175
+Allegan,Holland City W4 Pct 9 (OTTAWA),State House,86,DEM,Write-In,1
+Allegan,Holland City W4 Pct 9 (OTTAWA),State House,86,REP,Nancy De Boer,263
+Allegan,Holland City W4 Pct 9 (OTTAWA),State House,86,REP,Seth Getz,109
+Allegan,Holland City W4 Pct 9 (OTTAWA),State House,86,REP,Write-In,9
+Allegan,Holland City W5 Pct 11 (OTTAWA),Governor,,DEM,Gretchen Whitmer,162
+Allegan,Holland City W5 Pct 11 (OTTAWA),Governor,,DEM,Write-In,1
+Allegan,Holland City W5 Pct 11 (OTTAWA),Governor,,REP,Garrett Soldano,63
+Allegan,Holland City W5 Pct 11 (OTTAWA),Governor,,REP,Kevin Rinke,73
+Allegan,Holland City W5 Pct 11 (OTTAWA),Governor,,REP,Ralph Rebandt,16
+Allegan,Holland City W5 Pct 11 (OTTAWA),Governor,,REP,Ryan D. Kelley,40
+Allegan,Holland City W5 Pct 11 (OTTAWA),Governor,,REP,Tudor M. Dixon,145
+Allegan,Holland City W5 Pct 11 (OTTAWA),Governor,,REP,Write-In,2
+Allegan,Holland City W5 Pct 11 (OTTAWA),U.S. House,4,DEM,Write-In,45
+Allegan,Holland City W5 Pct 11 (OTTAWA),U.S. House,4,REP,Bill Huizenga,288
+Allegan,Holland City W5 Pct 11 (OTTAWA),U.S. House,4,REP,Write-In,8
+Allegan,Holland City W5 Pct 11 (OTTAWA),State Senate,31,DEM,Kim S. Nagy,147
+Allegan,Holland City W5 Pct 11 (OTTAWA),State Senate,31,REP,Brian VanDussen,126
+Allegan,Holland City W5 Pct 11 (OTTAWA),State Senate,31,REP,Roger Victory,184
+Allegan,Holland City W5 Pct 11 (OTTAWA),State Senate,31,REP,Write-In,1
+Allegan,Holland City W5 Pct 11 (OTTAWA),State House,86,DEM,Larry D. Jackson,145
+Allegan,Holland City W5 Pct 11 (OTTAWA),State House,86,REP,Nancy De Boer,248
+Allegan,Holland City W5 Pct 11 (OTTAWA),State House,86,REP,Seth Getz,111
+Allegan,Holland City W5 Pct 12 (OTTAWA),Governor,,DEM,Gretchen Whitmer,146
+Allegan,Holland City W5 Pct 12 (OTTAWA),Governor,,REP,Garrett Soldano,81
+Allegan,Holland City W5 Pct 12 (OTTAWA),Governor,,REP,Kevin Rinke,70
+Allegan,Holland City W5 Pct 12 (OTTAWA),Governor,,REP,Ralph Rebandt,21
+Allegan,Holland City W5 Pct 12 (OTTAWA),Governor,,REP,Ryan D. Kelley,53
+Allegan,Holland City W5 Pct 12 (OTTAWA),Governor,,REP,Tudor M. Dixon,149
+Allegan,Holland City W5 Pct 12 (OTTAWA),Governor,,REP,Write-In,5
+Allegan,Holland City W5 Pct 12 (OTTAWA),U.S. House,4,DEM,Write-In,45
+Allegan,Holland City W5 Pct 12 (OTTAWA),U.S. House,4,REP,Bill Huizenga,344
+Allegan,Holland City W5 Pct 12 (OTTAWA),U.S. House,4,REP,Write-In,5
+Allegan,Holland City W5 Pct 12 (OTTAWA),State Senate,31,DEM,Kim S. Nagy,133
+Allegan,Holland City W5 Pct 12 (OTTAWA),State Senate,31,REP,Brian VanDussen,132
+Allegan,Holland City W5 Pct 12 (OTTAWA),State Senate,31,REP,Roger Victory,213
+Allegan,Holland City W5 Pct 12 (OTTAWA),State Senate,31,REP,Write-In,2
+Allegan,Holland City W5 Pct 12 (OTTAWA),State House,86,DEM,Larry D. Jackson,130
+Allegan,Holland City W5 Pct 12 (OTTAWA),State House,86,REP,Nancy De Boer,255
+Allegan,Holland City W5 Pct 12 (OTTAWA),State House,86,REP,Seth Getz,131
+Allegan,Holland City W5 Pct 13 (OTTAWA),Governor,,DEM,Gretchen Whitmer,85
+Allegan,Holland City W5 Pct 13 (OTTAWA),Governor,,REP,Garrett Soldano,43
+Allegan,Holland City W5 Pct 13 (OTTAWA),Governor,,REP,Kevin Rinke,28
+Allegan,Holland City W5 Pct 13 (OTTAWA),Governor,,REP,Ralph Rebandt,6
+Allegan,Holland City W5 Pct 13 (OTTAWA),Governor,,REP,Ryan D. Kelley,26
+Allegan,Holland City W5 Pct 13 (OTTAWA),Governor,,REP,Tudor M. Dixon,73
+Allegan,Holland City W5 Pct 13 (OTTAWA),Governor,,REP,Write-In,7
+Allegan,Holland City W5 Pct 13 (OTTAWA),U.S. House,4,DEM,Write-In,28
+Allegan,Holland City W5 Pct 13 (OTTAWA),U.S. House,4,REP,Bill Huizenga,158
+Allegan,Holland City W5 Pct 13 (OTTAWA),U.S. House,4,REP,Write-In,2
+Allegan,Holland City W5 Pct 13 (OTTAWA),State Senate,31,DEM,Kim S. Nagy,77
+Allegan,Holland City W5 Pct 13 (OTTAWA),State Senate,31,REP,Brian VanDussen,57
+Allegan,Holland City W5 Pct 13 (OTTAWA),State Senate,31,REP,Roger Victory,104
+Allegan,Holland City W5 Pct 13 (OTTAWA),State Senate,31,REP,Write-In,2
+Allegan,Holland City W5 Pct 13 (OTTAWA),State House,86,DEM,Larry D. Jackson,76
+Allegan,Holland City W5 Pct 13 (OTTAWA),State House,86,REP,Nancy De Boer,111
+Allegan,Holland City W5 Pct 13 (OTTAWA),State House,86,REP,Seth Getz,66
+Allegan,"Hopkins Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,101
+Allegan,"Hopkins Township, Precinct 1",Governor,,REP,Garrett Soldano,180
+Allegan,"Hopkins Township, Precinct 1",Governor,,REP,Kevin Rinke,96
+Allegan,"Hopkins Township, Precinct 1",Governor,,REP,Ralph Rebandt,36
+Allegan,"Hopkins Township, Precinct 1",Governor,,REP,Ryan D. Kelley,97
+Allegan,"Hopkins Township, Precinct 1",Governor,,REP,Tudor M. Dixon,175
+Allegan,"Hopkins Township, Precinct 1",U.S. House,4,DEM,Write-In,25
+Allegan,"Hopkins Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,532
+Allegan,"Hopkins Township, Precinct 1",U.S. House,4,REP,Write-In,7
+Allegan,"Hopkins Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,92
+Allegan,"Hopkins Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,398
+Allegan,"Hopkins Township, Precinct 1",State Senate,20,REP,Austin Kreutz,109
+Allegan,"Hopkins Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,49
+Allegan,"Hopkins Township, Precinct 1",State Senate,20,REP,Write-In,6
+Allegan,"Hopkins Township, Precinct 1",State House,43,DEM,Mark Ludwig,92
+Allegan,"Hopkins Township, Precinct 1",State House,43,REP,Lindsay Kronemeyer,147
+Allegan,"Hopkins Township, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,17
+Allegan,"Hopkins Township, Precinct 1",State House,43,REP,Phillip Joseph,68
+Allegan,"Hopkins Township, Precinct 1",State House,43,REP,Rachelle M. Smit,340
+Allegan,"Hopkins Township, Precinct 1",State House,43,REP,Write-In,6
+Allegan,"Laketown Township, Precinct 1-HOL",Governor,,DEM,Gretchen Whitmer,217
+Allegan,"Laketown Township, Precinct 1-HOL",Governor,,REP,Garrett Soldano,103
+Allegan,"Laketown Township, Precinct 1-HOL",Governor,,REP,Kevin Rinke,75
+Allegan,"Laketown Township, Precinct 1-HOL",Governor,,REP,Ralph Rebandt,20
+Allegan,"Laketown Township, Precinct 1-HOL",Governor,,REP,Ryan D. Kelley,30
+Allegan,"Laketown Township, Precinct 1-HOL",Governor,,REP,Tudor M. Dixon,253
+Allegan,"Laketown Township, Precinct 1-HOL",Governor,,REP,Write-In,4
+Allegan,"Laketown Township, Precinct 1-HOL",U.S. House,4,DEM,Write-In,77
+Allegan,"Laketown Township, Precinct 1-HOL",U.S. House,4,REP,Bill Huizenga,423
+Allegan,"Laketown Township, Precinct 1-HOL",U.S. House,4,REP,Write-In,4
+Allegan,"Laketown Township, Precinct 1-HOL",State Senate,31,DEM,Kim S. Nagy,208
+Allegan,"Laketown Township, Precinct 1-HOL",State Senate,31,DEM,Write-In,1
+Allegan,"Laketown Township, Precinct 1-HOL",State Senate,31,REP,Brian VanDussen,178
+Allegan,"Laketown Township, Precinct 1-HOL",State Senate,31,REP,Roger Victory,266
+Allegan,"Laketown Township, Precinct 1-HOL",State Senate,31,REP,Write-In,1
+Allegan,"Laketown Township, Precinct 1-HOL",State House,86,DEM,Larry D. Jackson,209
+Allegan,"Laketown Township, Precinct 1-HOL",State House,86,REP,Nancy De Boer,290
+Allegan,"Laketown Township, Precinct 1-HOL",State House,86,REP,Seth Getz,197
+Allegan,"Laketown Township, Precinct 1-HOL",State House,86,REP,Write-In,1
+Allegan,"Laketown Township, Precinct 2-HAM",Governor,,DEM,Gretchen Whitmer,190
+Allegan,"Laketown Township, Precinct 2-HAM",Governor,,DEM,Write-In,1
+Allegan,"Laketown Township, Precinct 2-HAM",Governor,,REP,Garrett Soldano,255
+Allegan,"Laketown Township, Precinct 2-HAM",Governor,,REP,Kevin Rinke,131
+Allegan,"Laketown Township, Precinct 2-HAM",Governor,,REP,Ralph Rebandt,37
+Allegan,"Laketown Township, Precinct 2-HAM",Governor,,REP,Ryan D. Kelley,88
+Allegan,"Laketown Township, Precinct 2-HAM",Governor,,REP,Tudor M. Dixon,329
+Allegan,"Laketown Township, Precinct 2-HAM",Governor,,REP,Write-In,4
+Allegan,"Laketown Township, Precinct 2-HAM",U.S. House,4,DEM,Write-In,66
+Allegan,"Laketown Township, Precinct 2-HAM",U.S. House,4,REP,Bill Huizenga,769
+Allegan,"Laketown Township, Precinct 2-HAM",U.S. House,4,REP,Write-In,6
+Allegan,"Laketown Township, Precinct 2-HAM",State Senate,31,DEM,Kim S. Nagy,173
+Allegan,"Laketown Township, Precinct 2-HAM",State Senate,31,REP,Brian VanDussen,340
+Allegan,"Laketown Township, Precinct 2-HAM",State Senate,31,REP,Roger Victory,449
+Allegan,"Laketown Township, Precinct 2-HAM",State Senate,31,REP,Write-In,4
+Allegan,"Laketown Township, Precinct 2-HAM",State House,86,DEM,Larry D. Jackson,170
+Allegan,"Laketown Township, Precinct 2-HAM",State House,86,DEM,Write-In,2
+Allegan,"Laketown Township, Precinct 2-HAM",State House,86,REP,Nancy De Boer,622
+Allegan,"Laketown Township, Precinct 2-HAM",State House,86,REP,Seth Getz,205
+Allegan,"Laketown Township, Precinct 2-HAM",State House,86,REP,Write-In,4
+Allegan,"Laketown Township, Precinct 3-SAU",Governor,,DEM,Gretchen Whitmer,109
+Allegan,"Laketown Township, Precinct 3-SAU",Governor,,REP,Garrett Soldano,35
+Allegan,"Laketown Township, Precinct 3-SAU",Governor,,REP,Kevin Rinke,42
+Allegan,"Laketown Township, Precinct 3-SAU",Governor,,REP,Ralph Rebandt,9
+Allegan,"Laketown Township, Precinct 3-SAU",Governor,,REP,Ryan D. Kelley,14
+Allegan,"Laketown Township, Precinct 3-SAU",Governor,,REP,Tudor M. Dixon,95
+Allegan,"Laketown Township, Precinct 3-SAU",Governor,,REP,Write-In,1
+Allegan,"Laketown Township, Precinct 3-SAU",U.S. House,4,DEM,Write-In,35
+Allegan,"Laketown Township, Precinct 3-SAU",U.S. House,4,REP,Bill Huizenga,178
+Allegan,"Laketown Township, Precinct 3-SAU",U.S. House,4,REP,Write-In,4
+Allegan,"Laketown Township, Precinct 3-SAU",State Senate,31,DEM,Kim S. Nagy,106
+Allegan,"Laketown Township, Precinct 3-SAU",State Senate,31,REP,Brian VanDussen,95
+Allegan,"Laketown Township, Precinct 3-SAU",State Senate,31,REP,Roger Victory,92
+Allegan,"Laketown Township, Precinct 3-SAU",State Senate,31,REP,Write-In,1
+Allegan,"Laketown Township, Precinct 3-SAU",State House,86,DEM,Larry D. Jackson,106
+Allegan,"Laketown Township, Precinct 3-SAU",State House,86,REP,Nancy De Boer,136
+Allegan,"Laketown Township, Precinct 3-SAU",State House,86,REP,Seth Getz,58
+Allegan,"Laketown Township, Precinct 3-SAU",State House,86,REP,Write-In,2
+Allegan,"Lee Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,116
+Allegan,"Lee Township, Precinct 1",Governor,,DEM,Write-In,1
+Allegan,"Lee Township, Precinct 1",Governor,,REP,Garrett Soldano,57
+Allegan,"Lee Township, Precinct 1",Governor,,REP,Kevin Rinke,34
+Allegan,"Lee Township, Precinct 1",Governor,,REP,Ralph Rebandt,15
+Allegan,"Lee Township, Precinct 1",Governor,,REP,Ryan D. Kelley,31
+Allegan,"Lee Township, Precinct 1",Governor,,REP,Tudor M. Dixon,100
+Allegan,"Lee Township, Precinct 1",Governor,,REP,Write-In,1
+Allegan,"Lee Township, Precinct 1",U.S. House,4,DEM,Write-In,65
+Allegan,"Lee Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,209
+Allegan,"Lee Township, Precinct 1",U.S. House,4,REP,Write-In,6
+Allegan,"Lee Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,113
+Allegan,"Lee Township, Precinct 1",State Senate,20,DEM,Write-In,1
+Allegan,"Lee Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,134
+Allegan,"Lee Township, Precinct 1",State Senate,20,REP,Austin Kreutz,63
+Allegan,"Lee Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,34
+Allegan,"Lee Township, Precinct 1",State Senate,20,REP,Write-In,4
+Allegan,"Lee Township, Precinct 1",State House,39,DEM,Jared Polonowski,114
+Allegan,"Lee Township, Precinct 1",State House,39,DEM,Write-In,2
+Allegan,"Lee Township, Precinct 1",State House,39,REP,Matt Nilson,98
+Allegan,"Lee Township, Precinct 1",State House,39,REP,Pauline Wendzel,125
+Allegan,"Lee Township, Precinct 1",State House,39,REP,Write-In,6
+Allegan,"Leighton Township, Precinct 1-WAY",Governor,,DEM,Gretchen Whitmer,56
+Allegan,"Leighton Township, Precinct 1-WAY",Governor,,REP,Garrett Soldano,136
+Allegan,"Leighton Township, Precinct 1-WAY",Governor,,REP,Kevin Rinke,43
+Allegan,"Leighton Township, Precinct 1-WAY",Governor,,REP,Ralph Rebandt,21
+Allegan,"Leighton Township, Precinct 1-WAY",Governor,,REP,Ryan D. Kelley,90
+Allegan,"Leighton Township, Precinct 1-WAY",Governor,,REP,Tudor M. Dixon,155
+Allegan,"Leighton Township, Precinct 1-WAY",Governor,,REP,Write-In,1
+Allegan,"Leighton Township, Precinct 1-WAY",U.S. House,4,DEM,Write-In,15
+Allegan,"Leighton Township, Precinct 1-WAY",U.S. House,4,REP,Bill Huizenga,429
+Allegan,"Leighton Township, Precinct 1-WAY",U.S. House,4,REP,Write-In,1
+Allegan,"Leighton Township, Precinct 1-WAY",State Senate,18,DEM,Kai W. Degraaf,54
+Allegan,"Leighton Township, Precinct 1-WAY",State Senate,18,REP,Ryan P. Mancinelli,99
+Allegan,"Leighton Township, Precinct 1-WAY",State Senate,18,REP,Thomas A. Albert,315
+Allegan,"Leighton Township, Precinct 1-WAY",State Senate,18,REP,Write-In,4
+Allegan,"Leighton Township, Precinct 1-WAY",State House,79,DEM,Kimberly Y. Kennedy-Barrington,53
+Allegan,"Leighton Township, Precinct 1-WAY",State House,79,REP,Angela Rigas,272
+Allegan,"Leighton Township, Precinct 1-WAY",State House,79,REP,Jeremiah Keeler,104
+Allegan,"Leighton Township, Precinct 1-WAY",State House,79,REP,Ryan Gallogly,53
+Allegan,"Leighton Township, Precinct 1-WAY",State House,79,REP,Write-In,3
+Allegan,"Leighton Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,80
+Allegan,"Leighton Township, Precinct 2",Governor,,REP,Garrett Soldano,160
+Allegan,"Leighton Township, Precinct 2",Governor,,REP,Kevin Rinke,67
+Allegan,"Leighton Township, Precinct 2",Governor,,REP,Ralph Rebandt,28
+Allegan,"Leighton Township, Precinct 2",Governor,,REP,Ryan D. Kelley,94
+Allegan,"Leighton Township, Precinct 2",Governor,,REP,Tudor M. Dixon,203
+Allegan,"Leighton Township, Precinct 2",Governor,,REP,Write-In,2
+Allegan,"Leighton Township, Precinct 2",U.S. House,4,DEM,Write-In,26
+Allegan,"Leighton Township, Precinct 2",U.S. House,4,REP,Bill Huizenga,504
+Allegan,"Leighton Township, Precinct 2",U.S. House,4,REP,Write-In,1
+Allegan,"Leighton Township, Precinct 2",State Senate,18,DEM,Kai W. Degraaf,74
+Allegan,"Leighton Township, Precinct 2",State Senate,18,REP,Ryan P. Mancinelli,145
+Allegan,"Leighton Township, Precinct 2",State Senate,18,REP,Thomas A. Albert,350
+Allegan,"Leighton Township, Precinct 2",State Senate,18,REP,Write-In,3
+Allegan,"Leighton Township, Precinct 2",State House,79,DEM,Kimberly Y. Kennedy-Barrington,75
+Allegan,"Leighton Township, Precinct 2",State House,79,REP,Angela Rigas,348
+Allegan,"Leighton Township, Precinct 2",State House,79,REP,Jeremiah Keeler,163
+Allegan,"Leighton Township, Precinct 2",State House,79,REP,Ryan Gallogly,25
+Allegan,"Leighton Township, Precinct 3-WAY",Governor,,DEM,Gretchen Whitmer,98
+Allegan,"Leighton Township, Precinct 3-WAY",Governor,,DEM,Write-In,1
+Allegan,"Leighton Township, Precinct 3-WAY",Governor,,REP,Garrett Soldano,157
+Allegan,"Leighton Township, Precinct 3-WAY",Governor,,REP,Kevin Rinke,78
+Allegan,"Leighton Township, Precinct 3-WAY",Governor,,REP,Ralph Rebandt,18
+Allegan,"Leighton Township, Precinct 3-WAY",Governor,,REP,Ryan D. Kelley,104
+Allegan,"Leighton Township, Precinct 3-WAY",Governor,,REP,Tudor M. Dixon,145
+Allegan,"Leighton Township, Precinct 3-WAY",Governor,,REP,Write-In,1
+Allegan,"Leighton Township, Precinct 3-WAY",U.S. House,4,DEM,Write-In,27
+Allegan,"Leighton Township, Precinct 3-WAY",U.S. House,4,REP,Bill Huizenga,460
+Allegan,"Leighton Township, Precinct 3-WAY",U.S. House,4,REP,Write-In,3
+Allegan,"Leighton Township, Precinct 3-WAY",State Senate,18,DEM,Kai W. Degraaf,95
+Allegan,"Leighton Township, Precinct 3-WAY",State Senate,18,REP,Ryan P. Mancinelli,131
+Allegan,"Leighton Township, Precinct 3-WAY",State Senate,18,REP,Thomas A. Albert,319
+Allegan,"Leighton Township, Precinct 3-WAY",State Senate,18,REP,Write-In,3
+Allegan,"Leighton Township, Precinct 3-WAY",State House,79,DEM,Kimberly Y. Kennedy-Barrington,95
+Allegan,"Leighton Township, Precinct 3-WAY",State House,79,REP,Angela Rigas,288
+Allegan,"Leighton Township, Precinct 3-WAY",State House,79,REP,Jeremiah Keeler,127
+Allegan,"Leighton Township, Precinct 3-WAY",State House,79,REP,Ryan Gallogly,62
+Allegan,"Manlius Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,159
+Allegan,"Manlius Township, Precinct 1",Governor,,REP,Garrett Soldano,223
+Allegan,"Manlius Township, Precinct 1",Governor,,REP,Kevin Rinke,77
+Allegan,"Manlius Township, Precinct 1",Governor,,REP,Ralph Rebandt,23
+Allegan,"Manlius Township, Precinct 1",Governor,,REP,Ryan D. Kelley,77
+Allegan,"Manlius Township, Precinct 1",Governor,,REP,Tudor M. Dixon,221
+Allegan,"Manlius Township, Precinct 1",Governor,,REP,Write-In,3
+Allegan,"Manlius Township, Precinct 1",U.S. House,4,DEM,Write-In,66
+Allegan,"Manlius Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,555
+Allegan,"Manlius Township, Precinct 1",U.S. House,4,REP,Write-In,13
+Allegan,"Manlius Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,151
+Allegan,"Manlius Township, Precinct 1",State Senate,20,DEM,Write-In,1
+Allegan,"Manlius Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,381
+Allegan,"Manlius Township, Precinct 1",State Senate,20,REP,Austin Kreutz,140
+Allegan,"Manlius Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,63
+Allegan,"Manlius Township, Precinct 1",State Senate,20,REP,Write-In,1
+Allegan,"Manlius Township, Precinct 1",State House,43,DEM,Mark Ludwig,152
+Allegan,"Manlius Township, Precinct 1",State House,43,DEM,Write-In,1
+Allegan,"Manlius Township, Precinct 1",State House,43,REP,Lindsay Kronemeyer,247
+Allegan,"Manlius Township, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,15
+Allegan,"Manlius Township, Precinct 1",State House,43,REP,Phillip Joseph,35
+Allegan,"Manlius Township, Precinct 1",State House,43,REP,Rachelle M. Smit,304
+Allegan,"Martin Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,123
+Allegan,"Martin Township, Precinct 1",Governor,,DEM,Write-In,1
+Allegan,"Martin Township, Precinct 1",Governor,,REP,Garrett Soldano,226
+Allegan,"Martin Township, Precinct 1",Governor,,REP,Kevin Rinke,70
+Allegan,"Martin Township, Precinct 1",Governor,,REP,Ralph Rebandt,28
+Allegan,"Martin Township, Precinct 1",Governor,,REP,Ryan D. Kelley,82
+Allegan,"Martin Township, Precinct 1",Governor,,REP,Tudor M. Dixon,147
+Allegan,"Martin Township, Precinct 1",Governor,,REP,Write-In,2
+Allegan,"Martin Township, Precinct 1",U.S. House,4,DEM,Write-In,42
+Allegan,"Martin Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,507
+Allegan,"Martin Township, Precinct 1",U.S. House,4,REP,Write-In,4
+Allegan,"Martin Township, Precinct 1",State Senate,18,DEM,Kai W. Degraaf,118
+Allegan,"Martin Township, Precinct 1",State Senate,18,REP,Ryan P. Mancinelli,197
+Allegan,"Martin Township, Precinct 1",State Senate,18,REP,Thomas A. Albert,297
+Allegan,"Martin Township, Precinct 1",State Senate,18,REP,Write-In,3
+Allegan,"Martin Township, Precinct 1",State House,43,DEM,Mark Ludwig,120
+Allegan,"Martin Township, Precinct 1",State House,43,REP,Lindsay Kronemeyer,74
+Allegan,"Martin Township, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,11
+Allegan,"Martin Township, Precinct 1",State House,43,REP,Phillip Joseph,46
+Allegan,"Martin Township, Precinct 1",State House,43,REP,Rachelle M. Smit,423
+Allegan,"Monterey Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,98
+Allegan,"Monterey Township, Precinct 1",Governor,,REP,Garrett Soldano,165
+Allegan,"Monterey Township, Precinct 1",Governor,,REP,Kevin Rinke,65
+Allegan,"Monterey Township, Precinct 1",Governor,,REP,Ralph Rebandt,21
+Allegan,"Monterey Township, Precinct 1",Governor,,REP,Ryan D. Kelley,88
+Allegan,"Monterey Township, Precinct 1",Governor,,REP,Tudor M. Dixon,140
+Allegan,"Monterey Township, Precinct 1",Governor,,REP,Write-In,1
+Allegan,"Monterey Township, Precinct 1",U.S. House,4,DEM,Write-In,27
+Allegan,"Monterey Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,442
+Allegan,"Monterey Township, Precinct 1",U.S. House,4,REP,Write-In,7
+Allegan,"Monterey Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,90
+Allegan,"Monterey Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,279
+Allegan,"Monterey Township, Precinct 1",State Senate,20,REP,Austin Kreutz,133
+Allegan,"Monterey Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,40
+Allegan,"Monterey Township, Precinct 1",State House,43,DEM,Mark Ludwig,90
+Allegan,"Monterey Township, Precinct 1",State House,43,REP,Lindsay Kronemeyer,119
+Allegan,"Monterey Township, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,23
+Allegan,"Monterey Township, Precinct 1",State House,43,REP,Phillip Joseph,58
+Allegan,"Monterey Township, Precinct 1",State House,43,REP,Rachelle M. Smit,276
+Allegan,"Otsego Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,227
+Allegan,"Otsego Township, Precinct 1",Governor,,REP,Garrett Soldano,113
+Allegan,"Otsego Township, Precinct 1",Governor,,REP,Kevin Rinke,66
+Allegan,"Otsego Township, Precinct 1",Governor,,REP,Ralph Rebandt,12
+Allegan,"Otsego Township, Precinct 1",Governor,,REP,Ryan D. Kelley,67
+Allegan,"Otsego Township, Precinct 1",Governor,,REP,Tudor M. Dixon,155
+Allegan,"Otsego Township, Precinct 1",Governor,,REP,Write-In,5
+Allegan,"Otsego Township, Precinct 1",U.S. House,4,DEM,Write-In,56
+Allegan,"Otsego Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,383
+Allegan,"Otsego Township, Precinct 1",U.S. House,4,REP,Write-In,3
+Allegan,"Otsego Township, Precinct 1",State Senate,18,DEM,Kai W. Degraaf,207
+Allegan,"Otsego Township, Precinct 1",State Senate,18,DEM,Write-In,2
+Allegan,"Otsego Township, Precinct 1",State Senate,18,REP,Ryan P. Mancinelli,107
+Allegan,"Otsego Township, Precinct 1",State Senate,18,REP,Thomas A. Albert,277
+Allegan,"Otsego Township, Precinct 1",State Senate,18,REP,Write-In,1
+Allegan,"Otsego Township, Precinct 1",State House,39,DEM,Jared Polonowski,209
+Allegan,"Otsego Township, Precinct 1",State House,39,DEM,Write-In,2
+Allegan,"Otsego Township, Precinct 1",State House,39,REP,Matt Nilson,140
+Allegan,"Otsego Township, Precinct 1",State House,39,REP,Pauline Wendzel,258
+Allegan,"Otsego Township, Precinct 1",State House,39,REP,Write-In,1
+Allegan,"Otsego Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,202
+Allegan,"Otsego Township, Precinct 2",Governor,,DEM,Write-In,1
+Allegan,"Otsego Township, Precinct 2",Governor,,REP,Garrett Soldano,75
+Allegan,"Otsego Township, Precinct 2",Governor,,REP,Kevin Rinke,59
+Allegan,"Otsego Township, Precinct 2",Governor,,REP,Ralph Rebandt,16
+Allegan,"Otsego Township, Precinct 2",Governor,,REP,Ryan D. Kelley,59
+Allegan,"Otsego Township, Precinct 2",Governor,,REP,Tudor M. Dixon,105
+Allegan,"Otsego Township, Precinct 2",U.S. House,4,DEM,Write-In,68
+Allegan,"Otsego Township, Precinct 2",U.S. House,4,REP,Bill Huizenga,286
+Allegan,"Otsego Township, Precinct 2",U.S. House,4,REP,Write-In,4
+Allegan,"Otsego Township, Precinct 2",State Senate,18,DEM,Kai W. Degraaf,192
+Allegan,"Otsego Township, Precinct 2",State Senate,18,REP,Ryan P. Mancinelli,115
+Allegan,"Otsego Township, Precinct 2",State Senate,18,REP,Thomas A. Albert,173
+Allegan,"Otsego Township, Precinct 2",State House,42,DEM,Justin Mendoza,193
+Allegan,"Otsego Township, Precinct 2",State House,42,REP,Gary Mitchell,91
+Allegan,"Otsego Township, Precinct 2",State House,42,REP,Matt Hall,208
+Allegan,"Overisel Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,63
+Allegan,"Overisel Township, Precinct 1",Governor,,REP,Garrett Soldano,342
+Allegan,"Overisel Township, Precinct 1",Governor,,REP,Kevin Rinke,92
+Allegan,"Overisel Township, Precinct 1",Governor,,REP,Ralph Rebandt,32
+Allegan,"Overisel Township, Precinct 1",Governor,,REP,Ryan D. Kelley,118
+Allegan,"Overisel Township, Precinct 1",Governor,,REP,Tudor M. Dixon,304
+Allegan,"Overisel Township, Precinct 1",Governor,,REP,Write-In,2
+Allegan,"Overisel Township, Precinct 1",U.S. House,4,DEM,Write-In,17
+Allegan,"Overisel Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,820
+Allegan,"Overisel Township, Precinct 1",U.S. House,4,REP,Write-In,6
+Allegan,"Overisel Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,60
+Allegan,"Overisel Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,619
+Allegan,"Overisel Township, Precinct 1",State Senate,20,REP,Austin Kreutz,178
+Allegan,"Overisel Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,53
+Allegan,"Overisel Township, Precinct 1",State Senate,20,REP,Write-In,3
+Allegan,"Overisel Township, Precinct 1",State House,43,DEM,Mark Ludwig,59
+Allegan,"Overisel Township, Precinct 1",State House,43,REP,Lindsay Kronemeyer,406
+Allegan,"Overisel Township, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,9
+Allegan,"Overisel Township, Precinct 1",State House,43,REP,Phillip Joseph,47
+Allegan,"Overisel Township, Precinct 1",State House,43,REP,Rachelle M. Smit,407
+Allegan,"Salem Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,54
+Allegan,"Salem Township, Precinct 1",Governor,,REP,Garrett Soldano,219
+Allegan,"Salem Township, Precinct 1",Governor,,REP,Kevin Rinke,75
+Allegan,"Salem Township, Precinct 1",Governor,,REP,Ralph Rebandt,21
+Allegan,"Salem Township, Precinct 1",Governor,,REP,Ryan D. Kelley,98
+Allegan,"Salem Township, Precinct 1",Governor,,REP,Tudor M. Dixon,192
+Allegan,"Salem Township, Precinct 1",Governor,,REP,Write-In,1
+Allegan,"Salem Township, Precinct 1",U.S. House,4,DEM,Write-In,13
+Allegan,"Salem Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,560
+Allegan,"Salem Township, Precinct 1",U.S. House,4,REP,Write-In,8
+Allegan,"Salem Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,53
+Allegan,"Salem Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,369
+Allegan,"Salem Township, Precinct 1",State Senate,20,REP,Austin Kreutz,136
+Allegan,"Salem Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,80
+Allegan,"Salem Township, Precinct 1",State Senate,20,REP,Write-In,5
+Allegan,"Salem Township, Precinct 1",State House,43,DEM,Mark Ludwig,53
+Allegan,"Salem Township, Precinct 1",State House,43,REP,Lindsay Kronemeyer,238
+Allegan,"Salem Township, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,13
+Allegan,"Salem Township, Precinct 1",State House,43,REP,Phillip Joseph,80
+Allegan,"Salem Township, Precinct 1",State House,43,REP,Rachelle M. Smit,272
+Allegan,"Salem Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,83
+Allegan,"Salem Township, Precinct 2",Governor,,REP,Garrett Soldano,180
+Allegan,"Salem Township, Precinct 2",Governor,,REP,Kevin Rinke,82
+Allegan,"Salem Township, Precinct 2",Governor,,REP,Ralph Rebandt,27
+Allegan,"Salem Township, Precinct 2",Governor,,REP,Ryan D. Kelley,98
+Allegan,"Salem Township, Precinct 2",Governor,,REP,Tudor M. Dixon,171
+Allegan,"Salem Township, Precinct 2",Governor,,REP,Write-In,1
+Allegan,"Salem Township, Precinct 2",U.S. House,4,DEM,Write-In,28
+Allegan,"Salem Township, Precinct 2",U.S. House,4,REP,Bill Huizenga,504
+Allegan,"Salem Township, Precinct 2",U.S. House,4,REP,Write-In,6
+Allegan,"Salem Township, Precinct 2",State Senate,20,DEM,Kim Jorgensen Gane,76
+Allegan,"Salem Township, Precinct 2",State Senate,20,REP,Aric Nesbitt,345
+Allegan,"Salem Township, Precinct 2",State Senate,20,REP,Austin Kreutz,113
+Allegan,"Salem Township, Precinct 2",State Senate,20,REP,Kaleb M. Hudson,68
+Allegan,"Salem Township, Precinct 2",State Senate,20,REP,Write-In,2
+Allegan,"Salem Township, Precinct 2",State House,43,DEM,Mark Ludwig,76
+Allegan,"Salem Township, Precinct 2",State House,43,REP,Lindsay Kronemeyer,216
+Allegan,"Salem Township, Precinct 2",State House,43,REP,Nevin P. Cooper-Keel,20
+Allegan,"Salem Township, Precinct 2",State House,43,REP,Phillip Joseph,78
+Allegan,"Salem Township, Precinct 2",State House,43,REP,Rachelle M. Smit,237
+Allegan,"Salem Township, Precinct 2",State House,43,REP,Write-In,1
+Allegan,"Saugatuck Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,657
+Allegan,"Saugatuck Township, Precinct 1",Governor,,DEM,Write-In,1
+Allegan,"Saugatuck Township, Precinct 1",Governor,,REP,Garrett Soldano,87
+Allegan,"Saugatuck Township, Precinct 1",Governor,,REP,Kevin Rinke,120
+Allegan,"Saugatuck Township, Precinct 1",Governor,,REP,Ralph Rebandt,19
+Allegan,"Saugatuck Township, Precinct 1",Governor,,REP,Ryan D. Kelley,58
+Allegan,"Saugatuck Township, Precinct 1",Governor,,REP,Tudor M. Dixon,187
+Allegan,"Saugatuck Township, Precinct 1",Governor,,REP,Write-In,3
+Allegan,"Saugatuck Township, Precinct 1",U.S. House,4,DEM,Write-In,183
+Allegan,"Saugatuck Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,424
+Allegan,"Saugatuck Township, Precinct 1",U.S. House,4,REP,Write-In,12
+Allegan,"Saugatuck Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,612
+Allegan,"Saugatuck Township, Precinct 1",State Senate,20,DEM,Write-In,1
+Allegan,"Saugatuck Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,290
+Allegan,"Saugatuck Township, Precinct 1",State Senate,20,REP,Austin Kreutz,102
+Allegan,"Saugatuck Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,48
+Allegan,"Saugatuck Township, Precinct 1",State Senate,20,REP,Write-In,1
+Allegan,"Saugatuck Township, Precinct 1",State House,38,DEM,Annie Brown,327
+Allegan,"Saugatuck Township, Precinct 1",State House,38,DEM,Joey Andrews,312
+Allegan,"Saugatuck Township, Precinct 1",State House,38,DEM,Write-In,1
+Allegan,"Saugatuck Township, Precinct 1",State House,38,REP,George Steven Lucas,62
+Allegan,"Saugatuck Township, Precinct 1",State House,38,REP,Kevin Whiteford,314
+Allegan,"Saugatuck Township, Precinct 1",State House,38,REP,Troy Rolling,62
+Allegan,"Saugatuck Township, Precinct 1",State House,38,REP,Write-In,2
+Allegan,"Trowbridge Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,121
+Allegan,"Trowbridge Township, Precinct 1",Governor,,DEM,Write-In,1
+Allegan,"Trowbridge Township, Precinct 1",Governor,,REP,Garrett Soldano,95
+Allegan,"Trowbridge Township, Precinct 1",Governor,,REP,Kevin Rinke,73
+Allegan,"Trowbridge Township, Precinct 1",Governor,,REP,Ralph Rebandt,27
+Allegan,"Trowbridge Township, Precinct 1",Governor,,REP,Ryan D. Kelley,55
+Allegan,"Trowbridge Township, Precinct 1",Governor,,REP,Tudor M. Dixon,128
+Allegan,"Trowbridge Township, Precinct 1",Governor,,REP,Write-In,2
+Allegan,"Trowbridge Township, Precinct 1",U.S. House,4,DEM,Write-In,43
+Allegan,"Trowbridge Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,328
+Allegan,"Trowbridge Township, Precinct 1",U.S. House,4,REP,Write-In,5
+Allegan,"Trowbridge Township, Precinct 1",State Senate,18,DEM,Kai W. Degraaf,114
+Allegan,"Trowbridge Township, Precinct 1",State Senate,18,REP,Ryan P. Mancinelli,107
+Allegan,"Trowbridge Township, Precinct 1",State Senate,18,REP,Thomas A. Albert,222
+Allegan,"Trowbridge Township, Precinct 1",State Senate,18,REP,Write-In,5
+Allegan,"Trowbridge Township, Precinct 1",State House,39,DEM,Jared Polonowski,112
+Allegan,"Trowbridge Township, Precinct 1",State House,39,DEM,Write-In,1
+Allegan,"Trowbridge Township, Precinct 1",State House,39,REP,Matt Nilson,140
+Allegan,"Trowbridge Township, Precinct 1",State House,39,REP,Pauline Wendzel,208
+Allegan,"Trowbridge Township, Precinct 1",State House,39,REP,Write-In,5
+Allegan,"Valley Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,113
+Allegan,"Valley Township, Precinct 1",Governor,,REP,Garrett Soldano,96
+Allegan,"Valley Township, Precinct 1",Governor,,REP,Kevin Rinke,73
+Allegan,"Valley Township, Precinct 1",Governor,,REP,Ralph Rebandt,22
+Allegan,"Valley Township, Precinct 1",Governor,,REP,Ryan D. Kelley,85
+Allegan,"Valley Township, Precinct 1",Governor,,REP,Tudor M. Dixon,121
+Allegan,"Valley Township, Precinct 1",Governor,,REP,Write-In,5
+Allegan,"Valley Township, Precinct 1",U.S. House,4,DEM,Write-In,33
+Allegan,"Valley Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,349
+Allegan,"Valley Township, Precinct 1",U.S. House,4,REP,Write-In,9
+Allegan,"Valley Township, Precinct 1",State Senate,20,DEM,Kim Jorgensen Gane,110
+Allegan,"Valley Township, Precinct 1",State Senate,20,REP,Aric Nesbitt,224
+Allegan,"Valley Township, Precinct 1",State Senate,20,REP,Austin Kreutz,115
+Allegan,"Valley Township, Precinct 1",State Senate,20,REP,Kaleb M. Hudson,51
+Allegan,"Valley Township, Precinct 1",State Senate,20,REP,Write-In,2
+Allegan,"Valley Township, Precinct 1",State House,43,DEM,Mark Ludwig,111
+Allegan,"Valley Township, Precinct 1",State House,43,DEM,Write-In,1
+Allegan,"Valley Township, Precinct 1",State House,43,REP,Lindsay Kronemeyer,152
+Allegan,"Valley Township, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,18
+Allegan,"Valley Township, Precinct 1",State House,43,REP,Phillip Joseph,64
+Allegan,"Valley Township, Precinct 1",State House,43,REP,Rachelle M. Smit,152
+Allegan,"Valley Township, Precinct 1",State House,43,REP,Write-In,3
+Allegan,"Watson Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,127
+Allegan,"Watson Township, Precinct 1",Governor,,REP,Garrett Soldano,119
+Allegan,"Watson Township, Precinct 1",Governor,,REP,Kevin Rinke,57
+Allegan,"Watson Township, Precinct 1",Governor,,REP,Ralph Rebandt,20
+Allegan,"Watson Township, Precinct 1",Governor,,REP,Ryan D. Kelley,68
+Allegan,"Watson Township, Precinct 1",Governor,,REP,Tudor M. Dixon,129
+Allegan,"Watson Township, Precinct 1",Governor,,REP,Write-In,3
+Allegan,"Watson Township, Precinct 1",U.S. House,4,DEM,Write-In,46
+Allegan,"Watson Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,333
+Allegan,"Watson Township, Precinct 1",U.S. House,4,REP,Write-In,3
+Allegan,"Watson Township, Precinct 1",State Senate,18,DEM,Kai W. Degraaf,119
+Allegan,"Watson Township, Precinct 1",State Senate,18,REP,Ryan P. Mancinelli,120
+Allegan,"Watson Township, Precinct 1",State Senate,18,REP,Thomas A. Albert,226
+Allegan,"Watson Township, Precinct 1",State Senate,18,REP,Write-In,5
+Allegan,"Watson Township, Precinct 1",State House,43,DEM,Mark Ludwig,116
+Allegan,"Watson Township, Precinct 1",State House,43,REP,Lindsay Kronemeyer,78
+Allegan,"Watson Township, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,18
+Allegan,"Watson Township, Precinct 1",State House,43,REP,Phillip Joseph,46
+Allegan,"Watson Township, Precinct 1",State House,43,REP,Rachelle M. Smit,240
+Allegan,"Watson Township, Precinct 1",State House,43,REP,Write-In,1
+Allegan,"Wayland Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,233
+Allegan,"Wayland Township, Precinct 1",Governor,,DEM,Write-In,1
+Allegan,"Wayland Township, Precinct 1",Governor,,REP,Garrett Soldano,181
+Allegan,"Wayland Township, Precinct 1",Governor,,REP,Kevin Rinke,144
+Allegan,"Wayland Township, Precinct 1",Governor,,REP,Ralph Rebandt,22
+Allegan,"Wayland Township, Precinct 1",Governor,,REP,Ryan D. Kelley,139
+Allegan,"Wayland Township, Precinct 1",Governor,,REP,Tudor M. Dixon,244
+Allegan,"Wayland Township, Precinct 1",Governor,,REP,Write-In,2
+Allegan,"Wayland Township, Precinct 1",U.S. House,4,DEM,Write-In,77
+Allegan,"Wayland Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,661
+Allegan,"Wayland Township, Precinct 1",U.S. House,4,REP,Write-In,9
+Allegan,"Wayland Township, Precinct 1",State Senate,18,DEM,Kai W. Degraaf,219
+Allegan,"Wayland Township, Precinct 1",State Senate,18,REP,Ryan P. Mancinelli,197
+Allegan,"Wayland Township, Precinct 1",State Senate,18,REP,Thomas A. Albert,440
+Allegan,"Wayland Township, Precinct 1",State Senate,18,REP,Write-In,7
+Allegan,"Wayland Township, Precinct 1",State House,43,DEM,Mark Ludwig,220
+Allegan,"Wayland Township, Precinct 1",State House,43,REP,Lindsay Kronemeyer,169
+Allegan,"Wayland Township, Precinct 1",State House,43,REP,Nevin P. Cooper-Keel,26
+Allegan,"Wayland Township, Precinct 1",State House,43,REP,Phillip Joseph,118
+Allegan,"Wayland Township, Precinct 1",State House,43,REP,Rachelle M. Smit,386
+Allegan,"Wayland Township, Precinct 1",State House,43,REP,Write-In,3

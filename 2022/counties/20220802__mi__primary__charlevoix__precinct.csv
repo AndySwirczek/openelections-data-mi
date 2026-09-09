@@ -1,0 +1,421 @@
+county,precinct,office,district,party,candidate,votes
+Charlevoix,"Bay Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,161
+Charlevoix,"Bay Township, Precinct 1",Governor,,REP,Garrett Soldano,39
+Charlevoix,"Bay Township, Precinct 1",Governor,,REP,Kevin Rinke,86
+Charlevoix,"Bay Township, Precinct 1",Governor,,REP,Ralph Rebandt,10
+Charlevoix,"Bay Township, Precinct 1",Governor,,REP,Ryan D. Kelley,24
+Charlevoix,"Bay Township, Precinct 1",Governor,,REP,Tudor M. Dixon,101
+Charlevoix,"Bay Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,156
+Charlevoix,"Bay Township, Precinct 1",U.S. House,1,REP,Jack Bergman,251
+Charlevoix,"Bay Township, Precinct 1",State Senate,37,DEM,Barbara Conley,128
+Charlevoix,"Bay Township, Precinct 1",State Senate,37,DEM,Jim Schmidt,14
+Charlevoix,"Bay Township, Precinct 1",State Senate,37,DEM,Randy Bishop,8
+Charlevoix,"Bay Township, Precinct 1",State Senate,37,REP,George Ranville,40
+Charlevoix,"Bay Township, Precinct 1",State Senate,37,REP,John N. Damoose,93
+Charlevoix,"Bay Township, Precinct 1",State Senate,37,REP,Triston Cole,97
+Charlevoix,"Bay Township, Precinct 1",State Senate,37,REP,William Hindle,31
+Charlevoix,"Bay Township, Precinct 1",State House,107,DEM,Jodi Decker,155
+Charlevoix,"Bay Township, Precinct 1",State House,107,REP,Bob Carr,17
+Charlevoix,"Bay Township, Precinct 1",State House,107,REP,David James Laughbaum,1
+Charlevoix,"Bay Township, Precinct 1",State House,107,REP,Jonathan D. Scheel,45
+Charlevoix,"Bay Township, Precinct 1",State House,107,REP,Neil W. Friske,133
+Charlevoix,"Bay Township, Precinct 1",State House,107,REP,Parker Fairbairn,64
+Charlevoix,"Boyne Valley Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,87
+Charlevoix,"Boyne Valley Township, Precinct 2",Governor,,REP,Garrett Soldano,35
+Charlevoix,"Boyne Valley Township, Precinct 2",Governor,,REP,Kevin Rinke,82
+Charlevoix,"Boyne Valley Township, Precinct 2",Governor,,REP,Ralph Rebandt,7
+Charlevoix,"Boyne Valley Township, Precinct 2",Governor,,REP,Ryan D. Kelley,41
+Charlevoix,"Boyne Valley Township, Precinct 2",Governor,,REP,Tudor M. Dixon,69
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,82
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. House,1,REP,Jack Bergman,205
+Charlevoix,"Boyne Valley Township, Precinct 2",State Senate,37,DEM,Barbara Conley,67
+Charlevoix,"Boyne Valley Township, Precinct 2",State Senate,37,DEM,Jim Schmidt,3
+Charlevoix,"Boyne Valley Township, Precinct 2",State Senate,37,DEM,Randy Bishop,10
+Charlevoix,"Boyne Valley Township, Precinct 2",State Senate,37,REP,George Ranville,32
+Charlevoix,"Boyne Valley Township, Precinct 2",State Senate,37,REP,John N. Damoose,68
+Charlevoix,"Boyne Valley Township, Precinct 2",State Senate,37,REP,Triston Cole,102
+Charlevoix,"Boyne Valley Township, Precinct 2",State Senate,37,REP,William Hindle,35
+Charlevoix,"Boyne Valley Township, Precinct 2",State House,107,DEM,Jodi Decker,80
+Charlevoix,"Boyne Valley Township, Precinct 2",State House,107,REP,Bob Carr,28
+Charlevoix,"Boyne Valley Township, Precinct 2",State House,107,REP,David James Laughbaum,6
+Charlevoix,"Boyne Valley Township, Precinct 2",State House,107,REP,Jonathan D. Scheel,14
+Charlevoix,"Boyne Valley Township, Precinct 2",State House,107,REP,Neil W. Friske,127
+Charlevoix,"Boyne Valley Township, Precinct 2",State House,107,REP,Parker Fairbairn,56
+Charlevoix,"Chandler Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,18
+Charlevoix,"Chandler Township, Precinct 3",Governor,,REP,Garrett Soldano,13
+Charlevoix,"Chandler Township, Precinct 3",Governor,,REP,Kevin Rinke,23
+Charlevoix,"Chandler Township, Precinct 3",Governor,,REP,Ralph Rebandt,2
+Charlevoix,"Chandler Township, Precinct 3",Governor,,REP,Ryan D. Kelley,10
+Charlevoix,"Chandler Township, Precinct 3",Governor,,REP,Tudor M. Dixon,19
+Charlevoix,"Chandler Township, Precinct 3",U.S. House,1,DEM,Bob Lorinser,18
+Charlevoix,"Chandler Township, Precinct 3",U.S. House,1,REP,Jack Bergman,62
+Charlevoix,"Chandler Township, Precinct 3",State Senate,37,DEM,Barbara Conley,16
+Charlevoix,"Chandler Township, Precinct 3",State Senate,37,DEM,Jim Schmidt,1
+Charlevoix,"Chandler Township, Precinct 3",State Senate,37,DEM,Randy Bishop,1
+Charlevoix,"Chandler Township, Precinct 3",State Senate,37,REP,George Ranville,13
+Charlevoix,"Chandler Township, Precinct 3",State Senate,37,REP,John N. Damoose,18
+Charlevoix,"Chandler Township, Precinct 3",State Senate,37,REP,Triston Cole,28
+Charlevoix,"Chandler Township, Precinct 3",State Senate,37,REP,William Hindle,6
+Charlevoix,"Chandler Township, Precinct 3",State House,107,DEM,Jodi Decker,18
+Charlevoix,"Chandler Township, Precinct 3",State House,107,REP,Bob Carr,2
+Charlevoix,"Chandler Township, Precinct 3",State House,107,REP,David James Laughbaum,0
+Charlevoix,"Chandler Township, Precinct 3",State House,107,REP,Jonathan D. Scheel,17
+Charlevoix,"Chandler Township, Precinct 3",State House,107,REP,Neil W. Friske,33
+Charlevoix,"Chandler Township, Precinct 3",State House,107,REP,Parker Fairbairn,16
+Charlevoix,"Charlevoix Township, Precinct 4",Governor,,DEM,Gretchen Whitmer,208
+Charlevoix,"Charlevoix Township, Precinct 4",Governor,,REP,Garrett Soldano,55
+Charlevoix,"Charlevoix Township, Precinct 4",Governor,,REP,Kevin Rinke,113
+Charlevoix,"Charlevoix Township, Precinct 4",Governor,,REP,Ralph Rebandt,13
+Charlevoix,"Charlevoix Township, Precinct 4",Governor,,REP,Ryan D. Kelley,28
+Charlevoix,"Charlevoix Township, Precinct 4",Governor,,REP,Tudor M. Dixon,137
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. House,1,DEM,Bob Lorinser,200
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. House,1,REP,Jack Bergman,310
+Charlevoix,"Charlevoix Township, Precinct 4",State Senate,37,DEM,Barbara Conley,159
+Charlevoix,"Charlevoix Township, Precinct 4",State Senate,37,DEM,Jim Schmidt,20
+Charlevoix,"Charlevoix Township, Precinct 4",State Senate,37,DEM,Randy Bishop,14
+Charlevoix,"Charlevoix Township, Precinct 4",State Senate,37,REP,George Ranville,48
+Charlevoix,"Charlevoix Township, Precinct 4",State Senate,37,REP,John N. Damoose,100
+Charlevoix,"Charlevoix Township, Precinct 4",State Senate,37,REP,Triston Cole,133
+Charlevoix,"Charlevoix Township, Precinct 4",State Senate,37,REP,William Hindle,72
+Charlevoix,"Charlevoix Township, Precinct 4",State House,107,DEM,Jodi Decker,197
+Charlevoix,"Charlevoix Township, Precinct 4",State House,107,REP,Bob Carr,22
+Charlevoix,"Charlevoix Township, Precinct 4",State House,107,REP,David James Laughbaum,12
+Charlevoix,"Charlevoix Township, Precinct 4",State House,107,REP,Jonathan D. Scheel,61
+Charlevoix,"Charlevoix Township, Precinct 4",State House,107,REP,Neil W. Friske,150
+Charlevoix,"Charlevoix Township, Precinct 4",State House,107,REP,Parker Fairbairn,113
+Charlevoix,"City of Boyne City, Precinct 16",Governor,,DEM,Gretchen Whitmer,393
+Charlevoix,"City of Boyne City, Precinct 16",Governor,,REP,Garrett Soldano,124
+Charlevoix,"City of Boyne City, Precinct 16",Governor,,REP,Kevin Rinke,214
+Charlevoix,"City of Boyne City, Precinct 16",Governor,,REP,Ralph Rebandt,23
+Charlevoix,"City of Boyne City, Precinct 16",Governor,,REP,Ryan D. Kelley,64
+Charlevoix,"City of Boyne City, Precinct 16",Governor,,REP,Tudor M. Dixon,192
+Charlevoix,"City of Boyne City, Precinct 16",U.S. House,1,DEM,Bob Lorinser,373
+Charlevoix,"City of Boyne City, Precinct 16",U.S. House,1,REP,Jack Bergman,553
+Charlevoix,"City of Boyne City, Precinct 16",State Senate,37,DEM,Barbara Conley,323
+Charlevoix,"City of Boyne City, Precinct 16",State Senate,37,DEM,Jim Schmidt,21
+Charlevoix,"City of Boyne City, Precinct 16",State Senate,37,DEM,Randy Bishop,30
+Charlevoix,"City of Boyne City, Precinct 16",State Senate,37,REP,George Ranville,96
+Charlevoix,"City of Boyne City, Precinct 16",State Senate,37,REP,John N. Damoose,218
+Charlevoix,"City of Boyne City, Precinct 16",State Senate,37,REP,Triston Cole,214
+Charlevoix,"City of Boyne City, Precinct 16",State Senate,37,REP,William Hindle,84
+Charlevoix,"City of Boyne City, Precinct 16",State House,107,DEM,Jodi Decker,369
+Charlevoix,"City of Boyne City, Precinct 16",State House,107,REP,Bob Carr,43
+Charlevoix,"City of Boyne City, Precinct 16",State House,107,REP,David James Laughbaum,9
+Charlevoix,"City of Boyne City, Precinct 16",State House,107,REP,Jonathan D. Scheel,50
+Charlevoix,"City of Boyne City, Precinct 16",State House,107,REP,Neil W. Friske,347
+Charlevoix,"City of Boyne City, Precinct 16",State House,107,REP,Parker Fairbairn,169
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Governor,,DEM,Gretchen Whitmer,118
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Governor,,REP,Garrett Soldano,22
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Governor,,REP,Kevin Rinke,51
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Governor,,REP,Ralph Rebandt,9
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Governor,,REP,Ryan D. Kelley,26
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Governor,,REP,Tudor M. Dixon,68
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. House,1,DEM,Bob Lorinser,115
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. House,1,REP,Jack Bergman,146
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State Senate,37,DEM,Barbara Conley,111
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State Senate,37,DEM,Jim Schmidt,5
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State Senate,37,DEM,Randy Bishop,2
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State Senate,37,REP,George Ranville,30
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State Senate,37,REP,John N. Damoose,57
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State Senate,37,REP,Triston Cole,84
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State Senate,37,REP,William Hindle,19
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State House,107,DEM,Jodi Decker,111
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State House,107,REP,Bob Carr,17
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State House,107,REP,David James Laughbaum,4
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State House,107,REP,Jonathan D. Scheel,56
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State House,107,REP,Neil W. Friske,72
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State House,107,REP,Parker Fairbairn,48
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Governor,,DEM,Gretchen Whitmer,94
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Governor,,REP,Garrett Soldano,28
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Governor,,REP,Kevin Rinke,44
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Governor,,REP,Ralph Rebandt,6
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Governor,,REP,Ryan D. Kelley,7
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Governor,,REP,Tudor M. Dixon,38
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. House,1,DEM,Bob Lorinser,93
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. House,1,REP,Jack Bergman,119
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State Senate,37,DEM,Barbara Conley,75
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State Senate,37,DEM,Jim Schmidt,10
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State Senate,37,DEM,Randy Bishop,6
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State Senate,37,REP,George Ranville,12
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State Senate,37,REP,John N. Damoose,39
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State Senate,37,REP,Triston Cole,54
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State Senate,37,REP,William Hindle,19
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State House,107,DEM,Jodi Decker,94
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State House,107,REP,Bob Carr,4
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State House,107,REP,David James Laughbaum,2
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State House,107,REP,Jonathan D. Scheel,34
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State House,107,REP,Neil W. Friske,50
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State House,107,REP,Parker Fairbairn,43
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Governor,,DEM,Gretchen Whitmer,75
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Governor,,REP,Garrett Soldano,30
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Governor,,REP,Kevin Rinke,54
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Governor,,REP,Ralph Rebandt,6
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Governor,,REP,Ryan D. Kelley,18
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Governor,,REP,Tudor M. Dixon,62
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. House,1,DEM,Bob Lorinser,71
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. House,1,REP,Jack Bergman,157
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State Senate,37,DEM,Barbara Conley,54
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State Senate,37,DEM,Jim Schmidt,10
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State Senate,37,DEM,Randy Bishop,8
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State Senate,37,REP,George Ranville,17
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State Senate,37,REP,John N. Damoose,45
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State Senate,37,REP,Triston Cole,83
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State Senate,37,REP,William Hindle,33
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State House,107,DEM,Jodi Decker,69
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State House,107,REP,Bob Carr,12
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State House,107,REP,David James Laughbaum,5
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State House,107,REP,Jonathan D. Scheel,56
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State House,107,REP,Neil W. Friske,77
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State House,107,REP,Parker Fairbairn,35
+Charlevoix,"City of East Jordan, Precinct 21",Governor,,DEM,Gretchen Whitmer,139
+Charlevoix,"City of East Jordan, Precinct 21",Governor,,REP,Garrett Soldano,77
+Charlevoix,"City of East Jordan, Precinct 21",Governor,,REP,Kevin Rinke,71
+Charlevoix,"City of East Jordan, Precinct 21",Governor,,REP,Ralph Rebandt,10
+Charlevoix,"City of East Jordan, Precinct 21",Governor,,REP,Ryan D. Kelley,39
+Charlevoix,"City of East Jordan, Precinct 21",Governor,,REP,Tudor M. Dixon,85
+Charlevoix,"City of East Jordan, Precinct 21",U.S. House,1,DEM,Bob Lorinser,131
+Charlevoix,"City of East Jordan, Precinct 21",U.S. House,1,REP,Jack Bergman,263
+Charlevoix,"City of East Jordan, Precinct 21",State Senate,37,DEM,Barbara Conley,116
+Charlevoix,"City of East Jordan, Precinct 21",State Senate,37,DEM,Jim Schmidt,13
+Charlevoix,"City of East Jordan, Precinct 21",State Senate,37,DEM,Randy Bishop,7
+Charlevoix,"City of East Jordan, Precinct 21",State Senate,37,REP,George Ranville,38
+Charlevoix,"City of East Jordan, Precinct 21",State Senate,37,REP,John N. Damoose,55
+Charlevoix,"City of East Jordan, Precinct 21",State Senate,37,REP,Triston Cole,132
+Charlevoix,"City of East Jordan, Precinct 21",State Senate,37,REP,William Hindle,58
+Charlevoix,"City of East Jordan, Precinct 21",State House,107,DEM,Jodi Decker,136
+Charlevoix,"City of East Jordan, Precinct 21",State House,107,REP,Bob Carr,14
+Charlevoix,"City of East Jordan, Precinct 21",State House,107,REP,David James Laughbaum,3
+Charlevoix,"City of East Jordan, Precinct 21",State House,107,REP,Jonathan D. Scheel,34
+Charlevoix,"City of East Jordan, Precinct 21",State House,107,REP,Neil W. Friske,146
+Charlevoix,"City of East Jordan, Precinct 21",State House,107,REP,Parker Fairbairn,89
+Charlevoix,"Evangeline Township, Precinct 5",Governor,,DEM,Gretchen Whitmer,86
+Charlevoix,"Evangeline Township, Precinct 5",Governor,,REP,Garrett Soldano,20
+Charlevoix,"Evangeline Township, Precinct 5",Governor,,REP,Kevin Rinke,58
+Charlevoix,"Evangeline Township, Precinct 5",Governor,,REP,Ralph Rebandt,5
+Charlevoix,"Evangeline Township, Precinct 5",Governor,,REP,Ryan D. Kelley,18
+Charlevoix,"Evangeline Township, Precinct 5",Governor,,REP,Tudor M. Dixon,70
+Charlevoix,"Evangeline Township, Precinct 5",U.S. House,1,DEM,Bob Lorinser,79
+Charlevoix,"Evangeline Township, Precinct 5",U.S. House,1,REP,Jack Bergman,161
+Charlevoix,"Evangeline Township, Precinct 5",State Senate,37,DEM,Barbara Conley,68
+Charlevoix,"Evangeline Township, Precinct 5",State Senate,37,DEM,Jim Schmidt,3
+Charlevoix,"Evangeline Township, Precinct 5",State Senate,37,DEM,Randy Bishop,4
+Charlevoix,"Evangeline Township, Precinct 5",State Senate,37,REP,George Ranville,24
+Charlevoix,"Evangeline Township, Precinct 5",State Senate,37,REP,John N. Damoose,63
+Charlevoix,"Evangeline Township, Precinct 5",State Senate,37,REP,Triston Cole,68
+Charlevoix,"Evangeline Township, Precinct 5",State Senate,37,REP,William Hindle,18
+Charlevoix,"Evangeline Township, Precinct 5",State House,107,DEM,Jodi Decker,78
+Charlevoix,"Evangeline Township, Precinct 5",State House,107,REP,Bob Carr,13
+Charlevoix,"Evangeline Township, Precinct 5",State House,107,REP,David James Laughbaum,4
+Charlevoix,"Evangeline Township, Precinct 5",State House,107,REP,Jonathan D. Scheel,12
+Charlevoix,"Evangeline Township, Precinct 5",State House,107,REP,Neil W. Friske,99
+Charlevoix,"Evangeline Township, Precinct 5",State House,107,REP,Parker Fairbairn,50
+Charlevoix,"Eveline Township, Precinct 6",Governor,,DEM,Gretchen Whitmer,184
+Charlevoix,"Eveline Township, Precinct 6",Governor,,REP,Garrett Soldano,48
+Charlevoix,"Eveline Township, Precinct 6",Governor,,REP,Kevin Rinke,119
+Charlevoix,"Eveline Township, Precinct 6",Governor,,REP,Ralph Rebandt,15
+Charlevoix,"Eveline Township, Precinct 6",Governor,,REP,Ryan D. Kelley,49
+Charlevoix,"Eveline Township, Precinct 6",Governor,,REP,Tudor M. Dixon,159
+Charlevoix,"Eveline Township, Precinct 6",U.S. House,1,DEM,Bob Lorinser,173
+Charlevoix,"Eveline Township, Precinct 6",U.S. House,1,REP,Jack Bergman,372
+Charlevoix,"Eveline Township, Precinct 6",State Senate,37,DEM,Barbara Conley,151
+Charlevoix,"Eveline Township, Precinct 6",State Senate,37,DEM,Jim Schmidt,17
+Charlevoix,"Eveline Township, Precinct 6",State Senate,37,DEM,Randy Bishop,6
+Charlevoix,"Eveline Township, Precinct 6",State Senate,37,REP,George Ranville,62
+Charlevoix,"Eveline Township, Precinct 6",State Senate,37,REP,John N. Damoose,120
+Charlevoix,"Eveline Township, Precinct 6",State Senate,37,REP,Triston Cole,139
+Charlevoix,"Eveline Township, Precinct 6",State Senate,37,REP,William Hindle,75
+Charlevoix,"Eveline Township, Precinct 6",State House,107,DEM,Jodi Decker,169
+Charlevoix,"Eveline Township, Precinct 6",State House,107,REP,Bob Carr,37
+Charlevoix,"Eveline Township, Precinct 6",State House,107,REP,David James Laughbaum,9
+Charlevoix,"Eveline Township, Precinct 6",State House,107,REP,Jonathan D. Scheel,42
+Charlevoix,"Eveline Township, Precinct 6",State House,107,REP,Neil W. Friske,208
+Charlevoix,"Eveline Township, Precinct 6",State House,107,REP,Parker Fairbairn,107
+Charlevoix,"Hayes Township, Precinct 7",Governor,,DEM,Gretchen Whitmer,218
+Charlevoix,"Hayes Township, Precinct 7",Governor,,REP,Garrett Soldano,70
+Charlevoix,"Hayes Township, Precinct 7",Governor,,REP,Kevin Rinke,126
+Charlevoix,"Hayes Township, Precinct 7",Governor,,REP,Ralph Rebandt,10
+Charlevoix,"Hayes Township, Precinct 7",Governor,,REP,Ryan D. Kelley,64
+Charlevoix,"Hayes Township, Precinct 7",Governor,,REP,Tudor M. Dixon,163
+Charlevoix,"Hayes Township, Precinct 7",U.S. House,1,DEM,Bob Lorinser,211
+Charlevoix,"Hayes Township, Precinct 7",U.S. House,1,REP,Jack Bergman,402
+Charlevoix,"Hayes Township, Precinct 7",State Senate,37,DEM,Barbara Conley,181
+Charlevoix,"Hayes Township, Precinct 7",State Senate,37,DEM,Jim Schmidt,20
+Charlevoix,"Hayes Township, Precinct 7",State Senate,37,DEM,Randy Bishop,11
+Charlevoix,"Hayes Township, Precinct 7",State Senate,37,REP,George Ranville,71
+Charlevoix,"Hayes Township, Precinct 7",State Senate,37,REP,John N. Damoose,118
+Charlevoix,"Hayes Township, Precinct 7",State Senate,37,REP,Triston Cole,179
+Charlevoix,"Hayes Township, Precinct 7",State Senate,37,REP,William Hindle,65
+Charlevoix,"Hayes Township, Precinct 7",State House,107,DEM,Jodi Decker,208
+Charlevoix,"Hayes Township, Precinct 7",State House,107,REP,Bob Carr,34
+Charlevoix,"Hayes Township, Precinct 7",State House,107,REP,David James Laughbaum,6
+Charlevoix,"Hayes Township, Precinct 7",State House,107,REP,Jonathan D. Scheel,72
+Charlevoix,"Hayes Township, Precinct 7",State House,107,REP,Neil W. Friske,217
+Charlevoix,"Hayes Township, Precinct 7",State House,107,REP,Parker Fairbairn,115
+Charlevoix,"Hudson Township, Precinct 8",Governor,,DEM,Gretchen Whitmer,53
+Charlevoix,"Hudson Township, Precinct 8",Governor,,REP,Garrett Soldano,15
+Charlevoix,"Hudson Township, Precinct 8",Governor,,REP,Kevin Rinke,34
+Charlevoix,"Hudson Township, Precinct 8",Governor,,REP,Ralph Rebandt,9
+Charlevoix,"Hudson Township, Precinct 8",Governor,,REP,Ryan D. Kelley,13
+Charlevoix,"Hudson Township, Precinct 8",Governor,,REP,Tudor M. Dixon,38
+Charlevoix,"Hudson Township, Precinct 8",U.S. House,1,DEM,Bob Lorinser,49
+Charlevoix,"Hudson Township, Precinct 8",U.S. House,1,REP,Jack Bergman,106
+Charlevoix,"Hudson Township, Precinct 8",State Senate,37,DEM,Barbara Conley,44
+Charlevoix,"Hudson Township, Precinct 8",State Senate,37,DEM,Jim Schmidt,3
+Charlevoix,"Hudson Township, Precinct 8",State Senate,37,DEM,Randy Bishop,4
+Charlevoix,"Hudson Township, Precinct 8",State Senate,37,REP,George Ranville,10
+Charlevoix,"Hudson Township, Precinct 8",State Senate,37,REP,John N. Damoose,41
+Charlevoix,"Hudson Township, Precinct 8",State Senate,37,REP,Triston Cole,49
+Charlevoix,"Hudson Township, Precinct 8",State Senate,37,REP,William Hindle,8
+Charlevoix,"Hudson Township, Precinct 8",State House,107,DEM,Jodi Decker,49
+Charlevoix,"Hudson Township, Precinct 8",State House,107,REP,Bob Carr,9
+Charlevoix,"Hudson Township, Precinct 8",State House,107,REP,David James Laughbaum,2
+Charlevoix,"Hudson Township, Precinct 8",State House,107,REP,Jonathan D. Scheel,4
+Charlevoix,"Hudson Township, Precinct 8",State House,107,REP,Neil W. Friske,67
+Charlevoix,"Hudson Township, Precinct 8",State House,107,REP,Parker Fairbairn,29
+Charlevoix,"Marion Township, Precinct 9",Governor,,DEM,Gretchen Whitmer,135
+Charlevoix,"Marion Township, Precinct 9",Governor,,REP,Garrett Soldano,106
+Charlevoix,"Marion Township, Precinct 9",Governor,,REP,Kevin Rinke,125
+Charlevoix,"Marion Township, Precinct 9",Governor,,REP,Ralph Rebandt,14
+Charlevoix,"Marion Township, Precinct 9",Governor,,REP,Ryan D. Kelley,40
+Charlevoix,"Marion Township, Precinct 9",Governor,,REP,Tudor M. Dixon,120
+Charlevoix,"Marion Township, Precinct 9",U.S. House,1,DEM,Bob Lorinser,126
+Charlevoix,"Marion Township, Precinct 9",U.S. House,1,REP,Jack Bergman,359
+Charlevoix,"Marion Township, Precinct 9",State Senate,37,DEM,Barbara Conley,109
+Charlevoix,"Marion Township, Precinct 9",State Senate,37,DEM,Jim Schmidt,18
+Charlevoix,"Marion Township, Precinct 9",State Senate,37,DEM,Randy Bishop,5
+Charlevoix,"Marion Township, Precinct 9",State Senate,37,REP,George Ranville,63
+Charlevoix,"Marion Township, Precinct 9",State Senate,37,REP,John N. Damoose,106
+Charlevoix,"Marion Township, Precinct 9",State Senate,37,REP,Triston Cole,130
+Charlevoix,"Marion Township, Precinct 9",State Senate,37,REP,William Hindle,104
+Charlevoix,"Marion Township, Precinct 9",State House,107,DEM,Jodi Decker,125
+Charlevoix,"Marion Township, Precinct 9",State House,107,REP,Bob Carr,24
+Charlevoix,"Marion Township, Precinct 9",State House,107,REP,David James Laughbaum,15
+Charlevoix,"Marion Township, Precinct 9",State House,107,REP,Jonathan D. Scheel,62
+Charlevoix,"Marion Township, Precinct 9",State House,107,REP,Neil W. Friske,215
+Charlevoix,"Marion Township, Precinct 9",State House,107,REP,Parker Fairbairn,96
+Charlevoix,"Melrose Township, Precinct 10",Governor,,DEM,Gretchen Whitmer,105
+Charlevoix,"Melrose Township, Precinct 10",Governor,,REP,Garrett Soldano,26
+Charlevoix,"Melrose Township, Precinct 10",Governor,,REP,Kevin Rinke,92
+Charlevoix,"Melrose Township, Precinct 10",Governor,,REP,Ralph Rebandt,15
+Charlevoix,"Melrose Township, Precinct 10",Governor,,REP,Ryan D. Kelley,20
+Charlevoix,"Melrose Township, Precinct 10",Governor,,REP,Tudor M. Dixon,82
+Charlevoix,"Melrose Township, Precinct 10",U.S. House,1,DEM,Bob Lorinser,102
+Charlevoix,"Melrose Township, Precinct 10",U.S. House,1,REP,Jack Bergman,209
+Charlevoix,"Melrose Township, Precinct 10",State Senate,37,DEM,Barbara Conley,83
+Charlevoix,"Melrose Township, Precinct 10",State Senate,37,DEM,Jim Schmidt,15
+Charlevoix,"Melrose Township, Precinct 10",State Senate,37,DEM,Randy Bishop,4
+Charlevoix,"Melrose Township, Precinct 10",State Senate,37,REP,George Ranville,38
+Charlevoix,"Melrose Township, Precinct 10",State Senate,37,REP,John N. Damoose,83
+Charlevoix,"Melrose Township, Precinct 10",State Senate,37,REP,Triston Cole,76
+Charlevoix,"Melrose Township, Precinct 10",State Senate,37,REP,William Hindle,31
+Charlevoix,"Melrose Township, Precinct 10",State House,107,DEM,Jodi Decker,102
+Charlevoix,"Melrose Township, Precinct 10",State House,107,REP,Bob Carr,14
+Charlevoix,"Melrose Township, Precinct 10",State House,107,REP,David James Laughbaum,8
+Charlevoix,"Melrose Township, Precinct 10",State House,107,REP,Jonathan D. Scheel,47
+Charlevoix,"Melrose Township, Precinct 10",State House,107,REP,Neil W. Friske,103
+Charlevoix,"Melrose Township, Precinct 10",State House,107,REP,Parker Fairbairn,53
+Charlevoix,"Norwood Township, Precinct 11",Governor,,DEM,Gretchen Whitmer,90
+Charlevoix,"Norwood Township, Precinct 11",Governor,,REP,Garrett Soldano,42
+Charlevoix,"Norwood Township, Precinct 11",Governor,,REP,Kevin Rinke,52
+Charlevoix,"Norwood Township, Precinct 11",Governor,,REP,Ralph Rebandt,8
+Charlevoix,"Norwood Township, Precinct 11",Governor,,REP,Ryan D. Kelley,13
+Charlevoix,"Norwood Township, Precinct 11",Governor,,REP,Tudor M. Dixon,72
+Charlevoix,"Norwood Township, Precinct 11",U.S. House,1,DEM,Bob Lorinser,89
+Charlevoix,"Norwood Township, Precinct 11",U.S. House,1,REP,Jack Bergman,169
+Charlevoix,"Norwood Township, Precinct 11",State Senate,37,DEM,Barbara Conley,75
+Charlevoix,"Norwood Township, Precinct 11",State Senate,37,DEM,Jim Schmidt,5
+Charlevoix,"Norwood Township, Precinct 11",State Senate,37,DEM,Randy Bishop,3
+Charlevoix,"Norwood Township, Precinct 11",State Senate,37,REP,George Ranville,34
+Charlevoix,"Norwood Township, Precinct 11",State Senate,37,REP,John N. Damoose,45
+Charlevoix,"Norwood Township, Precinct 11",State Senate,37,REP,Triston Cole,72
+Charlevoix,"Norwood Township, Precinct 11",State Senate,37,REP,William Hindle,33
+Charlevoix,"Norwood Township, Precinct 11",State House,107,DEM,Jodi Decker,86
+Charlevoix,"Norwood Township, Precinct 11",State House,107,REP,Bob Carr,11
+Charlevoix,"Norwood Township, Precinct 11",State House,107,REP,David James Laughbaum,5
+Charlevoix,"Norwood Township, Precinct 11",State House,107,REP,Jonathan D. Scheel,20
+Charlevoix,"Norwood Township, Precinct 11",State House,107,REP,Neil W. Friske,88
+Charlevoix,"Norwood Township, Precinct 11",State House,107,REP,Parker Fairbairn,56
+Charlevoix,"Peaine Township, Precinct 12",Governor,,DEM,Gretchen Whitmer,37
+Charlevoix,"Peaine Township, Precinct 12",Governor,,REP,Garrett Soldano,13
+Charlevoix,"Peaine Township, Precinct 12",Governor,,REP,Kevin Rinke,13
+Charlevoix,"Peaine Township, Precinct 12",Governor,,REP,Ralph Rebandt,2
+Charlevoix,"Peaine Township, Precinct 12",Governor,,REP,Ryan D. Kelley,10
+Charlevoix,"Peaine Township, Precinct 12",Governor,,REP,Tudor M. Dixon,19
+Charlevoix,"Peaine Township, Precinct 12",U.S. House,1,DEM,Bob Lorinser,36
+Charlevoix,"Peaine Township, Precinct 12",U.S. House,1,REP,Jack Bergman,51
+Charlevoix,"Peaine Township, Precinct 12",State Senate,37,DEM,Barbara Conley,28
+Charlevoix,"Peaine Township, Precinct 12",State Senate,37,DEM,Jim Schmidt,4
+Charlevoix,"Peaine Township, Precinct 12",State Senate,37,DEM,Randy Bishop,3
+Charlevoix,"Peaine Township, Precinct 12",State Senate,37,REP,George Ranville,8
+Charlevoix,"Peaine Township, Precinct 12",State Senate,37,REP,John N. Damoose,9
+Charlevoix,"Peaine Township, Precinct 12",State Senate,37,REP,Triston Cole,36
+Charlevoix,"Peaine Township, Precinct 12",State Senate,37,REP,William Hindle,0
+Charlevoix,"Peaine Township, Precinct 12",State House,107,DEM,Jodi Decker,36
+Charlevoix,"Peaine Township, Precinct 12",State House,107,REP,Bob Carr,6
+Charlevoix,"Peaine Township, Precinct 12",State House,107,REP,David James Laughbaum,2
+Charlevoix,"Peaine Township, Precinct 12",State House,107,REP,Jonathan D. Scheel,1
+Charlevoix,"Peaine Township, Precinct 12",State House,107,REP,Neil W. Friske,20
+Charlevoix,"Peaine Township, Precinct 12",State House,107,REP,Parker Fairbairn,21
+Charlevoix,"South Arm Township, Precinct 14",Governor,,DEM,Gretchen Whitmer,124
+Charlevoix,"South Arm Township, Precinct 14",Governor,,REP,Garrett Soldano,114
+Charlevoix,"South Arm Township, Precinct 14",Governor,,REP,Kevin Rinke,133
+Charlevoix,"South Arm Township, Precinct 14",Governor,,REP,Ralph Rebandt,16
+Charlevoix,"South Arm Township, Precinct 14",Governor,,REP,Ryan D. Kelley,47
+Charlevoix,"South Arm Township, Precinct 14",Governor,,REP,Tudor M. Dixon,126
+Charlevoix,"South Arm Township, Precinct 14",U.S. House,1,DEM,Bob Lorinser,122
+Charlevoix,"South Arm Township, Precinct 14",U.S. House,1,REP,Jack Bergman,409
+Charlevoix,"South Arm Township, Precinct 14",State Senate,37,DEM,Barbara Conley,99
+Charlevoix,"South Arm Township, Precinct 14",State Senate,37,DEM,Jim Schmidt,12
+Charlevoix,"South Arm Township, Precinct 14",State Senate,37,DEM,Randy Bishop,12
+Charlevoix,"South Arm Township, Precinct 14",State Senate,37,REP,George Ranville,57
+Charlevoix,"South Arm Township, Precinct 14",State Senate,37,REP,John N. Damoose,103
+Charlevoix,"South Arm Township, Precinct 14",State Senate,37,REP,Triston Cole,195
+Charlevoix,"South Arm Township, Precinct 14",State Senate,37,REP,William Hindle,81
+Charlevoix,"South Arm Township, Precinct 14",State House,107,DEM,Jodi Decker,122
+Charlevoix,"South Arm Township, Precinct 14",State House,107,REP,Bob Carr,30
+Charlevoix,"South Arm Township, Precinct 14",State House,107,REP,David James Laughbaum,18
+Charlevoix,"South Arm Township, Precinct 14",State House,107,REP,Jonathan D. Scheel,64
+Charlevoix,"South Arm Township, Precinct 14",State House,107,REP,Neil W. Friske,192
+Charlevoix,"South Arm Township, Precinct 14",State House,107,REP,Parker Fairbairn,132
+Charlevoix,"St. James Township, Precinct 13",Governor,,DEM,Gretchen Whitmer,58
+Charlevoix,"St. James Township, Precinct 13",Governor,,REP,Garrett Soldano,6
+Charlevoix,"St. James Township, Precinct 13",Governor,,REP,Kevin Rinke,21
+Charlevoix,"St. James Township, Precinct 13",Governor,,REP,Ralph Rebandt,2
+Charlevoix,"St. James Township, Precinct 13",Governor,,REP,Ryan D. Kelley,4
+Charlevoix,"St. James Township, Precinct 13",Governor,,REP,Tudor M. Dixon,16
+Charlevoix,"St. James Township, Precinct 13",U.S. House,1,DEM,Bob Lorinser,55
+Charlevoix,"St. James Township, Precinct 13",U.S. House,1,REP,Jack Bergman,41
+Charlevoix,"St. James Township, Precinct 13",State Senate,37,DEM,Barbara Conley,46
+Charlevoix,"St. James Township, Precinct 13",State Senate,37,DEM,Jim Schmidt,7
+Charlevoix,"St. James Township, Precinct 13",State Senate,37,DEM,Randy Bishop,3
+Charlevoix,"St. James Township, Precinct 13",State Senate,37,REP,George Ranville,1
+Charlevoix,"St. James Township, Precinct 13",State Senate,37,REP,John N. Damoose,13
+Charlevoix,"St. James Township, Precinct 13",State Senate,37,REP,Triston Cole,29
+Charlevoix,"St. James Township, Precinct 13",State Senate,37,REP,William Hindle,2
+Charlevoix,"St. James Township, Precinct 13",State House,107,DEM,Jodi Decker,54
+Charlevoix,"St. James Township, Precinct 13",State House,107,REP,Bob Carr,5
+Charlevoix,"St. James Township, Precinct 13",State House,107,REP,David James Laughbaum,1
+Charlevoix,"St. James Township, Precinct 13",State House,107,REP,Jonathan D. Scheel,1
+Charlevoix,"St. James Township, Precinct 13",State House,107,REP,Neil W. Friske,13
+Charlevoix,"St. James Township, Precinct 13",State House,107,REP,Parker Fairbairn,23
+Charlevoix,"Wilson Township, Precinct 15",Governor,,DEM,Gretchen Whitmer,144
+Charlevoix,"Wilson Township, Precinct 15",Governor,,REP,Garrett Soldano,68
+Charlevoix,"Wilson Township, Precinct 15",Governor,,REP,Kevin Rinke,116
+Charlevoix,"Wilson Township, Precinct 15",Governor,,REP,Ralph Rebandt,17
+Charlevoix,"Wilson Township, Precinct 15",Governor,,REP,Ryan D. Kelley,43
+Charlevoix,"Wilson Township, Precinct 15",Governor,,REP,Tudor M. Dixon,110
+Charlevoix,"Wilson Township, Precinct 15",U.S. House,1,DEM,Bob Lorinser,140
+Charlevoix,"Wilson Township, Precinct 15",U.S. House,1,REP,Jack Bergman,319
+Charlevoix,"Wilson Township, Precinct 15",State Senate,37,DEM,Barbara Conley,112
+Charlevoix,"Wilson Township, Precinct 15",State Senate,37,DEM,Jim Schmidt,16
+Charlevoix,"Wilson Township, Precinct 15",State Senate,37,DEM,Randy Bishop,11
+Charlevoix,"Wilson Township, Precinct 15",State Senate,37,REP,George Ranville,43
+Charlevoix,"Wilson Township, Precinct 15",State Senate,37,REP,John N. Damoose,118
+Charlevoix,"Wilson Township, Precinct 15",State Senate,37,REP,Triston Cole,152
+Charlevoix,"Wilson Township, Precinct 15",State Senate,37,REP,William Hindle,41
+Charlevoix,"Wilson Township, Precinct 15",State House,107,DEM,Jodi Decker,138
+Charlevoix,"Wilson Township, Precinct 15",State House,107,REP,Bob Carr,23
+Charlevoix,"Wilson Township, Precinct 15",State House,107,REP,David James Laughbaum,8
+Charlevoix,"Wilson Township, Precinct 15",State House,107,REP,Jonathan D. Scheel,22
+Charlevoix,"Wilson Township, Precinct 15",State House,107,REP,Neil W. Friske,197
+Charlevoix,"Wilson Township, Precinct 15",State House,107,REP,Parker Fairbairn,107

@@ -29,36 +29,36 @@ Wexford,"Marilla Township, Precinct 1 (Manistee County)",Registered Voters,,,,17
 Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Registered Voters,,,,323
 Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Registered Voters,,,,365
 Wexford,"Sherman Township, Precinct 1 (Osceola County)",Registered Voters,,,,35
-Wexford,"City of Cadillac, Precinct 1",Cards Cast,,,,1296
-Wexford,"City of Cadillac, Precinct 2",Cards Cast,,,,1239
-Wexford,"City of Cadillac, Precinct 3",Cards Cast,,,,1431
-Wexford,"City of Manton, Precinct 1",Cards Cast,,,,412
-Wexford,"Antioch Township, Precinct 1",Cards Cast,,,,419
-Wexford,"Boon Township, Precinct 1",Cards Cast,,,,337
-Wexford,"Cedar Creek Township, Precinct 1",Cards Cast,,,,757
-Wexford,"Cherry Grove Township, Precinct 1",Cards Cast,,,,1477
-Wexford,"Clam Lake Township, Precinct 1",Cards Cast,,,,1351
-Wexford,"Colfax Township, Precinct 1",Cards Cast,,,,443
-Wexford,"Greenwood Township, Precinct 1",Cards Cast,,,,291
-Wexford,"Hanover Township, Precinct 1",Cards Cast,,,,728
-Wexford,"Haring Township, Precinct 1",Cards Cast,,,,1676
-Wexford,"Henderson Township, Precinct 1",Cards Cast,,,,114
-Wexford,"Liberty Township, Precinct 1",Cards Cast,,,,426
-Wexford,"Selma Township, Precinct 1",Cards Cast,,,,1093
-Wexford,"Slagle Township, Precinct 1",Cards Cast,,,,249
-Wexford,"South Branch Township, Precinct 1",Cards Cast,,,,212
-Wexford,"Springville Township, Precinct 1",Cards Cast,,,,719
-Wexford,"Wexford Township, Precinct 1",Cards Cast,,,,536
-Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Cards Cast,,,,6
-Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Cards Cast,,,,895
-Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Cards Cast,,,,11
-Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Cards Cast,,,,371
-Wexford,"Newkirk Township, Precinct 1 (Lake County)",Cards Cast,,,,8
-Wexford,"Cleon Township, Precinct (Manistee County)",Cards Cast,,,,163
-Wexford,"Marilla Township, Precinct 1 (Manistee County)",Cards Cast,,,,114
-Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Cards Cast,,,,151
-Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Cards Cast,,,,183
-Wexford,"Sherman Township, Precinct 1 (Osceola County)",Cards Cast,,,,37
+Wexford,"City of Cadillac, Precinct 1",Ballots Cast,,,,1296
+Wexford,"City of Cadillac, Precinct 2",Ballots Cast,,,,1239
+Wexford,"City of Cadillac, Precinct 3",Ballots Cast,,,,1431
+Wexford,"City of Manton, Precinct 1",Ballots Cast,,,,412
+Wexford,"Antioch Township, Precinct 1",Ballots Cast,,,,419
+Wexford,"Boon Township, Precinct 1",Ballots Cast,,,,337
+Wexford,"Cedar Creek Township, Precinct 1",Ballots Cast,,,,757
+Wexford,"Cherry Grove Township, Precinct 1",Ballots Cast,,,,1477
+Wexford,"Clam Lake Township, Precinct 1",Ballots Cast,,,,1351
+Wexford,"Colfax Township, Precinct 1",Ballots Cast,,,,443
+Wexford,"Greenwood Township, Precinct 1",Ballots Cast,,,,291
+Wexford,"Hanover Township, Precinct 1",Ballots Cast,,,,728
+Wexford,"Haring Township, Precinct 1",Ballots Cast,,,,1676
+Wexford,"Henderson Township, Precinct 1",Ballots Cast,,,,114
+Wexford,"Liberty Township, Precinct 1",Ballots Cast,,,,426
+Wexford,"Selma Township, Precinct 1",Ballots Cast,,,,1093
+Wexford,"Slagle Township, Precinct 1",Ballots Cast,,,,249
+Wexford,"South Branch Township, Precinct 1",Ballots Cast,,,,212
+Wexford,"Springville Township, Precinct 1",Ballots Cast,,,,719
+Wexford,"Wexford Township, Precinct 1",Ballots Cast,,,,536
+Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Ballots Cast,,,,6
+Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Ballots Cast,,,,895
+Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Ballots Cast,,,,11
+Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Ballots Cast,,,,371
+Wexford,"Newkirk Township, Precinct 1 (Lake County)",Ballots Cast,,,,8
+Wexford,"Cleon Township, Precinct (Manistee County)",Ballots Cast,,,,163
+Wexford,"Marilla Township, Precinct 1 (Manistee County)",Ballots Cast,,,,114
+Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Ballots Cast,,,,151
+Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Ballots Cast,,,,183
+Wexford,"Sherman Township, Precinct 1 (Osceola County)",Ballots Cast,,,,37
 Wexford,"City of Cadillac, Precinct 1",Voters Cast,,,,1296
 Wexford,"City of Cadillac, Precinct 2",Voters Cast,,,,1239
 Wexford,"City of Cadillac, Precinct 3",Voters Cast,,,,1431
@@ -89,216 +89,216 @@ Wexford,"Marilla Township, Precinct 1 (Manistee County)",Voters Cast,,,,114
 Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Voters Cast,,,,151
 Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Voters Cast,,,,183
 Wexford,"Sherman Township, Precinct 1 (Osceola County)",Voters Cast,,,,37
-Wexford,"City of Cadillac, Precinct 1",Straight Party,,DEM,,282
-Wexford,"City of Cadillac, Precinct 2",Straight Party,,DEM,,310
-Wexford,"City of Cadillac, Precinct 3",Straight Party,,DEM,,315
-Wexford,"City of Manton, Precinct 1",Straight Party,,DEM,,58
-Wexford,"Antioch Township, Precinct 1",Straight Party,,DEM,,69
-Wexford,"Boon Township, Precinct 1",Straight Party,,DEM,,56
-Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,DEM,,116
-Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,DEM,,225
-Wexford,"Clam Lake Township, Precinct 1",Straight Party,,DEM,,177
-Wexford,"Colfax Township, Precinct 1",Straight Party,,DEM,,80
-Wexford,"Greenwood Township, Precinct 1",Straight Party,,DEM,,39
-Wexford,"Hanover Township, Precinct 1",Straight Party,,DEM,,118
-Wexford,"Haring Township, Precinct 1",Straight Party,,DEM,,203
-Wexford,"Henderson Township, Precinct 1",Straight Party,,DEM,,18
-Wexford,"Liberty Township, Precinct 1",Straight Party,,DEM,,40
-Wexford,"Selma Township, Precinct 1",Straight Party,,DEM,,190
-Wexford,"Slagle Township, Precinct 1",Straight Party,,DEM,,45
-Wexford,"South Branch Township, Precinct 1",Straight Party,,DEM,,38
-Wexford,"Springville Township, Precinct 1",Straight Party,,DEM,,110
-Wexford,"Wexford Township, Precinct 1",Straight Party,,DEM,,78
-Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,DEM,,0
-Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,DEM,,0
-Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,DEM,,0
-Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,DEM,,0
-Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,DEM,,0
-Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,DEM,,0
-Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,DEM,,0
-Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,DEM,,0
-Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,DEM,,0
-Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,DEM,,0
-Wexford,"City of Cadillac, Precinct 1",Straight Party,,REP,,457
-Wexford,"City of Cadillac, Precinct 2",Straight Party,,REP,,381
-Wexford,"City of Cadillac, Precinct 3",Straight Party,,REP,,460
-Wexford,"City of Manton, Precinct 1",Straight Party,,REP,,170
-Wexford,"Antioch Township, Precinct 1",Straight Party,,REP,,177
-Wexford,"Boon Township, Precinct 1",Straight Party,,REP,,133
-Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,REP,,306
-Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,REP,,541
-Wexford,"Clam Lake Township, Precinct 1",Straight Party,,REP,,521
-Wexford,"Colfax Township, Precinct 1",Straight Party,,REP,,182
-Wexford,"Greenwood Township, Precinct 1",Straight Party,,REP,,123
-Wexford,"Hanover Township, Precinct 1",Straight Party,,REP,,305
-Wexford,"Haring Township, Precinct 1",Straight Party,,REP,,731
-Wexford,"Henderson Township, Precinct 1",Straight Party,,REP,,45
-Wexford,"Liberty Township, Precinct 1",Straight Party,,REP,,207
-Wexford,"Selma Township, Precinct 1",Straight Party,,REP,,403
-Wexford,"Slagle Township, Precinct 1",Straight Party,,REP,,95
-Wexford,"South Branch Township, Precinct 1",Straight Party,,REP,,77
-Wexford,"Springville Township, Precinct 1",Straight Party,,REP,,318
-Wexford,"Wexford Township, Precinct 1",Straight Party,,REP,,253
-Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,REP,,0
-Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,REP,,0
-Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,REP,,0
-Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,REP,,0
-Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,REP,,0
-Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,REP,,0
-Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,REP,,0
-Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,REP,,0
-Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,REP,,0
-Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,REP,,0
-Wexford,"City of Cadillac, Precinct 1",Straight Party,,LIB,,8
-Wexford,"City of Cadillac, Precinct 2",Straight Party,,LIB,,4
-Wexford,"City of Cadillac, Precinct 3",Straight Party,,LIB,,7
-Wexford,"City of Manton, Precinct 1",Straight Party,,LIB,,1
-Wexford,"Antioch Township, Precinct 1",Straight Party,,LIB,,1
-Wexford,"Boon Township, Precinct 1",Straight Party,,LIB,,1
-Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,LIB,,4
-Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,LIB,,3
-Wexford,"Clam Lake Township, Precinct 1",Straight Party,,LIB,,3
-Wexford,"Colfax Township, Precinct 1",Straight Party,,LIB,,3
-Wexford,"Greenwood Township, Precinct 1",Straight Party,,LIB,,0
-Wexford,"Hanover Township, Precinct 1",Straight Party,,LIB,,3
-Wexford,"Haring Township, Precinct 1",Straight Party,,LIB,,8
-Wexford,"Henderson Township, Precinct 1",Straight Party,,LIB,,2
-Wexford,"Liberty Township, Precinct 1",Straight Party,,LIB,,1
-Wexford,"Selma Township, Precinct 1",Straight Party,,LIB,,4
-Wexford,"Slagle Township, Precinct 1",Straight Party,,LIB,,2
-Wexford,"South Branch Township, Precinct 1",Straight Party,,LIB,,1
-Wexford,"Springville Township, Precinct 1",Straight Party,,LIB,,7
-Wexford,"Wexford Township, Precinct 1",Straight Party,,LIB,,2
-Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,LIB,,0
-Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,LIB,,0
-Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,LIB,,0
-Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,LIB,,0
-Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,LIB,,0
-Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,LIB,,0
-Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,LIB,,0
-Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,LIB,,0
-Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,LIB,,0
-Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,LIB,,0
-Wexford,"City of Cadillac, Precinct 1",Straight Party,,UST,,2
-Wexford,"City of Cadillac, Precinct 2",Straight Party,,UST,,1
-Wexford,"City of Cadillac, Precinct 3",Straight Party,,UST,,2
-Wexford,"City of Manton, Precinct 1",Straight Party,,UST,,2
-Wexford,"Antioch Township, Precinct 1",Straight Party,,UST,,0
-Wexford,"Boon Township, Precinct 1",Straight Party,,UST,,1
-Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,UST,,3
-Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,UST,,2
-Wexford,"Clam Lake Township, Precinct 1",Straight Party,,UST,,2
-Wexford,"Colfax Township, Precinct 1",Straight Party,,UST,,0
-Wexford,"Greenwood Township, Precinct 1",Straight Party,,UST,,1
-Wexford,"Hanover Township, Precinct 1",Straight Party,,UST,,1
-Wexford,"Haring Township, Precinct 1",Straight Party,,UST,,6
-Wexford,"Henderson Township, Precinct 1",Straight Party,,UST,,1
-Wexford,"Liberty Township, Precinct 1",Straight Party,,UST,,2
-Wexford,"Selma Township, Precinct 1",Straight Party,,UST,,3
-Wexford,"Slagle Township, Precinct 1",Straight Party,,UST,,0
-Wexford,"South Branch Township, Precinct 1",Straight Party,,UST,,1
-Wexford,"Springville Township, Precinct 1",Straight Party,,UST,,1
-Wexford,"Wexford Township, Precinct 1",Straight Party,,UST,,1
-Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,UST,,0
-Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,UST,,0
-Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,UST,,0
-Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,UST,,0
-Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,UST,,0
-Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,UST,,0
-Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,UST,,0
-Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,UST,,0
-Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,UST,,0
-Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,UST,,0
-Wexford,"City of Cadillac, Precinct 1",Straight Party,,WCP,,5
-Wexford,"City of Cadillac, Precinct 2",Straight Party,,WCP,,8
-Wexford,"City of Cadillac, Precinct 3",Straight Party,,WCP,,4
-Wexford,"City of Manton, Precinct 1",Straight Party,,WCP,,4
-Wexford,"Antioch Township, Precinct 1",Straight Party,,WCP,,0
-Wexford,"Boon Township, Precinct 1",Straight Party,,WCP,,1
-Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,WCP,,4
-Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,WCP,,1
-Wexford,"Clam Lake Township, Precinct 1",Straight Party,,WCP,,6
-Wexford,"Colfax Township, Precinct 1",Straight Party,,WCP,,2
-Wexford,"Greenwood Township, Precinct 1",Straight Party,,WCP,,1
-Wexford,"Hanover Township, Precinct 1",Straight Party,,WCP,,2
-Wexford,"Haring Township, Precinct 1",Straight Party,,WCP,,3
-Wexford,"Henderson Township, Precinct 1",Straight Party,,WCP,,1
-Wexford,"Liberty Township, Precinct 1",Straight Party,,WCP,,3
-Wexford,"Selma Township, Precinct 1",Straight Party,,WCP,,8
-Wexford,"Slagle Township, Precinct 1",Straight Party,,WCP,,0
-Wexford,"South Branch Township, Precinct 1",Straight Party,,WCP,,0
-Wexford,"Springville Township, Precinct 1",Straight Party,,WCP,,2
-Wexford,"Wexford Township, Precinct 1",Straight Party,,WCP,,0
-Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,WCP,,0
-Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,WCP,,0
-Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,WCP,,0
-Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,WCP,,0
-Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,WCP,,0
-Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,WCP,,0
-Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,WCP,,0
-Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,WCP,,0
-Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,WCP,,0
-Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,WCP,,0
-Wexford,"City of Cadillac, Precinct 1",Straight Party,,GRN,,1
-Wexford,"City of Cadillac, Precinct 2",Straight Party,,GRN,,2
-Wexford,"City of Cadillac, Precinct 3",Straight Party,,GRN,,0
-Wexford,"City of Manton, Precinct 1",Straight Party,,GRN,,1
-Wexford,"Antioch Township, Precinct 1",Straight Party,,GRN,,0
-Wexford,"Boon Township, Precinct 1",Straight Party,,GRN,,0
-Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,GRN,,1
-Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,GRN,,0
-Wexford,"Clam Lake Township, Precinct 1",Straight Party,,GRN,,1
-Wexford,"Colfax Township, Precinct 1",Straight Party,,GRN,,0
-Wexford,"Greenwood Township, Precinct 1",Straight Party,,GRN,,1
-Wexford,"Hanover Township, Precinct 1",Straight Party,,GRN,,0
-Wexford,"Haring Township, Precinct 1",Straight Party,,GRN,,0
-Wexford,"Henderson Township, Precinct 1",Straight Party,,GRN,,0
-Wexford,"Liberty Township, Precinct 1",Straight Party,,GRN,,1
-Wexford,"Selma Township, Precinct 1",Straight Party,,GRN,,1
-Wexford,"Slagle Township, Precinct 1",Straight Party,,GRN,,0
-Wexford,"South Branch Township, Precinct 1",Straight Party,,GRN,,1
-Wexford,"Springville Township, Precinct 1",Straight Party,,GRN,,1
-Wexford,"Wexford Township, Precinct 1",Straight Party,,GRN,,1
-Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,GRN,,0
-Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,GRN,,0
-Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,GRN,,0
-Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,GRN,,0
-Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,GRN,,0
-Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,GRN,,0
-Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,GRN,,0
-Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,GRN,,0
-Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,GRN,,0
-Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,GRN,,0
-Wexford,"City of Cadillac, Precinct 1",Straight Party,,NLP,,2
-Wexford,"City of Cadillac, Precinct 2",Straight Party,,NLP,,0
-Wexford,"City of Cadillac, Precinct 3",Straight Party,,NLP,,0
-Wexford,"City of Manton, Precinct 1",Straight Party,,NLP,,1
-Wexford,"Antioch Township, Precinct 1",Straight Party,,NLP,,0
-Wexford,"Boon Township, Precinct 1",Straight Party,,NLP,,0
-Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,NLP,,1
-Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,NLP,,1
-Wexford,"Clam Lake Township, Precinct 1",Straight Party,,NLP,,0
-Wexford,"Colfax Township, Precinct 1",Straight Party,,NLP,,0
-Wexford,"Greenwood Township, Precinct 1",Straight Party,,NLP,,0
-Wexford,"Hanover Township, Precinct 1",Straight Party,,NLP,,1
-Wexford,"Haring Township, Precinct 1",Straight Party,,NLP,,1
-Wexford,"Henderson Township, Precinct 1",Straight Party,,NLP,,0
-Wexford,"Liberty Township, Precinct 1",Straight Party,,NLP,,0
-Wexford,"Selma Township, Precinct 1",Straight Party,,NLP,,0
-Wexford,"Slagle Township, Precinct 1",Straight Party,,NLP,,0
-Wexford,"South Branch Township, Precinct 1",Straight Party,,NLP,,1
-Wexford,"Springville Township, Precinct 1",Straight Party,,NLP,,0
-Wexford,"Wexford Township, Precinct 1",Straight Party,,NLP,,2
-Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,NLP,,0
-Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,NLP,,0
-Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,NLP,,0
-Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,NLP,,0
-Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,NLP,,0
-Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,NLP,,0
-Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,NLP,,0
-Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,NLP,,0
-Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,NLP,,0
-Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,NLP,,0
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,DEM,Democratic,282
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,DEM,Democratic,310
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,DEM,Democratic,315
+Wexford,"City of Manton, Precinct 1",Straight Party,,DEM,Democratic,58
+Wexford,"Antioch Township, Precinct 1",Straight Party,,DEM,Democratic,69
+Wexford,"Boon Township, Precinct 1",Straight Party,,DEM,Democratic,56
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,DEM,Democratic,116
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,DEM,Democratic,225
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,DEM,Democratic,177
+Wexford,"Colfax Township, Precinct 1",Straight Party,,DEM,Democratic,80
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,DEM,Democratic,39
+Wexford,"Hanover Township, Precinct 1",Straight Party,,DEM,Democratic,118
+Wexford,"Haring Township, Precinct 1",Straight Party,,DEM,Democratic,203
+Wexford,"Henderson Township, Precinct 1",Straight Party,,DEM,Democratic,18
+Wexford,"Liberty Township, Precinct 1",Straight Party,,DEM,Democratic,40
+Wexford,"Selma Township, Precinct 1",Straight Party,,DEM,Democratic,190
+Wexford,"Slagle Township, Precinct 1",Straight Party,,DEM,Democratic,45
+Wexford,"South Branch Township, Precinct 1",Straight Party,,DEM,Democratic,38
+Wexford,"Springville Township, Precinct 1",Straight Party,,DEM,Democratic,110
+Wexford,"Wexford Township, Precinct 1",Straight Party,,DEM,Democratic,78
+Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,DEM,Democratic,0
+Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,DEM,Democratic,0
+Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,DEM,Democratic,0
+Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,DEM,Democratic,0
+Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,DEM,Democratic,0
+Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,DEM,Democratic,0
+Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,DEM,Democratic,0
+Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,DEM,Democratic,0
+Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,DEM,Democratic,0
+Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,DEM,Democratic,0
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,REP,Republican,457
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,REP,Republican,381
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,REP,Republican,460
+Wexford,"City of Manton, Precinct 1",Straight Party,,REP,Republican,170
+Wexford,"Antioch Township, Precinct 1",Straight Party,,REP,Republican,177
+Wexford,"Boon Township, Precinct 1",Straight Party,,REP,Republican,133
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,REP,Republican,306
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,REP,Republican,541
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,REP,Republican,521
+Wexford,"Colfax Township, Precinct 1",Straight Party,,REP,Republican,182
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,REP,Republican,123
+Wexford,"Hanover Township, Precinct 1",Straight Party,,REP,Republican,305
+Wexford,"Haring Township, Precinct 1",Straight Party,,REP,Republican,731
+Wexford,"Henderson Township, Precinct 1",Straight Party,,REP,Republican,45
+Wexford,"Liberty Township, Precinct 1",Straight Party,,REP,Republican,207
+Wexford,"Selma Township, Precinct 1",Straight Party,,REP,Republican,403
+Wexford,"Slagle Township, Precinct 1",Straight Party,,REP,Republican,95
+Wexford,"South Branch Township, Precinct 1",Straight Party,,REP,Republican,77
+Wexford,"Springville Township, Precinct 1",Straight Party,,REP,Republican,318
+Wexford,"Wexford Township, Precinct 1",Straight Party,,REP,Republican,253
+Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,REP,Republican,0
+Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,REP,Republican,0
+Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,REP,Republican,0
+Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,REP,Republican,0
+Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,REP,Republican,0
+Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,REP,Republican,0
+Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,REP,Republican,0
+Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,REP,Republican,0
+Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,REP,Republican,0
+Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,REP,Republican,0
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,LIB,Libertarian,8
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,LIB,Libertarian,4
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,LIB,Libertarian,7
+Wexford,"City of Manton, Precinct 1",Straight Party,,LIB,Libertarian,1
+Wexford,"Antioch Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Wexford,"Boon Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,LIB,Libertarian,4
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Wexford,"Colfax Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Wexford,"Hanover Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Wexford,"Haring Township, Precinct 1",Straight Party,,LIB,Libertarian,8
+Wexford,"Henderson Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Wexford,"Liberty Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Wexford,"Selma Township, Precinct 1",Straight Party,,LIB,Libertarian,4
+Wexford,"Slagle Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Wexford,"South Branch Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Wexford,"Springville Township, Precinct 1",Straight Party,,LIB,Libertarian,7
+Wexford,"Wexford Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,LIB,Libertarian,0
+Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,LIB,Libertarian,0
+Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,LIB,Libertarian,0
+Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,LIB,Libertarian,0
+Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,LIB,Libertarian,0
+Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,LIB,Libertarian,0
+Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,LIB,Libertarian,0
+Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,LIB,Libertarian,0
+Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,LIB,Libertarian,0
+Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,LIB,Libertarian,0
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,UST,U.S. Taxpayers,2
+Wexford,"City of Manton, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Wexford,"Antioch Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Boon Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Wexford,"Colfax Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"Hanover Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"Haring Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,6
+Wexford,"Henderson Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"Liberty Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Wexford,"Selma Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3
+Wexford,"Slagle Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"Springville Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"Wexford Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,WCP,Working Class,5
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,WCP,Working Class,8
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,WCP,Working Class,4
+Wexford,"City of Manton, Precinct 1",Straight Party,,WCP,Working Class,4
+Wexford,"Antioch Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Wexford,"Boon Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,WCP,Working Class,6
+Wexford,"Colfax Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Wexford,"Hanover Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Wexford,"Haring Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Wexford,"Henderson Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Wexford,"Liberty Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Wexford,"Selma Township, Precinct 1",Straight Party,,WCP,Working Class,8
+Wexford,"Slagle Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Wexford,"Springville Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Wexford,"Wexford Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,WCP,Working Class,0
+Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,WCP,Working Class,0
+Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,WCP,Working Class,0
+Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,WCP,Working Class,0
+Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,WCP,Working Class,0
+Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,WCP,Working Class,0
+Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,WCP,Working Class,0
+Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,WCP,Working Class,0
+Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,WCP,Working Class,0
+Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,WCP,Working Class,0
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,GRN,Green,2
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,GRN,Green,0
+Wexford,"City of Manton, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Antioch Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Boon Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Colfax Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Hanover Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Haring Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Henderson Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Liberty Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Selma Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Slagle Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Springville Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Wexford Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,GRN,Green,0
+Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,GRN,Green,0
+Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,GRN,Green,0
+Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,GRN,Green,0
+Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,GRN,Green,0
+Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,GRN,Green,0
+Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,GRN,Green,0
+Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,GRN,Green,0
+Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,GRN,Green,0
+Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,GRN,Green,0
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,NLP,Natural Law,2
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,NLP,Natural Law,0
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,NLP,Natural Law,0
+Wexford,"City of Manton, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Antioch Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Boon Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Colfax Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Hanover Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Haring Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Henderson Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Liberty Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Selma Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Slagle Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Springville Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Wexford Township, Precinct 1",Straight Party,,NLP,Natural Law,2
+Wexford,"Fife Lake Township, Precinct 1 (Grand Traverse City)",Straight Party,,NLP,Natural Law,0
+Wexford,"Grant Township, Precinct 1 (Grand Traverse County)",Straight Party,,NLP,Natural Law,0
+Wexford,"Green Lake Township, Precinct 1 (Grand Traverse County)",Straight Party,,NLP,Natural Law,0
+Wexford,"Mayfield Township, Precinct 1 (Grand Traverse County)",Straight Party,,NLP,Natural Law,0
+Wexford,"Newkirk Township, Precinct 1 (Lake County)",Straight Party,,NLP,Natural Law,0
+Wexford,"Cleon Township, Precinct (Manistee County)",Straight Party,,NLP,Natural Law,0
+Wexford,"Marilla Township, Precinct 1 (Manistee County)",Straight Party,,NLP,Natural Law,0
+Wexford,"Bloomfield Township, Precinct 1 (Manton County)",Straight Party,,NLP,Natural Law,0
+Wexford,"Caldwell Township, Precinct 1 (Missaukee County)",Straight Party,,NLP,Natural Law,0
+Wexford,"Sherman Township, Precinct 1 (Osceola County)",Straight Party,,NLP,Natural Law,0
 Wexford,"City of Cadillac, Precinct 1",Governor,,DEM,Gretchen Whitmer,578
 Wexford,"City of Cadillac, Precinct 2",Governor,,DEM,Gretchen Whitmer,610
 Wexford,"City of Cadillac, Precinct 3",Governor,,DEM,Gretchen Whitmer,664

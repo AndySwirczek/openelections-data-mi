@@ -1,0 +1,296 @@
+county,precinct,office,district,party,candidate,votes
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,9
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,1
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,43
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,4
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,85
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,20
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,71
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,7
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,5
+Luce,"Columbus Township, Precinct 1",U.S. House,1,DEM,Callie Barr,4
+Luce,"Columbus Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,12
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,DEM,Callie Barr,35
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,36
+Luce,"McMillan Township, Precinct 1",U.S. House,1,DEM,Callie Barr,71
+Luce,"McMillan Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,34
+Luce,"Pentland Township, Precinct 1",U.S. House,1,DEM,Callie Barr,41
+Luce,"Pentland Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",State House,108,DEM,Christiana Reynolds,8
+Luce,"Columbus Township, Precinct 1",State House,108,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",State House,108,DEM,Christiana Reynolds,42
+Luce,"Lakefield Township, Precinct 1",State House,108,DEM,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",State House,108,DEM,Christiana Reynolds,98
+Luce,"McMillan Township, Precinct 1",State House,108,DEM,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",State House,108,DEM,Christiana Reynolds,59
+Luce,"Pentland Township, Precinct 1",State House,108,DEM,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,2
+Luce,"Columbus Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,5
+Luce,"Lakefield Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,12
+Luce,"McMillan Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,5
+Luce,"Pentland Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",County Sheriff,,DEM,Write-In,3
+Luce,"Columbus Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",County Sheriff,,DEM,Write-In,4
+Luce,"Lakefield Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",County Sheriff,,DEM,Write-In,13
+Luce,"McMillan Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",County Sheriff,,DEM,Write-In,6
+Luce,"Pentland Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",County Clerk & Register of Deeds,,DEM,Write-In,2
+Luce,"Columbus Township, Precinct 1",County Clerk & Register of Deeds,,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",County Clerk & Register of Deeds,,DEM,Write-In,5
+Luce,"Lakefield Township, Precinct 1",County Clerk & Register of Deeds,,DEM,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",County Clerk & Register of Deeds,,DEM,Write-In,12
+Luce,"McMillan Township, Precinct 1",County Clerk & Register of Deeds,,DEM,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",County Clerk & Register of Deeds,,DEM,Write-In,6
+Luce,"Pentland Township, Precinct 1",County Clerk & Register of Deeds,,DEM,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",County Treasurer,,DEM,Write-In,2
+Luce,"Columbus Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",County Treasurer,,DEM,Write-In,5
+Luce,"Lakefield Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",County Treasurer,,DEM,Write-In,12
+Luce,"McMillan Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",County Treasurer,,DEM,Write-In,5
+Luce,"Pentland Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,252
+Luce,"McMillan Township, Precinct 1",County Commissioner District 1,,DEM,Write-In,4
+Luce,"McMillan Township, Precinct 1",County Commissioner District 1,,DEM,Ballots Cast,102
+Luce,"Pentland Township, Precinct 1",County Commissioner District 1,,DEM,Write-In,2
+Luce,"Pentland Township, Precinct 1",County Commissioner District 1,,DEM,Ballots Cast,31
+Luce,"McMillan Township, Precinct 1",County Commissioner District 2,,DEM,Write-In,6
+Luce,"McMillan Township, Precinct 1",County Commissioner District 2,,DEM,Ballots Cast,154
+Luce,"McMillan Township, Precinct 1",County Commissioner District 3,,DEM,Christine Rathje,25
+Luce,"McMillan Township, Precinct 1",County Commissioner District 3,,DEM,Ballots Cast,112
+Luce,"Pentland Township, Precinct 1",County Commissioner District 3,,DEM,Christine Rathje,14
+Luce,"Pentland Township, Precinct 1",County Commissioner District 3,,DEM,Ballots Cast,68
+Luce,"Lakefield Township, Precinct 1",County Commissioner District 4,,DEM,Ballots Cast,32
+Luce,"Pentland Township, Precinct 1",County Commissioner District 4,,DEM,Write-In,2
+Luce,"Pentland Township, Precinct 1",County Commissioner District 4,,DEM,Ballots Cast,153
+Luce,"Columbus Township, Precinct 1",County Commissioner District 5,,DEM,Write-In,1
+Luce,"Columbus Township, Precinct 1",County Commissioner District 5,,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",County Commissioner District 5,,DEM,Write-In,3
+Luce,"Lakefield Township, Precinct 1",County Commissioner District 5,,DEM,Ballots Cast,177
+Luce,"Columbus Township, Precinct 1",Columbus Township Supervisor,,DEM,Write-In,3
+Luce,"Columbus Township, Precinct 1",Columbus Township Supervisor,,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Supervisor,,DEM,Write-In,2
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Supervisor,,DEM,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",McMillan Township Supervisor,,DEM,Write-In,12
+Luce,"McMillan Township, Precinct 1",McMillan Township Supervisor,,DEM,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",Pentland Township Supervisor,,DEM,Write-In,4
+Luce,"Pentland Township, Precinct 1",Pentland Township Supervisor,,DEM,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",Columbus Township Clerk,,DEM,Write-In,1
+Luce,"Columbus Township, Precinct 1",Columbus Township Clerk,,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Clerk,,DEM,Write-In,2
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Clerk,,DEM,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",McMillan Township Clerk,,DEM,Write-In,12
+Luce,"McMillan Township, Precinct 1",McMillan Township Clerk,,DEM,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",Pentland Township Clerk,,DEM,Write-In,2
+Luce,"Pentland Township, Precinct 1",Pentland Township Clerk,,DEM,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",Columbus Township Treasurer,,DEM,Write-In,1
+Luce,"Columbus Township, Precinct 1",Columbus Township Treasurer,,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Treasurer,,DEM,Write-In,2
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Treasurer,,DEM,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",McMillan Township Treasurer,,DEM,Write-In,12
+Luce,"McMillan Township, Precinct 1",McMillan Township Treasurer,,DEM,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",Pentland Township Treasurer,,DEM,Margaret J. Arneth,61
+Luce,"Pentland Township, Precinct 1",Pentland Township Treasurer,,DEM,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",Columbus Township Trustee,,DEM,Write-In,3
+Luce,"Columbus Township, Precinct 1",Columbus Township Trustee,,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Trustee,,DEM,Write-In,4
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Trustee,,DEM,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",McMillan Township Trustee,,DEM,Write-In,15
+Luce,"McMillan Township, Precinct 1",McMillan Township Trustee,,DEM,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",Pentland Township Trustee,,DEM,Write-In,5
+Luce,"Pentland Township, Precinct 1",Pentland Township Trustee,,DEM,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1","Columbus Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,1
+Luce,"Columbus Township, Precinct 1","Columbus Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1","Lakefield Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,2
+Luce,"Lakefield Township, Precinct 1","Lakefield Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1","McMillan Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,11
+Luce,"McMillan Township, Precinct 1","McMillan Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1","Pentland Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,3
+Luce,"Pentland Township, Precinct 1","Pentland Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,REP,Justin Amash,4
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,23
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,2
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,3
+Luce,"Columbus Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,REP,Justin Amash,14
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,103
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,4
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,17
+Luce,"Lakefield Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,REP,Justin Amash,13
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,138
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,33
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,21
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Luce,"McMillan Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,REP,Justin Amash,20
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,109
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,13
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,13
+Luce,"Pentland Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",U.S. House,1,REP,Jack Bergman,26
+Luce,"Columbus Township, Precinct 1",U.S. House,1,REP,Josh Saul,7
+Luce,"Columbus Township, Precinct 1",U.S. House,1,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,REP,Jack Bergman,123
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,REP,Josh Saul,17
+Luce,"Lakefield Township, Precinct 1",U.S. House,1,REP,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",U.S. House,1,REP,Jack Bergman,191
+Luce,"McMillan Township, Precinct 1",U.S. House,1,REP,Josh Saul,41
+Luce,"McMillan Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Luce,"McMillan Township, Precinct 1",U.S. House,1,REP,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",U.S. House,1,REP,Jack Bergman,138
+Luce,"Pentland Township, Precinct 1",U.S. House,1,REP,Josh Saul,24
+Luce,"Pentland Township, Precinct 1",U.S. House,1,REP,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",State House,108,REP,David Prestin,29
+Luce,"Columbus Township, Precinct 1",State House,108,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",State House,108,REP,David Prestin,129
+Luce,"Lakefield Township, Precinct 1",State House,108,REP,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",State House,108,REP,David Prestin,209
+Luce,"McMillan Township, Precinct 1",State House,108,REP,Write-In,1
+Luce,"McMillan Township, Precinct 1",State House,108,REP,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",State House,108,REP,David Prestin,148
+Luce,"Pentland Township, Precinct 1",State House,108,REP,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",County Prosecuting Attorney,,REP,Cameron S. Harwell,31
+Luce,"Columbus Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",County Prosecuting Attorney,,REP,Cameron S. Harwell,125
+Luce,"Lakefield Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",County Prosecuting Attorney,,REP,Cameron S. Harwell,197
+Luce,"McMillan Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,3
+Luce,"McMillan Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",County Prosecuting Attorney,,REP,Cameron S. Harwell,132
+Luce,"Pentland Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,2
+Luce,"Pentland Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",County Sheriff,,REP,Eric L. Gravelle,33
+Luce,"Columbus Township, Precinct 1",County Sheriff,,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",County Sheriff,,REP,Eric L. Gravelle,139
+Luce,"Lakefield Township, Precinct 1",County Sheriff,,REP,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",County Sheriff,,REP,Eric L. Gravelle,219
+Luce,"McMillan Township, Precinct 1",County Sheriff,,REP,Write-In,3
+Luce,"McMillan Township, Precinct 1",County Sheriff,,REP,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",County Sheriff,,REP,Eric L. Gravelle,148
+Luce,"Pentland Township, Precinct 1",County Sheriff,,REP,Write-In,1
+Luce,"Pentland Township, Precinct 1",County Sheriff,,REP,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",County Clerk & Register of Deeds,,REP,Sharon J. Price,32
+Luce,"Columbus Township, Precinct 1",County Clerk & Register of Deeds,,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",County Clerk & Register of Deeds,,REP,Sharon J. Price,133
+Luce,"Lakefield Township, Precinct 1",County Clerk & Register of Deeds,,REP,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",County Clerk & Register of Deeds,,REP,Sharon J. Price,218
+Luce,"McMillan Township, Precinct 1",County Clerk & Register of Deeds,,REP,Write-In,1
+Luce,"McMillan Township, Precinct 1",County Clerk & Register of Deeds,,REP,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",County Clerk & Register of Deeds,,REP,Sharon J. Price,147
+Luce,"Pentland Township, Precinct 1",County Clerk & Register of Deeds,,REP,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",County Treasurer,,REP,Belinda Bridges,28
+Luce,"Columbus Township, Precinct 1",County Treasurer,,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",County Treasurer,,REP,Belinda Bridges,128
+Luce,"Lakefield Township, Precinct 1",County Treasurer,,REP,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",County Treasurer,,REP,Belinda Bridges,216
+Luce,"McMillan Township, Precinct 1",County Treasurer,,REP,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",County Treasurer,,REP,Belinda Bridges,142
+Luce,"Pentland Township, Precinct 1",County Treasurer,,REP,Ballots Cast,252
+Luce,"McMillan Township, Precinct 1",County Commissioner District 1,,REP,Nancy Morrison,64
+Luce,"McMillan Township, Precinct 1",County Commissioner District 1,,REP,Ballots Cast,102
+Luce,"Pentland Township, Precinct 1",County Commissioner District 1,,REP,Nancy Morrison,17
+Luce,"Pentland Township, Precinct 1",County Commissioner District 1,,REP,Ballots Cast,31
+Luce,"McMillan Township, Precinct 1",County Commissioner District 2,,REP,Michelle Clark,78
+Luce,"McMillan Township, Precinct 1",County Commissioner District 2,,REP,Write-In,2
+Luce,"McMillan Township, Precinct 1",County Commissioner District 2,,REP,Ballots Cast,154
+Luce,"McMillan Township, Precinct 1",County Commissioner District 3,,REP,Write-In,10
+Luce,"McMillan Township, Precinct 1",County Commissioner District 3,,REP,Ballots Cast,112
+Luce,"Pentland Township, Precinct 1",County Commissioner District 3,,REP,Write-In,8
+Luce,"Pentland Township, Precinct 1",County Commissioner District 3,,REP,Ballots Cast,68
+Luce,"Lakefield Township, Precinct 1",County Commissioner District 4,,REP,Anthony Kitzman,19
+Luce,"Lakefield Township, Precinct 1",County Commissioner District 4,,REP,Ballots Cast,32
+Luce,"Pentland Township, Precinct 1",County Commissioner District 4,,REP,Anthony Kitzman,76
+Luce,"Pentland Township, Precinct 1",County Commissioner District 4,,REP,Ballots Cast,153
+Luce,"Columbus Township, Precinct 1",County Commissioner District 5,,REP,Write-In,2
+Luce,"Columbus Township, Precinct 1",County Commissioner District 5,,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",County Commissioner District 5,,REP,Write-In,12
+Luce,"Lakefield Township, Precinct 1",County Commissioner District 5,,REP,Ballots Cast,177
+Luce,"Columbus Township, Precinct 1",Columbus Township Supervisor,,REP,Roger Auble,31
+Luce,"Columbus Township, Precinct 1",Columbus Township Supervisor,,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Supervisor,,REP,Tom Dennis,125
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Supervisor,,REP,Write-In,1
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Supervisor,,REP,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",McMillan Township Supervisor,,REP,Arthur F. Schultz,207
+Luce,"McMillan Township, Precinct 1",McMillan Township Supervisor,,REP,Write-In,4
+Luce,"McMillan Township, Precinct 1",McMillan Township Supervisor,,REP,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",Pentland Township Supervisor,,REP,Janet K. Maki,128
+Luce,"Pentland Township, Precinct 1",Pentland Township Supervisor,,REP,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",Columbus Township Clerk,,REP,Jeff Anderson,30
+Luce,"Columbus Township, Precinct 1",Columbus Township Clerk,,REP,Write-In,1
+Luce,"Columbus Township, Precinct 1",Columbus Township Clerk,,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Clerk,,REP,Tammy Immel,132
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Clerk,,REP,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",McMillan Township Clerk,,REP,Marie McNarnara,220
+Luce,"McMillan Township, Precinct 1",McMillan Township Clerk,,REP,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",Pentland Township Clerk,,REP,Gregory Rathje,129
+Luce,"Pentland Township, Precinct 1",Pentland Township Clerk,,REP,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",Columbus Township Treasurer,,REP,Write-In,3
+Luce,"Columbus Township, Precinct 1",Columbus Township Treasurer,,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Treasurer,,REP,Denise L. Taylor,133
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Treasurer,,REP,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",McMillan Township Treasurer,,REP,Charles Medelis,196
+Luce,"McMillan Township, Precinct 1",McMillan Township Treasurer,,REP,Write-In,2
+Luce,"McMillan Township, Precinct 1",McMillan Township Treasurer,,REP,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",Pentland Township Treasurer,,REP,Write-In,10
+Luce,"Pentland Township, Precinct 1",Pentland Township Treasurer,,REP,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",Columbus Township Trustee,,REP,Write-In,4
+Luce,"Columbus Township, Precinct 1",Columbus Township Trustee,,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Trustee,,REP,Nicholas Wheeler,105
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Trustee,,REP,Todd Jay Plesscher,123
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Trustee,,REP,Write-In,1
+Luce,"Lakefield Township, Precinct 1",Lakefield Township Trustee,,REP,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",McMillan Township Trustee,,REP,Mark Blakely,79
+Luce,"McMillan Township, Precinct 1",McMillan Township Trustee,,REP,Matthew Perry,104
+Luce,"McMillan Township, Precinct 1",McMillan Township Trustee,,REP,Teddy Nutkins,114
+Luce,"McMillan Township, Precinct 1",McMillan Township Trustee,,REP,Thomas Rahilly,103
+Luce,"McMillan Township, Precinct 1",McMillan Township Trustee,,REP,Write-In,2
+Luce,"McMillan Township, Precinct 1",McMillan Township Trustee,,REP,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",Pentland Township Trustee,,REP,Jonathan Brown,109
+Luce,"Pentland Township, Precinct 1",Pentland Township Trustee,,REP,Roxanna Pentland Transit,99
+Luce,"Pentland Township, Precinct 1",Pentland Township Trustee,,REP,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1","Columbus Township, Precinct 1 Delegate to County Convention",,REP,Write-In,1
+Luce,"Columbus Township, Precinct 1","Columbus Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1","Lakefield Township, Precinct 1 Delegate to County Convention",,REP,Write-In,10
+Luce,"Lakefield Township, Precinct 1","Lakefield Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1","McMillan Township, Precinct 1 Delegate to County Convention",,REP,Write-In,15
+Luce,"McMillan Township, Precinct 1","McMillan Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1","Pentland Township, Precinct 1 Delegate to County Convention",,REP,Write-In,13
+Luce,"Pentland Township, Precinct 1","Pentland Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",Luce County Proposition A,,,No,14
+Luce,"Columbus Township, Precinct 1",Luce County Proposition A,,,Yes,26
+Luce,"Columbus Township, Precinct 1",Luce County Proposition A,,,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",Luce County Proposition A,,,No,79
+Luce,"Lakefield Township, Precinct 1",Luce County Proposition A,,,Yes,105
+Luce,"Lakefield Township, Precinct 1",Luce County Proposition A,,,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",Luce County Proposition A,,,No,88
+Luce,"McMillan Township, Precinct 1",Luce County Proposition A,,,Yes,254
+Luce,"McMillan Township, Precinct 1",Luce County Proposition A,,,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",Luce County Proposition A,,,No,63
+Luce,"Pentland Township, Precinct 1",Luce County Proposition A,,,Yes,172
+Luce,"Pentland Township, Precinct 1",Luce County Proposition A,,,Ballots Cast,252
+Luce,"Columbus Township, Precinct 1",Luce County Proposition B,,,No,8
+Luce,"Columbus Township, Precinct 1",Luce County Proposition B,,,Yes,32
+Luce,"Columbus Township, Precinct 1",Luce County Proposition B,,,Ballots Cast,48
+Luce,"Lakefield Township, Precinct 1",Luce County Proposition B,,,No,64
+Luce,"Lakefield Township, Precinct 1",Luce County Proposition B,,,Yes,121
+Luce,"Lakefield Township, Precinct 1",Luce County Proposition B,,,Ballots Cast,209
+Luce,"McMillan Township, Precinct 1",Luce County Proposition B,,,No,78
+Luce,"McMillan Township, Precinct 1",Luce County Proposition B,,,Yes,266
+Luce,"McMillan Township, Precinct 1",Luce County Proposition B,,,Ballots Cast,368
+Luce,"Pentland Township, Precinct 1",Luce County Proposition B,,,No,53
+Luce,"Pentland Township, Precinct 1",Luce County Proposition B,,,Yes,181
+Luce,"Pentland Township, Precinct 1",Luce County Proposition B,,,Ballots Cast,252

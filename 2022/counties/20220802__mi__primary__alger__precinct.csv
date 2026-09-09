@@ -1,0 +1,145 @@
+county,precinct,office,district,party,candidate,votes
+Alger,"AuTrain Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,123
+Alger,"AuTrain Township, Precinct 1",Governor,,REP,Garrett Soldano,42
+Alger,"AuTrain Township, Precinct 1",Governor,,REP,James Elmer Craig,1
+Alger,"AuTrain Township, Precinct 1",Governor,,REP,Kevin Rinke,65
+Alger,"AuTrain Township, Precinct 1",Governor,,REP,Ralph Rebandt,9
+Alger,"AuTrain Township, Precinct 1",Governor,,REP,Ryan D. Kelley,38
+Alger,"AuTrain Township, Precinct 1",Governor,,REP,Tudor M. Dixon,69
+Alger,"AuTrain Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,125
+Alger,"AuTrain Township, Precinct 1",U.S. House,1,REP,Jack Bergman,204
+Alger,"AuTrain Township, Precinct 1",State Senate,38,DEM,John Braamse,123
+Alger,"AuTrain Township, Precinct 1",State Senate,38,REP,Edward McBroom,177
+Alger,"AuTrain Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,27
+Alger,"AuTrain Township, Precinct 1",State Senate,38,REP,Matthew Furyk,17
+Alger,"AuTrain Township, Precinct 1",State House,109,DEM,Jenn Hill,70
+Alger,"AuTrain Township, Precinct 1",State House,109,DEM,Joe Boogren,53
+Alger,"AuTrain Township, Precinct 1",State House,109,REP,Melody Wagner,128
+Alger,"AuTrain Township, Precinct 1",State House,109,REP,Ron Gray,86
+Alger,"Burt Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,79
+Alger,"Burt Township, Precinct 1",Governor,,REP,Garrett Soldano,27
+Alger,"Burt Township, Precinct 1",Governor,,REP,Kevin Rinke,36
+Alger,"Burt Township, Precinct 1",Governor,,REP,Ralph Rebandt,6
+Alger,"Burt Township, Precinct 1",Governor,,REP,Ryan D. Kelley,20
+Alger,"Burt Township, Precinct 1",Governor,,REP,Tudor M. Dixon,47
+Alger,"Burt Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,78
+Alger,"Burt Township, Precinct 1",U.S. House,1,REP,Jack Bergman,130
+Alger,"Burt Township, Precinct 1",State Senate,38,DEM,John Braamse,76
+Alger,"Burt Township, Precinct 1",State Senate,38,REP,Edward McBroom,95
+Alger,"Burt Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,25
+Alger,"Burt Township, Precinct 1",State Senate,38,REP,Matthew Furyk,14
+Alger,"Burt Township, Precinct 1",State House,109,DEM,Jenn Hill,63
+Alger,"Burt Township, Precinct 1",State House,109,DEM,Joe Boogren,12
+Alger,"Burt Township, Precinct 1",State House,109,REP,Melody Wagner,91
+Alger,"Burt Township, Precinct 1",State House,109,REP,Ron Gray,39
+Alger,"City of Munising, Precinct 1",Governor,,DEM,Gretchen Whitmer,202
+Alger,"City of Munising, Precinct 1",Governor,,REP,Garrett Soldano,25
+Alger,"City of Munising, Precinct 1",Governor,,REP,James Elmer Craig,1
+Alger,"City of Munising, Precinct 1",Governor,,REP,Kevin Rinke,37
+Alger,"City of Munising, Precinct 1",Governor,,REP,Ralph Rebandt,5
+Alger,"City of Munising, Precinct 1",Governor,,REP,Ryan D. Kelley,29
+Alger,"City of Munising, Precinct 1",Governor,,REP,Tudor M. Dixon,77
+Alger,"City of Munising, Precinct 1",U.S. House,1,DEM,Bob Lorinser,197
+Alger,"City of Munising, Precinct 1",U.S. House,1,REP,Jack Bergman,163
+Alger,"City of Munising, Precinct 1",State Senate,38,DEM,John Braamse,195
+Alger,"City of Munising, Precinct 1",State Senate,38,REP,Edward McBroom,132
+Alger,"City of Munising, Precinct 1",State Senate,38,REP,Kayla Wikstrom,24
+Alger,"City of Munising, Precinct 1",State Senate,38,REP,Matthew Furyk,17
+Alger,"City of Munising, Precinct 1",State House,109,DEM,Jenn Hill,129
+Alger,"City of Munising, Precinct 1",State House,109,DEM,Joe Boogren,77
+Alger,"City of Munising, Precinct 1",State House,109,REP,Melody Wagner,96
+Alger,"City of Munising, Precinct 1",State House,109,REP,Ron Gray,67
+Alger,"Grand Island Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,11
+Alger,"Grand Island Township, Precinct 1",Governor,,REP,Garrett Soldano,1
+Alger,"Grand Island Township, Precinct 1",Governor,,REP,Kevin Rinke,2
+Alger,"Grand Island Township, Precinct 1",Governor,,REP,Ralph Rebandt,1
+Alger,"Grand Island Township, Precinct 1",Governor,,REP,Ryan D. Kelley,2
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,11
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,REP,Jack Bergman,6
+Alger,"Grand Island Township, Precinct 1",State Senate,38,DEM,John Braamse,12
+Alger,"Grand Island Township, Precinct 1",State Senate,38,REP,Edward McBroom,5
+Alger,"Grand Island Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,1
+Alger,"Grand Island Township, Precinct 1",State House,109,DEM,Jenn Hill,9
+Alger,"Grand Island Township, Precinct 1",State House,109,DEM,Joe Boogren,3
+Alger,"Grand Island Township, Precinct 1",State House,109,REP,Melody Wagner,6
+Alger,"Limestone Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,47
+Alger,"Limestone Township, Precinct 1",Governor,,REP,Garrett Soldano,9
+Alger,"Limestone Township, Precinct 1",Governor,,REP,Kevin Rinke,10
+Alger,"Limestone Township, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Alger,"Limestone Township, Precinct 1",Governor,,REP,Ryan D. Kelley,10
+Alger,"Limestone Township, Precinct 1",Governor,,REP,Tudor M. Dixon,27
+Alger,"Limestone Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,47
+Alger,"Limestone Township, Precinct 1",U.S. House,1,REP,Jack Bergman,59
+Alger,"Limestone Township, Precinct 1",State Senate,38,DEM,John Braamse,47
+Alger,"Limestone Township, Precinct 1",State Senate,38,REP,Edward McBroom,47
+Alger,"Limestone Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,12
+Alger,"Limestone Township, Precinct 1",State Senate,38,REP,Matthew Furyk,3
+Alger,"Limestone Township, Precinct 1",State House,109,DEM,Jenn Hill,22
+Alger,"Limestone Township, Precinct 1",State House,109,DEM,Joe Boogren,26
+Alger,"Limestone Township, Precinct 1",State House,109,REP,Melody Wagner,30
+Alger,"Limestone Township, Precinct 1",State House,109,REP,Ron Gray,30
+Alger,"Mathias Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,49
+Alger,"Mathias Township, Precinct 1",Governor,,REP,Garrett Soldano,10
+Alger,"Mathias Township, Precinct 1",Governor,,REP,Kevin Rinke,11
+Alger,"Mathias Township, Precinct 1",Governor,,REP,Ralph Rebandt,2
+Alger,"Mathias Township, Precinct 1",Governor,,REP,Ryan D. Kelley,10
+Alger,"Mathias Township, Precinct 1",Governor,,REP,Tudor M. Dixon,27
+Alger,"Mathias Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,48
+Alger,"Mathias Township, Precinct 1",U.S. House,1,REP,Jack Bergman,54
+Alger,"Mathias Township, Precinct 1",State Senate,38,DEM,John Braamse,47
+Alger,"Mathias Township, Precinct 1",State Senate,38,REP,Edward McBroom,48
+Alger,"Mathias Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,9
+Alger,"Mathias Township, Precinct 1",State Senate,38,REP,Matthew Furyk,2
+Alger,"Mathias Township, Precinct 1",State House,109,DEM,Jenn Hill,25
+Alger,"Mathias Township, Precinct 1",State House,109,DEM,Joe Boogren,22
+Alger,"Mathias Township, Precinct 1",State House,109,REP,Melody Wagner,46
+Alger,"Mathias Township, Precinct 1",State House,109,REP,Ron Gray,13
+Alger,"Munising Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,156
+Alger,"Munising Township, Precinct 1",Governor,,REP,Garrett Soldano,41
+Alger,"Munising Township, Precinct 1",Governor,,REP,James Elmer Craig,2
+Alger,"Munising Township, Precinct 1",Governor,,REP,Kevin Rinke,55
+Alger,"Munising Township, Precinct 1",Governor,,REP,Ralph Rebandt,14
+Alger,"Munising Township, Precinct 1",Governor,,REP,Ryan D. Kelley,66
+Alger,"Munising Township, Precinct 1",Governor,,REP,Tudor M. Dixon,131
+Alger,"Munising Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,153
+Alger,"Munising Township, Precinct 1",U.S. House,1,REP,Jack Bergman,289
+Alger,"Munising Township, Precinct 1",State Senate,38,DEM,John Braamse,150
+Alger,"Munising Township, Precinct 1",State Senate,38,REP,Edward McBroom,246
+Alger,"Munising Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,42
+Alger,"Munising Township, Precinct 1",State Senate,38,REP,Matthew Furyk,21
+Alger,"Munising Township, Precinct 1",State House,109,DEM,Jenn Hill,81
+Alger,"Munising Township, Precinct 1",State House,109,DEM,Joe Boogren,72
+Alger,"Munising Township, Precinct 1",State House,109,REP,Melody Wagner,165
+Alger,"Munising Township, Precinct 1",State House,109,REP,Ron Gray,137
+Alger,"Onota Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,68
+Alger,"Onota Township, Precinct 1",Governor,,REP,Garrett Soldano,14
+Alger,"Onota Township, Precinct 1",Governor,,REP,Kevin Rinke,19
+Alger,"Onota Township, Precinct 1",Governor,,REP,Ralph Rebandt,4
+Alger,"Onota Township, Precinct 1",Governor,,REP,Ryan D. Kelley,11
+Alger,"Onota Township, Precinct 1",Governor,,REP,Tudor M. Dixon,36
+Alger,"Onota Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,68
+Alger,"Onota Township, Precinct 1",U.S. House,1,REP,Jack Bergman,79
+Alger,"Onota Township, Precinct 1",State Senate,38,DEM,John Braamse,68
+Alger,"Onota Township, Precinct 1",State Senate,38,REP,Edward McBroom,63
+Alger,"Onota Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,12
+Alger,"Onota Township, Precinct 1",State Senate,38,REP,Matthew Furyk,6
+Alger,"Onota Township, Precinct 1",State House,109,DEM,Jenn Hill,43
+Alger,"Onota Township, Precinct 1",State House,109,DEM,Joe Boogren,23
+Alger,"Onota Township, Precinct 1",State House,109,REP,Melody Wagner,58
+Alger,"Onota Township, Precinct 1",State House,109,REP,Ron Gray,26
+Alger,"Rock River Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,141
+Alger,"Rock River Township, Precinct 1",Governor,,REP,Garrett Soldano,31
+Alger,"Rock River Township, Precinct 1",Governor,,REP,Kevin Rinke,28
+Alger,"Rock River Township, Precinct 1",Governor,,REP,Ralph Rebandt,7
+Alger,"Rock River Township, Precinct 1",Governor,,REP,Ryan D. Kelley,28
+Alger,"Rock River Township, Precinct 1",Governor,,REP,Tudor M. Dixon,72
+Alger,"Rock River Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,139
+Alger,"Rock River Township, Precinct 1",U.S. House,1,REP,Jack Bergman,151
+Alger,"Rock River Township, Precinct 1",State Senate,38,DEM,John Braamse,138
+Alger,"Rock River Township, Precinct 1",State Senate,38,REP,Edward McBroom,129
+Alger,"Rock River Township, Precinct 1",State Senate,38,REP,Kayla Wikstrom,28
+Alger,"Rock River Township, Precinct 1",State Senate,38,REP,Matthew Furyk,8
+Alger,"Rock River Township, Precinct 1",State House,109,DEM,Jenn Hill,86
+Alger,"Rock River Township, Precinct 1",State House,109,DEM,Joe Boogren,56
+Alger,"Rock River Township, Precinct 1",State House,109,REP,Melody Wagner,109
+Alger,"Rock River Township, Precinct 1",State House,109,REP,Ron Gray,56

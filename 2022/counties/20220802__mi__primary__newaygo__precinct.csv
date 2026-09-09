@@ -1,0 +1,617 @@
+county,precinct,office,district,party,candidate,votes
+Newaygo,Ashland Township Precinct 1,Governor,,DEM,Gretchen Whitmer,101
+Newaygo,Ashland Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Ashland Township Precinct 1,Governor,,REP,Garrett Soldano,99
+Newaygo,Ashland Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Ashland Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Ashland Township Precinct 1,Governor,,REP,Kevin Rinke,55
+Newaygo,Ashland Township Precinct 1,Governor,,REP,Ralph Rebandt,17
+Newaygo,Ashland Township Precinct 1,Governor,,REP,Ryan D. Kelley,160
+Newaygo,Ashland Township Precinct 1,Governor,,REP,Tudor M. Dixon,155
+Newaygo,Ashland Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,93
+Newaygo,Ashland Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Ashland Township Precinct 1,U.S. House,2,REP,John Moolenaar,261
+Newaygo,Ashland Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,198
+Newaygo,Ashland Township Precinct 1,U.S. House,2,REP,Write-In,6
+Newaygo,Ashland Township Precinct 1,State House,101,DEM,Amanda Siggins,94
+Newaygo,Ashland Township Precinct 1,State House,101,REP,Chad Pierce,32
+Newaygo,Ashland Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,127
+Newaygo,Ashland Township Precinct 1,State House,101,REP,Joseph D. Fox,192
+Newaygo,Ashland Township Precinct 1,State House,101,REP,Kelly J. Smith,117
+Newaygo,Ashland Township Precinct 1,State House,101,REP,Write-In,1
+Newaygo,Barton Township Precinct 1,Governor,,DEM,Gretchen Whitmer,28
+Newaygo,Barton Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Barton Township Precinct 1,Governor,,REP,Garrett Soldano,31
+Newaygo,Barton Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Barton Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Barton Township Precinct 1,Governor,,REP,Kevin Rinke,42
+Newaygo,Barton Township Precinct 1,Governor,,REP,Ralph Rebandt,2
+Newaygo,Barton Township Precinct 1,Governor,,REP,Ryan D. Kelley,21
+Newaygo,Barton Township Precinct 1,Governor,,REP,Tudor M. Dixon,41
+Newaygo,Barton Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,26
+Newaygo,Barton Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Barton Township Precinct 1,U.S. House,2,REP,John Moolenaar,102
+Newaygo,Barton Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,35
+Newaygo,Barton Township Precinct 1,State House,101,DEM,Amanda Siggins,25
+Newaygo,Barton Township Precinct 1,State House,101,REP,Chad Pierce,11
+Newaygo,Barton Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,44
+Newaygo,Barton Township Precinct 1,State House,101,REP,Joseph D. Fox,23
+Newaygo,Barton Township Precinct 1,State House,101,REP,Kelly J. Smith,47
+Newaygo,Beaver Township Precinct 1,Governor,,DEM,Gretchen Whitmer,28
+Newaygo,Beaver Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Beaver Township Precinct 1,Governor,,REP,Garrett Soldano,12
+Newaygo,Beaver Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Beaver Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Beaver Township Precinct 1,Governor,,REP,Kevin Rinke,13
+Newaygo,Beaver Township Precinct 1,Governor,,REP,Ralph Rebandt,2
+Newaygo,Beaver Township Precinct 1,Governor,,REP,Ryan D. Kelley,24
+Newaygo,Beaver Township Precinct 1,Governor,,REP,Tudor M. Dixon,30
+Newaygo,Beaver Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,24
+Newaygo,Beaver Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Beaver Township Precinct 1,U.S. House,2,REP,John Moolenaar,45
+Newaygo,Beaver Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,34
+Newaygo,Beaver Township Precinct 1,State House,101,DEM,Amanda Siggins,24
+Newaygo,Beaver Township Precinct 1,State House,101,REP,Chad Pierce,3
+Newaygo,Beaver Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,23
+Newaygo,Beaver Township Precinct 1,State House,101,REP,Joseph D. Fox,28
+Newaygo,Beaver Township Precinct 1,State House,101,REP,Kelly J. Smith,28
+Newaygo,Big Prairie Township Precinct 1,Governor,,DEM,Gretchen Whitmer,78
+Newaygo,Big Prairie Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Big Prairie Township Precinct 1,Governor,,REP,Garrett Soldano,63
+Newaygo,Big Prairie Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Big Prairie Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Big Prairie Township Precinct 1,Governor,,REP,Kevin Rinke,56
+Newaygo,Big Prairie Township Precinct 1,Governor,,REP,Ralph Rebandt,2
+Newaygo,Big Prairie Township Precinct 1,Governor,,REP,Ryan D. Kelley,94
+Newaygo,Big Prairie Township Precinct 1,Governor,,REP,Tudor M. Dixon,102
+Newaygo,Big Prairie Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,76
+Newaygo,Big Prairie Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Big Prairie Township Precinct 1,U.S. House,2,REP,John Moolenaar,178
+Newaygo,Big Prairie Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,119
+Newaygo,Big Prairie Township Precinct 1,U.S. House,2,REP,Write-In,4
+Newaygo,Big Prairie Township Precinct 1,State House,101,DEM,Amanda Siggins,78
+Newaygo,Big Prairie Township Precinct 1,State House,101,REP,Chad Pierce,19
+Newaygo,Big Prairie Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,62
+Newaygo,Big Prairie Township Precinct 1,State House,101,REP,Joseph D. Fox,119
+Newaygo,Big Prairie Township Precinct 1,State House,101,REP,Kelly J. Smith,97
+Newaygo,Big Prairie Township Precinct 1,State House,101,REP,Write-In,6
+Newaygo,Bridgeton Township Precinct 1,Governor,,DEM,Gretchen Whitmer,60
+Newaygo,Bridgeton Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Bridgeton Township Precinct 1,Governor,,REP,Garrett Soldano,82
+Newaygo,Bridgeton Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Bridgeton Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Bridgeton Township Precinct 1,Governor,,REP,Kevin Rinke,38
+Newaygo,Bridgeton Township Precinct 1,Governor,,REP,Ralph Rebandt,13
+Newaygo,Bridgeton Township Precinct 1,Governor,,REP,Ryan D. Kelley,81
+Newaygo,Bridgeton Township Precinct 1,Governor,,REP,Tudor M. Dixon,116
+Newaygo,Bridgeton Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,60
+Newaygo,Bridgeton Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Bridgeton Township Precinct 1,U.S. House,2,REP,John Moolenaar,178
+Newaygo,Bridgeton Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,139
+Newaygo,Bridgeton Township Precinct 1,U.S. House,2,REP,Write-In,6
+Newaygo,Bridgeton Township Precinct 1,State House,101,DEM,Amanda Siggins,60
+Newaygo,Bridgeton Township Precinct 1,State House,101,REP,Chad Pierce,39
+Newaygo,Bridgeton Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,128
+Newaygo,Bridgeton Township Precinct 1,State House,101,REP,Joseph D. Fox,71
+Newaygo,Bridgeton Township Precinct 1,State House,101,REP,Kelly J. Smith,81
+Newaygo,Bridgeton Township Precinct 1,State House,101,REP,Write-In,5
+Newaygo,Brooks Township Precinct 1,Governor,,DEM,Gretchen Whitmer,49
+Newaygo,Brooks Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Brooks Township Precinct 1,Governor,,REP,Garrett Soldano,52
+Newaygo,Brooks Township Precinct 1,Governor,,REP,James Elmer Craig,1
+Newaygo,Brooks Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Brooks Township Precinct 1,Governor,,REP,Kevin Rinke,39
+Newaygo,Brooks Township Precinct 1,Governor,,REP,Ralph Rebandt,5
+Newaygo,Brooks Township Precinct 1,Governor,,REP,Ryan D. Kelley,71
+Newaygo,Brooks Township Precinct 1,Governor,,REP,Tudor M. Dixon,102
+Newaygo,Brooks Township Precinct 1,Governor,,REP,Write-In,1
+Newaygo,Brooks Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,48
+Newaygo,Brooks Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Brooks Township Precinct 1,U.S. House,2,REP,John Moolenaar,172
+Newaygo,Brooks Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,93
+Newaygo,Brooks Township Precinct 1,State House,101,DEM,Amanda Siggins,47
+Newaygo,Brooks Township Precinct 1,State House,101,REP,Chad Pierce,15
+Newaygo,Brooks Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,73
+Newaygo,Brooks Township Precinct 1,State House,101,REP,Joseph D. Fox,89
+Newaygo,Brooks Township Precinct 1,State House,101,REP,Kelly J. Smith,87
+Newaygo,Brooks Township Precinct 1,State House,101,REP,Write-In,1
+Newaygo,Brooks Township Precinct 2,Governor,,DEM,Gretchen Whitmer,97
+Newaygo,Brooks Township Precinct 2,Governor,,DEM,Write-In,1
+Newaygo,Brooks Township Precinct 2,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Brooks Township Precinct 2,Governor,,REP,Garrett Soldano,75
+Newaygo,Brooks Township Precinct 2,Governor,,REP,James Elmer Craig,0
+Newaygo,Brooks Township Precinct 2,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Brooks Township Precinct 2,Governor,,REP,Kevin Rinke,76
+Newaygo,Brooks Township Precinct 2,Governor,,REP,Ralph Rebandt,16
+Newaygo,Brooks Township Precinct 2,Governor,,REP,Ryan D. Kelley,174
+Newaygo,Brooks Township Precinct 2,Governor,,REP,Tudor M. Dixon,156
+Newaygo,Brooks Township Precinct 2,U.S. House,2,DEM,Jerry Hilliard,94
+Newaygo,Brooks Township Precinct 2,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Brooks Township Precinct 2,U.S. House,2,REP,John Moolenaar,282
+Newaygo,Brooks Township Precinct 2,U.S. House,2,REP,Thomas J. Norton,200
+Newaygo,Brooks Township Precinct 2,U.S. House,2,REP,Write-In,4
+Newaygo,Brooks Township Precinct 2,State House,101,DEM,Amanda Siggins,96
+Newaygo,Brooks Township Precinct 2,State House,101,REP,Chad Pierce,31
+Newaygo,Brooks Township Precinct 2,State House,101,REP,Diane J. Schindlbeck,106
+Newaygo,Brooks Township Precinct 2,State House,101,REP,Joseph D. Fox,202
+Newaygo,Brooks Township Precinct 2,State House,101,REP,Kelly J. Smith,155
+Newaygo,Brooks Township Precinct 2,State House,101,REP,Write-In,1
+Newaygo,City of Fremont Precinct 1,Governor,,DEM,Gretchen Whitmer,130
+Newaygo,City of Fremont Precinct 1,Governor,,DEM,Write-In,1
+Newaygo,City of Fremont Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,City of Fremont Precinct 1,Governor,,REP,Garrett Soldano,79
+Newaygo,City of Fremont Precinct 1,Governor,,REP,James Elmer Craig,1
+Newaygo,City of Fremont Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,City of Fremont Precinct 1,Governor,,REP,Kevin Rinke,90
+Newaygo,City of Fremont Precinct 1,Governor,,REP,Ralph Rebandt,23
+Newaygo,City of Fremont Precinct 1,Governor,,REP,Ryan D. Kelley,106
+Newaygo,City of Fremont Precinct 1,Governor,,REP,Tudor M. Dixon,162
+Newaygo,City of Fremont Precinct 1,Governor,,REP,Write-In,5
+Newaygo,City of Fremont Precinct 1,U.S. House,2,DEM,Jerry Hilliard,125
+Newaygo,City of Fremont Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,City of Fremont Precinct 1,U.S. House,2,REP,John Moolenaar,316
+Newaygo,City of Fremont Precinct 1,U.S. House,2,REP,Thomas J. Norton,131
+Newaygo,City of Fremont Precinct 1,U.S. House,2,REP,Write-In,8
+Newaygo,City of Fremont Precinct 1,State House,101,DEM,Amanda Siggins,124
+Newaygo,City of Fremont Precinct 1,State House,101,REP,Chad Pierce,24
+Newaygo,City of Fremont Precinct 1,State House,101,REP,Diane J. Schindlbeck,110
+Newaygo,City of Fremont Precinct 1,State House,101,REP,Joseph D. Fox,167
+Newaygo,City of Fremont Precinct 1,State House,101,REP,Kelly J. Smith,170
+Newaygo,City of Fremont Precinct 1,State House,101,REP,Write-In,2
+Newaygo,City of Fremont Precinct 2,Governor,,DEM,Gretchen Whitmer,93
+Newaygo,City of Fremont Precinct 2,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,City of Fremont Precinct 2,Governor,,REP,Garrett Soldano,79
+Newaygo,City of Fremont Precinct 2,Governor,,REP,James Elmer Craig,0
+Newaygo,City of Fremont Precinct 2,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,City of Fremont Precinct 2,Governor,,REP,Kevin Rinke,56
+Newaygo,City of Fremont Precinct 2,Governor,,REP,Ralph Rebandt,21
+Newaygo,City of Fremont Precinct 2,Governor,,REP,Ryan D. Kelley,97
+Newaygo,City of Fremont Precinct 2,Governor,,REP,Tudor M. Dixon,115
+Newaygo,City of Fremont Precinct 2,U.S. House,2,DEM,Jerry Hilliard,87
+Newaygo,City of Fremont Precinct 2,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,City of Fremont Precinct 2,U.S. House,2,REP,John Moolenaar,256
+Newaygo,City of Fremont Precinct 2,U.S. House,2,REP,Thomas J. Norton,110
+Newaygo,City of Fremont Precinct 2,U.S. House,2,REP,Write-In,2
+Newaygo,City of Fremont Precinct 2,State House,101,DEM,Amanda Siggins,87
+Newaygo,City of Fremont Precinct 2,State House,101,REP,Chad Pierce,11
+Newaygo,City of Fremont Precinct 2,State House,101,REP,Diane J. Schindlbeck,95
+Newaygo,City of Fremont Precinct 2,State House,101,REP,Joseph D. Fox,143
+Newaygo,City of Fremont Precinct 2,State House,101,REP,Kelly J. Smith,129
+Newaygo,City of Grant Precinct 1,Governor,,DEM,Gretchen Whitmer,26
+Newaygo,City of Grant Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,City of Grant Precinct 1,Governor,,REP,Garrett Soldano,18
+Newaygo,City of Grant Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,City of Grant Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,City of Grant Precinct 1,Governor,,REP,Kevin Rinke,21
+Newaygo,City of Grant Precinct 1,Governor,,REP,Ralph Rebandt,6
+Newaygo,City of Grant Precinct 1,Governor,,REP,Ryan D. Kelley,38
+Newaygo,City of Grant Precinct 1,Governor,,REP,Tudor M. Dixon,54
+Newaygo,City of Grant Precinct 1,Governor,,REP,Write-In,2
+Newaygo,City of Grant Precinct 1,U.S. House,2,DEM,Jerry Hilliard,23
+Newaygo,City of Grant Precinct 1,U.S. House,2,DEM,Write-In,1
+Newaygo,City of Grant Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,City of Grant Precinct 1,U.S. House,2,REP,John Moolenaar,90
+Newaygo,City of Grant Precinct 1,U.S. House,2,REP,Thomas J. Norton,42
+Newaygo,City of Grant Precinct 1,U.S. House,2,REP,Write-In,2
+Newaygo,City of Grant Precinct 1,State House,101,DEM,Amanda Siggins,21
+Newaygo,City of Grant Precinct 1,State House,101,DEM,Write-In,1
+Newaygo,City of Grant Precinct 1,State House,101,REP,Chad Pierce,10
+Newaygo,City of Grant Precinct 1,State House,101,REP,Diane J. Schindlbeck,22
+Newaygo,City of Grant Precinct 1,State House,101,REP,Joseph D. Fox,56
+Newaygo,City of Grant Precinct 1,State House,101,REP,Kelly J. Smith,47
+Newaygo,City of Grant Precinct 1,State House,101,REP,Write-In,1
+Newaygo,City of Newaygo Precinct 1,Governor,,DEM,Gretchen Whitmer,92
+Newaygo,City of Newaygo Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,City of Newaygo Precinct 1,Governor,,REP,Garrett Soldano,55
+Newaygo,City of Newaygo Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,City of Newaygo Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,City of Newaygo Precinct 1,Governor,,REP,Kevin Rinke,43
+Newaygo,City of Newaygo Precinct 1,Governor,,REP,Ralph Rebandt,6
+Newaygo,City of Newaygo Precinct 1,Governor,,REP,Ryan D. Kelley,78
+Newaygo,City of Newaygo Precinct 1,Governor,,REP,Tudor M. Dixon,86
+Newaygo,City of Newaygo Precinct 1,U.S. House,2,DEM,Jerry Hilliard,91
+Newaygo,City of Newaygo Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,City of Newaygo Precinct 1,U.S. House,2,REP,John Moolenaar,166
+Newaygo,City of Newaygo Precinct 1,U.S. House,2,REP,Thomas J. Norton,101
+Newaygo,City of Newaygo Precinct 1,State House,101,DEM,Amanda Siggins,91
+Newaygo,City of Newaygo Precinct 1,State House,101,REP,Chad Pierce,8
+Newaygo,City of Newaygo Precinct 1,State House,101,REP,Diane J. Schindlbeck,82
+Newaygo,City of Newaygo Precinct 1,State House,101,REP,Joseph D. Fox,113
+Newaygo,City of Newaygo Precinct 1,State House,101,REP,Kelly J. Smith,66
+Newaygo,City of White Cloud Precinct 1,Governor,,DEM,Gretchen Whitmer,44
+Newaygo,City of White Cloud Precinct 1,Governor,,DEM,Write-In,1
+Newaygo,City of White Cloud Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,City of White Cloud Precinct 1,Governor,,REP,Garrett Soldano,31
+Newaygo,City of White Cloud Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,City of White Cloud Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,City of White Cloud Precinct 1,Governor,,REP,Kevin Rinke,20
+Newaygo,City of White Cloud Precinct 1,Governor,,REP,Ralph Rebandt,4
+Newaygo,City of White Cloud Precinct 1,Governor,,REP,Ryan D. Kelley,46
+Newaygo,City of White Cloud Precinct 1,Governor,,REP,Tudor M. Dixon,44
+Newaygo,City of White Cloud Precinct 1,Governor,,REP,Write-In,2
+Newaygo,City of White Cloud Precinct 1,U.S. House,2,DEM,Jerry Hilliard,43
+Newaygo,City of White Cloud Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,City of White Cloud Precinct 1,U.S. House,2,REP,John Moolenaar,95
+Newaygo,City of White Cloud Precinct 1,U.S. House,2,REP,Thomas J. Norton,47
+Newaygo,City of White Cloud Precinct 1,U.S. House,2,REP,Write-In,4
+Newaygo,City of White Cloud Precinct 1,State House,101,DEM,Amanda Siggins,44
+Newaygo,City of White Cloud Precinct 1,State House,101,REP,Chad Pierce,12
+Newaygo,City of White Cloud Precinct 1,State House,101,REP,Diane J. Schindlbeck,21
+Newaygo,City of White Cloud Precinct 1,State House,101,REP,Joseph D. Fox,59
+Newaygo,City of White Cloud Precinct 1,State House,101,REP,Kelly J. Smith,58
+Newaygo,Croton Township Precinct 1,Governor,,DEM,Gretchen Whitmer,72
+Newaygo,Croton Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Croton Township Precinct 1,Governor,,REP,Garrett Soldano,67
+Newaygo,Croton Township Precinct 1,Governor,,REP,James Elmer Craig,2
+Newaygo,Croton Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Croton Township Precinct 1,Governor,,REP,Kevin Rinke,50
+Newaygo,Croton Township Precinct 1,Governor,,REP,Ralph Rebandt,9
+Newaygo,Croton Township Precinct 1,Governor,,REP,Ryan D. Kelley,86
+Newaygo,Croton Township Precinct 1,Governor,,REP,Tudor M. Dixon,103
+Newaygo,Croton Township Precinct 1,Governor,,REP,Write-In,4
+Newaygo,Croton Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,72
+Newaygo,Croton Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Croton Township Precinct 1,U.S. House,2,REP,John Moolenaar,172
+Newaygo,Croton Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,136
+Newaygo,Croton Township Precinct 1,U.S. House,2,REP,Write-In,12
+Newaygo,Croton Township Precinct 1,State House,101,DEM,Amanda Siggins,72
+Newaygo,Croton Township Precinct 1,State House,101,REP,Chad Pierce,27
+Newaygo,Croton Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,78
+Newaygo,Croton Township Precinct 1,State House,101,REP,Joseph D. Fox,129
+Newaygo,Croton Township Precinct 1,State House,101,REP,Kelly J. Smith,83
+Newaygo,Croton Township Precinct 1,State House,101,REP,Write-In,2
+Newaygo,Croton Township Precinct 2,Governor,,DEM,Gretchen Whitmer,116
+Newaygo,Croton Township Precinct 2,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Croton Township Precinct 2,Governor,,REP,Garrett Soldano,60
+Newaygo,Croton Township Precinct 2,Governor,,REP,James Elmer Craig,0
+Newaygo,Croton Township Precinct 2,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Croton Township Precinct 2,Governor,,REP,Kevin Rinke,76
+Newaygo,Croton Township Precinct 2,Governor,,REP,Ralph Rebandt,12
+Newaygo,Croton Township Precinct 2,Governor,,REP,Ryan D. Kelley,107
+Newaygo,Croton Township Precinct 2,Governor,,REP,Tudor M. Dixon,119
+Newaygo,Croton Township Precinct 2,U.S. House,2,DEM,Jerry Hilliard,115
+Newaygo,Croton Township Precinct 2,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Croton Township Precinct 2,U.S. House,2,REP,John Moolenaar,197
+Newaygo,Croton Township Precinct 2,U.S. House,2,REP,Thomas J. Norton,161
+Newaygo,Croton Township Precinct 2,U.S. House,2,REP,Write-In,2
+Newaygo,Croton Township Precinct 2,State House,101,DEM,Amanda Siggins,114
+Newaygo,Croton Township Precinct 2,State House,101,REP,Chad Pierce,20
+Newaygo,Croton Township Precinct 2,State House,101,REP,Diane J. Schindlbeck,89
+Newaygo,Croton Township Precinct 2,State House,101,REP,Joseph D. Fox,115
+Newaygo,Croton Township Precinct 2,State House,101,REP,Kelly J. Smith,147
+Newaygo,Dayton Township Precinct 1,Governor,,DEM,Gretchen Whitmer,78
+Newaygo,Dayton Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Dayton Township Precinct 1,Governor,,REP,Garrett Soldano,75
+Newaygo,Dayton Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Dayton Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Dayton Township Precinct 1,Governor,,REP,Kevin Rinke,77
+Newaygo,Dayton Township Precinct 1,Governor,,REP,Ralph Rebandt,26
+Newaygo,Dayton Township Precinct 1,Governor,,REP,Ryan D. Kelley,109
+Newaygo,Dayton Township Precinct 1,Governor,,REP,Tudor M. Dixon,171
+Newaygo,Dayton Township Precinct 1,Governor,,REP,Write-In,10
+Newaygo,Dayton Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,74
+Newaygo,Dayton Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Dayton Township Precinct 1,U.S. House,2,REP,John Moolenaar,303
+Newaygo,Dayton Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,141
+Newaygo,Dayton Township Precinct 1,U.S. House,2,REP,Write-In,8
+Newaygo,Dayton Township Precinct 1,State House,101,DEM,Amanda Siggins,73
+Newaygo,Dayton Township Precinct 1,State House,101,REP,Chad Pierce,16
+Newaygo,Dayton Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,163
+Newaygo,Dayton Township Precinct 1,State House,101,REP,Joseph D. Fox,169
+Newaygo,Dayton Township Precinct 1,State House,101,REP,Kelly J. Smith,122
+Newaygo,Dayton Township Precinct 1,State House,101,REP,Write-In,1
+Newaygo,Denver Township Precinct 1,Governor,,DEM,Gretchen Whitmer,81
+Newaygo,Denver Township Precinct 1,Governor,,DEM,Write-In,3
+Newaygo,Denver Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Denver Township Precinct 1,Governor,,REP,Garrett Soldano,39
+Newaygo,Denver Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Denver Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Denver Township Precinct 1,Governor,,REP,Kevin Rinke,32
+Newaygo,Denver Township Precinct 1,Governor,,REP,Ralph Rebandt,15
+Newaygo,Denver Township Precinct 1,Governor,,REP,Ryan D. Kelley,91
+Newaygo,Denver Township Precinct 1,Governor,,REP,Tudor M. Dixon,104
+Newaygo,Denver Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,80
+Newaygo,Denver Township Precinct 1,U.S. House,2,DEM,Write-In,1
+Newaygo,Denver Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Denver Township Precinct 1,U.S. House,2,REP,John Moolenaar,140
+Newaygo,Denver Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,130
+Newaygo,Denver Township Precinct 1,State House,101,DEM,Amanda Siggins,79
+Newaygo,Denver Township Precinct 1,State House,101,DEM,Write-In,1
+Newaygo,Denver Township Precinct 1,State House,101,REP,Chad Pierce,9
+Newaygo,Denver Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,83
+Newaygo,Denver Township Precinct 1,State House,101,REP,Joseph D. Fox,119
+Newaygo,Denver Township Precinct 1,State House,101,REP,Kelly J. Smith,64
+Newaygo,Ensley Township Precinct 1,Governor,,DEM,Gretchen Whitmer,70
+Newaygo,Ensley Township Precinct 1,Governor,,DEM,Write-In,1
+Newaygo,Ensley Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Ensley Township Precinct 1,Governor,,REP,Garrett Soldano,126
+Newaygo,Ensley Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Ensley Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Ensley Township Precinct 1,Governor,,REP,Kevin Rinke,78
+Newaygo,Ensley Township Precinct 1,Governor,,REP,Ralph Rebandt,17
+Newaygo,Ensley Township Precinct 1,Governor,,REP,Ryan D. Kelley,229
+Newaygo,Ensley Township Precinct 1,Governor,,REP,Tudor M. Dixon,176
+Newaygo,Ensley Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,71
+Newaygo,Ensley Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Ensley Township Precinct 1,U.S. House,2,REP,John Moolenaar,319
+Newaygo,Ensley Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,277
+Newaygo,Ensley Township Precinct 1,U.S. House,2,REP,Write-In,4
+Newaygo,Ensley Township Precinct 1,State House,101,DEM,Amanda Siggins,71
+Newaygo,Ensley Township Precinct 1,State House,101,REP,Chad Pierce,61
+Newaygo,Ensley Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,158
+Newaygo,Ensley Township Precinct 1,State House,101,REP,Joseph D. Fox,246
+Newaygo,Ensley Township Precinct 1,State House,101,REP,Kelly J. Smith,125
+Newaygo,Ensley Township Precinct 1,State House,101,REP,Write-In,3
+Newaygo,Everett Township Precinct 1,Governor,,DEM,Gretchen Whitmer,83
+Newaygo,Everett Township Precinct 1,Governor,,DEM,Write-In,2
+Newaygo,Everett Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Everett Township Precinct 1,Governor,,REP,Garrett Soldano,38
+Newaygo,Everett Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Everett Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Everett Township Precinct 1,Governor,,REP,Kevin Rinke,57
+Newaygo,Everett Township Precinct 1,Governor,,REP,Ralph Rebandt,14
+Newaygo,Everett Township Precinct 1,Governor,,REP,Ryan D. Kelley,82
+Newaygo,Everett Township Precinct 1,Governor,,REP,Tudor M. Dixon,112
+Newaygo,Everett Township Precinct 1,Governor,,REP,Write-In,2
+Newaygo,Everett Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,83
+Newaygo,Everett Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Everett Township Precinct 1,U.S. House,2,REP,John Moolenaar,188
+Newaygo,Everett Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,110
+Newaygo,Everett Township Precinct 1,State House,101,DEM,Amanda Siggins,81
+Newaygo,Everett Township Precinct 1,State House,101,DEM,Write-In,2
+Newaygo,Everett Township Precinct 1,State House,101,REP,Chad Pierce,14
+Newaygo,Everett Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,67
+Newaygo,Everett Township Precinct 1,State House,101,REP,Joseph D. Fox,104
+Newaygo,Everett Township Precinct 1,State House,101,REP,Kelly J. Smith,117
+Newaygo,Everett Township Precinct 1,State House,101,REP,Write-In,2
+Newaygo,Garfield Township Precinct 1,Governor,,DEM,Gretchen Whitmer,96
+Newaygo,Garfield Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Garfield Township Precinct 1,Governor,,REP,Garrett Soldano,61
+Newaygo,Garfield Township Precinct 1,Governor,,REP,James Elmer Craig,1
+Newaygo,Garfield Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Garfield Township Precinct 1,Governor,,REP,Kevin Rinke,71
+Newaygo,Garfield Township Precinct 1,Governor,,REP,Ralph Rebandt,17
+Newaygo,Garfield Township Precinct 1,Governor,,REP,Ryan D. Kelley,138
+Newaygo,Garfield Township Precinct 1,Governor,,REP,Tudor M. Dixon,167
+Newaygo,Garfield Township Precinct 1,Governor,,REP,Write-In,5
+Newaygo,Garfield Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,90
+Newaygo,Garfield Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Garfield Township Precinct 1,U.S. House,2,REP,John Moolenaar,304
+Newaygo,Garfield Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,139
+Newaygo,Garfield Township Precinct 1,State House,101,DEM,Amanda Siggins,92
+Newaygo,Garfield Township Precinct 1,State House,101,REP,Chad Pierce,13
+Newaygo,Garfield Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,127
+Newaygo,Garfield Township Precinct 1,State House,101,REP,Joseph D. Fox,190
+Newaygo,Garfield Township Precinct 1,State House,101,REP,Kelly J. Smith,134
+Newaygo,Goodwell Township Precinct 1,Governor,,DEM,Gretchen Whitmer,21
+Newaygo,Goodwell Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Goodwell Township Precinct 1,Governor,,REP,Garrett Soldano,24
+Newaygo,Goodwell Township Precinct 1,Governor,,REP,James Elmer Craig,1
+Newaygo,Goodwell Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Goodwell Township Precinct 1,Governor,,REP,Kevin Rinke,15
+Newaygo,Goodwell Township Precinct 1,Governor,,REP,Ralph Rebandt,3
+Newaygo,Goodwell Township Precinct 1,Governor,,REP,Ryan D. Kelley,26
+Newaygo,Goodwell Township Precinct 1,Governor,,REP,Tudor M. Dixon,41
+Newaygo,Goodwell Township Precinct 1,Governor,,REP,Write-In,3
+Newaygo,Goodwell Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,20
+Newaygo,Goodwell Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Goodwell Township Precinct 1,U.S. House,2,REP,John Moolenaar,67
+Newaygo,Goodwell Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,39
+Newaygo,Goodwell Township Precinct 1,U.S. House,2,REP,Write-In,4
+Newaygo,Goodwell Township Precinct 1,State House,101,DEM,Amanda Siggins,20
+Newaygo,Goodwell Township Precinct 1,State House,101,REP,Chad Pierce,3
+Newaygo,Goodwell Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,26
+Newaygo,Goodwell Township Precinct 1,State House,101,REP,Joseph D. Fox,43
+Newaygo,Goodwell Township Precinct 1,State House,101,REP,Kelly J. Smith,35
+Newaygo,Goodwell Township Precinct 1,State House,101,REP,Write-In,1
+Newaygo,Grant Township Precinct 1,Governor,,DEM,Gretchen Whitmer,102
+Newaygo,Grant Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Grant Township Precinct 1,Governor,,REP,Garrett Soldano,110
+Newaygo,Grant Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Grant Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Grant Township Precinct 1,Governor,,REP,Kevin Rinke,95
+Newaygo,Grant Township Precinct 1,Governor,,REP,Ralph Rebandt,27
+Newaygo,Grant Township Precinct 1,Governor,,REP,Ryan D. Kelley,251
+Newaygo,Grant Township Precinct 1,Governor,,REP,Tudor M. Dixon,181
+Newaygo,Grant Township Precinct 1,Governor,,REP,Write-In,4
+Newaygo,Grant Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,102
+Newaygo,Grant Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Grant Township Precinct 1,U.S. House,2,REP,John Moolenaar,363
+Newaygo,Grant Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,285
+Newaygo,Grant Township Precinct 1,U.S. House,2,REP,Write-In,2
+Newaygo,Grant Township Precinct 1,State House,101,DEM,Amanda Siggins,102
+Newaygo,Grant Township Precinct 1,State House,101,REP,Chad Pierce,31
+Newaygo,Grant Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,105
+Newaygo,Grant Township Precinct 1,State House,101,REP,Joseph D. Fox,325
+Newaygo,Grant Township Precinct 1,State House,101,REP,Kelly J. Smith,199
+Newaygo,Home Township Precinct 1,Governor,,DEM,Gretchen Whitmer,9
+Newaygo,Home Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Home Township Precinct 1,Governor,,REP,Garrett Soldano,14
+Newaygo,Home Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Home Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Home Township Precinct 1,Governor,,REP,Kevin Rinke,13
+Newaygo,Home Township Precinct 1,Governor,,REP,Ralph Rebandt,2
+Newaygo,Home Township Precinct 1,Governor,,REP,Ryan D. Kelley,15
+Newaygo,Home Township Precinct 1,Governor,,REP,Tudor M. Dixon,35
+Newaygo,Home Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,9
+Newaygo,Home Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Home Township Precinct 1,U.S. House,2,REP,John Moolenaar,53
+Newaygo,Home Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,21
+Newaygo,Home Township Precinct 1,State House,101,DEM,Amanda Siggins,8
+Newaygo,Home Township Precinct 1,State House,101,DEM,Write-In,1
+Newaygo,Home Township Precinct 1,State House,101,REP,Chad Pierce,10
+Newaygo,Home Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,30
+Newaygo,Home Township Precinct 1,State House,101,REP,Joseph D. Fox,16
+Newaygo,Home Township Precinct 1,State House,101,REP,Kelly J. Smith,17
+Newaygo,Lilley Township Precinct 1,Governor,,DEM,Gretchen Whitmer,66
+Newaygo,Lilley Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Lilley Township Precinct 1,Governor,,REP,Garrett Soldano,16
+Newaygo,Lilley Township Precinct 1,Governor,,REP,James Elmer Craig,1
+Newaygo,Lilley Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Lilley Township Precinct 1,Governor,,REP,Kevin Rinke,32
+Newaygo,Lilley Township Precinct 1,Governor,,REP,Ralph Rebandt,12
+Newaygo,Lilley Township Precinct 1,Governor,,REP,Ryan D. Kelley,39
+Newaygo,Lilley Township Precinct 1,Governor,,REP,Tudor M. Dixon,61
+Newaygo,Lilley Township Precinct 1,Governor,,REP,Write-In,3
+Newaygo,Lilley Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,64
+Newaygo,Lilley Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Lilley Township Precinct 1,U.S. House,2,REP,John Moolenaar,98
+Newaygo,Lilley Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,55
+Newaygo,Lilley Township Precinct 1,State House,101,DEM,Amanda Siggins,63
+Newaygo,Lilley Township Precinct 1,State House,101,REP,Chad Pierce,5
+Newaygo,Lilley Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,50
+Newaygo,Lilley Township Precinct 1,State House,101,REP,Joseph D. Fox,49
+Newaygo,Lilley Township Precinct 1,State House,101,REP,Kelly J. Smith,45
+Newaygo,Lincoln Township Precinct 1,Governor,,DEM,Gretchen Whitmer,74
+Newaygo,Lincoln Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Lincoln Township Precinct 1,Governor,,REP,Garrett Soldano,34
+Newaygo,Lincoln Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Lincoln Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Lincoln Township Precinct 1,Governor,,REP,Kevin Rinke,52
+Newaygo,Lincoln Township Precinct 1,Governor,,REP,Ralph Rebandt,10
+Newaygo,Lincoln Township Precinct 1,Governor,,REP,Ryan D. Kelley,95
+Newaygo,Lincoln Township Precinct 1,Governor,,REP,Tudor M. Dixon,87
+Newaygo,Lincoln Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,71
+Newaygo,Lincoln Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Lincoln Township Precinct 1,U.S. House,2,REP,John Moolenaar,139
+Newaygo,Lincoln Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,134
+Newaygo,Lincoln Township Precinct 1,U.S. House,2,REP,Write-In,4
+Newaygo,Lincoln Township Precinct 1,State House,101,DEM,Amanda Siggins,71
+Newaygo,Lincoln Township Precinct 1,State House,101,REP,Chad Pierce,10
+Newaygo,Lincoln Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,112
+Newaygo,Lincoln Township Precinct 1,State House,101,REP,Joseph D. Fox,95
+Newaygo,Lincoln Township Precinct 1,State House,101,REP,Kelly J. Smith,71
+Newaygo,Merrill Township Precinct 1,Governor,,DEM,Gretchen Whitmer,42
+Newaygo,Merrill Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Merrill Township Precinct 1,Governor,,REP,Garrett Soldano,13
+Newaygo,Merrill Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Merrill Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Merrill Township Precinct 1,Governor,,REP,Kevin Rinke,14
+Newaygo,Merrill Township Precinct 1,Governor,,REP,Ralph Rebandt,5
+Newaygo,Merrill Township Precinct 1,Governor,,REP,Ryan D. Kelley,34
+Newaygo,Merrill Township Precinct 1,Governor,,REP,Tudor M. Dixon,37
+Newaygo,Merrill Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,40
+Newaygo,Merrill Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Merrill Township Precinct 1,U.S. House,2,REP,John Moolenaar,61
+Newaygo,Merrill Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,43
+Newaygo,Merrill Township Precinct 1,State House,101,DEM,Amanda Siggins,41
+Newaygo,Merrill Township Precinct 1,State House,101,REP,Chad Pierce,6
+Newaygo,Merrill Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,30
+Newaygo,Merrill Township Precinct 1,State House,101,REP,Joseph D. Fox,40
+Newaygo,Merrill Township Precinct 1,State House,101,REP,Kelly J. Smith,29
+Newaygo,Monroe Township Precinct 1,Governor,,DEM,Gretchen Whitmer,9
+Newaygo,Monroe Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Monroe Township Precinct 1,Governor,,REP,Garrett Soldano,10
+Newaygo,Monroe Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Monroe Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Monroe Township Precinct 1,Governor,,REP,Kevin Rinke,11
+Newaygo,Monroe Township Precinct 1,Governor,,REP,Ralph Rebandt,1
+Newaygo,Monroe Township Precinct 1,Governor,,REP,Ryan D. Kelley,14
+Newaygo,Monroe Township Precinct 1,Governor,,REP,Tudor M. Dixon,29
+Newaygo,Monroe Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,9
+Newaygo,Monroe Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Monroe Township Precinct 1,U.S. House,2,REP,John Moolenaar,40
+Newaygo,Monroe Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,23
+Newaygo,Monroe Township Precinct 1,State House,101,DEM,Amanda Siggins,9
+Newaygo,Monroe Township Precinct 1,State House,101,REP,Chad Pierce,5
+Newaygo,Monroe Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,21
+Newaygo,Monroe Township Precinct 1,State House,101,REP,Joseph D. Fox,20
+Newaygo,Monroe Township Precinct 1,State House,101,REP,Kelly J. Smith,14
+Newaygo,Monroe Township Precinct 1,State House,101,REP,Write-In,1
+Newaygo,Norwich Township Precinct 1,Governor,,DEM,Gretchen Whitmer,31
+Newaygo,Norwich Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Norwich Township Precinct 1,Governor,,REP,Garrett Soldano,15
+Newaygo,Norwich Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Norwich Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Norwich Township Precinct 1,Governor,,REP,Kevin Rinke,23
+Newaygo,Norwich Township Precinct 1,Governor,,REP,Ralph Rebandt,16
+Newaygo,Norwich Township Precinct 1,Governor,,REP,Ryan D. Kelley,21
+Newaygo,Norwich Township Precinct 1,Governor,,REP,Tudor M. Dixon,53
+Newaygo,Norwich Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,30
+Newaygo,Norwich Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Norwich Township Precinct 1,U.S. House,2,REP,John Moolenaar,87
+Newaygo,Norwich Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,39
+Newaygo,Norwich Township Precinct 1,State House,101,DEM,Amanda Siggins,31
+Newaygo,Norwich Township Precinct 1,State House,101,REP,Chad Pierce,12
+Newaygo,Norwich Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,21
+Newaygo,Norwich Township Precinct 1,State House,101,REP,Joseph D. Fox,55
+Newaygo,Norwich Township Precinct 1,State House,101,REP,Kelly J. Smith,38
+Newaygo,Sheridan Charter Township Precinct 1,Governor,,DEM,Gretchen Whitmer,97
+Newaygo,Sheridan Charter Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Sheridan Charter Township Precinct 1,Governor,,REP,Garrett Soldano,79
+Newaygo,Sheridan Charter Township Precinct 1,Governor,,REP,James Elmer Craig,2
+Newaygo,Sheridan Charter Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Sheridan Charter Township Precinct 1,Governor,,REP,Kevin Rinke,84
+Newaygo,Sheridan Charter Township Precinct 1,Governor,,REP,Ralph Rebandt,23
+Newaygo,Sheridan Charter Township Precinct 1,Governor,,REP,Ryan D. Kelley,120
+Newaygo,Sheridan Charter Township Precinct 1,Governor,,REP,Tudor M. Dixon,202
+Newaygo,Sheridan Charter Township Precinct 1,Governor,,REP,Write-In,8
+Newaygo,Sheridan Charter Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,93
+Newaygo,Sheridan Charter Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,1
+Newaygo,Sheridan Charter Township Precinct 1,U.S. House,2,REP,John Moolenaar,303
+Newaygo,Sheridan Charter Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,192
+Newaygo,Sheridan Charter Township Precinct 1,U.S. House,2,REP,Write-In,7
+Newaygo,Sheridan Charter Township Precinct 1,State House,101,DEM,Amanda Siggins,93
+Newaygo,Sheridan Charter Township Precinct 1,State House,101,REP,Chad Pierce,20
+Newaygo,Sheridan Charter Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,159
+Newaygo,Sheridan Charter Township Precinct 1,State House,101,REP,Joseph D. Fox,158
+Newaygo,Sheridan Charter Township Precinct 1,State House,101,REP,Kelly J. Smith,177
+Newaygo,Sherman Township Precinct 1,Governor,,DEM,Gretchen Whitmer,109
+Newaygo,Sherman Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Sherman Township Precinct 1,Governor,,REP,Garrett Soldano,79
+Newaygo,Sherman Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Sherman Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Sherman Township Precinct 1,Governor,,REP,Kevin Rinke,75
+Newaygo,Sherman Township Precinct 1,Governor,,REP,Ralph Rebandt,22
+Newaygo,Sherman Township Precinct 1,Governor,,REP,Ryan D. Kelley,136
+Newaygo,Sherman Township Precinct 1,Governor,,REP,Tudor M. Dixon,161
+Newaygo,Sherman Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,109
+Newaygo,Sherman Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Sherman Township Precinct 1,U.S. House,2,REP,John Moolenaar,295
+Newaygo,Sherman Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,155
+Newaygo,Sherman Township Precinct 1,U.S. House,2,REP,Write-In,4
+Newaygo,Sherman Township Precinct 1,State House,101,DEM,Amanda Siggins,109
+Newaygo,Sherman Township Precinct 1,State House,101,REP,Chad Pierce,17
+Newaygo,Sherman Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,107
+Newaygo,Sherman Township Precinct 1,State House,101,REP,Joseph D. Fox,187
+Newaygo,Sherman Township Precinct 1,State House,101,REP,Kelly J. Smith,165
+Newaygo,Sherman Township Precinct 1,State House,101,REP,Write-In,1
+Newaygo,Troy Township Precinct 1,Governor,,DEM,Gretchen Whitmer,3
+Newaygo,Troy Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Troy Township Precinct 1,Governor,,REP,Garrett Soldano,3
+Newaygo,Troy Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Troy Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Troy Township Precinct 1,Governor,,REP,Kevin Rinke,11
+Newaygo,Troy Township Precinct 1,Governor,,REP,Ralph Rebandt,0
+Newaygo,Troy Township Precinct 1,Governor,,REP,Ryan D. Kelley,13
+Newaygo,Troy Township Precinct 1,Governor,,REP,Tudor M. Dixon,17
+Newaygo,Troy Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,3
+Newaygo,Troy Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Troy Township Precinct 1,U.S. House,2,REP,John Moolenaar,32
+Newaygo,Troy Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,11
+Newaygo,Troy Township Precinct 1,State House,101,DEM,Amanda Siggins,3
+Newaygo,Troy Township Precinct 1,State House,101,REP,Chad Pierce,2
+Newaygo,Troy Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,6
+Newaygo,Troy Township Precinct 1,State House,101,REP,Joseph D. Fox,23
+Newaygo,Troy Township Precinct 1,State House,101,REP,Kelly J. Smith,9
+Newaygo,Wilcox Township Precinct 1,Governor,,DEM,Gretchen Whitmer,26
+Newaygo,Wilcox Township Precinct 1,Governor,,REP,Elizabeth Ann Adkisson,0
+Newaygo,Wilcox Township Precinct 1,Governor,,REP,Garrett Soldano,24
+Newaygo,Wilcox Township Precinct 1,Governor,,REP,James Elmer Craig,0
+Newaygo,Wilcox Township Precinct 1,Governor,,REP,Justin Paul Blackburn,0
+Newaygo,Wilcox Township Precinct 1,Governor,,REP,Kevin Rinke,21
+Newaygo,Wilcox Township Precinct 1,Governor,,REP,Ralph Rebandt,4
+Newaygo,Wilcox Township Precinct 1,Governor,,REP,Ryan D. Kelley,58
+Newaygo,Wilcox Township Precinct 1,Governor,,REP,Tudor M. Dixon,64
+Newaygo,Wilcox Township Precinct 1,Governor,,REP,Write-In,2
+Newaygo,Wilcox Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,24
+Newaygo,Wilcox Township Precinct 1,U.S. House,2,REP,Jericho Joel Gonzales,0
+Newaygo,Wilcox Township Precinct 1,U.S. House,2,REP,John Moolenaar,97
+Newaygo,Wilcox Township Precinct 1,U.S. House,2,REP,Thomas J. Norton,57
+Newaygo,Wilcox Township Precinct 1,U.S. House,2,REP,Write-In,2
+Newaygo,Wilcox Township Precinct 1,State House,101,DEM,Amanda Siggins,24
+Newaygo,Wilcox Township Precinct 1,State House,101,REP,Chad Pierce,3
+Newaygo,Wilcox Township Precinct 1,State House,101,REP,Diane J. Schindlbeck,40
+Newaygo,Wilcox Township Precinct 1,State House,101,REP,Joseph D. Fox,59
+Newaygo,Wilcox Township Precinct 1,State House,101,REP,Kelly J. Smith,66
+Newaygo,Wilcox Township Precinct 1,State House,101,REP,Write-In,1

@@ -1,0 +1,906 @@
+county,precinct,office,district,party,candidate,votes
+Iron,"Bates Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,72
+Iron,"Bates Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,10
+Iron,"Bates Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,82
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,34
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,DEM,Hill Harper,11
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,DEM,Ballots Cast,45
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,107
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,DEM,Hill Harper,31
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,DEM,Ballots Cast,138
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,22
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,DEM,Hill Harper,6
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,DEM,Ballots Cast,28
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,86
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,DEM,Hill Harper,17
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,DEM,Ballots Cast,103
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,66
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,DEM,Hill Harper,33
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,DEM,Ballots Cast,99
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,147
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,45
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,192
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,22
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,4
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,DEM,Write-In,1
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,27
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,64
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,22
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,86
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,17
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,6
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,23
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,69
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,15
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,84
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,107
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,15
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,122
+Iron,"Bates Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,25
+Iron,"Bates Township, Precinct 1",U.S. House,1,DEM,Callie Barr,62
+Iron,"Bates Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,87
+Iron,"City of Caspian, Precinct 1",U.S. House,1,DEM,Bob Lorinser,21
+Iron,"City of Caspian, Precinct 1",U.S. House,1,DEM,Callie Barr,25
+Iron,"City of Caspian, Precinct 1",U.S. House,1,DEM,Ballots Cast,46
+Iron,"City of Crystal Falls, Precinct 1",U.S. House,1,DEM,Bob Lorinser,62
+Iron,"City of Crystal Falls, Precinct 1",U.S. House,1,DEM,Callie Barr,78
+Iron,"City of Crystal Falls, Precinct 1",U.S. House,1,DEM,Ballots Cast,140
+Iron,"City of Gaastra, Precinct 1",U.S. House,1,DEM,Bob Lorinser,13
+Iron,"City of Gaastra, Precinct 1",U.S. House,1,DEM,Callie Barr,16
+Iron,"City of Gaastra, Precinct 1",U.S. House,1,DEM,Ballots Cast,29
+Iron,"City of Iron River, Precinct 1",U.S. House,1,DEM,Bob Lorinser,31
+Iron,"City of Iron River, Precinct 1",U.S. House,1,DEM,Callie Barr,74
+Iron,"City of Iron River, Precinct 1",U.S. House,1,DEM,Ballots Cast,105
+Iron,"City of Iron River, Precinct 2",U.S. House,1,DEM,Bob Lorinser,31
+Iron,"City of Iron River, Precinct 2",U.S. House,1,DEM,Callie Barr,74
+Iron,"City of Iron River, Precinct 2",U.S. House,1,DEM,Ballots Cast,105
+Iron,"Crystal Falls Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,78
+Iron,"Crystal Falls Township, Precinct 1",U.S. House,1,DEM,Callie Barr,124
+Iron,"Crystal Falls Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,202
+Iron,"Hematite Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,11
+Iron,"Hematite Township, Precinct 1",U.S. House,1,DEM,Callie Barr,20
+Iron,"Hematite Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,31
+Iron,"Iron River Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,28
+Iron,"Iron River Township, Precinct 1",U.S. House,1,DEM,Callie Barr,61
+Iron,"Iron River Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,89
+Iron,"Mansfield Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,8
+Iron,"Mansfield Township, Precinct 1",U.S. House,1,DEM,Callie Barr,15
+Iron,"Mansfield Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,23
+Iron,"Mastodon Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,45
+Iron,"Mastodon Township, Precinct 1",U.S. House,1,DEM,Callie Barr,41
+Iron,"Mastodon Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,86
+Iron,"Stambaugh Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,63
+Iron,"Stambaugh Township, Precinct 1",U.S. House,1,DEM,Callie Barr,64
+Iron,"Stambaugh Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,127
+Iron,"Bates Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,77
+Iron,"Bates Township, Precinct 1",State House,110,DEM,Ballots Cast,77
+Iron,"City of Caspian, Precinct 1",State House,110,DEM,Kim S. Corcoran,42
+Iron,"City of Caspian, Precinct 1",State House,110,DEM,Write-In,1
+Iron,"City of Caspian, Precinct 1",State House,110,DEM,Ballots Cast,43
+Iron,"City of Crystal Falls, Precinct 1",State House,110,DEM,Kim S. Corcoran,129
+Iron,"City of Crystal Falls, Precinct 1",State House,110,DEM,Ballots Cast,129
+Iron,"City of Gaastra, Precinct 1",State House,110,DEM,Kim S. Corcoran,28
+Iron,"City of Gaastra, Precinct 1",State House,110,DEM,Ballots Cast,28
+Iron,"City of Iron River, Precinct 1",State House,110,DEM,Kim S. Corcoran,104
+Iron,"City of Iron River, Precinct 1",State House,110,DEM,Write-In,1
+Iron,"City of Iron River, Precinct 1",State House,110,DEM,Ballots Cast,105
+Iron,"City of Iron River, Precinct 2",State House,110,DEM,Kim S. Corcoran,96
+Iron,"City of Iron River, Precinct 2",State House,110,DEM,Write-In,1
+Iron,"City of Iron River, Precinct 2",State House,110,DEM,Ballots Cast,97
+Iron,"Crystal Falls Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,186
+Iron,"Crystal Falls Township, Precinct 1",State House,110,DEM,Ballots Cast,186
+Iron,"Hematite Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,25
+Iron,"Hematite Township, Precinct 1",State House,110,DEM,Write-In,1
+Iron,"Hematite Township, Precinct 1",State House,110,DEM,Ballots Cast,26
+Iron,"Iron River Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,81
+Iron,"Iron River Township, Precinct 1",State House,110,DEM,Ballots Cast,81
+Iron,"Mansfield Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,18
+Iron,"Mansfield Township, Precinct 1",State House,110,DEM,Ballots Cast,18
+Iron,"Mastodon Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,75
+Iron,"Mastodon Township, Precinct 1",State House,110,DEM,Ballots Cast,75
+Iron,"Stambaugh Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,120
+Iron,"Stambaugh Township, Precinct 1",State House,110,DEM,Ballots Cast,120
+Iron,"Bates Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Write-In,4
+Iron,"Bates Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Ballots Cast,4
+Iron,"City of Caspian, Precinct 1",Iron County Prosecuting Attorney,,DEM,Write-In,10
+Iron,"City of Caspian, Precinct 1",Iron County Prosecuting Attorney,,DEM,Ballots Cast,10
+Iron,"City of Crystal Falls, Precinct 1",Iron County Prosecuting Attorney,,DEM,Write-In,15
+Iron,"City of Crystal Falls, Precinct 1",Iron County Prosecuting Attorney,,DEM,Ballots Cast,15
+Iron,"City of Gaastra, Precinct 1",Iron County Prosecuting Attorney,,DEM,Write-In,4
+Iron,"City of Gaastra, Precinct 1",Iron County Prosecuting Attorney,,DEM,Ballots Cast,4
+Iron,"City of Iron River, Precinct 1",Iron County Prosecuting Attorney,,DEM,Write-In,10
+Iron,"City of Iron River, Precinct 1",Iron County Prosecuting Attorney,,DEM,Ballots Cast,10
+Iron,"City of Iron River, Precinct 2",Iron County Prosecuting Attorney,,DEM,Write-In,19
+Iron,"City of Iron River, Precinct 2",Iron County Prosecuting Attorney,,DEM,Ballots Cast,19
+Iron,"Crystal Falls Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Write-In,19
+Iron,"Crystal Falls Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Ballots Cast,19
+Iron,"Hematite Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Write-In,1
+Iron,"Hematite Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Ballots Cast,1
+Iron,"Iron River Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Write-In,9
+Iron,"Iron River Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Ballots Cast,9
+Iron,"Mansfield Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Write-In,3
+Iron,"Mansfield Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Ballots Cast,3
+Iron,"Mastodon Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Write-In,6
+Iron,"Mastodon Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Ballots Cast,6
+Iron,"Stambaugh Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Write-In,6
+Iron,"Stambaugh Township, Precinct 1",Iron County Prosecuting Attorney,,DEM,Ballots Cast,6
+Iron,"Bates Township, Precinct 1",Iron County Sheriff,,DEM,Ryan D. Boehmke,85
+Iron,"Bates Township, Precinct 1",Iron County Sheriff,,DEM,Ballots Cast,85
+Iron,"City of Caspian, Precinct 1",Iron County Sheriff,,DEM,Ryan D. Boehmke,44
+Iron,"City of Caspian, Precinct 1",Iron County Sheriff,,DEM,Ballots Cast,44
+Iron,"City of Crystal Falls, Precinct 1",Iron County Sheriff,,DEM,Ryan D. Boehmke,135
+Iron,"City of Crystal Falls, Precinct 1",Iron County Sheriff,,DEM,Write-In,1
+Iron,"City of Crystal Falls, Precinct 1",Iron County Sheriff,,DEM,Ballots Cast,136
+Iron,"City of Gaastra, Precinct 1",Iron County Sheriff,,DEM,Ryan D. Boehmke,29
+Iron,"City of Gaastra, Precinct 1",Iron County Sheriff,,DEM,Ballots Cast,29
+Iron,"City of Iron River, Precinct 1",Iron County Sheriff,,DEM,Ryan D. Boehmke,102
+Iron,"City of Iron River, Precinct 1",Iron County Sheriff,,DEM,Write-In,1
+Iron,"City of Iron River, Precinct 1",Iron County Sheriff,,DEM,Ballots Cast,103
+Iron,"City of Iron River, Precinct 2",Iron County Sheriff,,DEM,Ryan D. Boehmke,105
+Iron,"City of Iron River, Precinct 2",Iron County Sheriff,,DEM,Write-In,1
+Iron,"City of Iron River, Precinct 2",Iron County Sheriff,,DEM,Ballots Cast,106
+Iron,"Crystal Falls Township, Precinct 1",Iron County Sheriff,,DEM,Ryan D. Boehmke,200
+Iron,"Crystal Falls Township, Precinct 1",Iron County Sheriff,,DEM,Ballots Cast,200
+Iron,"Hematite Township, Precinct 1",Iron County Sheriff,,DEM,Ryan D. Boehmke,31
+Iron,"Hematite Township, Precinct 1",Iron County Sheriff,,DEM,Write-In,1
+Iron,"Hematite Township, Precinct 1",Iron County Sheriff,,DEM,Ballots Cast,32
+Iron,"Iron River Township, Precinct 1",Iron County Sheriff,,DEM,Ryan D. Boehmke,82
+Iron,"Iron River Township, Precinct 1",Iron County Sheriff,,DEM,Ballots Cast,82
+Iron,"Mansfield Township, Precinct 1",Iron County Sheriff,,DEM,Ryan D. Boehmke,23
+Iron,"Mansfield Township, Precinct 1",Iron County Sheriff,,DEM,Ballots Cast,23
+Iron,"Mastodon Township, Precinct 1",Iron County Sheriff,,DEM,Ryan D. Boehmke,83
+Iron,"Mastodon Township, Precinct 1",Iron County Sheriff,,DEM,Ballots Cast,83
+Iron,"Stambaugh Township, Precinct 1",Iron County Sheriff,,DEM,Ryan D. Boehmke,124
+Iron,"Stambaugh Township, Precinct 1",Iron County Sheriff,,DEM,Ballots Cast,124
+Iron,"Bates Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Amy L. Donati,85
+Iron,"Bates Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Ballots Cast,85
+Iron,"City of Caspian, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Amy L. Donati,46
+Iron,"City of Caspian, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Ballots Cast,46
+Iron,"City of Crystal Falls, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Amy L. Donati,132
+Iron,"City of Crystal Falls, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Ballots Cast,132
+Iron,"City of Gaastra, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Amy L. Donati,29
+Iron,"City of Gaastra, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Ballots Cast,29
+Iron,"City of Iron River, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Amy L. Donati,103
+Iron,"City of Iron River, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Write-In,3
+Iron,"City of Iron River, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Ballots Cast,106
+Iron,"City of Iron River, Precinct 2",Iron County Clerk and Register of Deeds,,DEM,Amy L. Donati,103
+Iron,"City of Iron River, Precinct 2",Iron County Clerk and Register of Deeds,,DEM,Write-In,1
+Iron,"City of Iron River, Precinct 2",Iron County Clerk and Register of Deeds,,DEM,Ballots Cast,104
+Iron,"Crystal Falls Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Amy L. Donati,192
+Iron,"Crystal Falls Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Ballots Cast,192
+Iron,"Hematite Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Amy L. Donati,28
+Iron,"Hematite Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Ballots Cast,28
+Iron,"Iron River Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Amy L. Donati,83
+Iron,"Iron River Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Ballots Cast,83
+Iron,"Mansfield Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Amy L. Donati,20
+Iron,"Mansfield Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Ballots Cast,20
+Iron,"Mastodon Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Amy L. Donati,77
+Iron,"Mastodon Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Ballots Cast,77
+Iron,"Stambaugh Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Amy L. Donati,125
+Iron,"Stambaugh Township, Precinct 1",Iron County Clerk and Register of Deeds,,DEM,Ballots Cast,125
+Iron,"Bates Township, Precinct 1",Iron County Treasurer,,DEM,Melanie Camps,84
+Iron,"Bates Township, Precinct 1",Iron County Treasurer,,DEM,Ballots Cast,84
+Iron,"City of Caspian, Precinct 1",Iron County Treasurer,,DEM,Melanie Camps,46
+Iron,"City of Caspian, Precinct 1",Iron County Treasurer,,DEM,Ballots Cast,46
+Iron,"City of Crystal Falls, Precinct 1",Iron County Treasurer,,DEM,Melanie Camps,126
+Iron,"City of Crystal Falls, Precinct 1",Iron County Treasurer,,DEM,Write-In,1
+Iron,"City of Crystal Falls, Precinct 1",Iron County Treasurer,,DEM,Ballots Cast,127
+Iron,"City of Gaastra, Precinct 1",Iron County Treasurer,,DEM,Melanie Camps,28
+Iron,"City of Gaastra, Precinct 1",Iron County Treasurer,,DEM,Ballots Cast,28
+Iron,"City of Iron River, Precinct 1",Iron County Treasurer,,DEM,Melanie Camps,102
+Iron,"City of Iron River, Precinct 1",Iron County Treasurer,,DEM,Ballots Cast,102
+Iron,"City of Iron River, Precinct 2",Iron County Treasurer,,DEM,Melanie Camps,101
+Iron,"City of Iron River, Precinct 2",Iron County Treasurer,,DEM,Write-In,1
+Iron,"City of Iron River, Precinct 2",Iron County Treasurer,,DEM,Ballots Cast,102
+Iron,"Crystal Falls Township, Precinct 1",Iron County Treasurer,,DEM,Melanie Camps,188
+Iron,"Crystal Falls Township, Precinct 1",Iron County Treasurer,,DEM,Ballots Cast,188
+Iron,"Hematite Township, Precinct 1",Iron County Treasurer,,DEM,Melanie Camps,29
+Iron,"Hematite Township, Precinct 1",Iron County Treasurer,,DEM,Write-In,1
+Iron,"Hematite Township, Precinct 1",Iron County Treasurer,,DEM,Ballots Cast,30
+Iron,"Iron River Township, Precinct 1",Iron County Treasurer,,DEM,Melanie Camps,81
+Iron,"Iron River Township, Precinct 1",Iron County Treasurer,,DEM,Ballots Cast,81
+Iron,"Mansfield Township, Precinct 1",Iron County Treasurer,,DEM,Melanie Camps,20
+Iron,"Mansfield Township, Precinct 1",Iron County Treasurer,,DEM,Ballots Cast,20
+Iron,"Mastodon Township, Precinct 1",Iron County Treasurer,,DEM,Melanie Camps,79
+Iron,"Mastodon Township, Precinct 1",Iron County Treasurer,,DEM,Ballots Cast,79
+Iron,"Stambaugh Township, Precinct 1",Iron County Treasurer,,DEM,Melanie Camps,127
+Iron,"Stambaugh Township, Precinct 1",Iron County Treasurer,,DEM,Ballots Cast,127
+Iron,"Bates Township, Precinct 1",Iron County Mine Inspector,,DEM,Thomas C. Karvala,79
+Iron,"Bates Township, Precinct 1",Iron County Mine Inspector,,DEM,Ballots Cast,79
+Iron,"City of Caspian, Precinct 1",Iron County Mine Inspector,,DEM,Thomas C. Karvala,42
+Iron,"City of Caspian, Precinct 1",Iron County Mine Inspector,,DEM,Write-In,1
+Iron,"City of Caspian, Precinct 1",Iron County Mine Inspector,,DEM,Ballots Cast,43
+Iron,"City of Crystal Falls, Precinct 1",Iron County Mine Inspector,,DEM,Thomas C. Karvala,123
+Iron,"City of Crystal Falls, Precinct 1",Iron County Mine Inspector,,DEM,Ballots Cast,123
+Iron,"City of Gaastra, Precinct 1",Iron County Mine Inspector,,DEM,Thomas C. Karvala,27
+Iron,"City of Gaastra, Precinct 1",Iron County Mine Inspector,,DEM,Ballots Cast,27
+Iron,"City of Iron River, Precinct 1",Iron County Mine Inspector,,DEM,Thomas C. Karvala,100
+Iron,"City of Iron River, Precinct 1",Iron County Mine Inspector,,DEM,Ballots Cast,100
+Iron,"City of Iron River, Precinct 2",Iron County Mine Inspector,,DEM,Thomas C. Karvala,97
+Iron,"City of Iron River, Precinct 2",Iron County Mine Inspector,,DEM,Write-In,1
+Iron,"City of Iron River, Precinct 2",Iron County Mine Inspector,,DEM,Ballots Cast,98
+Iron,"Crystal Falls Township, Precinct 1",Iron County Mine Inspector,,DEM,Thomas C. Karvala,186
+Iron,"Crystal Falls Township, Precinct 1",Iron County Mine Inspector,,DEM,Ballots Cast,186
+Iron,"Hematite Township, Precinct 1",Iron County Mine Inspector,,DEM,Thomas C. Karvala,24
+Iron,"Hematite Township, Precinct 1",Iron County Mine Inspector,,DEM,Ballots Cast,24
+Iron,"Iron River Township, Precinct 1",Iron County Mine Inspector,,DEM,Thomas C. Karvala,76
+Iron,"Iron River Township, Precinct 1",Iron County Mine Inspector,,DEM,Ballots Cast,76
+Iron,"Mansfield Township, Precinct 1",Iron County Mine Inspector,,DEM,Thomas C. Karvala,18
+Iron,"Mansfield Township, Precinct 1",Iron County Mine Inspector,,DEM,Ballots Cast,18
+Iron,"Mastodon Township, Precinct 1",Iron County Mine Inspector,,DEM,Thomas C. Karvala,71
+Iron,"Mastodon Township, Precinct 1",Iron County Mine Inspector,,DEM,Ballots Cast,71
+Iron,"Stambaugh Township, Precinct 1",Iron County Mine Inspector,,DEM,Thomas C. Karvala,116
+Iron,"Stambaugh Township, Precinct 1",Iron County Mine Inspector,,DEM,Ballots Cast,116
+Iron,"Bates Township, Precinct 1",Iron County Road Commissioner,,DEM,Write-In,2
+Iron,"Bates Township, Precinct 1",Iron County Road Commissioner,,DEM,Ballots Cast,2
+Iron,"City of Caspian, Precinct 1",Iron County Road Commissioner,,DEM,Write-In,8
+Iron,"City of Caspian, Precinct 1",Iron County Road Commissioner,,DEM,Ballots Cast,8
+Iron,"City of Crystal Falls, Precinct 1",Iron County Road Commissioner,,DEM,Write-In,6
+Iron,"City of Crystal Falls, Precinct 1",Iron County Road Commissioner,,DEM,Ballots Cast,6
+Iron,"City of Gaastra, Precinct 1",Iron County Road Commissioner,,DEM,Write-In,3
+Iron,"City of Gaastra, Precinct 1",Iron County Road Commissioner,,DEM,Ballots Cast,3
+Iron,"City of Iron River, Precinct 1",Iron County Road Commissioner,,DEM,Write-In,9
+Iron,"City of Iron River, Precinct 1",Iron County Road Commissioner,,DEM,Ballots Cast,9
+Iron,"City of Iron River, Precinct 2",Iron County Road Commissioner,,DEM,Write-In,11
+Iron,"City of Iron River, Precinct 2",Iron County Road Commissioner,,DEM,Ballots Cast,11
+Iron,"Crystal Falls Township, Precinct 1",Iron County Road Commissioner,,DEM,Write-In,8
+Iron,"Crystal Falls Township, Precinct 1",Iron County Road Commissioner,,DEM,Ballots Cast,8
+Iron,"Hematite Township, Precinct 1",Iron County Road Commissioner,,DEM,Ballots Cast,0
+Iron,"Iron River Township, Precinct 1",Iron County Road Commissioner,,DEM,Write-In,6
+Iron,"Iron River Township, Precinct 1",Iron County Road Commissioner,,DEM,Ballots Cast,6
+Iron,"Mansfield Township, Precinct 1",Iron County Road Commissioner,,DEM,Ballots Cast,0
+Iron,"Mastodon Township, Precinct 1",Iron County Road Commissioner,,DEM,Write-In,1
+Iron,"Mastodon Township, Precinct 1",Iron County Road Commissioner,,DEM,Ballots Cast,1
+Iron,"Stambaugh Township, Precinct 1",Iron County Road Commissioner,,DEM,Write-In,4
+Iron,"Stambaugh Township, Precinct 1",Iron County Road Commissioner,,DEM,Ballots Cast,4
+Iron,"City of Gaastra, Precinct 1",County Commissioner 1st District,,DEM,Patti A. Peretto,27
+Iron,"City of Gaastra, Precinct 1",County Commissioner 1st District,,DEM,Ballots Cast,27
+Iron,"Iron River Township, Precinct 1",County Commissioner 1st District,,DEM,Patti A. Peretto,76
+Iron,"Iron River Township, Precinct 1",County Commissioner 1st District,,DEM,Ballots Cast,76
+Iron,"Stambaugh Township, Precinct 1",County Commissioner 1st District,,DEM,Patti A. Peretto,91
+Iron,"Stambaugh Township, Precinct 1",County Commissioner 1st District,,DEM,Ballots Cast,91
+Iron,"Bates Township, Precinct 1",County Commissioner 2nd District,,DEM,Write-In,2
+Iron,"Bates Township, Precinct 1",County Commissioner 2nd District,,DEM,Ballots Cast,2
+Iron,"City of Iron River, Precinct 1",County Commissioner 2nd District,,DEM,Write-In,5
+Iron,"City of Iron River, Precinct 1",County Commissioner 2nd District,,DEM,Ballots Cast,5
+Iron,"City of Caspian, Precinct 1",County Commissioner 3rd District,,DEM,Write-In,6
+Iron,"City of Caspian, Precinct 1",County Commissioner 3rd District,,DEM,Ballots Cast,6
+Iron,"City of Iron River, Precinct 2",County Commissioner 3rd District,,DEM,Write-In,10
+Iron,"City of Iron River, Precinct 2",County Commissioner 3rd District,,DEM,Ballots Cast,10
+Iron,"City of Crystal Falls, Precinct 1",County Commissioner 4th District,,DEM,Write-In,4
+Iron,"City of Crystal Falls, Precinct 1",County Commissioner 4th District,,DEM,Ballots Cast,4
+Iron,"Mastodon Township, Precinct 1",County Commissioner 4th District,,DEM,Write-In,1
+Iron,"Mastodon Township, Precinct 1",County Commissioner 4th District,,DEM,Ballots Cast,1
+Iron,"Stambaugh Township, Precinct 1",County Commissioner 4th District,,DEM,Write-In,1
+Iron,"Stambaugh Township, Precinct 1",County Commissioner 4th District,,DEM,Ballots Cast,1
+Iron,"Bates Township, Precinct 1",County Commissioner 5th District,,DEM,Ballots Cast,0
+Iron,"Crystal Falls Township, Precinct 1",County Commissioner 5th District,,DEM,Write-In,8
+Iron,"Crystal Falls Township, Precinct 1",County Commissioner 5th District,,DEM,Ballots Cast,8
+Iron,"Hematite Township, Precinct 1",County Commissioner 5th District,,DEM,Ballots Cast,0
+Iron,"Mansfield Township, Precinct 1",County Commissioner 5th District,,DEM,Ballots Cast,0
+Iron,"Bates Township, Precinct 1",Bates Township Supervisor,,DEM,Write-In,2
+Iron,"Bates Township, Precinct 1",Bates Township Supervisor,,DEM,Ballots Cast,2
+Iron,"Bates Township, Precinct 1",Bates Township Clerk,,DEM,Write-In,2
+Iron,"Bates Township, Precinct 1",Bates Township Clerk,,DEM,Ballots Cast,2
+Iron,"Bates Township, Precinct 1",Bates Township Treasurer,,DEM,Write-In,2
+Iron,"Bates Township, Precinct 1",Bates Township Treasurer,,DEM,Ballots Cast,2
+Iron,"Bates Township, Precinct 1",Bates Township Trustee,,DEM,Write-In,2
+Iron,"Bates Township, Precinct 1",Bates Township Trustee,,DEM,Ballots Cast,2
+Iron,"Bates Township, Precinct 1",Bates Township Constable,,DEM,Write-In,2
+Iron,"Bates Township, Precinct 1",Bates Township Constable,,DEM,Ballots Cast,2
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Supervisor,,DEM,Allen L. Jaeger,153
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Supervisor,,DEM,Write-In,1
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Supervisor,,DEM,Ballots Cast,154
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Clerk,,DEM,Nancy Niemi,205
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Clerk,,DEM,Ballots Cast,205
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Treasurer,,DEM,Jennifer Ketola,200
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Treasurer,,DEM,Ballots Cast,200
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Trustee,,DEM,Diane Kut,158
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Trustee,,DEM,Joanne Seppala,175
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Trustee,,DEM,Write-In,1
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Trustee,,DEM,Ballots Cast,334
+Iron,"Hematite Township, Precinct 1",Hematite Township Supervisor,,DEM,Ballots Cast,0
+Iron,"Hematite Township, Precinct 1",Hematite Township Clerk,,DEM,Ballots Cast,0
+Iron,"Hematite Township, Precinct 1",Hematite Township Treasurer,,DEM,Ballots Cast,0
+Iron,"Hematite Township, Precinct 1",Hematite Township Trustee,,DEM,Write-In,1
+Iron,"Hematite Township, Precinct 1",Hematite Township Trustee,,DEM,Ballots Cast,1
+Iron,"Hematite Township, Precinct 1",Hematite Township Constable,,DEM,Write-In,1
+Iron,"Hematite Township, Precinct 1",Hematite Township Constable,,DEM,Ballots Cast,1
+Iron,"Iron River Township, Precinct 1",Iron River Township Supervisor,,DEM,Write-In,4
+Iron,"Iron River Township, Precinct 1",Iron River Township Supervisor,,DEM,Ballots Cast,4
+Iron,"Iron River Township, Precinct 1",Iron River Township Clerk,,DEM,Write-In,4
+Iron,"Iron River Township, Precinct 1",Iron River Township Clerk,,DEM,Ballots Cast,4
+Iron,"Iron River Township, Precinct 1",Iron River Township Treasurer,,DEM,Write-In,4
+Iron,"Iron River Township, Precinct 1",Iron River Township Treasurer,,DEM,Ballots Cast,4
+Iron,"Iron River Township, Precinct 1",Iron River Township Trustee,,DEM,Write-In,5
+Iron,"Iron River Township, Precinct 1",Iron River Township Trustee,,DEM,Ballots Cast,5
+Iron,"Iron River Township, Precinct 1",Iron River Township Constable,,DEM,Write-In,4
+Iron,"Iron River Township, Precinct 1",Iron River Township Constable,,DEM,Ballots Cast,4
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Supervisor,,DEM,Ballots Cast,0
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Clerk,,DEM,Ballots Cast,0
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Treasurer,,DEM,Ballots Cast,0
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Trustee,,DEM,Ballots Cast,0
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Constable,,DEM,Ballots Cast,0
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Supervisor,,DEM,Write-In,1
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Supervisor,,DEM,Ballots Cast,1
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Clerk,,DEM,Write-In,1
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Clerk,,DEM,Ballots Cast,1
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Treasurer,,DEM,Write-In,1
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Treasurer,,DEM,Ballots Cast,1
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Trustee,,DEM,Write-In,1
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Trustee,,DEM,Ballots Cast,1
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Constable,,DEM,Write-In,1
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Constable,,DEM,Ballots Cast,1
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Supervisor,,DEM,Write-In,4
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Supervisor,,DEM,Ballots Cast,4
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Clerk,,DEM,Write-In,2
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Clerk,,DEM,Ballots Cast,2
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Treasurer,,DEM,Write-In,2
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Treasurer,,DEM,Ballots Cast,2
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Trustee,,DEM,Dean Stolberg,109
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Trustee,,DEM,Write-In,1
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Trustee,,DEM,Ballots Cast,110
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Constable,,DEM,Write-In,3
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Constable,,DEM,Ballots Cast,3
+Iron,"City of Caspian, Precinct 1","City of Caspian, Precinct 1 Delegate to County Convention",,DEM,Write-In,6
+Iron,"City of Caspian, Precinct 1","City of Caspian, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,6
+Iron,"City of Crystal Falls, Precinct 1","City of Crystal Falls, Precinct 1 Delegate to County Convention",,DEM,Write-In,5
+Iron,"City of Crystal Falls, Precinct 1","City of Crystal Falls, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,5
+Iron,"City of Gaastra, Precinct 1","City of Gaastra, Precinct 1 Delegate to County Convention",,DEM,Write-In,3
+Iron,"City of Gaastra, Precinct 1","City of Gaastra, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,3
+Iron,"City of Iron River, Precinct 1","City of Iron River, Precinct 1 Delegate to County Convention",,DEM,Write-In,5
+Iron,"City of Iron River, Precinct 1","City of Iron River, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,5
+Iron,"City of Iron River, Precinct 2","City of Iron River, Precinct 2 Delegate to County Convention",,DEM,Write-In,10
+Iron,"City of Iron River, Precinct 2","City of Iron River, Precinct 2 Delegate to County Convention",,DEM,Ballots Cast,10
+Iron,"Bates Township, Precinct 1","Bates Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,2
+Iron,"Bates Township, Precinct 1","Bates Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,2
+Iron,"Crystal Falls Township, Precinct 1","Crystal Falls Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,5
+Iron,"Crystal Falls Township, Precinct 1","Crystal Falls Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,5
+Iron,"Hematite Township, Precinct 1","Hematite Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,0
+Iron,"Iron River Township, Precinct 1","Iron River Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,4
+Iron,"Iron River Township, Precinct 1","Iron River Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,4
+Iron,"Mansfield Township, Precinct 1","Mansfield Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,0
+Iron,"Mastodon Township, Precinct 1","Mastodon Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,1
+Iron,"Mastodon Township, Precinct 1","Mastodon Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,1
+Iron,"Stambaugh Township, Precinct 1","Stambaugh Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,4
+Iron,"Stambaugh Township, Precinct 1","Stambaugh Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,4
+Iron,"Bates Township, Precinct 1",U.S. Senate,,REP,Justin Amash,12
+Iron,"Bates Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,85
+Iron,"Bates Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,4
+Iron,"Bates Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,26
+Iron,"Bates Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,127
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,REP,Justin Amash,9
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,REP,Mike Rogers,31
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,REP,Sandy Pensler,5
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,9
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,REP,Ballots Cast,54
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,REP,Justin Amash,11
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,REP,Mike Rogers,64
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,REP,Sandy Pensler,7
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,18
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,REP,Write-In,1
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,REP,Ballots Cast,101
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,REP,Justin Amash,1
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,REP,Mike Rogers,11
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,REP,Sandy Pensler,3
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,4
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,REP,Ballots Cast,19
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,REP,Justin Amash,6
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,REP,Mike Rogers,74
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,REP,Sandy Pensler,4
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,11
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,REP,Ballots Cast,95
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,REP,Justin Amash,9
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,REP,Mike Rogers,62
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,REP,Sandy Pensler,9
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,REP,Sherry O'Donnell,14
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,REP,Ballots Cast,94
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,REP,Justin Amash,13
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,101
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,18
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,20
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,152
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,REP,Justin Amash,2
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,23
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,1
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,6
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,32
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,REP,Justin Amash,30
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,130
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,7
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,33
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,201
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,REP,Justin Amash,5
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,28
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,4
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,6
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,44
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,REP,Justin Amash,9
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,79
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,14
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,17
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,120
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,REP,Justin Amash,9
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,125
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,14
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,16
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,164
+Iron,"Bates Township, Precinct 1",U.S. House,1,REP,Jack Bergman,127
+Iron,"Bates Township, Precinct 1",U.S. House,1,REP,Josh Saul,20
+Iron,"Bates Township, Precinct 1",U.S. House,1,REP,Ballots Cast,147
+Iron,"City of Caspian, Precinct 1",U.S. House,1,REP,Jack Bergman,49
+Iron,"City of Caspian, Precinct 1",U.S. House,1,REP,Josh Saul,13
+Iron,"City of Caspian, Precinct 1",U.S. House,1,REP,Ballots Cast,62
+Iron,"City of Crystal Falls, Precinct 1",U.S. House,1,REP,Jack Bergman,87
+Iron,"City of Crystal Falls, Precinct 1",U.S. House,1,REP,Josh Saul,25
+Iron,"City of Crystal Falls, Precinct 1",U.S. House,1,REP,Write-In,1
+Iron,"City of Crystal Falls, Precinct 1",U.S. House,1,REP,Ballots Cast,113
+Iron,"City of Gaastra, Precinct 1",U.S. House,1,REP,Jack Bergman,27
+Iron,"City of Gaastra, Precinct 1",U.S. House,1,REP,Josh Saul,2
+Iron,"City of Gaastra, Precinct 1",U.S. House,1,REP,Ballots Cast,29
+Iron,"City of Iron River, Precinct 1",U.S. House,1,REP,Jack Bergman,90
+Iron,"City of Iron River, Precinct 1",U.S. House,1,REP,Josh Saul,15
+Iron,"City of Iron River, Precinct 1",U.S. House,1,REP,Ballots Cast,105
+Iron,"City of Iron River, Precinct 2",U.S. House,1,REP,Jack Bergman,91
+Iron,"City of Iron River, Precinct 2",U.S. House,1,REP,Josh Saul,8
+Iron,"City of Iron River, Precinct 2",U.S. House,1,REP,Ballots Cast,99
+Iron,"Crystal Falls Township, Precinct 1",U.S. House,1,REP,Jack Bergman,145
+Iron,"Crystal Falls Township, Precinct 1",U.S. House,1,REP,Josh Saul,26
+Iron,"Crystal Falls Township, Precinct 1",U.S. House,1,REP,Ballots Cast,171
+Iron,"Hematite Township, Precinct 1",U.S. House,1,REP,Jack Bergman,23
+Iron,"Hematite Township, Precinct 1",U.S. House,1,REP,Josh Saul,10
+Iron,"Hematite Township, Precinct 1",U.S. House,1,REP,Ballots Cast,33
+Iron,"Iron River Township, Precinct 1",U.S. House,1,REP,Jack Bergman,201
+Iron,"Iron River Township, Precinct 1",U.S. House,1,REP,Josh Saul,23
+Iron,"Iron River Township, Precinct 1",U.S. House,1,REP,Ballots Cast,224
+Iron,"Mansfield Township, Precinct 1",U.S. House,1,REP,Jack Bergman,42
+Iron,"Mansfield Township, Precinct 1",U.S. House,1,REP,Josh Saul,6
+Iron,"Mansfield Township, Precinct 1",U.S. House,1,REP,Ballots Cast,48
+Iron,"Mastodon Township, Precinct 1",U.S. House,1,REP,Jack Bergman,108
+Iron,"Mastodon Township, Precinct 1",U.S. House,1,REP,Josh Saul,20
+Iron,"Mastodon Township, Precinct 1",U.S. House,1,REP,Ballots Cast,128
+Iron,"Stambaugh Township, Precinct 1",U.S. House,1,REP,Jack Bergman,167
+Iron,"Stambaugh Township, Precinct 1",U.S. House,1,REP,Josh Saul,20
+Iron,"Stambaugh Township, Precinct 1",U.S. House,1,REP,Ballots Cast,187
+Iron,"Bates Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,127
+Iron,"Bates Township, Precinct 1",State House,110,REP,Write-In,2
+Iron,"Bates Township, Precinct 1",State House,110,REP,Ballots Cast,129
+Iron,"City of Caspian, Precinct 1",State House,110,REP,Gregory J. Markkanen,52
+Iron,"City of Caspian, Precinct 1",State House,110,REP,Ballots Cast,52
+Iron,"City of Crystal Falls, Precinct 1",State House,110,REP,Gregory J. Markkanen,110
+Iron,"City of Crystal Falls, Precinct 1",State House,110,REP,Ballots Cast,110
+Iron,"City of Gaastra, Precinct 1",State House,110,REP,Gregory J. Markkanen,24
+Iron,"City of Gaastra, Precinct 1",State House,110,REP,Ballots Cast,24
+Iron,"City of Iron River, Precinct 1",State House,110,REP,Gregory J. Markkanen,92
+Iron,"City of Iron River, Precinct 1",State House,110,REP,Ballots Cast,92
+Iron,"City of Iron River, Precinct 2",State House,110,REP,Gregory J. Markkanen,97
+Iron,"City of Iron River, Precinct 2",State House,110,REP,Ballots Cast,97
+Iron,"Crystal Falls Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,159
+Iron,"Crystal Falls Township, Precinct 1",State House,110,REP,Write-In,1
+Iron,"Crystal Falls Township, Precinct 1",State House,110,REP,Ballots Cast,160
+Iron,"Hematite Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,33
+Iron,"Hematite Township, Precinct 1",State House,110,REP,Ballots Cast,33
+Iron,"Iron River Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,208
+Iron,"Iron River Township, Precinct 1",State House,110,REP,Ballots Cast,208
+Iron,"Mansfield Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,42
+Iron,"Mansfield Township, Precinct 1",State House,110,REP,Write-In,1
+Iron,"Mansfield Township, Precinct 1",State House,110,REP,Ballots Cast,43
+Iron,"Mastodon Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,120
+Iron,"Mastodon Township, Precinct 1",State House,110,REP,Write-In,1
+Iron,"Mastodon Township, Precinct 1",State House,110,REP,Ballots Cast,121
+Iron,"Stambaugh Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,168
+Iron,"Stambaugh Township, Precinct 1",State House,110,REP,Ballots Cast,168
+Iron,"Bates Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Chad A. DeRouin,107
+Iron,"Bates Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Write-In,1
+Iron,"Bates Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Ballots Cast,108
+Iron,"City of Caspian, Precinct 1",Iron County Prosecuting Attorney,,REP,Chad A. DeRouin,49
+Iron,"City of Caspian, Precinct 1",Iron County Prosecuting Attorney,,REP,Ballots Cast,49
+Iron,"City of Crystal Falls, Precinct 1",Iron County Prosecuting Attorney,,REP,Chad A. DeRouin,92
+Iron,"City of Crystal Falls, Precinct 1",Iron County Prosecuting Attorney,,REP,Ballots Cast,92
+Iron,"City of Gaastra, Precinct 1",Iron County Prosecuting Attorney,,REP,Chad A. DeRouin,21
+Iron,"City of Gaastra, Precinct 1",Iron County Prosecuting Attorney,,REP,Ballots Cast,21
+Iron,"City of Iron River, Precinct 1",Iron County Prosecuting Attorney,,REP,Chad A. DeRouin,85
+Iron,"City of Iron River, Precinct 1",Iron County Prosecuting Attorney,,REP,Write-In,1
+Iron,"City of Iron River, Precinct 1",Iron County Prosecuting Attorney,,REP,Ballots Cast,86
+Iron,"City of Iron River, Precinct 2",Iron County Prosecuting Attorney,,REP,Chad A. DeRouin,84
+Iron,"City of Iron River, Precinct 2",Iron County Prosecuting Attorney,,REP,Ballots Cast,84
+Iron,"Crystal Falls Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Chad A. DeRouin,138
+Iron,"Crystal Falls Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Write-In,2
+Iron,"Crystal Falls Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Ballots Cast,140
+Iron,"Hematite Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Chad A. DeRouin,29
+Iron,"Hematite Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Ballots Cast,29
+Iron,"Iron River Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Chad A. DeRouin,184
+Iron,"Iron River Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Write-In,1
+Iron,"Iron River Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Ballots Cast,185
+Iron,"Mansfield Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Chad A. DeRouin,37
+Iron,"Mansfield Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Write-In,1
+Iron,"Mansfield Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Ballots Cast,38
+Iron,"Mastodon Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Chad A. DeRouin,107
+Iron,"Mastodon Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Write-In,1
+Iron,"Mastodon Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Ballots Cast,108
+Iron,"Stambaugh Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Chad A. DeRouin,150
+Iron,"Stambaugh Township, Precinct 1",Iron County Prosecuting Attorney,,REP,Ballots Cast,150
+Iron,"Bates Township, Precinct 1",Iron County Sheriff,,REP,Write-In,5
+Iron,"Bates Township, Precinct 1",Iron County Sheriff,,REP,Ballots Cast,5
+Iron,"City of Caspian, Precinct 1",Iron County Sheriff,,REP,Write-In,10
+Iron,"City of Caspian, Precinct 1",Iron County Sheriff,,REP,Ballots Cast,10
+Iron,"City of Crystal Falls, Precinct 1",Iron County Sheriff,,REP,Write-In,15
+Iron,"City of Crystal Falls, Precinct 1",Iron County Sheriff,,REP,Ballots Cast,15
+Iron,"City of Gaastra, Precinct 1",Iron County Sheriff,,REP,Write-In,3
+Iron,"City of Gaastra, Precinct 1",Iron County Sheriff,,REP,Ballots Cast,3
+Iron,"City of Iron River, Precinct 1",Iron County Sheriff,,REP,Write-In,13
+Iron,"City of Iron River, Precinct 1",Iron County Sheriff,,REP,Ballots Cast,13
+Iron,"City of Iron River, Precinct 2",Iron County Sheriff,,REP,Write-In,6
+Iron,"City of Iron River, Precinct 2",Iron County Sheriff,,REP,Ballots Cast,6
+Iron,"Crystal Falls Township, Precinct 1",Iron County Sheriff,,REP,Write-In,23
+Iron,"Crystal Falls Township, Precinct 1",Iron County Sheriff,,REP,Ballots Cast,23
+Iron,"Hematite Township, Precinct 1",Iron County Sheriff,,REP,Write-In,2
+Iron,"Hematite Township, Precinct 1",Iron County Sheriff,,REP,Ballots Cast,2
+Iron,"Iron River Township, Precinct 1",Iron County Sheriff,,REP,Write-In,18
+Iron,"Iron River Township, Precinct 1",Iron County Sheriff,,REP,Ballots Cast,18
+Iron,"Mansfield Township, Precinct 1",Iron County Sheriff,,REP,Write-In,6
+Iron,"Mansfield Township, Precinct 1",Iron County Sheriff,,REP,Ballots Cast,6
+Iron,"Mastodon Township, Precinct 1",Iron County Sheriff,,REP,Write-In,21
+Iron,"Mastodon Township, Precinct 1",Iron County Sheriff,,REP,Ballots Cast,21
+Iron,"Stambaugh Township, Precinct 1",Iron County Sheriff,,REP,Write-In,5
+Iron,"Stambaugh Township, Precinct 1",Iron County Sheriff,,REP,Ballots Cast,5
+Iron,"Bates Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Write-In,6
+Iron,"Bates Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Ballots Cast,6
+Iron,"City of Caspian, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Write-In,10
+Iron,"City of Caspian, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Ballots Cast,10
+Iron,"City of Crystal Falls, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Write-In,12
+Iron,"City of Crystal Falls, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Ballots Cast,12
+Iron,"City of Gaastra, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Write-In,3
+Iron,"City of Gaastra, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Ballots Cast,3
+Iron,"City of Iron River, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Write-In,12
+Iron,"City of Iron River, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Ballots Cast,12
+Iron,"City of Iron River, Precinct 2",Iron County Clerk and Register of Deeds,,REP,Write-In,5
+Iron,"City of Iron River, Precinct 2",Iron County Clerk and Register of Deeds,,REP,Ballots Cast,5
+Iron,"Crystal Falls Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Write-In,19
+Iron,"Crystal Falls Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Ballots Cast,19
+Iron,"Hematite Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Write-In,2
+Iron,"Hematite Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Ballots Cast,2
+Iron,"Iron River Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Write-In,17
+Iron,"Iron River Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Ballots Cast,17
+Iron,"Mansfield Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Write-In,5
+Iron,"Mansfield Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Ballots Cast,5
+Iron,"Mastodon Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Write-In,21
+Iron,"Mastodon Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Ballots Cast,21
+Iron,"Stambaugh Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Write-In,4
+Iron,"Stambaugh Township, Precinct 1",Iron County Clerk and Register of Deeds,,REP,Ballots Cast,4
+Iron,"Bates Township, Precinct 1",Iron County Treasurer,,REP,Write-In,4
+Iron,"Bates Township, Precinct 1",Iron County Treasurer,,REP,Ballots Cast,4
+Iron,"City of Caspian, Precinct 1",Iron County Treasurer,,REP,Write-In,9
+Iron,"City of Caspian, Precinct 1",Iron County Treasurer,,REP,Ballots Cast,9
+Iron,"City of Crystal Falls, Precinct 1",Iron County Treasurer,,REP,Write-In,13
+Iron,"City of Crystal Falls, Precinct 1",Iron County Treasurer,,REP,Ballots Cast,13
+Iron,"City of Gaastra, Precinct 1",Iron County Treasurer,,REP,Write-In,3
+Iron,"City of Gaastra, Precinct 1",Iron County Treasurer,,REP,Ballots Cast,3
+Iron,"City of Iron River, Precinct 1",Iron County Treasurer,,REP,Write-In,12
+Iron,"City of Iron River, Precinct 1",Iron County Treasurer,,REP,Ballots Cast,12
+Iron,"City of Iron River, Precinct 2",Iron County Treasurer,,REP,Write-In,5
+Iron,"City of Iron River, Precinct 2",Iron County Treasurer,,REP,Ballots Cast,5
+Iron,"Crystal Falls Township, Precinct 1",Iron County Treasurer,,REP,Write-In,19
+Iron,"Crystal Falls Township, Precinct 1",Iron County Treasurer,,REP,Ballots Cast,19
+Iron,"Hematite Township, Precinct 1",Iron County Treasurer,,REP,Write-In,2
+Iron,"Hematite Township, Precinct 1",Iron County Treasurer,,REP,Ballots Cast,2
+Iron,"Iron River Township, Precinct 1",Iron County Treasurer,,REP,Write-In,17
+Iron,"Iron River Township, Precinct 1",Iron County Treasurer,,REP,Ballots Cast,17
+Iron,"Mansfield Township, Precinct 1",Iron County Treasurer,,REP,Write-In,4
+Iron,"Mansfield Township, Precinct 1",Iron County Treasurer,,REP,Ballots Cast,4
+Iron,"Mastodon Township, Precinct 1",Iron County Treasurer,,REP,Write-In,19
+Iron,"Mastodon Township, Precinct 1",Iron County Treasurer,,REP,Ballots Cast,19
+Iron,"Stambaugh Township, Precinct 1",Iron County Treasurer,,REP,Write-In,4
+Iron,"Stambaugh Township, Precinct 1",Iron County Treasurer,,REP,Ballots Cast,4
+Iron,"Bates Township, Precinct 1",Iron County Mine Inspector,,REP,Write-In,9
+Iron,"Bates Township, Precinct 1",Iron County Mine Inspector,,REP,Ballots Cast,9
+Iron,"City of Caspian, Precinct 1",Iron County Mine Inspector,,REP,Write-In,8
+Iron,"City of Caspian, Precinct 1",Iron County Mine Inspector,,REP,Ballots Cast,8
+Iron,"City of Crystal Falls, Precinct 1",Iron County Mine Inspector,,REP,Write-In,10
+Iron,"City of Crystal Falls, Precinct 1",Iron County Mine Inspector,,REP,Ballots Cast,10
+Iron,"City of Gaastra, Precinct 1",Iron County Mine Inspector,,REP,Write-In,2
+Iron,"City of Gaastra, Precinct 1",Iron County Mine Inspector,,REP,Ballots Cast,2
+Iron,"City of Iron River, Precinct 1",Iron County Mine Inspector,,REP,Write-In,9
+Iron,"City of Iron River, Precinct 1",Iron County Mine Inspector,,REP,Ballots Cast,9
+Iron,"City of Iron River, Precinct 2",Iron County Mine Inspector,,REP,Write-In,4
+Iron,"City of Iron River, Precinct 2",Iron County Mine Inspector,,REP,Ballots Cast,4
+Iron,"Crystal Falls Township, Precinct 1",Iron County Mine Inspector,,REP,Write-In,20
+Iron,"Crystal Falls Township, Precinct 1",Iron County Mine Inspector,,REP,Ballots Cast,20
+Iron,"Hematite Township, Precinct 1",Iron County Mine Inspector,,REP,Write-In,1
+Iron,"Hematite Township, Precinct 1",Iron County Mine Inspector,,REP,Ballots Cast,1
+Iron,"Iron River Township, Precinct 1",Iron County Mine Inspector,,REP,Write-In,19
+Iron,"Iron River Township, Precinct 1",Iron County Mine Inspector,,REP,Ballots Cast,19
+Iron,"Mansfield Township, Precinct 1",Iron County Mine Inspector,,REP,Write-In,5
+Iron,"Mansfield Township, Precinct 1",Iron County Mine Inspector,,REP,Ballots Cast,5
+Iron,"Mastodon Township, Precinct 1",Iron County Mine Inspector,,REP,Write-In,20
+Iron,"Mastodon Township, Precinct 1",Iron County Mine Inspector,,REP,Ballots Cast,20
+Iron,"Stambaugh Township, Precinct 1",Iron County Mine Inspector,,REP,Write-In,7
+Iron,"Stambaugh Township, Precinct 1",Iron County Mine Inspector,,REP,Ballots Cast,7
+Iron,"Bates Township, Precinct 1",Iron County Road Commissioner,,REP,Dan R. Germic,82
+Iron,"Bates Township, Precinct 1",Iron County Road Commissioner,,REP,Ron Frailing,122
+Iron,"Bates Township, Precinct 1",Iron County Road Commissioner,,REP,Ballots Cast,204
+Iron,"City of Caspian, Precinct 1",Iron County Road Commissioner,,REP,Dan R. Germic,30
+Iron,"City of Caspian, Precinct 1",Iron County Road Commissioner,,REP,Ron Frailing,50
+Iron,"City of Caspian, Precinct 1",Iron County Road Commissioner,,REP,Ballots Cast,80
+Iron,"City of Crystal Falls, Precinct 1",Iron County Road Commissioner,,REP,Dan R. Germic,76
+Iron,"City of Crystal Falls, Precinct 1",Iron County Road Commissioner,,REP,Ron Frailing,59
+Iron,"City of Crystal Falls, Precinct 1",Iron County Road Commissioner,,REP,Write-In,1
+Iron,"City of Crystal Falls, Precinct 1",Iron County Road Commissioner,,REP,Ballots Cast,136
+Iron,"City of Gaastra, Precinct 1",Iron County Road Commissioner,,REP,Dan R. Germic,8
+Iron,"City of Gaastra, Precinct 1",Iron County Road Commissioner,,REP,Ron Frailing,22
+Iron,"City of Gaastra, Precinct 1",Iron County Road Commissioner,,REP,Ballots Cast,30
+Iron,"City of Iron River, Precinct 1",Iron County Road Commissioner,,REP,Dan R. Germic,45
+Iron,"City of Iron River, Precinct 1",Iron County Road Commissioner,,REP,Ron Frailing,88
+Iron,"City of Iron River, Precinct 1",Iron County Road Commissioner,,REP,Ballots Cast,133
+Iron,"City of Iron River, Precinct 2",Iron County Road Commissioner,,REP,Dan R. Germic,54
+Iron,"City of Iron River, Precinct 2",Iron County Road Commissioner,,REP,Ron Frailing,77
+Iron,"City of Iron River, Precinct 2",Iron County Road Commissioner,,REP,Ballots Cast,131
+Iron,"Crystal Falls Township, Precinct 1",Iron County Road Commissioner,,REP,Dan R. Germic,104
+Iron,"Crystal Falls Township, Precinct 1",Iron County Road Commissioner,,REP,Ron Frailing,117
+Iron,"Crystal Falls Township, Precinct 1",Iron County Road Commissioner,,REP,Ballots Cast,221
+Iron,"Hematite Township, Precinct 1",Iron County Road Commissioner,,REP,Dan R. Germic,19
+Iron,"Hematite Township, Precinct 1",Iron County Road Commissioner,,REP,Ron Frailing,17
+Iron,"Hematite Township, Precinct 1",Iron County Road Commissioner,,REP,Ballots Cast,36
+Iron,"Iron River Township, Precinct 1",Iron County Road Commissioner,,REP,Dan R. Germic,111
+Iron,"Iron River Township, Precinct 1",Iron County Road Commissioner,,REP,Ron Frailing,183
+Iron,"Iron River Township, Precinct 1",Iron County Road Commissioner,,REP,Ballots Cast,294
+Iron,"Mansfield Township, Precinct 1",Iron County Road Commissioner,,REP,Dan R. Germic,35
+Iron,"Mansfield Township, Precinct 1",Iron County Road Commissioner,,REP,Ron Frailing,29
+Iron,"Mansfield Township, Precinct 1",Iron County Road Commissioner,,REP,Write-In,1
+Iron,"Mansfield Township, Precinct 1",Iron County Road Commissioner,,REP,Ballots Cast,65
+Iron,"Mastodon Township, Precinct 1",Iron County Road Commissioner,,REP,Dan R. Germic,71
+Iron,"Mastodon Township, Precinct 1",Iron County Road Commissioner,,REP,Ron Frailing,81
+Iron,"Mastodon Township, Precinct 1",Iron County Road Commissioner,,REP,Write-In,1
+Iron,"Mastodon Township, Precinct 1",Iron County Road Commissioner,,REP,Ballots Cast,153
+Iron,"Stambaugh Township, Precinct 1",Iron County Road Commissioner,,REP,Dan R. Germic,100
+Iron,"Stambaugh Township, Precinct 1",Iron County Road Commissioner,,REP,Ron Frailing,145
+Iron,"Stambaugh Township, Precinct 1",Iron County Road Commissioner,,REP,Ballots Cast,245
+Iron,"City of Gaastra, Precinct 1",County Commissioner 1st District,,REP,Write-In,2
+Iron,"City of Gaastra, Precinct 1",County Commissioner 1st District,,REP,Ballots Cast,2
+Iron,"Iron River Township, Precinct 1",County Commissioner 1st District,,REP,Write-In,13
+Iron,"Iron River Township, Precinct 1",County Commissioner 1st District,,REP,Ballots Cast,13
+Iron,"Stambaugh Township, Precinct 1",County Commissioner 1st District,,REP,Write-In,5
+Iron,"Stambaugh Township, Precinct 1",County Commissioner 1st District,,REP,Ballots Cast,5
+Iron,"Bates Township, Precinct 1",County Commissioner 2nd District,,REP,Write-In,3
+Iron,"Bates Township, Precinct 1",County Commissioner 2nd District,,REP,Ballots Cast,3
+Iron,"City of Iron River, Precinct 1",County Commissioner 2nd District,,REP,Write-In,8
+Iron,"City of Iron River, Precinct 1",County Commissioner 2nd District,,REP,Ballots Cast,8
+Iron,"City of Caspian, Precinct 1",County Commissioner 3rd District,,REP,Write-In,8
+Iron,"City of Caspian, Precinct 1",County Commissioner 3rd District,,REP,Ballots Cast,8
+Iron,"City of Iron River, Precinct 2",County Commissioner 3rd District,,REP,Write-In,3
+Iron,"City of Iron River, Precinct 2",County Commissioner 3rd District,,REP,Ballots Cast,3
+Iron,"City of Crystal Falls, Precinct 1",County Commissioner 4th District,,REP,Write-In,10
+Iron,"City of Crystal Falls, Precinct 1",County Commissioner 4th District,,REP,Ballots Cast,10
+Iron,"Mastodon Township, Precinct 1",County Commissioner 4th District,,REP,Write-In,19
+Iron,"Mastodon Township, Precinct 1",County Commissioner 4th District,,REP,Ballots Cast,19
+Iron,"Stambaugh Township, Precinct 1",County Commissioner 4th District,,REP,Ballots Cast,0
+Iron,"Bates Township, Precinct 1",County Commissioner 5th District,,REP,Write-In,1
+Iron,"Bates Township, Precinct 1",County Commissioner 5th District,,REP,Ballots Cast,1
+Iron,"Crystal Falls Township, Precinct 1",County Commissioner 5th District,,REP,Write-In,15
+Iron,"Crystal Falls Township, Precinct 1",County Commissioner 5th District,,REP,Ballots Cast,15
+Iron,"Hematite Township, Precinct 1",County Commissioner 5th District,,REP,Write-In,1
+Iron,"Hematite Township, Precinct 1",County Commissioner 5th District,,REP,Ballots Cast,1
+Iron,"Mansfield Township, Precinct 1",County Commissioner 5th District,,REP,Write-In,5
+Iron,"Mansfield Township, Precinct 1",County Commissioner 5th District,,REP,Ballots Cast,5
+Iron,"Bates Township, Precinct 1",Bates Township Supervisor,,REP,Mike Stafford,114
+Iron,"Bates Township, Precinct 1",Bates Township Supervisor,,REP,Ballots Cast,114
+Iron,"Bates Township, Precinct 1",Bates Township Clerk,,REP,Barbara Benson-Stafford,121
+Iron,"Bates Township, Precinct 1",Bates Township Clerk,,REP,Ballots Cast,121
+Iron,"Bates Township, Precinct 1",Bates Township Treasurer,,REP,Teresa L. Nelson,128
+Iron,"Bates Township, Precinct 1",Bates Township Treasurer,,REP,Ballots Cast,128
+Iron,"Bates Township, Precinct 1",Bates Township Trustee,,REP,Jane Adams,102
+Iron,"Bates Township, Precinct 1",Bates Township Trustee,,REP,Michael Franzene,113
+Iron,"Bates Township, Precinct 1",Bates Township Trustee,,REP,Ballots Cast,215
+Iron,"Bates Township, Precinct 1",Bates Township Constable,,REP,Write-In,3
+Iron,"Bates Township, Precinct 1",Bates Township Constable,,REP,Ballots Cast,3
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Supervisor,,REP,Curtis Stebic,141
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Supervisor,,REP,Ballots Cast,141
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Clerk,,REP,Write-In,17
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Clerk,,REP,Ballots Cast,17
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Treasurer,,REP,Write-In,17
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Treasurer,,REP,Ballots Cast,17
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Trustee,,REP,Write-In,22
+Iron,"Crystal Falls Township, Precinct 1",Crystal Falls Township Trustee,,REP,Ballots Cast,22
+Iron,"Hematite Township, Precinct 1",Hematite Township Supervisor,,REP,Write-In,1
+Iron,"Hematite Township, Precinct 1",Hematite Township Supervisor,,REP,Ballots Cast,1
+Iron,"Hematite Township, Precinct 1",Hematite Township Clerk,,REP,Write-In,1
+Iron,"Hematite Township, Precinct 1",Hematite Township Clerk,,REP,Ballots Cast,1
+Iron,"Hematite Township, Precinct 1",Hematite Township Treasurer,,REP,Write-In,1
+Iron,"Hematite Township, Precinct 1",Hematite Township Treasurer,,REP,Ballots Cast,1
+Iron,"Hematite Township, Precinct 1",Hematite Township Trustee,,REP,Carlyn Raduechel,24
+Iron,"Hematite Township, Precinct 1",Hematite Township Trustee,,REP,Write-In,2
+Iron,"Hematite Township, Precinct 1",Hematite Township Trustee,,REP,Ballots Cast,26
+Iron,"Hematite Township, Precinct 1",Hematite Township Constable,,REP,Gordon A. Robinson,26
+Iron,"Hematite Township, Precinct 1",Hematite Township Constable,,REP,Write-In,1
+Iron,"Hematite Township, Precinct 1",Hematite Township Constable,,REP,Ballots Cast,27
+Iron,"Iron River Township, Precinct 1",Iron River Township Supervisor,,REP,Scott L. Tarsi,196
+Iron,"Iron River Township, Precinct 1",Iron River Township Supervisor,,REP,Write-In,3
+Iron,"Iron River Township, Precinct 1",Iron River Township Supervisor,,REP,Ballots Cast,199
+Iron,"Iron River Township, Precinct 1",Iron River Township Clerk,,REP,Amber Laturi,195
+Iron,"Iron River Township, Precinct 1",Iron River Township Clerk,,REP,Ballots Cast,195
+Iron,"Iron River Township, Precinct 1",Iron River Township Treasurer,,REP,Dawn Pisoni,80
+Iron,"Iron River Township, Precinct 1",Iron River Township Treasurer,,REP,Marla J. Hill,142
+Iron,"Iron River Township, Precinct 1",Iron River Township Treasurer,,REP,Ballots Cast,222
+Iron,"Iron River Township, Precinct 1",Iron River Township Trustee,,REP,Douglas R. Bruster,83
+Iron,"Iron River Township, Precinct 1",Iron River Township Trustee,,REP,Michael J. Sheehy,112
+Iron,"Iron River Township, Precinct 1",Iron River Township Trustee,,REP,Rachel E. Gramann,54
+Iron,"Iron River Township, Precinct 1",Iron River Township Trustee,,REP,Westley Hill,132
+Iron,"Iron River Township, Precinct 1",Iron River Township Trustee,,REP,Ballots Cast,381
+Iron,"Iron River Township, Precinct 1",Iron River Township Constable,,REP,Write-In,15
+Iron,"Iron River Township, Precinct 1",Iron River Township Constable,,REP,Ballots Cast,15
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Supervisor,,REP,Brock VanOss,45
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Supervisor,,REP,Write-In,1
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Supervisor,,REP,Ballots Cast,46
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Clerk,,REP,John Leutz,43
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Clerk,,REP,Write-In,1
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Clerk,,REP,Ballots Cast,44
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Treasurer,,REP,Rosalie A. Poynter,43
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Treasurer,,REP,Write-In,1
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Treasurer,,REP,Ballots Cast,44
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Trustee,,REP,George J. Minerick,36
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Trustee,,REP,Mike Carey,39
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Trustee,,REP,Ballots Cast,75
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Constable,,REP,Write-In,5
+Iron,"Mansfield Township, Precinct 1",Mansfield Township Constable,,REP,Ballots Cast,5
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Supervisor,,REP,Write-In,16
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Supervisor,,REP,Ballots Cast,16
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Clerk,,REP,Write-In,17
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Clerk,,REP,Ballots Cast,17
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Treasurer,,REP,Stacy Watters,103
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Treasurer,,REP,Write-In,1
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Treasurer,,REP,Ballots Cast,104
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Trustee,,REP,David Smith,102
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Trustee,,REP,Write-In,3
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Trustee,,REP,Ballots Cast,105
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Constable,,REP,Write-In,16
+Iron,"Mastodon Township, Precinct 1",Mastodon Township Constable,,REP,Ballots Cast,16
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Supervisor,,REP,Kevin S. Isaacson,159
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Supervisor,,REP,Laura Erhart,35
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Supervisor,,REP,Ballots Cast,194
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Clerk,,REP,Margaret Christensen,172
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Clerk,,REP,Ballots Cast,172
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Treasurer,,REP,Sharon Rogers,176
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Treasurer,,REP,Ballots Cast,176
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Trustee,,REP,Sherry Pangrazzi,169
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Trustee,,REP,Ballots Cast,169
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Constable,,REP,Write-In,2
+Iron,"Stambaugh Township, Precinct 1",Stambaugh Township Constable,,REP,Ballots Cast,2
+Iron,"City of Caspian, Precinct 1","City of Caspian, Precinct 1 Delegate to County Convention",,REP,Write-In,6
+Iron,"City of Caspian, Precinct 1","City of Caspian, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,6
+Iron,"City of Crystal Falls, Precinct 1","City of Crystal Falls, Precinct 1 Delegate to County Convention",,REP,Write-In,14
+Iron,"City of Crystal Falls, Precinct 1","City of Crystal Falls, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,14
+Iron,"City of Gaastra, Precinct 1","City of Gaastra, Precinct 1 Delegate to County Convention",,REP,Write-In,2
+Iron,"City of Gaastra, Precinct 1","City of Gaastra, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,2
+Iron,"City of Iron River, Precinct 1","City of Iron River, Precinct 1 Delegate to County Convention",,REP,Write-In,8
+Iron,"City of Iron River, Precinct 1","City of Iron River, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,8
+Iron,"City of Iron River, Precinct 2","City of Iron River, Precinct 2 Delegate to County Convention",,REP,Erik Koenig,81
+Iron,"City of Iron River, Precinct 2","City of Iron River, Precinct 2 Delegate to County Convention",,REP,Ballots Cast,81
+Iron,"Bates Township, Precinct 1","Bates Township, Precinct 1 Delegate to County Convention",,REP,Krist D. Atanasoff,93
+Iron,"Bates Township, Precinct 1","Bates Township, Precinct 1 Delegate to County Convention",,REP,Write-In,2
+Iron,"Bates Township, Precinct 1","Bates Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,95
+Iron,"Crystal Falls Township, Precinct 1","Crystal Falls Township, Precinct 1 Delegate to County Convention",,REP,Patricia Ashcraft,131
+Iron,"Crystal Falls Township, Precinct 1","Crystal Falls Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,131
+Iron,"Hematite Township, Precinct 1","Hematite Township, Precinct 1 Delegate to County Convention",,REP,Marcus Wilson,24
+Iron,"Hematite Township, Precinct 1","Hematite Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,24
+Iron,"Iron River Township, Precinct 1","Iron River Township, Precinct 1 Delegate to County Convention",,REP,Write-In,16
+Iron,"Iron River Township, Precinct 1","Iron River Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,16
+Iron,"Mansfield Township, Precinct 1","Mansfield Township, Precinct 1 Delegate to County Convention",,REP,Write-In,4
+Iron,"Mansfield Township, Precinct 1","Mansfield Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,4
+Iron,"Mastodon Township, Precinct 1","Mastodon Township, Precinct 1 Delegate to County Convention",,REP,Write-In,16
+Iron,"Mastodon Township, Precinct 1","Mastodon Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,16
+Iron,"Stambaugh Township, Precinct 1","Stambaugh Township, Precinct 1 Delegate to County Convention",,REP,Write-In,4
+Iron,"Stambaugh Township, Precinct 1","Stambaugh Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,4
+Iron,"Bates Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,No,79
+Iron,"Bates Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Yes,149
+Iron,"Bates Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Ballots Cast,228
+Iron,"City of Caspian, Precinct 1",Renewal Millage Request Senior Center's Millage,,,No,25
+Iron,"City of Caspian, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Yes,85
+Iron,"City of Caspian, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Ballots Cast,110
+Iron,"City of Crystal Falls, Precinct 1",Renewal Millage Request Senior Center's Millage,,,No,37
+Iron,"City of Crystal Falls, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Yes,213
+Iron,"City of Crystal Falls, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Ballots Cast,250
+Iron,"City of Gaastra, Precinct 1",Renewal Millage Request Senior Center's Millage,,,No,9
+Iron,"City of Gaastra, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Yes,55
+Iron,"City of Gaastra, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Ballots Cast,64
+Iron,"City of Iron River, Precinct 1",Renewal Millage Request Senior Center's Millage,,,No,45
+Iron,"City of Iron River, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Yes,175
+Iron,"City of Iron River, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Ballots Cast,220
+Iron,"City of Iron River, Precinct 2",Renewal Millage Request Senior Center's Millage,,,No,56
+Iron,"City of Iron River, Precinct 2",Renewal Millage Request Senior Center's Millage,,,Yes,151
+Iron,"City of Iron River, Precinct 2",Renewal Millage Request Senior Center's Millage,,,Ballots Cast,207
+Iron,"Crystal Falls Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,No,70
+Iron,"Crystal Falls Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Yes,305
+Iron,"Crystal Falls Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Ballots Cast,375
+Iron,"Hematite Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,No,18
+Iron,"Hematite Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Yes,46
+Iron,"Hematite Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Ballots Cast,64
+Iron,"Iron River Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,No,93
+Iron,"Iron River Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Yes,214
+Iron,"Iron River Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Ballots Cast,307
+Iron,"Mansfield Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,No,21
+Iron,"Mansfield Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Yes,50
+Iron,"Mansfield Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Ballots Cast,71
+Iron,"Mastodon Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,No,61
+Iron,"Mastodon Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Yes,151
+Iron,"Mastodon Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Ballots Cast,212
+Iron,"Stambaugh Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,No,102
+Iron,"Stambaugh Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Yes,226
+Iron,"Stambaugh Township, Precinct 1",Renewal Millage Request Senior Center's Millage,,,Ballots Cast,328
+Iron,"Bates Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,No,63
+Iron,"Bates Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Yes,166
+Iron,"Bates Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Ballots Cast,229
+Iron,"City of Caspian, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,No,23
+Iron,"City of Caspian, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Yes,87
+Iron,"City of Caspian, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Ballots Cast,110
+Iron,"City of Crystal Falls, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,No,29
+Iron,"City of Crystal Falls, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Yes,220
+Iron,"City of Crystal Falls, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Ballots Cast,249
+Iron,"City of Gaastra, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,No,7
+Iron,"City of Gaastra, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Yes,59
+Iron,"City of Gaastra, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Ballots Cast,66
+Iron,"City of Iron River, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,No,39
+Iron,"City of Iron River, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Yes,181
+Iron,"City of Iron River, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Ballots Cast,220
+Iron,"City of Iron River, Precinct 2",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,No,43
+Iron,"City of Iron River, Precinct 2",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Yes,164
+Iron,"City of Iron River, Precinct 2",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Ballots Cast,207
+Iron,"Crystal Falls Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,No,67
+Iron,"Crystal Falls Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Yes,308
+Iron,"Crystal Falls Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Ballots Cast,375
+Iron,"Hematite Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,No,18
+Iron,"Hematite Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Yes,46
+Iron,"Hematite Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Ballots Cast,64
+Iron,"Iron River Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,No,79
+Iron,"Iron River Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Yes,229
+Iron,"Iron River Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Ballots Cast,308
+Iron,"Mansfield Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,No,13
+Iron,"Mansfield Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Yes,58
+Iron,"Mansfield Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Ballots Cast,71
+Iron,"Mastodon Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,No,53
+Iron,"Mastodon Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Yes,158
+Iron,"Mastodon Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Ballots Cast,211
+Iron,"Stambaugh Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,No,89
+Iron,"Stambaugh Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Yes,241
+Iron,"Stambaugh Township, Precinct 1",Renewal Millage Request County Meals on Wheels Nutrition Program Millage,,,Ballots Cast,330
+Iron,"Bates Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,No,99
+Iron,"Bates Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Yes,129
+Iron,"Bates Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Ballots Cast,228
+Iron,"City of Caspian, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,No,35
+Iron,"City of Caspian, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Yes,67
+Iron,"City of Caspian, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Ballots Cast,102
+Iron,"City of Crystal Falls, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,No,50
+Iron,"City of Crystal Falls, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Yes,168
+Iron,"City of Crystal Falls, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Ballots Cast,218
+Iron,"City of Gaastra, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,No,11
+Iron,"City of Gaastra, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Yes,44
+Iron,"City of Gaastra, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Ballots Cast,55
+Iron,"City of Iron River, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,No,73
+Iron,"City of Iron River, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Yes,133
+Iron,"City of Iron River, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Ballots Cast,206
+Iron,"City of Iron River, Precinct 2",Renewal Millage Request Healthcare Benefits Assistance Millage,,,No,65
+Iron,"City of Iron River, Precinct 2",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Yes,130
+Iron,"City of Iron River, Precinct 2",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Ballots Cast,195
+Iron,"Crystal Falls Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,No,125
+Iron,"Crystal Falls Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Yes,238
+Iron,"Crystal Falls Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Ballots Cast,363
+Iron,"Hematite Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,No,21
+Iron,"Hematite Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Yes,37
+Iron,"Hematite Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Ballots Cast,58
+Iron,"Iron River Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,No,116
+Iron,"Iron River Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Yes,163
+Iron,"Iron River Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Ballots Cast,279
+Iron,"Mansfield Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,No,20
+Iron,"Mansfield Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Yes,47
+Iron,"Mansfield Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Ballots Cast,67
+Iron,"Mastodon Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,No,75
+Iron,"Mastodon Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Yes,131
+Iron,"Mastodon Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Ballots Cast,206
+Iron,"Stambaugh Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,No,121
+Iron,"Stambaugh Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Yes,178
+Iron,"Stambaugh Township, Precinct 1",Renewal Millage Request Healthcare Benefits Assistance Millage,,,Ballots Cast,299
+Iron,"Bates Township, Precinct 1",Bates Township - Road Repair Millage,,,No,59
+Iron,"Bates Township, Precinct 1",Bates Township - Road Repair Millage,,,Yes,173
+Iron,"Bates Township, Precinct 1",Bates Township - Road Repair Millage,,,Ballots Cast,232

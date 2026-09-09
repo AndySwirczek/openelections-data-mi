@@ -1,0 +1,657 @@
+county,precinct,office,district,party,candidate,votes
+Oscoda,"Big Creek Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,49
+Oscoda,"Big Creek Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,4
+Oscoda,"Big Creek Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,48
+Oscoda,"Big Creek Township, Precinct 2",U.S. Senate,,DEM,Hill Harper,7
+Oscoda,"Big Creek Township, Precinct 2",U.S. Senate,,DEM,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,14
+Oscoda,"Clinton Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,3
+Oscoda,"Clinton Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,67
+Oscoda,"Comins Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,8
+Oscoda,"Comins Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,20
+Oscoda,"Elmer Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,8
+Oscoda,"Elmer Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,95
+Oscoda,"Greenwood Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,6
+Oscoda,"Greenwood Township, Precinct 1",U.S. Senate,,DEM,Write-In,1
+Oscoda,"Greenwood Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,55
+Oscoda,"Mentor Township, Precinct 1",U.S. Senate,,DEM,Hill Harper,7
+Oscoda,"Mentor Township, Precinct 1",U.S. Senate,,DEM,Write-In,1
+Oscoda,"Mentor Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,16
+Oscoda,"Big Creek Township, Precinct 1",U.S. House,1,DEM,Callie Barr,38
+Oscoda,"Big Creek Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,18
+Oscoda,"Big Creek Township, Precinct 2",U.S. House,1,DEM,Callie Barr,37
+Oscoda,"Big Creek Township, Precinct 2",U.S. House,1,DEM,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,5
+Oscoda,"Clinton Township, Precinct 1",U.S. House,1,DEM,Callie Barr,11
+Oscoda,"Clinton Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,25
+Oscoda,"Comins Township, Precinct 1",U.S. House,1,DEM,Callie Barr,52
+Oscoda,"Comins Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,8
+Oscoda,"Elmer Township, Precinct 1",U.S. House,1,DEM,Callie Barr,19
+Oscoda,"Elmer Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,32
+Oscoda,"Greenwood Township, Precinct 1",U.S. House,1,DEM,Callie Barr,68
+Oscoda,"Greenwood Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,21
+Oscoda,"Mentor Township, Precinct 1",U.S. House,1,DEM,Callie Barr,38
+Oscoda,"Mentor Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",State House,105,DEM,James Wojey,44
+Oscoda,"Big Creek Township, Precinct 1",State House,105,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",State House,105,DEM,James Wojey,49
+Oscoda,"Big Creek Township, Precinct 2",State House,105,DEM,Ballots Cast,451
+Oscoda,"Mentor Township, Precinct 1",State House,105,DEM,James Wojey,53
+Oscoda,"Mentor Township, Precinct 1",State House,105,DEM,Ballots Cast,389
+Oscoda,"Clinton Township, Precinct 1",State House,106,DEM,Mary Lucille Hamilton,4
+Oscoda,"Clinton Township, Precinct 1",State House,106,DEM,Trina Borenstein,12
+Oscoda,"Clinton Township, Precinct 1",State House,106,DEM,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",State House,106,DEM,Mary Lucille Hamilton,30
+Oscoda,"Comins Township, Precinct 1",State House,106,DEM,Trina Borenstein,38
+Oscoda,"Comins Township, Precinct 1",State House,106,DEM,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",State House,106,DEM,Mary Lucille Hamilton,15
+Oscoda,"Elmer Township, Precinct 1",State House,106,DEM,Trina Borenstein,12
+Oscoda,"Elmer Township, Precinct 1",State House,106,DEM,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",State House,106,DEM,Mary Lucille Hamilton,51
+Oscoda,"Greenwood Township, Precinct 1",State House,106,DEM,Trina Borenstein,36
+Oscoda,"Greenwood Township, Precinct 1",State House,106,DEM,Ballots Cast,432
+Oscoda,"Big Creek Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,5
+Oscoda,"Big Creek Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",County Prosecuting Attorney,,DEM,Write-In,2
+Oscoda,"Big Creek Township, Precinct 2",County Prosecuting Attorney,,DEM,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,12
+Oscoda,"Comins Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,5
+Oscoda,"Elmer Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,9
+Oscoda,"Greenwood Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,6
+Oscoda,"Mentor Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",County Sheriff,,DEM,Write-In,6
+Oscoda,"Big Creek Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",County Sheriff,,DEM,Write-In,2
+Oscoda,"Big Creek Township, Precinct 2",County Sheriff,,DEM,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",County Sheriff,,DEM,Write-In,17
+Oscoda,"Comins Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",County Sheriff,,DEM,Write-In,4
+Oscoda,"Elmer Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",County Sheriff,,DEM,Write-In,9
+Oscoda,"Greenwood Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",County Sheriff,,DEM,Write-In,7
+Oscoda,"Mentor Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Write-In,5
+Oscoda,"Big Creek Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",County Clerk and Register of Deeds,,DEM,Write-In,2
+Oscoda,"Big Creek Township, Precinct 2",County Clerk and Register of Deeds,,DEM,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Write-In,15
+Oscoda,"Comins Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Write-In,4
+Oscoda,"Elmer Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Write-In,9
+Oscoda,"Greenwood Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Write-In,6
+Oscoda,"Mentor Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",County Treasurer,,DEM,Write-In,6
+Oscoda,"Big Creek Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",County Treasurer,,DEM,Write-In,2
+Oscoda,"Big Creek Township, Precinct 2",County Treasurer,,DEM,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",County Treasurer,,DEM,Write-In,12
+Oscoda,"Comins Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",County Treasurer,,DEM,Write-In,4
+Oscoda,"Elmer Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",County Treasurer,,DEM,Write-In,9
+Oscoda,"Greenwood Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",County Treasurer,,DEM,Write-In,5
+Oscoda,"Mentor Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",County Road Commissioner,,DEM,Write-In,4
+Oscoda,"Big Creek Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",County Road Commissioner,,DEM,Write-In,2
+Oscoda,"Big Creek Township, Precinct 2",County Road Commissioner,,DEM,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",County Road Commissioner,,DEM,Write-In,12
+Oscoda,"Comins Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",County Road Commissioner,,DEM,Write-In,4
+Oscoda,"Elmer Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",County Road Commissioner,,DEM,Write-In,7
+Oscoda,"Greenwood Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",County Road Commissioner,,DEM,Write-In,6
+Oscoda,"Mentor Township, Precinct 1",County Road Commissioner,,DEM,Ballots Cast,389
+Oscoda,"Clinton Township, Precinct 1",County Commissioner,1,DEM,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",County Commissioner,1,DEM,Ballots Cast,21
+Oscoda,"Elmer Township, Precinct 1",County Commissioner,1,DEM,Write-In,3
+Oscoda,"Elmer Township, Precinct 1",County Commissioner,1,DEM,Ballots Cast,255
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,2,DEM,Write-In,1
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,2,DEM,Ballots Cast,178
+Oscoda,"Greenwood Township, Precinct 1",County Commissioner,2,DEM,Write-In,9
+Oscoda,"Greenwood Township, Precinct 1",County Commissioner,2,DEM,Ballots Cast,432
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,3,DEM,Ballots Cast,19
+Oscoda,"Big Creek Township, Precinct 2",County Commissioner,3,DEM,Write-In,2
+Oscoda,"Big Creek Township, Precinct 2",County Commissioner,3,DEM,Ballots Cast,435
+Oscoda,"Comins Township, Precinct 1",County Commissioner,4,DEM,Write-In,11
+Oscoda,"Comins Township, Precinct 1",County Commissioner,4,DEM,Ballots Cast,508
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,5,DEM,Write-In,4
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,5,DEM,Ballots Cast,150
+Oscoda,"Big Creek Township, Precinct 2",County Commissioner,5,DEM,Ballots Cast,16
+Oscoda,"Comins Township, Precinct 1",County Commissioner,5,DEM,Write-In,3
+Oscoda,"Comins Township, Precinct 1",County Commissioner,5,DEM,Ballots Cast,45
+Oscoda,"Mentor Township, Precinct 1",County Commissioner,5,DEM,Write-In,6
+Oscoda,"Mentor Township, Precinct 1",County Commissioner,5,DEM,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Supervisor,,DEM,To,5
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Supervisor,,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Supervisor,,DEM,To,2
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Supervisor,,DEM,Ballots Cast,451
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Clerk,,DEM,Write-In,5
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Clerk,,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Clerk,,DEM,Write-In,2
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Clerk,,DEM,Ballots Cast,451
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Treasurer,,DEM,Write-In,5
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Treasurer,,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Treasurer,,DEM,Write-In,2
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Treasurer,,DEM,Ballots Cast,451
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Trustee,,DEM,Write-In,8
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Trustee,,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Trustee,,DEM,Write-In,3
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Trustee,,DEM,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Supervisor,,DEM,Ballots Cast,172
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Clerk,,DEM,Ballots Cast,172
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Treasurer,,DEM,Ballots Cast,172
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Trustee,,DEM,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",Comins Township Supervisor,,DEM,Tom Stewart,65
+Oscoda,"Comins Township, Precinct 1",Comins Township Supervisor,,DEM,Ballots Cast,574
+Oscoda,"Comins Township, Precinct 1",Comins Township Clerk,,DEM,Write-In,14
+Oscoda,"Comins Township, Precinct 1",Comins Township Clerk,,DEM,Ballots Cast,574
+Oscoda,"Comins Township, Precinct 1",Comins Township Treasurer,,DEM,Write-In,15
+Oscoda,"Comins Township, Precinct 1",Comins Township Treasurer,,DEM,Ballots Cast,574
+Oscoda,"Comins Township, Precinct 1",Comins Township Trustee,,DEM,Write-In,19
+Oscoda,"Comins Township, Precinct 1",Comins Township Trustee,,DEM,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Supervisor,,DEM,Write-In,4
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Supervisor,,DEM,Ballots Cast,255
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Clerk,,DEM,Write-In,4
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Clerk,,DEM,Ballots Cast,255
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Treasurer,,DEM,Write-In,3
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Treasurer,,DEM,Ballots Cast,255
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Trustee,,DEM,Write-In,4
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Trustee,,DEM,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Supervisor,,DEM,Kathy Podzikowski,79
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Supervisor,,DEM,Ballots Cast,432
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Clerk,,DEM,Write-In,9
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Clerk,,DEM,Ballots Cast,432
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Treasurer,,DEM,Write-In,8
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Treasurer,,DEM,Ballots Cast,432
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Trustee,,DEM,Write-In,8
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Trustee,,DEM,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Supervisor,,DEM,Write-In,6
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Supervisor,,DEM,Ballots Cast,389
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Clerk,,DEM,Write-In,6
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Clerk,,DEM,Ballots Cast,389
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Treasurer,,DEM,Joan A. Trim,46
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Treasurer,,DEM,Ballots Cast,389
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Trustee,,DEM,Write-In,7
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Trustee,,DEM,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1","Big Creek Township, Precinct 1 Delegate",,DEM,Write-In,7
+Oscoda,"Big Creek Township, Precinct 1","Big Creek Township, Precinct 1 Delegate",,DEM,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2","Big Creek Township, Precinct 2 Delegate",,DEM,Write-In,3
+Oscoda,"Big Creek Township, Precinct 2","Big Creek Township, Precinct 2 Delegate",,DEM,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1","Clinton Township, Precinct 1 Delegate",,DEM,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1","Comins Township, Precinct 1 Delegate",,DEM,Write-In,20
+Oscoda,"Comins Township, Precinct 1","Comins Township, Precinct 1 Delegate",,DEM,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1","Elmer Township, Precinct 1 Delegate",,DEM,Write-In,3
+Oscoda,"Elmer Township, Precinct 1","Elmer Township, Precinct 1 Delegate",,DEM,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1","Greenwood Township, Precinct 1 Delegate",,DEM,Write-In,10
+Oscoda,"Greenwood Township, Precinct 1","Greenwood Township, Precinct 1 Delegate",,DEM,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1","Mentor Township, Precinct 1 Delegate",,DEM,Write-In,8
+Oscoda,"Mentor Township, Precinct 1","Mentor Township, Precinct 1 Delegate",,DEM,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",U.S. Senate,,REP,Justin Amash,18
+Oscoda,"Big Creek Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,151
+Oscoda,"Big Creek Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,30
+Oscoda,"Big Creek Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,27
+Oscoda,"Big Creek Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Oscoda,"Big Creek Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",U.S. Senate,,REP,Justin Amash,32
+Oscoda,"Big Creek Township, Precinct 2",U.S. Senate,,REP,Mike Rogers,190
+Oscoda,"Big Creek Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,22
+Oscoda,"Big Creek Township, Precinct 2",U.S. Senate,,REP,Sherry O'Donnell,66
+Oscoda,"Big Creek Township, Precinct 2",U.S. Senate,,REP,Write-In,6
+Oscoda,"Big Creek Township, Precinct 2",U.S. Senate,,REP,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",U.S. Senate,,REP,Justin Amash,7
+Oscoda,"Clinton Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,80
+Oscoda,"Clinton Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,15
+Oscoda,"Clinton Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,28
+Oscoda,"Clinton Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",U.S. Senate,,REP,Justin Amash,48
+Oscoda,"Comins Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,285
+Oscoda,"Comins Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,23
+Oscoda,"Comins Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,53
+Oscoda,"Comins Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Oscoda,"Comins Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",U.S. Senate,,REP,Justin Amash,24
+Oscoda,"Elmer Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,106
+Oscoda,"Elmer Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,23
+Oscoda,"Elmer Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,24
+Oscoda,"Elmer Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Oscoda,"Elmer Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",U.S. Senate,,REP,Justin Amash,23
+Oscoda,"Greenwood Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,186
+Oscoda,"Greenwood Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,28
+Oscoda,"Greenwood Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,43
+Oscoda,"Greenwood Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Oscoda,"Greenwood Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",U.S. Senate,,REP,Justin Amash,25
+Oscoda,"Mentor Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,130
+Oscoda,"Mentor Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,29
+Oscoda,"Mentor Township, Precinct 1",U.S. Senate,,REP,Sherry O'Donnell,57
+Oscoda,"Mentor Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Oscoda,"Mentor Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",U.S. House,1,REP,Jack Bergman,185
+Oscoda,"Big Creek Township, Precinct 1",U.S. House,1,REP,Josh Saul,53
+Oscoda,"Big Creek Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Oscoda,"Big Creek Township, Precinct 1",U.S. House,1,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",U.S. House,1,REP,Jack Bergman,239
+Oscoda,"Big Creek Township, Precinct 2",U.S. House,1,REP,Josh Saul,91
+Oscoda,"Big Creek Township, Precinct 2",U.S. House,1,REP,Write-In,4
+Oscoda,"Big Creek Township, Precinct 2",U.S. House,1,REP,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",U.S. House,1,REP,Jack Bergman,104
+Oscoda,"Clinton Township, Precinct 1",U.S. House,1,REP,Josh Saul,36
+Oscoda,"Clinton Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Oscoda,"Clinton Township, Precinct 1",U.S. House,1,REP,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",U.S. House,1,REP,Jack Bergman,321
+Oscoda,"Comins Township, Precinct 1",U.S. House,1,REP,Josh Saul,112
+Oscoda,"Comins Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Oscoda,"Comins Township, Precinct 1",U.S. House,1,REP,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",U.S. House,1,REP,Jack Bergman,139
+Oscoda,"Elmer Township, Precinct 1",U.S. House,1,REP,Josh Saul,51
+Oscoda,"Elmer Township, Precinct 1",U.S. House,1,REP,Write-In,2
+Oscoda,"Elmer Township, Precinct 1",U.S. House,1,REP,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",U.S. House,1,REP,Jack Bergman,211
+Oscoda,"Greenwood Township, Precinct 1",U.S. House,1,REP,Josh Saul,75
+Oscoda,"Greenwood Township, Precinct 1",U.S. House,1,REP,Write-In,2
+Oscoda,"Greenwood Township, Precinct 1",U.S. House,1,REP,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",U.S. House,1,REP,Jack Bergman,191
+Oscoda,"Mentor Township, Precinct 1",U.S. House,1,REP,Josh Saul,79
+Oscoda,"Mentor Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Oscoda,"Mentor Township, Precinct 1",U.S. House,1,REP,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",State House,105,REP,Christian Marcus,55
+Oscoda,"Big Creek Township, Precinct 1",State House,105,REP,Ken Borton,182
+Oscoda,"Big Creek Township, Precinct 1",State House,105,REP,Write-In,1
+Oscoda,"Big Creek Township, Precinct 1",State House,105,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",State House,105,REP,Christian Marcus,99
+Oscoda,"Big Creek Township, Precinct 2",State House,105,REP,Ken Borton,234
+Oscoda,"Big Creek Township, Precinct 2",State House,105,REP,Write-In,4
+Oscoda,"Big Creek Township, Precinct 2",State House,105,REP,Ballots Cast,451
+Oscoda,"Mentor Township, Precinct 1",State House,105,REP,Christian Marcus,55
+Oscoda,"Mentor Township, Precinct 1",State House,105,REP,Ken Borton,203
+Oscoda,"Mentor Township, Precinct 1",State House,105,REP,Ballots Cast,389
+Oscoda,"Clinton Township, Precinct 1",State House,106,REP,Cam Cavitt,80
+Oscoda,"Clinton Township, Precinct 1",State House,106,REP,Todd J. Smalenberg,54
+Oscoda,"Clinton Township, Precinct 1",State House,106,REP,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",State House,106,REP,Cam Cavitt,223
+Oscoda,"Comins Township, Precinct 1",State House,106,REP,Todd J. Smalenberg,209
+Oscoda,"Comins Township, Precinct 1",State House,106,REP,Write-In,1
+Oscoda,"Comins Township, Precinct 1",State House,106,REP,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",State House,106,REP,Cam Cavitt,104
+Oscoda,"Elmer Township, Precinct 1",State House,106,REP,Todd J. Smalenberg,83
+Oscoda,"Elmer Township, Precinct 1",State House,106,REP,Write-In,1
+Oscoda,"Elmer Township, Precinct 1",State House,106,REP,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",State House,106,REP,Cam Cavitt,165
+Oscoda,"Greenwood Township, Precinct 1",State House,106,REP,Todd J. Smalenberg,111
+Oscoda,"Greenwood Township, Precinct 1",State House,106,REP,Write-In,2
+Oscoda,"Greenwood Township, Precinct 1",State House,106,REP,Ballots Cast,432
+Oscoda,"Big Creek Township, Precinct 1",County Prosecuting Attorney,,REP,Kristi McGregor,197
+Oscoda,"Big Creek Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,5
+Oscoda,"Big Creek Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",County Prosecuting Attorney,,REP,Kristi McGregor,283
+Oscoda,"Big Creek Township, Precinct 2",County Prosecuting Attorney,,REP,Write-In,15
+Oscoda,"Big Creek Township, Precinct 2",County Prosecuting Attorney,,REP,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",County Prosecuting Attorney,,REP,Kristi McGregor,115
+Oscoda,"Clinton Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,2
+Oscoda,"Clinton Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",County Prosecuting Attorney,,REP,Kristi McGregor,356
+Oscoda,"Comins Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,11
+Oscoda,"Comins Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",County Prosecuting Attorney,,REP,Kristi McGregor,151
+Oscoda,"Elmer Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,3
+Oscoda,"Elmer Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",County Prosecuting Attorney,,REP,Kristi McGregor,249
+Oscoda,"Greenwood Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,5
+Oscoda,"Greenwood Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",County Prosecuting Attorney,,REP,Kristi McGregor,224
+Oscoda,"Mentor Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,6
+Oscoda,"Mentor Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",County Sheriff,,REP,Bradley A. Wymer,108
+Oscoda,"Big Creek Township, Precinct 1",County Sheriff,,REP,David Stenzel,45
+Oscoda,"Big Creek Township, Precinct 1",County Sheriff,,REP,Taylor Kann,90
+Oscoda,"Big Creek Township, Precinct 1",County Sheriff,,REP,Write-In,1
+Oscoda,"Big Creek Township, Precinct 1",County Sheriff,,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",County Sheriff,,REP,Bradley A. Wymer,161
+Oscoda,"Big Creek Township, Precinct 2",County Sheriff,,REP,David Stenzel,53
+Oscoda,"Big Creek Township, Precinct 2",County Sheriff,,REP,Taylor Kann,162
+Oscoda,"Big Creek Township, Precinct 2",County Sheriff,,REP,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",County Sheriff,,REP,Bradley A. Wymer,68
+Oscoda,"Clinton Township, Precinct 1",County Sheriff,,REP,David Stenzel,19
+Oscoda,"Clinton Township, Precinct 1",County Sheriff,,REP,Taylor Kann,63
+Oscoda,"Clinton Township, Precinct 1",County Sheriff,,REP,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",County Sheriff,,REP,Bradley A. Wymer,179
+Oscoda,"Comins Township, Precinct 1",County Sheriff,,REP,David Stenzel,41
+Oscoda,"Comins Township, Precinct 1",County Sheriff,,REP,Taylor Kann,258
+Oscoda,"Comins Township, Precinct 1",County Sheriff,,REP,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",County Sheriff,,REP,Bradley A. Wymer,61
+Oscoda,"Elmer Township, Precinct 1",County Sheriff,,REP,David Stenzel,36
+Oscoda,"Elmer Township, Precinct 1",County Sheriff,,REP,Taylor Kann,116
+Oscoda,"Elmer Township, Precinct 1",County Sheriff,,REP,Write-In,1
+Oscoda,"Elmer Township, Precinct 1",County Sheriff,,REP,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",County Sheriff,,REP,Bradley A. Wymer,87
+Oscoda,"Greenwood Township, Precinct 1",County Sheriff,,REP,David Stenzel,55
+Oscoda,"Greenwood Township, Precinct 1",County Sheriff,,REP,Taylor Kann,146
+Oscoda,"Greenwood Township, Precinct 1",County Sheriff,,REP,Write-In,2
+Oscoda,"Greenwood Township, Precinct 1",County Sheriff,,REP,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",County Sheriff,,REP,Bradley A. Wymer,92
+Oscoda,"Mentor Township, Precinct 1",County Sheriff,,REP,David Stenzel,33
+Oscoda,"Mentor Township, Precinct 1",County Sheriff,,REP,Taylor Kann,171
+Oscoda,"Mentor Township, Precinct 1",County Sheriff,,REP,Write-In,2
+Oscoda,"Mentor Township, Precinct 1",County Sheriff,,REP,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",County Clerk and Register of Deeds,,REP,Cody Ross,64
+Oscoda,"Big Creek Township, Precinct 1",County Clerk and Register of Deeds,,REP,Jenny Blamer-Cronkright,71
+Oscoda,"Big Creek Township, Precinct 1",County Clerk and Register of Deeds,,REP,Libby Marsh,105
+Oscoda,"Big Creek Township, Precinct 1",County Clerk and Register of Deeds,,REP,Write-In,1
+Oscoda,"Big Creek Township, Precinct 1",County Clerk and Register of Deeds,,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",County Clerk and Register of Deeds,,REP,Cody Ross,98
+Oscoda,"Big Creek Township, Precinct 2",County Clerk and Register of Deeds,,REP,Jenny Blamer-Cronkright,96
+Oscoda,"Big Creek Township, Precinct 2",County Clerk and Register of Deeds,,REP,Libby Marsh,175
+Oscoda,"Big Creek Township, Precinct 2",County Clerk and Register of Deeds,,REP,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",County Clerk and Register of Deeds,,REP,Cody Ross,31
+Oscoda,"Clinton Township, Precinct 1",County Clerk and Register of Deeds,,REP,Jenny Blamer-Cronkright,42
+Oscoda,"Clinton Township, Precinct 1",County Clerk and Register of Deeds,,REP,Libby Marsh,68
+Oscoda,"Clinton Township, Precinct 1",County Clerk and Register of Deeds,,REP,Write-In,1
+Oscoda,"Clinton Township, Precinct 1",County Clerk and Register of Deeds,,REP,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",County Clerk and Register of Deeds,,REP,Cody Ross,108
+Oscoda,"Comins Township, Precinct 1",County Clerk and Register of Deeds,,REP,Jenny Blamer-Cronkright,139
+Oscoda,"Comins Township, Precinct 1",County Clerk and Register of Deeds,,REP,Libby Marsh,217
+Oscoda,"Comins Township, Precinct 1",County Clerk and Register of Deeds,,REP,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",County Clerk and Register of Deeds,,REP,Cody Ross,63
+Oscoda,"Elmer Township, Precinct 1",County Clerk and Register of Deeds,,REP,Jenny Blamer-Cronkright,47
+Oscoda,"Elmer Township, Precinct 1",County Clerk and Register of Deeds,,REP,Libby Marsh,96
+Oscoda,"Elmer Township, Precinct 1",County Clerk and Register of Deeds,,REP,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",County Clerk and Register of Deeds,,REP,Cody Ross,58
+Oscoda,"Greenwood Township, Precinct 1",County Clerk and Register of Deeds,,REP,Jenny Blamer-Cronkright,55
+Oscoda,"Greenwood Township, Precinct 1",County Clerk and Register of Deeds,,REP,Libby Marsh,157
+Oscoda,"Greenwood Township, Precinct 1",County Clerk and Register of Deeds,,REP,Write-In,2
+Oscoda,"Greenwood Township, Precinct 1",County Clerk and Register of Deeds,,REP,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",County Clerk and Register of Deeds,,REP,Cody Ross,55
+Oscoda,"Mentor Township, Precinct 1",County Clerk and Register of Deeds,,REP,Jenny Blamer-Cronkright,89
+Oscoda,"Mentor Township, Precinct 1",County Clerk and Register of Deeds,,REP,Libby Marsh,149
+Oscoda,"Mentor Township, Precinct 1",County Clerk and Register of Deeds,,REP,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",County Treasurer,,REP,William M. Kendall,207
+Oscoda,"Big Creek Township, Precinct 1",County Treasurer,,REP,Write-In,1
+Oscoda,"Big Creek Township, Precinct 1",County Treasurer,,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",County Treasurer,,REP,William M. Kendall,320
+Oscoda,"Big Creek Township, Precinct 2",County Treasurer,,REP,Write-In,5
+Oscoda,"Big Creek Township, Precinct 2",County Treasurer,,REP,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",County Treasurer,,REP,William M. Kendall,120
+Oscoda,"Clinton Township, Precinct 1",County Treasurer,,REP,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",County Treasurer,,REP,William M. Kendall,403
+Oscoda,"Comins Township, Precinct 1",County Treasurer,,REP,Write-In,1
+Oscoda,"Comins Township, Precinct 1",County Treasurer,,REP,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",County Treasurer,,REP,William M. Kendall,174
+Oscoda,"Elmer Township, Precinct 1",County Treasurer,,REP,Write-In,2
+Oscoda,"Elmer Township, Precinct 1",County Treasurer,,REP,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",County Treasurer,,REP,William M. Kendall,254
+Oscoda,"Greenwood Township, Precinct 1",County Treasurer,,REP,Write-In,2
+Oscoda,"Greenwood Township, Precinct 1",County Treasurer,,REP,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",County Treasurer,,REP,William M. Kendall,246
+Oscoda,"Mentor Township, Precinct 1",County Treasurer,,REP,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",County Road Commissioner,,REP,Luke D. Houlton,82
+Oscoda,"Big Creek Township, Precinct 1",County Road Commissioner,,REP,Tom Siegler,150
+Oscoda,"Big Creek Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Oscoda,"Big Creek Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",County Road Commissioner,,REP,Luke D. Houlton,141
+Oscoda,"Big Creek Township, Precinct 2",County Road Commissioner,,REP,Tom Siegler,213
+Oscoda,"Big Creek Township, Precinct 2",County Road Commissioner,,REP,Write-In,2
+Oscoda,"Big Creek Township, Precinct 2",County Road Commissioner,,REP,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",County Road Commissioner,,REP,Luke D. Houlton,37
+Oscoda,"Clinton Township, Precinct 1",County Road Commissioner,,REP,Tom Siegler,96
+Oscoda,"Clinton Township, Precinct 1",County Road Commissioner,,REP,Write-In,3
+Oscoda,"Clinton Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",County Road Commissioner,,REP,Luke D. Houlton,117
+Oscoda,"Comins Township, Precinct 1",County Road Commissioner,,REP,Tom Siegler,321
+Oscoda,"Comins Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",County Road Commissioner,,REP,Luke D. Houlton,87
+Oscoda,"Elmer Township, Precinct 1",County Road Commissioner,,REP,Tom Siegler,109
+Oscoda,"Elmer Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Oscoda,"Elmer Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",County Road Commissioner,,REP,Luke D. Houlton,90
+Oscoda,"Greenwood Township, Precinct 1",County Road Commissioner,,REP,Tom Siegler,170
+Oscoda,"Greenwood Township, Precinct 1",County Road Commissioner,,REP,Write-In,3
+Oscoda,"Greenwood Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",County Road Commissioner,,REP,Luke D. Houlton,105
+Oscoda,"Mentor Township, Precinct 1",County Road Commissioner,,REP,Tom Siegler,164
+Oscoda,"Mentor Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Oscoda,"Mentor Township, Precinct 1",County Road Commissioner,,REP,Ballots Cast,389
+Oscoda,"Clinton Township, Precinct 1",County Commissioner,1,REP,Chuck Varner,57
+Oscoda,"Clinton Township, Precinct 1",County Commissioner,1,REP,Vern Lanczak,76
+Oscoda,"Clinton Township, Precinct 1",County Commissioner,1,REP,Write-In,1
+Oscoda,"Clinton Township, Precinct 1",County Commissioner,1,REP,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",County Commissioner,1,REP,Chuck Varner,10
+Oscoda,"Comins Township, Precinct 1",County Commissioner,1,REP,Vern Lanczak,6
+Oscoda,"Comins Township, Precinct 1",County Commissioner,1,REP,Ballots Cast,21
+Oscoda,"Elmer Township, Precinct 1",County Commissioner,1,REP,Chuck Varner,129
+Oscoda,"Elmer Township, Precinct 1",County Commissioner,1,REP,Vern Lanczak,63
+Oscoda,"Elmer Township, Precinct 1",County Commissioner,1,REP,Write-In,3
+Oscoda,"Elmer Township, Precinct 1",County Commissioner,1,REP,Ballots Cast,255
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,2,REP,Annette Chalmers,35
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,2,REP,Tom McCauley,82
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,2,REP,Write-In,2
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,2,REP,Ballots Cast,178
+Oscoda,"Greenwood Township, Precinct 1",County Commissioner,2,REP,Annette Chalmers,116
+Oscoda,"Greenwood Township, Precinct 1",County Commissioner,2,REP,Tom McCauley,170
+Oscoda,"Greenwood Township, Precinct 1",County Commissioner,2,REP,Write-In,1
+Oscoda,"Greenwood Township, Precinct 1",County Commissioner,2,REP,Ballots Cast,432
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,3,REP,Jackie Bondar,15
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,3,REP,Ballots Cast,19
+Oscoda,"Big Creek Township, Precinct 2",County Commissioner,3,REP,Jackie Bondar,289
+Oscoda,"Big Creek Township, Precinct 2",County Commissioner,3,REP,Write-In,7
+Oscoda,"Big Creek Township, Precinct 2",County Commissioner,3,REP,Ballots Cast,435
+Oscoda,"Comins Township, Precinct 1",County Commissioner,4,REP,Ted Handrich,364
+Oscoda,"Comins Township, Precinct 1",County Commissioner,4,REP,Write-In,4
+Oscoda,"Comins Township, Precinct 1",County Commissioner,4,REP,Ballots Cast,508
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,5,REP,Write-In,9
+Oscoda,"Big Creek Township, Precinct 1",County Commissioner,5,REP,Ballots Cast,150
+Oscoda,"Big Creek Township, Precinct 2",County Commissioner,5,REP,Write-In,3
+Oscoda,"Big Creek Township, Precinct 2",County Commissioner,5,REP,Ballots Cast,16
+Oscoda,"Comins Township, Precinct 1",County Commissioner,5,REP,Write-In,4
+Oscoda,"Comins Township, Precinct 1",County Commissioner,5,REP,Ballots Cast,45
+Oscoda,"Mentor Township, Precinct 1",County Commissioner,5,REP,Write-In,22
+Oscoda,"Mentor Township, Precinct 1",County Commissioner,5,REP,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Supervisor,,REP,J. Randy Booth,199
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Supervisor,,REP,Write-In,5
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Supervisor,,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Supervisor,,REP,J. Randy Booth,297
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Supervisor,,REP,Write-In,9
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Supervisor,,REP,Ballots Cast,451
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Clerk,,REP,Lori Wyman,193
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Clerk,,REP,Write-In,3
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Clerk,,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Clerk,,REP,Lori Wyman,286
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Clerk,,REP,Write-In,3
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Clerk,,REP,Ballots Cast,451
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Treasurer,,REP,Susan Lynne Avery,209
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Treasurer,,REP,Write-In,3
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Treasurer,,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Treasurer,,REP,Susan Lynne Avery,319
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Treasurer,,REP,Write-In,2
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Treasurer,,REP,Ballots Cast,451
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Trustee,,REP,Debbie Coulon,170
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Trustee,,REP,Erwin Skip Ecker,128
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Trustee,,REP,Write-In,4
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Trustee,,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Trustee,,REP,Debbie Coulon,216
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Trustee,,REP,Erwin Skip Ecker,203
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Trustee,,REP,Write-In,5
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Trustee,,REP,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Supervisor,,REP,Christopher B. Neff,130
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Supervisor,,REP,Ballots Cast,172
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Clerk,,REP,Courtney Eaves,46
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Clerk,,REP,Kurt H. Lunning,92
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Clerk,,REP,Ballots Cast,172
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Treasurer,,REP,Dawn E. Larrison,132
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Treasurer,,REP,Write-In,1
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Treasurer,,REP,Ballots Cast,172
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Trustee,,REP,Lisa A. Force,90
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Trustee,,REP,Violet Kalbfleisch,83
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Trustee,,REP,Write-In,1
+Oscoda,"Clinton Township, Precinct 1",Clinton Township Trustee,,REP,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",Comins Township Supervisor,,REP,Lori Lewis,366
+Oscoda,"Comins Township, Precinct 1",Comins Township Supervisor,,REP,Write-In,4
+Oscoda,"Comins Township, Precinct 1",Comins Township Supervisor,,REP,Ballots Cast,574
+Oscoda,"Comins Township, Precinct 1",Comins Township Clerk,,REP,Amanda K. Barajas,393
+Oscoda,"Comins Township, Precinct 1",Comins Township Clerk,,REP,Write-In,3
+Oscoda,"Comins Township, Precinct 1",Comins Township Clerk,,REP,Ballots Cast,574
+Oscoda,"Comins Township, Precinct 1",Comins Township Treasurer,,REP,Kevin Salsbury,402
+Oscoda,"Comins Township, Precinct 1",Comins Township Treasurer,,REP,Write-In,5
+Oscoda,"Comins Township, Precinct 1",Comins Township Treasurer,,REP,Ballots Cast,574
+Oscoda,"Comins Township, Precinct 1",Comins Township Trustee,,REP,Blake J. Snyder,334
+Oscoda,"Comins Township, Precinct 1",Comins Township Trustee,,REP,John Kuziel II,244
+Oscoda,"Comins Township, Precinct 1",Comins Township Trustee,,REP,Write-In,4
+Oscoda,"Comins Township, Precinct 1",Comins Township Trustee,,REP,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Supervisor,,REP,Martin P. Galbraith,182
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Supervisor,,REP,Write-In,2
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Supervisor,,REP,Ballots Cast,255
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Clerk,,REP,Michelle Hoffman,165
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Clerk,,REP,Write-In,3
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Clerk,,REP,Ballots Cast,255
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Treasurer,,REP,Jennifer Layman,177
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Treasurer,,REP,Write-In,2
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Treasurer,,REP,Ballots Cast,255
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Trustee,,REP,Chad Margita,114
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Trustee,,REP,Sue Stenson,131
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Trustee,,REP,Write-In,3
+Oscoda,"Elmer Township, Precinct 1",Elmer Township Trustee,,REP,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Supervisor,,REP,Fredrick V. Lindsey,246
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Supervisor,,REP,Write-In,9
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Supervisor,,REP,Ballots Cast,432
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Clerk,,REP,Write-In,16
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Clerk,,REP,Ballots Cast,432
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Treasurer,,REP,Diane Lee Bissonette,241
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Treasurer,,REP,Write-In,5
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Treasurer,,REP,Ballots Cast,432
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Trustee,,REP,Brandon Watson,159
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Trustee,,REP,Suzanne Sewell Scott,205
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Trustee,,REP,Write-In,3
+Oscoda,"Greenwood Township, Precinct 1",Greenwood Township Trustee,,REP,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Supervisor,,REP,Penny J. Ireland,131
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Supervisor,,REP,Scott Lawrence,146
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Supervisor,,REP,Write-In,1
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Supervisor,,REP,Ballots Cast,389
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Clerk,,REP,Stephanie Hall,230
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Clerk,,REP,Ballots Cast,389
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Treasurer,,REP,Write-In,16
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Treasurer,,REP,Ballots Cast,389
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Trustee,,REP,Aleasha Fehler,102
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Trustee,,REP,Sherri Marble,203
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Trustee,,REP,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1","Big Creek Township, Precinct 1 Delegate",,REP,Ken Byers,173
+Oscoda,"Big Creek Township, Precinct 1","Big Creek Township, Precinct 1 Delegate",,REP,Mary Byers,151
+Oscoda,"Big Creek Township, Precinct 1","Big Creek Township, Precinct 1 Delegate",,REP,Write-In,4
+Oscoda,"Big Creek Township, Precinct 1","Big Creek Township, Precinct 1 Delegate",,REP,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2","Big Creek Township, Precinct 2 Delegate",,REP,Kathi Mitchell,249
+Oscoda,"Big Creek Township, Precinct 2","Big Creek Township, Precinct 2 Delegate",,REP,Kevin McLaughlin,178
+Oscoda,"Big Creek Township, Precinct 2","Big Creek Township, Precinct 2 Delegate",,REP,Write-In,4
+Oscoda,"Big Creek Township, Precinct 2","Big Creek Township, Precinct 2 Delegate",,REP,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1","Clinton Township, Precinct 1 Delegate",,REP,Ann Esch,120
+Oscoda,"Clinton Township, Precinct 1","Clinton Township, Precinct 1 Delegate",,REP,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1","Comins Township, Precinct 1 Delegate",,REP,Bernadette M. Kloss,277
+Oscoda,"Comins Township, Precinct 1","Comins Township, Precinct 1 Delegate",,REP,Philip J. Kloss,279
+Oscoda,"Comins Township, Precinct 1","Comins Township, Precinct 1 Delegate",,REP,Write-In,4
+Oscoda,"Comins Township, Precinct 1","Comins Township, Precinct 1 Delegate",,REP,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1","Elmer Township, Precinct 1 Delegate",,REP,Aderia A. Wieczorek,85
+Oscoda,"Elmer Township, Precinct 1","Elmer Township, Precinct 1 Delegate",,REP,Jenni Layman,158
+Oscoda,"Elmer Township, Precinct 1","Elmer Township, Precinct 1 Delegate",,REP,Write-In,2
+Oscoda,"Elmer Township, Precinct 1","Elmer Township, Precinct 1 Delegate",,REP,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1","Greenwood Township, Precinct 1 Delegate",,REP,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1","Mentor Township, Precinct 1 Delegate",,REP,Jeffery Robert Strasser,181
+Oscoda,"Mentor Township, Precinct 1","Mentor Township, Precinct 1 Delegate",,REP,Write-In,5
+Oscoda,"Mentor Township, Precinct 1","Mentor Township, Precinct 1 Delegate",,REP,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,No,108
+Oscoda,"Big Creek Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,Yes,211
+Oscoda,"Big Creek Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",Oscoda County Council On Aging Millage Proposal,,,No,116
+Oscoda,"Big Creek Township, Precinct 2",Oscoda County Council On Aging Millage Proposal,,,Yes,310
+Oscoda,"Big Creek Township, Precinct 2",Oscoda County Council On Aging Millage Proposal,,,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,No,60
+Oscoda,"Clinton Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,Yes,102
+Oscoda,"Clinton Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,No,195
+Oscoda,"Comins Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,Yes,308
+Oscoda,"Comins Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,No,87
+Oscoda,"Elmer Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,Yes,136
+Oscoda,"Elmer Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,No,159
+Oscoda,"Greenwood Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,Yes,243
+Oscoda,"Greenwood Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,No,112
+Oscoda,"Mentor Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,Yes,242
+Oscoda,"Mentor Township, Precinct 1",Oscoda County Council On Aging Millage Proposal,,,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,No,165
+Oscoda,"Big Creek Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,Yes,156
+Oscoda,"Big Creek Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",Oscoda County Drug Enforcement Operating Millage Proposal,,,No,174
+Oscoda,"Big Creek Township, Precinct 2",Oscoda County Drug Enforcement Operating Millage Proposal,,,Yes,253
+Oscoda,"Big Creek Township, Precinct 2",Oscoda County Drug Enforcement Operating Millage Proposal,,,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,No,66
+Oscoda,"Clinton Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,Yes,96
+Oscoda,"Clinton Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,No,215
+Oscoda,"Comins Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,Yes,289
+Oscoda,"Comins Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,No,110
+Oscoda,"Elmer Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,Yes,115
+Oscoda,"Elmer Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,No,161
+Oscoda,"Greenwood Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,Yes,239
+Oscoda,"Greenwood Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,No,141
+Oscoda,"Mentor Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,Yes,212
+Oscoda,"Mentor Township, Precinct 1",Oscoda County Drug Enforcement Operating Millage Proposal,,,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,No,162
+Oscoda,"Big Creek Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,Yes,166
+Oscoda,"Big Creek Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",Oscoda County Sheriff Operating Millage Proposal,,,No,175
+Oscoda,"Big Creek Township, Precinct 2",Oscoda County Sheriff Operating Millage Proposal,,,Yes,255
+Oscoda,"Big Creek Township, Precinct 2",Oscoda County Sheriff Operating Millage Proposal,,,Ballots Cast,451
+Oscoda,"Clinton Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,No,65
+Oscoda,"Clinton Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,Yes,84
+Oscoda,"Clinton Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,Ballots Cast,172
+Oscoda,"Comins Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,No,203
+Oscoda,"Comins Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,Yes,279
+Oscoda,"Comins Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,Ballots Cast,574
+Oscoda,"Elmer Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,No,118
+Oscoda,"Elmer Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,Yes,108
+Oscoda,"Elmer Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,Ballots Cast,255
+Oscoda,"Greenwood Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,No,136
+Oscoda,"Greenwood Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,Yes,247
+Oscoda,"Greenwood Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,Ballots Cast,432
+Oscoda,"Mentor Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,No,143
+Oscoda,"Mentor Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,Yes,212
+Oscoda,"Mentor Township, Precinct 1",Oscoda County Sheriff Operating Millage Proposal,,,Ballots Cast,389
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Fire Millage Proposal,,,No,107
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Fire Millage Proposal,,,Yes,221
+Oscoda,"Big Creek Township, Precinct 1",Big Creek Township Fire Millage Proposal,,,Ballots Cast,347
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Fire Millage Proposal,,,No,117
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Fire Millage Proposal,,,Yes,312
+Oscoda,"Big Creek Township, Precinct 2",Big Creek Township Fire Millage Proposal,,,Ballots Cast,451
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Fire Protection Millage Proposal,,,No,110
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Fire Protection Millage Proposal,,,Yes,247
+Oscoda,"Mentor Township, Precinct 1",Mentor Township Fire Protection Millage Proposal,,,Ballots Cast,389
+Oscoda,"Mentor Township, Precinct 1",West Branch-Rose City Area Schools Operating Millage Renewal Proposal,,,No,4
+Oscoda,"Mentor Township, Precinct 1",West Branch-Rose City Area Schools Operating Millage Renewal Proposal,,,Yes,2
+Oscoda,"Mentor Township, Precinct 1",West Branch-Rose City Area Schools Operating Millage Renewal Proposal,,,Ballots Cast,6
