@@ -1499,6 +1499,33 @@ COUNTY_CONFIG = {
             (r'Abulance', 'Ambulance'),
         ],
     },
+    # Image-only 115-page 2020 primary SOVC; every page is one contest
+    # with a single merged 2-up table (left half = Times Cast, right half
+    # = results) carrying a phantom blank column between the candidate
+    # values and Total Votes (header holds the candidate as colspan=2).
+    # No Registered Voters column, so no turnout pseudo rows. Titles
+    # survived OCR as <div> lines.
+    'Alger 2020': {
+        'county_name': 'Alger',
+        'cache': 'Alger_MI_August_4_2020_State_Primary_official_',
+        'pages': 115,
+        'out': '2020/counties/20200804__mi__primary__alger__precinct.csv',
+        'two_up': True,
+        'title_sub': [
+            (r'^United States Senator for State$', 'United States Senator'),
+            (r'^(Representative in (?:Congress|State Legislature) '
+             r'\d+(?:st|nd|rd|th) District) for State$', r'\1'),
+            (r'^County Clerk and Register of Deeds for State$',
+             'County Clerk and Register of Deeds'),
+            (r'^County Commissioner for County Commissioner (\d+)$',
+             r'County Commissioner \1 District'),
+        ],
+        'precincts': ['City of Munising, Precinct 1', 'AuTrain Township, Precinct 1',
+                      'Burt Township, Precinct 1', 'Grand Island Township, Precinct 1',
+                      'Limestone Township, Precinct 1', 'Mathias Township, Precinct 1',
+                      'Munising Township, Precinct 1', 'Onota Township, Precinct 1',
+                      'Rock River Township, Precinct 1'],
+    },
     # Image-only 294-page SOVC; each contest is a Luce-style merged table
     # whose data rows repeat the precinct label between the turnout and
     # results halves, with phantom blank columns interleaved (see p003).

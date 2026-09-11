@@ -1,0 +1,318 @@
+county,precinct,office,district,party,candidate,votes
+Alger,"City of Munising, Precinct 1",U.S. Senate,,DEM,Gary Peters,365
+Alger,"City of Munising, Precinct 1",U.S. Senate,,DEM,Write-In,3
+Alger,"AuTrain Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,143
+Alger,"Burt Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,91
+Alger,"Grand Island Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,13
+Alger,"Limestone Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,67
+Alger,"Mathias Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,84
+Alger,"Munising Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,290
+Alger,"Munising Township, Precinct 1",U.S. Senate,,DEM,Write-In,3
+Alger,"Onota Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,92
+Alger,"Rock River Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,192
+Alger,"Rock River Township, Precinct 1",U.S. Senate,,DEM,Write-In,1
+Alger,"City of Munising, Precinct 1",U.S. House,1,DEM,Dana Ferguson,285
+Alger,"City of Munising, Precinct 1",U.S. House,1,DEM,Linda O'Dell,78
+Alger,"AuTrain Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,95
+Alger,"AuTrain Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,45
+Alger,"Burt Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,33
+Alger,"Burt Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,58
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,8
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,6
+Alger,"Limestone Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,58
+Alger,"Limestone Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,11
+Alger,"Mathias Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,58
+Alger,"Mathias Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,27
+Alger,"Munising Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,219
+Alger,"Munising Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,71
+Alger,"Munising Township, Precinct 1",U.S. House,1,DEM,Write-In,3
+Alger,"Onota Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,59
+Alger,"Onota Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,33
+Alger,"Rock River Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,147
+Alger,"Rock River Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,45
+Alger,"City of Munising, Precinct 1",State House,109,DEM,Sara Cambensy,371
+Alger,"AuTrain Township, Precinct 1",State House,109,DEM,Sara Cambensy,152
+Alger,"Burt Township, Precinct 1",State House,109,DEM,Sara Cambensy,92
+Alger,"Grand Island Township, Precinct 1",State House,109,DEM,Sara Cambensy,13
+Alger,"Limestone Township, Precinct 1",State House,109,DEM,Sara Cambensy,71
+Alger,"Mathias Township, Precinct 1",State House,109,DEM,Sara Cambensy,87
+Alger,"Munising Township, Precinct 1",State House,109,DEM,Sara Cambensy,296
+Alger,"Munising Township, Precinct 1",State House,109,DEM,Write-In,1
+Alger,"Onota Township, Precinct 1",State House,109,DEM,Sara Cambensy,91
+Alger,"Rock River Township, Precinct 1",State House,109,DEM,Sara Cambensy,197
+Alger,"City of Munising, Precinct 1",County Prosecuting Attorney,,DEM,Kirt L. Harmon,127
+Alger,"City of Munising, Precinct 1",County Prosecuting Attorney,,DEM,Robert Steinhoff,309
+Alger,"AuTrain Township, Precinct 1",County Prosecuting Attorney,,DEM,Kirt L. Harmon,51
+Alger,"AuTrain Township, Precinct 1",County Prosecuting Attorney,,DEM,Robert Steinhoff,105
+Alger,"Burt Township, Precinct 1",County Prosecuting Attorney,,DEM,Kirt L. Harmon,45
+Alger,"Burt Township, Precinct 1",County Prosecuting Attorney,,DEM,Robert Steinhoff,45
+Alger,"Grand Island Township, Precinct 1",County Prosecuting Attorney,,DEM,Kirt L. Harmon,2
+Alger,"Grand Island Township, Precinct 1",County Prosecuting Attorney,,DEM,Robert Steinhoff,12
+Alger,"Limestone Township, Precinct 1",County Prosecuting Attorney,,DEM,Kirt L. Harmon,35
+Alger,"Limestone Township, Precinct 1",County Prosecuting Attorney,,DEM,Robert Steinhoff,39
+Alger,"Mathias Township, Precinct 1",County Prosecuting Attorney,,DEM,Kirt L. Harmon,47
+Alger,"Mathias Township, Precinct 1",County Prosecuting Attorney,,DEM,Robert Steinhoff,44
+Alger,"Munising Township, Precinct 1",County Prosecuting Attorney,,DEM,Kirt L. Harmon,124
+Alger,"Munising Township, Precinct 1",County Prosecuting Attorney,,DEM,Robert Steinhoff,227
+Alger,"Onota Township, Precinct 1",County Prosecuting Attorney,,DEM,Kirt L. Harmon,28
+Alger,"Onota Township, Precinct 1",County Prosecuting Attorney,,DEM,Robert Steinhoff,73
+Alger,"Rock River Township, Precinct 1",County Prosecuting Attorney,,DEM,Kirt L. Harmon,99
+Alger,"Rock River Township, Precinct 1",County Prosecuting Attorney,,DEM,Robert Steinhoff,115
+Alger,"City of Munising, Precinct 1",County Sheriff,,DEM,Todd W. Brock,391
+Alger,"City of Munising, Precinct 1",County Sheriff,,DEM,Write-In,1
+Alger,"AuTrain Township, Precinct 1",County Sheriff,,DEM,Todd W. Brock,146
+Alger,"Burt Township, Precinct 1",County Sheriff,,DEM,Todd W. Brock,93
+Alger,"Grand Island Township, Precinct 1",County Sheriff,,DEM,Todd W. Brock,12
+Alger,"Limestone Township, Precinct 1",County Sheriff,,DEM,Todd W. Brock,64
+Alger,"Mathias Township, Precinct 1",County Sheriff,,DEM,Todd W. Brock,85
+Alger,"Munising Township, Precinct 1",County Sheriff,,DEM,Todd W. Brock,310
+Alger,"Onota Township, Precinct 1",County Sheriff,,DEM,Todd W. Brock,92
+Alger,"Rock River Township, Precinct 1",County Sheriff,,DEM,Todd W. Brock,196
+Alger,"Rock River Township, Precinct 1",County Sheriff,,DEM,Write-In,3
+Alger,"City of Munising, Precinct 1",County Clerk and Register of Deeds,,DEM,Mary Ann Froberg,383
+Alger,"AuTrain Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Mary Ann Froberg,147
+Alger,"Burt Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Mary Ann Froberg,89
+Alger,"Grand Island Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Mary Ann Froberg,13
+Alger,"Limestone Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Mary Ann Froberg,68
+Alger,"Mathias Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Mary Ann Froberg,83
+Alger,"Munising Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Mary Ann Froberg,292
+Alger,"Munising Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Write-In,2
+Alger,"Onota Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Mary Ann Froberg,95
+Alger,"Onota Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Write-In,1
+Alger,"Rock River Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Mary Ann Froberg,199
+Alger,"City of Munising, Precinct 1",County Treasurer,,DEM,Pam Johnson,370
+Alger,"AuTrain Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,144
+Alger,"Burt Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,85
+Alger,"Grand Island Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,13
+Alger,"Limestone Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,67
+Alger,"Mathias Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,82
+Alger,"Munising Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,287
+Alger,"Munising Township, Precinct 1",County Treasurer,,DEM,Write-In,1
+Alger,"Onota Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,91
+Alger,"Onota Township, Precinct 1",County Treasurer,,DEM,Write-In,1
+Alger,"Rock River Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,200
+Alger,"City of Munising, Precinct 1",County Road Commissioner,,DEM,Paul R. Heyrman,366
+Alger,"AuTrain Township, Precinct 1",County Road Commissioner,,DEM,Paul R. Heyrman,142
+Alger,"Burt Township, Precinct 1",County Road Commissioner,,DEM,Paul R. Heyrman,84
+Alger,"Burt Township, Precinct 1",County Road Commissioner,,DEM,Write-In,1
+Alger,"Grand Island Township, Precinct 1",County Road Commissioner,,DEM,Paul R. Heyrman,12
+Alger,"Limestone Township, Precinct 1",County Road Commissioner,,DEM,Paul R. Heyrman,62
+Alger,"Mathias Township, Precinct 1",County Road Commissioner,,DEM,Paul R. Heyrman,82
+Alger,"Munising Township, Precinct 1",County Road Commissioner,,DEM,Paul R. Heyrman,280
+Alger,"Munising Township, Precinct 1",County Road Commissioner,,DEM,Write-In,4
+Alger,"Onota Township, Precinct 1",County Road Commissioner,,DEM,Paul R. Heyrman,89
+Alger,"Onota Township, Precinct 1",County Road Commissioner,,DEM,Write-In,2
+Alger,"Rock River Township, Precinct 1",County Road Commissioner,,DEM,Paul R. Heyrman,192
+Alger,"Rock River Township, Precinct 1",County Road Commissioner,,DEM,Write-In,2
+Alger,"City of Munising, Precinct 1",County Commissioner,1,DEM,Catherine Pullen,1
+Alger,"Burt Township, Precinct 1",County Commissioner,1,DEM,Catherine Pullen,85
+Alger,"Munising Township, Precinct 1",County Commissioner,1,DEM,Catherine Pullen,118
+Alger,"City of Munising, Precinct 1",County Commissioner,2,DEM,Write-In,24
+Alger,"Munising Township, Precinct 1",County Commissioner,2,DEM,Write-In,11
+Alger,"City of Munising, Precinct 1",County Commissioner,3,DEM,Esley M. Mattson,202
+Alger,"City of Munising, Precinct 1",County Commissioner,3,DEM,Write-In,4
+Alger,"AuTrain Township, Precinct 1",County Commissioner,3,DEM,Esley M. Mattson,25
+Alger,"Grand Island Township, Precinct 1",County Commissioner,3,DEM,Esley M. Mattson,11
+Alger,"AuTrain Township, Precinct 1",County Commissioner,4,DEM,Jerry Doucette,108
+Alger,"Limestone Township, Precinct 1",County Commissioner,4,DEM,Jerry Doucette,31
+Alger,"Mathias Township, Precinct 1",County Commissioner,4,DEM,Jerry Doucette,76
+Alger,"Limestone Township, Precinct 1",County Commissioner,5,DEM,Mary Jo O'Halloran-Torongo,35
+Alger,"Onota Township, Precinct 1",County Commissioner,5,DEM,Mary Jo O'Halloran-Torongo,87
+Alger,"Rock River Township, Precinct 1",County Commissioner,5,DEM,Mary Jo O'Halloran-Torongo,185
+Alger,"Rock River Township, Precinct 1",County Commissioner,5,DEM,Write-In,1
+Alger,"AuTrain Township, Precinct 1",AuTrain Township Supervisor,,DEM,Michelle Doucette,133
+Alger,"Burt Township, Precinct 1",Burt Township Supervisor,,DEM,Write-In,4
+Alger,"Grand Island Township, Precinct 1",Grand Island Township Supervisor,,DEM,Write-In,1
+Alger,"Limestone Township, Precinct 1",Limestone Township Supervisor,,DEM,Tom Curry,67
+Alger,"Mathias Township, Precinct 1",Mathias Township Supervisor,,DEM,Write-In,9
+Alger,"Munising Township, Precinct 1",Munising Township Supervisor,,DEM,Lisa Howard,287
+Alger,"Munising Township, Precinct 1",Munising Township Supervisor,,DEM,Write-In,3
+Alger,"Onota Township, Precinct 1",Onota Township Supervisor,,DEM,Write-In,9
+Alger,"Rock River Township, Precinct 1",Rock River Township Supervisor,,DEM,Teri A. Grout,188
+Alger,"Burt Township, Precinct 1",Burt Township Clerk,,DEM,Write-In,3
+Alger,"AuTrain Township, Precinct 1",AuTrain Township Clerk,,DEM,Write-In,3
+Alger,"Grand Island Township, Precinct 1",Grand Island Township Clerk,,DEM,David Kronk,13
+Alger,"Limestone Township, Precinct 1",Limestone Township Clerk,,DEM,Danita L. Rask,70
+Alger,"Limestone Township, Precinct 1",Limestone Township Clerk,,DEM,Write-In,1
+Alger,"Mathias Township, Precinct 1",Mathias Township Clerk,,DEM,Amy Richmond,81
+Alger,"Munising Township, Precinct 1",Munising Township Clerk,,DEM,Write-In,11
+Alger,"Onota Township, Precinct 1",Onota Township Clerk,,DEM,Write-In,6
+Alger,"Rock River Township, Precinct 1",Rock River Township Clerk,,DEM,Write-In,12
+Alger,"Burt Township, Precinct 1",Burt Township Treasurer,,DEM,Write-In,3
+Alger,"AuTrain Township, Precinct 1",AuTrain Township Treasurer,,DEM,Kristy L. Cota,134
+Alger,"Grand Island Township, Precinct 1",Grand Island Township Treasurer,,DEM,Dee Jay Paquette,13
+Alger,"Limestone Township, Precinct 1",Limestone Township Treasurer,,DEM,Rosalee Taskey,69
+Alger,"Mathias Township, Precinct 1",Mathias Township Treasurer,,DEM,Marilyn Rukkila,78
+Alger,"Munising Township, Precinct 1",Munising Township Treasurer,,DEM,Write-In,11
+Alger,"Onota Township, Precinct 1",Onota Township Treasurer,,DEM,Write-In,7
+Alger,"Rock River Township, Precinct 1",Rock River Township Treasurer,,DEM,Janet Braun,184
+Alger,"Rock River Township, Precinct 1",Rock River Township Treasurer,,DEM,Write-In,1
+Alger,"AuTrain Township, Precinct 1",AuTrain Township Trustee,,DEM,Write-In,6
+Alger,"Burt Township, Precinct 1",Burt Township Trustee,,DEM,Write-In,4
+Alger,"Grand Island Township, Precinct 1",Grand Island Township Trustee,,DEM,Barbara Stark,12
+Alger,"Limestone Township, Precinct 1",Limestone Township Trustee,,DEM,William L. Brisson,70
+Alger,"Mathias Township, Precinct 1",Mathias Township Trustee,,DEM,Kaitlin Timonen,61
+Alger,"Mathias Township, Precinct 1",Mathias Township Trustee,,DEM,Megan Webber,69
+Alger,"Munising Township, Precinct 1",Munising Township Trustee,,DEM,Carmon Decet,224
+Alger,"Munising Township, Precinct 1",Munising Township Trustee,,DEM,Selina Balko,264
+Alger,"Munising Township, Precinct 1",Munising Township Trustee,,DEM,Write-In,1
+Alger,"Onota Township, Precinct 1",Onota Township Trustee,,DEM,Write-In,9
+Alger,"Rock River Township, Precinct 1",Rock River Township Trustee,,DEM,Rowan Bunce,165
+Alger,"Rock River Township, Precinct 1",Rock River Township Trustee,,DEM,Trevor W. Case,152
+Alger,"Rock River Township, Precinct 1",Rock River Township Trustee,,DEM,Write-In,1
+Alger,"City of Munising, Precinct 1","City of Munising, Precinct 1 Delegate to County Convention",,DEM,Write-In,37
+Alger,"AuTrain Township, Precinct 1","AuTrain Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,1
+Alger,"Burt Township, Precinct 1","Burt Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,1
+Alger,"Grand Island Township, Precinct 1","Grand Island Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,1
+Alger,"Limestone Township, Precinct 1","Limestone Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,7
+Alger,"Mathias Township, Precinct 1","Mathias Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,10
+Alger,"Munising Township, Precinct 1","Munising Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,9
+Alger,"Onota Township, Precinct 1","Onota Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,5
+Alger,"Rock River Township, Precinct 1","Rock River Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,10
+Alger,"City of Munising, Precinct 1",U.S. Senate,,REP,John James,130
+Alger,"AuTrain Township, Precinct 1",U.S. Senate,,REP,John James,159
+Alger,"Burt Township, Precinct 1",U.S. Senate,,REP,John James,84
+Alger,"Grand Island Township, Precinct 1",U.S. Senate,,REP,John James,6
+Alger,"Limestone Township, Precinct 1",U.S. Senate,,REP,John James,46
+Alger,"Mathias Township, Precinct 1",U.S. Senate,,REP,John James,37
+Alger,"Munising Township, Precinct 1",U.S. Senate,,REP,John James,195
+Alger,"Onota Township, Precinct 1",U.S. Senate,,REP,John James,59
+Alger,"Rock River Township, Precinct 1",U.S. Senate,,REP,John James,91
+Alger,"City of Munising, Precinct 1",U.S. House,1,REP,Jack Bergman,129
+Alger,"AuTrain Township, Precinct 1",U.S. House,1,REP,Jack Bergman,160
+Alger,"Burt Township, Precinct 1",U.S. House,1,REP,Jack Bergman,84
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,REP,Jack Bergman,6
+Alger,"Limestone Township, Precinct 1",U.S. House,1,REP,Jack Bergman,44
+Alger,"Mathias Township, Precinct 1",U.S. House,1,REP,Jack Bergman,38
+Alger,"Munising Township, Precinct 1",U.S. House,1,REP,Jack Bergman,196
+Alger,"Onota Township, Precinct 1",U.S. House,1,REP,Jack Bergman,60
+Alger,"Rock River Township, Precinct 1",U.S. House,1,REP,Jack Bergman,93
+Alger,"City of Munising, Precinct 1",State House,109,REP,Matthew Goss,70
+Alger,"City of Munising, Precinct 1",State House,109,REP,Melody Wagner,60
+Alger,"City of Munising, Precinct 1",State House,109,REP,Write-In,1
+Alger,"AuTrain Township, Precinct 1",State House,109,REP,Matthew Goss,78
+Alger,"AuTrain Township, Precinct 1",State House,109,REP,Melody Wagner,79
+Alger,"Burt Township, Precinct 1",State House,109,REP,Matthew Goss,46
+Alger,"Burt Township, Precinct 1",State House,109,REP,Melody Wagner,29
+Alger,"Burt Township, Precinct 1",State House,109,REP,Write-In,1
+Alger,"Grand Island Township, Precinct 1",State House,109,REP,Matthew Goss,1
+Alger,"Grand Island Township, Precinct 1",State House,109,REP,Melody Wagner,4
+Alger,"Limestone Township, Precinct 1",State House,109,REP,Matthew Goss,22
+Alger,"Limestone Township, Precinct 1",State House,109,REP,Melody Wagner,24
+Alger,"Mathias Township, Precinct 1",State House,109,REP,Matthew Goss,19
+Alger,"Mathias Township, Precinct 1",State House,109,REP,Melody Wagner,19
+Alger,"Munising Township, Precinct 1",State House,109,REP,Matthew Goss,112
+Alger,"Munising Township, Precinct 1",State House,109,REP,Melody Wagner,71
+Alger,"Onota Township, Precinct 1",State House,109,REP,Matthew Goss,21
+Alger,"Onota Township, Precinct 1",State House,109,REP,Melody Wagner,40
+Alger,"Rock River Township, Precinct 1",State House,109,REP,Matthew Goss,43
+Alger,"Rock River Township, Precinct 1",State House,109,REP,Melody Wagner,44
+Alger,"Rock River Township, Precinct 1",State House,109,REP,Write-In,1
+Alger,"City of Munising, Precinct 1",County Prosecuting Attorney,,REP,Write-In,16
+Alger,"AuTrain Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,9
+Alger,"Burt Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,15
+Alger,"Limestone Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,6
+Alger,"Mathias Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,2
+Alger,"Munising Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,20
+Alger,"Onota Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,10
+Alger,"Rock River Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,10
+Alger,"City of Munising, Precinct 1",County Sheriff,,REP,Write-In,16
+Alger,"AuTrain Township, Precinct 1",County Sheriff,,REP,Write-In,9
+Alger,"Burt Township, Precinct 1",County Sheriff,,REP,Write-In,15
+Alger,"Limestone Township, Precinct 1",County Sheriff,,REP,Write-In,4
+Alger,"Mathias Township, Precinct 1",County Sheriff,,REP,Write-In,2
+Alger,"Munising Township, Precinct 1",County Sheriff,,REP,Write-In,17
+Alger,"Onota Township, Precinct 1",County Sheriff,,REP,Write-In,8
+Alger,"Rock River Township, Precinct 1",County Sheriff,,REP,Write-In,9
+Alger,"City of Munising, Precinct 1",County Clerk and Register of Deeds,,REP,Write-In,17
+Alger,"AuTrain Township, Precinct 1",County Clerk and Register of Deeds,,REP,Write-In,8
+Alger,"Burt Township, Precinct 1",County Clerk and Register of Deeds,,REP,Write-In,14
+Alger,"Limestone Township, Precinct 1",County Clerk and Register of Deeds,,REP,Write-In,4
+Alger,"Mathias Township, Precinct 1",County Clerk and Register of Deeds,,REP,Write-In,2
+Alger,"Munising Township, Precinct 1",County Clerk and Register of Deeds,,REP,Write-In,17
+Alger,"Onota Township, Precinct 1",County Clerk and Register of Deeds,,REP,Write-In,7
+Alger,"Rock River Township, Precinct 1",County Clerk and Register of Deeds,,REP,Write-In,9
+Alger,"City of Munising, Precinct 1",County Treasurer,,REP,Write-In,16
+Alger,"AuTrain Township, Precinct 1",County Treasurer,,REP,Write-In,7
+Alger,"Burt Township, Precinct 1",County Treasurer,,REP,Write-In,14
+Alger,"Limestone Township, Precinct 1",County Treasurer,,REP,Write-In,4
+Alger,"Mathias Township, Precinct 1",County Treasurer,,REP,Write-In,2
+Alger,"Munising Township, Precinct 1",County Treasurer,,REP,Write-In,17
+Alger,"Onota Township, Precinct 1",County Treasurer,,REP,Write-In,7
+Alger,"Rock River Township, Precinct 1",County Treasurer,,REP,Write-In,10
+Alger,"City of Munising, Precinct 1",County Road Commissioner,,REP,Marci Taskey,107
+Alger,"City of Munising, Precinct 1",County Road Commissioner,,REP,Write-In,5
+Alger,"AuTrain Township, Precinct 1",County Road Commissioner,,REP,Marci Taskey,132
+Alger,"Burt Township, Precinct 1",County Road Commissioner,,REP,Marci Taskey,67
+Alger,"Grand Island Township, Precinct 1",County Road Commissioner,,REP,Marci Taskey,4
+Alger,"Limestone Township, Precinct 1",County Road Commissioner,,REP,Marci Taskey,42
+Alger,"Mathias Township, Precinct 1",County Road Commissioner,,REP,Marci Taskey,33
+Alger,"Munising Township, Precinct 1",County Road Commissioner,,REP,Marci Taskey,166
+Alger,"Munising Township, Precinct 1",County Road Commissioner,,REP,Write-In,3
+Alger,"Onota Township, Precinct 1",County Road Commissioner,,REP,Marci Taskey,54
+Alger,"Rock River Township, Precinct 1",County Road Commissioner,,REP,Marci Taskey,81
+Alger,"Burt Township, Precinct 1",County Commissioner,1,REP,Write-In,19
+Alger,"Munising Township, Precinct 1",County Commissioner,1,REP,Write-In,10
+Alger,"City of Munising, Precinct 1",County Commissioner,2,REP,Write-In,7
+Alger,"Munising Township, Precinct 1",County Commissioner,2,REP,Write-In,8
+Alger,"City of Munising, Precinct 1",County Commissioner,3,REP,Write-In,10
+Alger,"AuTrain Township, Precinct 1",County Commissioner,3,REP,Write-In,2
+Alger,"AuTrain Township, Precinct 1",County Commissioner,4,REP,Write-In,8
+Alger,"Limestone Township, Precinct 1",County Commissioner,4,REP,Write-In,1
+Alger,"Mathias Township, Precinct 1",County Commissioner,4,REP,Write-In,1
+Alger,"Limestone Township, Precinct 1",County Commissioner,5,REP,Mickey G. Rondeau,22
+Alger,"Onota Township, Precinct 1",County Commissioner,5,REP,Mickey G. Rondeau,56
+Alger,"Rock River Township, Precinct 1",County Commissioner,5,REP,Mickey G. Rondeau,83
+Alger,"Burt Township, Precinct 1",Burt Township Supervisor,,REP,Write-In,21
+Alger,"AuTrain Township, Precinct 1",AuTrain Township Supervisor,,REP,Write-In,9
+Alger,"Grand Island Township, Precinct 1",Grand Island Township Supervisor,,REP,Jeffrey T. Cromell,6
+Alger,"Limestone Township, Precinct 1",Limestone Township Supervisor,,REP,Write-In,3
+Alger,"Mathias Township, Precinct 1",Mathias Township Supervisor,,REP,Write-In,3
+Alger,"Munising Township, Precinct 1",Munising Township Supervisor,,REP,Write-In,17
+Alger,"Onota Township, Precinct 1",Onota Township Supervisor,,REP,Write-In,7
+Alger,"Rock River Township, Precinct 1",Rock River Township Supervisor,,REP,Write-In,7
+Alger,"AuTrain Township, Precinct 1",AuTrain Township Clerk,,REP,Mary Walther Johnson,139
+Alger,"Burt Township, Precinct 1",Burt Township Clerk,,REP,Write-In,18
+Alger,"Limestone Township, Precinct 1",Limestone Township Clerk,,REP,Write-In,3
+Alger,"Mathias Township, Precinct 1",Mathias Township Clerk,,REP,Write-In,2
+Alger,"Munising Township, Precinct 1",Munising Township Clerk,,REP,Patty Willson,181
+Alger,"Onota Township, Precinct 1",Onota Township Clerk,,REP,Write-In,7
+Alger,"Rock River Township, Precinct 1",Rock River Township Clerk,,REP,Write-In,7
+Alger,"Burt Township, Precinct 1",Burt Township Treasurer,,REP,Write-In,18
+Alger,"AuTrain Township, Precinct 1",AuTrain Township Treasurer,,REP,Write-In,8
+Alger,"Limestone Township, Precinct 1",Limestone Township Treasurer,,REP,Write-In,3
+Alger,"Mathias Township, Precinct 1",Mathias Township Treasurer,,REP,Write-In,2
+Alger,"Munising Township, Precinct 1",Munising Township Treasurer,,REP,Nicole Graves,180
+Alger,"Munising Township, Precinct 1",Munising Township Treasurer,,REP,Write-In,1
+Alger,"Onota Township, Precinct 1",Onota Township Treasurer,,REP,Write-In,7
+Alger,"Rock River Township, Precinct 1",Rock River Township Treasurer,,REP,Write-In,8
+Alger,"Burt Township, Precinct 1",Burt Township Trustee,,REP,Write-In,21
+Alger,"AuTrain Township, Precinct 1",AuTrain Township Trustee,,REP,Jacob Miller,88
+Alger,"AuTrain Township, Precinct 1",AuTrain Township Trustee,,REP,Rudolph Ken Kleeman,71
+Alger,"AuTrain Township, Precinct 1",AuTrain Township Trustee,,REP,Thomas C. Balmes,110
+Alger,"Limestone Township, Precinct 1",Limestone Township Trustee,,REP,Ingrid Hoy,40
+Alger,"Mathias Township, Precinct 1",Mathias Township Trustee,,REP,Joe Webber,32
+Alger,"Munising Township, Precinct 1",Munising Township Trustee,,REP,Write-In,19
+Alger,"Onota Township, Precinct 1",Onota Township Trustee,,REP,Write-In,8
+Alger,"Rock River Township, Precinct 1",Rock River Township Trustee,,REP,Write-In,8
+Alger,"City of Munising, Precinct 1","City of Munising, Precinct 1 Delegate to County Convention",,REP,Write-In,22
+Alger,"AuTrain Township, Precinct 1","AuTrain Township, Precinct 1 Delegate to County Convention",,REP,Write-In,16
+Alger,"Burt Township, Precinct 1","Burt Township, Precinct 1 Delegate to County Convention",,REP,Write-In,16
+Alger,"Limestone Township, Precinct 1","Limestone Township, Precinct 1 Delegate to County Convention",,REP,Write-In,5
+Alger,"Mathias Township, Precinct 1","Mathias Township, Precinct 1 Delegate to County Convention",,REP,Jeffery Wayne Millin In,4
+Alger,"Mathias Township, Precinct 1","Mathias Township, Precinct 1 Delegate to County Convention",,REP,Write-In,2
+Alger,"Munising Township, Precinct 1","Munising Township, Precinct 1 Delegate to County Convention",,REP,Write-In,37
+Alger,"Onota Township, Precinct 1","Onota Township, Precinct 1 Delegate to County Convention",,REP,Write-In,7
+Alger,"Rock River Township, Precinct 1","Rock River Township, Precinct 1 Delegate to County Convention",,REP,Write-In,7
+Alger,"AuTrain Township, Precinct 1",AuTrain Township Fire Department Proposal,,,No,99
+Alger,"AuTrain Township, Precinct 1",AuTrain Township Fire Department Proposal,,,Yes,215
+Alger,"Burt Township, Precinct 1",Burt Township General Operating Proposal,,,No,40
+Alger,"Burt Township, Precinct 1",Burt Township General Operating Proposal,,,Yes,142
+Alger,"Burt Township, Precinct 1",Burt Township Emergency Services Operating Proposal,,,No,33
+Alger,"Burt Township, Precinct 1",Burt Township Emergency Services Operating Proposal,,,Yes,152
+Alger,"Onota Township, Precinct 1",Onota Township General Operations Proposal,,,No,35
+Alger,"Onota Township, Precinct 1",Onota Township General Operations Proposal,,,Yes,140
+Alger,"Onota Township, Precinct 1",Onota Township Fire Protection Proposal,,,No,20
+Alger,"Onota Township, Precinct 1",Onota Township Fire Protection Proposal,,,Yes,155
+Alger,"Onota Township, Precinct 1",Onota Township Solid Waste Collection Proposal,,,No,27
+Alger,"Onota Township, Precinct 1",Onota Township Solid Waste Collection Proposal,,,Yes,148
