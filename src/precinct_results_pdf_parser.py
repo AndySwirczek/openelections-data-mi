@@ -48,7 +48,7 @@ PRECINCT = re.compile(
     r'^(.+ \d+(?: ?- ?[A-Z])?) (\d[\d,]*) of ([\d,]+) registered voters')
 TITLE_DONE = re.compile(
     r' - (?:Democratic|Republican|Nonpartisan)(?: Party)? - '
-    r'Vote?r? for not more than \d+$')
+    r'Vote?r? for not more than \d+$', re.I)
 PAGE_NOISE = re.compile(
     r'^(Precinct Results.*|Official Results|Official Election Results.*|'
     r'Unofficial Results|Cumulative Results|'
@@ -104,6 +104,22 @@ COUNTY_CONFIG = {
         'methods': ['election_day', 'absentee', 'early_voting'],
         'header': ['election_day', 'absentee', 'early_voting'],
         'delegate_full': True,
+        'township_block': True,
+    },
+    # 2020 primary: two method columns (Absentee Voting / Election Day
+    # Voting); the empty 'header' keeps the votes-only shape the 2020
+    # county files use.
+    'Clinton 2020': {
+        'methods': ['absentee', 'election_day'],
+        'header': [],
+        'delegate_full': True,
+        'township_block': True,
+    },
+    # 2020 primary: a single 'Election Day Voting' method column.
+    'Hillsdale 2020': {
+        'methods': ['election_day'],
+        'header': [],
+        'delegate_full': False,
         'township_block': True,
     },
     # 2024 primary (the file lives in the Charlevoix sources folder but is
@@ -250,9 +266,10 @@ def expand_abbrev(text):
 
 def map_office(title, precinct, cfg, problems, township=False):
     party = ''
-    m = re.search(r' - (' + '|'.join(PARTY_WORDS) + r')(?: Party)?(?: - |$)', title)
+    m = re.search(r' - (' + '|'.join(PARTY_WORDS) + r')(?: Party)?(?: - |$)',
+                  title, re.I)   # Clinton 2020 prints DEMOCRATIC in caps
     if m:
-        party = PARTY_CODES.get(m.group(1), '')
+        party = PARTY_CODES.get(m.group(1).title(), '')
         tail = title[m.end():].strip()
         title = title[:m.start()].strip()
         # A wrapped proposal title resumes after the party marker
