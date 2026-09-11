@@ -64,9 +64,10 @@ DISTRICT_PATTERNS = [
     (re.compile(r'^State Senate (\d+)(?:st|nd|rd|th) District$'), 'State Senate'),
     (re.compile(r'^State House (\d+)(?:st|nd|rd|th) District$'), 'State House'),
     # Oceana abbreviates and, for State House, puts the district first.
-    (re.compile(r'^Rep in Congress (\d+)(?:st|nd|rd|th) Dist$'), 'U.S. House'),
-    (re.compile(r'^State Senator for (\d+)(?:st|nd|rd|th) Dist$'), 'State Senate'),
-    (re.compile(r'^Rep in State Legislature (\d+)(?:st|nd|rd|th) Dist$'), 'State House'),
+    # Lenawee 2020 spells "District" out in full.
+    (re.compile(r'^Rep in Congress (\d+)(?:st|nd|rd|th) Dist(?:rict)?$'), 'U.S. House'),
+    (re.compile(r'^State Senator for (\d+)(?:st|nd|rd|th) Dist(?:rict)?$'), 'State Senate'),
+    (re.compile(r'^Rep in State Legislature (\d+)(?:st|nd|rd|th) Dist(?:rict)?$'), 'State House'),
     (re.compile(r'^(\d+)(?:st|nd|rd|th) Dist Repr? in State Legislature$'), 'State House'),
     # Ingham puts "District" before the plain number.
     (re.compile(r'^Representative in Congress District (\d+)$'), 'U.S. House'),
