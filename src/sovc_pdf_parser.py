@@ -136,6 +136,10 @@ METHOD_COLS = {'Election Day': 'election_day', 'AV Counting Boards': 'av_countin
                'Early Voting': 'early_votes'}
 # Turnout summary pages that must not be mistaken for contests.
 SUMMARY_TITLE = re.compile(r'^(?:Official )?Statement of Votes Cast$|^Registered$')
+# Oscoda 2020: the tally line's label fragment carrying the precinct number
+# and the row's '- Total' suffix ('1 - Total', '- Total', 'Precinct 1 - Total',
+# bare 'Total' after a dash-terminated label).
+FRAG_TOTAL = re.compile(r'^(?:(Precinct) )?(?:(\d+) )?(?:- )?Total$')
 # Method mode: a label-only row is a precinct label only if it names a
 # jurisdiction; other fragments are rotated-header remnants (e.g. 'r ( T').
 PLAUSIBLE_LABEL = re.compile(r'(Precinct|Township|City|Village|County|Ward|Commission)')
@@ -589,6 +593,37 @@ class Contest:
 
         for label, cells, aux_cells in rows:
             if not cells and not aux_cells:
+                # Oscoda 2020's 2-up tables split each precinct's label so
+                # that the tally line's trailing fragment ('1 - Total',
+                # '- Total', 'Precinct 1 - Total') or the bare 'Total' after
+                # a dash-terminated label ('Elmer Township, Precinct 1 -')
+                # lands on its own line. Weld the fragment onto the open
+                # block (else the last merged row) and strip the ' - Total'
+                # it carries.
+                m = FRAG_TOTAL.match(label)
+                if m:
+                    target = pending if pending is not None else (
+                        merged[-1] if merged else None)
+                    if (target is not None and 'Total' not in target[0]
+                            and 'County' not in target[0]
+                            and 'Michigan' not in target[0]
+                            and 'Cumulative' not in target[0]
+                            and (m.group(1) or m.group(2)
+                                 # a bare 'Total' only welds onto a
+                                 # dash-terminated label; '- Total' always does
+                                 or (label != 'Total'
+                                     or target[0].rstrip().endswith('-')))):
+                        add = ''
+                        if m.group(1) and not target[0].rstrip().endswith('Precinct'):
+                            add += ' Precinct'
+                        if m.group(2) and not target[0].rstrip().endswith(m.group(2)):
+                            add += ' ' + m.group(2)
+                        target[0] = re.sub(r'\s*- Total$', '',
+                                           target[0] + add + ' - Total')
+                        target[0] = target[0].rstrip(' -')
+                        if pending is not None:
+                            flush()
+                        continue
                 if (label.startswith('Cumulative')
                         or label in ('County', 'Michigan')
                         or re.match(r'^\w+ County$', label)):
@@ -810,10 +845,12 @@ class Contest:
                 continue
             if label.startswith('Cumulative'):
                 continue
-            if (('County' in label or 'State' in label or 'Michigan' in label)
+            if (('County' in label or 'State' in label or 'Michigan' in label
+                    or label.startswith('Precincts'))
                     and 'Total' in label):
                 # Crawford 2024's continuation pages label the county total
-                # row "State - Total".
+                # row "State - Total"; Oscoda 2020's summary pages label it
+                # "Precincts - Total".
                 for i, v in cells.items():
                     if i < len(names):
                         self.county_totals[names[i]] = v
