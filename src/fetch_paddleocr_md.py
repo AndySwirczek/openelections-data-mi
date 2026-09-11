@@ -57,6 +57,25 @@ def _submit_job(pdf_path, token, orient=False):
             time.sleep(POLL_SECONDS)
     if r is None:
         raise RuntimeError("failed to submit job")
+    if r.status_code == 400 and "10010" in r.text:
+        # submission queue full -- back off and retry
+        for attempt in range(60):
+            print(f"    queue full, backoff {attempt + 1}/60", file=sys.stderr,
+                  flush=True)
+            time.sleep(30)
+            try:
+                with open(pdf_path, "rb") as f:
+                    r = requests.post(JOB_URL, headers=headers, data=data,
+                                      files={"file": f}, timeout=300)
+            except requests.RequestException as e:
+                print(f"    submit error ({e.__class__.__name__}), retry "
+                      f"{attempt + 1}/60", file=sys.stderr, flush=True)
+                continue
+            if r.status_code == 200:
+                break
+        if r is None or r.status_code != 200:
+            raise RuntimeError(f"PaddleOCR submit failed after backoff: "
+                               f"{r.text[:400] if r is not None else 'none'}")
     if r.status_code != 200:
         raise RuntimeError(f"PaddleOCR submit failed ({r.status_code}): {r.text[:400]}")
     return r.json()["data"]["jobId"]
