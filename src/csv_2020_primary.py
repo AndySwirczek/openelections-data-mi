@@ -88,7 +88,10 @@ def map_office(office, division, county):
         return 'State House', re.search(r'(\d+)', o).group(1)
     if re.match(r'Representative in State Legislature', o, re.I):
         m = re.search(r'(\d+)', d)
-        return 'State House', m.group(1) if m else ''
+        if m:
+            return 'State House', m.group(1)
+        single = county_districts(county).get('State House')
+        return 'State House', single if single else ''
     m = re.match(r'County Commissioner(?: (\d+)[A-Za-z]{0,2} District)?$', o, re.I)
     if m or o.lower() == 'county commissioner':
         num = m.group(1) if m and m.group(1) else None
