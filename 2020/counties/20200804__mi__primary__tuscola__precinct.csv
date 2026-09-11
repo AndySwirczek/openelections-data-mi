@@ -1,864 +1,1500 @@
-county,precinct,office,district,candidate,party,votes
-Tuscola,"Akron Township, Precinct 1",Registered Voters,,,,1064
-Tuscola,"Akron Township, Precinct 1",Ballots Cast,,,,351
-Tuscola,"Akron Township, Precinct 1",U S Senate,,Undervotes,DEM,3
-Tuscola,"Akron Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Akron Township, Precinct 1",U S Senate,,Gary Peters,DEM,67
-Tuscola,"Akron Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,1
-Tuscola,"Akron Township, Precinct 1",U S Senate,,Undervotes,REP,32
-Tuscola,"Akron Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Akron Township, Precinct 1",U S Senate,,John James,REP,221
-Tuscola,"Akron Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,2
-Tuscola,"Akron Township, Precinct 1",U S House,10,Undervotes,DEM,9
-Tuscola,"Akron Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Akron Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,40
-Tuscola,"Akron Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,21
-Tuscola,"Akron Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Akron Township, Precinct 1",U S House,10,Undervotes,REP,15
-Tuscola,"Akron Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Akron Township, Precinct 1",U S House,10,Shane Hernandez,REP,79
-Tuscola,"Akron Township, Precinct 1",U S House,10,Lisa McClain,REP,114
-Tuscola,"Akron Township, Precinct 1",U S House,10,Doug Slocum,REP,45
-Tuscola,"Akron Township, Precinct 1",U S House,10,Unresolved Write-In,REP,0
-Tuscola,"Akron Township, Precinct 1",State House,84,Undervotes,DEM,9
-Tuscola,"Akron Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Akron Township, Precinct 1",State House,84,Douglas P. Marker,DEM,25
-Tuscola,"Akron Township, Precinct 1",State House,84,Patrick J. Wood,DEM,36
-Tuscola,"Akron Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Akron Township, Precinct 1",State House,84,Undervotes,REP,39
-Tuscola,"Akron Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Akron Township, Precinct 1",State House,84,Phil Green,REP,214
-Tuscola,"Akron Township, Precinct 1",State House,84,Unresolved Write-In,REP,1
-Tuscola,"Almer Charter Township, Precinct 1",Registered Voters,,,,1579
-Tuscola,"Almer Charter Township, Precinct 1",Ballots Cast,,,,607
-Tuscola,"Almer Charter Township, Precinct 1",U S Senate,,Undervotes,DEM,5
-Tuscola,"Almer Charter Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Almer Charter Township, Precinct 1",U S Senate,,Gary Peters,DEM,128
-Tuscola,"Almer Charter Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Almer Charter Township, Precinct 1",U S Senate,,Undervotes,REP,66
-Tuscola,"Almer Charter Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Almer Charter Township, Precinct 1",U S Senate,,John James,REP,351
-Tuscola,"Almer Charter Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,1
-Tuscola,"Almer Charter Township, Precinct 1",U S House,10,Undervotes,DEM,10
-Tuscola,"Almer Charter Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Almer Charter Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,75
-Tuscola,"Almer Charter Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,48
-Tuscola,"Almer Charter Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,1
-Tuscola,"Almer Charter Township, Precinct 1",U S House,10,Undervotes,REP,39
-Tuscola,"Almer Charter Township, Precinct 1",U S House,10,Overvotes,REP,1
-Tuscola,"Almer Charter Township, Precinct 1",U S House,10,Shane Hernandez,REP,135
-Tuscola,"Almer Charter Township, Precinct 1",U S House,10,Lisa McClain,REP,164
-Tuscola,"Almer Charter Township, Precinct 1",U S House,10,Doug Slocum,REP,78
-Tuscola,"Almer Charter Township, Precinct 1",U S House,10,Unresolved Write-In,REP,1
-Tuscola,"Almer Charter Township, Precinct 1",State House,84,Undervotes,DEM,14
-Tuscola,"Almer Charter Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Almer Charter Township, Precinct 1",State House,84,Douglas P. Marker,DEM,40
-Tuscola,"Almer Charter Township, Precinct 1",State House,84,Patrick J. Wood,DEM,79
-Tuscola,"Almer Charter Township, Precinct 1",State House,84,Unresolved Write-In,DEM,1
-Tuscola,"Almer Charter Township, Precinct 1",State House,84,Undervotes,REP,65
-Tuscola,"Almer Charter Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Almer Charter Township, Precinct 1",State House,84,Phil Green,REP,352
-Tuscola,"Almer Charter Township, Precinct 1",State House,84,Unresolved Write-In,REP,2
-Tuscola,"Arbela Township, Precinct 1",Registered Voters,,,,1173
-Tuscola,"Arbela Township, Precinct 1",Ballots Cast,,,,401
-Tuscola,"Arbela Township, Precinct 1",U S Senate,,Undervotes,DEM,8
-Tuscola,"Arbela Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Arbela Township, Precinct 1",U S Senate,,Gary Peters,DEM,135
-Tuscola,"Arbela Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Arbela Township, Precinct 1",U S Senate,,Undervotes,REP,16
-Tuscola,"Arbela Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Arbela Township, Precinct 1",U S Senate,,John James,REP,213
-Tuscola,"Arbela Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,2
-Tuscola,"Arbela Township, Precinct 1",U S House,5,Undervotes,DEM,6
-Tuscola,"Arbela Township, Precinct 1",U S House,5,Overvotes,DEM,0
-Tuscola,"Arbela Township, Precinct 1",U S House,5,Daniel T. Kildee,DEM,137
-Tuscola,"Arbela Township, Precinct 1",U S House,5,Unresolved Write-In,DEM,0
-Tuscola,"Arbela Township, Precinct 1",U S House,5,Undervotes,REP,22
-Tuscola,"Arbela Township, Precinct 1",U S House,5,Overvotes,REP,1
-Tuscola,"Arbela Township, Precinct 1",U S House,5,Tim Kelly,REP,161
-Tuscola,"Arbela Township, Precinct 1",U S House,5,Earl Lackie,REP,45
-Tuscola,"Arbela Township, Precinct 1",U S House,5,Unresolved Write-In,REP,2
-Tuscola,"Arbela Township, Precinct 1",State House,84,Undervotes,DEM,15
-Tuscola,"Arbela Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Arbela Township, Precinct 1",State House,84,Douglas P. Marker,DEM,52
-Tuscola,"Arbela Township, Precinct 1",State House,84,Patrick J. Wood,DEM,76
-Tuscola,"Arbela Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Arbela Township, Precinct 1",State House,84,Undervotes,REP,17
-Tuscola,"Arbela Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Arbela Township, Precinct 1",State House,84,Phil Green,REP,212
-Tuscola,"Arbela Township, Precinct 1",State House,84,Unresolved Write-In,REP,3
-Tuscola,"Arbela Township, Precinct 2",Registered Voters,,,,1104
-Tuscola,"Arbela Township, Precinct 2",Ballots Cast,,,,308
-Tuscola,"Arbela Township, Precinct 2",U S Senate,,Undervotes,DEM,2
-Tuscola,"Arbela Township, Precinct 2",U S Senate,,Overvotes,DEM,0
-Tuscola,"Arbela Township, Precinct 2",U S Senate,,Gary Peters,DEM,112
-Tuscola,"Arbela Township, Precinct 2",U S Senate,,Unresolved Write-In,DEM,2
-Tuscola,"Arbela Township, Precinct 2",U S Senate,,Undervotes,REP,6
-Tuscola,"Arbela Township, Precinct 2",U S Senate,,Overvotes,REP,0
-Tuscola,"Arbela Township, Precinct 2",U S Senate,,John James,REP,160
-Tuscola,"Arbela Township, Precinct 2",U S Senate,,Unresolved Write-In,REP,0
-Tuscola,"Arbela Township, Precinct 2",U S House,5,Undervotes,DEM,3
-Tuscola,"Arbela Township, Precinct 2",U S House,5,Overvotes,DEM,0
-Tuscola,"Arbela Township, Precinct 2",U S House,5,Daniel T. Kildee,DEM,111
-Tuscola,"Arbela Township, Precinct 2",U S House,5,Unresolved Write-In,DEM,3
-Tuscola,"Arbela Township, Precinct 2",U S House,5,Undervotes,REP,13
-Tuscola,"Arbela Township, Precinct 2",U S House,5,Overvotes,REP,0
-Tuscola,"Arbela Township, Precinct 2",U S House,5,Tim Kelly,REP,110
-Tuscola,"Arbela Township, Precinct 2",U S House,5,Earl Lackie,REP,43
-Tuscola,"Arbela Township, Precinct 2",U S House,5,Unresolved Write-In,REP,0
-Tuscola,"Arbela Township, Precinct 2",State House,84,Undervotes,DEM,9
-Tuscola,"Arbela Township, Precinct 2",State House,84,Overvotes,DEM,0
-Tuscola,"Arbela Township, Precinct 2",State House,84,Douglas P. Marker,DEM,29
-Tuscola,"Arbela Township, Precinct 2",State House,84,Patrick J. Wood,DEM,76
-Tuscola,"Arbela Township, Precinct 2",State House,84,Unresolved Write-In,DEM,1
-Tuscola,"Arbela Township, Precinct 2",State House,84,Undervotes,REP,10
-Tuscola,"Arbela Township, Precinct 2",State House,84,Overvotes,REP,0
-Tuscola,"Arbela Township, Precinct 2",State House,84,Phil Green,REP,156
-Tuscola,"Arbela Township, Precinct 2",State House,84,Unresolved Write-In,REP,0
-Tuscola,"City of Caro, Precinct 1",Registered Voters,,,,1818
-Tuscola,"City of Caro, Precinct 1",Ballots Cast,,,,637
-Tuscola,"City of Caro, Precinct 1",U S Senate,,Undervotes,DEM,6
-Tuscola,"City of Caro, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"City of Caro, Precinct 1",U S Senate,,Gary Peters,DEM,200
-Tuscola,"City of Caro, Precinct 1",U S Senate,,Unresolved Write-In,DEM,2
-Tuscola,"City of Caro, Precinct 1",U S Senate,,Undervotes,REP,57
-Tuscola,"City of Caro, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"City of Caro, Precinct 1",U S Senate,,John James,REP,329
-Tuscola,"City of Caro, Precinct 1",U S Senate,,Unresolved Write-In,REP,1
-Tuscola,"City of Caro, Precinct 1",U S House,10,Undervotes,DEM,16
-Tuscola,"City of Caro, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"City of Caro, Precinct 1",U S House,10,Kimberly Bizon,DEM,114
-Tuscola,"City of Caro, Precinct 1",U S House,10,Kellhy L. Noland,DEM,76
-Tuscola,"City of Caro, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"City of Caro, Precinct 1",U S House,10,Undervotes,REP,41
-Tuscola,"City of Caro, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"City of Caro, Precinct 1",U S House,10,Shane Hernandez,REP,142
-Tuscola,"City of Caro, Precinct 1",U S House,10,Lisa McClain,REP,117
-Tuscola,"City of Caro, Precinct 1",U S House,10,Doug Slocum,REP,86
-Tuscola,"City of Caro, Precinct 1",U S House,10,Unresolved Write-In,REP,1
-Tuscola,"City of Caro, Precinct 1",State House,84,Undervotes,DEM,27
-Tuscola,"City of Caro, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"City of Caro, Precinct 1",State House,84,Douglas P. Marker,DEM,87
-Tuscola,"City of Caro, Precinct 1",State House,84,Patrick J. Wood,DEM,92
-Tuscola,"City of Caro, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"City of Caro, Precinct 1",State House,84,Undervotes,REP,45
-Tuscola,"City of Caro, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"City of Caro, Precinct 1",State House,84,Phil Green,REP,341
-Tuscola,"City of Caro, Precinct 1",State House,84,Unresolved Write-In,REP,2
-Tuscola,"City of Caro, Precinct 2",Registered Voters,,,,1321
-Tuscola,"City of Caro, Precinct 2",Ballots Cast,,,,330
-Tuscola,"City of Caro, Precinct 2",U S Senate,,Undervotes,DEM,2
-Tuscola,"City of Caro, Precinct 2",U S Senate,,Overvotes,DEM,0
-Tuscola,"City of Caro, Precinct 2",U S Senate,,Gary Peters,DEM,109
-Tuscola,"City of Caro, Precinct 2",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"City of Caro, Precinct 2",U S Senate,,Undervotes,REP,23
-Tuscola,"City of Caro, Precinct 2",U S Senate,,Overvotes,REP,0
-Tuscola,"City of Caro, Precinct 2",U S Senate,,John James,REP,174
-Tuscola,"City of Caro, Precinct 2",U S Senate,,Unresolved Write-In,REP,2
-Tuscola,"City of Caro, Precinct 2",U S House,10,Undervotes,DEM,5
-Tuscola,"City of Caro, Precinct 2",U S House,10,Overvotes,DEM,0
-Tuscola,"City of Caro, Precinct 2",U S House,10,Kimberly Bizon,DEM,48
-Tuscola,"City of Caro, Precinct 2",U S House,10,Kellhy L. Noland,DEM,58
-Tuscola,"City of Caro, Precinct 2",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"City of Caro, Precinct 2",U S House,10,Undervotes,REP,14
-Tuscola,"City of Caro, Precinct 2",U S House,10,Overvotes,REP,0
-Tuscola,"City of Caro, Precinct 2",U S House,10,Shane Hernandez,REP,66
-Tuscola,"City of Caro, Precinct 2",U S House,10,Lisa McClain,REP,89
-Tuscola,"City of Caro, Precinct 2",U S House,10,Doug Slocum,REP,28
-Tuscola,"City of Caro, Precinct 2",U S House,10,Unresolved Write-In,REP,1
-Tuscola,"City of Caro, Precinct 2",State House,84,Undervotes,DEM,5
-Tuscola,"City of Caro, Precinct 2",State House,84,Overvotes,DEM,0
-Tuscola,"City of Caro, Precinct 2",State House,84,Douglas P. Marker,DEM,32
-Tuscola,"City of Caro, Precinct 2",State House,84,Patrick J. Wood,DEM,74
-Tuscola,"City of Caro, Precinct 2",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"City of Caro, Precinct 2",State House,84,Undervotes,REP,27
-Tuscola,"City of Caro, Precinct 2",State House,84,Overvotes,REP,0
-Tuscola,"City of Caro, Precinct 2",State House,84,Phil Green,REP,170
-Tuscola,"City of Caro, Precinct 2",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Columbia Township, Precinct 1",Registered Voters,,,,901
-Tuscola,"Columbia Township, Precinct 1",Ballots Cast,,,,338
-Tuscola,"Columbia Township, Precinct 1",U S Senate,,Undervotes,DEM,4
-Tuscola,"Columbia Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Columbia Township, Precinct 1",U S Senate,,Gary Peters,DEM,76
-Tuscola,"Columbia Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Columbia Township, Precinct 1",U S Senate,,Undervotes,REP,35
-Tuscola,"Columbia Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Columbia Township, Precinct 1",U S Senate,,John James,REP,187
-Tuscola,"Columbia Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,3
-Tuscola,"Columbia Township, Precinct 1",U S House,10,Undervotes,DEM,12
-Tuscola,"Columbia Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Columbia Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,39
-Tuscola,"Columbia Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,29
-Tuscola,"Columbia Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,1
-Tuscola,"Columbia Township, Precinct 1",U S House,10,Undervotes,REP,10
-Tuscola,"Columbia Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Columbia Township, Precinct 1",U S House,10,Shane Hernandez,REP,74
-Tuscola,"Columbia Township, Precinct 1",U S House,10,Lisa McClain,REP,96
-Tuscola,"Columbia Township, Precinct 1",U S House,10,Doug Slocum,REP,42
-Tuscola,"Columbia Township, Precinct 1",U S House,10,Unresolved Write-In,REP,1
-Tuscola,"Columbia Township, Precinct 1",State House,84,Undervotes,DEM,12
-Tuscola,"Columbia Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Columbia Township, Precinct 1",State House,84,Douglas P. Marker,DEM,33
-Tuscola,"Columbia Township, Precinct 1",State House,84,Patrick J. Wood,DEM,35
-Tuscola,"Columbia Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Columbia Township, Precinct 1",State House,84,Undervotes,REP,18
-Tuscola,"Columbia Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Columbia Township, Precinct 1",State House,84,Phil Green,REP,204
-Tuscola,"Columbia Township, Precinct 1",State House,84,Unresolved Write-In,REP,2
-Tuscola,"Dayton Township, Precinct 1",Registered Voters,,,,1503
-Tuscola,"Dayton Township, Precinct 1",Ballots Cast,,,,524
-Tuscola,"Dayton Township, Precinct 1",U S Senate,,Undervotes,DEM,5
-Tuscola,"Dayton Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Dayton Township, Precinct 1",U S Senate,,Gary Peters,DEM,117
-Tuscola,"Dayton Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,1
-Tuscola,"Dayton Township, Precinct 1",U S Senate,,Undervotes,REP,33
-Tuscola,"Dayton Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Dayton Township, Precinct 1",U S Senate,,John James,REP,320
-Tuscola,"Dayton Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,2
-Tuscola,"Dayton Township, Precinct 1",U S House,10,Undervotes,DEM,7
-Tuscola,"Dayton Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Dayton Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,51
-Tuscola,"Dayton Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,64
-Tuscola,"Dayton Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Dayton Township, Precinct 1",U S House,10,Undervotes,REP,17
-Tuscola,"Dayton Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Dayton Township, Precinct 1",U S House,10,Shane Hernandez,REP,133
-Tuscola,"Dayton Township, Precinct 1",U S House,10,Lisa McClain,REP,135
-Tuscola,"Dayton Township, Precinct 1",U S House,10,Doug Slocum,REP,68
-Tuscola,"Dayton Township, Precinct 1",U S House,10,Unresolved Write-In,REP,1
-Tuscola,"Dayton Township, Precinct 1",State House,84,Undervotes,DEM,6
-Tuscola,"Dayton Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Dayton Township, Precinct 1",State House,84,Douglas P. Marker,DEM,24
-Tuscola,"Dayton Township, Precinct 1",State House,84,Patrick J. Wood,DEM,92
-Tuscola,"Dayton Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Dayton Township, Precinct 1",State House,84,Undervotes,REP,35
-Tuscola,"Dayton Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Dayton Township, Precinct 1",State House,84,Phil Green,REP,318
-Tuscola,"Dayton Township, Precinct 1",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Denmark Township, Precinct 1",Registered Voters,,,,2255
-Tuscola,"Denmark Township, Precinct 1",Ballots Cast,,,,750
-Tuscola,"Denmark Township, Precinct 1",U S Senate,,Undervotes,DEM,4
-Tuscola,"Denmark Township, Precinct 1",U S Senate,,Overvotes,DEM,1
-Tuscola,"Denmark Township, Precinct 1",U S Senate,,Gary Peters,DEM,154
-Tuscola,"Denmark Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Denmark Township, Precinct 1",U S Senate,,Undervotes,REP,47
-Tuscola,"Denmark Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Denmark Township, Precinct 1",U S Senate,,John James,REP,494
-Tuscola,"Denmark Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,2
-Tuscola,"Denmark Township, Precinct 1",U S House,5,Undervotes,DEM,4
-Tuscola,"Denmark Township, Precinct 1",U S House,5,Overvotes,DEM,0
-Tuscola,"Denmark Township, Precinct 1",U S House,5,Daniel T. Kildee,DEM,155
-Tuscola,"Denmark Township, Precinct 1",U S House,5,Unresolved Write-In,DEM,0
-Tuscola,"Denmark Township, Precinct 1",U S House,5,Undervotes,REP,59
-Tuscola,"Denmark Township, Precinct 1",U S House,5,Overvotes,REP,0
-Tuscola,"Denmark Township, Precinct 1",U S House,5,Tim Kelly,REP,422
-Tuscola,"Denmark Township, Precinct 1",U S House,5,Earl Lackie,REP,60
-Tuscola,"Denmark Township, Precinct 1",U S House,5,Unresolved Write-In,REP,0
-Tuscola,"Denmark Township, Precinct 1",State House,84,Undervotes,DEM,12
-Tuscola,"Denmark Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Denmark Township, Precinct 1",State House,84,Douglas P. Marker,DEM,67
-Tuscola,"Denmark Township, Precinct 1",State House,84,Patrick J. Wood,DEM,80
-Tuscola,"Denmark Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Denmark Township, Precinct 1",State House,84,Undervotes,REP,38
-Tuscola,"Denmark Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Denmark Township, Precinct 1",State House,84,Phil Green,REP,503
-Tuscola,"Denmark Township, Precinct 1",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Elkland Township, Precinct 1",Registered Voters,,,,1091
-Tuscola,"Elkland Township, Precinct 1",Ballots Cast,,,,333
-Tuscola,"Elkland Township, Precinct 1",U S Senate,,Undervotes,DEM,2
-Tuscola,"Elkland Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Elkland Township, Precinct 1",U S Senate,,Gary Peters,DEM,96
-Tuscola,"Elkland Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Elkland Township, Precinct 1",U S Senate,,Undervotes,REP,27
-Tuscola,"Elkland Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Elkland Township, Precinct 1",U S Senate,,John James,REP,192
-Tuscola,"Elkland Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,0
-Tuscola,"Elkland Township, Precinct 1",U S House,10,Undervotes,DEM,12
-Tuscola,"Elkland Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Elkland Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,57
-Tuscola,"Elkland Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,29
-Tuscola,"Elkland Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Elkland Township, Precinct 1",U S House,10,Undervotes,REP,14
-Tuscola,"Elkland Township, Precinct 1",U S House,10,Overvotes,REP,1
-Tuscola,"Elkland Township, Precinct 1",U S House,10,Shane Hernandez,REP,71
-Tuscola,"Elkland Township, Precinct 1",U S House,10,Lisa McClain,REP,96
-Tuscola,"Elkland Township, Precinct 1",U S House,10,Doug Slocum,REP,37
-Tuscola,"Elkland Township, Precinct 1",U S House,10,Unresolved Write-In,REP,0
-Tuscola,"Elkland Township, Precinct 1",State House,84,Undervotes,DEM,12
-Tuscola,"Elkland Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Elkland Township, Precinct 1",State House,84,Douglas P. Marker,DEM,38
-Tuscola,"Elkland Township, Precinct 1",State House,84,Patrick J. Wood,DEM,48
-Tuscola,"Elkland Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Elkland Township, Precinct 1",State House,84,Undervotes,REP,22
-Tuscola,"Elkland Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Elkland Township, Precinct 1",State House,84,Phil Green,REP,197
-Tuscola,"Elkland Township, Precinct 1",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Elkland Township, Precinct 2",Registered Voters,,,,1507
-Tuscola,"Elkland Township, Precinct 2",Ballots Cast,,,,505
-Tuscola,"Elkland Township, Precinct 2",U S Senate,,Undervotes,DEM,0
-Tuscola,"Elkland Township, Precinct 2",U S Senate,,Overvotes,DEM,0
-Tuscola,"Elkland Township, Precinct 2",U S Senate,,Gary Peters,DEM,123
-Tuscola,"Elkland Township, Precinct 2",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Elkland Township, Precinct 2",U S Senate,,Undervotes,REP,34
-Tuscola,"Elkland Township, Precinct 2",U S Senate,,Overvotes,REP,0
-Tuscola,"Elkland Township, Precinct 2",U S Senate,,John James,REP,328
-Tuscola,"Elkland Township, Precinct 2",U S Senate,,Unresolved Write-In,REP,1
-Tuscola,"Elkland Township, Precinct 2",U S House,10,Undervotes,DEM,14
-Tuscola,"Elkland Township, Precinct 2",U S House,10,Overvotes,DEM,2
-Tuscola,"Elkland Township, Precinct 2",U S House,10,Kimberly Bizon,DEM,66
-Tuscola,"Elkland Township, Precinct 2",U S House,10,Kellhy L. Noland,DEM,41
-Tuscola,"Elkland Township, Precinct 2",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Elkland Township, Precinct 2",U S House,10,Undervotes,REP,15
-Tuscola,"Elkland Township, Precinct 2",U S House,10,Overvotes,REP,0
-Tuscola,"Elkland Township, Precinct 2",U S House,10,Shane Hernandez,REP,126
-Tuscola,"Elkland Township, Precinct 2",U S House,10,Lisa McClain,REP,162
-Tuscola,"Elkland Township, Precinct 2",U S House,10,Doug Slocum,REP,59
-Tuscola,"Elkland Township, Precinct 2",U S House,10,Unresolved Write-In,REP,0
-Tuscola,"Elkland Township, Precinct 2",State House,84,Undervotes,DEM,16
-Tuscola,"Elkland Township, Precinct 2",State House,84,Overvotes,DEM,1
-Tuscola,"Elkland Township, Precinct 2",State House,84,Douglas P. Marker,DEM,35
-Tuscola,"Elkland Township, Precinct 2",State House,84,Patrick J. Wood,DEM,71
-Tuscola,"Elkland Township, Precinct 2",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Elkland Township, Precinct 2",State House,84,Undervotes,REP,28
-Tuscola,"Elkland Township, Precinct 2",State House,84,Overvotes,REP,0
-Tuscola,"Elkland Township, Precinct 2",State House,84,Phil Green,REP,334
-Tuscola,"Elkland Township, Precinct 2",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Ellington Township, Precinct 1",Registered Voters,,,,1024
-Tuscola,"Ellington Township, Precinct 1",Ballots Cast,,,,422
-Tuscola,"Ellington Township, Precinct 1",U S Senate,,Undervotes,DEM,2
-Tuscola,"Ellington Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Ellington Township, Precinct 1",U S Senate,,Gary Peters,DEM,87
-Tuscola,"Ellington Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Ellington Township, Precinct 1",U S Senate,,Undervotes,REP,38
-Tuscola,"Ellington Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Ellington Township, Precinct 1",U S Senate,,John James,REP,282
-Tuscola,"Ellington Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,0
-Tuscola,"Ellington Township, Precinct 1",U S House,10,Undervotes,DEM,8
-Tuscola,"Ellington Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Ellington Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,54
-Tuscola,"Ellington Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,27
-Tuscola,"Ellington Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Ellington Township, Precinct 1",U S House,10,Undervotes,REP,26
-Tuscola,"Ellington Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Ellington Township, Precinct 1",U S House,10,Shane Hernandez,REP,118
-Tuscola,"Ellington Township, Precinct 1",U S House,10,Lisa McClain,REP,111
-Tuscola,"Ellington Township, Precinct 1",U S House,10,Doug Slocum,REP,65
-Tuscola,"Ellington Township, Precinct 1",U S House,10,Unresolved Write-In,REP,0
-Tuscola,"Ellington Township, Precinct 1",State House,84,Undervotes,DEM,10
-Tuscola,"Ellington Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Ellington Township, Precinct 1",State House,84,Douglas P. Marker,DEM,21
-Tuscola,"Ellington Township, Precinct 1",State House,84,Patrick J. Wood,DEM,58
-Tuscola,"Ellington Township, Precinct 1",State House,84,Unresolved Write-In,DEM,1
-Tuscola,"Ellington Township, Precinct 1",State House,84,Undervotes,REP,39
-Tuscola,"Ellington Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Ellington Township, Precinct 1",State House,84,Phil Green,REP,281
-Tuscola,"Ellington Township, Precinct 1",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Elmwood Township, Precinct 1",Registered Voters,,,,896
-Tuscola,"Elmwood Township, Precinct 1",Ballots Cast,,,,278
-Tuscola,"Elmwood Township, Precinct 1",U S Senate,,Undervotes,DEM,1
-Tuscola,"Elmwood Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Elmwood Township, Precinct 1",U S Senate,,Gary Peters,DEM,58
-Tuscola,"Elmwood Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,1
-Tuscola,"Elmwood Township, Precinct 1",U S Senate,,Undervotes,REP,16
-Tuscola,"Elmwood Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Elmwood Township, Precinct 1",U S Senate,,John James,REP,184
-Tuscola,"Elmwood Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,2
-Tuscola,"Elmwood Township, Precinct 1",U S House,10,Undervotes,DEM,3
-Tuscola,"Elmwood Township, Precinct 1",U S House,10,Overvotes,DEM,1
-Tuscola,"Elmwood Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,16
-Tuscola,"Elmwood Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,39
-Tuscola,"Elmwood Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,1
-Tuscola,"Elmwood Township, Precinct 1",U S House,10,Undervotes,REP,6
-Tuscola,"Elmwood Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Elmwood Township, Precinct 1",U S House,10,Shane Hernandez,REP,70
-Tuscola,"Elmwood Township, Precinct 1",U S House,10,Lisa McClain,REP,84
-Tuscola,"Elmwood Township, Precinct 1",U S House,10,Doug Slocum,REP,40
-Tuscola,"Elmwood Township, Precinct 1",U S House,10,Unresolved Write-In,REP,0
-Tuscola,"Elmwood Township, Precinct 1",State House,84,Undervotes,DEM,4
-Tuscola,"Elmwood Township, Precinct 1",State House,84,Overvotes,DEM,1
-Tuscola,"Elmwood Township, Precinct 1",State House,84,Douglas P. Marker,DEM,29
-Tuscola,"Elmwood Township, Precinct 1",State House,84,Patrick J. Wood,DEM,25
-Tuscola,"Elmwood Township, Precinct 1",State House,84,Unresolved Write-In,DEM,1
-Tuscola,"Elmwood Township, Precinct 1",State House,84,Undervotes,REP,19
-Tuscola,"Elmwood Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Elmwood Township, Precinct 1",State House,84,Phil Green,REP,181
-Tuscola,"Elmwood Township, Precinct 1",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Fairgrove Township, Precinct 1",Registered Voters,,,,1133
-Tuscola,"Fairgrove Township, Precinct 1",Ballots Cast,,,,355
-Tuscola,"Fairgrove Township, Precinct 1",U S Senate,,Undervotes,DEM,1
-Tuscola,"Fairgrove Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Fairgrove Township, Precinct 1",U S Senate,,Gary Peters,DEM,107
-Tuscola,"Fairgrove Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Fairgrove Township, Precinct 1",U S Senate,,Undervotes,REP,28
-Tuscola,"Fairgrove Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Fairgrove Township, Precinct 1",U S Senate,,John James,REP,203
-Tuscola,"Fairgrove Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,3
-Tuscola,"Fairgrove Township, Precinct 1",U S House,10,Undervotes,DEM,10
-Tuscola,"Fairgrove Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Fairgrove Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,65
-Tuscola,"Fairgrove Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,33
-Tuscola,"Fairgrove Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Fairgrove Township, Precinct 1",U S House,10,Undervotes,REP,16
-Tuscola,"Fairgrove Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Fairgrove Township, Precinct 1",U S House,10,Shane Hernandez,REP,78
-Tuscola,"Fairgrove Township, Precinct 1",U S House,10,Lisa McClain,REP,93
-Tuscola,"Fairgrove Township, Precinct 1",U S House,10,Doug Slocum,REP,44
-Tuscola,"Fairgrove Township, Precinct 1",U S House,10,Unresolved Write-In,REP,1
-Tuscola,"Fairgrove Township, Precinct 1",State House,84,Undervotes,DEM,13
-Tuscola,"Fairgrove Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Fairgrove Township, Precinct 1",State House,84,Douglas P. Marker,DEM,33
-Tuscola,"Fairgrove Township, Precinct 1",State House,84,Patrick J. Wood,DEM,62
-Tuscola,"Fairgrove Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Fairgrove Township, Precinct 1",State House,84,Undervotes,REP,27
-Tuscola,"Fairgrove Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Fairgrove Township, Precinct 1",State House,84,Phil Green,REP,204
-Tuscola,"Fairgrove Township, Precinct 1",State House,84,Unresolved Write-In,REP,1
-Tuscola,"Fremont Township, Precinct 1",Registered Voters,,,,2550
-Tuscola,"Fremont Township, Precinct 1",Ballots Cast,,,,783
-Tuscola,"Fremont Township, Precinct 1",U S Senate,,Undervotes,DEM,13
-Tuscola,"Fremont Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Fremont Township, Precinct 1",U S Senate,,Gary Peters,DEM,214
-Tuscola,"Fremont Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Fremont Township, Precinct 1",U S Senate,,Undervotes,REP,45
-Tuscola,"Fremont Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Fremont Township, Precinct 1",U S Senate,,John James,REP,453
-Tuscola,"Fremont Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,2
-Tuscola,"Fremont Township, Precinct 1",U S House,10,Undervotes,DEM,16
-Tuscola,"Fremont Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Fremont Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,115
-Tuscola,"Fremont Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,96
-Tuscola,"Fremont Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Fremont Township, Precinct 1",U S House,10,Undervotes,REP,18
-Tuscola,"Fremont Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Fremont Township, Precinct 1",U S House,10,Shane Hernandez,REP,195
-Tuscola,"Fremont Township, Precinct 1",U S House,10,Lisa McClain,REP,176
-Tuscola,"Fremont Township, Precinct 1",U S House,10,Doug Slocum,REP,109
-Tuscola,"Fremont Township, Precinct 1",U S House,10,Unresolved Write-In,REP,1
-Tuscola,"Fremont Township, Precinct 1",State House,84,Undervotes,DEM,27
-Tuscola,"Fremont Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Fremont Township, Precinct 1",State House,84,Douglas P. Marker,DEM,74
-Tuscola,"Fremont Township, Precinct 1",State House,84,Patrick J. Wood,DEM,126
-Tuscola,"Fremont Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Fremont Township, Precinct 1",State House,84,Undervotes,REP,41
-Tuscola,"Fremont Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Fremont Township, Precinct 1",State House,84,Phil Green,REP,457
-Tuscola,"Fremont Township, Precinct 1",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Gilford Township, Precinct 1",Registered Voters,,,,601
-Tuscola,"Gilford Township, Precinct 1",Ballots Cast,,,,171
-Tuscola,"Gilford Township, Precinct 1",U S Senate,,Undervotes,DEM,3
-Tuscola,"Gilford Township, Precinct 1",U S Senate,,Overvotes,DEM,1
-Tuscola,"Gilford Township, Precinct 1",U S Senate,,Gary Peters,DEM,26
-Tuscola,"Gilford Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Gilford Township, Precinct 1",U S Senate,,Undervotes,REP,6
-Tuscola,"Gilford Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Gilford Township, Precinct 1",U S Senate,,John James,REP,116
-Tuscola,"Gilford Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,0
-Tuscola,"Gilford Township, Precinct 1",U S House,5,Undervotes,DEM,2
-Tuscola,"Gilford Township, Precinct 1",U S House,5,Overvotes,DEM,0
-Tuscola,"Gilford Township, Precinct 1",U S House,5,Daniel T. Kildee,DEM,28
-Tuscola,"Gilford Township, Precinct 1",U S House,5,Unresolved Write-In,DEM,0
-Tuscola,"Gilford Township, Precinct 1",U S House,5,Undervotes,REP,17
-Tuscola,"Gilford Township, Precinct 1",U S House,5,Overvotes,REP,0
-Tuscola,"Gilford Township, Precinct 1",U S House,5,Tim Kelly,REP,85
-Tuscola,"Gilford Township, Precinct 1",U S House,5,Earl Lackie,REP,20
-Tuscola,"Gilford Township, Precinct 1",U S House,5,Unresolved Write-In,REP,1
-Tuscola,"Gilford Township, Precinct 1",State House,84,Undervotes,DEM,0
-Tuscola,"Gilford Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Gilford Township, Precinct 1",State House,84,Douglas P. Marker,DEM,12
-Tuscola,"Gilford Township, Precinct 1",State House,84,Patrick J. Wood,DEM,18
-Tuscola,"Gilford Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Gilford Township, Precinct 1",State House,84,Undervotes,REP,8
-Tuscola,"Gilford Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Gilford Township, Precinct 1",State House,84,Phil Green,REP,114
-Tuscola,"Gilford Township, Precinct 1",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Indianfields Township, Precinct 1",Registered Voters,,,,2035
-Tuscola,"Indianfields Township, Precinct 1",Ballots Cast,,,,708
-Tuscola,"Indianfields Township, Precinct 1",U S Senate,,Undervotes,DEM,5
-Tuscola,"Indianfields Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Indianfields Township, Precinct 1",U S Senate,,Gary Peters,DEM,169
-Tuscola,"Indianfields Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,1
-Tuscola,"Indianfields Township, Precinct 1",U S Senate,,Undervotes,REP,65
-Tuscola,"Indianfields Township, Precinct 1",U S Senate,,Overvotes,REP,1
-Tuscola,"Indianfields Township, Precinct 1",U S Senate,,John James,REP,412
-Tuscola,"Indianfields Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,3
-Tuscola,"Indianfields Township, Precinct 1",U S House,10,Undervotes,DEM,10
-Tuscola,"Indianfields Township, Precinct 1",U S House,10,Overvotes,DEM,1
-Tuscola,"Indianfields Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,90
-Tuscola,"Indianfields Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,73
-Tuscola,"Indianfields Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Indianfields Township, Precinct 1",U S House,10,Undervotes,REP,38
-Tuscola,"Indianfields Township, Precinct 1",U S House,10,Overvotes,REP,1
-Tuscola,"Indianfields Township, Precinct 1",U S House,10,Shane Hernandez,REP,168
-Tuscola,"Indianfields Township, Precinct 1",U S House,10,Lisa McClain,REP,191
-Tuscola,"Indianfields Township, Precinct 1",U S House,10,Doug Slocum,REP,80
-Tuscola,"Indianfields Township, Precinct 1",U S House,10,Unresolved Write-In,REP,0
-Tuscola,"Indianfields Township, Precinct 1",State House,84,Undervotes,DEM,11
-Tuscola,"Indianfields Township, Precinct 1",State House,84,Overvotes,DEM,1
-Tuscola,"Indianfields Township, Precinct 1",State House,84,Douglas P. Marker,DEM,51
-Tuscola,"Indianfields Township, Precinct 1",State House,84,Patrick J. Wood,DEM,111
-Tuscola,"Indianfields Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Indianfields Township, Precinct 1",State House,84,Undervotes,REP,68
-Tuscola,"Indianfields Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Indianfields Township, Precinct 1",State House,84,Phil Green,REP,410
-Tuscola,"Indianfields Township, Precinct 1",State House,84,Unresolved Write-In,REP,4
-Tuscola,"Juniata Township, Precinct 1",Registered Voters,,,,1283
-Tuscola,"Juniata Township, Precinct 1",Ballots Cast,,,,458
-Tuscola,"Juniata Township, Precinct 1",U S Senate,,Undervotes,DEM,4
-Tuscola,"Juniata Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Juniata Township, Precinct 1",U S Senate,,Gary Peters,DEM,136
-Tuscola,"Juniata Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Juniata Township, Precinct 1",U S Senate,,Undervotes,REP,31
-Tuscola,"Juniata Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Juniata Township, Precinct 1",U S Senate,,John James,REP,249
-Tuscola,"Juniata Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,0
-Tuscola,"Juniata Township, Precinct 1",U S House,10,Undervotes,DEM,11
-Tuscola,"Juniata Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Juniata Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,53
-Tuscola,"Juniata Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,76
-Tuscola,"Juniata Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Juniata Township, Precinct 1",U S House,10,Undervotes,REP,20
-Tuscola,"Juniata Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Juniata Township, Precinct 1",U S House,10,Shane Hernandez,REP,82
-Tuscola,"Juniata Township, Precinct 1",U S House,10,Lisa McClain,REP,110
-Tuscola,"Juniata Township, Precinct 1",U S House,10,Doug Slocum,REP,68
-Tuscola,"Juniata Township, Precinct 1",U S House,10,Unresolved Write-In,REP,0
-Tuscola,"Juniata Township, Precinct 1",State House,84,Undervotes,DEM,10
-Tuscola,"Juniata Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Juniata Township, Precinct 1",State House,84,Douglas P. Marker,DEM,45
-Tuscola,"Juniata Township, Precinct 1",State House,84,Patrick J. Wood,DEM,85
-Tuscola,"Juniata Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Juniata Township, Precinct 1",State House,84,Undervotes,REP,36
-Tuscola,"Juniata Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Juniata Township, Precinct 1",State House,84,Phil Green,REP,244
-Tuscola,"Juniata Township, Precinct 1",State House,84,Unresolved Write-In,REP,1
-Tuscola,"Kingston Township, Precinct 1",Registered Voters,,,,1058
-Tuscola,"Kingston Township, Precinct 1",Ballots Cast,,,,334
-Tuscola,"Kingston Township, Precinct 1",U S Senate,,Undervotes,DEM,0
-Tuscola,"Kingston Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Kingston Township, Precinct 1",U S Senate,,Gary Peters,DEM,58
-Tuscola,"Kingston Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Kingston Township, Precinct 1",U S Senate,,Undervotes,REP,22
-Tuscola,"Kingston Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Kingston Township, Precinct 1",U S Senate,,John James,REP,226
-Tuscola,"Kingston Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,1
-Tuscola,"Kingston Township, Precinct 1",U S House,10,Undervotes,DEM,1
-Tuscola,"Kingston Township, Precinct 1",U S House,10,Overvotes,DEM,1
-Tuscola,"Kingston Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,24
-Tuscola,"Kingston Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,32
-Tuscola,"Kingston Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Kingston Township, Precinct 1",U S House,10,Undervotes,REP,15
-Tuscola,"Kingston Township, Precinct 1",U S House,10,Overvotes,REP,1
-Tuscola,"Kingston Township, Precinct 1",U S House,10,Shane Hernandez,REP,72
-Tuscola,"Kingston Township, Precinct 1",U S House,10,Lisa McClain,REP,111
-Tuscola,"Kingston Township, Precinct 1",U S House,10,Doug Slocum,REP,49
-Tuscola,"Kingston Township, Precinct 1",U S House,10,Unresolved Write-In,REP,0
-Tuscola,"Kingston Township, Precinct 1",State House,84,Undervotes,DEM,1
-Tuscola,"Kingston Township, Precinct 1",State House,84,Overvotes,DEM,1
-Tuscola,"Kingston Township, Precinct 1",State House,84,Douglas P. Marker,DEM,24
-Tuscola,"Kingston Township, Precinct 1",State House,84,Patrick J. Wood,DEM,32
-Tuscola,"Kingston Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Kingston Township, Precinct 1",State House,84,Undervotes,REP,24
-Tuscola,"Kingston Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Kingston Township, Precinct 1",State House,84,Phil Green,REP,224
-Tuscola,"Kingston Township, Precinct 1",State House,84,Unresolved Write-In,REP,3
-Tuscola,"Koylton Township, Precinct 1",Registered Voters,,,,1219
-Tuscola,"Koylton Township, Precinct 1",Ballots Cast,,,,346
-Tuscola,"Koylton Township, Precinct 1",U S Senate,,Undervotes,DEM,2
-Tuscola,"Koylton Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Koylton Township, Precinct 1",U S Senate,,Gary Peters,DEM,70
-Tuscola,"Koylton Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Koylton Township, Precinct 1",U S Senate,,Undervotes,REP,24
-Tuscola,"Koylton Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Koylton Township, Precinct 1",U S Senate,,John James,REP,235
-Tuscola,"Koylton Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,2
-Tuscola,"Koylton Township, Precinct 1",U S House,10,Undervotes,DEM,7
-Tuscola,"Koylton Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Koylton Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,31
-Tuscola,"Koylton Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,34
-Tuscola,"Koylton Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Koylton Township, Precinct 1",U S House,10,Undervotes,REP,11
-Tuscola,"Koylton Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Koylton Township, Precinct 1",U S House,10,Shane Hernandez,REP,91
-Tuscola,"Koylton Township, Precinct 1",U S House,10,Lisa McClain,REP,104
-Tuscola,"Koylton Township, Precinct 1",U S House,10,Doug Slocum,REP,53
-Tuscola,"Koylton Township, Precinct 1",U S House,10,Unresolved Write-In,REP,0
-Tuscola,"Koylton Township, Precinct 1",State House,84,Undervotes,DEM,9
-Tuscola,"Koylton Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Koylton Township, Precinct 1",State House,84,Douglas P. Marker,DEM,17
-Tuscola,"Koylton Township, Precinct 1",State House,84,Patrick J. Wood,DEM,46
-Tuscola,"Koylton Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Koylton Township, Precinct 1",State House,84,Undervotes,REP,22
-Tuscola,"Koylton Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Koylton Township, Precinct 1",State House,84,Phil Green,REP,237
-Tuscola,"Koylton Township, Precinct 1",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Millington Township, Precinct 1",Registered Voters,,,,1823
-Tuscola,"Millington Township, Precinct 1",Ballots Cast,,,,593
-Tuscola,"Millington Township, Precinct 1",U S Senate,,Undervotes,DEM,1
-Tuscola,"Millington Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Millington Township, Precinct 1",U S Senate,,Gary Peters,DEM,135
-Tuscola,"Millington Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,1
-Tuscola,"Millington Township, Precinct 1",U S Senate,,Undervotes,REP,56
-Tuscola,"Millington Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Millington Township, Precinct 1",U S Senate,,John James,REP,333
-Tuscola,"Millington Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,6
-Tuscola,"Millington Township, Precinct 1",U S House,5,Undervotes,DEM,6
-Tuscola,"Millington Township, Precinct 1",U S House,5,Overvotes,DEM,0
-Tuscola,"Millington Township, Precinct 1",U S House,5,Daniel T. Kildee,DEM,130
-Tuscola,"Millington Township, Precinct 1",U S House,5,Unresolved Write-In,DEM,2
-Tuscola,"Millington Township, Precinct 1",U S House,5,Undervotes,REP,72
-Tuscola,"Millington Township, Precinct 1",U S House,5,Overvotes,REP,2
-Tuscola,"Millington Township, Precinct 1",U S House,5,Tim Kelly,REP,252
-Tuscola,"Millington Township, Precinct 1",U S House,5,Earl Lackie,REP,63
-Tuscola,"Millington Township, Precinct 1",U S House,5,Unresolved Write-In,REP,3
-Tuscola,"Millington Township, Precinct 1",State House,84,Undervotes,DEM,17
-Tuscola,"Millington Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Millington Township, Precinct 1",State House,84,Douglas P. Marker,DEM,35
-Tuscola,"Millington Township, Precinct 1",State House,84,Patrick J. Wood,DEM,84
-Tuscola,"Millington Township, Precinct 1",State House,84,Unresolved Write-In,DEM,1
-Tuscola,"Millington Township, Precinct 1",State House,84,Undervotes,REP,46
-Tuscola,"Millington Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Millington Township, Precinct 1",State House,84,Phil Green,REP,343
-Tuscola,"Millington Township, Precinct 1",State House,84,Unresolved Write-In,REP,2
-Tuscola,"Millington Township, Precinct 2",Registered Voters,,,,1553
-Tuscola,"Millington Township, Precinct 2",Ballots Cast,,,,516
-Tuscola,"Millington Township, Precinct 2",U S Senate,,Undervotes,DEM,2
-Tuscola,"Millington Township, Precinct 2",U S Senate,,Overvotes,DEM,0
-Tuscola,"Millington Township, Precinct 2",U S Senate,,Gary Peters,DEM,120
-Tuscola,"Millington Township, Precinct 2",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Millington Township, Precinct 2",U S Senate,,Undervotes,REP,35
-Tuscola,"Millington Township, Precinct 2",U S Senate,,Overvotes,REP,0
-Tuscola,"Millington Township, Precinct 2",U S Senate,,John James,REP,298
-Tuscola,"Millington Township, Precinct 2",U S Senate,,Unresolved Write-In,REP,0
-Tuscola,"Millington Township, Precinct 2",U S House,5,Undervotes,DEM,3
-Tuscola,"Millington Township, Precinct 2",U S House,5,Overvotes,DEM,0
-Tuscola,"Millington Township, Precinct 2",U S House,5,Daniel T. Kildee,DEM,119
-Tuscola,"Millington Township, Precinct 2",U S House,5,Unresolved Write-In,DEM,0
-Tuscola,"Millington Township, Precinct 2",U S House,5,Undervotes,REP,46
-Tuscola,"Millington Township, Precinct 2",U S House,5,Overvotes,REP,0
-Tuscola,"Millington Township, Precinct 2",U S House,5,Tim Kelly,REP,197
-Tuscola,"Millington Township, Precinct 2",U S House,5,Earl Lackie,REP,90
-Tuscola,"Millington Township, Precinct 2",U S House,5,Unresolved Write-In,REP,0
-Tuscola,"Millington Township, Precinct 2",State House,84,Undervotes,DEM,10
-Tuscola,"Millington Township, Precinct 2",State House,84,Overvotes,DEM,0
-Tuscola,"Millington Township, Precinct 2",State House,84,Douglas P. Marker,DEM,36
-Tuscola,"Millington Township, Precinct 2",State House,84,Patrick J. Wood,DEM,76
-Tuscola,"Millington Township, Precinct 2",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Millington Township, Precinct 2",State House,84,Undervotes,REP,23
-Tuscola,"Millington Township, Precinct 2",State House,84,Overvotes,REP,0
-Tuscola,"Millington Township, Precinct 2",State House,84,Phil Green,REP,310
-Tuscola,"Millington Township, Precinct 2",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Novesta Township, Precinct 1",Registered Voters,,,,997
-Tuscola,"Novesta Township, Precinct 1",Ballots Cast,,,,361
-Tuscola,"Novesta Township, Precinct 1",U S Senate,,Undervotes,DEM,0
-Tuscola,"Novesta Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Novesta Township, Precinct 1",U S Senate,,Gary Peters,DEM,70
-Tuscola,"Novesta Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Novesta Township, Precinct 1",U S Senate,,Undervotes,REP,21
-Tuscola,"Novesta Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Novesta Township, Precinct 1",U S Senate,,John James,REP,254
-Tuscola,"Novesta Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,2
-Tuscola,"Novesta Township, Precinct 1",U S House,10,Undervotes,DEM,4
-Tuscola,"Novesta Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Novesta Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,34
-Tuscola,"Novesta Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,32
-Tuscola,"Novesta Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Novesta Township, Precinct 1",U S House,10,Undervotes,REP,15
-Tuscola,"Novesta Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Novesta Township, Precinct 1",U S House,10,Shane Hernandez,REP,88
-Tuscola,"Novesta Township, Precinct 1",U S House,10,Lisa McClain,REP,125
-Tuscola,"Novesta Township, Precinct 1",U S House,10,Doug Slocum,REP,47
-Tuscola,"Novesta Township, Precinct 1",U S House,10,Unresolved Write-In,REP,1
-Tuscola,"Novesta Township, Precinct 1",State House,84,Undervotes,DEM,5
-Tuscola,"Novesta Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Novesta Township, Precinct 1",State House,84,Douglas P. Marker,DEM,36
-Tuscola,"Novesta Township, Precinct 1",State House,84,Patrick J. Wood,DEM,29
-Tuscola,"Novesta Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Novesta Township, Precinct 1",State House,84,Undervotes,REP,20
-Tuscola,"Novesta Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Novesta Township, Precinct 1",State House,84,Phil Green,REP,255
-Tuscola,"Novesta Township, Precinct 1",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Tuscola Township, Precinct 1",Registered Voters,,,,1636
-Tuscola,"Tuscola Township, Precinct 1",Ballots Cast,,,,502
-Tuscola,"Tuscola Township, Precinct 1",U S Senate,,Undervotes,DEM,1
-Tuscola,"Tuscola Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Tuscola Township, Precinct 1",U S Senate,,Gary Peters,DEM,117
-Tuscola,"Tuscola Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Tuscola Township, Precinct 1",U S Senate,,Undervotes,REP,27
-Tuscola,"Tuscola Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Tuscola Township, Precinct 1",U S Senate,,John James,REP,324
-Tuscola,"Tuscola Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,3
-Tuscola,"Tuscola Township, Precinct 1",U S House,5,Undervotes,DEM,1
-Tuscola,"Tuscola Township, Precinct 1",U S House,5,Overvotes,DEM,0
-Tuscola,"Tuscola Township, Precinct 1",U S House,5,Daniel T. Kildee,DEM,117
-Tuscola,"Tuscola Township, Precinct 1",U S House,5,Unresolved Write-In,DEM,0
-Tuscola,"Tuscola Township, Precinct 1",U S House,5,Undervotes,REP,31
-Tuscola,"Tuscola Township, Precinct 1",U S House,5,Overvotes,REP,0
-Tuscola,"Tuscola Township, Precinct 1",U S House,5,Tim Kelly,REP,278
-Tuscola,"Tuscola Township, Precinct 1",U S House,5,Earl Lackie,REP,42
-Tuscola,"Tuscola Township, Precinct 1",U S House,5,Unresolved Write-In,REP,1
-Tuscola,"Tuscola Township, Precinct 1",State House,84,Undervotes,DEM,8
-Tuscola,"Tuscola Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Tuscola Township, Precinct 1",State House,84,Douglas P. Marker,DEM,34
-Tuscola,"Tuscola Township, Precinct 1",State House,84,Patrick J. Wood,DEM,76
-Tuscola,"Tuscola Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Tuscola Township, Precinct 1",State House,84,Undervotes,REP,23
-Tuscola,"Tuscola Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Tuscola Township, Precinct 1",State House,84,Phil Green,REP,328
-Tuscola,"Tuscola Township, Precinct 1",State House,84,Unresolved Write-In,REP,0
-Tuscola,"City of Vassar, Precinct 1",Registered Voters,,,,1950
-Tuscola,"City of Vassar, Precinct 1",Ballots Cast,,,,486
-Tuscola,"City of Vassar, Precinct 1",U S Senate,,Undervotes,DEM,5
-Tuscola,"City of Vassar, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"City of Vassar, Precinct 1",U S Senate,,Gary Peters,DEM,181
-Tuscola,"City of Vassar, Precinct 1",U S Senate,,Unresolved Write-In,DEM,1
-Tuscola,"City of Vassar, Precinct 1",U S Senate,,Undervotes,REP,14
-Tuscola,"City of Vassar, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"City of Vassar, Precinct 1",U S Senate,,John James,REP,251
-Tuscola,"City of Vassar, Precinct 1",U S Senate,,Unresolved Write-In,REP,1
-Tuscola,"City of Vassar, Precinct 1",U S House,5,Undervotes,DEM,6
-Tuscola,"City of Vassar, Precinct 1",U S House,5,Overvotes,DEM,0
-Tuscola,"City of Vassar, Precinct 1",U S House,5,Daniel T. Kildee,DEM,180
-Tuscola,"City of Vassar, Precinct 1",U S House,5,Unresolved Write-In,DEM,0
-Tuscola,"City of Vassar, Precinct 1",U S House,5,Undervotes,REP,19
-Tuscola,"City of Vassar, Precinct 1",U S House,5,Overvotes,REP,1
-Tuscola,"City of Vassar, Precinct 1",U S House,5,Tim Kelly,REP,192
-Tuscola,"City of Vassar, Precinct 1",U S House,5,Earl Lackie,REP,53
-Tuscola,"City of Vassar, Precinct 1",U S House,5,Unresolved Write-In,REP,0
-Tuscola,"City of Vassar, Precinct 1",State House,84,Undervotes,DEM,15
-Tuscola,"City of Vassar, Precinct 1",State House,84,Overvotes,DEM,1
-Tuscola,"City of Vassar, Precinct 1",State House,84,Douglas P. Marker,DEM,77
-Tuscola,"City of Vassar, Precinct 1",State House,84,Patrick J. Wood,DEM,93
-Tuscola,"City of Vassar, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"City of Vassar, Precinct 1",State House,84,Undervotes,REP,14
-Tuscola,"City of Vassar, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"City of Vassar, Precinct 1",State House,84,Phil Green,REP,251
-Tuscola,"City of Vassar, Precinct 1",State House,84,Unresolved Write-In,REP,0
-Tuscola,"Vassar Township, Precinct 1",Registered Voters,,,,2922
-Tuscola,"Vassar Township, Precinct 1",Ballots Cast,,,,699
-Tuscola,"Vassar Township, Precinct 1",U S Senate,,Undervotes,DEM,3
-Tuscola,"Vassar Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Vassar Township, Precinct 1",U S Senate,,Gary Peters,DEM,212
-Tuscola,"Vassar Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Vassar Township, Precinct 1",U S Senate,,Undervotes,REP,32
-Tuscola,"Vassar Township, Precinct 1",U S Senate,,Overvotes,REP,2
-Tuscola,"Vassar Township, Precinct 1",U S Senate,,John James,REP,390
-Tuscola,"Vassar Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,1
-Tuscola,"Vassar Township, Precinct 1",U S House,5,Undervotes,DEM,2
-Tuscola,"Vassar Township, Precinct 1",U S House,5,Overvotes,DEM,0
-Tuscola,"Vassar Township, Precinct 1",U S House,5,Daniel T. Kildee,DEM,90
-Tuscola,"Vassar Township, Precinct 1",U S House,5,Unresolved Write-In,DEM,0
-Tuscola,"Vassar Township, Precinct 1",U S House,5,Undervotes,REP,20
-Tuscola,"Vassar Township, Precinct 1",U S House,5,Overvotes,REP,0
-Tuscola,"Vassar Township, Precinct 1",U S House,5,Tim Kelly,REP,128
-Tuscola,"Vassar Township, Precinct 1",U S House,5,Earl Lackie,REP,27
-Tuscola,"Vassar Township, Precinct 1",U S House,5,Unresolved Write-In,REP,0
-Tuscola,"Vassar Township, Precinct 1",U S House,10,Undervotes,DEM,14
-Tuscola,"Vassar Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Vassar Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,64
-Tuscola,"Vassar Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,45
-Tuscola,"Vassar Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,1
-Tuscola,"Vassar Township, Precinct 1",U S House,10,Undervotes,REP,6
-Tuscola,"Vassar Township, Precinct 1",U S House,10,Overvotes,REP,1
-Tuscola,"Vassar Township, Precinct 1",U S House,10,Shane Hernandez,REP,82
-Tuscola,"Vassar Township, Precinct 1",U S House,10,Lisa McClain,REP,95
-Tuscola,"Vassar Township, Precinct 1",U S House,10,Doug Slocum,REP,65
-Tuscola,"Vassar Township, Precinct 1",U S House,10,Unresolved Write-In,REP,0
-Tuscola,"Vassar Township, Precinct 1",State House,84,Undervotes,DEM,26
-Tuscola,"Vassar Township, Precinct 1",State House,84,Overvotes,DEM,1
-Tuscola,"Vassar Township, Precinct 1",State House,84,Douglas P. Marker,DEM,53
-Tuscola,"Vassar Township, Precinct 1",State House,84,Patrick J. Wood,DEM,135
-Tuscola,"Vassar Township, Precinct 1",State House,84,Unresolved Write-In,DEM,1
-Tuscola,"Vassar Township, Precinct 1",State House,84,Undervotes,REP,31
-Tuscola,"Vassar Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Vassar Township, Precinct 1",State House,84,Phil Green,REP,393
-Tuscola,"Vassar Township, Precinct 1",State House,84,Unresolved Write-In,REP,2
-Tuscola,"Watertown Township, Precinct 1",Registered Voters,,,,1705
-Tuscola,"Watertown Township, Precinct 1",Ballots Cast,,,,526
-Tuscola,"Watertown Township, Precinct 1",U S Senate,,Undervotes,DEM,9
-Tuscola,"Watertown Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Watertown Township, Precinct 1",U S Senate,,Gary Peters,DEM,119
-Tuscola,"Watertown Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,1
-Tuscola,"Watertown Township, Precinct 1",U S Senate,,Undervotes,REP,41
-Tuscola,"Watertown Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Watertown Township, Precinct 1",U S Senate,,John James,REP,331
-Tuscola,"Watertown Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,3
-Tuscola,"Watertown Township, Precinct 1",U S House,10,Undervotes,DEM,6
-Tuscola,"Watertown Township, Precinct 1",U S House,10,Overvotes,DEM,1
-Tuscola,"Watertown Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,81
-Tuscola,"Watertown Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,40
-Tuscola,"Watertown Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,1
-Tuscola,"Watertown Township, Precinct 1",U S House,10,Undervotes,REP,28
-Tuscola,"Watertown Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Watertown Township, Precinct 1",U S House,10,Shane Hernandez,REP,110
-Tuscola,"Watertown Township, Precinct 1",U S House,10,Lisa McClain,REP,162
-Tuscola,"Watertown Township, Precinct 1",U S House,10,Doug Slocum,REP,72
-Tuscola,"Watertown Township, Precinct 1",U S House,10,Unresolved Write-In,REP,3
-Tuscola,"Watertown Township, Precinct 1",State House,84,Undervotes,DEM,11
-Tuscola,"Watertown Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Watertown Township, Precinct 1",State House,84,Douglas P. Marker,DEM,52
-Tuscola,"Watertown Township, Precinct 1",State House,84,Patrick J. Wood,DEM,65
-Tuscola,"Watertown Township, Precinct 1",State House,84,Unresolved Write-In,DEM,1
-Tuscola,"Watertown Township, Precinct 1",State House,84,Undervotes,REP,37
-Tuscola,"Watertown Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Watertown Township, Precinct 1",State House,84,Phil Green,REP,335
-Tuscola,"Watertown Township, Precinct 1",State House,84,Unresolved Write-In,REP,2
-Tuscola,"Wells Township, Precinct 1",Registered Voters,,,,1261
-Tuscola,"Wells Township, Precinct 1",Ballots Cast,,,,417
-Tuscola,"Wells Township, Precinct 1",U S Senate,,Undervotes,DEM,2
-Tuscola,"Wells Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Wells Township, Precinct 1",U S Senate,,Gary Peters,DEM,106
-Tuscola,"Wells Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Wells Township, Precinct 1",U S Senate,,Undervotes,REP,32
-Tuscola,"Wells Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Wells Township, Precinct 1",U S Senate,,John James,REP,257
-Tuscola,"Wells Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,1
-Tuscola,"Wells Township, Precinct 1",U S House,10,Undervotes,DEM,7
-Tuscola,"Wells Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Wells Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,50
-Tuscola,"Wells Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,51
-Tuscola,"Wells Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Wells Township, Precinct 1",U S House,10,Undervotes,REP,10
-Tuscola,"Wells Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Wells Township, Precinct 1",U S House,10,Shane Hernandez,REP,83
-Tuscola,"Wells Township, Precinct 1",U S House,10,Lisa McClain,REP,150
-Tuscola,"Wells Township, Precinct 1",U S House,10,Doug Slocum,REP,46
-Tuscola,"Wells Township, Precinct 1",U S House,10,Unresolved Write-In,REP,0
-Tuscola,"Wells Township, Precinct 1",State House,84,Undervotes,DEM,12
-Tuscola,"Wells Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Wells Township, Precinct 1",State House,84,Douglas P. Marker,DEM,29
-Tuscola,"Wells Township, Precinct 1",State House,84,Patrick J. Wood,DEM,67
-Tuscola,"Wells Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Wells Township, Precinct 1",State House,84,Undervotes,REP,28
-Tuscola,"Wells Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Wells Township, Precinct 1",State House,84,Phil Green,REP,261
-Tuscola,"Wells Township, Precinct 1",State House,84,Unresolved Write-In,REP,2
-Tuscola,"Wisner Township, Precinct 1",Registered Voters,,,,507
-Tuscola,"Wisner Township, Precinct 1",Ballots Cast,,,,175
-Tuscola,"Wisner Township, Precinct 1",U S Senate,,Undervotes,DEM,3
-Tuscola,"Wisner Township, Precinct 1",U S Senate,,Overvotes,DEM,0
-Tuscola,"Wisner Township, Precinct 1",U S Senate,,Gary Peters,DEM,60
-Tuscola,"Wisner Township, Precinct 1",U S Senate,,Unresolved Write-In,DEM,0
-Tuscola,"Wisner Township, Precinct 1",U S Senate,,Undervotes,REP,10
-Tuscola,"Wisner Township, Precinct 1",U S Senate,,Overvotes,REP,0
-Tuscola,"Wisner Township, Precinct 1",U S Senate,,John James,REP,93
-Tuscola,"Wisner Township, Precinct 1",U S Senate,,Unresolved Write-In,REP,1
-Tuscola,"Wisner Township, Precinct 1",U S House,10,Undervotes,DEM,8
-Tuscola,"Wisner Township, Precinct 1",U S House,10,Overvotes,DEM,0
-Tuscola,"Wisner Township, Precinct 1",U S House,10,Kimberly Bizon,DEM,28
-Tuscola,"Wisner Township, Precinct 1",U S House,10,Kellhy L. Noland,DEM,27
-Tuscola,"Wisner Township, Precinct 1",U S House,10,Unresolved Write-In,DEM,0
-Tuscola,"Wisner Township, Precinct 1",U S House,10,Undervotes,REP,8
-Tuscola,"Wisner Township, Precinct 1",U S House,10,Overvotes,REP,0
-Tuscola,"Wisner Township, Precinct 1",U S House,10,Shane Hernandez,REP,37
-Tuscola,"Wisner Township, Precinct 1",U S House,10,Lisa McClain,REP,37
-Tuscola,"Wisner Township, Precinct 1",U S House,10,Doug Slocum,REP,21
-Tuscola,"Wisner Township, Precinct 1",U S House,10,Unresolved Write-In,REP,0
-Tuscola,"Wisner Township, Precinct 1",State House,84,Undervotes,DEM,10
-Tuscola,"Wisner Township, Precinct 1",State House,84,Overvotes,DEM,0
-Tuscola,"Wisner Township, Precinct 1",State House,84,Douglas P. Marker,DEM,26
-Tuscola,"Wisner Township, Precinct 1",State House,84,Patrick J. Wood,DEM,27
-Tuscola,"Wisner Township, Precinct 1",State House,84,Unresolved Write-In,DEM,0
-Tuscola,"Wisner Township, Precinct 1",State House,84,Undervotes,REP,11
-Tuscola,"Wisner Township, Precinct 1",State House,84,Overvotes,REP,0
-Tuscola,"Wisner Township, Precinct 1",State House,84,Phil Green,REP,92
-Tuscola,"Wisner Township, Precinct 1",State House,84,Unresolved Write-In,REP,1
+county,precinct,office,district,party,candidate,votes
+Tuscola,"Akron Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,67
+Tuscola,"Akron Township, Precinct 1",U.S. Senate,,DEM,Write-In,1
+Tuscola,"Almer Charter Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,128
+Tuscola,"Arbela Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,135
+Tuscola,"Arbela Township, Precinct 2",U.S. Senate,,DEM,Gary Peters,112
+Tuscola,"Arbela Township, Precinct 2",U.S. Senate,,DEM,Write-In,2
+Tuscola,"City of Caro, Precinct 1",U.S. Senate,,DEM,Gary Peters,200
+Tuscola,"City of Caro, Precinct 1",U.S. Senate,,DEM,Write-In,2
+Tuscola,"City of Caro, Precinct 2",U.S. Senate,,DEM,Gary Peters,109
+Tuscola,"Columbia Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,76
+Tuscola,"Dayton Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,117
+Tuscola,"Dayton Township, Precinct 1",U.S. Senate,,DEM,Write-In,1
+Tuscola,"Denmark Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,154
+Tuscola,"Elkland Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,96
+Tuscola,"Elkland Township, Precinct 2",U.S. Senate,,DEM,Gary Peters,123
+Tuscola,"Ellington Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,87
+Tuscola,"Elmwood Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,58
+Tuscola,"Elmwood Township, Precinct 1",U.S. Senate,,DEM,Write-In,1
+Tuscola,"Fairgrove Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,107
+Tuscola,"Fremont Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,214
+Tuscola,"Gilford Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,26
+Tuscola,"Indianfields Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,169
+Tuscola,"Indianfields Township, Precinct 1",U.S. Senate,,DEM,Write-In,1
+Tuscola,"Juniata Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,136
+Tuscola,"Kingston Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,58
+Tuscola,"Koylton Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,70
+Tuscola,"Millington Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,135
+Tuscola,"Millington Township, Precinct 1",U.S. Senate,,DEM,Write-In,1
+Tuscola,"Millington Township, Precinct 2",U.S. Senate,,DEM,Gary Peters,120
+Tuscola,"Novesta Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,70
+Tuscola,"Tuscola Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,117
+Tuscola,"City of Vassar, Precinct 1",U.S. Senate,,DEM,Gary Peters,181
+Tuscola,"Vassar Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,212
+Tuscola,"Watertown Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,119
+Tuscola,"Wells Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,106
+Tuscola,"Wisner Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,60
+Tuscola,"Akron Township, Precinct 1",U.S. Senate,,REP,John James,221
+Tuscola,"Akron Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Tuscola,"Almer Charter Township, Precinct 1",U.S. Senate,,REP,John James,351
+Tuscola,"Almer Charter Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 1",U.S. Senate,,REP,John James,213
+Tuscola,"Arbela Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Tuscola,"Arbela Township, Precinct 2",U.S. Senate,,REP,John James,160
+Tuscola,"City of Caro, Precinct 1",U.S. Senate,,REP,John James,329
+Tuscola,"City of Caro, Precinct 1",U.S. Senate,,REP,Write-In,1
+Tuscola,"City of Caro, Precinct 2",U.S. Senate,,REP,John James,174
+Tuscola,"City of Caro, Precinct 2",U.S. Senate,,REP,Write-In,2
+Tuscola,"Columbia Township, Precinct 1",U.S. Senate,,REP,John James,187
+Tuscola,"Columbia Township, Precinct 1",U.S. Senate,,REP,Write-In,3
+Tuscola,"Dayton Township, Precinct 1",U.S. Senate,,REP,John James,320
+Tuscola,"Dayton Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Tuscola,"Denmark Township, Precinct 1",U.S. Senate,,REP,John James,494
+Tuscola,"Denmark Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Tuscola,"Elkland Township, Precinct 1",U.S. Senate,,REP,John James,192
+Tuscola,"Elkland Township, Precinct 2",U.S. Senate,,REP,John James,328
+Tuscola,"Elkland Township, Precinct 2",U.S. Senate,,REP,Write-In,1
+Tuscola,"Ellington Township, Precinct 1",U.S. Senate,,REP,John James,282
+Tuscola,"Elmwood Township, Precinct 1",U.S. Senate,,REP,John James,184
+Tuscola,"Elmwood Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Tuscola,"Fairgrove Township, Precinct 1",U.S. Senate,,REP,John James,203
+Tuscola,"Fairgrove Township, Precinct 1",U.S. Senate,,REP,Write-In,3
+Tuscola,"Fremont Township, Precinct 1",U.S. Senate,,REP,John James,453
+Tuscola,"Fremont Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Tuscola,"Gilford Township, Precinct 1",U.S. Senate,,REP,John James,116
+Tuscola,"Indianfields Township, Precinct 1",U.S. Senate,,REP,John James,412
+Tuscola,"Indianfields Township, Precinct 1",U.S. Senate,,REP,Write-In,3
+Tuscola,"Juniata Township, Precinct 1",U.S. Senate,,REP,John James,249
+Tuscola,"Kingston Township, Precinct 1",U.S. Senate,,REP,John James,226
+Tuscola,"Kingston Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Tuscola,"Koylton Township, Precinct 1",U.S. Senate,,REP,John James,235
+Tuscola,"Koylton Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Tuscola,"Millington Township, Precinct 1",U.S. Senate,,REP,John James,333
+Tuscola,"Millington Township, Precinct 1",U.S. Senate,,REP,Write-In,6
+Tuscola,"Millington Township, Precinct 2",U.S. Senate,,REP,John James,298
+Tuscola,"Novesta Township, Precinct 1",U.S. Senate,,REP,John James,254
+Tuscola,"Novesta Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Tuscola,"Tuscola Township, Precinct 1",U.S. Senate,,REP,John James,324
+Tuscola,"Tuscola Township, Precinct 1",U.S. Senate,,REP,Write-In,3
+Tuscola,"City of Vassar, Precinct 1",U.S. Senate,,REP,John James,251
+Tuscola,"City of Vassar, Precinct 1",U.S. Senate,,REP,Write-In,1
+Tuscola,"Vassar Township, Precinct 1",U.S. Senate,,REP,John James,390
+Tuscola,"Vassar Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Tuscola,"Watertown Township, Precinct 1",U.S. Senate,,REP,John James,331
+Tuscola,"Watertown Township, Precinct 1",U.S. Senate,,REP,Write-In,3
+Tuscola,"Wells Township, Precinct 1",U.S. Senate,,REP,John James,257
+Tuscola,"Wells Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Tuscola,"Wisner Township, Precinct 1",U.S. Senate,,REP,John James,93
+Tuscola,"Wisner Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 1",Representative in Congress - 5th District,,DEM,Daniel T. Kildee,137
+Tuscola,"Arbela Township, Precinct 2",Representative in Congress - 5th District,,DEM,Daniel T. Kildee,111
+Tuscola,"Arbela Township, Precinct 2",Representative in Congress - 5th District,,DEM,Write-In,3
+Tuscola,"Denmark Township, Precinct 1",Representative in Congress - 5th District,,DEM,Daniel T. Kildee,155
+Tuscola,"Gilford Township, Precinct 1",Representative in Congress - 5th District,,DEM,Daniel T. Kildee,28
+Tuscola,"Millington Township, Precinct 1",Representative in Congress - 5th District,,DEM,Daniel T. Kildee,130
+Tuscola,"Millington Township, Precinct 1",Representative in Congress - 5th District,,DEM,Write-In,2
+Tuscola,"Millington Township, Precinct 2",Representative in Congress - 5th District,,DEM,Daniel T. Kildee,119
+Tuscola,"Tuscola Township, Precinct 1",Representative in Congress - 5th District,,DEM,Daniel T. Kildee,117
+Tuscola,"City of Vassar, Precinct 1",Representative in Congress - 5th District,,DEM,Daniel T. Kildee,180
+Tuscola,"Vassar Township, Precinct 1",Representative in Congress - 5th District,,DEM,Daniel T. Kildee,90
+Tuscola,"Arbela Township, Precinct 1",Representative in Congress - 5th District,,REP,Earl Lackie,45
+Tuscola,"Arbela Township, Precinct 1",Representative in Congress - 5th District,,REP,Tim Kelly,161
+Tuscola,"Arbela Township, Precinct 1",Representative in Congress - 5th District,,REP,Write-In,2
+Tuscola,"Arbela Township, Precinct 2",Representative in Congress - 5th District,,REP,Earl Lackie,43
+Tuscola,"Arbela Township, Precinct 2",Representative in Congress - 5th District,,REP,Tim Kelly,110
+Tuscola,"Denmark Township, Precinct 1",Representative in Congress - 5th District,,REP,Earl Lackie,60
+Tuscola,"Denmark Township, Precinct 1",Representative in Congress - 5th District,,REP,Tim Kelly,422
+Tuscola,"Gilford Township, Precinct 1",Representative in Congress - 5th District,,REP,Earl Lackie,20
+Tuscola,"Gilford Township, Precinct 1",Representative in Congress - 5th District,,REP,Tim Kelly,85
+Tuscola,"Gilford Township, Precinct 1",Representative in Congress - 5th District,,REP,Write-In,1
+Tuscola,"Millington Township, Precinct 1",Representative in Congress - 5th District,,REP,Earl Lackie,63
+Tuscola,"Millington Township, Precinct 1",Representative in Congress - 5th District,,REP,Tim Kelly,252
+Tuscola,"Millington Township, Precinct 1",Representative in Congress - 5th District,,REP,Write-In,3
+Tuscola,"Millington Township, Precinct 2",Representative in Congress - 5th District,,REP,Earl Lackie,90
+Tuscola,"Millington Township, Precinct 2",Representative in Congress - 5th District,,REP,Tim Kelly,197
+Tuscola,"Tuscola Township, Precinct 1",Representative in Congress - 5th District,,REP,Earl Lackie,42
+Tuscola,"Tuscola Township, Precinct 1",Representative in Congress - 5th District,,REP,Tim Kelly,278
+Tuscola,"Tuscola Township, Precinct 1",Representative in Congress - 5th District,,REP,Write-In,1
+Tuscola,"City of Vassar, Precinct 1",Representative in Congress - 5th District,,REP,Earl Lackie,53
+Tuscola,"City of Vassar, Precinct 1",Representative in Congress - 5th District,,REP,Tim Kelly,192
+Tuscola,"Vassar Township, Precinct 1",Representative in Congress - 5th District,,REP,Earl Lackie,27
+Tuscola,"Vassar Township, Precinct 1",Representative in Congress - 5th District,,REP,Tim Kelly,128
+Tuscola,"Akron Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,21
+Tuscola,"Akron Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,40
+Tuscola,"Almer Charter Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,48
+Tuscola,"Almer Charter Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,75
+Tuscola,"Almer Charter Township, Precinct 1",Representative in Congress - 10th District,,DEM,Write-In,1
+Tuscola,"City of Caro, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,76
+Tuscola,"City of Caro, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,114
+Tuscola,"City of Caro, Precinct 2",Representative in Congress - 10th District,,DEM,Kelly L. Noland,58
+Tuscola,"City of Caro, Precinct 2",Representative in Congress - 10th District,,DEM,Kimberly Bizon,48
+Tuscola,"Columbia Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,29
+Tuscola,"Columbia Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,39
+Tuscola,"Columbia Township, Precinct 1",Representative in Congress - 10th District,,DEM,Write-In,1
+Tuscola,"Dayton Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,64
+Tuscola,"Dayton Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,51
+Tuscola,"Elkland Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,29
+Tuscola,"Elkland Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,57
+Tuscola,"Elkland Township, Precinct 2",Representative in Congress - 10th District,,DEM,Kelly L. Noland,41
+Tuscola,"Elkland Township, Precinct 2",Representative in Congress - 10th District,,DEM,Kimberly Bizon,66
+Tuscola,"Ellington Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,27
+Tuscola,"Ellington Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,54
+Tuscola,"Elmwood Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,39
+Tuscola,"Elmwood Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,16
+Tuscola,"Elmwood Township, Precinct 1",Representative in Congress - 10th District,,DEM,Write-In,1
+Tuscola,"Fairgrove Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,33
+Tuscola,"Fairgrove Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,65
+Tuscola,"Fremont Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,96
+Tuscola,"Fremont Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,115
+Tuscola,"Indianfields Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,73
+Tuscola,"Indianfields Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,90
+Tuscola,"Juniata Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,76
+Tuscola,"Juniata Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,53
+Tuscola,"Kingston Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,32
+Tuscola,"Kingston Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,24
+Tuscola,"Koylton Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,34
+Tuscola,"Koylton Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,31
+Tuscola,"Novesta Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,32
+Tuscola,"Novesta Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,34
+Tuscola,"Vassar Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,45
+Tuscola,"Vassar Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,64
+Tuscola,"Vassar Township, Precinct 1",Representative in Congress - 10th District,,DEM,Write-In,1
+Tuscola,"Watertown Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,40
+Tuscola,"Watertown Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,81
+Tuscola,"Watertown Township, Precinct 1",Representative in Congress - 10th District,,DEM,Write-In,1
+Tuscola,"Wells Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,51
+Tuscola,"Wells Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,50
+Tuscola,"Wisner Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kelly L. Noland,27
+Tuscola,"Wisner Township, Precinct 1",Representative in Congress - 10th District,,DEM,Kimberly Bizon,28
+Tuscola,"Akron Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,45
+Tuscola,"Akron Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,114
+Tuscola,"Akron Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,79
+Tuscola,"Almer Charter Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,78
+Tuscola,"Almer Charter Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,164
+Tuscola,"Almer Charter Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,135
+Tuscola,"Almer Charter Township, Precinct 1",Representative in Congress - 10th District,,REP,Write-In,1
+Tuscola,"City of Caro, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,86
+Tuscola,"City of Caro, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,117
+Tuscola,"City of Caro, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,142
+Tuscola,"City of Caro, Precinct 1",Representative in Congress - 10th District,,REP,Write-In,1
+Tuscola,"City of Caro, Precinct 2",Representative in Congress - 10th District,,REP,Doug Slocum,28
+Tuscola,"City of Caro, Precinct 2",Representative in Congress - 10th District,,REP,Lisa McClain,89
+Tuscola,"City of Caro, Precinct 2",Representative in Congress - 10th District,,REP,Shane Hernandez,66
+Tuscola,"City of Caro, Precinct 2",Representative in Congress - 10th District,,REP,Write-In,1
+Tuscola,"Columbia Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,42
+Tuscola,"Columbia Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,96
+Tuscola,"Columbia Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,74
+Tuscola,"Columbia Township, Precinct 1",Representative in Congress - 10th District,,REP,Write-In,1
+Tuscola,"Dayton Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,68
+Tuscola,"Dayton Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,135
+Tuscola,"Dayton Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,133
+Tuscola,"Dayton Township, Precinct 1",Representative in Congress - 10th District,,REP,Write-In,1
+Tuscola,"Elkland Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,37
+Tuscola,"Elkland Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,96
+Tuscola,"Elkland Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,71
+Tuscola,"Elkland Township, Precinct 2",Representative in Congress - 10th District,,REP,Doug Slocum,59
+Tuscola,"Elkland Township, Precinct 2",Representative in Congress - 10th District,,REP,Lisa McClain,162
+Tuscola,"Elkland Township, Precinct 2",Representative in Congress - 10th District,,REP,Shane Hernandez,126
+Tuscola,"Ellington Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,65
+Tuscola,"Ellington Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,111
+Tuscola,"Ellington Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,118
+Tuscola,"Elmwood Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,40
+Tuscola,"Elmwood Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,84
+Tuscola,"Elmwood Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,70
+Tuscola,"Fairgrove Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,44
+Tuscola,"Fairgrove Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,93
+Tuscola,"Fairgrove Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,78
+Tuscola,"Fairgrove Township, Precinct 1",Representative in Congress - 10th District,,REP,Write-In,1
+Tuscola,"Fremont Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,109
+Tuscola,"Fremont Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,176
+Tuscola,"Fremont Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,195
+Tuscola,"Fremont Township, Precinct 1",Representative in Congress - 10th District,,REP,Write-In,1
+Tuscola,"Indianfields Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,80
+Tuscola,"Indianfields Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,191
+Tuscola,"Indianfields Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,168
+Tuscola,"Juniata Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,68
+Tuscola,"Juniata Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,110
+Tuscola,"Juniata Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,82
+Tuscola,"Kingston Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,49
+Tuscola,"Kingston Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,111
+Tuscola,"Kingston Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,72
+Tuscola,"Koylton Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,53
+Tuscola,"Koylton Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,104
+Tuscola,"Koylton Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,91
+Tuscola,"Novesta Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,47
+Tuscola,"Novesta Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,125
+Tuscola,"Novesta Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,88
+Tuscola,"Novesta Township, Precinct 1",Representative in Congress - 10th District,,REP,Write-In,1
+Tuscola,"Vassar Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,65
+Tuscola,"Vassar Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,95
+Tuscola,"Vassar Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,82
+Tuscola,"Watertown Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,72
+Tuscola,"Watertown Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,162
+Tuscola,"Watertown Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,110
+Tuscola,"Watertown Township, Precinct 1",Representative in Congress - 10th District,,REP,Write-In,3
+Tuscola,"Wells Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,46
+Tuscola,"Wells Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,150
+Tuscola,"Wells Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,83
+Tuscola,"Wisner Township, Precinct 1",Representative in Congress - 10th District,,REP,Doug Slocum,21
+Tuscola,"Wisner Township, Precinct 1",Representative in Congress - 10th District,,REP,Lisa McClain,37
+Tuscola,"Wisner Township, Precinct 1",Representative in Congress - 10th District,,REP,Shane Hernandez,37
+Tuscola,"Akron Township, Precinct 1",State House,84,DEM,Douglas P. Marker,25
+Tuscola,"Akron Township, Precinct 1",State House,84,DEM,Patrick J. Wood,36
+Tuscola,"Almer Charter Township, Precinct 1",State House,84,DEM,Douglas P. Marker,40
+Tuscola,"Almer Charter Township, Precinct 1",State House,84,DEM,Patrick J. Wood,79
+Tuscola,"Almer Charter Township, Precinct 1",State House,84,DEM,Write-In,1
+Tuscola,"Arbela Township, Precinct 1",State House,84,DEM,Douglas P. Marker,52
+Tuscola,"Arbela Township, Precinct 1",State House,84,DEM,Patrick J. Wood,76
+Tuscola,"Arbela Township, Precinct 2",State House,84,DEM,Douglas P. Marker,29
+Tuscola,"Arbela Township, Precinct 2",State House,84,DEM,Patrick J. Wood,76
+Tuscola,"Arbela Township, Precinct 2",State House,84,DEM,Write-In,1
+Tuscola,"City of Caro, Precinct 1",State House,84,DEM,Douglas P. Marker,87
+Tuscola,"City of Caro, Precinct 1",State House,84,DEM,Patrick J. Wood,92
+Tuscola,"City of Caro, Precinct 2",State House,84,DEM,Douglas P. Marker,32
+Tuscola,"City of Caro, Precinct 2",State House,84,DEM,Patrick J. Wood,74
+Tuscola,"Columbia Township, Precinct 1",State House,84,DEM,Douglas P. Marker,33
+Tuscola,"Columbia Township, Precinct 1",State House,84,DEM,Patrick J. Wood,35
+Tuscola,"Dayton Township, Precinct 1",State House,84,DEM,Douglas P. Marker,24
+Tuscola,"Dayton Township, Precinct 1",State House,84,DEM,Patrick J. Wood,92
+Tuscola,"Denmark Township, Precinct 1",State House,84,DEM,Douglas P. Marker,67
+Tuscola,"Denmark Township, Precinct 1",State House,84,DEM,Patrick J. Wood,80
+Tuscola,"Elkland Township, Precinct 1",State House,84,DEM,Douglas P. Marker,38
+Tuscola,"Elkland Township, Precinct 1",State House,84,DEM,Patrick J. Wood,48
+Tuscola,"Elkland Township, Precinct 2",State House,84,DEM,Douglas P. Marker,35
+Tuscola,"Elkland Township, Precinct 2",State House,84,DEM,Patrick J. Wood,71
+Tuscola,"Ellington Township, Precinct 1",State House,84,DEM,Douglas P. Marker,21
+Tuscola,"Ellington Township, Precinct 1",State House,84,DEM,Patrick J. Wood,58
+Tuscola,"Ellington Township, Precinct 1",State House,84,DEM,Write-In,1
+Tuscola,"Elmwood Township, Precinct 1",State House,84,DEM,Douglas P. Marker,29
+Tuscola,"Elmwood Township, Precinct 1",State House,84,DEM,Patrick J. Wood,25
+Tuscola,"Elmwood Township, Precinct 1",State House,84,DEM,Write-In,1
+Tuscola,"Fairgrove Township, Precinct 1",State House,84,DEM,Douglas P. Marker,33
+Tuscola,"Fairgrove Township, Precinct 1",State House,84,DEM,Patrick J. Wood,62
+Tuscola,"Fremont Township, Precinct 1",State House,84,DEM,Douglas P. Marker,74
+Tuscola,"Fremont Township, Precinct 1",State House,84,DEM,Patrick J. Wood,126
+Tuscola,"Gilford Township, Precinct 1",State House,84,DEM,Douglas P. Marker,12
+Tuscola,"Gilford Township, Precinct 1",State House,84,DEM,Patrick J. Wood,18
+Tuscola,"Indianfields Township, Precinct 1",State House,84,DEM,Douglas P. Marker,51
+Tuscola,"Indianfields Township, Precinct 1",State House,84,DEM,Patrick J. Wood,111
+Tuscola,"Juniata Township, Precinct 1",State House,84,DEM,Douglas P. Marker,45
+Tuscola,"Juniata Township, Precinct 1",State House,84,DEM,Patrick J. Wood,85
+Tuscola,"Kingston Township, Precinct 1",State House,84,DEM,Douglas P. Marker,24
+Tuscola,"Kingston Township, Precinct 1",State House,84,DEM,Patrick J. Wood,32
+Tuscola,"Koylton Township, Precinct 1",State House,84,DEM,Douglas P. Marker,17
+Tuscola,"Koylton Township, Precinct 1",State House,84,DEM,Patrick J. Wood,46
+Tuscola,"Millington Township, Precinct 1",State House,84,DEM,Douglas P. Marker,35
+Tuscola,"Millington Township, Precinct 1",State House,84,DEM,Patrick J. Wood,84
+Tuscola,"Millington Township, Precinct 1",State House,84,DEM,Write-In,1
+Tuscola,"Millington Township, Precinct 2",State House,84,DEM,Douglas P. Marker,36
+Tuscola,"Millington Township, Precinct 2",State House,84,DEM,Patrick J. Wood,76
+Tuscola,"Novesta Township, Precinct 1",State House,84,DEM,Douglas P. Marker,36
+Tuscola,"Novesta Township, Precinct 1",State House,84,DEM,Patrick J. Wood,29
+Tuscola,"Tuscola Township, Precinct 1",State House,84,DEM,Douglas P. Marker,34
+Tuscola,"Tuscola Township, Precinct 1",State House,84,DEM,Patrick J. Wood,76
+Tuscola,"City of Vassar, Precinct 1",State House,84,DEM,Douglas P. Marker,77
+Tuscola,"City of Vassar, Precinct 1",State House,84,DEM,Patrick J. Wood,93
+Tuscola,"Vassar Township, Precinct 1",State House,84,DEM,Douglas P. Marker,53
+Tuscola,"Vassar Township, Precinct 1",State House,84,DEM,Patrick J. Wood,135
+Tuscola,"Vassar Township, Precinct 1",State House,84,DEM,Write-In,1
+Tuscola,"Watertown Township, Precinct 1",State House,84,DEM,Douglas P. Marker,52
+Tuscola,"Watertown Township, Precinct 1",State House,84,DEM,Patrick J. Wood,65
+Tuscola,"Watertown Township, Precinct 1",State House,84,DEM,Write-In,1
+Tuscola,"Wells Township, Precinct 1",State House,84,DEM,Douglas P. Marker,29
+Tuscola,"Wells Township, Precinct 1",State House,84,DEM,Patrick J. Wood,67
+Tuscola,"Wisner Township, Precinct 1",State House,84,DEM,Douglas P. Marker,26
+Tuscola,"Wisner Township, Precinct 1",State House,84,DEM,Patrick J. Wood,27
+Tuscola,"Akron Township, Precinct 1",State House,84,REP,Phil Green,214
+Tuscola,"Akron Township, Precinct 1",State House,84,REP,Write-In,1
+Tuscola,"Almer Charter Township, Precinct 1",State House,84,REP,Phil Green,352
+Tuscola,"Almer Charter Township, Precinct 1",State House,84,REP,Write-In,2
+Tuscola,"Arbela Township, Precinct 1",State House,84,REP,Phil Green,212
+Tuscola,"Arbela Township, Precinct 1",State House,84,REP,Write-In,3
+Tuscola,"Arbela Township, Precinct 2",State House,84,REP,Phil Green,156
+Tuscola,"City of Caro, Precinct 1",State House,84,REP,Phil Green,341
+Tuscola,"City of Caro, Precinct 1",State House,84,REP,Write-In,2
+Tuscola,"City of Caro, Precinct 2",State House,84,REP,Phil Green,170
+Tuscola,"Columbia Township, Precinct 1",State House,84,REP,Phil Green,204
+Tuscola,"Columbia Township, Precinct 1",State House,84,REP,Write-In,2
+Tuscola,"Dayton Township, Precinct 1",State House,84,REP,Phil Green,318
+Tuscola,"Denmark Township, Precinct 1",State House,84,REP,Phil Green,503
+Tuscola,"Elkland Township, Precinct 1",State House,84,REP,Phil Green,197
+Tuscola,"Elkland Township, Precinct 2",State House,84,REP,Phil Green,334
+Tuscola,"Ellington Township, Precinct 1",State House,84,REP,Phil Green,281
+Tuscola,"Elmwood Township, Precinct 1",State House,84,REP,Phil Green,181
+Tuscola,"Fairgrove Township, Precinct 1",State House,84,REP,Phil Green,204
+Tuscola,"Fairgrove Township, Precinct 1",State House,84,REP,Write-In,1
+Tuscola,"Fremont Township, Precinct 1",State House,84,REP,Phil Green,457
+Tuscola,"Gilford Township, Precinct 1",State House,84,REP,Phil Green,114
+Tuscola,"Indianfields Township, Precinct 1",State House,84,REP,Phil Green,410
+Tuscola,"Indianfields Township, Precinct 1",State House,84,REP,Write-In,4
+Tuscola,"Juniata Township, Precinct 1",State House,84,REP,Phil Green,244
+Tuscola,"Juniata Township, Precinct 1",State House,84,REP,Write-In,1
+Tuscola,"Kingston Township, Precinct 1",State House,84,REP,Phil Green,224
+Tuscola,"Kingston Township, Precinct 1",State House,84,REP,Write-In,3
+Tuscola,"Koylton Township, Precinct 1",State House,84,REP,Phil Green,237
+Tuscola,"Millington Township, Precinct 1",State House,84,REP,Phil Green,343
+Tuscola,"Millington Township, Precinct 1",State House,84,REP,Write-In,2
+Tuscola,"Millington Township, Precinct 2",State House,84,REP,Phil Green,310
+Tuscola,"Novesta Township, Precinct 1",State House,84,REP,Phil Green,255
+Tuscola,"Tuscola Township, Precinct 1",State House,84,REP,Phil Green,328
+Tuscola,"City of Vassar, Precinct 1",State House,84,REP,Phil Green,251
+Tuscola,"Vassar Township, Precinct 1",State House,84,REP,Phil Green,393
+Tuscola,"Vassar Township, Precinct 1",State House,84,REP,Write-In,2
+Tuscola,"Watertown Township, Precinct 1",State House,84,REP,Phil Green,335
+Tuscola,"Watertown Township, Precinct 1",State House,84,REP,Write-In,2
+Tuscola,"Wells Township, Precinct 1",State House,84,REP,Phil Green,261
+Tuscola,"Wells Township, Precinct 1",State House,84,REP,Write-In,2
+Tuscola,"Wisner Township, Precinct 1",State House,84,REP,Phil Green,92
+Tuscola,"Wisner Township, Precinct 1",State House,84,REP,Write-In,1
+Tuscola,"Akron Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,3
+Tuscola,"Almer Charter Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,8
+Tuscola,"Arbela Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,22
+Tuscola,"Arbela Township, Precinct 2",Prosecuting Attorney,,DEM,Write-In,23
+Tuscola,"City of Caro, Precinct 1",Prosecuting Attorney,,DEM,Write-In,19
+Tuscola,"City of Caro, Precinct 2",Prosecuting Attorney,,DEM,Write-In,10
+Tuscola,"Columbia Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,4
+Tuscola,"Dayton Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,26
+Tuscola,"Denmark Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,10
+Tuscola,"Elkland Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,9
+Tuscola,"Elkland Township, Precinct 2",Prosecuting Attorney,,DEM,Write-In,5
+Tuscola,"Ellington Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,8
+Tuscola,"Elmwood Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,7
+Tuscola,"Fairgrove Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,13
+Tuscola,"Fremont Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,20
+Tuscola,"Gilford Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,6
+Tuscola,"Indianfields Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,18
+Tuscola,"Juniata Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,16
+Tuscola,"Kingston Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,5
+Tuscola,"Koylton Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,4
+Tuscola,"Millington Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,12
+Tuscola,"Millington Township, Precinct 2",Prosecuting Attorney,,DEM,Write-In,9
+Tuscola,"Novesta Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,6
+Tuscola,"Tuscola Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,12
+Tuscola,"City of Vassar, Precinct 1",Prosecuting Attorney,,DEM,Write-In,20
+Tuscola,"Vassar Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,35
+Tuscola,"Watertown Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,22
+Tuscola,"Wells Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,9
+Tuscola,"Wisner Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,4
+Tuscola,"Akron Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,213
+Tuscola,"Akron Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,1
+Tuscola,"Almer Charter Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,358
+Tuscola,"Almer Charter Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,3
+Tuscola,"Arbela Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,194
+Tuscola,"Arbela Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,3
+Tuscola,"Arbela Township, Precinct 2",Prosecuting Attorney,,REP,Mark E. Reene,152
+Tuscola,"City of Caro, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,335
+Tuscola,"City of Caro, Precinct 1",Prosecuting Attorney,,REP,Write-In,4
+Tuscola,"City of Caro, Precinct 2",Prosecuting Attorney,,REP,Mark E. Reene,174
+Tuscola,"Columbia Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,204
+Tuscola,"Columbia Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,3
+Tuscola,"Dayton Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,307
+Tuscola,"Dayton Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,2
+Tuscola,"Denmark Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,489
+Tuscola,"Denmark Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,3
+Tuscola,"Elkland Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,197
+Tuscola,"Elkland Township, Precinct 2",Prosecuting Attorney,,REP,Mark E. Reene,325
+Tuscola,"Elkland Township, Precinct 2",Prosecuting Attorney,,REP,Write-In,3
+Tuscola,"Ellington Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,278
+Tuscola,"Ellington Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,1
+Tuscola,"Elmwood Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,175
+Tuscola,"Elmwood Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,3
+Tuscola,"Fairgrove Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,200
+Tuscola,"Fairgrove Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,2
+Tuscola,"Fremont Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,427
+Tuscola,"Fremont Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,4
+Tuscola,"Gilford Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,107
+Tuscola,"Gilford Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,3
+Tuscola,"Indianfields Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,395
+Tuscola,"Indianfields Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,7
+Tuscola,"Juniata Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,239
+Tuscola,"Juniata Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,3
+Tuscola,"Kingston Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,214
+Tuscola,"Kingston Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,3
+Tuscola,"Koylton Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,238
+Tuscola,"Koylton Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,2
+Tuscola,"Millington Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,332
+Tuscola,"Millington Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,5
+Tuscola,"Millington Township, Precinct 2",Prosecuting Attorney,,REP,Mark E. Reene,295
+Tuscola,"Novesta Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,243
+Tuscola,"Tuscola Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,317
+Tuscola,"Tuscola Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,1
+Tuscola,"City of Vassar, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,247
+Tuscola,"City of Vassar, Precinct 1",Prosecuting Attorney,,REP,Write-In,5
+Tuscola,"Vassar Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,365
+Tuscola,"Vassar Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,8
+Tuscola,"Watertown Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,325
+Tuscola,"Watertown Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,3
+Tuscola,"Wells Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,252
+Tuscola,"Wells Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,3
+Tuscola,"Wisner Township, Precinct 1",Prosecuting Attorney,,REP,Mark E. Reene,86
+Tuscola,"Wisner Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,1
+Tuscola,"Akron Township, Precinct 1",Sheriff,,DEM,Write-In,5
+Tuscola,"Almer Charter Township, Precinct 1",Sheriff,,DEM,Write-In,8
+Tuscola,"Arbela Township, Precinct 1",Sheriff,,DEM,Write-In,21
+Tuscola,"Arbela Township, Precinct 2",Sheriff,,DEM,Write-In,22
+Tuscola,"City of Caro, Precinct 1",Sheriff,,DEM,Write-In,21
+Tuscola,"City of Caro, Precinct 2",Sheriff,,DEM,Write-In,10
+Tuscola,"Columbia Township, Precinct 1",Sheriff,,DEM,Write-In,4
+Tuscola,"Dayton Township, Precinct 1",Sheriff,,DEM,Write-In,26
+Tuscola,"Denmark Township, Precinct 1",Sheriff,,DEM,Write-In,9
+Tuscola,"Elkland Township, Precinct 1",Sheriff,,DEM,Write-In,6
+Tuscola,"Elkland Township, Precinct 2",Sheriff,,DEM,Write-In,4
+Tuscola,"Ellington Township, Precinct 1",Sheriff,,DEM,Write-In,8
+Tuscola,"Elmwood Township, Precinct 1",Sheriff,,DEM,Write-In,9
+Tuscola,"Fairgrove Township, Precinct 1",Sheriff,,DEM,Write-In,12
+Tuscola,"Fremont Township, Precinct 1",Sheriff,,DEM,Write-In,19
+Tuscola,"Gilford Township, Precinct 1",Sheriff,,DEM,Write-In,6
+Tuscola,"Indianfields Township, Precinct 1",Sheriff,,DEM,Write-In,16
+Tuscola,"Juniata Township, Precinct 1",Sheriff,,DEM,Write-In,16
+Tuscola,"Kingston Township, Precinct 1",Sheriff,,DEM,Write-In,5
+Tuscola,"Koylton Township, Precinct 1",Sheriff,,DEM,Write-In,3
+Tuscola,"Millington Township, Precinct 1",Sheriff,,DEM,Write-In,11
+Tuscola,"Millington Township, Precinct 2",Sheriff,,DEM,Write-In,10
+Tuscola,"Novesta Township, Precinct 1",Sheriff,,DEM,Write-In,6
+Tuscola,"Tuscola Township, Precinct 1",Sheriff,,DEM,Write-In,11
+Tuscola,"City of Vassar, Precinct 1",Sheriff,,DEM,Write-In,23
+Tuscola,"Vassar Township, Precinct 1",Sheriff,,DEM,Write-In,34
+Tuscola,"Watertown Township, Precinct 1",Sheriff,,DEM,Write-In,22
+Tuscola,"Wells Township, Precinct 1",Sheriff,,DEM,Write-In,9
+Tuscola,"Wisner Township, Precinct 1",Sheriff,,DEM,Write-In,4
+Tuscola,"Akron Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,215
+Tuscola,"Almer Charter Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,376
+Tuscola,"Arbela Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,203
+Tuscola,"Arbela Township, Precinct 1",Sheriff,,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 2",Sheriff,,REP,Glen G. Skrent,153
+Tuscola,"City of Caro, Precinct 1",Sheriff,,REP,Glen G. Skrent,356
+Tuscola,"City of Caro, Precinct 2",Sheriff,,REP,Glen G. Skrent,177
+Tuscola,"City of Caro, Precinct 2",Sheriff,,REP,Write-In,2
+Tuscola,"Columbia Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,207
+Tuscola,"Columbia Township, Precinct 1",Sheriff,,REP,Write-In,1
+Tuscola,"Dayton Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,311
+Tuscola,"Dayton Township, Precinct 1",Sheriff,,REP,Write-In,1
+Tuscola,"Denmark Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,493
+Tuscola,"Denmark Township, Precinct 1",Sheriff,,REP,Write-In,1
+Tuscola,"Elkland Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,196
+Tuscola,"Elkland Township, Precinct 2",Sheriff,,REP,Glen G. Skrent,326
+Tuscola,"Elkland Township, Precinct 2",Sheriff,,REP,Write-In,2
+Tuscola,"Ellington Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,280
+Tuscola,"Ellington Township, Precinct 1",Sheriff,,REP,Write-In,1
+Tuscola,"Elmwood Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,180
+Tuscola,"Elmwood Township, Precinct 1",Sheriff,,REP,Write-In,1
+Tuscola,"Fairgrove Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,208
+Tuscola,"Fremont Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,436
+Tuscola,"Fremont Township, Precinct 1",Sheriff,,REP,Write-In,1
+Tuscola,"Gilford Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,115
+Tuscola,"Indianfields Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,418
+Tuscola,"Indianfields Township, Precinct 1",Sheriff,,REP,Write-In,1
+Tuscola,"Juniata Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,242
+Tuscola,"Kingston Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,224
+Tuscola,"Koylton Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,243
+Tuscola,"Millington Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,342
+Tuscola,"Millington Township, Precinct 1",Sheriff,,REP,Write-In,3
+Tuscola,"Millington Township, Precinct 2",Sheriff,,REP,Glen G. Skrent,287
+Tuscola,"Novesta Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,247
+Tuscola,"Novesta Township, Precinct 1",Sheriff,,REP,Write-In,1
+Tuscola,"Tuscola Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,324
+Tuscola,"City of Vassar, Precinct 1",Sheriff,,REP,Glen G. Skrent,251
+Tuscola,"Vassar Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,387
+Tuscola,"Vassar Township, Precinct 1",Sheriff,,REP,Write-In,3
+Tuscola,"Watertown Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,327
+Tuscola,"Watertown Township, Precinct 1",Sheriff,,REP,Write-In,2
+Tuscola,"Wells Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,260
+Tuscola,"Wells Township, Precinct 1",Sheriff,,REP,Write-In,2
+Tuscola,"Wisner Township, Precinct 1",Sheriff,,REP,Glen G. Skrent,87
+Tuscola,"Wisner Township, Precinct 1",Sheriff,,REP,Write-In,1
+Tuscola,"Akron Township, Precinct 1",Clerk,,DEM,Write-In,4
+Tuscola,"Almer Charter Township, Precinct 1",Clerk,,DEM,Write-In,8
+Tuscola,"Arbela Township, Precinct 1",Clerk,,DEM,Write-In,20
+Tuscola,"Arbela Township, Precinct 2",Clerk,,DEM,Write-In,21
+Tuscola,"City of Caro, Precinct 1",Clerk,,DEM,Write-In,19
+Tuscola,"City of Caro, Precinct 2",Clerk,,DEM,Write-In,11
+Tuscola,"Columbia Township, Precinct 1",Clerk,,DEM,Write-In,3
+Tuscola,"Dayton Township, Precinct 1",Clerk,,DEM,Write-In,23
+Tuscola,"Denmark Township, Precinct 1",Clerk,,DEM,Write-In,9
+Tuscola,"Elkland Township, Precinct 1",Clerk,,DEM,Write-In,5
+Tuscola,"Elkland Township, Precinct 2",Clerk,,DEM,Write-In,4
+Tuscola,"Ellington Township, Precinct 1",Clerk,,DEM,Write-In,9
+Tuscola,"Elmwood Township, Precinct 1",Clerk,,DEM,Write-In,7
+Tuscola,"Fairgrove Township, Precinct 1",Clerk,,DEM,Write-In,9
+Tuscola,"Fremont Township, Precinct 1",Clerk,,DEM,Write-In,19
+Tuscola,"Gilford Township, Precinct 1",Clerk,,DEM,Write-In,6
+Tuscola,"Indianfields Township, Precinct 1",Clerk,,DEM,Write-In,14
+Tuscola,"Juniata Township, Precinct 1",Clerk,,DEM,Write-In,16
+Tuscola,"Kingston Township, Precinct 1",Clerk,,DEM,Write-In,5
+Tuscola,"Koylton Township, Precinct 1",Clerk,,DEM,Write-In,3
+Tuscola,"Millington Township, Precinct 1",Clerk,,DEM,Write-In,10
+Tuscola,"Millington Township, Precinct 2",Clerk,,DEM,Write-In,10
+Tuscola,"Novesta Township, Precinct 1",Clerk,,DEM,Write-In,5
+Tuscola,"Tuscola Township, Precinct 1",Clerk,,DEM,Write-In,13
+Tuscola,"City of Vassar, Precinct 1",Clerk,,DEM,Write-In,20
+Tuscola,"Vassar Township, Precinct 1",Clerk,,DEM,Write-In,33
+Tuscola,"Watertown Township, Precinct 1",Clerk,,DEM,Write-In,22
+Tuscola,"Wells Township, Precinct 1",Clerk,,DEM,Write-In,9
+Tuscola,"Wisner Township, Precinct 1",Clerk,,DEM,Write-In,4
+Tuscola,"Akron Township, Precinct 1",Clerk,,REP,Jodi Fetting,219
+Tuscola,"Almer Charter Township, Precinct 1",Clerk,,REP,Jodi Fetting,372
+Tuscola,"Almer Charter Township, Precinct 1",Clerk,,REP,Write-In,2
+Tuscola,"Arbela Township, Precinct 1",Clerk,,REP,Jodi Fetting,202
+Tuscola,"Arbela Township, Precinct 1",Clerk,,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 2",Clerk,,REP,Jodi Fetting,155
+Tuscola,"City of Caro, Precinct 1",Clerk,,REP,Jodi Fetting,359
+Tuscola,"City of Caro, Precinct 2",Clerk,,REP,Jodi Fetting,178
+Tuscola,"City of Caro, Precinct 2",Clerk,,REP,Write-In,1
+Tuscola,"Columbia Township, Precinct 1",Clerk,,REP,Jodi Fetting,207
+Tuscola,"Columbia Township, Precinct 1",Clerk,,REP,Write-In,1
+Tuscola,"Dayton Township, Precinct 1",Clerk,,REP,Jodi Fetting,310
+Tuscola,"Denmark Township, Precinct 1",Clerk,,REP,Jodi Fetting,491
+Tuscola,"Denmark Township, Precinct 1",Clerk,,REP,Write-In,2
+Tuscola,"Elkland Township, Precinct 1",Clerk,,REP,Jodi Fetting,202
+Tuscola,"Elkland Township, Precinct 2",Clerk,,REP,Jodi Fetting,332
+Tuscola,"Ellington Township, Precinct 1",Clerk,,REP,Jodi Fetting,293
+Tuscola,"Elmwood Township, Precinct 1",Clerk,,REP,Jodi Fetting,183
+Tuscola,"Fairgrove Township, Precinct 1",Clerk,,REP,Jodi Fetting,213
+Tuscola,"Fremont Township, Precinct 1",Clerk,,REP,Jodi Fetting,448
+Tuscola,"Fremont Township, Precinct 1",Clerk,,REP,Write-In,2
+Tuscola,"Gilford Township, Precinct 1",Clerk,,REP,Jodi Fetting,114
+Tuscola,"Indianfields Township, Precinct 1",Clerk,,REP,Jodi Fetting,424
+Tuscola,"Indianfields Township, Precinct 1",Clerk,,REP,Write-In,1
+Tuscola,"Juniata Township, Precinct 1",Clerk,,REP,Jodi Fetting,237
+Tuscola,"Juniata Township, Precinct 1",Clerk,,REP,Write-In,4
+Tuscola,"Kingston Township, Precinct 1",Clerk,,REP,Jodi Fetting,226
+Tuscola,"Kingston Township, Precinct 1",Clerk,,REP,Write-In,2
+Tuscola,"Koylton Township, Precinct 1",Clerk,,REP,Jodi Fetting,238
+Tuscola,"Koylton Township, Precinct 1",Clerk,,REP,Write-In,3
+Tuscola,"Millington Township, Precinct 1",Clerk,,REP,Jodi Fetting,344
+Tuscola,"Millington Township, Precinct 1",Clerk,,REP,Write-In,2
+Tuscola,"Millington Township, Precinct 2",Clerk,,REP,Jodi Fetting,297
+Tuscola,"Novesta Township, Precinct 1",Clerk,,REP,Jodi Fetting,250
+Tuscola,"Tuscola Township, Precinct 1",Clerk,,REP,Jodi Fetting,322
+Tuscola,"City of Vassar, Precinct 1",Clerk,,REP,Jodi Fetting,252
+Tuscola,"Vassar Township, Precinct 1",Clerk,,REP,Jodi Fetting,383
+Tuscola,"Vassar Township, Precinct 1",Clerk,,REP,Write-In,2
+Tuscola,"Watertown Township, Precinct 1",Clerk,,REP,Jodi Fetting,330
+Tuscola,"Watertown Township, Precinct 1",Clerk,,REP,Write-In,1
+Tuscola,"Wells Township, Precinct 1",Clerk,,REP,Jodi Fetting,267
+Tuscola,"Wisner Township, Precinct 1",Clerk,,REP,Jodi Fetting,85
+Tuscola,"Wisner Township, Precinct 1",Clerk,,REP,Write-In,1
+Tuscola,"Akron Township, Precinct 1",Treasurer,,DEM,Write-In,4
+Tuscola,"Almer Charter Township, Precinct 1",Treasurer,,DEM,Write-In,8
+Tuscola,"Arbela Township, Precinct 1",Treasurer,,DEM,Write-In,19
+Tuscola,"Arbela Township, Precinct 2",Treasurer,,DEM,Write-In,22
+Tuscola,"City of Caro, Precinct 1",Treasurer,,DEM,Write-In,21
+Tuscola,"City of Caro, Precinct 2",Treasurer,,DEM,Write-In,11
+Tuscola,"Columbia Township, Precinct 1",Treasurer,,DEM,Write-In,4
+Tuscola,"Dayton Township, Precinct 1",Treasurer,,DEM,Write-In,22
+Tuscola,"Denmark Township, Precinct 1",Treasurer,,DEM,Write-In,10
+Tuscola,"Elkland Township, Precinct 1",Treasurer,,DEM,Write-In,5
+Tuscola,"Elkland Township, Precinct 2",Treasurer,,DEM,Write-In,4
+Tuscola,"Ellington Township, Precinct 1",Treasurer,,DEM,Write-In,9
+Tuscola,"Elmwood Township, Precinct 1",Treasurer,,DEM,Write-In,7
+Tuscola,"Fairgrove Township, Precinct 1",Treasurer,,DEM,Write-In,10
+Tuscola,"Fremont Township, Precinct 1",Treasurer,,DEM,Write-In,19
+Tuscola,"Gilford Township, Precinct 1",Treasurer,,DEM,Write-In,6
+Tuscola,"Indianfields Township, Precinct 1",Treasurer,,DEM,Write-In,13
+Tuscola,"Juniata Township, Precinct 1",Treasurer,,DEM,Write-In,16
+Tuscola,"Kingston Township, Precinct 1",Treasurer,,DEM,Write-In,5
+Tuscola,"Koylton Township, Precinct 1",Treasurer,,DEM,Write-In,4
+Tuscola,"Millington Township, Precinct 1",Treasurer,,DEM,Write-In,11
+Tuscola,"Millington Township, Precinct 2",Treasurer,,DEM,Write-In,10
+Tuscola,"Novesta Township, Precinct 1",Treasurer,,DEM,Write-In,5
+Tuscola,"Tuscola Township, Precinct 1",Treasurer,,DEM,Write-In,10
+Tuscola,"City of Vassar, Precinct 1",Treasurer,,DEM,Write-In,21
+Tuscola,"Vassar Township, Precinct 1",Treasurer,,DEM,Write-In,32
+Tuscola,"Watertown Township, Precinct 1",Treasurer,,DEM,Write-In,22
+Tuscola,"Wells Township, Precinct 1",Treasurer,,DEM,Write-In,9
+Tuscola,"Wisner Township, Precinct 1",Treasurer,,DEM,Write-In,4
+Tuscola,"Akron Township, Precinct 1",Treasurer,,REP,Ashley Bennett,152
+Tuscola,"Akron Township, Precinct 1",Treasurer,,REP,Rita Papp,79
+Tuscola,"Almer Charter Township, Precinct 1",Treasurer,,REP,Ashley Bennett,226
+Tuscola,"Almer Charter Township, Precinct 1",Treasurer,,REP,Rita Papp,168
+Tuscola,"Almer Charter Township, Precinct 1",Treasurer,,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 1",Treasurer,,REP,Ashley Bennett,170
+Tuscola,"Arbela Township, Precinct 1",Treasurer,,REP,Rita Papp,39
+Tuscola,"Arbela Township, Precinct 2",Treasurer,,REP,Ashley Bennett,121
+Tuscola,"Arbela Township, Precinct 2",Treasurer,,REP,Rita Papp,34
+Tuscola,"City of Caro, Precinct 1",Treasurer,,REP,Ashley Bennett,224
+Tuscola,"City of Caro, Precinct 1",Treasurer,,REP,Rita Papp,143
+Tuscola,"City of Caro, Precinct 2",Treasurer,,REP,Ashley Bennett,111
+Tuscola,"City of Caro, Precinct 2",Treasurer,,REP,Rita Papp,79
+Tuscola,"Columbia Township, Precinct 1",Treasurer,,REP,Ashley Bennett,157
+Tuscola,"Columbia Township, Precinct 1",Treasurer,,REP,Rita Papp,59
+Tuscola,"Columbia Township, Precinct 1",Treasurer,,REP,Write-In,1
+Tuscola,"Dayton Township, Precinct 1",Treasurer,,REP,Ashley Bennett,228
+Tuscola,"Dayton Township, Precinct 1",Treasurer,,REP,Rita Papp,101
+Tuscola,"Denmark Township, Precinct 1",Treasurer,,REP,Ashley Bennett,413
+Tuscola,"Denmark Township, Precinct 1",Treasurer,,REP,Rita Papp,97
+Tuscola,"Elkland Township, Precinct 1",Treasurer,,REP,Ashley Bennett,133
+Tuscola,"Elkland Township, Precinct 1",Treasurer,,REP,Rita Papp,75
+Tuscola,"Elkland Township, Precinct 2",Treasurer,,REP,Ashley Bennett,211
+Tuscola,"Elkland Township, Precinct 2",Treasurer,,REP,Rita Papp,126
+Tuscola,"Ellington Township, Precinct 1",Treasurer,,REP,Ashley Bennett,187
+Tuscola,"Ellington Township, Precinct 1",Treasurer,,REP,Rita Papp,118
+Tuscola,"Elmwood Township, Precinct 1",Treasurer,,REP,Ashley Bennett,140
+Tuscola,"Elmwood Township, Precinct 1",Treasurer,,REP,Rita Papp,55
+Tuscola,"Fairgrove Township, Precinct 1",Treasurer,,REP,Ashley Bennett,150
+Tuscola,"Fairgrove Township, Precinct 1",Treasurer,,REP,Rita Papp,72
+Tuscola,"Fremont Township, Precinct 1",Treasurer,,REP,Ashley Bennett,339
+Tuscola,"Fremont Township, Precinct 1",Treasurer,,REP,Rita Papp,125
+Tuscola,"Fremont Township, Precinct 1",Treasurer,,REP,Write-In,1
+Tuscola,"Gilford Township, Precinct 1",Treasurer,,REP,Ashley Bennett,90
+Tuscola,"Gilford Township, Precinct 1",Treasurer,,REP,Rita Papp,25
+Tuscola,"Indianfields Township, Precinct 1",Treasurer,,REP,Ashley Bennett,281
+Tuscola,"Indianfields Township, Precinct 1",Treasurer,,REP,Rita Papp,177
+Tuscola,"Indianfields Township, Precinct 1",Treasurer,,REP,Write-In,1
+Tuscola,"Juniata Township, Precinct 1",Treasurer,,REP,Ashley Bennett,154
+Tuscola,"Juniata Township, Precinct 1",Treasurer,,REP,Rita Papp,107
+Tuscola,"Kingston Township, Precinct 1",Treasurer,,REP,Ashley Bennett,163
+Tuscola,"Kingston Township, Precinct 1",Treasurer,,REP,Rita Papp,66
+Tuscola,"Koylton Township, Precinct 1",Treasurer,,REP,Ashley Bennett,161
+Tuscola,"Koylton Township, Precinct 1",Treasurer,,REP,Rita Papp,83
+Tuscola,"Millington Township, Precinct 1",Treasurer,,REP,Ashley Bennett,300
+Tuscola,"Millington Township, Precinct 1",Treasurer,,REP,Rita Papp,61
+Tuscola,"Millington Township, Precinct 1",Treasurer,,REP,Write-In,1
+Tuscola,"Millington Township, Precinct 2",Treasurer,,REP,Ashley Bennett,247
+Tuscola,"Millington Township, Precinct 2",Treasurer,,REP,Rita Papp,51
+Tuscola,"Millington Township, Precinct 2",Treasurer,,REP,Write-In,1
+Tuscola,"Novesta Township, Precinct 1",Treasurer,,REP,Ashley Bennett,129
+Tuscola,"Novesta Township, Precinct 1",Treasurer,,REP,Rita Papp,129
+Tuscola,"Tuscola Township, Precinct 1",Treasurer,,REP,Ashley Bennett,247
+Tuscola,"Tuscola Township, Precinct 1",Treasurer,,REP,Rita Papp,86
+Tuscola,"Tuscola Township, Precinct 1",Treasurer,,REP,Write-In,1
+Tuscola,"City of Vassar, Precinct 1",Treasurer,,REP,Ashley Bennett,204
+Tuscola,"City of Vassar, Precinct 1",Treasurer,,REP,Rita Papp,51
+Tuscola,"Vassar Township, Precinct 1",Treasurer,,REP,Ashley Bennett,317
+Tuscola,"Vassar Township, Precinct 1",Treasurer,,REP,Rita Papp,97
+Tuscola,"Watertown Township, Precinct 1",Treasurer,,REP,Ashley Bennett,230
+Tuscola,"Watertown Township, Precinct 1",Treasurer,,REP,Rita Papp,106
+Tuscola,"Wells Township, Precinct 1",Treasurer,,REP,Ashley Bennett,164
+Tuscola,"Wells Township, Precinct 1",Treasurer,,REP,Rita Papp,111
+Tuscola,"Wells Township, Precinct 1",Treasurer,,REP,Write-In,1
+Tuscola,"Wisner Township, Precinct 1",Treasurer,,REP,Ashley Bennett,73
+Tuscola,"Wisner Township, Precinct 1",Treasurer,,REP,Rita Papp,21
+Tuscola,"Akron Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,4
+Tuscola,"Almer Charter Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,8
+Tuscola,"Arbela Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,19
+Tuscola,"Arbela Township, Precinct 2",Register of Deeds,,DEM,Rita Papp,21
+Tuscola,"City of Caro, Precinct 1",Register of Deeds,,DEM,Rita Papp,19
+Tuscola,"City of Caro, Precinct 2",Register of Deeds,,DEM,Rita Papp,10
+Tuscola,"Columbia Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,3
+Tuscola,"Dayton Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,24
+Tuscola,"Denmark Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,9
+Tuscola,"Elkland Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,5
+Tuscola,"Elkland Township, Precinct 2",Register of Deeds,,DEM,Rita Papp,4
+Tuscola,"Ellington Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,8
+Tuscola,"Elmwood Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,7
+Tuscola,"Fairgrove Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,8
+Tuscola,"Fremont Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,19
+Tuscola,"Gilford Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,6
+Tuscola,"Indianfields Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,13
+Tuscola,"Juniata Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,16
+Tuscola,"Kingston Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,5
+Tuscola,"Koylton Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,3
+Tuscola,"Millington Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,11
+Tuscola,"Millington Township, Precinct 2",Register of Deeds,,DEM,Rita Papp,10
+Tuscola,"Novesta Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,5
+Tuscola,"Tuscola Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,12
+Tuscola,"City of Vassar, Precinct 1",Register of Deeds,,DEM,Rita Papp,19
+Tuscola,"Vassar Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,32
+Tuscola,"Watertown Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,22
+Tuscola,"Wells Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,9
+Tuscola,"Wisner Township, Precinct 1",Register of Deeds,,DEM,Rita Papp,4
+Tuscola,"Akron Township, Precinct 1",Register of Deeds,,REP,John Bishop,212
+Tuscola,"Almer Charter Township, Precinct 1",Register of Deeds,,REP,John Bishop,350
+Tuscola,"Arbela Township, Precinct 1",Register of Deeds,,REP,John Bishop,204
+Tuscola,"Arbela Township, Precinct 1",Register of Deeds,,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 2",Register of Deeds,,REP,John Bishop,151
+Tuscola,"City of Caro, Precinct 1",Register of Deeds,,REP,John Bishop,334
+Tuscola,"City of Caro, Precinct 1",Register of Deeds,,REP,Write-In,1
+Tuscola,"City of Caro, Precinct 2",Register of Deeds,,REP,John Bishop,170
+Tuscola,"Columbia Township, Precinct 1",Register of Deeds,,REP,John Bishop,198
+Tuscola,"Columbia Township, Precinct 1",Register of Deeds,,REP,Write-In,1
+Tuscola,"Dayton Township, Precinct 1",Register of Deeds,,REP,John Bishop,304
+Tuscola,"Denmark Township, Precinct 1",Register of Deeds,,REP,John Bishop,478
+Tuscola,"Denmark Township, Precinct 1",Register of Deeds,,REP,Write-In,2
+Tuscola,"Elkland Township, Precinct 1",Register of Deeds,,REP,John Bishop,192
+Tuscola,"Elkland Township, Precinct 2",Register of Deeds,,REP,John Bishop,312
+Tuscola,"Elkland Township, Precinct 2",Register of Deeds,,REP,Write-In,1
+Tuscola,"Ellington Township, Precinct 1",Register of Deeds,,REP,John Bishop,271
+Tuscola,"Ellington Township, Precinct 1",Register of Deeds,,REP,Write-In,1
+Tuscola,"Elmwood Township, Precinct 1",Register of Deeds,,REP,John Bishop,178
+Tuscola,"Fairgrove Township, Precinct 1",Register of Deeds,,REP,John Bishop,202
+Tuscola,"Fremont Township, Precinct 1",Register of Deeds,,REP,John Bishop,431
+Tuscola,"Fremont Township, Precinct 1",Register of Deeds,,REP,Write-In,1
+Tuscola,"Gilford Township, Precinct 1",Register of Deeds,,REP,John Bishop,113
+Tuscola,"Gilford Township, Precinct 1",Register of Deeds,,REP,Write-In,1
+Tuscola,"Indianfields Township, Precinct 1",Register of Deeds,,REP,John Bishop,402
+Tuscola,"Indianfields Township, Precinct 1",Register of Deeds,,REP,Write-In,2
+Tuscola,"Juniata Township, Precinct 1",Register of Deeds,,REP,John Bishop,232
+Tuscola,"Kingston Township, Precinct 1",Register of Deeds,,REP,John Bishop,218
+Tuscola,"Kingston Township, Precinct 1",Register of Deeds,,REP,Write-In,1
+Tuscola,"Koylton Township, Precinct 1",Register of Deeds,,REP,John Bishop,239
+Tuscola,"Millington Township, Precinct 1",Register of Deeds,,REP,John Bishop,333
+Tuscola,"Millington Township, Precinct 1",Register of Deeds,,REP,Write-In,2
+Tuscola,"Millington Township, Precinct 2",Register of Deeds,,REP,John Bishop,291
+Tuscola,"Novesta Township, Precinct 1",Register of Deeds,,REP,John Bishop,238
+Tuscola,"Tuscola Township, Precinct 1",Register of Deeds,,REP,John Bishop,320
+Tuscola,"Tuscola Township, Precinct 1",Register of Deeds,,REP,Write-In,1
+Tuscola,"City of Vassar, Precinct 1",Register of Deeds,,REP,John Bishop,252
+Tuscola,"City of Vassar, Precinct 1",Register of Deeds,,REP,Write-In,2
+Tuscola,"Vassar Township, Precinct 1",Register of Deeds,,REP,John Bishop,380
+Tuscola,"Vassar Township, Precinct 1",Register of Deeds,,REP,Write-In,2
+Tuscola,"Watertown Township, Precinct 1",Register of Deeds,,REP,John Bishop,323
+Tuscola,"Watertown Township, Precinct 1",Register of Deeds,,REP,Write-In,1
+Tuscola,"Wells Township, Precinct 1",Register of Deeds,,REP,John Bishop,259
+Tuscola,"Wisner Township, Precinct 1",Register of Deeds,,REP,John Bishop,82
+Tuscola,"Wisner Township, Precinct 1",Register of Deeds,,REP,Write-In,1
+Tuscola,"Akron Township, Precinct 1",County Road Commissioner,,DEM,Write-In,4
+Tuscola,"Almer Charter Township, Precinct 1",County Road Commissioner,,DEM,Write-In,8
+Tuscola,"Arbela Township, Precinct 1",County Road Commissioner,,DEM,Write-In,19
+Tuscola,"Arbela Township, Precinct 2",County Road Commissioner,,DEM,Write-In,22
+Tuscola,"City of Caro, Precinct 1",County Road Commissioner,,DEM,Write-In,19
+Tuscola,"City of Caro, Precinct 2",County Road Commissioner,,DEM,Write-In,11
+Tuscola,"Columbia Township, Precinct 1",County Road Commissioner,,DEM,Write-In,5
+Tuscola,"Dayton Township, Precinct 1",County Road Commissioner,,DEM,Write-In,22
+Tuscola,"Denmark Township, Precinct 1",County Road Commissioner,,DEM,Write-In,9
+Tuscola,"Elkland Township, Precinct 1",County Road Commissioner,,DEM,Write-In,5
+Tuscola,"Elkland Township, Precinct 2",County Road Commissioner,,DEM,Write-In,4
+Tuscola,"Ellington Township, Precinct 1",County Road Commissioner,,DEM,Write-In,9
+Tuscola,"Elmwood Township, Precinct 1",County Road Commissioner,,DEM,Write-In,7
+Tuscola,"Fairgrove Township, Precinct 1",County Road Commissioner,,DEM,Write-In,8
+Tuscola,"Fremont Township, Precinct 1",County Road Commissioner,,DEM,Write-In,19
+Tuscola,"Gilford Township, Precinct 1",County Road Commissioner,,DEM,Write-In,6
+Tuscola,"Indianfields Township, Precinct 1",County Road Commissioner,,DEM,Write-In,13
+Tuscola,"Juniata Township, Precinct 1",County Road Commissioner,,DEM,Write-In,16
+Tuscola,"Kingston Township, Precinct 1",County Road Commissioner,,DEM,Write-In,4
+Tuscola,"Koylton Township, Precinct 1",County Road Commissioner,,DEM,Write-In,3
+Tuscola,"Millington Township, Precinct 1",County Road Commissioner,,DEM,Write-In,11
+Tuscola,"Millington Township, Precinct 2",County Road Commissioner,,DEM,Write-In,10
+Tuscola,"Novesta Township, Precinct 1",County Road Commissioner,,DEM,Write-In,5
+Tuscola,"Tuscola Township, Precinct 1",County Road Commissioner,,DEM,Write-In,13
+Tuscola,"City of Vassar, Precinct 1",County Road Commissioner,,DEM,Write-In,20
+Tuscola,"Vassar Township, Precinct 1",County Road Commissioner,,DEM,Write-In,33
+Tuscola,"Watertown Township, Precinct 1",County Road Commissioner,,DEM,Write-In,22
+Tuscola,"Wells Township, Precinct 1",County Road Commissioner,,DEM,Write-In,9
+Tuscola,"Wisner Township, Precinct 1",County Road Commissioner,,DEM,Write-In,4
+Tuscola,"Akron Township, Precinct 1",County Road Commissioner,,REP,John Laurie,207
+Tuscola,"Almer Charter Township, Precinct 1",County Road Commissioner,,REP,John Laurie,341
+Tuscola,"Almer Charter Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 1",County Road Commissioner,,REP,John Laurie,199
+Tuscola,"Arbela Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 2",County Road Commissioner,,REP,John Laurie,149
+Tuscola,"City of Caro, Precinct 1",County Road Commissioner,,REP,John Laurie,326
+Tuscola,"City of Caro, Precinct 2",County Road Commissioner,,REP,John Laurie,163
+Tuscola,"Columbia Township, Precinct 1",County Road Commissioner,,REP,John Laurie,197
+Tuscola,"Columbia Township, Precinct 1",County Road Commissioner,,REP,Write-In,2
+Tuscola,"Dayton Township, Precinct 1",County Road Commissioner,,REP,John Laurie,304
+Tuscola,"Denmark Township, Precinct 1",County Road Commissioner,,REP,John Laurie,479
+Tuscola,"Denmark Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Tuscola,"Elkland Township, Precinct 1",County Road Commissioner,,REP,John Laurie,191
+Tuscola,"Elkland Township, Precinct 1",County Road Commissioner,,REP,Write-In,3
+Tuscola,"Elkland Township, Precinct 2",County Road Commissioner,,REP,John Laurie,312
+Tuscola,"Elkland Township, Precinct 2",County Road Commissioner,,REP,Write-In,1
+Tuscola,"Ellington Township, Precinct 1",County Road Commissioner,,REP,John Laurie,266
+Tuscola,"Ellington Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Tuscola,"Elmwood Township, Precinct 1",County Road Commissioner,,REP,John Laurie,178
+Tuscola,"Fairgrove Township, Precinct 1",County Road Commissioner,,REP,John Laurie,199
+Tuscola,"Fremont Township, Precinct 1",County Road Commissioner,,REP,John Laurie,421
+Tuscola,"Gilford Township, Precinct 1",County Road Commissioner,,REP,John Laurie,111
+Tuscola,"Indianfields Township, Precinct 1",County Road Commissioner,,REP,John Laurie,384
+Tuscola,"Indianfields Township, Precinct 1",County Road Commissioner,,REP,Write-In,4
+Tuscola,"Juniata Township, Precinct 1",County Road Commissioner,,REP,John Laurie,224
+Tuscola,"Juniata Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Tuscola,"Kingston Township, Precinct 1",County Road Commissioner,,REP,John Laurie,215
+Tuscola,"Kingston Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Tuscola,"Koylton Township, Precinct 1",County Road Commissioner,,REP,John Laurie,232
+Tuscola,"Koylton Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Tuscola,"Millington Township, Precinct 1",County Road Commissioner,,REP,John Laurie,325
+Tuscola,"Millington Township, Precinct 1",County Road Commissioner,,REP,Write-In,4
+Tuscola,"Millington Township, Precinct 2",County Road Commissioner,,REP,John Laurie,283
+Tuscola,"Novesta Township, Precinct 1",County Road Commissioner,,REP,John Laurie,235
+Tuscola,"Novesta Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Tuscola,"Tuscola Township, Precinct 1",County Road Commissioner,,REP,John Laurie,315
+Tuscola,"City of Vassar, Precinct 1",County Road Commissioner,,REP,John Laurie,248
+Tuscola,"City of Vassar, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Tuscola,"Vassar Township, Precinct 1",County Road Commissioner,,REP,John Laurie,372
+Tuscola,"Vassar Township, Precinct 1",County Road Commissioner,,REP,Write-In,3
+Tuscola,"Watertown Township, Precinct 1",County Road Commissioner,,REP,John Laurie,309
+Tuscola,"Watertown Township, Precinct 1",County Road Commissioner,,REP,Write-In,2
+Tuscola,"Wells Township, Precinct 1",County Road Commissioner,,REP,John Laurie,251
+Tuscola,"Wells Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Tuscola,"Wisner Township, Precinct 1",County Road Commissioner,,REP,John Laurie,80
+Tuscola,"Wisner Township, Precinct 1",County Road Commissioner,,REP,Write-In,1
+Tuscola,"Akron Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,4
+Tuscola,"Almer Charter Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,7
+Tuscola,"Arbela Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,19
+Tuscola,"Arbela Township, Precinct 2",County Road Commissioner - Partial Term,,DEM,Write-In,20
+Tuscola,"City of Caro, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,19
+Tuscola,"City of Caro, Precinct 2",County Road Commissioner - Partial Term,,DEM,Write-In,10
+Tuscola,"Columbia Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,3
+Tuscola,"Dayton Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,23
+Tuscola,"Denmark Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,9
+Tuscola,"Elkland Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,5
+Tuscola,"Elkland Township, Precinct 2",County Road Commissioner - Partial Term,,DEM,Write-In,4
+Tuscola,"Ellington Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,9
+Tuscola,"Elmwood Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,7
+Tuscola,"Fairgrove Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,8
+Tuscola,"Fremont Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,19
+Tuscola,"Gilford Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,5
+Tuscola,"Indianfields Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,13
+Tuscola,"Juniata Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,15
+Tuscola,"Kingston Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,5
+Tuscola,"Koylton Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,3
+Tuscola,"Millington Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,11
+Tuscola,"Millington Township, Precinct 2",County Road Commissioner - Partial Term,,DEM,Write-In,9
+Tuscola,"Novesta Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,6
+Tuscola,"Tuscola Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,10
+Tuscola,"City of Vassar, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,21
+Tuscola,"Vassar Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,33
+Tuscola,"Watertown Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,22
+Tuscola,"Wells Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,9
+Tuscola,"Wisner Township, Precinct 1",County Road Commissioner - Partial Term,,DEM,Write-In,4
+Tuscola,"Akron Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,207
+Tuscola,"Almer Charter Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,339
+Tuscola,"Almer Charter Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,201
+Tuscola,"Arbela Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 2",County Road Commissioner - Partial Term,,REP,David Lee Kennard,147
+Tuscola,"City of Caro, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,323
+Tuscola,"City of Caro, Precinct 2",County Road Commissioner - Partial Term,,REP,David Lee Kennard,164
+Tuscola,"Columbia Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,195
+Tuscola,"Columbia Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,2
+Tuscola,"Dayton Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,299
+Tuscola,"Dayton Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,1
+Tuscola,"Denmark Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,472
+Tuscola,"Denmark Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,2
+Tuscola,"Elkland Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,189
+Tuscola,"Elkland Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,1
+Tuscola,"Elkland Township, Precinct 2",County Road Commissioner - Partial Term,,REP,David Lee Kennard,307
+Tuscola,"Elkland Township, Precinct 2",County Road Commissioner - Partial Term,,REP,Write-In,1
+Tuscola,"Ellington Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,257
+Tuscola,"Elmwood Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,173
+Tuscola,"Elmwood Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,1
+Tuscola,"Fairgrove Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,199
+Tuscola,"Fremont Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,417
+Tuscola,"Gilford Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,109
+Tuscola,"Indianfields Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,376
+Tuscola,"Indianfields Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,3
+Tuscola,"Juniata Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,220
+Tuscola,"Juniata Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,2
+Tuscola,"Kingston Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,209
+Tuscola,"Kingston Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,3
+Tuscola,"Koylton Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,229
+Tuscola,"Koylton Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,2
+Tuscola,"Millington Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,326
+Tuscola,"Millington Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,3
+Tuscola,"Millington Township, Precinct 2",County Road Commissioner - Partial Term,,REP,David Lee Kennard,283
+Tuscola,"Novesta Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,232
+Tuscola,"Novesta Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,2
+Tuscola,"Tuscola Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,315
+Tuscola,"City of Vassar, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,250
+Tuscola,"Vassar Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,383
+Tuscola,"Vassar Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,2
+Tuscola,"Watertown Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,313
+Tuscola,"Watertown Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,1
+Tuscola,"Wells Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,243
+Tuscola,"Wisner Township, Precinct 1",County Road Commissioner - Partial Term,,REP,David Lee Kennard,77
+Tuscola,"Wisner Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Write-In,1
+Tuscola,"Akron Township, Precinct 1",Drain Commissioner,,DEM,Write-In,4
+Tuscola,"Almer Charter Township, Precinct 1",Drain Commissioner,,DEM,Write-In,7
+Tuscola,"Arbela Township, Precinct 1",Drain Commissioner,,DEM,Write-In,17
+Tuscola,"Arbela Township, Precinct 2",Drain Commissioner,,DEM,Write-In,21
+Tuscola,"City of Caro, Precinct 1",Drain Commissioner,,DEM,Write-In,19
+Tuscola,"City of Caro, Precinct 2",Drain Commissioner,,DEM,Write-In,11
+Tuscola,"Columbia Township, Precinct 1",Drain Commissioner,,DEM,Write-In,4
+Tuscola,"Dayton Township, Precinct 1",Drain Commissioner,,DEM,Write-In,23
+Tuscola,"Denmark Township, Precinct 1",Drain Commissioner,,DEM,Write-In,9
+Tuscola,"Elkland Township, Precinct 1",Drain Commissioner,,DEM,Write-In,5
+Tuscola,"Elkland Township, Precinct 2",Drain Commissioner,,DEM,Write-In,4
+Tuscola,"Ellington Township, Precinct 1",Drain Commissioner,,DEM,Write-In,8
+Tuscola,"Elmwood Township, Precinct 1",Drain Commissioner,,DEM,Write-In,7
+Tuscola,"Fairgrove Township, Precinct 1",Drain Commissioner,,DEM,Write-In,8
+Tuscola,"Fremont Township, Precinct 1",Drain Commissioner,,DEM,Write-In,17
+Tuscola,"Gilford Township, Precinct 1",Drain Commissioner,,DEM,Write-In,4
+Tuscola,"Indianfields Township, Precinct 1",Drain Commissioner,,DEM,Write-In,12
+Tuscola,"Juniata Township, Precinct 1",Drain Commissioner,,DEM,Write-In,14
+Tuscola,"Kingston Township, Precinct 1",Drain Commissioner,,DEM,Write-In,5
+Tuscola,"Koylton Township, Precinct 1",Drain Commissioner,,DEM,Write-In,3
+Tuscola,"Millington Township, Precinct 1",Drain Commissioner,,DEM,Write-In,10
+Tuscola,"Millington Township, Precinct 2",Drain Commissioner,,DEM,Write-In,8
+Tuscola,"Novesta Township, Precinct 1",Drain Commissioner,,DEM,Write-In,5
+Tuscola,"Tuscola Township, Precinct 1",Drain Commissioner,,DEM,Write-In,12
+Tuscola,"City of Vassar, Precinct 1",Drain Commissioner,,DEM,Write-In,18
+Tuscola,"Vassar Township, Precinct 1",Drain Commissioner,,DEM,Write-In,29
+Tuscola,"Watertown Township, Precinct 1",Drain Commissioner,,DEM,Write-In,18
+Tuscola,"Wells Township, Precinct 1",Drain Commissioner,,DEM,Write-In,8
+Tuscola,"Wisner Township, Precinct 1",Drain Commissioner,,DEM,Write-In,3
+Tuscola,"Akron Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,213
+Tuscola,"Almer Charter Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,356
+Tuscola,"Almer Charter Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,205
+Tuscola,"Arbela Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 2",Drain Commissioner,,REP,Robert Mantey,150
+Tuscola,"City of Caro, Precinct 1",Drain Commissioner,,REP,Robert Mantey,339
+Tuscola,"City of Caro, Precinct 2",Drain Commissioner,,REP,Robert Mantey,168
+Tuscola,"Columbia Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,207
+Tuscola,"Columbia Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Tuscola,"Dayton Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,306
+Tuscola,"Dayton Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Tuscola,"Denmark Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,489
+Tuscola,"Denmark Township, Precinct 1",Drain Commissioner,,REP,Write-In,3
+Tuscola,"Elkland Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,187
+Tuscola,"Elkland Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Tuscola,"Elkland Township, Precinct 2",Drain Commissioner,,REP,Robert Mantey,316
+Tuscola,"Ellington Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,265
+Tuscola,"Elmwood Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,174
+Tuscola,"Fairgrove Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,213
+Tuscola,"Fremont Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,419
+Tuscola,"Fremont Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Tuscola,"Gilford Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,113
+Tuscola,"Indianfields Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,393
+Tuscola,"Indianfields Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Tuscola,"Juniata Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,231
+Tuscola,"Juniata Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Tuscola,"Kingston Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,211
+Tuscola,"Kingston Township, Precinct 1",Drain Commissioner,,REP,Write-In,3
+Tuscola,"Koylton Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,232
+Tuscola,"Koylton Township, Precinct 1",Drain Commissioner,,REP,Write-In,2
+Tuscola,"Millington Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,314
+Tuscola,"Millington Township, Precinct 1",Drain Commissioner,,REP,Write-In,2
+Tuscola,"Millington Township, Precinct 2",Drain Commissioner,,REP,Robert Mantey,283
+Tuscola,"Novesta Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,236
+Tuscola,"Tuscola Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,318
+Tuscola,"City of Vassar, Precinct 1",Drain Commissioner,,REP,Robert Mantey,247
+Tuscola,"Vassar Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,374
+Tuscola,"Vassar Township, Precinct 1",Drain Commissioner,,REP,Write-In,2
+Tuscola,"Watertown Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,315
+Tuscola,"Watertown Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Tuscola,"Wells Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,257
+Tuscola,"Wisner Township, Precinct 1",Drain Commissioner,,REP,Robert Mantey,82
+Tuscola,"Wisner Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Tuscola,"Akron Township, Precinct 1",County Commissioner,1,REP,Thomas Young,213
+Tuscola,"Columbia Township, Precinct 1",County Commissioner,1,REP,Thomas Young,204
+Tuscola,"Columbia Township, Precinct 1",County Commissioner,1,REP,Write-In,2
+Tuscola,"Elkland Township, Precinct 1",County Commissioner,1,REP,Thomas Young,189
+Tuscola,"Elkland Township, Precinct 2",County Commissioner,1,REP,Thomas Young,310
+Tuscola,"Elmwood Township, Precinct 1",County Commissioner,1,REP,Thomas Young,179
+Tuscola,"Fairgrove Township, Precinct 1",County Commissioner,1,REP,Thomas Young,199
+Tuscola,"Gilford Township, Precinct 1",County Commissioner,1,REP,Thomas Young,107
+Tuscola,"Wisner Township, Precinct 1",County Commissioner,1,REP,Thomas Young,82
+Tuscola,"Wisner Township, Precinct 1",County Commissioner,1,REP,Write-In,1
+Tuscola,"Almer Charter Township, Precinct 1",County Commissioner,2,DEM,Write-In,8
+Tuscola,"City of Caro, Precinct 1",County Commissioner,2,DEM,Write-In,19
+Tuscola,"City of Caro, Precinct 2",County Commissioner,2,DEM,Write-In,10
+Tuscola,"Ellington Township, Precinct 1",County Commissioner,2,DEM,Write-In,9
+Tuscola,"Kingston Township, Precinct 1",County Commissioner,2,DEM,Write-In,5
+Tuscola,"Novesta Township, Precinct 1",County Commissioner,2,DEM,Write-In,6
+Tuscola,"Almer Charter Township, Precinct 1",County Commissioner,2,REP,Richard A. Lipan,154
+Tuscola,"Almer Charter Township, Precinct 1",County Commissioner,2,REP,Thomas C. Bardwell,222
+Tuscola,"Almer Charter Township, Precinct 1",County Commissioner,2,REP,Write-In,1
+Tuscola,"City of Caro, Precinct 1",County Commissioner,2,REP,Richard A. Lipan,170
+Tuscola,"City of Caro, Precinct 1",County Commissioner,2,REP,Thomas C. Bardwell,184
+Tuscola,"City of Caro, Precinct 2",County Commissioner,2,REP,Richard A. Lipan,94
+Tuscola,"City of Caro, Precinct 2",County Commissioner,2,REP,Thomas C. Bardwell,97
+Tuscola,"Ellington Township, Precinct 1",County Commissioner,2,REP,Richard A. Lipan,114
+Tuscola,"Ellington Township, Precinct 1",County Commissioner,2,REP,Thomas C. Bardwell,191
+Tuscola,"Kingston Township, Precinct 1",County Commissioner,2,REP,Richard A. Lipan,74
+Tuscola,"Kingston Township, Precinct 1",County Commissioner,2,REP,Thomas C. Bardwell,134
+Tuscola,"Novesta Township, Precinct 1",County Commissioner,2,REP,Richard A. Lipan,66
+Tuscola,"Novesta Township, Precinct 1",County Commissioner,2,REP,Thomas C. Bardwell,183
+Tuscola,"Dayton Township, Precinct 1",County Commissioner,3,REP,Kim Vaughan,271
+Tuscola,"Dayton Township, Precinct 1",County Commissioner,3,REP,Write-In,1
+Tuscola,"Fremont Township, Precinct 1",County Commissioner,3,REP,Kim Vaughan,422
+Tuscola,"Indianfields Township, Precinct 1",County Commissioner,3,REP,Kim Vaughan,382
+Tuscola,"Indianfields Township, Precinct 1",County Commissioner,3,REP,Write-In,3
+Tuscola,"Koylton Township, Precinct 1",County Commissioner,3,REP,Kim Vaughan,228
+Tuscola,"Koylton Township, Precinct 1",County Commissioner,3,REP,Write-In,1
+Tuscola,"Wells Township, Precinct 1",County Commissioner,3,REP,Kim Vaughan,251
+Tuscola,"Wells Township, Precinct 1",County Commissioner,3,REP,Write-In,1
+Tuscola,"Arbela Township, Precinct 1",County Commissioner,4,REP,Douglas DuRussel,94
+Tuscola,"Arbela Township, Precinct 1",County Commissioner,4,REP,Roger A. Bacon Sr.,105
+Tuscola,"Arbela Township, Precinct 1",County Commissioner,4,REP,Write-In,2
+Tuscola,"Arbela Township, Precinct 2",County Commissioner,4,REP,Douglas DuRussel,79
+Tuscola,"Arbela Township, Precinct 2",County Commissioner,4,REP,Roger A. Bacon Sr.,69
+Tuscola,"Millington Township, Precinct 1",County Commissioner,4,REP,Douglas DuRussel,164
+Tuscola,"Millington Township, Precinct 1",County Commissioner,4,REP,Roger A. Bacon Sr.,183
+Tuscola,"Millington Township, Precinct 1",County Commissioner,4,REP,Write-In,1
+Tuscola,"Millington Township, Precinct 2",County Commissioner,4,REP,Douglas DuRussel,165
+Tuscola,"Millington Township, Precinct 2",County Commissioner,4,REP,Roger A. Bacon Sr.,132
+Tuscola,"Tuscola Township, Precinct 1",County Commissioner,4,REP,Douglas DuRussel,190
+Tuscola,"Tuscola Township, Precinct 1",County Commissioner,4,REP,Roger A. Bacon Sr.,151
+Tuscola,"Watertown Township, Precinct 1",County Commissioner,4,REP,Douglas DuRussel,176
+Tuscola,"Watertown Township, Precinct 1",County Commissioner,4,REP,Roger A. Bacon Sr.,146
+Tuscola,"Denmark Township, Precinct 1",County Commissioner,5,REP,Daniel Grimshaw,324
+Tuscola,"Denmark Township, Precinct 1",County Commissioner,5,REP,Dean A. Tomlinson,155
+Tuscola,"Denmark Township, Precinct 1",County Commissioner,5,REP,Write-In,1
+Tuscola,"Juniata Township, Precinct 1",County Commissioner,5,REP,Daniel Grimshaw,90
+Tuscola,"Juniata Township, Precinct 1",County Commissioner,5,REP,Dean A. Tomlinson,168
+Tuscola,"City of Vassar, Precinct 1",County Commissioner,5,REP,Daniel Grimshaw,134
+Tuscola,"City of Vassar, Precinct 1",County Commissioner,5,REP,Dean A. Tomlinson,116
+Tuscola,"Vassar Township, Precinct 1",County Commissioner,5,REP,Daniel Grimshaw,234
+Tuscola,"Vassar Township, Precinct 1",County Commissioner,5,REP,Dean A. Tomlinson,162
+Tuscola,"Akron Township, Precinct 1",Supervisor for Akron Township,,DEM,Overvotes Precinct,4
+Tuscola,"Akron Township, Precinct 1",Supervisor for Akron Township,,REP,Steve Linzner,211
+Tuscola,"Akron Township, Precinct 1",Supervisor for Akron Township,,REP,Write-In,2
+Tuscola,"Almer Charter Township, Precinct 1",Supervisor for Almer Charter Township,,DEM,Write-In,8
+Tuscola,"Almer Charter Township, Precinct 1",Supervisor for Almer Charter Township,,REP,Jim Mantey,3
+Tuscola,"Almer Charter Township, Precinct 1",Supervisor for Almer Charter Township,,REP,Overvotes Precinct County Tuscola County,316
+Tuscola,"Almer Charter Township, Precinct 1",Supervisor for Almer Charter Township,,REP,Undervotes,316
+Tuscola,"Arbela Township, Precinct 1",Supervisor for Arbela Township,,DEM,Write-In,21
+Tuscola,"Arbela Township, Precinct 2",Supervisor for Arbela Township,,DEM,Write-In,22
+Tuscola,"Arbela Township, Precinct 1",Supervisor for Arbela Township,,REP,Edward Hunt,196
+Tuscola,"Arbela Township, Precinct 1",Supervisor for Arbela Township,,REP,Write-In,4
+Tuscola,"Arbela Township, Precinct 2",Supervisor for Arbela Township,,REP,Edward Hunt,149
+Tuscola,"Arbela Township, Precinct 2",Supervisor for Arbela Township,,REP,Write-In,1
+Tuscola,"Columbia Township, Precinct 1",Supervisor for Columbia Township,,REP,Kathy Trischler,198
+Tuscola,"Columbia Township, Precinct 1",Supervisor for Columbia Township,,REP,Write-In,4
+Tuscola,"Dayton Township, Precinct 1",Supervisor for Dayton Township,,DEM,Write-In,21
+Tuscola,"Dayton Township, Precinct 1",Supervisor for Dayton Township,,REP,Robert Cook,280
+Tuscola,"Dayton Township, Precinct 1",Supervisor for Dayton Township,,REP,Write-In,2
+Tuscola,"Denmark Township, Precinct 1",Supervisor for Denmark Township,,DEM,Write-In,9
+Tuscola,"Denmark Township, Precinct 1",Supervisor for Denmark Township,,REP,Charles J. Heinlein,478
+Tuscola,"Denmark Township, Precinct 1",Supervisor for Denmark Township,,REP,Write-In,2
+Tuscola,"Elkland Township, Precinct 1",Supervisor for Elkland Township,,DEM,Write-In,5
+Tuscola,"Elkland Township, Precinct 2",Supervisor for Elkland Township,,DEM,Write-In,4
+Tuscola,"Elkland Township, Precinct 1",Supervisor for Elkland Township,,REP,Terry L. Muntz,190
+Tuscola,"Elkland Township, Precinct 1",Supervisor for Elkland Township,,REP,Write-In,1
+Tuscola,"Elkland Township, Precinct 2",Supervisor for Elkland Township,,REP,Terry L. Muntz,317
+Tuscola,"Ellington Township, Precinct 1",Supervisor for Ellington Township,,DEM,Write-In,9
+Tuscola,"Ellington Township, Precinct 1",Supervisor for Ellington Township,,REP,Russell Speirs,261
+Tuscola,"Ellington Township, Precinct 1",Supervisor for Ellington Township,,REP,Write-In,2
+Tuscola,"Elmwood Township, Precinct 1",Supervisor for Elmwood Township,,DEM,Write-In,7
+Tuscola,"Elmwood Township, Precinct 1",Supervisor for Elmwood Township,,REP,Christopher Graff,170
+Tuscola,"Elmwood Township, Precinct 1",Supervisor for Elmwood Township,,REP,Write-In,2
+Tuscola,"Fairgrove Township, Precinct 1",Supervisor for Fairgrove Township,,DEM,Write-In,8
+Tuscola,"Fairgrove Township, Precinct 1",Supervisor for Fairgrove Township,,REP,Keith Aeder,198
+Tuscola,"Fremont Township, Precinct 1",Supervisor for Fremont Township,,DEM,Write-In,20
+Tuscola,"Fremont Township, Precinct 1",Supervisor for Fremont Township,,REP,Matthew R. Blatt,430
+Tuscola,"Gilford Township, Precinct 1",Supervisor for Gilford Township,,DEM,Write-In,6
+Tuscola,"Gilford Township, Precinct 1",Supervisor for Gilford Township,,REP,James E. Stockmeyer Sr.,112
+Tuscola,"Gilford Township, Precinct 1",Supervisor for Gilford Township,,REP,Write-In,1
+Tuscola,"Indianfields Township, Precinct 1",Supervisor for Indianfields Township,,DEM,Ray Rendon,154
+Tuscola,"Indianfields Township, Precinct 1",Supervisor for Indianfields Township,,REP,William E. Campbell,314
+Tuscola,"Indianfields Township, Precinct 1",Supervisor for Indianfields Township,,REP,Write-In,5
+Tuscola,"Juniata Township, Precinct 1",Supervisor for Juniata Township,,DEM,Write-In,15
+Tuscola,"Juniata Township, Precinct 1",Supervisor for Juniata Township,,REP,Lisa J. Geiger,221
+Tuscola,"Juniata Township, Precinct 1",Supervisor for Juniata Township,,REP,Write-In,2
+Tuscola,"Kingston Township, Precinct 1",Supervisor for Kingston Township,,DEM,Wrn. Jesse Zimba,54
+Tuscola,"Kingston Township, Precinct 1",Supervisor for Kingston Township,,REP,Write-In,18
+Tuscola,"Koylton Township, Precinct 1",Supervisor for Koylton Township,,DEM,Write-In,3
+Tuscola,"Koylton Township, Precinct 1",Supervisor for Koylton Township,,REP,Douglas R. Kramer,3
+Tuscola,"Koylton Township, Precinct 1",Supervisor for Koylton Township,,REP,Overvotes,228
+Tuscola,"Koylton Township, Precinct 1",Supervisor for Koylton Township,,REP,Undervotes,228
+Tuscola,"Millington Township, Precinct 1",Supervisor for Millington Township,,DEM,Terry F. Jones,119
+Tuscola,"Millington Township, Precinct 1",Supervisor for Millington Township,,DEM,Write-In,2
+Tuscola,"Millington Township, Precinct 2",Supervisor for Millington Township,,DEM,Terry F. Jones,107
+Tuscola,"Millington Township, Precinct 2",Supervisor for Millington Township,,DEM,Write-In,1
+Tuscola,"Millington Township, Precinct 1",Supervisor for Millington Township,,REP,Robert G. Loomis,319
+Tuscola,"Millington Township, Precinct 1",Supervisor for Millington Township,,REP,Write-In,1
+Tuscola,"Millington Township, Precinct 2",Supervisor for Millington Township,,REP,Robert G. Loomis,290
+Tuscola,"Millington Township, Precinct 2",Supervisor for Millington Township,,REP,Write-In,2
+Tuscola,"Novesta Township, Precinct 1",Supervisor for Novesta Township,,DEM,Write-In,6
+Tuscola,"Novesta Township, Precinct 1",Supervisor for Novesta Township,,REP,Write-In,9
+Tuscola,"Tuscola Township, Precinct 1",Supervisor for Tuscola Township,,DEM,Write-In,12
+Tuscola,"Tuscola Township, Precinct 1",Supervisor for Tuscola Township,,REP,Tod G. Fackler,321
+Tuscola,"Vassar Township, Precinct 1",Supervisor for Vassar Township,,DEM,Charles Stadler,156
+Tuscola,"Vassar Township, Precinct 1",Supervisor for Vassar Township,,DEM,Write-In,2
+Tuscola,"Vassar Township, Precinct 1",Supervisor for Vassar Township,,REP,Bruce D. Foether,352
+Tuscola,"Vassar Township, Precinct 1",Supervisor for Vassar Township,,REP,Write-In,10
+Tuscola,"Watertown Township, Precinct 1",Supervisor for Watertown Township,,DEM,Write-In,22
+Tuscola,"Watertown Township, Precinct 1",Supervisor for Watertown Township,,REP,Danny Quertermous,249
+Tuscola,"Watertown Township, Precinct 1",Supervisor for Watertown Township,,REP,Ruby Annette,102
+Tuscola,"Wells Township, Precinct 1",Supervisor for Wells Township,,DEM,Write-In,9
+Tuscola,"Wells Township, Precinct 1",Supervisor for Wells Township,,REP,Write-In,35
+Tuscola,"Wisner Township, Precinct 1",Supervisor for Wisner Township,,DEM,Write-In,3
+Tuscola,"Wisner Township, Precinct 1",Supervisor for Wisner Township,,REP,Timmy A. Rumble,81
+Tuscola,"Wisner Township, Precinct 1",Supervisor for Wisner Township,,REP,Write-In,4
+Tuscola,"Akron Township, Precinct 1",Clerk for Akron Township,,DEM,Write-In,4
+Tuscola,"Akron Township, Precinct 1",Clerk for Akron Township,,REP,Jamie Schuette,217
+Tuscola,"Almer Charter Township, Precinct 1",Clerk for Almer Charter Township,,DEM,Write-In,8
+Tuscola,"Almer Charter Township, Precinct 1",Clerk for Almer Charter Township,,REP,Peggy Reavey,355
+Tuscola,"Arbela Township, Precinct 1",Clerk for Arbela Township,,DEM,Mary Warren,122
+Tuscola,"Arbela Township, Precinct 1",Clerk for Arbela Township,,DEM,Write-In,1
+Tuscola,"Arbela Township, Precinct 2",Clerk for Arbela Township,,DEM,Mary Warren,100
+Tuscola,"Arbela Township, Precinct 2",Clerk for Arbela Township,,DEM,Write-In,3
+Tuscola,"Arbela Township, Precinct 1",Clerk for Arbela Township,,REP,Write-In,10
+Tuscola,"Arbela Township, Precinct 2",Clerk for Arbela Township,,REP,Write-In,11
+Tuscola,"Columbia Township, Precinct 1",Clerk for Columbia Township,,DEM,Christine Kolar,63
+Tuscola,"Columbia Township, Precinct 1",Clerk for Columbia Township,,REP,Write-In,12
+Tuscola,"Dayton Township, Precinct 1",Clerk for Dayton Township,,DEM,Write-In,21
+Tuscola,"Dayton Township, Precinct 1",Clerk for Dayton Township,,REP,Tony Shaver,284
+Tuscola,"Denmark Township, Precinct 1",Clerk for Denmark Township,,DEM,Write-In,9
+Tuscola,"Denmark Township, Precinct 1",Clerk for Denmark Township,,REP,Renée Louise Schiefer,459
+Tuscola,"Elkland Township, Precinct 1",Clerk for Elkland Township,,DEM,Write-In,5
+Tuscola,"Elkland Township, Precinct 2",Clerk for Elkland Township,,DEM,Write-In,4
+Tuscola,"Elkland Township, Precinct 1",Clerk for Elkland Township,,REP,Heather Severance,197
+Tuscola,"Elkland Township, Precinct 2",Clerk for Elkland Township,,REP,Heather Severance,325
+Tuscola,"Ellington Township, Precinct 1",Clerk for Ellington Township,,DEM,Write-In,8
+Tuscola,"Ellington Township, Precinct 1",Clerk for Ellington Township,,REP,Suzy Rockwell,265
+Tuscola,"Ellington Township, Precinct 1",Clerk for Ellington Township,,REP,Write-In,1
+Tuscola,"Elmwood Township, Precinct 1",Clerk for Elmwood Township,,DEM,Write-In,7
+Tuscola,"Elmwood Township, Precinct 1",Clerk for Elmwood Township,,REP,Pam Brinkman,181
+Tuscola,"Elmwood Township, Precinct 1",Clerk for Elmwood Township,,REP,Write-In,2
+Tuscola,"Fairgrove Township, Precinct 1",Clerk for Fairgrove Township,,DEM,Write-In,8
+Tuscola,"Fairgrove Township, Precinct 1",Clerk for Fairgrove Township,,REP,Katie Gebhardt,200
+Tuscola,"Fairgrove Township, Precinct 1",Clerk for Fairgrove Township,,REP,Write-In,1
+Tuscola,"Fremont Township, Precinct 1",Clerk for Fremont Township,,DEM,Write-In,20
+Tuscola,"Fremont Township, Precinct 1",Clerk for Fremont Township,,REP,Amy L. Holbrook,446
+Tuscola,"Gilford Township, Precinct 1",Clerk for Gilford Township,,REP,Diane K. Spencer,115
+Tuscola,"Indianfields Township, Precinct 1",Clerk for Indianfields Township,,DEM,Write-In,14
+Tuscola,"Indianfields Township, Precinct 1",Clerk for Indianfields Township,,REP,Cristi Smith,388
+Tuscola,"Indianfields Township, Precinct 1",Clerk for Indianfields Township,,REP,Write-In,1
+Tuscola,"Juniata Township, Precinct 1",Clerk for Juniata Township,,DEM,Write-In,13
+Tuscola,"Juniata Township, Precinct 1",Clerk for Juniata Township,,REP,Brenda Bigham (W),51
+Tuscola,"Juniata Township, Precinct 1",Clerk for Juniata Township,,REP,Write-In,57
+Tuscola,"Kingston Township, Precinct 1",Clerk for Kingston Township,,DEM,Write-In,5
+Tuscola,"Kingston Township, Precinct 1",Clerk for Kingston Township,,REP,Carrie Gilley,227
+Tuscola,"Koylton Township, Precinct 1",Clerk for Koylton Township,,DEM,Write-In,3
+Tuscola,"Koylton Township, Precinct 1",Clerk for Koylton Township,,REP,Rex W. Vroman,231
+Tuscola,"Koylton Township, Precinct 1",Clerk for Koylton Township,,REP,Write-In,1
+Tuscola,"Millington Township, Precinct 1",Clerk for Millington Township,,DEM,Write-In,10
+Tuscola,"Millington Township, Precinct 2",Clerk for Millington Township,,DEM,Write-In,9
+Tuscola,"Millington Township, Precinct 1",Clerk for Millington Township,,REP,Jackie Sabgash,325
+Tuscola,"Millington Township, Precinct 1",Clerk for Millington Township,,REP,Write-In,1
+Tuscola,"Millington Township, Precinct 2",Clerk for Millington Township,,REP,Jackie Sabgash,287
+Tuscola,"Novesta Township, Precinct 1",Clerk for Novesta Township,,DEM,Write-In,7
+Tuscola,"Novesta Township, Precinct 1",Clerk for Novesta Township,,REP,Write-In,9
+Tuscola,"Tuscola Township, Precinct 1",Clerk for Tuscola Township,,DEM,Write-In,11
+Tuscola,"Tuscola Township, Precinct 1",Clerk for Tuscola Township,,REP,Michelle Hicks,326
+Tuscola,"Vassar Township, Precinct 1",Clerk for Vassar Township,,DEM,Write-In,29
+Tuscola,"Vassar Township, Precinct 1",Clerk for Vassar Township,,REP,Write-In,19
+Tuscola,"Watertown Township, Precinct 1",Clerk for Watertown Township,,DEM,Write-In,22
+Tuscola,"Watertown Township, Precinct 1",Clerk for Watertown Township,,REP,Malisa Pyles,334
+Tuscola,"Watertown Township, Precinct 1",Clerk for Watertown Township,,REP,Write-In,3
+Tuscola,"Wells Township, Precinct 1",Clerk for Wells Township,,DEM,Write-In,9
+Tuscola,"Wells Township, Precinct 1",Clerk for Wells Township,,REP,Carmen Stevens,255
+Tuscola,"Wells Township, Precinct 1",Clerk for Wells Township,,REP,Write-In,1
+Tuscola,"Wisner Township, Precinct 1",Clerk for Wisner Township,,DEM,Pamela Shook,57
+Tuscola,"Wisner Township, Precinct 1",Clerk for Wisner Township,,REP,Write-In,4
+Tuscola,"Akron Township, Precinct 1",Treasurer for Akron Township,,DEM,Write-In,5
+Tuscola,"Akron Township, Precinct 1",Treasurer for Akron Township,,REP,Deana Jacoby,218
+Tuscola,"Almer Charter Township, Precinct 1",Treasurer for Almer Charter Township,,DEM,Write-In,8
+Tuscola,"Almer Charter Township, Precinct 1",Treasurer for Almer Charter Township,,REP,Patricia A. Witkovsky,345
+Tuscola,"Arbela Township, Precinct 1",Treasurer for Arbela Township,,DEM,Write-In,20
+Tuscola,"Arbela Township, Precinct 2",Treasurer for Arbela Township,,DEM,Write-In,22
+Tuscola,"Arbela Township, Precinct 1",Treasurer for Arbela Township,,REP,Jody A. Hunt,199
+Tuscola,"Arbela Township, Precinct 1",Treasurer for Arbela Township,,REP,Write-In,2
+Tuscola,"Arbela Township, Precinct 2",Treasurer for Arbela Township,,REP,Jody A. Hunt,149
+Tuscola,"Columbia Township, Precinct 1",Treasurer for Columbia Township,,DEM,Write-In,3
+Tuscola,"Columbia Township, Precinct 1",Treasurer for Columbia Township,,REP,Christina J. Parmenter,196
+Tuscola,"Columbia Township, Precinct 1",Treasurer for Columbia Township,,REP,Write-In,2
+Tuscola,"Dayton Township, Precinct 1",Treasurer for Dayton Township,,DEM,Write-In,20
+Tuscola,"Dayton Township, Precinct 1",Treasurer for Dayton Township,,REP,Eleanor Kilmer,289
+Tuscola,"Dayton Township, Precinct 1",Treasurer for Dayton Township,,REP,Write-In,1
+Tuscola,"Denmark Township, Precinct 1",Treasurer for Denmark Township,,DEM,Write-In,10
+Tuscola,"Denmark Township, Precinct 1",Treasurer for Denmark Township,,REP,Makenzi Mantey,116
+Tuscola,"Denmark Township, Precinct 1",Treasurer for Denmark Township,,REP,Theresa A. Bauer,377
+Tuscola,"Elkland Township, Precinct 1",Treasurer for Elkland Township,,DEM,Write-In,4
+Tuscola,"Elkland Township, Precinct 2",Treasurer for Elkland Township,,DEM,Write-In,4
+Tuscola,"Elkland Township, Precinct 1",Treasurer for Elkland Township,,REP,Cynthia J. Kruse,195
+Tuscola,"Elkland Township, Precinct 1",Treasurer for Elkland Township,,REP,Write-In,1
+Tuscola,"Elkland Township, Precinct 2",Treasurer for Elkland Township,,REP,Cynthia J. Kruse,322
+Tuscola,"Ellington Township, Precinct 1",Treasurer for Ellington Township,,DEM,Write-In,8
+Tuscola,"Ellington Township, Precinct 1",Treasurer for Ellington Township,,REP,Carmell K. Pattullo,268
+Tuscola,"Ellington Township, Precinct 1",Treasurer for Ellington Township,,REP,Write-In,1
+Tuscola,"Elmwood Township, Precinct 1",Treasurer for Elmwood Township,,DEM,Write-In,7
+Tuscola,"Elmwood Township, Precinct 1",Treasurer for Elmwood Township,,REP,Write-In,19
+Tuscola,"Fairgrove Township, Precinct 1",Treasurer for Fairgrove Township,,DEM,Sarah R. Donovan,80
+Tuscola,"Fairgrove Township, Precinct 1",Treasurer for Fairgrove Township,,REP,Write-In,12
+Tuscola,"Fremont Township, Precinct 1",Treasurer for Fremont Township,,DEM,Write-In,20
+Tuscola,"Fremont Township, Precinct 1",Treasurer for Fremont Township,,REP,Write-In,36
+Tuscola,"Gilford Township, Precinct 1",Treasurer for Gilford Township,,DEM,Write-In,6
+Tuscola,"Gilford Township, Precinct 1",Treasurer for Gilford Township,,REP,Debra Strasz,113
+Tuscola,"Indianfields Township, Precinct 1",Treasurer for Indianfields Township,,DEM,Write-In,14
+Tuscola,"Indianfields Township, Precinct 1",Treasurer for Indianfields Township,,REP,Robert Osborn,389
+Tuscola,"Indianfields Township, Precinct 1",Treasurer for Indianfields Township,,REP,Write-In,1
+Tuscola,"Juniata Township, Precinct 1",Treasurer for Juniata Township,,DEM,Write-In,14
+Tuscola,"Juniata Township, Precinct 1",Treasurer for Juniata Township,,REP,Write-In,5
+Tuscola,"Kingston Township, Precinct 1",Treasurer for Kingston Township,,DEM,Mary Lou Wolak,52
+Tuscola,"Kingston Township, Precinct 1",Treasurer for Kingston Township,,DEM,Write-In,1
+Tuscola,"Kingston Township, Precinct 1",Treasurer for Kingston Township,,REP,Write-In,10
+Tuscola,"Koylton Township, Precinct 1",Treasurer for Koylton Township,,DEM,Write-In,2
+Tuscola,"Koylton Township, Precinct 1",Treasurer for Koylton Township,,REP,Linda K. Jobson,235
+Tuscola,"Koylton Township, Precinct 1",Treasurer for Koylton Township,,REP,Write-In,3
+Tuscola,"Millington Township, Precinct 1",Treasurer for Millington Township,,DEM,Write-In,11
+Tuscola,"Millington Township, Precinct 2",Treasurer for Millington Township,,DEM,Write-In,9
+Tuscola,"Millington Township, Precinct 1",Treasurer for Millington Township,,REP,Sharon Keinath,339
+Tuscola,"Millington Township, Precinct 1",Treasurer for Millington Township,,REP,Write-In,2
+Tuscola,"Millington Township, Precinct 2",Treasurer for Millington Township,,REP,Sharon Keinath,305
+Tuscola,"Novesta Township, Precinct 1",Treasurer for Novesta Township,,DEM,Write-In,6
+Tuscola,"Novesta Township, Precinct 1",Treasurer for Novesta Township,,REP,Write-In,8
+Tuscola,"Tuscola Township, Precinct 1",Treasurer for Tuscola Township,,DEM,Write-In,12
+Tuscola,"Tuscola Township, Precinct 1",Treasurer for Tuscola Township,,REP,Robert Verbeek,322
+Tuscola,"Vassar Township, Precinct 1",Treasurer for Vassar Township,,DEM,Write-In,28
+Tuscola,"Vassar Township, Precinct 1",Treasurer for Vassar Township,,REP,Write-In,19
+Tuscola,"Watertown Township, Precinct 1",Treasurer for Watertown Township,,DEM,Write-In,22
+Tuscola,"Watertown Township, Precinct 1",Treasurer for Watertown Township,,REP,Hazel D. Schlosser,218
+Tuscola,"Watertown Township, Precinct 1",Treasurer for Watertown Township,,REP,Tina Boisvert,127
+Tuscola,"Watertown Township, Precinct 1",Treasurer for Watertown Township,,REP,Write-In,1
+Tuscola,"Wells Township, Precinct 1",Treasurer for Wells Township,,DEM,Write-In,9
+Tuscola,"Wells Township, Precinct 1",Treasurer for Wells Township,,REP,Stefanie Bruce,244
+Tuscola,"Wells Township, Precinct 1",Treasurer for Wells Township,,REP,Write-In,3
+Tuscola,"Wisner Township, Precinct 1",Treasurer for Wisner Township,,DEM,Annette M. Rieck,57
+Tuscola,"Wisner Township, Precinct 1",Treasurer for Wisner Township,,REP,Write-In,2
+Tuscola,"Akron Township, Precinct 1",Trustee for Akron Township,,DEM,Gene C. Harrington,61
+Tuscola,"Akron Township, Precinct 1",Trustee for Akron Township,,DEM,Write-In,1
+Tuscola,"Akron Township, Precinct 1",Trustee for Akron Township,,REP,Carrie Hines,207
+Tuscola,"Akron Township, Precinct 1",Trustee for Akron Township,,REP,Write-In,3
+Tuscola,"Almer Charter Township, Precinct 1",Trustee for Almer Charter Township,,DEM,Write-In,17
+Tuscola,"Almer Charter Township, Precinct 1",Trustee for Almer Charter Township,,REP,Art Graff,251
+Tuscola,"Almer Charter Township, Precinct 1",Trustee for Almer Charter Township,,REP,Chris Wilcox,223
+Tuscola,"Almer Charter Township, Precinct 1",Trustee for Almer Charter Township,,REP,Jim Tussey,222
+Tuscola,"Almer Charter Township, Precinct 1",Trustee for Almer Charter Township,,REP,Write-In,4
+Tuscola,"Arbela Township, Precinct 1",Trustee for Arbela Township,,DEM,Write-In,22
+Tuscola,"Arbela Township, Precinct 2",Trustee for Arbela Township,,DEM,Write-In,28
+Tuscola,"Arbela Township, Precinct 1",Trustee for Arbela Township,,REP,Gary Woelzlein,158
+Tuscola,"Arbela Township, Precinct 1",Trustee for Arbela Township,,REP,Timothy M. Anderson,138
+Tuscola,"Arbela Township, Precinct 2",Trustee for Arbela Township,,REP,Gary Woelzlein,104
+Tuscola,"Arbela Township, Precinct 2",Trustee for Arbela Township,,REP,Timothy M. Anderson,99
+Tuscola,"Columbia Township, Precinct 1",Trustee for Columbia Township,,DEM,Write-In,4
+Tuscola,"Columbia Township, Precinct 1",Trustee for Columbia Township,,REP,Dara Hood,185
+Tuscola,"Columbia Township, Precinct 1",Trustee for Columbia Township,,REP,Write-In,11
+Tuscola,"Dayton Township, Precinct 1",Trustee for Dayton Township,,DEM,Write-In,25
+Tuscola,"Dayton Township, Precinct 1",Trustee for Dayton Township,,REP,Greg Lottes,207
+Tuscola,"Dayton Township, Precinct 1",Trustee for Dayton Township,,REP,Robert W. Steele,230
+Tuscola,"Denmark Township, Precinct 1",Trustee for Denmark Township,,DEM,Write-In,13
+Tuscola,"Denmark Township, Precinct 1",Trustee for Denmark Township,,REP,Arnold F. Krumauer,336
+Tuscola,"Denmark Township, Precinct 1",Trustee for Denmark Township,,REP,Steve Schwab,360
+Tuscola,"Elkland Township, Precinct 1",Trustee for Elkland Township,,DEM,Write-In,9
+Tuscola,"Elkland Township, Precinct 2",Trustee for Elkland Township,,DEM,Write-In,4
+Tuscola,"Elkland Township, Precinct 1",Trustee for Elkland Township,,REP,Steve Wright,152
+Tuscola,"Elkland Township, Precinct 1",Trustee for Elkland Township,,REP,Tavis B. Osentoski,147
+Tuscola,"Elkland Township, Precinct 2",Trustee for Elkland Township,,REP,Steve Wright,258
+Tuscola,"Elkland Township, Precinct 2",Trustee for Elkland Township,,REP,Tavis B. Osentoski,232
+Tuscola,"Elkland Township, Precinct 2",Trustee for Elkland Township,,REP,Write-In,1
+Tuscola,"Ellington Township, Precinct 1",Trustee for Ellington Township,,DEM,Write-In,9
+Tuscola,"Ellington Township, Precinct 1",Trustee for Ellington Township,,REP,Gregg Scott Campbell,224
+Tuscola,"Ellington Township, Precinct 1",Trustee for Ellington Township,,REP,Laura M. Boyke-Hawes,180
+Tuscola,"Ellington Township, Precinct 1",Trustee for Ellington Township,,REP,Write-In,1
+Tuscola,"Elmwood Township, Precinct 1",Trustee for Elmwood Township,,REP,Joan A. Sattelberg,146
+Tuscola,"Elmwood Township, Precinct 1",Trustee for Elmwood Township,,REP,Nicholas Bliss,133
+Tuscola,"Elmwood Township, Precinct 1",Trustee for Elmwood Township,,REP,Write-In,2
+Tuscola,"Fairgrove Township, Precinct 1",Trustee for Fairgrove Township,,DEM,Michael W. Day,88
+Tuscola,"Fairgrove Township, Precinct 1",Trustee for Fairgrove Township,,DEM,Write-In,1
+Tuscola,"Fairgrove Township, Precinct 1",Trustee for Fairgrove Township,,REP,Dennis J. Hadeway,168
+Tuscola,"Fairgrove Township, Precinct 1",Trustee for Fairgrove Township,,REP,Justin G. Edwards,138
+Tuscola,"Fremont Township, Precinct 1",Trustee for Fremont Township,,DEM,John Welke,204
+Tuscola,"Fremont Township, Precinct 1",Trustee for Fremont Township,,DEM,Write-In,1
+Tuscola,"Fremont Township, Precinct 1",Trustee for Fremont Township,,REP,Kyle R. Thom,261
+Tuscola,"Fremont Township, Precinct 1",Trustee for Fremont Township,,REP,Ronald J. Curell,394
+Tuscola,"Fremont Township, Precinct 1",Trustee for Fremont Township,,REP,Write-In,1
+Tuscola,"Gilford Township, Precinct 1",Trustee for Gilford Township,,DEM,Write-In,8
+Tuscola,"Gilford Township, Precinct 1",Trustee for Gilford Township,,REP,Amanda R. Goss,99
+Tuscola,"Gilford Township, Precinct 1",Trustee for Gilford Township,,REP,Kent A. Houghtaling,85
+Tuscola,"Indianfields Township, Precinct 1",Trustee for Indianfields Township,,DEM,Write-In,19
+Tuscola,"Indianfields Township, Precinct 1",Trustee for Indianfields Township,,REP,John Sauber,666
+Tuscola,"Indianfields Township, Precinct 1",Trustee for Indianfields Township,,REP,Kristopher Osborn,183
+Tuscola,"Indianfields Township, Precinct 1",Trustee for Indianfields Township,,REP,Overvotes,293
+Tuscola,"Indianfields Township, Precinct 1",Trustee for Indianfields Township,,REP,Ron Woloshen,2
+Tuscola,"Indianfields Township, Precinct 1",Trustee for Indianfields Township,,REP,Undervotes,190
+Tuscola,"Juniata Township, Precinct 1",Trustee for Juniata Township,,DEM,Write-In,22
+Tuscola,"Kingston Township, Precinct 1",Trustee for Kingston Township,,DEM,Write-In,6
+Tuscola,"Kingston Township, Precinct 1",Trustee for Kingston Township,,REP,Gary S. King,147
+Tuscola,"Kingston Township, Precinct 1",Trustee for Kingston Township,,REP,Timothy Ruggles,188
+Tuscola,"Kingston Township, Precinct 1",Trustee for Kingston Township,,REP,Write-In,1
+Tuscola,"Koylton Township, Precinct 1",Trustee for Koylton Township,,DEM,Write-In,3
+Tuscola,"Koylton Township, Precinct 1",Trustee for Koylton Township,,REP,Justin Boyl,206
+Tuscola,"Koylton Township, Precinct 1",Trustee for Koylton Township,,REP,Lawrence E. Sabin,171
+Tuscola,"Koylton Township, Precinct 1",Trustee for Koylton Township,,REP,Write-In,3
+Tuscola,"Millington Township, Precinct 1",Trustee for Millington Township,,DEM,Tracey Hook,98
+Tuscola,"Millington Township, Precinct 1",Trustee for Millington Township,,DEM,Write-In,4
+Tuscola,"Millington Township, Precinct 2",Trustee for Millington Township,,DEM,Tracey Hook,97
+Tuscola,"Millington Township, Precinct 1",Trustee for Millington Township,,REP,Allen Green,169
+Tuscola,"Millington Township, Precinct 1",Trustee for Millington Township,,REP,Bob Worth,161
+Tuscola,"Millington Township, Precinct 1",Trustee for Millington Township,,REP,Edwyn R. Maschke,88
+Tuscola,"Millington Township, Precinct 1",Trustee for Millington Township,,REP,Luanne Jaruzel,218
+Tuscola,"Millington Township, Precinct 1",Trustee for Millington Township,,REP,Write-In,1
+Tuscola,"Millington Township, Precinct 2",Trustee for Millington Township,,REP,Allen Green,155
+Tuscola,"Millington Township, Precinct 2",Trustee for Millington Township,,REP,Bob Worth,132
+Tuscola,"Millington Township, Precinct 2",Trustee for Millington Township,,REP,Edwyn R. Maschke,79
+Tuscola,"Millington Township, Precinct 2",Trustee for Millington Township,,REP,Luanne Jaruzel,210
+Tuscola,"Novesta Township, Precinct 1",Trustee for Novesta Township,,DEM,Write-In,6
+Tuscola,"Novesta Township, Precinct 1",Trustee for Novesta Township,,REP,Write-In,8
+Tuscola,"Tuscola Township, Precinct 1",Trustee for Tuscola Township,,REP,Jim Rodammer,262
+Tuscola,"Tuscola Township, Precinct 1",Trustee for Tuscola Township,,REP,Sarah Barber,240
+Tuscola,"Vassar Township, Precinct 1",Trustee for Vassar Township,,DEM,Sam Tester,111
+Tuscola,"Vassar Township, Precinct 1",Trustee for Vassar Township,,DEM,Thomas H. Borcherding,125
+Tuscola,"Vassar Township, Precinct 1",Trustee for Vassar Township,,DEM,Write-In,1
+Tuscola,"Vassar Township, Precinct 1",Trustee for Vassar Township,,REP,Write-In,18
+Tuscola,"Watertown Township, Precinct 1",Trustee for Watertown Township,,DEM,Write-In,32
+Tuscola,"Watertown Township, Precinct 1",Trustee for Watertown Township,,REP,Boyd Vollweiler,188
+Tuscola,"Watertown Township, Precinct 1",Trustee for Watertown Township,,REP,Jamie Thatcher,271
+Tuscola,"Watertown Township, Precinct 1",Trustee for Watertown Township,,REP,Write-In,2
+Tuscola,"Wells Township, Precinct 1",Trustee for Wells Township,,DEM,Write-In,11
+Tuscola,"Wells Township, Precinct 1",Trustee for Wells Township,,REP,Albert W. Pearsall III,242
+Tuscola,"Wells Township, Precinct 1",Trustee for Wells Township,,REP,Write-In,5
+Tuscola,"Wisner Township, Precinct 1",Trustee for Wisner Township,,DEM,Bradley Barnes,49
+Tuscola,"Wisner Township, Precinct 1",Trustee for Wisner Township,,REP,Lisa Valentine,92
+Tuscola,"Akron Township, Precinct 1","Akron Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,5
+Tuscola,"Akron Township, Precinct 1","Akron Township, Precinct 1 Delegate to County Convention",,REP,Write-In,10
+Tuscola,"Almer Charter Township, Precinct 1","Almer Charter Township, Precinct 1 Delegate to County Convention",,DEM,Deborah S. Parker,104
+Tuscola,"Almer Charter Township, Precinct 1","Almer Charter Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,2
+Tuscola,"Almer Charter Township, Precinct 1","Almer Charter Township, Precinct 1 Delegate to County Convention",,REP,Mitchell Davies,286
+Tuscola,"Almer Charter Township, Precinct 1","Almer Charter Township, Precinct 1 Delegate to County Convention",,REP,Write-In,6
+Tuscola,"Arbela Township, Precinct 1","Arbela Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,24
+Tuscola,"Arbela Township, Precinct 1","Arbela Township, Precinct 1 Delegate to County Convention",,REP,Write-In,13
+Tuscola,"Arbela Township, Precinct 2","Arbela Township, Precinct 2 Delegate to County Convention",,DEM,Kelly James Raleigh,90
+Tuscola,"Arbela Township, Precinct 2","Arbela Township, Precinct 2 Delegate to County Convention",,DEM,Write-In,8
+Tuscola,"Arbela Township, Precinct 2","Arbela Township, Precinct 2 Delegate to County Convention",,REP,Joseph B. White,142
+Tuscola,"City of Caro, Precinct 1","City of Caro, Precinct 1 Delegate to County Convention",,DEM,Write-In,46
+Tuscola,"City of Caro, Precinct 2","City of Caro, Precinct 2 Delegate to County Convention",,DEM,Mark Putnam,89
+Tuscola,"City of Caro, Precinct 2","City of Caro, Precinct 2 Delegate to County Convention",,DEM,Write-In,1
+Tuscola,"City of Caro, Precinct 2","City of Caro, Precinct 2 Delegate to County Convention",,REP,Write-In,11
+Tuscola,"Columbia Township, Precinct 1","Columbia Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,4
+Tuscola,"Columbia Township, Precinct 1","Columbia Township, Precinct 1 Delegate to County Convention",,REP,Write-In,15
+Tuscola,"Dayton Township, Precinct 1","Dayton Township, Precinct 1 Delegate to County Convention",,DEM,Sue Kirby,90
+Tuscola,"Dayton Township, Precinct 1","Dayton Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,2
+Tuscola,"Dayton Township, Precinct 1","Dayton Township, Precinct 1 Delegate to County Convention",,REP,Write-In,16
+Tuscola,"Denmark Township, Precinct 1","Denmark Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,23
+Tuscola,"Denmark Township, Precinct 1","Denmark Township, Precinct 1 Delegate to County Convention",,REP,Write-In,15
+Tuscola,"Elkland Township, Precinct 1","Elkland Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,8
+Tuscola,"Elkland Township, Precinct 1","Elkland Township, Precinct 1 Delegate to County Convention",,REP,Write-In,6
+Tuscola,"Elkland Township, Precinct 2","Elkland Township, Precinct 2 Delegate to County Convention",,DEM,Write-In,9
+Tuscola,"Elkland Township, Precinct 2","Elkland Township, Precinct 2 Delegate to County Convention",,REP,Write-In,9
+Tuscola,"Ellington Township, Precinct 1","Ellington Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,11
+Tuscola,"Ellington Township, Precinct 1","Ellington Township, Precinct 1 Delegate to County Convention",,REP,Write-In,8
+Tuscola,"Elmwood Township, Precinct 1","Elmwood Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,9
+Tuscola,"Elmwood Township, Precinct 1","Elmwood Township, Precinct 1 Delegate to County Convention",,REP,Write-In,14
+Tuscola,"Fairgrove Township, Precinct 1","Fairgrove Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,10
+Tuscola,"Fairgrove Township, Precinct 1","Fairgrove Township, Precinct 1 Delegate to County Convention",,REP,Write-In,6
+Tuscola,"Fremont Township, Precinct 1","Fremont Township, Precinct 1 Delegate to County Convention",,REP,David Wayne Vaughan,288
+Tuscola,"Fremont Township, Precinct 1","Fremont Township, Precinct 1 Delegate to County Convention",,REP,Roy L. Harris,321
+Tuscola,"Gilford Township, Precinct 1","Gilford Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,9
+Tuscola,"Gilford Township, Precinct 1","Gilford Township, Precinct 1 Delegate to County Convention",,REP,Write-In,12
+Tuscola,"Indianfields Township, Precinct 1","Indianfields Township, Precinct 1 Delegate to County Convention",,DEM,Charles W. Stockwell,148
+Tuscola,"Indianfields Township, Precinct 1","Indianfields Township, Precinct 1 Delegate to County Convention",,REP,John Kubik,360
+Tuscola,"Indianfields Township, Precinct 1","Indianfields Township, Precinct 1 Delegate to County Convention",,REP,Write-In,1
+Tuscola,"Juniata Township, Precinct 1","Juniata Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,22
+Tuscola,"Juniata Township, Precinct 1","Juniata Township, Precinct 1 Delegate to County Convention",,REP,Melvin Dean Campbell,189
+Tuscola,"Juniata Township, Precinct 1","Juniata Township, Precinct 1 Delegate to County Convention",,REP,Robert Harrison (W),3
+Tuscola,"Juniata Township, Precinct 1","Juniata Township, Precinct 1 Delegate to County Convention",,REP,Susan Campbell,183
+Tuscola,"Juniata Township, Precinct 1","Juniata Township, Precinct 1 Delegate to County Convention",,REP,Write-In,5
+Tuscola,"Kingston Township, Precinct 1","Kingston Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,8
+Tuscola,"Kingston Township, Precinct 1","Kingston Township, Precinct 1 Delegate to County Convention",,REP,Write-In,7
+Tuscola,"Koylton Township, Precinct 1","Koylton Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,6
+Tuscola,"Koylton Township, Precinct 1","Koylton Township, Precinct 1 Delegate to County Convention",,REP,Write-In,21
+Tuscola,"Millington Township, Precinct 1","Millington Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,12
+Tuscola,"Millington Township, Precinct 1","Millington Township, Precinct 1 Delegate to County Convention",,REP,Write-In,11
+Tuscola,"Millington Township, Precinct 2","Millington Township, Precinct 2 Delegate to County Convention",,DEM,Write-In,10
+Tuscola,"Millington Township, Precinct 2","Millington Township, Precinct 2 Delegate to County Convention",,REP,Write-In,17
+Tuscola,"Novesta Township, Precinct 1","Novesta Township, Precinct 1 Delegate to County Convention",,DEM,Robert Burleson,54
+Tuscola,"Novesta Township, Precinct 1","Novesta Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,1
+Tuscola,"Novesta Township, Precinct 1","Novesta Township, Precinct 1 Delegate to County Convention",,REP,Write-In,4
+Tuscola,"Tuscola Township, Precinct 1","Tuscola Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,23
+Tuscola,"Tuscola Township, Precinct 1","Tuscola Township, Precinct 1 Delegate to County Convention",,REP,Robert W. McKay,305
+Tuscola,"Tuscola Township, Precinct 1","Tuscola Township, Precinct 1 Delegate to County Convention",,REP,Write-In,3
+Tuscola,"City of Vassar, Precinct 1","City of Vassar, Precinct 1 Delegate to County Convention",,DEM,William J. Shoot,154
+Tuscola,"City of Vassar, Precinct 1","City of Vassar, Precinct 1 Delegate to County Convention",,DEM,Write-In,2
+Tuscola,"City of Vassar, Precinct 1","City of Vassar, Precinct 1 Delegate to County Convention",,REP,Kevin Bohunsky,233
+Tuscola,"City of Vassar, Precinct 1","City of Vassar, Precinct 1 Delegate to County Convention",,REP,Write-In,6
+Tuscola,"Vassar Township, Precinct 1","Vassar Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,38
+Tuscola,"Vassar Township, Precinct 1","Vassar Township, Precinct 1 Delegate to County Convention",,REP,Linda Slocum,238
+Tuscola,"Vassar Township, Precinct 1","Vassar Township, Precinct 1 Delegate to County Convention",,REP,Matthew Bierlein,303
+Tuscola,"Vassar Township, Precinct 1","Vassar Township, Precinct 1 Delegate to County Convention",,REP,Michael Clinesmith,158
+Tuscola,"Vassar Township, Precinct 1","Vassar Township, Precinct 1 Delegate to County Convention",,REP,Michael Slocum,243
+Tuscola,"Vassar Township, Precinct 1","Vassar Township, Precinct 1 Delegate to County Convention",,REP,Mindy Bierlein,275
+Tuscola,"Vassar Township, Precinct 1","Vassar Township, Precinct 1 Delegate to County Convention",,REP,Oanna Clinesmith,143
+Tuscola,"Vassar Township, Precinct 1","Vassar Township, Precinct 1 Delegate to County Convention",,REP,Write-In,10
+Tuscola,"Watertown Township, Precinct 1","Watertown Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,46
+Tuscola,"Watertown Township, Precinct 1","Watertown Township, Precinct 1 Delegate to County Convention",,REP,Write-In,7
+Tuscola,"Wells Township, Precinct 1","Wells Township, Precinct 1 Delegate to County Convention",,DEM,Beverly Read,73
+Tuscola,"Wells Township, Precinct 1","Wells Township, Precinct 1 Delegate to County Convention",,DEM,James Read,69
+Tuscola,"Wells Township, Precinct 1","Wells Township, Precinct 1 Delegate to County Convention",,DEM,Wayne Koper,82
+Tuscola,"Wells Township, Precinct 1","Wells Township, Precinct 1 Delegate to County Convention",,REP,John B. Johnson,241
+Tuscola,"Wells Township, Precinct 1","Wells Township, Precinct 1 Delegate to County Convention",,REP,Write-In,5
+Tuscola,"Wisner Township, Precinct 1","Wisner Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,5
+Tuscola,"Wisner Township, Precinct 1","Wisner Township, Precinct 1 Delegate to County Convention",,REP,Write-In,4
+Tuscola,"Akron Township, Precinct 1",County Proposal,,,No,36
+Tuscola,"Akron Township, Precinct 1",County Proposal,,,Yes,293
+Tuscola,"Almer Charter Township, Precinct 1",County Proposal,,,No,96
+Tuscola,"Almer Charter Township, Precinct 1",County Proposal,,,Yes,487
+Tuscola,"Arbela Township, Precinct 1",County Proposal,,,No,32
+Tuscola,"Arbela Township, Precinct 1",County Proposal,,,Yes,293
+Tuscola,"Arbela Township, Precinct 2",County Proposal,,,No,35
+Tuscola,"Arbela Township, Precinct 2",County Proposal,,,Yes,235
+Tuscola,"City of Caro, Precinct 1",County Proposal,,,No,80
+Tuscola,"City of Caro, Precinct 1",County Proposal,,,Yes,508
+Tuscola,"City of Caro, Precinct 2",County Proposal,,,No,38
+Tuscola,"City of Caro, Precinct 2",County Proposal,,,Yes,273
+Tuscola,"Columbia Township, Precinct 1",County Proposal,,,No,33
+Tuscola,"Columbia Township, Precinct 1",County Proposal,,,Yes,292
+Tuscola,"Dayton Township, Precinct 1",County Proposal,,,No,66
+Tuscola,"Dayton Township, Precinct 1",County Proposal,,,Yes,378
+Tuscola,"Denmark Township, Precinct 1",County Proposal,,,No,114
+Tuscola,"Denmark Township, Precinct 1",County Proposal,,,Yes,584
+Tuscola,"Elkland Township, Precinct 1",County Proposal,,,No,42
+Tuscola,"Elkland Township, Precinct 1",County Proposal,,,Yes,264
+Tuscola,"Elkland Township, Precinct 2",County Proposal,,,No,62
+Tuscola,"Elkland Township, Precinct 2",County Proposal,,,Yes,404
+Tuscola,"Ellington Township, Precinct 1",County Proposal,,,No,60
+Tuscola,"Ellington Township, Precinct 1",County Proposal,,,Yes,317
+Tuscola,"Elmwood Township, Precinct 1",County Proposal,,,No,47
+Tuscola,"Elmwood Township, Precinct 1",County Proposal,,,Yes,207
+Tuscola,"Fairgrove Township, Precinct 1",County Proposal,,,No,42
+Tuscola,"Fairgrove Township, Precinct 1",County Proposal,,,Yes,234
+Tuscola,"Fremont Township, Precinct 1",County Proposal,,,No,121
+Tuscola,"Fremont Township, Precinct 1",County Proposal,,,Yes,524
+Tuscola,"Gilford Township, Precinct 1",County Proposal,,,No,24
+Tuscola,"Gilford Township, Precinct 1",County Proposal,,,Yes,136
+Tuscola,"Indianfields Township, Precinct 1",County Proposal,,,No,97
+Tuscola,"Indianfields Township, Precinct 1",County Proposal,,,Yes,574
+Tuscola,"Juniata Township, Precinct 1",County Proposal,,,No,93
+Tuscola,"Juniata Township, Precinct 1",County Proposal,,,Yes,305
+Tuscola,"Kingston Township, Precinct 1",County Proposal,,,No,78
+Tuscola,"Kingston Township, Precinct 1",County Proposal,,,Yes,214
+Tuscola,"Koylton Township, Precinct 1",County Proposal,,,No,60
+Tuscola,"Koylton Township, Precinct 1",County Proposal,,,Yes,263
+Tuscola,"Millington Township, Precinct 1",County Proposal,,,No,70
+Tuscola,"Millington Township, Precinct 1",County Proposal,,,Yes,458
+Tuscola,"Millington Township, Precinct 2",County Proposal,,,No,53
+Tuscola,"Millington Township, Precinct 2",County Proposal,,,Yes,407
+Tuscola,"Novesta Township, Precinct 1",County Proposal,,,No,50
+Tuscola,"Novesta Township, Precinct 1",County Proposal,,,Yes,265
+Tuscola,"Tuscola Township, Precinct 1",County Proposal,,,No,43
+Tuscola,"Tuscola Township, Precinct 1",County Proposal,,,Yes,391
+Tuscola,"City of Vassar, Precinct 1",County Proposal,,,No,38
+Tuscola,"City of Vassar, Precinct 1",County Proposal,,,Yes,354
+Tuscola,"Vassar Township, Precinct 1",County Proposal,,,No,90
+Tuscola,"Vassar Township, Precinct 1",County Proposal,,,Yes,490
+Tuscola,"Watertown Township, Precinct 1",County Proposal,,,No,55
+Tuscola,"Watertown Township, Precinct 1",County Proposal,,,Yes,417
+Tuscola,"Wells Township, Precinct 1",County Proposal,,,No,69
+Tuscola,"Wells Township, Precinct 1",County Proposal,,,Yes,297
+Tuscola,"Wisner Township, Precinct 1",County Proposal,,,No,17
+Tuscola,"Wisner Township, Precinct 1",County Proposal,,,Yes,121
+Tuscola,"Akron Township, Precinct 1",Township Proposal for Akron Township,,,No,67
+Tuscola,"Akron Township, Precinct 1",Township Proposal for Akron Township,,,Yes,262
+Tuscola,"Almer Charter Township, Precinct 1",Township Proposal for Almer Charter Township,,,No,139
+Tuscola,"Almer Charter Township, Precinct 1",Township Proposal for Almer Charter Township,,,Yes,441
+Tuscola,"Columbia Township, Precinct 1",Township Proposal for Columbia Township,,,No,79
+Tuscola,"Columbia Township, Precinct 1",Township Proposal for Columbia Township,,,Yes,245
+Tuscola,"Denmark Township, Precinct 1",Township Proposal for Denmark Township,,,No,325
+Tuscola,"Denmark Township, Precinct 1",Township Proposal for Denmark Township,,,Yes,368
+Tuscola,"Elkland Township, Precinct 1",Township Proposal for Elkland Township,,,No,31
+Tuscola,"Elkland Township, Precinct 1",Township Proposal for Elkland Township,,,Yes,273
+Tuscola,"Elkland Township, Precinct 2",Township Proposal for Elkland Township,,,No,54
+Tuscola,"Elkland Township, Precinct 2",Township Proposal for Elkland Township,,,Yes,409
+Tuscola,"Indianfields Township, Precinct 1",Township Proposal for Indianfields Township,,,No,172
+Tuscola,"Indianfields Township, Precinct 1",Township Proposal for Indianfields Township,,,Yes,478
+Tuscola,"Koylton Township, Precinct 1",Township Proposal for Koylton Township,,,No,78
+Tuscola,"Koylton Township, Precinct 1",Township Proposal for Koylton Township,,,Yes,245
+Tuscola,"Akron Township, Precinct 1",School District Proposal for Unionville-Sebewaing Area School District,,,No,70
+Tuscola,"Akron Township, Precinct 1",School District Proposal for Unionville-Sebewaing Area School District,,,Yes,165
+Tuscola,"Columbia Township, Precinct 1",School District Proposal for Unionville-Sebewaing Area School District,,,No,99
+Tuscola,"Columbia Township, Precinct 1",School District Proposal for Unionville-Sebewaing Area School District,,,Yes,198
+Tuscola,"Wisner Township, Precinct 1",School District Proposal for Unionville-Sebewaing Area School District,,,No,28
+Tuscola,"Wisner Township, Precinct 1",School District Proposal for Unionville-Sebewaing Area School District,,,Yes,46
+Tuscola,"Almer Charter Township, Precinct 1",District Library Proposal for Caro Area District Library,,,No,121
+Tuscola,"Almer Charter Township, Precinct 1",District Library Proposal for Caro Area District Library,,,Yes,414
+Tuscola,"City of Caro, Precinct 1",District Library Proposal for Caro Area District Library,,,No,80
+Tuscola,"City of Caro, Precinct 1",District Library Proposal for Caro Area District Library,,,Yes,510
+Tuscola,"City of Caro, Precinct 2",District Library Proposal for Caro Area District Library,,,No,55
+Tuscola,"City of Caro, Precinct 2",District Library Proposal for Caro Area District Library,,,Yes,257
+Tuscola,"Ellington Township, Precinct 1",District Library Proposal for Caro Area District Library,,,No,86
+Tuscola,"Ellington Township, Precinct 1",District Library Proposal for Caro Area District Library,,,Yes,250
+Tuscola,"Indianfields Township, Precinct 1",District Library Proposal for Caro Area District Library,,,No,158
+Tuscola,"Indianfields Township, Precinct 1",District Library Proposal for Caro Area District Library,,,Yes,514
+Tuscola,"Juniata Township, Precinct 1",District Library Proposal for Caro Area District Library,,,No,69
+Tuscola,"Juniata Township, Precinct 1",District Library Proposal for Caro Area District Library,,,Yes,153
+Tuscola,"Wells Township, Precinct 1",District Library Proposal for Caro Area District Library,,,No,57
+Tuscola,"Wells Township, Precinct 1",District Library Proposal for Caro Area District Library,,,Yes,153
