@@ -230,6 +230,75 @@ COUNTY_CONFIG = {
         },
         'manual': {},
     },
+    # Image-only 206-page SOVC (PaddleOCR); separate aux + results tables
+    # per contest page (Oscoda 2024 style), 19 single/multi-precinct
+    # jurisdictions. Titles abbreviate "Rep in ..." and repeat the party
+    # tag after (Vote for N).
+    'Iosco': {
+        'cache': 'Iosco_County_Aug_2020_Primary_Statement_of_Votes',
+        'pages': 206,
+        'out': '2020/counties/20200804__mi__primary__iosco__precinct.csv',
+        'precincts': [
+            'Alabaster Township, Precinct 1', 'AuSable Township, Precinct 1',
+            'Baldwin Township, Precinct 1', 'Burleigh Township, Precinct 1',
+            'Grant Township, Precinct 1', 'Oscoda Township, Precinct 1',
+            'Oscoda Township, Precinct 2', 'Oscoda Township, Precinct 3',
+            'Oscoda Township, Precinct 4', 'Plainfield Township, Precinct 1',
+            'Plainfield Township, Precinct 2', 'Reno Township, Precinct 1',
+            'Sherman Township, Precinct 1', 'Tawas Township, Precinct 1',
+            'Wilber Township, Precinct 1', 'City of East Tawas, Precinct 1',
+            'City of Tawas City, Precinct 1', 'City of Whittemore, '
+            'Precinct 1',
+        ],
+        'title_sub': [
+            (r'^(.+), Precinct (\d+) Delegate$',
+             r'\1 Precinct \2 Delegate to County Convention'),
+        ],
+        # The footer's county name OCRs as "losco" on most pages.
+        'precinct_fixes': {
+            'losco county michigan': 'iosco county michigan',
+            # p122's aux row: 'Burleigh To  nship, Prec  nct 1' (the LaTeX
+            # \text{w}/\text{i} fragments flatten away)
+            'tonshipprecnct': 'townshipprecinct',
+        },
+        # p092: the results footer's Unresolved Write-In prints "24"
+        # (County - Total and the precinct sum agree; render-verified);
+        # the OCR reads the Total row as "241".
+        'footer_overrides': {
+            92: {'results:unresolved': 24},
+        },
+        # p130: OCR shifted the Unresolved Write-In column up one precinct
+        # (P1 prints 43, read as 28); render-verified.
+        'manual': {
+            130: [
+                ['Oscoda Township Supervisor (REP) (Vote for 1) REP'],
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Iosco County Michigan', '', ''],
+                ['Oscoda Township, Precinct 1', '747', '2,020'],
+                ['Oscoda Township, Precinct 2', '337', '953'],
+                ['Oscoda Township, Precinct 3', '566', '1,534'],
+                ['Oscoda Township, Precinct 4', '471', '1,651'],
+                ['Iosco County Michigan - Total', '2,121', '6,158'],
+                ['Cumulative', '', ''],
+                ['Cumulative', '0', '0'],
+                ['Cumulative - Total', '0', '0'],
+                ['County - Total', '2,121', '6,158'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Iosco County Michigan', '', ''],
+                ['Oscoda Township, Precinct 1', '0', '43'],
+                ['Oscoda Township, Precinct 2', '0', '28'],
+                ['Oscoda Township, Precinct 3', '0', '28'],
+                ['Oscoda Township, Precinct 4', '0', '25'],
+                ['Iosco County Michigan - Total', '0', '124'],
+                ['Cumulative', '', ''],
+                ['Cumulative', '0', '0'],
+                ['Cumulative - Total', '0', '0'],
+                ['County - Total', '0', '124'],
+            ],
+        },
+    },
     # One PDF; flat SOVC like Luce (contest per page section, aux +
     # results tables), nine single-precinct townships.
     'Montmorency': {
@@ -1336,7 +1405,8 @@ TITLE = re.compile(r'^(.*?) \((DEM|REP|LIB|UST|GRN|NLP)\) \((Vote for [\d.]+)\)'
                    r'(?: (DEM|REP|LIB|UST|GRN|NLP))?$')
 PROPOSAL = re.compile(r'^(.*?) \((Vote for [\d.]+)\)$')
 DISTRICT = re.compile(r'^(Representative in Congress|'
-                      r'Representative in State Legislature) '
+                      r'Representative in State Legislature|'
+                      r'Rep in Congress|Rep in State Legislature) '
                       r'(\d+)(?:st|nd|rd|th) District$')
 COMMISSIONER = re.compile(r'^County Commissioner (?:District )?'
                           r'(\d+)(?:st|nd|rd|th)? District$')
@@ -1974,7 +2044,16 @@ def parse_county(county, cfg, problems):
                         # OCR can garble to the cumulative total's.
                         kk = 'aux' if r in ('times_cast',
                                             'registered_voters') else 'results'
-                        cur['county_totals'].setdefault(f'{kk}:{r}', v)
+                        key = f'{kk}:{r}'
+                        # A footer value the OCR garbled beyond repair
+                        # (hand-verified against the page image) is forced
+                        # here instead of sticking via first-footer-wins.
+                        override = cfg.get('footer_overrides', {}) \
+                            .get(no, {}).get(key)
+                        if override is not None:
+                            cur['county_totals'][key] = override
+                        else:
+                            cur['county_totals'].setdefault(key, v)
                 if kind == 'aux' and not any(
                         r not in (None, 'precinct', 'times_cast',
                                   'registered_voters') for r in roles):
