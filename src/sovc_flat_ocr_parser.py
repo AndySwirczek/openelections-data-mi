@@ -32,6 +32,31 @@ CACHE = '/tmp/paddleocr_md'
 HEADER = ['county', 'precinct', 'office', 'district', 'party', 'candidate',
           'votes']
 
+# Montmorency 2020: every countywide contest reprints the same
+# Times Cast / Registered Voters table; manualized pages copy it.
+_MONT_AUX9 = [
+    ['Precinct', 'Times Cast', 'Registered Voters'],
+    ['County', '', ''],
+    ['Montmorency County Michigan', '', ''],
+    ['Albert Township, Precinct 1', '903', '2,170'],
+    ['Avery Township, Precinct 1', '210', '569'],
+    ['Briley Township, Precinct 1', '644', '1,715'],
+    ['Hillman Township, Precinct 1', '659', '1,637'],
+    ['Loud Township, Precinct 1', '107', '243'],
+    ['Montmorency Township, Precinct 1', '257', '530'],
+    ['Montmorency Township, Precinct 2', '231', '441'],
+    ['Rust Township, Precinct 1', '183', '422'],
+    ['Vienna Township, Precinct 1', '208', '476'],
+    ['Montmorency County Michigan - Total', '3,402', '8,203'],
+    ['County - Total', '3,402', '8,203'],
+]
+
+
+def mont_aux9():
+    """Fresh copy of the countywide aux table (manual rows are consumed)."""
+    return [row[:] for row in _MONT_AUX9]
+
+
 COUNTY_CONFIG = {
     'Oscoda': {
         'cache': 'Oscoda_County_August_Election_Results',
@@ -2638,6 +2663,896 @@ COUNTY_CONFIG = {
         },
         'drop_lines': {},
     },
+    'Montmorency 2020': {
+        'county_name': 'Montmorency',
+        'cache': 'Montmorency_MI_Aug_2020_Election_Results',
+        'pages': 188,
+        'out': '2020/counties/20200804__mi__primary__montmorency__precinct.csv',
+        # One contest per page; OCR prints the title AFTER its table
+        # (page stamps first), so hoist matched titles to the front.
+        'titles_first': True,
+        'title_sub': [
+            # OCR prints 'Delegates to' / 'Delegate to' / 'Delegated to'.
+            (r'^Delega(?:tes?|ted) to (?:the )?County Convention for (.+)$',
+             r'\1 Delegate to County Convention'),
+            (r'^County rosecuting Attorney', r'County Prosecuting Attorney'),
+            (r'^County Oneriff', r'County Sheriff'),
+            (r'^County treasurer', r'County Treasurer'),
+            ('Townsnip', 'Township'),
+            # 'County Commissioner for County Commissioner District 3'
+            # must become 'County Commissioner 3 District' for the
+            # parser's COMMISSIONER rule to set the district column.
+            (r'^County Commissioner for County Commissioner District '
+             r'(\d+)$', r'County Commissioner \g<1> District'),
+            # Federal/state titles carry a ' for State' suffix that
+            # blocks the DISTRICT mapping ('U.S. House'/'State House'),
+            # and county proposal titles repeat the county name.
+            (r' for State$', ''),
+            (r' for Montmorency County, Montmorency County Michigan$', ''),
+            ('Porposal', 'Proposal'),
+        ],
+        # p116 OCR truncated the double-n name: rendered image reads
+        # 'Debra Villenneuve'.
+        'cand_fixes': {'Debra Villeneuv': 'Debra Villenneuve'},
+        'page_titles': {
+            9: 'Representative in Congress 1st District for State '
+               '(DEM) (Vote for 1) DEM',
+            30: 'Township Clerk for Albert Township (DEM) (Vote for 1) DEM',
+            32: 'Township Clerk for Briley Township (DEM) (Vote for 1) DEM',
+            43: 'Township Treasurer for Montmorency Township (DEM) '
+                '(Vote for 1) DEM',
+            47: 'Township Trustee for Avery Township (DEM) (Vote for 2) DEM',
+            65: 'Representative in State Legislature 105th District for '
+                'State (REP) (Vote for 1) REP',
+            144: 'Hillman Township Millage For Fire Department Operation '
+                 'And Equipment (Vote for 1)',
+            154: 'Vienna Township Millage Renewal For Emergency Medical '
+                 'Service (Vote for 1)',
+            # Manualized pages carry no OCR title; inject the render- or
+            # stream-verified title so the contest opens on this page.
+            12: 'County Prosecuting Attorney for Montmorency County '
+                '(DEM) (Vote for 1) DEM',
+            13: 'County Sheriff for Montmorency County (DEM) '
+                '(Vote for 1) DEM',
+            14: 'County Clerk for Montmorency County (DEM) '
+                '(Vote for 1) DEM',
+            15: 'County Treasurer for Montmorency County (DEM) '
+                '(Vote for 1) DEM',
+            16: 'County Register of Deeds for Montmorency County (DEM) '
+                '(Vote for 1) DEM',
+            18: 'County Commissioner for County Commissioner District 1 '
+                '(DEM) (Vote for 1) DEM',
+            23: 'Township Supervisor for Albert Township (DEM) '
+                '(Vote for 1) DEM',
+            27: 'Township Supervisor for Montmorency Township (DEM) '
+                '(Vote for 1) DEM',
+            36: 'Township Clerk for Rust Township (DEM) (Vote for 1) DEM',
+            41: 'Township Treasurer for Hillman Township (DEM) '
+                '(Vote for 1) DEM',
+            49: 'Township Trustee for Hillman Township (DEM) '
+                '(Vote for 2) DEM',
+            51: 'Township Trustee for Montmorency Township (DEM) '
+                '(Vote for 2) DEM',
+            74: 'County Commissioner for County Commissioner District 1 '
+                '(REP) (Vote for 1) REP',
+            81: 'Township Supervisor for Briley Township (REP) '
+                '(Vote for 1) REP',
+            110: 'Township Trustee for Briley Township (REP) '
+                 '(Vote for 2) REP',
+            115: 'Township Trustee for Montmorency Township (REP) '
+                 '(Vote for 2) REP',
+            119: 'Township Trustee for Vienna Township (REP) '
+                 '(Vote for 2) REP',
+            # p127's OCR title jams the date stamp between the vote-for
+            # group and the party ('... (Vote for 2) 8/6/2020 3:22:29 PM
+            # REP'); inject the clean title and drop the garbled one.
+            127: 'Montmorency Township, Precinct 2 Delegate to County '
+                 'Convention (REP) (Vote for 2) REP',
+            128: 'Rust Township, Precinct 1 Delegate to County '
+                 'Convention (REP) (Vote for 2) REP',
+            # The manualized J-L proposal page carries the countywide
+            # totals of all three member counties in its OCR table; the
+            # manual recomputes Montmorency-only totals, but the OCR
+            # title line is dropped with the rest of the page, so
+            # inject it (else the rows continue the Vienna EMS contest).
+            156: 'Johannesburg-Lewiston Area Schools Bonding Proposal '
+                 '(Vote for 1)',
+            # Manualized 2-up pages: inject their clean OCR titles.
+            20: 'County Commissioner for County Commissioner District 3 '
+                '(DEM) (Vote for 1) DEM',
+            25: 'Township Supervisor for Briley Township (DEM) '
+                '(Vote for 1) DEM',
+            34: 'Township Clerk for Loud Township (DEM) (Vote for 1) DEM',
+            39: 'Township Treasurer for Avery Township (DEM) '
+                '(Vote for 1) DEM',
+            62: 'Vienna Township, Precinct 1 Delegate to County '
+                'Convention (DEM) (Vote for 2) DEM',
+            77: 'County Commissioner for County Commissioner District 4 '
+                '(REP) (Vote for 1) REP',
+            126: 'Montmorency Township, Precinct 1 Delegate to County '
+                 'Convention (REP) (Vote for 2) REP',
+            146: 'Montmorency Township Millage Proposal For Operating '
+                 'Refuse Transfer Sites and Equipment (Vote for 1)',
+        },
+        'drop_lines': {
+            127: ['Delegated to the County Convention'],
+        },
+        'precincts': [
+            'Albert Township, Precinct 1', 'Avery Township, Precinct 1',
+            'Briley Township, Precinct 1', 'Hillman Township, Precinct 1',
+            'Loud Township, Precinct 1', 'Montmorency Township, Precinct 1',
+            'Montmorency Township, Precinct 2', 'Rust Township, Precinct 1',
+            'Vienna Township, Precinct 1',
+        ],
+        'manual': {
+            # OCR split the results header across two rows and garbled
+            # the title ('(Dr.M)'); inject the whole contest.
+            9: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Albert Township, Precinct 1', '903', '2,170'],
+                ['Avery Township, Precinct 1', '210', '569'],
+                ['Briley Township, Precinct 1', '644', '1,715'],
+                ['Hillman Township, Precinct 1', '659', '1,637'],
+                ['Loud Township, Precinct 1', '107', '243'],
+                ['Montmorency Township, Precinct 1', '257', '530'],
+                ['Montmorency Township, Precinct 2', '231', '441'],
+                ['Rust Township, Precinct 1', '183', '422'],
+                ['Vienna Township, Precinct 1', '208', '476'],
+                ['Montmorency County Michigan - Total', '3,402', '8,203'],
+                ['County - Total', '3,402', '8,203'],
+                ['Precinct', 'Dana Ferguson', "Linda O'Dell", 'Total Votes'],
+                ['County', '', '', ''],
+                ['Albert Township, Precinct 1', '107', '60', '167'],
+                ['Avery Township, Precinct 1', '17', '20', '37'],
+                ['Briley Township, Precinct 1', '56', '30', '86'],
+                ['Hillman Township, Precinct 1', '63', '48', '111'],
+                ['Loud Township, Precinct 1', '14', '11', '25'],
+                ['Montmorency Township, Precinct 1', '38', '20', '58'],
+                ['Montmorency Township, Precinct 2', '23', '18', '41'],
+                ['Rust Township, Precinct 1', '10', '8', '18'],
+                ['Vienna Township, Precinct 1', '24', '13', '37'],
+                ['Montmorency County Michigan - Total', '352', '228', '580'],
+                ['County - Total', '352', '228', '580'],
+            ],
+            # Unresolved Write-In column spilled onto its own page.
+            10: [
+                ['Precinct', 'Unresolved Write-In'], ['County', ''],
+                ['Albert Township, Precinct 1', '0'],
+                ['Avery Township, Precinct 1', '0'],
+                ['Briley Township, Precinct 1', '0'],
+                ['Hillman Township, Precinct 1', '0'],
+                ['Loud Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 2', '0'],
+                ['Rust Township, Precinct 1', '1'],
+                ['Vienna Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '1'],
+                ['County - Total', '1'],
+            ],
+            # p012-p016: the DEM county-office results tables collapse to
+            # stacked single cells (zero candidates, so only Total Votes
+            # and Unresolved Write-In). Values from the OCR stream and
+            # page-image reads; each column sums to the printed total.
+            12: [
+                *mont_aux9(),
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Albert Township, Precinct 1', '0', '31'],
+                ['Avery Township, Precinct 1', '0', '6'],
+                ['Briley Township, Precinct 1', '0', '22'],
+                ['Hillman Township, Precinct 1', '0', '27'],
+                ['Loud Township, Precinct 1', '0', '4'],
+                ['Montmorency Township, Precinct 1', '0', '13'],
+                ['Montmorency Township, Precinct 2', '0', '6'],
+                ['Rust Township, Precinct 1', '0', '3'],
+                ['Vienna Township, Precinct 1', '0', '1'],
+                ['Montmorency County Michigan - Total', '0', '113'],
+                ['County - Total', '0', '113'],
+            ],
+            13: [
+                *mont_aux9(),
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Albert Township, Precinct 1', '0', '28'],
+                ['Avery Township, Precinct 1', '0', '5'],
+                ['Briley Township, Precinct 1', '0', '23'],
+                ['Hillman Township, Precinct 1', '0', '27'],
+                ['Loud Township, Precinct 1', '0', '4'],
+                ['Montmorency Township, Precinct 1', '0', '13'],
+                ['Montmorency Township, Precinct 2', '0', '6'],
+                ['Rust Township, Precinct 1', '0', '3'],
+                ['Vienna Township, Precinct 1', '0', '4'],
+                ['Montmorency County Michigan - Total', '0', '113'],
+                ['County - Total', '0', '113'],
+            ],
+            14: [
+                *mont_aux9(),
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Albert Township, Precinct 1', '0', '29'],
+                ['Avery Township, Precinct 1', '0', '5'],
+                ['Briley Township, Precinct 1', '0', '20'],
+                ['Hillman Township, Precinct 1', '0', '27'],
+                ['Loud Township, Precinct 1', '0', '4'],
+                ['Montmorency Township, Precinct 1', '0', '13'],
+                ['Montmorency Township, Precinct 2', '0', '6'],
+                ['Rust Township, Precinct 1', '0', '3'],
+                ['Vienna Township, Precinct 1', '0', '3'],
+                ['Montmorency County Michigan - Total', '0', '110'],
+                ['County - Total', '0', '110'],
+            ],
+            15: [
+                *mont_aux9(),
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Albert Township, Precinct 1', '0', '28'],
+                ['Avery Township, Precinct 1', '0', '5'],
+                ['Briley Township, Precinct 1', '0', '22'],
+                ['Hillman Township, Precinct 1', '0', '26'],
+                ['Loud Township, Precinct 1', '0', '4'],
+                ['Montmorency Township, Precinct 1', '0', '12'],
+                ['Montmorency Township, Precinct 2', '0', '6'],
+                ['Rust Township, Precinct 1', '0', '3'],
+                ['Vienna Township, Precinct 1', '0', '2'],
+                ['Montmorency County Michigan - Total', '0', '108'],
+                ['County - Total', '0', '108'],
+            ],
+            16: [
+                *mont_aux9(),
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Albert Township, Precinct 1', '0', '29'],
+                ['Avery Township, Precinct 1', '0', '6'],
+                ['Briley Township, Precinct 1', '0', '21'],
+                ['Hillman Township, Precinct 1', '0', '25'],
+                ['Loud Township, Precinct 1', '0', '4'],
+                ['Montmorency Township, Precinct 1', '0', '13'],
+                ['Montmorency Township, Precinct 2', '0', '6'],
+                ['Rust Township, Precinct 1', '0', '3'],
+                ['Vienna Township, Precinct 1', '0', '4'],
+                ['Montmorency County Michigan - Total', '0', '111'],
+                ['County - Total', '0', '111'],
+            ],
+            # p020/p077 (Commissioner D3 DEM / D4 REP): 2-up pages whose
+            # split headers and interleaved label rows leave the aux and
+            # County - Total values roleless; inject aux + results.
+            20: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Hillman Township, Precinct 1', '551', '1,420'],
+                ['Montmorency County Michigan - Total', '551', '1,420'],
+                ['County - Total', '551', '1,420'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Hillman Township, Precinct 1', '0', '21'],
+                ['Montmorency County Michigan - Total', '0', '21'],
+                ['County - Total', '0', '21'],
+            ],
+            # p018/p074 (Commissioner D1 DEM/REP): the four-district
+            # precincts' all-zero results stack into ambiguous single
+            # cells; inject the aux table plus 0/0 results.
+            18: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Hillman Township, Precinct 1', '108', '217'],
+                ['Montmorency Township, Precinct 1', '257', '530'],
+                ['Montmorency Township, Precinct 2', '231', '441'],
+                ['Vienna Township, Precinct 1', '208', '476'],
+                ['Montmorency County Michigan - Total', '804', '1,664'],
+                ['County - Total', '804', '1,664'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Hillman Township, Precinct 1', '0', '0'],
+                ['Montmorency Township, Precinct 1', '0', '0'],
+                ['Montmorency Township, Precinct 2', '0', '0'],
+                ['Vienna Township, Precinct 1', '0', '0'],
+                ['Montmorency County Michigan - Total', '0', '0'],
+                ['County - Total', '0', '0'],
+            ],
+            23: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Albert Township, Precinct 1', '903', '2,170'],
+                ['Montmorency County Michigan - Total', '903', '2,170'],
+                ['County - Total', '903', '2,170'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Albert Township, Precinct 1', '0', '0'],
+                ['Montmorency County Michigan - Total', '0', '0'],
+                ['County - Total', '0', '0'],
+            ],
+            # p025: Briley Supervisor DEM — county label split across two
+            # rows leaves the aux total roleless; inject both tables.
+            25: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Briley Township, Precinct 1', '644', '1,715'],
+                ['Montmorency County Michigan - Total', '644', '1,715'],
+                ['County - Total', '644', '1,715'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Briley Township, Precinct 1', '0', '19'],
+                ['Montmorency County Michigan - Total', '0', '19'],
+                ['County - Total', '0', '19'],
+            ],
+            27: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Montmorency Township, Precinct 1', '257', '530'],
+                ['Montmorency Township, Precinct 2', '231', '441'],
+                ['Montmorency County Michigan - Total', '488', '971'],
+                ['County - Total', '488', '971'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Montmorency Township, Precinct 1', '0', '0'],
+                ['Montmorency Township, Precinct 2', '0', '0'],
+                ['Montmorency County Michigan - Total', '0', '0'],
+                ['County - Total', '0', '0'],
+            ],
+            # p030/p032/p036/p041: the 2-up pages print a doubled
+            # 'County - Total' footer and drop the right half's Total
+            # Votes value; inject aux + zero-candidate results.
+            30: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Albert Township, Precinct 1', '903', '2,170'],
+                ['Montmorency County Michigan - Total', '903', '2,170'],
+                ['County - Total', '903', '2,170'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Albert Township, Precinct 1', '0', '0'],
+                ['Montmorency County Michigan - Total', '0', '0'],
+                ['County - Total', '0', '0'],
+            ],
+            32: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Briley Township, Precinct 1', '644', '1,715'],
+                ['Montmorency County Michigan - Total', '644', '1,715'],
+                ['County - Total', '644', '1,715'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Briley Township, Precinct 1', '0', '19'],
+                ['Montmorency County Michigan - Total', '0', '19'],
+                ['County - Total', '0', '19'],
+            ],
+            # p034/p039: 2-up Clerk Loud DEM and Treasurer Avery DEM
+            # pages — the latter's results header garbles 'Unresolved
+            # Write-In' into 'Paid-Unresolved' + 'Write-In' columns,
+            # emitting the unresolved 3 as a candidate.
+            34: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Loud Township, Precinct 1', '107', '243'],
+                ['Montmorency County Michigan - Total', '107', '243'],
+                ['County - Total', '107', '243'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Loud Township, Precinct 1', '0', '4'],
+                ['Montmorency County Michigan - Total', '0', '4'],
+                ['County - Total', '0', '4'],
+            ],
+            36: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Rust Township, Precinct 1', '183', '422'],
+                ['Montmorency County Michigan - Total', '183', '422'],
+                ['County - Total', '183', '422'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Rust Township, Precinct 1', '0', '3'],
+                ['Montmorency County Michigan - Total', '0', '3'],
+                ['County - Total', '0', '3'],
+            ],
+            39: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Avery Township, Precinct 1', '210', '569'],
+                ['Montmorency County Michigan - Total', '210', '569'],
+                ['County - Total', '210', '569'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Avery Township, Precinct 1', '0', '3'],
+                ['Montmorency County Michigan - Total', '0', '3'],
+                ['County - Total', '0', '3'],
+            ],
+            41: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Hillman Township, Precinct 1', '659', '1,637'],
+                ['Montmorency County Michigan - Total', '659', '1,637'],
+                ['County - Total', '659', '1,637'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Hillman Township, Precinct 1', '0', '21'],
+                ['Montmorency County Michigan - Total', '0', '21'],
+                ['County - Total', '0', '21'],
+            ],
+            # Zero-candidate Treasurer DEM table collapsed to one cell;
+            # render shows 0 votes / 13 and 6 unresolved write-ins.
+            43: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Montmorency Township, Precinct 1', '257', '530'],
+                ['Montmorency Township, Precinct 2', '231', '441'],
+                ['Montmorency County Michigan - Total', '488', '971'],
+                ['County - Total', '488', '971'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Montmorency Township, Precinct 1', '0', '13'],
+                ['Montmorency Township, Precinct 2', '0', '6'],
+                ['Montmorency County Michigan - Total', '0', '19'],
+                ['County - Total', '0', '19'],
+            ],
+            # Avery Trustee DEM results collapsed; render shows
+            # Dobbyn 31, total 31, unresolved 0.
+            47: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Avery Township, Precinct 1', '210', '569'],
+                ['Montmorency County Michigan - Total', '210', '569'],
+                ['County - Total', '210', '569'],
+                ['Precinct', 'Dawn A. Dobbyn', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['County', '', '', ''],
+                ['Avery Township, Precinct 1', '31', '31', '0'],
+                ['Montmorency County Michigan - Total', '31', '31', '0'],
+                ['County - Total', '31', '31', '0'],
+            ],
+            # p049: Hillman Trustee DEM all-zero results stack into
+            # ambiguous single cells; aux is clean in the OCR stream.
+            49: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Hillman Township, Precinct 1', '659', '1,637'],
+                ['Montmorency County Michigan - Total', '659', '1,637'],
+                ['County - Total', '659', '1,637'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Hillman Township, Precinct 1', '0', '0'],
+                ['Montmorency County Michigan - Total', '0', '0'],
+                ['County - Total', '0', '0'],
+            ],
+            # p051: Montmorency Trustee DEM results collapse; page-image
+            # read gives 0/21 and 0/8.
+            51: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Montmorency Township, Precinct 1', '257', '530'],
+                ['Montmorency Township, Precinct 2', '231', '441'],
+                ['Montmorency County Michigan - Total', '488', '971'],
+                ['County - Total', '488', '971'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Montmorency Township, Precinct 1', '0', '21'],
+                ['Montmorency Township, Precinct 2', '0', '8'],
+                ['Montmorency County Michigan - Total', '0', '29'],
+                ['County - Total', '0', '29'],
+            ],
+            # p062: Vienna Delegate DEM 2-up page with split headers and
+            # interleaved label rows; inject aux + results.
+            62: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Vienna Township, Precinct 1', '208', '476'],
+                ['Montmorency County Michigan - Total', '208', '476'],
+                ['County - Total', '208', '476'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Vienna Township, Precinct 1', '0', '2'],
+                ['Montmorency County Michigan - Total', '0', '2'],
+                ['County - Total', '0', '2'],
+            ],
+            # 2-up page whose right half (Borton/Cutler) OCR dropped
+            # entirely; p066 alone would emit a bogus Write-In residual,
+            # so inject the full render-verified contest.
+            65: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Albert Township, Precinct 1', '903', '2,170'],
+                ['Avery Township, Precinct 1', '210', '569'],
+                ['Briley Township, Precinct 1', '644', '1,715'],
+                ['Hillman Township, Precinct 1', '659', '1,637'],
+                ['Loud Township, Precinct 1', '107', '243'],
+                ['Montmorency Township, Precinct 1', '257', '530'],
+                ['Montmorency Township, Precinct 2', '231', '441'],
+                ['Rust Township, Precinct 1', '183', '422'],
+                ['Vienna Township, Precinct 1', '208', '476'],
+                ['Montmorency County Michigan - Total', '3,402', '8,203'],
+                ['County - Total', '3,402', '8,203'],
+                ['Precinct', 'Ken Borton', 'Tony Cutler'],
+                ['County', '', ''],
+                ['Albert Township, Precinct 1', '435', '90'],
+                ['Avery Township, Precinct 1', '88', '39'],
+                ['Briley Township, Precinct 1', '296', '61'],
+                ['Hillman Township, Precinct 1', '253', '92'],
+                ['Loud Township, Precinct 1', '38', '13'],
+                ['Montmorency Township, Precinct 1', '82', '35'],
+                ['Montmorency Township, Precinct 2', '96', '38'],
+                ['Rust Township, Precinct 1', '88', '18'],
+                ['Vienna Township, Precinct 1', '87', '36'],
+                ['Montmorency County Michigan - Total', '1,463', '422'],
+                ['County - Total', '1,463', '422'],
+            ],
+            # p072: Register of Deeds REP Unresolved Write-In column
+            # spills onto its own page as fused '<precinct> <n>' cells
+            # (derived values sum to the printed 6).
+            72: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Albert Township, Precinct 1', '4'],
+                ['Avery Township, Precinct 1', '0'],
+                ['Briley Township, Precinct 1', '1'],
+                ['Hillman Township, Precinct 1', '1'],
+                ['Loud Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 2', '0'],
+                ['Rust Township, Precinct 1', '0'],
+                ['Vienna Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '6'],
+                ['County - Total', '6'],
+            ],
+            74: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Hillman Township, Precinct 1', '108', '217'],
+                ['Montmorency Township, Precinct 1', '257', '530'],
+                ['Montmorency Township, Precinct 2', '231', '441'],
+                ['Vienna Township, Precinct 1', '208', '476'],
+                ['Montmorency County Michigan - Total', '804', '1,664'],
+                ['County - Total', '804', '1,664'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Hillman Township, Precinct 1', '0', '0'],
+                ['Montmorency Township, Precinct 1', '0', '0'],
+                ['Montmorency Township, Precinct 2', '0', '0'],
+                ['Vienna Township, Precinct 1', '0', '0'],
+                ['Montmorency County Michigan - Total', '0', '0'],
+                ['County - Total', '0', '0'],
+            ],
+            77: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Albert Township, Precinct 1', '710', '1,749'],
+                ['Montmorency County Michigan - Total', '710', '1,749'],
+                ['County - Total', '710', '1,749'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Albert Township, Precinct 1', '0', '64'],
+                ['Montmorency County Michigan - Total', '0', '64'],
+                ['County - Total', '0', '64'],
+            ],
+            # p081: Briley Supervisor REP — the results header garbles
+            # into 'pTotal Votes' fragments; page-image read gives the
+            # qualified write-in Edwards 48 of 48 cast, 57 unresolved.
+            81: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Briley Township, Precinct 1', '644', '1,715'],
+                ['Montmorency County Michigan - Total', '644', '1,715'],
+                ['County - Total', '644', '1,715'],
+                ['Precinct', 'Marc Harold Edwards (Qualified Write In)',
+                 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', '', ''],
+                ['Briley Township, Precinct 1', '48', '48', '57'],
+                ['Montmorency County Michigan - Total', '48', '48', '57'],
+                ['County - Total', '48', '48', '57'],
+            ],
+            # p088/p093/p108/p118/p120: single-precinct Unresolved
+            # Write-In spill pages fused into '<precinct> <n>' cells.
+            88: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Albert Township, Precinct 1', '2'],
+                ['Montmorency County Michigan - Total', '2'],
+                ['County - Total', '2'],
+            ],
+            93: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Hillman Township, Precinct 1', '2'],
+                ['Montmorency County Michigan - Total', '2'],
+                ['County - Total', '2'],
+            ],
+            108: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Albert Township, Precinct 1', '5'],
+                ['Montmorency County Michigan - Total', '5'],
+                ['County - Total', '5'],
+            ],
+            118: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Rust Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            120: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Vienna Township, Precinct 1', '1'],
+                ['Montmorency County Michigan - Total', '1'],
+                ['County - Total', '1'],
+            ],
+            # p110: Briley Trustee REP — Brown/White columns confirmed on
+            # the page image; Wojcik + Total Votes + Unresolved continue
+            # on p111 (native). No Total Votes column here.
+            110: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Briley Township, Precinct 1', '644', '1,715'],
+                ['Montmorency County Michigan - Total', '644', '1,715'],
+                ['County - Total', '644', '1,715'],
+                ['Precinct', 'Brittany Brown', 'Evelyn White'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Briley Township, Precinct 1', '270', '234'],
+                ['Montmorency County Michigan - Total', '270', '234'],
+                ['County - Total', '270', '234'],
+            ],
+            # p115: Montmorency Trustee REP — Hardies/Steinke columns
+            # confirmed on the page image; Villeneuve + Total Votes +
+            # Unresolved continue on p116 (native).
+            115: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Montmorency Township, Precinct 1', '257', '530'],
+                ['Montmorency Township, Precinct 2', '231', '441'],
+                ['Montmorency County Michigan - Total', '488', '971'],
+                ['County - Total', '488', '971'],
+                ['Precinct', 'Kendell Hardies', 'Gerald Steinke'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Montmorency Township, Precinct 1', '123', '97'],
+                ['Montmorency Township, Precinct 2', '65', '81'],
+                ['Montmorency County Michigan - Total', '188', '178'],
+                ['County - Total', '188', '178'],
+            ],
+            # p119: Vienna Trustee REP prints aux-left/results-right
+            # 2-up with a garbled '(Volc for 2)' title; page image gives
+            # Erving 113, Payne 97, total 210.
+            119: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Vienna Township, Precinct 1', '208', '476'],
+                ['Montmorency County Michigan - Total', '208', '476'],
+                ['County - Total', '208', '476'],
+                ['Precinct', 'Faye E. Erving', 'Mayree Payne',
+                 'Total Votes'],
+                ['County', '', '', ''],
+                ['Montmorency County Michigan', '', '', ''],
+                ['Vienna Township, Precinct 1', '113', '97', '210'],
+                ['Montmorency County Michigan - Total', '113', '97',
+                 '210'],
+                ['County - Total', '113', '97', '210'],
+            ],
+            # p126: Montmorency P1 Delegate REP 2-up page; the aux and
+            # results headers split so the left half's values get no
+            # roles. Inject aux + Mary Hamilton results.
+            126: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Montmorency Township, Precinct 1', '257', '530'],
+                ['Montmorency County Michigan - Total', '257', '530'],
+                ['County - Total', '257', '530'],
+                ['Precinct', 'Mary Hamilton', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['County', '', '', ''],
+                ['Montmorency Township, Precinct 1', '113', '113', '0'],
+                ['Montmorency County Michigan - Total', '113', '113', '0'],
+                ['County - Total', '113', '113', '0'],
+            ],
+            # p128: Rust Delegate REP — doubled County - Total footer
+            # drops the right half's Unresolved value; aux is clean.
+            128: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Rust Township, Precinct 1', '183', '422'],
+                ['Montmorency County Michigan - Total', '183', '422'],
+                ['County - Total', '183', '422'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Rust Township, Precinct 1', '0', '10'],
+                ['Montmorency County Michigan - Total', '0', '10'],
+                ['County - Total', '0', '10'],
+            ],
+            # p131-p157: proposal Unresolved Write-In spill pages, fused
+            # into '<precinct> <n>' cells whose 'County - Total 0' rule
+            # would otherwise zero the open contest's total. All values
+            # are 0 (page-image reads confirm p143/p145/p149/p155).
+            131: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Albert Township, Precinct 1', '0'],
+                ['Avery Township, Precinct 1', '0'],
+                ['Briley Township, Precinct 1', '0'],
+                ['Hillman Township, Precinct 1', '0'],
+                ['Loud Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 2', '0'],
+                ['Rust Township, Precinct 1', '0'],
+                ['Vienna Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            133: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Albert Township, Precinct 1', '0'],
+                ['Avery Township, Precinct 1', '0'],
+                ['Briley Township, Precinct 1', '0'],
+                ['Hillman Township, Precinct 1', '0'],
+                ['Loud Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 2', '0'],
+                ['Rust Township, Precinct 1', '0'],
+                ['Vienna Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            135: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Albert Township, Precinct 1', '0'],
+                ['Avery Township, Precinct 1', '0'],
+                ['Briley Township, Precinct 1', '0'],
+                ['Hillman Township, Precinct 1', '0'],
+                ['Loud Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 2', '0'],
+                ['Rust Township, Precinct 1', '0'],
+                ['Vienna Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            137: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Albert Township, Precinct 1', '0'],
+                ['Avery Township, Precinct 1', '0'],
+                ['Briley Township, Precinct 1', '0'],
+                ['Hillman Township, Precinct 1', '0'],
+                ['Loud Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 2', '0'],
+                ['Rust Township, Precinct 1', '0'],
+                ['Vienna Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            139: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Briley Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            141: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Briley Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            143: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Hillman Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            145: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Hillman Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            # p146: Montmorency Refuse proposal 2-up page with split
+            # headers leaving the aux values roleless.
+            146: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Montmorency County Michigan', '', ''],
+                ['Montmorency Township, Precinct 1', '257', '530'],
+                ['Montmorency Township, Precinct 2', '231', '441'],
+                ['Montmorency County Michigan - Total', '488', '971'],
+                ['County - Total', '488', '971'],
+                ['Precinct', 'Yes', 'No', 'Total Votes'],
+                ['County', '', '', ''],
+                ['Montmorency Township, Precinct 1', '160', '89', '249'],
+                ['Montmorency Township, Precinct 2', '174', '46', '220'],
+                ['Montmorency County Michigan - Total', '334', '135', '469'],
+                ['County - Total', '334', '135', '469'],
+            ],
+            147: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Montmorency Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 2', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            149: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Montmorency Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 2', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            151: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Montmorency Township, Precinct 1', '0'],
+                ['Montmorency Township, Precinct 2', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            155: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Vienna Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            # The Johannesburg-Lewiston proposal spans three counties;
+            # keep only the Montmorency precincts and recompute totals.
+            156: [
+                ['Precinct', 'Times Cast', 'Registered Voters',
+                 'Precinct', 'Yes', 'No', 'Total Votes'],
+                ['County', '', '', 'County', '', '', ''],
+                ['Albert Township, Precinct 1', '897', '2,162',
+                 'Albert Township, Precinct 1', '436', '418', '854'],
+                ['Vienna Township, Precinct 1', '115', '288',
+                 'Vienna Township, Precinct 1', '52', '58', '110'],
+                ['Montmorency County Michigan - Total', '1,012', '2,450',
+                 'Montmorency County Michigan - Total', '488', '476', '964'],
+                ['County - Total', '1,012', '2,450',
+                 'County - Total', '488', '476', '964'],
+            ],
+            # p157: J-L proposal Unresolved Write-In spill lists the
+            # other counties' precincts too; keep only Montmorency's.
+            157: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Albert Township, Precinct 1', '0'],
+                ['Vienna Township, Precinct 1', '0'],
+                ['Montmorency County Michigan - Total', '0'],
+                ['County - Total', '0'],
+            ],
+            # p158-p188: canvass certification statements, no data.
+            **{no: [] for no in range(158, 189)},
+        },
+    },
 }
 
 TITLE = re.compile(r'^(.*?) \((DEM|REP|LIB|UST|GRN|NLP)\) \((Vote for [\d.]+)\)'
@@ -3353,6 +4268,9 @@ def parse_county(county, cfg, problems):
             for cells in rows:
                 if len(cells) == 1:
                     line = re.sub(r'\s+', ' ', cells[0]).strip().rstrip('.')
+                    # Montmorency 2020 stamps every title with a page
+                    # number; strip it before matching.
+                    line = re.sub(r'^Page: \d+ of \d+\s*', '', line).strip()
                     m = (TITLE_NOVF if cfg.get('titles_without_vote_for')
                          else TITLE).match(line) or PROPOSAL.match(line)
                     if m:
@@ -3374,16 +4292,40 @@ def parse_county(county, cfg, problems):
                 line = line.replace('DÉM', 'DEM')
                 line = line.replace('Commissionerr', 'Commissioner')
                 # A title can pick up a stray trailing period from OCR, or
-                # the page stamp ('... (Vote for 1) 8/9/2024 11:16:46 AM').
+                # the page stamp ('... (Vote for 1) 8/9/2024 11:16:46 AM',
+                # or mid-title: '... (Vote for 1) Page: 138 of 153
+                # 3/6/2020 3:22:20', or '... (Vote for 2) 3:22:29 PM REP').
                 line = line.rstrip('.')
-                line = re.sub(r'\s+\d{1,2}/\d{1,2}/\d{2,4}\s+\d{1,2}:\d{2}'
-                              r'(?::\d{2})?\s*(?:[AP]M)?\s*$', '', line)
+                line = re.sub(r'\s*,?\s*\d{1,2}/\d{1,2}/\d{2,4}\s+\d{1,2}'
+                              r':\d{2}(?::\d{2})?\s*(?:[AP]M)?', '', line)
+                line = re.sub(r'\s*\bPage: \d+ of \d+\s*$', '', line)
                 # A title can repeat its party between the party and
                 # vote-for groups ('... Precinct 1 (DEM) DEM (Vote for 2)'),
                 # or garble it ('... (Vote for 4) PEP').
                 line = re.sub(r'\((DEM|REP|LIB|UST|GRN|NLP)\) \1 \(Vote for',
                               r'(\1) (Vote for', line)
                 line = re.sub(r' PEP$', ' REP', line)
+                # Montmorency 2020 OCR lowercased the vote-for group on
+                # some titles and printed a comma before it on others.
+                line = re.sub(r'\(vote for', '(Vote for', line)
+                line = re.sub(r'\), \(', ') (', line)
+                # ... and garbles it on many more ('Vole', 'Volc',
+                # 'Voue', 'Vice', 'V.e', 'Ste', 'Vote or'), wraps the
+                # digit in stray parens ('(Vote for (1) REP)'), swallows
+                # the party into the group ('(Vote for 2, DEM'), or
+                # garbles the party itself ('(EP)', '(Rep)').
+                line = re.sub(r'\((?:Vole|Volc|Voue|Vice|V\.e|Ste|Vote or)'
+                              r' for', '(Vote for', line)
+                line = re.sub(r'\(Vote for \(([\d.]+)\)',
+                              r'(Vote for \1)', line)
+                line = re.sub(r'\(Vote for (\d+), (DEM|REP|LIB|UST|GRN|NLP)'
+                              r'\s*$', r'(Vote for \1) \2', line)
+                line = re.sub(r' \(EP\)', ' (REP)', line)
+                line = re.sub(r' \(Rep\)', ' (REP)', line)
+                # ... or wraps the whole tail in an extra paren
+                # ('(Vote for (1) REP)').
+                line = re.sub(r' ((?:DEM|REP|LIB|UST|GRN|NLP))\)$',
+                              r' \1', line)
                 m = (TITLE_NOVF if cfg.get('titles_without_vote_for')
                      else TITLE).match(line) or PROPOSAL.match(line)
                 if m:
