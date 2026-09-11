@@ -1210,6 +1210,270 @@ COUNTY_CONFIG = {
             ],
         },
     },
+    # Image-only 167-page SOVC; the Iosco layout — each contest page holds
+    # an aux table (Times Cast / Registered Voters) followed by the results
+    # table, and most spill pages re-print only the aux half.
+    'Ontonagon': {
+        'cache': 'Ontonagon_MI_August_4_2020_Primary_Election_Results',
+        'pages': 167,
+        'out': '2020/counties/20200804__mi__primary__ontonagon__precinct.csv',
+        # Pages whose title line the OCR dropped entirely (hand-read from
+        # the pdftoppm renders). p006/141/152/153 are COLUMN-SPLIT
+        # continuation pages (the last candidate column(s) + Total Votes
+        # print on the next page): repeat the parent title so they merge
+        # back into the contest opened on the previous page.
+        'page_titles': {
+            45: 'Township Treasurer for Interior Township (DEM)'
+                ' (Vote for 1) DEM',
+            48: 'Township Treasurer for Ontonagon Township (DEM)'
+                ' (Vote for 1) DEM',
+            67: 'Township Park Commissioner for Ontonagon Township (DEM)'
+                ' (Vote for 7) DEM',
+            74: 'Delegate to the County Convention for Haight Township,'
+                ' Precinct 1 (DEM) (Vote for 1) DEM',
+            96: 'Township Supervisor for Carp Lake Township (REP)'
+                ' (Vote for 1) REP',
+            6: 'Representative in State Legislature 110th District (DEM)'
+               ' (Vote for 1) DEM',
+            82: 'Representative in Congress 1st District (REP)'
+                ' (Vote for 1) REP',
+            98: 'Township Supervisor for Haight Township (REP)'
+                ' (Vote for 1) REP',
+            104: 'Township Supervisor for Stannard Township (REP)'
+                 ' (Vote for 1) REP',
+            109: 'Township Clerk for Haight Township (REP) (Vote for 1) REP',
+            113: 'Township Clerk for Ontonagon Township (REP)'
+                 ' (Vote for 1) REP',
+            120: 'Township Treasurer for Haight Township (REP)'
+                 ' (Vote for 1) REP',
+            121: 'Township Treasurer for Interior Township (REP)'
+                 ' (Vote for 1) REP',
+            141: 'Township Park Commissioner for Ontonagon Township (REP)'
+                 ' (Vote for 7) REP',
+            152: 'Delegate to the County Convention for Ontonagon Township,'
+                 ' Precinct 1 (REP) (Vote for 9) REP',
+            153: 'Delegate to the County Convention for Ontonagon Township,'
+                 ' Precinct 1 (REP) (Vote for 9) REP',
+        },
+        'precinct_fixes': {'Ortonagon': 'Ontonagon',
+                           'Roddand': 'Rockland'},
+        # CENR spells the 110th District representative Markkanen.
+        'cand_fixes': {'Gregory Markanen': 'Gregory Markkanen'},
+        # Pages hand-transcribed from the pdftoppm renders. p004 and
+        # p159 are unresolved-write-in spill pages whose rotated/fused
+        # headers the OCR lost (p159 printed as one fused text line whose
+        # mis-split precinct numbers then polluted the open proposal
+        # contest); p045/048/067/096/104 are single-precinct contests
+        # whose results header fused into one cell (p045/048/104) or
+        # lost its Unresolved Write-In caption (p096); p074's spill table
+        # OCR'd as a junk ['1','1','1'] row.
+        'manual': {
+            4: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Ontonagon County Michigan', ''],
+                ['Bergland Township, Precinct 1', '0'],
+                ['Bohemia Township, Precinct 1', '0'],
+                ['Bohemia Township, Precinct 2', '0'],
+                ['Carp Lake Township, Precinct 1', '1'],
+                ['Greenland Township, Precinct 1', '2'],
+                ['Haight Township, Precinct 1', '0'],
+                ['Interior Township, Precinct 1', '0'],
+                ['Matchwood Township, Precinct 1', '0'],
+                ['McMillan Township, Precinct 1', '0'],
+                ['Ontonagon Township, Precinct 1', '2'],
+                ['Rockland Township, Precinct 1', '1'],
+                ['Stannard Township, Precinct 1', '0'],
+                ['Ontonagon County Michigan - Total', '6'],
+                ['Cumulative', ''],
+                ['Cumulative', '0'],
+                ['Cumulative - Total', '0'],
+                ['County - Total', '6'],
+            ],
+            45: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Ontonagon County Michigan', '', ''],
+                ['Interior Township, Precinct 1', '87', '289'],
+                ['Ontonagon County Michigan - Total', '87', '289'],
+                ['Cumulative', '', ''],
+                ['Cumulative', '0', '0'],
+                ['Cumulative - Total', '0', '0'],
+                ['County - Total', '87', '289'],
+                ['Precinct', 'Chelsea J. Nurmi (DEM)', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['County', '', '', ''],
+                ['Ontonagon County Michigan', '', '', ''],
+                ['Interior Township, Precinct 1', '24', '24', '1'],
+                ['Ontonagon County Michigan - Total', '24', '24', '1'],
+                ['Cumulative', '', '', ''],
+                ['Cumulative', '0', '0', '0'],
+                ['Cumulative - Total', '0', '0', '0'],
+                ['County - Total', '24', '24', '1'],
+            ],
+            48: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Ontonagon County Michigan', '', ''],
+                ['Ontonagon Township, Precinct 1', '790', '2,184'],
+                ['Ontonagon County Michigan - Total', '790', '2,184'],
+                ['Cumulative', '', ''],
+                ['Cumulative', '0', '0'],
+                ['Cumulative - Total', '0', '0'],
+                ['County - Total', '790', '2,184'],
+                ['Precinct', 'Penny L. Saari (DEM)', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['County', '', '', ''],
+                ['Ontonagon County Michigan', '', '', ''],
+                ['Ontonagon Township, Precinct 1', '400', '400', '0'],
+                ['Ontonagon County Michigan - Total', '400', '400', '0'],
+                ['Cumulative', '', '', ''],
+                ['Cumulative', '0', '0', '0'],
+                ['Cumulative - Total', '0', '0', '0'],
+                ['County - Total', '400', '400', '0'],
+            ],
+            67: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Ontonagon County Michigan', '', ''],
+                ['Ontonagon Township, Precinct 1', '790', '2,184'],
+                ['Ontonagon County Michigan - Total', '790', '2,184'],
+                ['Cumulative', '', ''],
+                ['Cumulative', '0', '0'],
+                ['Cumulative - Total', '0', '0'],
+                ['County - Total', '790', '2,184'],
+                ['Precinct', 'Jason Clinesmith (DEM)',
+                 'John P. LaSota (DEM)', 'Total Votes'],
+                ['County', '', '', ''],
+                ['Ontonagon County Michigan', '', '', ''],
+                ['Ontonagon Township, Precinct 1', '353', '282', '635'],
+                ['Ontonagon County Michigan - Total', '353', '282', '635'],
+                ['Cumulative', '', '', ''],
+                ['Cumulative', '0', '0', '0'],
+                ['Cumulative - Total', '0', '0', '0'],
+                ['County - Total', '353', '282', '635'],
+            ],
+            74: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Ontonagon County Michigan', '', ''],
+                ['Haight Township, Precinct 1', '58', '180'],
+                ['Ontonagon County Michigan - Total', '58', '180'],
+                ['Cumulative', '', ''],
+                ['Cumulative', '0', '0'],
+                ['Cumulative - Total', '0', '0'],
+                ['County - Total', '58', '180'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['County', '', ''],
+                ['Ontonagon County Michigan', '', ''],
+                ['Haight Township, Precinct 1', '0', '2'],
+                ['Ontonagon County Michigan - Total', '0', '2'],
+                ['Cumulative', '', ''],
+                ['Cumulative', '0', '0'],
+                ['Cumulative - Total', '0', '0'],
+                ['County - Total', '0', '2'],
+            ],
+            96: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Ontonagon County Michigan', '', ''],
+                ['Carp Lake Township, Precinct 1', '212', '564'],
+                ['Ontonagon County Michigan - Total', '212', '564'],
+                ['Cumulative', '', ''],
+                ['Cumulative', '0', '0'],
+                ['Cumulative - Total', '0', '0'],
+                ['County - Total', '212', '564'],
+                ['Precinct', 'Homer Colclasure (REP)', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['County', '', '', ''],
+                ['Ontonagon County Michigan', '', '', ''],
+                ['Carp Lake Township, Precinct 1', '69', '69', '1'],
+                ['Ontonagon County Michigan - Total', '69', '69', '1'],
+                ['Cumulative', '', '', ''],
+                ['Cumulative', '0', '0', '0'],
+                ['Cumulative - Total', '0', '0', '0'],
+                ['County - Total', '69', '69', '1'],
+            ],
+            104: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Ontonagon County Michigan', '', ''],
+                ['Stannard Township, Precinct 1', '159', '630'],
+                ['Ontonagon County Michigan - Total', '159', '630'],
+                ['Cumulative', '', ''],
+                ['Cumulative', '0', '0'],
+                ['Cumulative - Total', '0', '0'],
+                ['County - Total', '159', '630'],
+                ['Precinct', 'William J. Andrus (REP)', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['County', '', '', ''],
+                ['Ontonagon County Michigan', '', '', ''],
+                ['Stannard Township, Precinct 1', '62', '62', '1'],
+                ['Ontonagon County Michigan - Total', '62', '62', '1'],
+                ['Cumulative', '', '', ''],
+                ['Cumulative', '0', '0', '0'],
+                ['Cumulative - Total', '0', '0', '0'],
+                ['County - Total', '62', '62', '1'],
+            ],
+            159: [
+                ['Precinct', 'Unresolved Write-In'],
+                ['County', ''],
+                ['Ontonagon County Michigan', ''],
+                ['Bergland Township, Precinct 1', '0'],
+                ['Bohemia Township, Precinct 1', '0'],
+                ['Bohemia Township, Precinct 2', '0'],
+                ['Carp Lake Township, Precinct 1', '0'],
+                ['Greenland Township, Precinct 1', '0'],
+                ['Haight Township, Precinct 1', '0'],
+                ['Interior Township, Precinct 1', '0'],
+                ['Matchwood Township, Precinct 1', '0'],
+                ['McMillan Township, Precinct 1', '0'],
+                ['Ontonagon Township, Precinct 1', '0'],
+                ['Rockland Township, Precinct 1', '0'],
+                ['Stannard Township, Precinct 1', '0'],
+                ['Ontonagon County Michigan - Total', '0'],
+                ['Cumulative', ''],
+                ['Cumulative', '0'],
+                ['Cumulative - Total', '0'],
+                ['County - Total', '0'],
+            ],
+        },
+        'precincts': [
+            'Bergland Township, Precinct 1', 'Bohemia Township, Precinct 1',
+            'Bohemia Township, Precinct 2', 'Carp Lake Township, Precinct 1',
+            'Greenland Township, Precinct 1', 'Haight Township, Precinct 1',
+            'Interior Township, Precinct 1',
+            'Matchwood Township, Precinct 1',
+            'McMillan Township, Precinct 1',
+            'Ontonagon Township, Precinct 1',
+            'Rockland Township, Precinct 1',
+            'Stannard Township, Precinct 1',
+        ],
+        'title_sub': [
+            # The senator title doubles ('United States Senator for United
+            # States Senator'); p021 appends a timestamp; p142/146/147/149/
+            # 150/151 carry ballot-mark junk ('☐', '$ \mathcal{C} $') ahead
+            # of the delegate titles.
+            (r'^United States Senator for United States Senator',
+             'United States Senator'),
+            (r' 8/C \d+ [\d:]+ (?:[AP]M)?$', ''),
+            (r'^(?:.\s*)?(?:\$\s*\\mathcal\{C\}\s*\$\s*)*'
+             r'(?:. )?Delegate to the County Convention for ',
+             'Delegate to County Convention for '),
+            (r'^County Commissioner for County Commissioner District',
+             'County Commissioner District'),
+            # LUCE_OFFICE doesn't know the Park Commissioner or Constable
+            # titles; Ontonagon 2020 also spells 'the' inside its delegate
+            # titles.
+            (r'^Township Park Commissioner for (.+)$',
+             r'\1 Park Commissioner'),
+            (r'^Township Constable for (.+)$', r'\1 Constable'),
+            (r'^Township (Supervisor|Clerk|Treasurer|Trustee) for (.+)$',
+             r'\2 \1'),
+            # p156 source typo.
+            (r'Abulance', 'Ambulance'),
+        ],
+    },
     # Image-only 294-page SOVC; each contest is a Luce-style merged table
     # whose data rows repeat the precinct label between the turnout and
     # results halves, with phantom blank columns interleaved (see p003).
@@ -1486,11 +1750,907 @@ COUNTY_CONFIG = {
         ],
         'name_fixes': {'Ellington Towship': 'Ellington Township'},
     },
+    # Aug 2020 primary. Every contest is one merged 2-up table (left half
+    # Undervotes/Overvotes, right half the results) that 'two_up' rewrites
+    # to its right half; titles print WITHOUT the '(Vote for N)' group and
+    # some pages print the title line AFTER the table. There is no
+    # Times Cast column, so no Ballots Cast pseudo rows; write-ins are the
+    # Unresolved Write-In column. The left half's Undervotes column is the
+    # only ballot accounting, so nothing cross-checks turnout.
+    'Tuscola 2020': {
+        'county_name': 'Tuscola',
+        'cache': 'Tuscola_MI_Statement_of_Votes_Cast_August_4_2020',
+        'pages': 309,
+        'out': '2020/counties/20200804__mi__primary__tuscola__precinct.csv',
+        'two_up': True,
+        'titles_without_vote_for': True,
+        # Some pages print the contest title after its table (OCR order);
+        # hoist single-cell title lines to the front of their page.
+        'titles_first': True,
+        # 'Delegate for <jur>' titles read jurisdiction-first elsewhere.
+        'title_sub': [
+            (r'^Delegate for (.+)$', r'\1 Delegate to County Convention'),
+            # Trustee pages whose 2-up title row splits as
+            # ['Trustee for REP', '<Twp> (REP)']: the two-up split keeps
+            # only the right cell, so TITLE_NOVF reads the bare township
+            # as the title. The DEM pages split as ['Trustee for DEM',
+            # '<Twp> (DEM)'] or ['Trustee for', '| <Twp> (DEM)'] instead.
+            (r'^Trustee for (?:DEM|REP) (.+)$', r'Trustee for \1'),
+            (r'^Trustee for \| (.+)$', r'Trustee for \1'),
+            # A bare '<Twp>'/'<Twp> Charter Township' title (no ' for '
+            # inside — Supervisor/Clerk/Treasurer titles keep theirs).
+            (r'^(?!.* for )((?:\w+ )*(?:Charter )?Township)$',
+             r'Trustee for \1'),
+        ],
+        # OCR misspelling (results tables only; delegate/proposal titles
+        # spell it correctly).
+        'precinct_fixes': {'Arbeta': 'Arbela'},
+        'precincts': [
+            'Akron Township, Precinct 1', 'Almer Charter Township, Precinct 1',
+            'Arbela Township, Precinct 1', 'Arbela Township, Precinct 2',
+            'City of Caro, Precinct 1', 'City of Caro, Precinct 2',
+            'Columbia Township, Precinct 1', 'Dayton Township, Precinct 1',
+            'Denmark Township, Precinct 1', 'Elkland Township, Precinct 1',
+            'Elkland Township, Precinct 2', 'Ellington Township, Precinct 1',
+            'Elmwood Township, Precinct 1', 'Fairgrove Township, Precinct 1',
+            'Fremont Township, Precinct 1', 'Gilford Township, Precinct 1',
+            'Indianfields Township, Precinct 1', 'Juniata Township, Precinct 1',
+            'Kingston Township, Precinct 1', 'Koylton Township, Precinct 1',
+            'Millington Township, Precinct 1', 'Millington Township, Precinct 2',
+            'Novesta Township, Precinct 1', 'Tuscola Township, Precinct 1',
+            'City of Vassar, Precinct 1', 'Vassar Township, Precinct 1',
+            'Watertown Township, Precinct 1', 'Wells Township, Precinct 1',
+            'Wisner Township, Precinct 1',
+        ],
+        # p027's OCR dropped City of Caro Precinct 2's row entirely (render-
+        # verified 0/11; the p028 spill footer's 343 only sums with it).
+        # p073/p110 fused the precinct row into the footer row (render-
+        # verified 0/7 and 0/12); the footer survives, the precinct row is
+        # re-injected after it.
+        'inject_after': {
+            '27': [['City of Caro, Precinct 1',
+                    ['City of Caro, Precinct 2', '0', '11']]],
+            '73': [['Tuscola County - Total Cumulative',
+                    ['Elmwood Township, Precinct 1', '0', '7']]],
+            '110': [['Tuscola County - Total Cumulative',
+                     ['Columbia Township, Precinct 1', '0', '12']]],
+            # Single-precinct contests whose only data row fused into a
+            # footer row (or was lost entirely); the footer names the
+            # precinct's values, so re-inject the row after it.
+            '79': [['County - Total',
+                    ['Gilford Township, Precinct 1', '0', '6']]],
+            '83': [['Tuscola County - Total Cumulative',
+                    ['Juniata Township, Precinct 1', '0', '15']]],
+            '113': [['County - Total',
+                     ['Denmark Township, Precinct 1', '0', '9']]],
+            '121': [['Tuscola County - Total Cumulative',
+                     ['Fairgrove Township, Precinct 1', '0', '8']]],
+            '129': [['County - Total',
+                     ['Juniata Township, Precinct 1', '0', '13']]],
+            '148': [['Tuscola County - Total Cumulative',
+                     ['Wisner Township, Precinct 1', '0', '4']]],
+            '149': [['County - Total',
+                     ['Akron Township, Precinct 1', '0', '5']]],
+            '159': [['County - Total',
+                     ['Denmark Township, Precinct 1', '0', '10']]],
+            '187': [['County - Total',
+                     ['Vassar Township, Precinct 1', '0', '28']]],
+            '191': [['County - Total',
+                     ['Wells Township, Precinct 1', '0', '9']]],
+            '194': [['County - Total',
+                     ['Wisner Township, Precinct 1', '0', '2']]],
+            '201': [['County - Total',
+                     ['Columbia Township, Precinct 1', '0', '4']]],
+            '225': [['Tuscola County - Total Cumulative',
+                     ['Koylton Township, Precinct 1', '0', '3']]],
+            '229': [['County - Total',
+                     ['Novesta Township, Precinct 1', '0', '6']]],
+            '230': [['County - Total',
+                     ['Novesta Township, Precinct 1', '0', '8']]],
+            '235': [['Cumulative - Total County - Total',
+                     ['Watertown Township, Precinct 1', '0', '32']]],
+            '237': [['Cumulative - Total County - Total',
+                     ['Wells Township, Precinct 1', '0', '11']]],
+            '259': [['County - Total',
+                     ['Elkland Township, Precinct 1', '0', '8']]],
+            '267': [['Tuscola County - Total Cumulative',
+                     ['Fairgrove Township, Precinct 1', '0', '10']]],
+            '271': [['County - Total',
+                     ['Gilford Township, Precinct 1', '0', '9']]],
+            '281': [['County - Total',
+                     ['Millington Township, Precinct 1', '0', '12']]],
+            '283': [['County - Total',
+                     ['Millington Township, Precinct 2', '0', '10']]],
+            # p288: the McKay row fused into the footer row
+            # (1801 undervotes | McKay 305, total 305, unresolved 3).
+            '288': [['County - Total',
+                     ['Tuscola Township, Precinct 1', '305', '305', '3']]],
+            '291': [['County - Total',
+                     ['Vassar Township, Precinct 1', '0', '38']]],
+            # p292: the six-candidate row fused into the footer row.
+            '292': [['County - Total',
+                     ['Vassar Township, Precinct 1', '303', '275', '158',
+                      '143', '238', '243', '1360', '10']]],
+            '298': [['Tuscola County - Total Cumulative',
+                     ['Wisner Township, Precinct 1', '0', '4']]],
+            '137': [['County - Total',
+                     ['Novesta Township, Precinct 1', '0', '7']]],
+            '143': [['County - Total',
+                     ['Watertown Township, Precinct 1', '0', '22']]],
+            '176': [['County - Total',
+                     ['Juniata Township, Precinct 1', '0', '5']]],
+            '183': [['County - Total',
+                     ['Novesta Township, Precinct 1', '0', '6']]],
+            '184': [['County - Total',
+                     ['Novesta Township, Precinct 1', '0', '8']]],
+            '185': [['County - Total',
+                     ['Tuscola Township, Precinct 1', '0', '12']]],
+            '188': [['County - Total',
+                     ['Vassar Township, Precinct 1', '0', '19']]],
+            '268': [['County - Total',
+                     ['Fairgrove Township, Precinct 1', '0', '6']]],
+        },
+        # p237: a garbled 'Cumulative - Total' row IS a footer and wins
+        # first-footer with unresolved=0 before the real footer's 11.
+        'footer_overrides': {
+            237: {'results:unresolved': 11},
+            # p009's footer OCR shifted the Noland/Total/Unresolved values
+            # one column left (render: Bizon 1195, Noland 971, total 2166,
+            # unresolved 5).
+            9: {'results:Kelly L. Noland': 971,
+                'results:total_votes': 2166,
+                'results:unresolved': 5},
+        },
+        # Pages OCR reduced to a stray '0': hand-transcribed from renders
+        # (the Prosecuting Attorney DEM table and its spill page).
+        'manual': {
+            15: [
+                ['Prosecuting Attorney (DEM) (Vote for 1)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Akron Township, Precinct 1', '0', '3'],
+                ['Almer Charter Township, Precinct 1', '0', '8'],
+                ['Arbela Township, Precinct 1', '0', '22'],
+                ['Arbela Township, Precinct 2', '0', '23'],
+                ['City of Caro, Precinct 1', '0', '19'],
+                ['City of Caro, Precinct 2', '0', '10'],
+                ['Columbia Township, Precinct 1', '0', '4'],
+                ['Dayton Township, Precinct 1', '0', '26'],
+                ['Denmark Township, Precinct 1', '0', '10'],
+                ['Elkland Township, Precinct 1', '0', '9'],
+                ['Elkland Township, Precinct 2', '0', '5'],
+                ['Ellington Township, Precinct 1', '0', '8'],
+                ['Elmwood Township, Precinct 1', '0', '7'],
+                ['Fairgrove Township, Precinct 1', '0', '13'],
+                ['Fremont Township, Precinct 1', '0', '20'],
+                ['Gilford Township, Precinct 1', '0', '6'],
+                ['Indianfields Township, Precinct 1', '0', '18'],
+                ['Juniata Township, Precinct 1', '0', '16'],
+                ['Kingston Township, Precinct 1', '0', '5'],
+                ['Koylton Township, Precinct 1', '0', '4'],
+                ['Millington Township, Precinct 1', '0', '12'],
+                ['Millington Township, Precinct 2', '0', '9'],
+                ['Novesta Township, Precinct 1', '0', '6'],
+                ['Tuscola Township, Precinct 1', '0', '12'],
+            ],
+            16: [
+                ['City of Vassar, Precinct 1', '0', '20'],
+                ['Vassar Township, Precinct 1', '0', '35'],
+                ['Watertown Township, Precinct 1', '0', '22'],
+                ['Wells Township, Precinct 1', '0', '9'],
+                ['Wisner Township, Precinct 1', '0', '4'],
+                ['Tuscola County - Total', '0', '365'],
+            ],
+            # p004: the U.S. Senator (DEM) spill page's fused lines carry
+            # only the left half's junk; hand-transcribed from the render
+            # (Peters runs unopposed, so the right half is [votes, total]).
+            4: [
+                ['City of Vassar, Precinct 1', '181', '181'],
+                ['Vassar Township, Precinct 1', '212', '212'],
+                ['Watertown Township, Precinct 1', '119', '119'],
+                ['Wells Township, Precinct 1', '106', '106'],
+                ['Wisner Township, Precinct 1', '60', '60'],
+                ['Tuscola County - Total', '3362', '3362'],
+            ],
+            # p005: the U.S. Senator (REP) main table prints its title at
+            # the page end, where it cannot be told apart from the
+            # hand-injected title by drop_lines; manualize instead
+            # (render-verified: James runs unopposed).
+            5: [
+                ['United States Senator (REP)'],
+                ['Precinct', 'John James (REP)', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['Akron Township, Precinct 1', '221', '221', '2'],
+                ['Almer Charter Township, Precinct 1', '351', '351', '1'],
+                ['Arbela Township, Precinct 1', '213', '213', '2'],
+                ['Arbela Township, Precinct 2', '160', '160', '0'],
+                ['City of Caro, Precinct 1', '329', '329', '1'],
+                ['City of Caro, Precinct 2', '174', '174', '2'],
+                ['Columbia Township, Precinct 1', '187', '187', '3'],
+                ['Dayton Township, Precinct 1', '320', '320', '2'],
+                ['Denmark Township, Precinct 1', '494', '494', '2'],
+                ['Elkland Township, Precinct 1', '192', '192', '0'],
+                ['Elkland Township, Precinct 2', '328', '328', '1'],
+                ['Ellington Township, Precinct 1', '282', '282', '0'],
+                ['Elmwood Township, Precinct 1', '184', '184', '2'],
+                ['Fairgrove Township, Precinct 1', '203', '203', '3'],
+                ['Fremont Township, Precinct 1', '453', '453', '2'],
+                ['Gilford Township, Precinct 1', '116', '116', '0'],
+                ['Indianfields Township, Precinct 1', '412', '412', '3'],
+                ['Juniata Township, Precinct 1', '249', '249', '0'],
+                ['Kingston Township, Precinct 1', '226', '226', '1'],
+                ['Koylton Township, Precinct 1', '235', '235', '2'],
+                ['Millington Township, Precinct 1', '333', '333', '6'],
+                ['Millington Township, Precinct 2', '298', '298', '0'],
+                ['Novesta Township, Precinct 1', '254', '254', '2'],
+                ['Tuscola Township, Precinct 1', '324', '324', '3'],
+            ],
+            # p006: the U.S. Senator (REP) spill page's first block holds
+            # the left half's undervotes/overvotes and a stray 'Total 919'
+            # that would win the footer race; hand-transcribed.
+            6: [
+                ['City of Vassar, Precinct 1', '251', '251', '1'],
+                ['Vassar Township, Precinct 1', '390', '390', '1'],
+                ['Watertown Township, Precinct 1', '331', '331', '3'],
+                ['Wells Township, Precinct 1', '257', '257', '1'],
+                ['Wisner Township, Precinct 1', '93', '93', '1'],
+                ['Tuscola County - Total', '7860', '7860', '47'],
+            ],
+            # p018: the Prosecuting Attorney (REP) spill page's fused lines
+            # lose their right half (render-verified values).
+            18: [
+                ['City of Vassar, Precinct 1', '247', '247', '5'],
+                ['Vassar Township, Precinct 1', '365', '365', '8'],
+                ['Watertown Township, Precinct 1', '325', '325', '3'],
+                ['Wells Township, Precinct 1', '252', '252', '3'],
+                ['Wisner Township, Precinct 1', '86', '86', '1'],
+                ['Tuscola County - Total', '7683', '7683', '76'],
+            ],
+            # p021: the Sheriff (REP) main table's label cells interleave
+            # with wrapped fragments and its title prints at the page end
+            # (where drop_lines cannot distinguish it from the injected
+            # one); manualize instead (render-verified values).
+            21: [
+                ['Sheriff (REP)'],
+                ['Precinct', 'Glen G. Skrent (REP)', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['Akron Township, Precinct 1', '215', '215', '0'],
+                ['Almer Charter Township, Precinct 1', '376', '376', '0'],
+                ['Arbela Township, Precinct 1', '203', '203', '1'],
+                ['Arbela Township, Precinct 2', '153', '153', '0'],
+                ['City of Caro, Precinct 1', '356', '356', '0'],
+                ['City of Caro, Precinct 2', '177', '177', '2'],
+                ['Columbia Township, Precinct 1', '207', '207', '1'],
+                ['Dayton Township, Precinct 1', '311', '311', '1'],
+                ['Denmark Township, Precinct 1', '493', '493', '1'],
+                ['Elkland Township, Precinct 1', '196', '196', '0'],
+                ['Elkland Township, Precinct 2', '326', '326', '2'],
+                ['Ellington Township, Precinct 1', '280', '280', '1'],
+                ['Elmwood Township, Precinct 1', '180', '180', '1'],
+                ['Fairgrove Township, Precinct 1', '208', '208', '0'],
+                ['Fremont Township, Precinct 1', '436', '436', '1'],
+                ['Gilford Township, Precinct 1', '115', '115', '0'],
+                ['Indianfields Township, Precinct 1', '418', '418', '1'],
+                ['Juniata Township, Precinct 1', '242', '242', '0'],
+                ['Kingston Township, Precinct 1', '224', '224', '0'],
+                ['Koylton Township, Precinct 1', '243', '243', '0'],
+                ['Millington Township, Precinct 1', '342', '342', '3'],
+                ['Millington Township, Precinct 2', '287', '287', '0'],
+                ['Novesta Township, Precinct 1', '247', '247', '1'],
+                ['Tuscola Township, Precinct 1', '324', '324', '0'],
+            ],
+            # p019: the Sheriff (DEM) main table collapsed to a stray '0';
+            # hand-transcribed from the render (zero-candidate contest).
+            19: [
+                ['Sheriff (DEM)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Akron Township, Precinct 1', '0', '5'],
+                ['Almer Charter Township, Precinct 1', '0', '8'],
+                ['Arbela Township, Precinct 1', '0', '21'],
+                ['Arbela Township, Precinct 2', '0', '22'],
+                ['City of Caro, Precinct 1', '0', '21'],
+                ['City of Caro, Precinct 2', '0', '10'],
+                ['Columbia Township, Precinct 1', '0', '4'],
+                ['Dayton Township, Precinct 1', '0', '26'],
+                ['Denmark Township, Precinct 1', '0', '9'],
+                ['Elkland Township, Precinct 1', '0', '6'],
+                ['Elkland Township, Precinct 2', '0', '4'],
+                ['Ellington Township, Precinct 1', '0', '8'],
+                ['Elmwood Township, Precinct 1', '0', '9'],
+                ['Fairgrove Township, Precinct 1', '0', '12'],
+                ['Fremont Township, Precinct 1', '0', '19'],
+                ['Gilford Township, Precinct 1', '0', '6'],
+                ['Indianfields Township, Precinct 1', '0', '16'],
+                ['Juniata Township, Precinct 1', '0', '16'],
+                ['Kingston Township, Precinct 1', '0', '5'],
+                ['Koylton Township, Precinct 1', '0', '3'],
+                ['Millington Township, Precinct 1', '0', '11'],
+                ['Millington Township, Precinct 2', '0', '10'],
+                ['Novesta Township, Precinct 1', '0', '6'],
+                ['Tuscola Township, Precinct 1', '0', '11'],
+            ],
+            20: [
+                ['City of Vassar, Precinct 1', '0', '23'],
+                ['Vassar Township, Precinct 1', '0', '34'],
+                ['Watertown Township, Precinct 1', '0', '22'],
+                ['Wells Township, Precinct 1', '0', '9'],
+                ['Wisner Township, Precinct 1', '0', '4'],
+                ['Tuscola County - Total', '0', '360'],
+            ],
+            # p023's Clerk (DEM) main table collapsed to a stray '0' in the
+            # OCR cache; hand-transcribed from the page render (zero-
+            # candidate contest: Total Votes 0, Unresolved Write-In per
+            # precinct; the contest footer [0, 341] prints on p024).
+            23: [
+                ['Clerk (DEM)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Akron Township, Precinct 1', '0', '4'],
+                ['Almer Charter Township, Precinct 1', '0', '8'],
+                ['Arbela Township, Precinct 1', '0', '20'],
+                ['Arbela Township, Precinct 2', '0', '21'],
+                ['City of Caro, Precinct 1', '0', '19'],
+                ['City of Caro, Precinct 2', '0', '11'],
+                ['Columbia Township, Precinct 1', '0', '3'],
+                ['Dayton Township, Precinct 1', '0', '23'],
+                ['Denmark Township, Precinct 1', '0', '9'],
+                ['Elkland Township, Precinct 1', '0', '5'],
+                ['Elkland Township, Precinct 2', '0', '4'],
+                ['Ellington Township, Precinct 1', '0', '9'],
+                ['Elmwood Township, Precinct 1', '0', '7'],
+                ['Fairgrove Township, Precinct 1', '0', '9'],
+                ['Fremont Township, Precinct 1', '0', '19'],
+                ['Gilford Township, Precinct 1', '0', '6'],
+                ['Indianfields Township, Precinct 1', '0', '14'],
+                ['Juniata Township, Precinct 1', '0', '16'],
+                ['Kingston Township, Precinct 1', '0', '5'],
+                ['Koylton Township, Precinct 1', '0', '3'],
+                ['Millington Township, Precinct 1', '0', '10'],
+                ['Millington Township, Precinct 2', '0', '10'],
+                ['Novesta Township, Precinct 1', '0', '5'],
+                ['Tuscola Township, Precinct 1', '0', '13'],
+            ],
+            # p024: the Clerk (DEM) spill page's fused lines lose their
+            # right half (render-verified values).
+            24: [
+                ['City of Vassar, Precinct 1', '0', '20'],
+                ['Vassar Township, Precinct 1', '0', '33'],
+                ['Watertown Township, Precinct 1', '0', '22'],
+                ['Wells Township, Precinct 1', '0', '9'],
+                ['Wisner Township, Precinct 1', '0', '4'],
+                ['Tuscola County - Total', '0', '341'],
+            ],
+            # p029/p030: the County Treasurer (REP) tables print as a 7-col
+            # grid whose label column fuses with the overvote; the OCR's
+            # role assignment scrambles (Undervotes became a candidate).
+            # Hand-transcribed from the renders.
+            29: [
+                ['Treasurer (REP)'],
+                ['Precinct', 'Ashley Bennett (REP)', 'Rita Papp (REP)',
+                 'Total Votes', 'Unresolved Write-In'],
+                ['Akron Township, Precinct 1', '152', '79', '231', '0'],
+                ['Almer Charter Township, Precinct 1', '226', '168',
+                 '394', '1'],
+                ['Arbela Township, Precinct 1', '170', '39', '209', '0'],
+                ['Arbela Township, Precinct 2', '121', '34', '155', '0'],
+                ['City of Caro, Precinct 1', '224', '143', '367', '0'],
+                ['City of Caro, Precinct 2', '111', '79', '190', '0'],
+                ['Columbia Township, Precinct 1', '157', '59', '216', '1'],
+                ['Dayton Township, Precinct 1', '228', '101', '329', '0'],
+                ['Denmark Township, Precinct 1', '413', '97', '510', '0'],
+                ['Elkland Township, Precinct 1', '133', '75', '208', '0'],
+                ['Elkland Township, Precinct 2', '211', '126', '337', '0'],
+                ['Ellington Township, Precinct 1', '187', '118', '305',
+                 '0'],
+                ['Elmwood Township, Precinct 1', '140', '55', '195', '0'],
+                ['Fairgrove Township, Precinct 1', '150', '72', '222',
+                 '0'],
+                ['Fremont Township, Precinct 1', '339', '125', '464', '1'],
+                ['Gilford Township, Precinct 1', '90', '25', '115', '0'],
+                ['Indianfields Township, Precinct 1', '281', '177', '458',
+                 '1'],
+                ['Juniata Township, Precinct 1', '154', '107', '261', '0'],
+                ['Kingston Township, Precinct 1', '163', '66', '229', '0'],
+                ['Koylton Township, Precinct 1', '161', '83', '244', '0'],
+                ['Millington Township, Precinct 1', '300', '61', '361',
+                 '1'],
+                ['Millington Township, Precinct 2', '247', '51', '298',
+                 '1'],
+                ['Novesta Township, Precinct 1', '129', '129', '258', '0'],
+                ['Tuscola Township, Precinct 1', '247', '86', '333', '1'],
+            ],
+            30: [
+                ['City of Vassar, Precinct 1', '204', '51', '255', '0'],
+                ['Vassar Township, Precinct 1', '317', '97', '414', '0'],
+                ['Watertown Township, Precinct 1', '230', '106', '336',
+                 '0'],
+                ['Wells Township, Precinct 1', '164', '111', '275', '1'],
+                ['Wisner Township, Precinct 1', '73', '21', '94', '0'],
+                ['Tuscola County - Total', '5722', '2541', '8263', '8'],
+            ],
+            # p031: the Register of Deeds (DEM) main table collapsed to a
+            # stray '0' (render: zero-candidate contest).
+            31: [
+                ['Register of Deeds (DEM)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Akron Township, Precinct 1', '0', '4'],
+                ['Almer Charter Township, Precinct 1', '0', '8'],
+                ['Arbela Township, Precinct 1', '0', '19'],
+                ['Arbela Township, Precinct 2', '0', '21'],
+                ['City of Caro, Precinct 1', '0', '19'],
+                ['City of Caro, Precinct 2', '0', '10'],
+                ['Columbia Township, Precinct 1', '0', '3'],
+                ['Dayton Township, Precinct 1', '0', '24'],
+                ['Denmark Township, Precinct 1', '0', '9'],
+                ['Elkland Township, Precinct 1', '0', '5'],
+                ['Elkland Township, Precinct 2', '0', '4'],
+                ['Ellington Township, Precinct 1', '0', '8'],
+                ['Elmwood Township, Precinct 1', '0', '7'],
+                ['Fairgrove Township, Precinct 1', '0', '8'],
+                ['Fremont Township, Precinct 1', '0', '19'],
+                ['Gilford Township, Precinct 1', '0', '6'],
+                ['Indianfields Township, Precinct 1', '0', '13'],
+                ['Juniata Township, Precinct 1', '0', '16'],
+                ['Kingston Township, Precinct 1', '0', '5'],
+                ['Koylton Township, Precinct 1', '0', '3'],
+                ['Millington Township, Precinct 1', '0', '11'],
+                ['Millington Township, Precinct 2', '0', '10'],
+                ['Novesta Township, Precinct 1', '0', '5'],
+                ['Tuscola Township, Precinct 1', '0', '12'],
+            ],
+            32: [
+                ['City of Vassar, Precinct 1', '0', '19'],
+                ['Vassar Township, Precinct 1', '0', '32'],
+                ['Watertown Township, Precinct 1', '0', '22'],
+                ['Wells Township, Precinct 1', '0', '9'],
+                ['Wisner Township, Precinct 1', '0', '4'],
+                ['Tuscola County - Total', '0', '335'],
+            ],
+            # p034: the Register of Deeds (REP) spill page's fused lines
+            # lose their right half (render-verified values).
+            34: [
+                ['City of Vassar, Precinct 1', '252', '252', '2'],
+                ['Vassar Township, Precinct 1', '380', '380', '2'],
+                ['Watertown Township, Precinct 1', '323', '323', '1'],
+                ['Wells Township, Precinct 1', '259', '259', '0'],
+                ['Wisner Township, Precinct 1', '82', '82', '1'],
+                ['Tuscola County - Total', '7669', '7669', '21'],
+            ],
+            # p035: the County Road Commissioner (DEM) main table collapsed
+            # to a stray '0' (render: zero-candidate contest).
+            35: [
+                ['County Road Commissioner (DEM)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Akron Township, Precinct 1', '0', '4'],
+                ['Almer Charter Township, Precinct 1', '0', '8'],
+                ['Arbela Township, Precinct 1', '0', '19'],
+                ['Arbela Township, Precinct 2', '0', '22'],
+                ['City of Caro, Precinct 1', '0', '19'],
+                ['City of Caro, Precinct 2', '0', '11'],
+                ['Columbia Township, Precinct 1', '0', '5'],
+                ['Dayton Township, Precinct 1', '0', '22'],
+                ['Denmark Township, Precinct 1', '0', '9'],
+                ['Elkland Township, Precinct 1', '0', '5'],
+                ['Elkland Township, Precinct 2', '0', '4'],
+                ['Ellington Township, Precinct 1', '0', '9'],
+                ['Elmwood Township, Precinct 1', '0', '7'],
+                ['Fairgrove Township, Precinct 1', '0', '8'],
+                ['Fremont Township, Precinct 1', '0', '19'],
+                ['Gilford Township, Precinct 1', '0', '6'],
+                ['Indianfields Township, Precinct 1', '0', '13'],
+                ['Juniata Township, Precinct 1', '0', '16'],
+                ['Kingston Township, Precinct 1', '0', '4'],
+                ['Koylton Township, Precinct 1', '0', '3'],
+                ['Millington Township, Precinct 1', '0', '11'],
+                ['Millington Township, Precinct 2', '0', '10'],
+                ['Novesta Township, Precinct 1', '0', '5'],
+                ['Tuscola Township, Precinct 1', '0', '13'],
+            ],
+            36: [
+                ['City of Vassar, Precinct 1', '0', '20'],
+                ['Vassar Township, Precinct 1', '0', '33'],
+                ['Watertown Township, Precinct 1', '0', '22'],
+                ['Wells Township, Precinct 1', '0', '9'],
+                ['Wisner Township, Precinct 1', '0', '4'],
+                ['Tuscola County - Total', '0', '340'],
+            ],
+            # p038: the County Road Commissioner (REP) spill page's fused
+            # lines lose their right half (render-verified values).
+            38: [
+                ['City of Vassar, Precinct 1', '248', '248', '1'],
+                ['Vassar Township, Precinct 1', '372', '372', '3'],
+                ['Watertown Township, Precinct 1', '309', '309', '2'],
+                ['Wells Township, Precinct 1', '251', '251', '1'],
+                ['Wisner Township, Precinct 1', '80', '80', '1'],
+                ['Tuscola County - Total', '7516', '7516', '30'],
+            ],
+            # p039: the County Road Commissioner - Partial Term (DEM) main
+            # table collapsed to a stray '0' (render: zero-candidate).
+            39: [
+                ['County Road Commissioner - Partial Term (DEM)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Akron Township, Precinct 1', '0', '4'],
+                ['Almer Charter Township, Precinct 1', '0', '7'],
+                ['Arbela Township, Precinct 1', '0', '19'],
+                ['Arbela Township, Precinct 2', '0', '20'],
+                ['City of Caro, Precinct 1', '0', '19'],
+                ['City of Caro, Precinct 2', '0', '10'],
+                ['Columbia Township, Precinct 1', '0', '3'],
+                ['Dayton Township, Precinct 1', '0', '23'],
+                ['Denmark Township, Precinct 1', '0', '9'],
+                ['Elkland Township, Precinct 1', '0', '5'],
+                ['Elkland Township, Precinct 2', '0', '4'],
+                ['Ellington Township, Precinct 1', '0', '9'],
+                ['Elmwood Township, Precinct 1', '0', '7'],
+                ['Fairgrove Township, Precinct 1', '0', '8'],
+                ['Fremont Township, Precinct 1', '0', '19'],
+                ['Gilford Township, Precinct 1', '0', '5'],
+                ['Indianfields Township, Precinct 1', '0', '13'],
+                ['Juniata Township, Precinct 1', '0', '15'],
+                ['Kingston Township, Precinct 1', '0', '5'],
+                ['Koylton Township, Precinct 1', '0', '3'],
+                ['Millington Township, Precinct 1', '0', '11'],
+                ['Millington Township, Precinct 2', '0', '9'],
+                ['Novesta Township, Precinct 1', '0', '6'],
+                ['Tuscola Township, Precinct 1', '0', '10'],
+            ],
+            40: [
+                ['City of Vassar, Precinct 1', '0', '21'],
+                ['Vassar Township, Precinct 1', '0', '33'],
+                ['Watertown Township, Precinct 1', '0', '22'],
+                ['Wells Township, Precinct 1', '0', '9'],
+                ['Wisner Township, Precinct 1', '0', '4'],
+                ['Tuscola County - Total', '0', '332'],
+            ],
+            # p042: the County Road Commissioner - Partial Term (REP) spill
+            # page's fused lines lose their right half (render-verified).
+            42: [
+                ['City of Vassar, Precinct 1', '250', '250', '0'],
+                ['Vassar Township, Precinct 1', '383', '383', '2'],
+                ['Watertown Township, Precinct 1', '313', '313', '1'],
+                ['Wells Township, Precinct 1', '243', '243', '0'],
+                ['Wisner Township, Precinct 1', '77', '77', '1'],
+                ['Tuscola County - Total', '7454', '7454', '29'],
+            ],
+            # p043: the Drain Commissioner (DEM) main table collapsed to a
+            # stray '0' (render, rotated: zero-candidate contest).
+            43: [
+                ['Drain Commissioner (DEM)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Akron Township, Precinct 1', '0', '4'],
+                ['Almer Charter Township, Precinct 1', '0', '7'],
+                ['Arbela Township, Precinct 1', '0', '17'],
+                ['Arbela Township, Precinct 2', '0', '21'],
+                ['City of Caro, Precinct 1', '0', '19'],
+                ['City of Caro, Precinct 2', '0', '11'],
+                ['Columbia Township, Precinct 1', '0', '4'],
+                ['Dayton Township, Precinct 1', '0', '23'],
+                ['Denmark Township, Precinct 1', '0', '9'],
+                ['Elkland Township, Precinct 1', '0', '5'],
+                ['Elkland Township, Precinct 2', '0', '4'],
+                ['Ellington Township, Precinct 1', '0', '8'],
+                ['Elmwood Township, Precinct 1', '0', '7'],
+                ['Fairgrove Township, Precinct 1', '0', '8'],
+                ['Fremont Township, Precinct 1', '0', '17'],
+                ['Gilford Township, Precinct 1', '0', '4'],
+                ['Indianfields Township, Precinct 1', '0', '12'],
+                ['Juniata Township, Precinct 1', '0', '14'],
+                ['Kingston Township, Precinct 1', '0', '5'],
+                ['Koylton Township, Precinct 1', '0', '3'],
+                ['Millington Township, Precinct 1', '0', '10'],
+                ['Millington Township, Precinct 2', '0', '8'],
+                ['Novesta Township, Precinct 1', '0', '5'],
+                ['Tuscola Township, Precinct 1', '0', '12'],
+            ],
+            44: [
+                ['City of Vassar, Precinct 1', '0', '18'],
+                ['Vassar Township, Precinct 1', '0', '29'],
+                ['Watertown Township, Precinct 1', '0', '18'],
+                ['Wells Township, Precinct 1', '0', '8'],
+                ['Wisner Township, Precinct 1', '0', '3'],
+                ['Tuscola County - Total', '0', '313'],
+            ],
+            # p203: OCR split the title across three lines (opening a
+            # phantom 'Dayton Township (DEM)' contest) and read the single
+            # data row three times (render: 0 / 25).
+            203: [
+                ['Trustee for Dayton Township (DEM)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Dayton Township, Precinct 1', '0', '25'],
+                ['Tuscola County - Total', '0', '25'],
+            ],
+            # p228: OCR interleaved the two precincts' values across rows
+            # and lost the title (render-verified values).
+            228: [
+                ['Trustee for Millington Township (REP)'],
+                ['Precinct', 'Allen Green (REP)', 'Luanne Jaruzel (REP)',
+                 'Edwyn R. Maschke (REP)', 'Bob Worth (REP)',
+                 'Total Votes', 'Unresolved Write-In'],
+                ['Millington Township, Precinct 1', '169', '218', '88',
+                 '161', '636', '1'],
+                ['Millington Township, Precinct 2', '155', '210', '79',
+                 '132', '576', '0'],
+                ['Tuscola County - Total', '324', '428', '167', '293',
+                 '1212', '1'],
+            ],
+            # p168/p169: single-precinct zero-candidate contests whose data
+            # row fused into a 'Precinct County - Total' row (p168) or was
+            # lost entirely (p169); hand-transcribed from renders.
+            168: [
+                ['Treasurer for Fairgrove Township (REP)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Fairgrove Township, Precinct 1', '0', '12'],
+                ['Tuscola County - Total', '0', '12'],
+            ],
+            169: [
+                ['Treasurer for Fremont Township (DEM)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Fremont Township, Precinct 1', '0', '20'],
+                ['Tuscola County - Total', '0', '20'],
+            ],
+            # p114: title line lost and data row fused into the footer
+            # (Schiefer 459 / total 459 / unresolved 0); p144/p170: title
+            # split across lines and the row fused into a 'Precinct
+            # County - Total' footer — hand-transcribed from renders.
+            114: [
+                ['Clerk for Denmark Township (REP)'],
+                ['Precinct', 'Renée Louise Schiefer (REP)', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['Denmark Township, Precinct 1', '459', '459', '0'],
+                ['Tuscola County - Total', '459', '459', '0'],
+            ],
+            144: [
+                ['Clerk for Watertown Township (REP)'],
+                ['Precinct', 'Malisa Pyles (REP)', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['Watertown Township, Precinct 1', '334', '334', '3'],
+                ['Tuscola County - Total', '334', '334', '3'],
+            ],
+            170: [
+                ['Treasurer for Fremont Township (REP)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Fremont Township, Precinct 1', '0', '36'],
+                ['Tuscola County - Total', '0', '36'],
+            ],
+            # p181: stair-step table — the right half's rows sit one grid
+            # row below the left half's, so each precinct's unresolved
+            # value OCR'd onto the next row (11 + 9 = 20 = footer).
+            181: [
+                ['Treasurer for Millington Township (DEM)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Millington Township, Precinct 1', '0', '11'],
+                ['Millington Township, Precinct 2', '0', '9'],
+                ['Tuscola County - Total', '0', '20'],
+            ],
+            265: [
+                ['Delegate for Elmwood Township, Precinct 1 (DEM)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Elmwood Township, Precinct 1', '0', '9'],
+                ['Tuscola County - Total', '0', '9'],
+            ],
+            272: [
+                ['Delegate for Gilford Township, Precinct 1 (REP)'],
+                ['Total Votes', 'Unresolved Write-In'],
+                ['Gilford Township, Precinct 1', '0', '12'],
+                ['Tuscola County - Total', '0', '12'],
+            ],
+            # p299/p300: the County Proposal's title line OCR dropped, so
+            # its main table leaked into the preceding Wisner delegate
+            # contest; hand-transcribed with the title restored (the
+            # proposal's footer prints on the p300 spill).
+            299: [
+                ['County Proposal for Tuscola County (Vote for 1)'],
+                ['Precinct', 'Yes', 'No', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['Akron Township, Precinct 1', '293', '36', '329', '0'],
+                ['Almer Charter Township, Precinct 1', '487', '96',
+                 '583', '0'],
+                ['Arbela Township, Precinct 1', '293', '32', '325', '0'],
+                ['Arbela Township, Precinct 2', '235', '35', '270', '0'],
+                ['City of Caro, Precinct 1', '508', '80', '588', '0'],
+                ['City of Caro, Precinct 2', '273', '38', '311', '0'],
+                ['Columbia Township, Precinct 1', '292', '33', '325', '0'],
+                ['Dayton Township, Precinct 1', '378', '66', '444', '0'],
+                ['Denmark Township, Precinct 1', '584', '114', '698', '0'],
+                ['Elkland Township, Precinct 1', '264', '42', '306', '0'],
+                ['Elkland Township, Precinct 2', '404', '62', '466', '0'],
+                ['Ellington Township, Precinct 1', '317', '60', '377', '0'],
+                ['Elmwood Township, Precinct 1', '207', '47', '254', '0'],
+                ['Fairgrove Township, Precinct 1', '234', '42', '276', '0'],
+                ['Fremont Township, Precinct 1', '524', '121', '645', '0'],
+                ['Gilford Township, Precinct 1', '136', '24', '160', '0'],
+                ['Indianfields Township, Precinct 1', '574', '97', '671',
+                 '0'],
+                ['Juniata Township, Precinct 1', '305', '93', '398', '0'],
+                ['Kingston Township, Precinct 1', '214', '78', '292', '0'],
+                ['Koylton Township, Precinct 1', '263', '60', '323', '0'],
+                ['Millington Township, Precinct 1', '458', '70', '528',
+                 '0'],
+                ['Millington Township, Precinct 2', '407', '53', '460',
+                 '0'],
+                ['Novesta Township, Precinct 1', '265', '50', '315', '0'],
+                ['Tuscola Township, Precinct 1', '391', '43', '434', '0'],
+            ],
+            300: [
+                ['City of Vassar, Precinct 1', '354', '38', '392', '0'],
+                ['Vassar Township, Precinct 1', '490', '90', '580', '0'],
+                ['Watertown Township, Precinct 1', '417', '55', '472',
+                 '0'],
+                ['Wells Township, Precinct 1', '297', '69', '366', '0'],
+                ['Wisner Township, Precinct 1', '121', '17', '138', '0'],
+                ['Tuscola County - Total', '9985', '1741', '11726', '0'],
+            ],
+            # Single-precinct township pages whose rows OCR garbled or
+            # dropped; hand-transcribed from the page renders.
+            99: [
+                ['Supervisor for Wells Township (DEM)'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['Wells Township, Precinct 1', '0', '9'],
+                ['Tuscola County - Total', '0', '9'],
+            ],
+            # p130: the Clerk for Juniata (REP) page prints no Total Votes
+            # column value that works — the contest's only candidate is a
+            # qualified write-in (Brenda Bigham, 51 votes) and the report
+            # prints Total Votes 0 beside 57 unresolved write-ins. The
+            # manual drops the Total Votes column so the parser's
+            # candidates-vs-total residual logic (which would fold the
+            # unresolved 57 into a bogus Write-In delta) stays out of the
+            # way; the emitted rows are Bigham 51 + Write-In 57.
+            130: [
+                ['Clerk for Juniata Township (REP)'],
+                ['Precinct', 'Brenda Bigham (W)', 'Unresolved Write-In'],
+                ['Juniata Township, Precinct 1', '51', '57'],
+                ['Tuscola County - Total', '51', '57'],
+            ],
+            135: [
+                ['Clerk for Millington Township (DEM)'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['Millington Township, Precinct 1', '0', '10'],
+                ['Millington Township, Precinct 2', '0', '9'],
+                ['Tuscola County - Total', '0', '19'],
+            ],
+            145: [
+                ['Clerk for Wells Township (DEM)'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['Wells Township, Precinct 1', '0', '9'],
+                ['Tuscola County - Total', '0', '9'],
+            ],
+            161: [
+                ['Treasurer for Elkland Township (DEM)'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['Elkland Township, Precinct 1', '0', '4'],
+                ['Elkland Township, Precinct 2', '0', '4'],
+                ['Tuscola County - Total', '0', '8'],
+            ],
+            200: [
+                ['Trustee for Arbela Township (REP)'],
+                ['Precinct', 'Timothy M. Anderson (REP)',
+                 'Gary Woelzlein (REP)', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['Arbela Township, Precinct 1', '138', '158', '296', '0'],
+                ['Arbela Township, Precinct 2', '99', '104', '203', '0'],
+                ['Tuscola County - Total', '237', '262', '499', '0'],
+            ],
+            204: [
+                ['Trustee for Dayton Township (REP)'],
+                ['Precinct', 'Greg Lottes (REP)', 'Robert W. Steele (REP)',
+                 'Total Votes', 'Unresolved Write-In'],
+                ['Dayton Township, Precinct 1', '207', '230', '437', '0'],
+                ['Tuscola County - Total', '207', '230', '437', '0'],
+            ],
+            209: [
+                ['Trustee for Ellington Township (DEM)'],
+                ['Precinct', 'Total Votes', 'Unresolved Write-In'],
+                ['Ellington Township, Precinct 1', '0', '9'],
+                ['Tuscola County - Total', '0', '9'],
+            ],
+            213: [
+                ['Trustee for Fairgrove Township (DEM)'],
+                ['Precinct', 'Michael W. Day (DEM)', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['Fairgrove Township, Precinct 1', '88', '88', '1'],
+                ['Tuscola County - Total', '88', '88', '1'],
+            ],
+            214: [
+                ['Trustee for Fairgrove Township (REP)'],
+                ['Precinct', 'Justin G. Edwards (REP)',
+                 'Dennis J. Hadeway (REP)', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['Fairgrove Township, Precinct 1', '138', '168', '306',
+                 '0'],
+                ['Tuscola County - Total', '138', '168', '306', '0'],
+            ],
+            # p276: the delegate page's Robert Harrison write-in column is
+            # a real (qualified) write-in candidate, so the manual names it
+            # with the (W) tag; the printed Total Votes (372) counts only
+            # the two named candidates, so it is dropped here for the same
+            # reason as p130's.
+            276: [
+                ['Delegate for Juniata Township, Precinct 1 (REP)'],
+                ['Precinct', 'Melvin Dean Campbell (REP)',
+                 'Susan Campbell (REP)', 'Robert Harrison (W)',
+                 'Unresolved Write-In'],
+                ['Juniata Township, Precinct 1', '189', '183', '3', '5'],
+                ['Tuscola County - Total', '189', '183', '3', '5'],
+            ],
+        },
+        # Pages whose title line OCR printed after the table (or garbled); the
+        # hand-read title opens the contest at the top of the page and the
+        # trailing line is dropped so the contest stays open across the
+        # spill page.
+        'page_titles': {
+            # Pages whose title line the OCR dropped entirely (hand-read
+            # from the page renders); the title opens the page's contest.
+            58: 'Supervisor for Akron Township (REP)',
+            60: 'Supervisor for Almer Charter Township (REP)',
+            64: 'Supervisor for Columbia Township (REP)',
+            67: 'Supervisor for Denmark Township (DEM)',
+            71: 'Supervisor for Ellington Township (DEM)',
+            75: 'Supervisor for Fairgrove Township (DEM)',
+            76: 'Supervisor for Fairgrove Township (REP)',
+            80: 'Supervisor for Gilford Township (REP)',
+            81: 'Supervisor for Indianfields Township (DEM)',
+            82: 'Supervisor for Indianfields Township (REP)',
+            85: 'Supervisor for Kingston Township (DEM)',
+            89: 'Supervisor for Millington Township (DEM)',
+            90: 'Supervisor for Millington Township (REP)',
+            93: 'Supervisor for Tuscola Township (DEM)',
+            201: 'Trustee for Columbia Township (DEM)',
+            202: 'Trustee for Columbia Township (REP)',
+            # p215's OCR title line lost the township ('Trustee for DEM'),
+            # so nothing opens the contest and its rows leak into the
+            # still-open Fairgrove trustee contest.
+            215: 'Trustee for Fremont Township (DEM)',
+            239: 'Trustee for Wisner Township (DEM)',
+            244: 'Delegate for Almer Charter Township, Precinct 1 (REP)',
+            248: 'Delegate for Arbela Township, Precinct 2 (REP)',
+            250: 'Delegate for City of Caro, Precinct 1 (REP)',
+            251: 'Delegate for City of Caro, Precinct 2 (DEM)',
+            255: 'Delegate for Dayton Township, Precinct 1 (DEM)',
+            260: 'Delegate for Elkland Township, Precinct 1 (REP)',
+            262: 'Delegate for Elkland Township, Precinct 2 (REP)',
+            263: 'Delegate for Ellington Township, Precinct 1 (DEM)',
+            269: 'Delegate for Fremont Township, Precinct 1 (DEM)',
+            271: 'Delegate for Gilford Township, Precinct 1 (DEM)',
+            273: 'Delegate for Indianfields Township, Precinct 1 (DEM)',
+            274: 'Delegate for Indianfields Township, Precinct 1 (REP)',
+            # 276 is manualized (its write-in candidate column needs a
+            # hand header); the manual carries its own title row.
+            283: 'Delegate for Millington Township, Precinct 2 (DEM)',
+            285: 'Delegate for Novesta Township, Precinct 1 (DEM)',
+            286: 'Delegate for Novesta Township, Precinct 1 (REP)',
+            288: 'Delegate for Tuscola Township, Precinct 1 (REP)',
+            289: 'Delegate for City of Vassar, Precinct 1 (DEM)',
+            292: 'Delegate for Vassar Township, Precinct 1 (REP)',
+            295: 'Delegate for Wells Township, Precinct 1 (DEM)',
+            # The closing proposals (OCR drops their '(Vote for 1)' tag, so
+            # PROPOSAL never matches and their rows leak into the still-open
+            # County Proposal contest).
+            301: 'Township Proposal for Akron Township (Vote for 1)',
+            302: 'Township Proposal for Almer Charter Township (Vote for 1)',
+            303: 'Township Proposal for Columbia Township (Vote for 1)',
+            304: 'Township Proposal for Denmark Township (Vote for 1)',
+            305: 'Township Proposal for Elkland Township (Vote for 1)',
+            306: 'Township Proposal for Indianfields Township (Vote for 1)',
+            307: 'Township Proposal for Koylton Township (Vote for 1)',
+            308: 'School District Proposal for Unionville-Sebewaing Area '
+                 'School District (Vote for 1)',
+            309: 'District Library Proposal for Caro Area District Library '
+                 '(Vote for 1)',
+        },
+        'drop_lines': {},
+    },
 }
 
 TITLE = re.compile(r'^(.*?) \((DEM|REP|LIB|UST|GRN|NLP)\) \((Vote for [\d.]+)\)'
                    r'(?: (DEM|REP|LIB|UST|GRN|NLP))?$')
+# Some formats print titles without the '(Vote for N)' group (Tuscola 2020).
+TITLE_NOVF = re.compile(r'^(.*?) \((DEM|REP|LIB|UST|GRN|NLP)\)'
+                        r'(?: \((Vote for [\d.]+)\))?'
+                        r'(?: (DEM|REP|LIB|UST|GRN|NLP))?$')
 PROPOSAL = re.compile(r'^(.*?) \((Vote for [\d.]+)\)$')
+# Tuscola 2020's spill pages print each row as one fused text line
+# ('<label> <nums> <label> <nums>'): left half + right half.
+FUSED_LINE = re.compile(r'^(.*[A-Za-z].*?)\s+((?:\d[\d,.]*\s+)+)'
+                        r'([A-Za-z].*?)\s+((?:\d[\d,.]*\s*)+)$')
 DISTRICT = re.compile(r'^(Representative in Congress|'
                       r'Representative in State Legislature|'
                       r'Rep in Congress|Rep in State Legislature) '
@@ -1767,11 +2927,235 @@ def parse_county(county, cfg, problems):
     pending_header = None   # candidate-name half of a split results header
     used = set()        # precincts already assigned in the current table
 
+    # Tuscola 2020 prints every contest as a merged 2-up table: the left
+    # half repeats the precinct label with Undervotes/Overvotes columns
+    # (not wanted), the right half carries the results ([Precinct]
+    # candidates... Total Votes Unresolved Write-In). Rows are rewritten
+    # here to their right half before the main loop sees them.
+    def two_up_right(cells):
+        """The row's right-half cells — everything from the last
+        non-numeric cell on, trailing empties stripped."""
+        ri = None
+        for i in range(len(cells) - 1, -1, -1):
+            c = cells[i]
+            if not c.strip():
+                continue
+            if intval(c) is None:
+                ri = i
+                break
+        if ri is None:
+            return None
+        right = [cells[ri]] + cells[ri + 1:]
+        while right and not right[-1].strip():
+            right.pop()
+        return right or None
+
+    def two_up_prec(right, cells):
+        """(precinct, shift) for the right half's label fragment. OCR splits
+        wrapped labels across the two halves and adjacent rows, so the
+        fragment may be the label's first line, its second line, or carry a
+        digit of itself inside the values ('City of Vassar, Precinct' /
+        '1 0 21'); the row's left-half label joins the candidates."""
+        frag = fix_lsq(squash(right[0]))
+        # The fragment can carry a junk leading digit ('3 Wells Township,
+        # Precinct 1'); precinct names never start with one.
+        frag = re.sub(r'^\d+', '', frag)
+        cands = []      # (squash, shifted)
+        if frag:
+            cands.append((frag, False))
+            if len(right) > 2 and intval(right[1]) is not None:
+                cands.append((frag + squash(right[1]), True))
+        if cells:
+            left = fix_lsq(squash(cells[0]))
+            if left and left != frag:
+                cands.append((left, False))
+                if frag:
+                    cands.append((left + frag, False))
+                    cands.append((frag + left, False))
+        for csq, shifted in cands:
+            if csq in sq_precincts:
+                return sq_precincts[csq], shifted
+        for csq, shifted in cands:
+            partial = [p for p in precincts if squash(p).startswith(csq)]
+            if len(partial) == 1:
+                return partial[0], shifted
+        # The fragment can arrive fused with its row's neighbours ('County
+        # Tuscola County <precinct>'); a unique precinct squash embedded in
+        # it still identifies the row.
+        if frag:
+            inside = [p for p in precincts if squash(p) and
+                      squash(p) in frag]
+            if len(inside) == 1:
+                return inside[0], False
+        return None, False
+
+    county_echo = {squash('County'), squash('Country'),
+                   squash(f'{county} County')}
+    prev_right_vals = None   # values of the last emitted data row
+    held_prec = None     # precinct embedded in a rowspan header cell
+    held_n = None        # its table's value-column count
+
+    def fix_footer_label(right):
+        """Normalize the county footer label OCR fuses with 'Cumulative',
+        truncates ('... - Tota'/'... - Tot') or leading/trailing digits
+        ('3 Tuscola County - Total Cumulative' / '... - Total 0'); None
+        when the label is not the county footer's."""
+        lab_sq = re.sub(r'cumulative$', '', squash(right[0]))
+        lab_sq = re.sub(r'^\d+', '', lab_sq)
+        lab_sq = re.sub(r'\d+$', '', lab_sq)
+        if lab_sq.endswith(('countytotal', 'countytota', 'countytot')) or \
+                lab_sq in (squash(f'{county} County - Total'),
+                           squash(f'{county} County - Tota')):
+            return [f'{county} County - Total'] + right[1:]
+        return None
+
+    def two_up_rows(rows_in, where):
+        nonlocal prev_right_vals, held_prec, held_n
+        if os.environ.get('TUSDBG') == where:
+            print(where, 'IN', rows_in, file=sys.stderr)
+        out = []
+        for cells in rows_in:
+            if not cells:
+                out.append(cells)
+                continue
+            if len(cells) == 1:
+                # A spill page's rows can print as single fused text lines;
+                # split them into table cells first.
+                m = FUSED_LINE.match(cells[0])
+                if not m:
+                    out.append(cells)
+                    continue
+                cells = ([m.group(1)] + m.group(2).split() +
+                         [m.group(3)] + m.group(4).split())
+            nonempty = [c for c in cells if c.strip()]
+            joined_sq = squash(''.join(cells))
+            if nonempty and all(squash(c) in county_echo
+                                for c in nonempty):
+                continue    # the header's 'County' echo rows
+            sq0 = squash(nonempty[0]) if nonempty else ''
+            if sq0.startswith('precinct') and nonempty and \
+                    all(squash(c) in county_echo for c in nonempty[1:]):
+                continue    # a label-echo row that kept its 'Precinct' cell
+            if sq0.startswith('precinct') or \
+                    sq0 in ('county', 'country', 'predict', 'predinct') or \
+                    'undervotes' in joined_sq or 'undenvotes' in joined_sq:
+                # Header: keep it from the last 'Precinct' cell, dropping
+                # the phantom 'County' that follows and trailing empties.
+                prec_cells = [i for i, c in enumerate(cells)
+                              if squash(c).startswith('precinct')]
+                if not prec_cells:
+                    out.append(cells)   # 'Precinct' label lost; classify
+                    continue            # the row as-is downstream
+                ri = max(prec_cells)
+                head = cells[ri:]
+                if len(head) > 1 and squash(head[1]) in ('county',
+                                                         'country'):
+                    head = [head[0]] + head[2:]
+                while head and not head[-1].strip():
+                    head.pop()
+                # A rowspan header fuses every label of the page ('Precinct
+                # County Tuscola County <precinct> ... - Total Cumulative')
+                # into its first cell; hold the one precinct it names so the
+                # all-numeric data rows below can claim it.
+                held_prec, held_n = None, None
+                inside = [p for p in precincts if squash(p) and
+                          squash(p) in joined_sq]
+                # A merged header whose right 'Precinct' cell OCR dropped
+                # keeps the left half's 'Undervotes'/'Overvotes' captions
+                # ahead of the results columns; drop them (the left half's
+                # values are not wanted and would swallow the results).
+                # A rowspan-fused header names a precinct and needs every
+                # caption cell it has — leave it alone.
+                if not inside and any(
+                        squash(c) in ('totalvotes', 'unresolvedwritein',
+                                      'unresolvedwrite') for c in head):
+                    head = [c for c in head if squash(c) not in
+                            ('undervotes', 'overvotes', 'undenvotes')]
+                if len(inside) == 1 and head:
+                    held_prec = inside[0]
+                    held_n = len(head) - 1
+                out.append(head)
+                continue
+            right = two_up_right(cells)
+            if right is None:
+                # An all-numeric row whose label was lost into the rowspan
+                # header cell: attach the header's held precinct and
+                # right-align the row's value columns.
+                vals = ([intval(c) for c in nonempty]
+                        if held_prec and held_n else None)
+                if vals and all(v is not None for v in vals) and \
+                        len(vals) >= held_n:
+                    tail = vals[-held_n:]
+                    if tail != prev_right_vals:
+                        prev_right_vals = tail
+                        out.append([held_prec] +
+                                   [str(v) for v in tail])
+                continue
+            prec, shift = two_up_prec(right, cells)
+            if prec is None:
+                fixed = fix_footer_label(right)
+                if fixed is not None:
+                    held_prec = None
+                    out.append(fixed)
+                    continue
+            if prec is not None:
+                right = [prec] + right[1 + shift:]
+                prev_right_vals = [intval(c) for c in right[1:]]
+                out.append(right)
+                continue
+            # An unresolvable label fragment repeating the previous row's
+            # values is the OCR's second reading of a wrapped label
+            # ('Almer Charter' / 'Township, Precinct 1', same numbers):
+            # drop it.
+            if prev_right_vals is not None and \
+                    [intval(c) for c in right[1:]] == prev_right_vals:
+                continue
+            out.append(right)
+        if os.environ.get('TUSDBG') == where:
+            print(where, out, file=sys.stderr)
+        return out
+
     def new_contest(title, tag, vote_for):
         title = cfg.get('name_fixes', {}).get(title, title)
         return {'title': title, 'tag': tag, 'vote_for': vote_for,
                 'aux': {}, 'cand': {}, 'total': {}, 'unres': {},
                 'county_totals': {}}
+
+    def dedup_extra(vals, rs):
+        """Tuscola 2020's OCR duplicates one value cell beside its twin
+        ('221 221 221 2' / '0 0 4'); drop the latest removable middle
+        duplicate when the row carries exactly one surplus value."""
+        if len(vals) != len(rs) + 1:
+            return vals
+        for i in range(len(vals) - 2, 0, -1):
+            if vals[i] is not None and (vals[i] == vals[i - 1]
+                                        or vals[i] == vals[i + 1]):
+                return vals[:i] + vals[i + 1:]
+        return vals
+
+    def surplus_pairs(rs, vals, prec):
+        """Tuscola 2020's 2-up rows fuse the left half's Undervotes/Overvote
+        junk in front of the right half's values; align the survivors with
+        the results roles. Render-verified: the right half's columns are the
+        ones printed last, so the survivors right-align — except a lone
+        trailing 0 surplus, which is a phantom Unresolved column whose
+        header caption the OCR dropped (dropped left-to-right instead)."""
+        rr = [r for r in rs if r is not None]
+        vv = [v for v in vals if v is not None]
+        if rs == ['total_votes'] and len(vv) == 2:
+            # A headerless zero-candidate results table prints Total Votes
+            # and Unresolved Write-In.
+            rs = rr = ['total_votes', 'unresolved']
+            return list(zip(rr, vv))
+        if 'total_votes' in rs and 'unresolved' in rs and len(vv) > len(rr):
+            if rs == ['total_votes', 'unresolved']:
+                return [('total_votes', vv[-2]), ('unresolved', vv[-1])]
+            return list(zip(rr, vv[-len(rr):]))
+        if len(vv) == len(rr) + 1 and vv[-1] == 0 and \
+                'total_votes' in rs and 'unresolved' not in rs:
+            return list(zip(rr, vv[:-1]))
+        problems.append(f'{where}: {prec} values {vals} vs roles {rs}')
+        return []
 
     def take_values(prec, cells):
         """Apply one resolved data row to the current contest."""
@@ -1800,6 +3184,12 @@ def parse_county(county, cfg, problems):
                     # Votes and Unresolved Write-In; its garbled header was
                     # not detected, so the extra column surfaces here.
                     rs = ['total_votes', 'unresolved']
+            if cfg.get('two_up'):
+                while True:
+                    nv = dedup_extra(vals, rs)
+                    if nv == vals:
+                        break
+                    vals = nv
             if len(vals) == len(rs):
                 pairs = list(zip(rs, vals))
                 # A phantom empty header column can sit between real ones
@@ -1816,20 +3206,15 @@ def parse_county(county, cfg, problems):
                 # the row: align surviving values with the named columns.
                 rr = [r for r in rs if r is not None]
                 vv = [v for v in vals if v is not None]
-                if rs == ['total_votes'] and len(vv) == 2:
-                    # A headerless zero-candidate results table prints
-                    # Total Votes and Unresolved Write-In.
-                    rr = ['total_votes', 'unresolved']
                 # Values assign left-to-right; when OCR drops a trailing
                 # value (Mecosta's merged tables lose the Total Votes
                 # column) the tail roles simply go unfilled — the
                 # per-contest footer cross-check is the backstop. Only a
                 # surplus of values is ambiguous.
                 pairs = list(zip(rr, vv))
-                if len(vv) > len(rr):
-                    problems.append(f'{where}: {prec} values {vals} vs '
-                                    f'roles {rs}')
-                    pairs = []
+                if len(vv) > len(rr) or (rs == ['total_votes'] and
+                                         len(vv) == 2):
+                    pairs = surplus_pairs(rs, vals, prec)
             for r, v in pairs:
                 if r is None or v is None:
                     continue
@@ -1840,6 +3225,7 @@ def parse_county(county, cfg, problems):
                 elif r == 'unresolved':
                     cur['unres'][prec] = v
                 else:
+                    r = cfg.get('cand_fixes', {}).get(r, r)
                     cur['cand'].setdefault(prec, {})[r] = v
 
     def complete_pending(line_sq, where2):
@@ -1932,6 +3318,8 @@ def parse_county(county, cfg, problems):
 
     page_titles = {int(k): v
                    for k, v in cfg.get('page_titles', {}).items()}
+    inject_after = {int(k): v
+                    for k, v in cfg.get('inject_after', {}).items()}
     for no, name in enumerate(names, 1):
         where = f'p{no:03d}'
         rows = cfg.get('manual', {}).get(no)
@@ -1943,6 +3331,37 @@ def parse_county(county, cfg, problems):
             rows = flatten(os.path.join(CACHE, name))
         if title:
             rows = [[title]] + rows
+        # A garbled/misplaced title line already injected above must not
+        # re-open the contest mid-page (e.g. between a table and its spill
+        # page).
+        for pat in cfg.get('drop_lines', {}).get(no, []):
+            rows = [r for r in rows
+                    if not (len(r) == 1 and pat in r[0])]
+        for anchor, new_cells in inject_after.get(no, []):
+            for i, cells in enumerate(rows):
+                if cells and squash(cells[0]) == squash(anchor):
+                    rows = rows[:i + 1] + [list(new_cells)] + rows[i + 1:]
+                    break
+            else:
+                problems.append(f'{where}: inject anchor {anchor!r} '
+                                f'not found')
+        if cfg.get('titles_first'):
+            # Some pages print the contest title AFTER its table (OCR
+            # reading order); the title belongs to this page's table, so
+            # hoist it to the front before any rows are read.
+            front, rest = [], []
+            for cells in rows:
+                if len(cells) == 1:
+                    line = re.sub(r'\s+', ' ', cells[0]).strip().rstrip('.')
+                    m = (TITLE_NOVF if cfg.get('titles_without_vote_for')
+                         else TITLE).match(line) or PROPOSAL.match(line)
+                    if m:
+                        front.append([line])
+                        continue
+                rest.append(cells)
+            rows = front + rest
+        if cfg.get('two_up'):
+            rows = two_up_rows(rows, where)
         if cfg.get('board_rows'):
             rows = collapse_board_rows(rows, where)
         for cells in rows:
@@ -1965,20 +3384,35 @@ def parse_county(county, cfg, problems):
                 line = re.sub(r'\((DEM|REP|LIB|UST|GRN|NLP)\) \1 \(Vote for',
                               r'(\1) (Vote for', line)
                 line = re.sub(r' PEP$', ' REP', line)
-                m = TITLE.match(line) or PROPOSAL.match(line)
+                m = (TITLE_NOVF if cfg.get('titles_without_vote_for')
+                     else TITLE).match(line) or PROPOSAL.match(line)
                 if m:
                     resolve_pending(where)
-                    if cur is not None:
-                        contests.append(cur)
                     groups = m.groups()
                     tag = groups[1] if len(groups) >= 2 and groups[1] in (
                         'DEM', 'REP', 'LIB', 'UST', 'GRN', 'NLP') else ''
                     title = groups[0].strip()
                     for pat, rep in cfg.get('title_sub', []):
                         title = re.sub(pat, rep, title)
-                    # '(Vote for .1)' — an OCR dot before the digit
-                    vote_for = (groups[2] if tag else groups[1]).replace(
-                        '.', '')
+                    # '(Vote for .1)' — an OCR dot before the digit; a title
+                    # printed without the group (Tuscola 2020) yields ''.
+                    vote_for = ((groups[2] if tag else groups[1])
+                                or '').replace('.', '')
+                    title = cfg.get('name_fixes', {}).get(title, title)
+                    # A column-spill continuation page repeats the parent
+                    # contest's title (the last candidate column(s) plus
+                    # Total Votes/Unresolved print on their own page); a
+                    # re-open of the still-open contest continues it rather
+                    # than duplicating it.
+                    if cur is not None and \
+                            (cur['title'], cur['tag'], cur['vote_for']) == \
+                            (title, tag, vote_for):
+                        saw_table = False
+                        used.clear()
+                        pending_header = None
+                        continue
+                    if cur is not None:
+                        contests.append(cur)
                     cur = new_contest(title, tag, vote_for)
                     saw_table = False
                     used.clear()
@@ -2148,6 +3582,12 @@ def parse_county(county, cfg, problems):
                         rs = seg_roles[:n_aux]
                     else:
                         rs = seg_roles
+                    if cfg.get('two_up'):
+                        while True:
+                            nv = dedup_extra(vals, rs)
+                            if nv == vals:
+                                break
+                            vals = nv
                     if kind == 'results' and roles == ['total_votes'] \
                             and not data_since_footer and \
                             len([x for x in vals if x is not None]) > 1:
@@ -2176,19 +3616,16 @@ def parse_county(county, cfg, problems):
                         # the named columns in order.
                         rr = [r for r in rs if r is not None]
                         vv = [v for v in vals if v is not None]
-                        if rs == ['total_votes'] and len(vv) == 2:
-                            # A headerless zero-candidate results footer
-                            # prints Total Votes and Unresolved Write-In.
-                            rr = ['total_votes', 'unresolved']
                         # Short footers assign left-to-right with tail roles
                         # unfilled (see take_values); only a surplus of
                         # values is ambiguous.
                         pairs = list(zip(rr, vv))
-                        if len(vv) > len(rr):
-                            problems.append(
-                                f'{where}: footer {label!r} seg {seg_i} '
-                                f'values {vals} vs roles {rs}')
-                            pairs = []
+                        if len(vv) > len(rr) or \
+                                (rs == ['total_votes'] and len(vv) == 2):
+                            # A headerless zero-candidate results footer
+                            # prints Total Votes and Unresolved Write-In;
+                            # surplus values right-align (see surplus_pairs).
+                            pairs = surplus_pairs(rs, vals, label)
                     for r, v in pairs:
                         if r is None or v is None:
                             continue
@@ -2279,6 +3716,33 @@ def parse_county(county, cfg, problems):
                         and c['vote_for'] == '(Vote for 1)':
                     problems.append(f'{c["title"]} / {prec}: Total Votes '
                                     f'{total} > Times Cast {tc}')
+        # A single-precinct contest's footer IS that precinct's row (the
+        # county total equals the precinct's). When OCR dropped a row's
+        # value cell or the row entirely, the footer still names every
+        # role's county total, so recover the precinct's values from it.
+        solo = [p for p in prec_set
+                if p in c['total'] or p in c['unres'] or p in c['cand']
+                or p in c['aux']]
+        if len(solo) == 1:
+            prec = solo[0]
+            for key, want in sorted(c['county_totals'].items()):
+                kk, r = key.split(':', 1)
+                if kk == 'aux':
+                    if r in ('times_cast', 'registered_voters'):
+                        c['aux'].setdefault(prec, {}) \
+                            .setdefault(r, want)
+                elif r == 'total_votes':
+                    c['total'].setdefault(prec, want)
+                elif r == 'unresolved':
+                    c['unres'].setdefault(prec, want)
+                # Any other role should be a candidate, but a garbled
+                # footer can fuse caption fragments into the label
+                # ('Undervotes 82', '231'); only accept plausible names.
+                elif not re.search(
+                        r'undervote|overvote|precinct|county|cumulative'
+                        r'|writein|timescast|registered|^tota?l?$'
+                        r'|^\d+$', squash(r)):
+                    c['cand'].setdefault(prec, {}).setdefault(r, want)
         sums = {'aux:times_cast': sum(a.get('times_cast', 0)
                                       for a in c['aux'].values()),
                 'aux:registered_voters':
@@ -2294,6 +3758,13 @@ def parse_county(county, cfg, problems):
                 sums['results:unresolved'] = \
                     sums.get('results:unresolved', 0) + c['unres'][prec]
         for key, want in sorted(c['county_totals'].items()):
+            # Footer candidate keys carry the source's spelling; a
+            # cand_fixes rename must apply to both sides.
+            fixed = [(cfg.get('cand_fixes', {}).get(k, k), v)
+                     for k, v in [(key[len('results:'):], want)]
+                     if key.startswith('results:')]
+            if fixed:
+                key = f'results:{fixed[0][0]}'
             got = sums.get(key)
             if got is None:
                 problems.append(f'{c["title"]}: footer {key}={want} has no '
@@ -2320,7 +3791,7 @@ def main():
     args = ap.parse_args()
     cfg = COUNTY_CONFIG[args.county]
     problems = []
-    rows = parse_county(args.county, cfg, problems)
+    rows = parse_county(cfg.get('county_name', args.county), cfg, problems)
     out = args.out or cfg['out']
     with open(out, 'w', newline='') as fh:
         w = csv.writer(fh)
