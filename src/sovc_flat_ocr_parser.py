@@ -299,6 +299,93 @@ COUNTY_CONFIG = {
             ],
         },
     },
+    # Image-only 206-page SOVC (PaddleOCR); Iosco's layout, 13
+    # jurisdictions.
+    'Kalkaska': {
+        'cache': 'Kalkaska_County_Aug_2020_Primary_Statement_of_Votes_Cast',
+        'pages': 206,
+        'out': '2020/counties/20200804__mi__primary__kalkaska__precinct.csv',
+        'precincts': [
+            'Bear Lake Township, Precinct 1', 'Blue Lake Township, Precinct 1',
+            'Boardman Township, Precinct 1', 'Clearwater Township, Precinct 1',
+            'Coldsprings Township, Precinct 1', 'Excelsior Township, '
+            'Precinct 1',
+            'Garfield Township, Precinct 1', 'Kalkaska Township, Precinct 1',
+            'Kalkaska Township, Precinct 2', 'Oliver Township, Precinct 1',
+            'Orange Township, Precinct 1', 'Rapid River Township, Precinct 1',
+            'Springfield Township, Precinct 1',
+        ],
+        'manual': {},
+        # PaddleOCR dropped or garbled these contest titles; the printed
+        # titles were hand-read from page renders.  Pages 95/98/125/142
+        # are column-spill continuations of the previous page's contest
+        # (a third candidate plus the Total Votes/Unresolved columns
+        # printed on their own page: e.g. Comm 2nd REP Coldsprings
+        # 199+35+120=354), so they repeat the parent contest's title.
+        'page_titles': {
+            18: 'County Commissioner 6th District (DEM) (Vote for 1) DEM',
+            40: 'Excelsior Township Supervisor (DEM) (Vote for 1) DEM',
+            46: 'Garfield Township Treasurer (DEM) (Vote for 1) DEM',
+            55: 'Oliver Township Trustee (DEM) (Vote for 2) DEM',
+            64: 'Springfield Township Supervisor (DEM) (Vote for 1) DEM',
+            68: 'Bear Lake Township, Precinct 1 Delegate (DEM) (Vote for 3)'
+                ' DEM',
+            80: 'Springfield Township, Precinct 1 Delegate (DEM) (Vote for 4)'
+                ' DEM',
+            83: 'Rep in State Legislature 103rd District (REP) (Vote for 1)'
+                ' REP',
+            92: 'County Commissioner 1st District (REP) (Vote for 1) REP',
+            95: 'County Commissioner 2nd District (REP) (Vote for 1) REP',
+            98: 'County Commissioner 4th District (REP) (Vote for 1) REP',
+            125: 'Clearwater Township Trustee (REP) (Vote for 2) REP',
+            129: 'Coldsprings Township Trustee (REP) (Vote for 2) REP',
+            131: 'Excelsior Township Supervisor (REP) (Vote for 1) REP',
+            134: 'Excelsior Township Trustee (REP) (Vote for 2) REP',
+            140: 'Garfield Township Treasurer (REP) (Vote for 1) REP',
+            155: 'Orange Township Treasurer (REP) (Vote for 1) REP',
+            158: 'Rapid River Township Supervisor (REP) (Vote for 1) REP',
+            163: 'Springfield Township Supervisor (REP) (Vote for 1) REP',
+            169: 'Boardman Township, Precinct 1 Delegate (REP) (Vote for 4)'
+                 ' REP',
+            170: 'Boardman Township, Precinct 1 Delegate (REP) (Vote for 4)'
+                 ' REP',
+            173: 'Coldsprings Township, Precinct 1 Delegate (REP) (Vote for 4)'
+                 ' REP',
+            174: 'Excelsior Township, Precinct 1 Delegate (REP) (Vote for 2)'
+                 ' REP',
+            175: 'Garfield Township, Precinct 1 Delegate (REP) (Vote for 2)'
+                 ' REP',
+            181: 'Rapid River Township, Precinct 1 Delegate (REP) (Vote for 3)'
+                 ' REP',
+        },
+        'manual': {
+            # p158's results header fused into one cell and PaddleOCR
+            # dropped the Total Votes/Unresolved Write-In captions
+            # entirely; page-image check: Williams 184, Total 184,
+            # unresolved 2.
+            158: [
+                ['Precinct', 'Times Cast', 'Registered Voters'],
+                ['County', '', ''],
+                ['Kalkaska County Michigan', '', ''],
+                ['Rapid River Township, Precinct 1', '316', '1,118'],
+                ['Kalkaska County Michigan - Total', '316', '1,118'],
+                ['Cumulative', '', ''],
+                ['Cumulative', '0', '0'],
+                ['Cumulative - Total', '0', '0'],
+                ['County - Total', '316', '1,118'],
+                ['Precinct', 'Terry Williams (REP)', 'Total Votes',
+                 'Unresolved Write-In'],
+                ['County', '', '', ''],
+                ['Kalkaska County Michigan', '', '', ''],
+                ['Rapid River Township, Precinct 1', '184', '184', '2'],
+                ['Kalkaska County Michigan - Total', '184', '184', '2'],
+                ['Cumulative', '', '', ''],
+                ['Cumulative', '0', '0', '0'],
+                ['Cumulative - Total', '0', '0', '0'],
+                ['County - Total', '184', '184', '2'],
+            ],
+        },
+    },
     # One PDF; flat SOVC like Luce (contest per page section, aux +
     # results tables), nine single-precinct townships.
     'Montmorency': {
@@ -1482,6 +1569,58 @@ def header_roles(cells, problems, where):
                 or sq.startswith('precinctcounty') \
                 or sq in ('predict', 'predinct'):
             roles.append('precinct')
+            # Kalkaska fuses the first candidate's name into the 'Precinct'
+            # header cell ('Precinct Danielle Stein-Seabolt'); the phantom
+            # empty column after the candidate then has no None slot. Emit
+            # the remainder as a candidate column.
+            if sq.startswith('precinct') and sq != 'precinct' and \
+                    not sq.startswith(('precinctcounty', 'precipinct')) and \
+                    len(sq) > 12:
+                rest = re.sub(r'^\s*Precinct\s+', '', cell,
+                              flags=re.I).strip()
+                if rest:
+                    rsq = squash(rest)
+                    if 'time' in rsq or 'regist' in rsq:
+                        # A fused aux header ('Precinct Times Cast
+                        # Registered Voter', Kalkaska p131).
+                        roles.append('times_cast')
+                        roles.append('registered_voters')
+                        continue
+                    # Kalkaska fuses candidate names (and sometimes the
+                    # Total Votes caption) into the 'Precinct' header cell
+                    # ('Precinct John James (REP) Total '); split on the
+                    # caption.  The Unresolved Write-In caption may be
+                    # fused or dropped ('Total V'), but this format's
+                    # results tables always close with that column.
+                    tm = re.match(r'^(.*?)\s*\bTotal\b\s*(.*)$', rest)
+                    if tm:
+                        rest, tail = tm.group(1).strip(), tm.group(2)
+                        tail_sq = squash(tail)
+                    else:
+                        tail_sq = None
+                    # Several candidate names can be fused ('Precinct Bob
+                    # Baldwin (REP) Rich Gillisse (REP)'); each ends in a
+                    # party tag.
+                    parts = re.findall(r'.*?\((?:DEM|REP|LIB|UST|GRN|NLP)\)',
+                                       rest)
+                    if parts and squash(' '.join(parts)) == squash(rest):
+                        roles.extend(
+                            re.sub(r'\s*\((?:DEM|REP|LIB|UST|GRN|NLP)\)$', '',
+                                   p).strip() for p in parts)
+                    elif 'unres' in rsq or 'writein' in rsq:
+                        # A fused unresolved-write-in continuation header
+                        # ('Precinct Unresolved Write-In', Kalkaska p147).
+                        roles.append('unresolved')
+                    elif rest:
+                        roles.append(rest)
+                    if tail_sq is not None:
+                        roles.append('total_votes')
+                        if 'unres' in tail_sq or 'writein' in tail_sq:
+                            roles.append('unresolved')
+                        elif tail_sq in ('', 'votes', 'v'):
+                            roles.append('unresolved')
+                        elif tail_sq:
+                            roles.append(tail.strip())
         elif sq in ('county', 'country') and not roles:
             # A label column headed only 'County' (or OCR's 'Country').
             roles.append('precinct')
@@ -1796,13 +1935,14 @@ def parse_county(county, cfg, problems):
     for no, name in enumerate(names, 1):
         where = f'p{no:03d}'
         rows = cfg.get('manual', {}).get(no)
+        # PaddleOCR can drop a contest's title line while keeping its
+        # tables intact; the hand-read title is injected here (also ahead
+        # of a manual page, whose contest may need (re)opening).
+        title = page_titles.get(no)
         if rows is None:
             rows = flatten(os.path.join(CACHE, name))
-            # PaddleOCR can drop a contest's title line while keeping its
-            # tables intact; the hand-read title is injected here.
-            title = page_titles.get(no)
-            if title:
-                rows = [[title]] + rows
+        if title:
+            rows = [[title]] + rows
         if cfg.get('board_rows'):
             rows = collapse_board_rows(rows, where)
         for cells in rows:
@@ -1856,6 +1996,21 @@ def parse_county(county, cfg, problems):
                     cur['county_totals']['results:total_votes'] = \
                         intval(m.group(1))
                     continue
+                # A results header fused into one cell ('Precinct John
+                # James (REP) Total ', Kalkaska) reads as a single-cell
+                # line, not a header row; classify it before it can be
+                # mistaken for noise.
+                if cur is not None and len(line) > 20 and \
+                        squash(line).startswith('precinct') and \
+                        re.search(r'\b(Total|DEM|REP|Times|Registered|'
+                                  r'Unresolved)\b', line):
+                    got_kind, got_roles = header_roles([line], problems,
+                                                       where)
+                    if got_kind:
+                        kind, roles = got_kind, got_roles
+                        saw_table = True
+                        used.clear()
+                        continue
                 # A results table can collapse to single-cell lines with
                 # the value merged into the label ("<precinct> 12") or the
                 # precinct number displaced onto the next line.
