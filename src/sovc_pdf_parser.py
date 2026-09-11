@@ -126,9 +126,12 @@ PARTY_TOKEN = re.compile(r'(?:DEM|REP|LIB|GRN|UST)')
 REMNANT_TITLE = re.compile(r'(?:District|Precinct|County|Michigan)'
                            r'(?: (?:District|Precinct|County|Michigan))*')
 AUX_HEADERS = ('Times Cast', 'Registered Voters', 'Undervotes', 'Overvotes')
-METHOD_LABELS = ('Election Day', 'AV Counting Boards', 'Early Voting', 'Total')
+METHOD_LABELS = ('Election Day', 'AV Counting Boards', 'AV Counting Board',
+                 'Early Voting', 'Total')
 # Breakdown column tokens match Baraga's own 2024 header (COUNTY_COLUMN_MAP
-# maps early_votes -> early_voting for the statewide file).
+# maps early_votes -> early_voting for the statewide file). Ingham's 2020
+# file prints the singular 'AV Counting Board' — normalized to the plural
+# when method rows are read.
 METHOD_COLS = {'Election Day': 'election_day', 'AV Counting Boards': 'av_counting_boards',
                'Early Voting': 'early_votes'}
 # Turnout summary pages that must not be mistaken for contests.
@@ -329,9 +332,15 @@ def data_rows(page, carried=None):
             (aux if text in AUX_HEADERS else main).append((text, x))
     else:
         main, aux = carried if carried else ([], [])
-    def match(anchors, x1, tol=24):
+    def match(anchors, x1, tol=24, directional=False):
         for i, (_, ax) in enumerate(anchors):
-            if abs(x1 - ax) <= tol:
+            if abs(x1 - ax) <= tol and (
+                    not directional or x1 >= ax - 10):
+                # Data cells right-align at (or within ~10pt of) the header
+                # block's rightmost line. A label word further left — Ingham
+                # 2020's 2-up millage pages put the label's trailing
+                # 'Precinct 8' digit 23pt left of the 'Yes' anchor — is
+                # never a cell.
                 return i
         return None
 
@@ -357,6 +366,17 @@ def data_rows(page, carried=None):
     else:
         start = cell_i or 0
     data_lines = lines[start:]
+
+    # 2-up layouts print the right table's own 'Precinct' header; that
+    # column's left edge — not the fixed 390 cutoff — separates the two
+    # tables' label words. Ingham 2020's single-precinct local contests sit
+    # far enough right ('Election' at x0 379, 'Day' at 417) that 390 splits
+    # 'Election Day' between the zones and turns 'Day' into the label.
+    right_cut = 390
+    if header_i is not None:
+        pwords = [w for w in lines[header_i] if w['text'] == 'Precinct']
+        if len(pwords) > 1:
+            right_cut = pwords[-1]['x0'] - 2
 
     def label_of(right, left, cut=None):
         if right:
@@ -425,7 +445,7 @@ def data_rows(page, carried=None):
             if PERCENT.match(w['text']) or w['text'] == '****':
                 continue  # percentage columns; insufficient-turnout masks
             if NUMERIC.match(w['text']):
-                i = match(main, w['x1'])
+                i = match(main, w['x1'], directional=True)
                 if i is not None:
                     cells[i] = int(w['text'].replace(',', ''))
                     main_cands.append((w['x1'], cells[i]))
@@ -451,7 +471,7 @@ def data_rows(page, carried=None):
                         aux_cells[i] = int(w['text'].replace(',', ''))
                         cut = w['x0'] if cut is None else min(cut, w['x0'])
                         continue
-            if w['x0'] > 390:
+            if w['x0'] > right_cut:
                 right.append(w)
             else:
                 left.append(w)
@@ -538,8 +558,12 @@ class Contest:
                     if label == 'Total' and 'County' in merged[-1][0]:
                         merged[-1][0] += ' ' + label  # county row's wrapped '- Total'
                         continue
-                    if (merged[-1][0].endswith((',', 'Precinct', 'Township'))
-                            and wrap.match(label)):
+                    if (merged[-1][0].endswith((',', 'Precinct', 'Township',
+                                               'Charter'))
+                            and (wrap.match(label)
+                                 # Ingham 2020 wraps 'Meridian Charter' +
+                                 # 'Township, Precinct 7'.
+                                 or re.match(r'^\w+, Precinct \d+$', label))):
                         merged[-1][0] += ' ' + label
                         merged[-1][2].update(aux_cells)
                         continue
@@ -852,6 +876,8 @@ class Contest:
         # this contest keeps receiving pages while its title repeats.
         precinct = self.precinct
         for label, cells, aux_cells in rows:
+            if label == 'AV Counting Board':   # Ingham 2020's singular form
+                label = 'AV Counting Boards'
             if aux_cells and not cells and not label and self.county_totals:
                 # Aux-only continuation of the county total row.
                 for i, v in aux_cells.items():
@@ -1155,10 +1181,10 @@ def page_title(page):
     # at ~94, and their 'Precinct ...' header lines are skipped anyway).
     lines = page_lines(page, tol=5)
 
-    def zone_lines(lo, hi):
+    def zone_lines(lo, hi, incl_hi=False):
         for line in lines:
             top = round(line[0]['top'])
-            if lo < top < hi:
+            if lo < top < hi or (incl_hi and top == hi):
                 text = ' '.join(w['text'] for w in line)
                 if (text.startswith('Page:') or text.startswith('Precinct')
                         or REMNANT_TITLE.fullmatch(text)
@@ -1177,7 +1203,10 @@ def page_title(page):
                 return False
         return True  # title still open
 
-    if collect(zone_lines(15, 62)):
+    # Ingham 2020 prints some titles at exactly top 62 (its 2-up local
+    # contests sit lower than the countywide ones), so the primary zone's
+    # upper bound is inclusive.
+    if collect(zone_lines(15, 62, incl_hi=True)):
         # Only extend into the wider zone while the title is open (a
         # wrapped tail or a title the primary zone missed entirely):
         # lower zone lines on title pages are table data ('Precinct ...'
