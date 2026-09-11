@@ -150,7 +150,8 @@ WARD_FRAG = re.compile(r'^\d+, Precinct \d+$')
 # jurisdiction's Township suffix omitted (Cass-style); flipped to
 # jurisdiction-first. "Nauganee" is the source's misspelling of Negaunee.
 LOCAL_PREFIX = ('Township Clerk', 'Township Treasurer', 'Township Trustee',
-                'Township Supervisor', 'Township Community Center Board of Directors')
+                'Township Supervisor', 'Township Constable',
+                'Township Community Center Board of Directors')
 # Local offices whose title omits the jurisdiction entirely (Mecosta prints
 # "Clerk DEM (Vote for 1)" for each township's contest); the contest's single
 # precinct supplies it, jurisdiction-first.
@@ -209,6 +210,10 @@ def map_office(title, county=None, map_offices=False):
     if m:
         title = (f'{m.group(1).strip()} Delegate to County Convention'
                  .replace('Nauganee', 'Negaunee').replace('Au Train', 'AuTrain'))
+    # Chippewa 2020's delegate titles ("Precinct Delegate for <jur>").
+    m = re.match(r'^Precinct Delegate for (.+)$', title)
+    if m:
+        title = f'{m.group(1).strip()} Delegate to County Convention'
     title = re.sub(r'\bTwp\.?\b', 'Township', title)
     # "<X>, Precinct N Precinct Delegate" (Marquette 2024) -> the same form;
     # its titles misspell two jurisdictions the precinct labels get right.
@@ -216,6 +221,13 @@ def map_office(title, county=None, map_offices=False):
     if m:
         title = f'{m.group(1)}, {m.group(2)} Delegate to County Convention'
     title = title.replace('Nauganee', 'Negaunee').replace('Turnin', 'Turin')
+    # Chippewa 2020 misspells three delegate jurisdictions (the precinct
+    # labels spell them correctly) and one proposal ('Milage').
+    title = (title.replace('Rubyard', 'Rudyard')
+                  .replace('Drummond Township, Precinct',
+                           'Drummond Island Township, Precinct')
+                  .replace('Trout Township', 'Trout Lake Township')
+                  .replace('Milage', 'Millage'))
     # "County Commissioner District 5" -> the repo's "Nth District" form.
     m = re.match(r'^County Commissioner,? (?:for )?(?:District|Dist) (\d+)(.*)$', title)
     if m:
@@ -1223,9 +1235,14 @@ def page_title(page):
             top = round(line[0]['top'])
             if lo < top < hi or (incl_hi and top == hi):
                 text = ' '.join(w['text'] for w in line)
-                if (text.startswith('Page:') or text.startswith('Precinct')
+                if (text.startswith('Page:')
+                        or (text.startswith('Precinct') and ')' not in text)
                         or REMNANT_TITLE.fullmatch(text)
                         or re.match(r'^\w+ County$', text)):
+                    # 'Precinct ...' lines are Baraga-style table headers —
+                    # but Chippewa 2020's delegate titles also START with
+                    # 'Precinct' ('Precinct Delegate for ... (Vote for 2)'),
+                    # so only paren-less lines are skipped.
                     continue
                 yield text
 
