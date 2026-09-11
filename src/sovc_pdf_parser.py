@@ -323,7 +323,41 @@ def rotated_blocks(page):
     return [(re.sub(r'(?<=[A-Za-z])- (?=[A-Za-z])', '-', t), x) for t, x in blocks]
 
 
-def data_rows(page, carried=None):
+def precinct_header_spans(line):
+    """(x0, x1) of every 'Precinct' header word in a line, joining the
+    split 'P recinct' form some vendors print (Alger, Leelanau)."""
+    spans = []
+    i = 0
+    while i < len(line):
+        w = line[i]
+        if w['text'] == 'Precinct':
+            spans.append((w['x0'], w['x1']))
+            i += 1
+        elif w['text'] == 'P' and i + 1 < len(line) \
+                and line[i + 1]['text'] == 'recinct':
+            spans.append((w['x0'], line[i + 1]['x1']))
+            i += 2
+        else:
+            i += 1
+    return spans
+
+
+def _regroup(words, tol=4):
+    """page_lines' grouping applied to a filtered word stream."""
+    lines = {}
+    for w in words:
+        placed = False
+        for t in list(lines):
+            if abs(t - w['top']) < tol:
+                lines[t].append(w)
+                placed = True
+                break
+        if not placed:
+            lines[round(w['top'])] = [w]
+    return [sorted(v, key=lambda w: w['x0']) for t, v in sorted(lines.items())]
+
+
+def data_rows(page, carried=None, dup_carried=None):
     """Return (main, aux, rows, fresh) for the page's tables.
 
     main/aux are [(header text, anchor x)] lists. Data columns are anchored
@@ -361,6 +395,42 @@ def data_rows(page, carried=None):
                 return i
         return None
 
+    # Some vendors print every table row's label twice, side by side
+    # (Leelanau 2020): a pure duplicate label column, not a second table
+    # (Ingham's 2-up pages carry different precincts). The copies drift
+    # vertically, so grouping them into shared lines garbles labels; when
+    # the right copy is self-contained (no aux columns sit between the
+    # copies, and the left copy holds no value cells), rebuild the lines
+    # from the right copy's words alone.
+    dup_cut = None
+    from_header = False
+    for i, line in enumerate(lines):
+        spans = precinct_header_spans(line)
+        if len(spans) > 1 and not any(NUMERIC.match(w['text']) for w in line):
+            dup_cut = spans[-1][0] - 2
+            from_header = True
+            break
+    if dup_cut is None and dup_carried is not None:
+        # A continuation page carries no header line to detect from;
+        # reuse the contest's cut.
+        dup_cut = dup_carried
+    rebuilt = False
+    if dup_cut is not None and not aux:
+        pairs = 0
+        left_cells = False
+        for line in lines:
+            left = ' '.join(w['text'] for w in line if w['x0'] < dup_cut)
+            right = ' '.join(w['text'] for w in line if w['x0'] >= dup_cut)
+            if left and left == right:
+                pairs += 1
+            left_cells = left_cells or any(
+                NUMERIC.match(w['text']) and match(main, w['x1']) is not None
+                for w in line if w['x0'] < dup_cut)
+        if (pairs >= 2 or not from_header) and not left_cells:
+            lines = _regroup([w for line in lines
+                              for w in line if w['x0'] >= dup_cut])
+            rebuilt = True
+
     # Data zone starts at the 'Precinct ...' header line (Marquette/Iron:
     # 'Precinct County <County> County Michigan' — no digits, so wrapped
     # "Precinct 1" label continuations never match). Vendors without that
@@ -369,7 +439,9 @@ def data_rows(page, carried=None):
     # reuse carried anchors (Mecosta) start at the page top: the first data
     # line can be a precinct label with no cells.
     header_i = next((i for i, line in enumerate(lines)
-                     if line[0]['text'] == 'Precinct'
+                     if (line[0]['text'] == 'Precinct'
+                         or (line[0]['text'] == 'P' and len(line) > 1
+                             and line[1]['text'] == 'recinct'))
                      and not any(NUMERIC.match(w['text']) for w in line)), None)
     cell_i = None
     if header_i is None:
@@ -390,7 +462,15 @@ def data_rows(page, carried=None):
     # far enough right ('Election' at x0 379, 'Day' at 417) that 390 splits
     # 'Election Day' between the zones and turns 'Day' into the label.
     right_cut = 390
-    if header_i is not None:
+    if rebuilt:
+        # Only the right copy's words remain; keep every label word.
+        right_cut = dup_cut
+    elif header_i is not None:
+        # Exact 'Precinct' words only: the split 'P recinct' form belongs to
+        # duplicate-label-column pages (Oceana 2026), where the right copy is
+        # a second print of the SAME label column — aux columns sit left of
+        # it and the rebuild above never fires — so cutting at it turns the
+        # right copy's labels into row labels and garbles the merge.
         pwords = [w for w in lines[header_i] if w['text'] == 'Precinct']
         if len(pwords) > 1:
             right_cut = pwords[-1]['x0'] - 2
@@ -506,7 +586,8 @@ def data_rows(page, carried=None):
             next_cut = row[3]
         elif row[3] is None and next_cut is not None:
             row[0] = label_of([], row[4], next_cut)
-    return main, aux, [[r[0], r[1], r[2]] for r in built], fresh
+    return (main, aux, [[r[0], r[1], r[2]] for r in built], fresh,
+            dup_cut if rebuilt else None)
 
 
 class Contest:
@@ -533,6 +614,9 @@ class Contest:
         # carried across pages whose tables repeat no rotated headers
         # (Mecosta's continuation pages).
         self.anchors = None
+        # Duplicate-label-column mode (Leelanau 2020): the right copy's
+        # left edge, carried from the page that detected it.
+        self.dup_cut = None
         # Precinct mode, no-'Total Votes' reports (Marquette 2024): the aux
         # Times Cast table per contest provides ballots cast. Recorded like
         # the main cells so _finish_precinct can use them and verify the
@@ -574,6 +658,25 @@ class Contest:
                         continue
                     if label == 'Total' and 'County' in merged[-1][0]:
                         merged[-1][0] += ' ' + label  # county row's wrapped '- Total'
+                        continue
+                    # Leelanau 2020's narrow label columns wrap precinct
+                    # names across three label-only lines ('Bingham' /
+                    # 'Township,' / 'Precinct 1'); a bare first word joins
+                    # the plausible continuation that follows.
+                    if (merged[-1][0] and not merged[-1][1]
+                            and not merged[-1][2]
+                            # A title-case multi-char word: rotated-header
+                            # remnants like Ingham 2026's stray 'R' also sit
+                            # label-only ahead of a wrapped precinct label,
+                            # and welding them on garbles the precinct.
+                            and re.fullmatch(r'[A-Z][a-z]+', merged[-1][0])
+                            and merged[-1][0] not in ('County', 'Michigan')
+                            and merged[-1][0] not in METHOD_LABELS
+                            and not merged[-1][0].startswith('Cumulative')
+                            and label.endswith(',')
+                            and not label.startswith('Cumulative')
+                            and not re.match(r'^\w+ County\b', label)):
+                        merged[-1][0] += ' ' + label
                         continue
                     if (merged[-1][0].endswith((',', 'Precinct', 'Township',
                                                'Charter'))
@@ -810,9 +913,12 @@ class Contest:
         return WRITE_IN_TAG.sub('', PARTY_TAG.sub('', h)).strip()
 
     def add_page(self, page, problems):
-        main_anchors, aux_anchors, rows, fresh = data_rows(page, self.anchors)
+        main_anchors, aux_anchors, rows, fresh, dup_cut = data_rows(
+            page, self.anchors, self.dup_cut)
         if fresh:
             self.anchors = (main_anchors, aux_anchors)
+        if dup_cut is not None:
+            self.dup_cut = dup_cut
         names = [self._col_name(h) for h, _ in main_anchors]
         aux_names = [self._col_name(h) for h, _ in aux_anchors]
         # Detect the page's mode before merging: a method-mode page merged
@@ -928,6 +1034,18 @@ class Contest:
         for label, cells, aux_cells in rows:
             if label == 'AV Counting Board':   # Ingham 2020's singular form
                 label = 'AV Counting Boards'
+            else:
+                # A drifted duplicate label column (Leelanau 2020's 2-up
+                # tables print every row label twice, side by side) can
+                # split a method label across lines ('AV Counting' /
+                # 'Boards'); a word-prefix of exactly one method name is
+                # that method.
+                cands = {('AV Counting Boards' if m == 'AV Counting Board'
+                          else m)
+                         for m in METHOD_LABELS
+                         if label and m.startswith(label + ' ')}
+                if len(cands) == 1:
+                    label = cands.pop()
             if aux_cells and not cells and not label and self.county_totals:
                 # Aux-only continuation of the county total row.
                 for i, v in aux_cells.items():
@@ -1112,12 +1230,17 @@ class Contest:
     def _finish_method(self, out_rows, problems, office, district, party):
         cand_names = sorted({n for mv in self.method_votes.values() for n in mv})
         ballots_total = self.county_aux.get('__county__', {}).get('Times Cast')
+        # Reports without Times Cast columns (Leelanau 2020) carry no
+        # ballots data at all — only complain when the report prints them
+        # and a precinct's row went missing. (aux_votes gains an empty
+        # dict per precinct as method rows are read.)
+        has_aux = any(self.aux_votes.values())
         for precinct in sorted(self.method_votes):
             methods = dict(self.aux_votes.get(precinct, {}).get('Times Cast', {}))
             ballots = methods.get('Total')
             if ballots is None and methods:
                 ballots = sum(methods.values())  # masked 'Total' row
-            if ballots is None:
+            if ballots is None and has_aux:
                 problems.append(f'{self.title} / {precinct}: no Times Cast total')
             for n in cand_names:
                 mv = self.method_votes[precinct].get(n, {})
