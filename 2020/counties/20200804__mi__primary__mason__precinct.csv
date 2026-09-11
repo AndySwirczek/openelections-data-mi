@@ -1,538 +1,1456 @@
-county,precinct,office,district,candidate,party,votes
-Mason,"Amber Township, Precinct 1",Registered Voters,,,,1994
+county,precinct,office,district,party,candidate,votes
+Mason,"Amber Township, Precinct 1",Registered Voters,,,,"1,994"
 Mason,"Amber Township, Precinct 1",Ballots Cast,,,,654
-Mason,"Amber Township, Precinct 1",Ballots Cast,,DEM,,186
-Mason,"Amber Township, Precinct 1",Ballots Cast,,REP,,439
-Mason,"Amber Township, Precinct 1",Ballots Cast,,NON,,29
-Mason,"Amber Township, Precinct 1",Ballots Cast Crossover,,,,23
-Mason,"Amber Township, Precinct 1",Ballots cast Blank,,,,0
-Mason,"Amber Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,179
-Mason,"Amber Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Amber Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,172
-Mason,"Amber Township, Precinct 1",U.S. House,2,Write-In Totals,DEM,0
-Mason,"Amber Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,140
-Mason,"Amber Township, Precinct 1",State House,101,Cary L. Urka,DEM,43
-Mason,"Amber Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Amber Township, Precinct 1",U.S. Senate,,John James,REP,398
-Mason,"Amber Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,5
-Mason,"Amber Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,394
-Mason,"Amber Township, Precinct 1",U.S. House,2,Write-In Totals,REP,4
-Mason,"Amber Township, Precinct 1",State House,101,Carolyn Cater,REP,56
-Mason,"Amber Township, Precinct 1",State House,101,Jack O'Malley,REP,372
-Mason,"Amber Township, Precinct 1",State House,101,Write-In Totals,REP,1
-Mason,"Branch Township, Precinct 1",Registered Voters,,,,1077
+Mason,"Amber Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,179
+Mason,"Amber Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Amber Township, Precinct 1",U.S. House,2,DEM,Bryan Berghoef,172
+Mason,"Amber Township, Precinct 1",U.S. House,2,DEM,Write-In,0
+Mason,"Amber Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,140
+Mason,"Amber Township, Precinct 1",State House,101,DEM,Cary L. Urka,43
+Mason,"Amber Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Amber Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,25
+Mason,"Amber Township, Precinct 1",Sheriff,,DEM,Write-In,23
+Mason,"Amber Township, Precinct 1",Clerk,,DEM,Write-In,21
+Mason,"Amber Township, Precinct 1",Treasurer,,DEM,Write-In,21
+Mason,"Amber Township, Precinct 1",Register of Deeds,,DEM,Write-In,22
+Mason,"Amber Township, Precinct 1",Drain Commissioner,,DEM,Write-In,22
+Mason,"Amber Township, Precinct 1",Surveyor,,DEM,Write-In,22
+Mason,"Amber Township, Precinct 1",County Commissioner,4,DEM,Write-In,23
+Mason,"Amber Township, Precinct 1",Amber Township Supervisor,,DEM,Write-In,24
+Mason,"Amber Township, Precinct 1",Amber Township Clerk,,DEM,Write-In,24
+Mason,"Amber Township, Precinct 1",Amber Township Treasurer,,DEM,Write-In,24
+Mason,"Amber Township, Precinct 1",Amber Township Trustee,,DEM,Write-In,32
+Mason,"Amber Township, Precinct 1","Amber Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,62
+Mason,"Amber Township, Precinct 1",U.S. Senate,,REP,John James,398
+Mason,"Amber Township, Precinct 1",U.S. Senate,,REP,Write-In,5
+Mason,"Amber Township, Precinct 1",U.S. House,2,REP,Bill Huizenga,394
+Mason,"Amber Township, Precinct 1",U.S. House,2,REP,Write-In,4
+Mason,"Amber Township, Precinct 1",State House,101,REP,Carolyn Cater,56
+Mason,"Amber Township, Precinct 1",State House,101,REP,Jack O'Malley,372
+Mason,"Amber Township, Precinct 1",State House,101,REP,Write-In,1
+Mason,"Amber Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,164
+Mason,"Amber Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,264
+Mason,"Amber Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Amber Township, Precinct 1",Sheriff,,REP,Kim C. Cole,410
+Mason,"Amber Township, Precinct 1",Sheriff,,REP,Write-In,5
+Mason,"Amber Township, Precinct 1",Clerk,,REP,Cheryl Kelly,409
+Mason,"Amber Township, Precinct 1",Clerk,,REP,Write-In,0
+Mason,"Amber Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,394
+Mason,"Amber Township, Precinct 1",Treasurer,,REP,Write-In,2
+Mason,"Amber Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,400
+Mason,"Amber Township, Precinct 1",Register of Deeds,,REP,Write-In,2
+Mason,"Amber Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,399
+Mason,"Amber Township, Precinct 1",Drain Commissioner,,REP,Write-In,2
+Mason,"Amber Township, Precinct 1",Surveyor,,REP,James T. Nordlund,294
+Mason,"Amber Township, Precinct 1",Surveyor,,REP,John C. Schulke,109
+Mason,"Amber Township, Precinct 1",Surveyor,,REP,Write-In,0
+Mason,"Amber Township, Precinct 1",County Commissioner,4,REP,Lewis G. Squires,397
+Mason,"Amber Township, Precinct 1",County Commissioner,4,REP,Write-In,4
+Mason,"Amber Township, Precinct 1",Amber Township Supervisor,,REP,James F. Gallie,405
+Mason,"Amber Township, Precinct 1",Amber Township Supervisor,,REP,Write-In,2
+Mason,"Amber Township, Precinct 1",Amber Township Clerk,,REP,Theresa Rohde,400
+Mason,"Amber Township, Precinct 1",Amber Township Clerk,,REP,Write-In,3
+Mason,"Amber Township, Precinct 1",Amber Township Treasurer,,REP,Connie L. Anderson,402
+Mason,"Amber Township, Precinct 1",Amber Township Treasurer,,REP,Write-In,1
+Mason,"Amber Township, Precinct 1",Amber Township Trustee,,REP,Richard G. Alway,360
+Mason,"Amber Township, Precinct 1",Amber Township Trustee,,REP,Thomas Alway,322
+Mason,"Amber Township, Precinct 1",Amber Township Trustee,,REP,Write-In,5
+Mason,"Amber Township, Precinct 1","Amber Township, Precinct 1 Delegate to County Convention",,REP,Write-In,9
+Mason,"Amber Township, Precinct 1",Mason Oceana 911,,,Yes,444
+Mason,"Amber Township, Precinct 1",Mason Oceana 911,,,No,107
+Mason,"Branch Township, Precinct 1",Registered Voters,,,,"1,077"
 Mason,"Branch Township, Precinct 1",Ballots Cast,,,,319
-Mason,"Branch Township, Precinct 1",Ballots Cast,,DEM,,90
-Mason,"Branch Township, Precinct 1",Ballots Cast,,REP,,209
-Mason,"Branch Township, Precinct 1",Ballots Cast,,NON,,20
-Mason,"Branch Township, Precinct 1",Ballots Cast Crossover,,,,19
-Mason,"Branch Township, Precinct 1",Ballots cast Blank,,,,0
-Mason,"Branch Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,88
-Mason,"Branch Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Branch Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,88
-Mason,"Branch Township, Precinct 1",U.S. House,2,Write-In Totals,DEM,0
-Mason,"Branch Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,58
-Mason,"Branch Township, Precinct 1",State House,101,Cary L. Urka,DEM,29
-Mason,"Branch Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Branch Township, Precinct 1",U.S. Senate,,John James,REP,181
-Mason,"Branch Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,3
-Mason,"Branch Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,190
-Mason,"Branch Township, Precinct 1",U.S. House,2,Write-In Totals,REP,0
-Mason,"Branch Township, Precinct 1",State House,101,Carolyn Cater,REP,31
-Mason,"Branch Township, Precinct 1",State House,101,Jack O'Malley,REP,172
-Mason,"Branch Township, Precinct 1",State House,101,Write-In Totals,REP,0
-Mason,"CusterTownship, Precinct 1",Registered Voters,,,,1019
-Mason,"CusterTownship, Precinct 1",Ballots Cast,,,,339
-Mason,"CusterTownship, Precinct 1",Ballots Cast,,DEM,,88
-Mason,"CusterTownship, Precinct 1",Ballots Cast,,REP,,238
-Mason,"CusterTownship, Precinct 1",Ballots Cast,,NON,,13
-Mason,"CusterTownship, Precinct 1",Ballots Cast Crossover,,,,11
-Mason,"CusterTownship, Precinct 1",Ballots cast Blank,,,,0
-Mason,"CusterTownship, Precinct 1",U.S. Senate,,Gary Peters,DEM,87
-Mason,"CusterTownship, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"CusterTownship, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,83
-Mason,"CusterTownship, Precinct 1",U.S. House,2,Write-In Totals,DEM,0
-Mason,"CusterTownship, Precinct 1",State House,101,Beth McGill-Rizer,DEM,57
-Mason,"CusterTownship, Precinct 1",State House,101,Cary L. Urka,DEM,27
-Mason,"CusterTownship, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"CusterTownship, Precinct 1",U.S. Senate,,John James,REP,212
-Mason,"CusterTownship, Precinct 1",U.S. Senate,,Write-In Totals,REP,0
-Mason,"CusterTownship, Precinct 1",U.S. House,2,Bill Huizenga,REP,219
-Mason,"CusterTownship, Precinct 1",U.S. House,2,Write-In Totals,REP,0
-Mason,"CusterTownship, Precinct 1",State House,101,Carolyn Cater,REP,21
-Mason,"CusterTownship, Precinct 1",State House,101,Jack O'Malley,REP,211
-Mason,"CusterTownship, Precinct 1",State House,101,Write-In Totals,REP,0
+Mason,"Branch Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,88
+Mason,"Branch Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Branch Township, Precinct 1",U.S. House,2,DEM,Bryan Berghoef,88
+Mason,"Branch Township, Precinct 1",U.S. House,2,DEM,Write-In,0
+Mason,"Branch Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,58
+Mason,"Branch Township, Precinct 1",State House,101,DEM,Cary L. Urka,29
+Mason,"Branch Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Branch Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,11
+Mason,"Branch Township, Precinct 1",Sheriff,,DEM,Write-In,11
+Mason,"Branch Township, Precinct 1",Clerk,,DEM,Write-In,11
+Mason,"Branch Township, Precinct 1",Treasurer,,DEM,Write-In,11
+Mason,"Branch Township, Precinct 1",Register of Deeds,,DEM,Write-In,11
+Mason,"Branch Township, Precinct 1",Drain Commissioner,,DEM,Write-In,1
+Mason,"Branch Township, Precinct 1",Surveyor,,DEM,Write-In,11
+Mason,"Branch Township, Precinct 1",County Commissioner,7,DEM,Ed Miller,73
+Mason,"Branch Township, Precinct 1",County Commissioner,7,DEM,Write-In,1
+Mason,"Branch Township, Precinct 1",Branch Township Supervisor,,DEM,Michael D. Shoup,87
+Mason,"Branch Township, Precinct 1",Branch Township Supervisor,,DEM,Write-In,0
+Mason,"Branch Township, Precinct 1",Branch Township Clerk,,DEM,Write-In,1
+Mason,"Branch Township, Precinct 1",Branch Township Treasurer,,DEM,Write-In,11
+Mason,"Branch Township, Precinct 1",Branch Township Trustee,,DEM,Write-In,15
+Mason,"Branch Township, Precinct 1","Branch Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,13
+Mason,"Branch Township, Precinct 1",U.S. Senate,,REP,John James,181
+Mason,"Branch Township, Precinct 1",U.S. Senate,,REP,Write-In,3
+Mason,"Branch Township, Precinct 1",U.S. House,2,REP,Bill Huizenga,190
+Mason,"Branch Township, Precinct 1",U.S. House,2,REP,Write-In,0
+Mason,"Branch Township, Precinct 1",State House,101,REP,Carolyn Cater,31
+Mason,"Branch Township, Precinct 1",State House,101,REP,Jack O'Malley,172
+Mason,"Branch Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Branch Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,94
+Mason,"Branch Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,105
+Mason,"Branch Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Branch Township, Precinct 1",Sheriff,,REP,Kim C. Cole,192
+Mason,"Branch Township, Precinct 1",Sheriff,,REP,Write-In,0
+Mason,"Branch Township, Precinct 1",Clerk,,REP,Cheryl Kelly,194
+Mason,"Branch Township, Precinct 1",Clerk,,REP,Write-In,1
+Mason,"Branch Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,185
+Mason,"Branch Township, Precinct 1",Treasurer,,REP,Write-In,0
+Mason,"Branch Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,194
+Mason,"Branch Township, Precinct 1",Register of Deeds,,REP,Write-In,1
+Mason,"Branch Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,188
+Mason,"Branch Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Mason,"Branch Township, Precinct 1",Surveyor,,REP,James T. Nordlund,84
+Mason,"Branch Township, Precinct 1",Surveyor,,REP,John C. Schulke,106
+Mason,"Branch Township, Precinct 1",Surveyor,,REP,Write-In,0
+Mason,"Branch Township, Precinct 1",County Commissioner,7,REP,Ron Bacon,176
+Mason,"Branch Township, Precinct 1",County Commissioner,7,REP,Write-In,5
+Mason,"Branch Township, Precinct 1",Branch Township Supervisor,,REP,Write-In,30
+Mason,"Branch Township, Precinct 1",Branch Township Clerk,,REP,Kimberly Tenney,193
+Mason,"Branch Township, Precinct 1",Branch Township Clerk,,REP,Write-In,0
+Mason,"Branch Township, Precinct 1",Branch Township Treasurer,,REP,Ralph Razminas,186
+Mason,"Branch Township, Precinct 1",Branch Township Treasurer,,REP,Write-In,2
+Mason,"Branch Township, Precinct 1",Branch Township Trustee,,REP,Shirley Brayton,98
+Mason,"Branch Township, Precinct 1",Branch Township Trustee,,REP,Joseph Fiers,149
+Mason,"Branch Township, Precinct 1",Branch Township Trustee,,REP,Nannette Fiers,96
+Mason,"Branch Township, Precinct 1",Branch Township Trustee,,REP,Write-In,0
+Mason,"Branch Township, Precinct 1","Branch Township, Precinct 1 Delegate to County Convention",,REP,Charles D. Robinson,162
+Mason,"Branch Township, Precinct 1","Branch Township, Precinct 1 Delegate to County Convention",,REP,Rebecca Jo Robinson,134
+Mason,"Branch Township, Precinct 1","Branch Township, Precinct 1 Delegate to County Convention",,REP,Write-In,0
+Mason,"Branch Township, Precinct 1",Mason Oceana 911,,,Yes,173
+Mason,"Branch Township, Precinct 1",Mason Oceana 911,,,No,58
+Mason,"Custer Township, Precinct 1",Registered Voters,,,,"1,019"
+Mason,"Custer Township, Precinct 1",Ballots Cast,,,,339
+Mason,"Custer Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,87
+Mason,"Custer Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Custer Township, Precinct 1",U.S. House,2,DEM,Bryan Berghoef,83
+Mason,"Custer Township, Precinct 1",U.S. House,2,DEM,Write-In,0
+Mason,"Custer Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,57
+Mason,"Custer Township, Precinct 1",State House,101,DEM,Cary L. Urka,27
+Mason,"Custer Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Custer Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,4
+Mason,"Custer Township, Precinct 1",Sheriff,,DEM,Write-In,5
+Mason,"Custer Township, Precinct 1",Clerk,,DEM,Write-In,4
+Mason,"Custer Township, Precinct 1",Treasurer,,DEM,Write-In,3
+Mason,"Custer Township, Precinct 1",Register of Deeds,,DEM,Write-In,3
+Mason,"Custer Township, Precinct 1",Drain Commissioner,,DEM,Write-In,4
+Mason,"Custer Township, Precinct 1",Surveyor,,DEM,Write-In,4
+Mason,"Custer Township, Precinct 1",County Commissioner,7,DEM,Ed Miller,81
+Mason,"Custer Township, Precinct 1",County Commissioner,7,DEM,Write-In,0
+Mason,"Custer Township, Precinct 1",Custer Township Supervisor,,DEM,Write-In,4
+Mason,"Custer Township, Precinct 1",Custer Township Clerk,,DEM,Write-In,3
+Mason,"Custer Township, Precinct 1",Custer Township Treasurer,,DEM,Write-In,3
+Mason,"Custer Township, Precinct 1",Custer Township Trustee,,DEM,Write-In,5
+Mason,"Custer Township, Precinct 1","Custer Township, Precinct 1 Delegate to County Convention",,DEM,Edward Miller,82
+Mason,"Custer Township, Precinct 1","Custer Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0
+Mason,"Custer Township, Precinct 1",U.S. Senate,,REP,John James,212
+Mason,"Custer Township, Precinct 1",U.S. Senate,,REP,Write-In,0
+Mason,"Custer Township, Precinct 1",U.S. House,2,REP,Bill Huizenga,219
+Mason,"Custer Township, Precinct 1",U.S. House,2,REP,Write-In,0
+Mason,"Custer Township, Precinct 1",State House,101,REP,Carolyn Cater,21
+Mason,"Custer Township, Precinct 1",State House,101,REP,Jack O'Malley,211
+Mason,"Custer Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Custer Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,100
+Mason,"Custer Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,120
+Mason,"Custer Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Custer Township, Precinct 1",Sheriff,,REP,Kim C. Cole,218
+Mason,"Custer Township, Precinct 1",Sheriff,,REP,Write-In,2
+Mason,"Custer Township, Precinct 1",Clerk,,REP,Cheryl Kelly,214
+Mason,"Custer Township, Precinct 1",Clerk,,REP,Write-In,1
+Mason,"Custer Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,201
+Mason,"Custer Township, Precinct 1",Treasurer,,REP,Write-In,1
+Mason,"Custer Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,207
+Mason,"Custer Township, Precinct 1",Register of Deeds,,REP,Write-In,2
+Mason,"Custer Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,203
+Mason,"Custer Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Mason,"Custer Township, Precinct 1",Surveyor,,REP,James T. Nordlund,138
+Mason,"Custer Township, Precinct 1",Surveyor,,REP,John C. Schulke,82
+Mason,"Custer Township, Precinct 1",Surveyor,,REP,Write-In,0
+Mason,"Custer Township, Precinct 1",County Commissioner,7,REP,Ron Bacon,209
+Mason,"Custer Township, Precinct 1",County Commissioner,7,REP,Write-In,0
+Mason,"Custer Township, Precinct 1",Custer Township Supervisor,,REP,Mark Anderson,200
+Mason,"Custer Township, Precinct 1",Custer Township Supervisor,,REP,Write-In,0
+Mason,"Custer Township, Precinct 1",Custer Township Clerk,,REP,Ann Larr,192
+Mason,"Custer Township, Precinct 1",Custer Township Clerk,,REP,Write-In,2
+Mason,"Custer Township, Precinct 1",Custer Township Treasurer,,REP,Carey M. Jolly,204
+Mason,"Custer Township, Precinct 1",Custer Township Treasurer,,REP,Write-In,0
+Mason,"Custer Township, Precinct 1",Custer Township Trustee,,REP,George A. Allison,174
+Mason,"Custer Township, Precinct 1",Custer Township Trustee,,REP,Larry A. Larr,155
+Mason,"Custer Township, Precinct 1",Custer Township Trustee,,REP,Write-In,1
+Mason,"Custer Township, Precinct 1","Custer Township, Precinct 1 Delegate to County Convention",,REP,Write-In,12
+Mason,"Custer Township, Precinct 1",Mason Oceana 911,,,Yes,238
+Mason,"Custer Township, Precinct 1",Mason Oceana 911,,,No,76
+Mason,"Custer Township, Precinct 1",Custer Road Maintenance,,,Yes,199
+Mason,"Custer Township, Precinct 1",Custer Road Maintenance,,,No,112
 Mason,"Eden Township, Precinct 1",Registered Voters,,,,433
 Mason,"Eden Township, Precinct 1",Ballots Cast,,,,202
-Mason,"Eden Township, Precinct 1",Ballots Cast,,DEM,,30
-Mason,"Eden Township, Precinct 1",Ballots Cast,,REP,,149
-Mason,"Eden Township, Precinct 1",Ballots Cast,,NON,,23
-Mason,"Eden Township, Precinct 1",Ballots Cast Crossover,,,,22
-Mason,"Eden Township, Precinct 1",Ballots cast Blank,,,,0
-Mason,"Eden Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,29
-Mason,"Eden Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Eden Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,28
-Mason,"Eden Township, Precinct 1",U.S. House,2,Write-In Totals,DEM,0
-Mason,"Eden Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,21
-Mason,"Eden Township, Precinct 1",State House,101,Cary L. Urka,DEM,8
-Mason,"Eden Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Eden Township, Precinct 1",U.S. Senate,,John James,REP,113
-Mason,"Eden Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,0
-Mason,"Eden Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,119
-Mason,"Eden Township, Precinct 1",U.S. House,2,Write-In Totals,REP,0
-Mason,"Eden Township, Precinct 1",State House,101,Carolyn Cater,REP,22
-Mason,"Eden Township, Precinct 1",State House,101,Jack O'Malley,REP,116
-Mason,"Eden Township, Precinct 1",State House,101,Write-In Totals,REP,0
+Mason,"Eden Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,29
+Mason,"Eden Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Eden Township, Precinct 1",U.S. House,2,DEM,Bryan Berghoef,28
+Mason,"Eden Township, Precinct 1",U.S. House,2,DEM,Write-In,0
+Mason,"Eden Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,21
+Mason,"Eden Township, Precinct 1",State House,101,DEM,Cary L. Urka,8
+Mason,"Eden Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Eden Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,1
+Mason,"Eden Township, Precinct 1",Sheriff,,DEM,Write-In,2
+Mason,"Eden Township, Precinct 1",Clerk,,DEM,Write-In,2
+Mason,"Eden Township, Precinct 1",Treasurer,,DEM,Write-In,2
+Mason,"Eden Township, Precinct 1",Register of Deeds,,DEM,Write-In,2
+Mason,"Eden Township, Precinct 1",Drain Commissioner,,DEM,Write-In,2
+Mason,"Eden Township, Precinct 1",Surveyor,,DEM,Write-In,2
+Mason,"Eden Township, Precinct 1",County Commissioner,7,DEM,Ed Miller,25
+Mason,"Eden Township, Precinct 1",County Commissioner,7,DEM,Write-In,0
+Mason,"Eden Township, Precinct 1",Eden Township Supervisor,,DEM,Roger Nash,28
+Mason,"Eden Township, Precinct 1",Eden Township Supervisor,,DEM,Write-In,0
+Mason,"Eden Township, Precinct 1",Eden Township Clerk,,DEM,Write-In,3
+Mason,"Eden Township, Precinct 1",Eden Township Treasurer,,DEM,Write-In,1
+Mason,"Eden Township, Precinct 1",Eden Township Trustee,,DEM,Write-In,1
+Mason,"Eden Township, Precinct 1","Eden Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,1
+Mason,"Eden Township, Precinct 1",U.S. Senate,,REP,John James,113
+Mason,"Eden Township, Precinct 1",U.S. Senate,,REP,Write-In,0
+Mason,"Eden Township, Precinct 1",U.S. House,2,REP,Bill Huizenga,119
+Mason,"Eden Township, Precinct 1",U.S. House,2,REP,Write-In,0
+Mason,"Eden Township, Precinct 1",State House,101,REP,Carolyn Cater,22
+Mason,"Eden Township, Precinct 1",State House,101,REP,Jack O'Malley,116
+Mason,"Eden Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Eden Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,70
+Mason,"Eden Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,61
+Mason,"Eden Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Eden Township, Precinct 1",Sheriff,,REP,Kim C. Cole,132
+Mason,"Eden Township, Precinct 1",Sheriff,,REP,Write-In,0
+Mason,"Eden Township, Precinct 1",Clerk,,REP,Cheryl Kelly,130
+Mason,"Eden Township, Precinct 1",Clerk,,REP,Write-In,0
+Mason,"Eden Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,118
+Mason,"Eden Township, Precinct 1",Treasurer,,REP,Write-In,0
+Mason,"Eden Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,124
+Mason,"Eden Township, Precinct 1",Register of Deeds,,REP,Write-In,0
+Mason,"Eden Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,118
+Mason,"Eden Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Mason,"Eden Township, Precinct 1",Surveyor,,REP,James T. Nordlund,58
+Mason,"Eden Township, Precinct 1",Surveyor,,REP,John C. Schulke,72
+Mason,"Eden Township, Precinct 1",Surveyor,,REP,Write-In,0
+Mason,"Eden Township, Precinct 1",County Commissioner,7,REP,Ron Bacon,120
+Mason,"Eden Township, Precinct 1",County Commissioner,7,REP,Write-In,1
+Mason,"Eden Township, Precinct 1",Eden Township Supervisor,,REP,Write-In,7
+Mason,"Eden Township, Precinct 1",Eden Township Clerk,,REP,Duane Stickney,67
+Mason,"Eden Township, Precinct 1",Eden Township Clerk,,REP,Julie L. Van Dyke,81
+Mason,"Eden Township, Precinct 1",Eden Township Clerk,,REP,Write-In,0
+Mason,"Eden Township, Precinct 1",Eden Township Treasurer,,REP,Sally J. Wittlieff,123
+Mason,"Eden Township, Precinct 1",Eden Township Treasurer,,REP,Write-In,0
+Mason,"Eden Township, Precinct 1",Eden Township Trustee,,REP,Michelle Beenen,63
+Mason,"Eden Township, Precinct 1",Eden Township Trustee,,REP,Melissa R. Reister,43
+Mason,"Eden Township, Precinct 1",Eden Township Trustee,,REP,Joseph Stickney,102
+Mason,"Eden Township, Precinct 1",Eden Township Trustee,,REP,Write-In,0
+Mason,"Eden Township, Precinct 1","Eden Township, Precinct 1 Delegate to County Convention",,REP,Write-In,1
+Mason,"Eden Township, Precinct 1",Mason Oceana 911,,,Yes,128
+Mason,"Eden Township, Precinct 1",Mason Oceana 911,,,No,32
 Mason,"Free Soil Township, Precinct 1",Registered Voters,,,,715
 Mason,"Free Soil Township, Precinct 1",Ballots Cast,,,,217
-Mason,"Free Soil Township, Precinct 1",Ballots Cast,,DEM,,59
-Mason,"Free Soil Township, Precinct 1",Ballots Cast,,REP,,141
-Mason,"Free Soil Township, Precinct 1",Ballots Cast,,NON,,17
-Mason,"Free Soil Township, Precinct 1",Ballots Cast Crossover,,,,17
-Mason,"Free Soil Township, Precinct 1",Ballots cast Blank,,,,0
-Mason,"Free Soil Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,55
-Mason,"Free Soil Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Free Soil Township, Precinct 1",U.S. House,1,Dana Ferguson,DEM,37
-Mason,"Free Soil Township, Precinct 1",U.S. House,1,Linda O'Dell,DEM,17
-Mason,"Free Soil Township, Precinct 1",U.S. House,1,Write-In Totals,DEM,0
-Mason,"Free Soil Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,42
-Mason,"Free Soil Township, Precinct 1",State House,101,Cary L. Urka,DEM,11
-Mason,"Free Soil Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Free Soil Township, Precinct 1",U.S. Senate,,John James,REP,122
-Mason,"Free Soil Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,0
-Mason,"Free Soil Township, Precinct 1",U.S. House,1,Jack Bergman,REP,129
-Mason,"Free Soil Township, Precinct 1",U.S. House,1,Write-In Totals,REP,0
-Mason,"Free Soil Township, Precinct 1",State House,101,Carolyn Cater,REP,16
-Mason,"Free Soil Township, Precinct 1",State House,101,Jack O'Malley,REP,123
-Mason,"Free Soil Township, Precinct 1",State House,101,Write-In Totals,REP,0
+Mason,"Free Soil Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,55
+Mason,"Free Soil Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Free Soil Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,37
+Mason,"Free Soil Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,17
+Mason,"Free Soil Township, Precinct 1",U.S. House,1,DEM,Write-In,0
+Mason,"Free Soil Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,42
+Mason,"Free Soil Township, Precinct 1",State House,101,DEM,Cary L. Urka,11
+Mason,"Free Soil Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Free Soil Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,7
+Mason,"Free Soil Township, Precinct 1",Sheriff,,DEM,Write-In,7
+Mason,"Free Soil Township, Precinct 1",Clerk,,DEM,Write-In,5
+Mason,"Free Soil Township, Precinct 1",Treasurer,,DEM,Write-In,5
+Mason,"Free Soil Township, Precinct 1",Register of Deeds,,DEM,Write-In,5
+Mason,"Free Soil Township, Precinct 1",Drain Commissioner,,DEM,Write-In,4
+Mason,"Free Soil Township, Precinct 1",Surveyor,,DEM,Write-In,5
+Mason,"Free Soil Township, Precinct 1",County Commissioner,6,DEM,Write-In,5
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Supervisor,,DEM,Write-In,5
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Clerk,,DEM,Write-In,0
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Treasurer,,DEM,Write-In,4
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Trustee,,DEM,Write-In,5
+Mason,"Free Soil Township, Precinct 1","Free Soil Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,7
+Mason,"Free Soil Township, Precinct 1",U.S. Senate,,REP,John James,122
+Mason,"Free Soil Township, Precinct 1",U.S. Senate,,REP,Write-In,0
+Mason,"Free Soil Township, Precinct 1",U.S. House,1,REP,Jack Bergman,129
+Mason,"Free Soil Township, Precinct 1",U.S. House,1,REP,Write-In,0
+Mason,"Free Soil Township, Precinct 1",State House,101,REP,Carolyn Cater,16
+Mason,"Free Soil Township, Precinct 1",State House,101,REP,Jack O'Malley,123
+Mason,"Free Soil Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Free Soil Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,67
+Mason,"Free Soil Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,66
+Mason,"Free Soil Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Free Soil Township, Precinct 1",Sheriff,,REP,Kim C. Cole,130
+Mason,"Free Soil Township, Precinct 1",Sheriff,,REP,Write-In,1
+Mason,"Free Soil Township, Precinct 1",Clerk,,REP,Cheryl Kelly,130
+Mason,"Free Soil Township, Precinct 1",Clerk,,REP,Write-In,1
+Mason,"Free Soil Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,118
+Mason,"Free Soil Township, Precinct 1",Treasurer,,REP,Write-In,1
+Mason,"Free Soil Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,122
+Mason,"Free Soil Township, Precinct 1",Register of Deeds,,REP,Write-In,0
+Mason,"Free Soil Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,118
+Mason,"Free Soil Township, Precinct 1",Drain Commissioner,,REP,Write-In,0
+Mason,"Free Soil Township, Precinct 1",Surveyor,,REP,James T. Nordlund,74
+Mason,"Free Soil Township, Precinct 1",Surveyor,,REP,John C. Schulke,48
+Mason,"Free Soil Township, Precinct 1",Surveyor,,REP,Write-In,0
+Mason,"Free Soil Township, Precinct 1",County Commissioner,6,REP,Janet S. Andersen,129
+Mason,"Free Soil Township, Precinct 1",County Commissioner,6,REP,Write-In,1
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Supervisor,,REP,Gregg Surma,118
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Supervisor,,REP,Write-In,1
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Clerk,,REP,Write-In,8
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Treasurer,,REP,Lisa M. Stankowski,128
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Treasurer,,REP,Write-In,1
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Trustee,,REP,Kenneth William Savich,121
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Trustee,,REP,Write-In,2
+Mason,"Free Soil Township, Precinct 1","Free Soil Township, Precinct 1 Delegate to County Convention",,REP,Write-In,13
+Mason,"Free Soil Township, Precinct 1",Mason Oceana 911,,,Yes,123
+Mason,"Free Soil Township, Precinct 1",Mason Oceana 911,,,No,49
 Mason,"Grant Township, Precinct 1",Registered Voters,,,,844
 Mason,"Grant Township, Precinct 1",Ballots Cast,,,,301
-Mason,"Grant Township, Precinct 1",Ballots Cast,,DEM,,123
-Mason,"Grant Township, Precinct 1",Ballots Cast,,REP,,154
-Mason,"Grant Township, Precinct 1",Ballots Cast,,NON,,24
-Mason,"Grant Township, Precinct 1",Ballots Cast Crossover,,,,22
-Mason,"Grant Township, Precinct 1",Ballots cast Blank,,,,0
-Mason,"Grant Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,117
-Mason,"Grant Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Grant Township, Precinct 1",U.S. House,1,Dana Ferguson,DEM,72
-Mason,"Grant Township, Precinct 1",U.S. House,1,Linda O'Dell,DEM,45
-Mason,"Grant Township, Precinct 1",U.S. House,1,Write-In Totals,DEM,0
-Mason,"Grant Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,72
-Mason,"Grant Township, Precinct 1",State House,101,Cary L. Urka,DEM,47
-Mason,"Grant Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Grant Township, Precinct 1",U.S. Senate,,John James,REP,133
-Mason,"Grant Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,1
-Mason,"Grant Township, Precinct 1",U.S. House,1,Jack Bergman,REP,133
-Mason,"Grant Township, Precinct 1",U.S. House,1,Write-In Totals,REP,1
-Mason,"Grant Township, Precinct 1",State House,101,Carolyn Cater,REP,15
-Mason,"Grant Township, Precinct 1",State House,101,Jack O'Malley,REP,133
-Mason,"Grant Township, Precinct 1",State House,101,Write-In Totals,REP,0
-Mason,"Hamlin Township, Precinct 1",Registered Voters,,,,1237
+Mason,"Grant Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,117
+Mason,"Grant Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Grant Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,72
+Mason,"Grant Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,45
+Mason,"Grant Township, Precinct 1",U.S. House,1,DEM,Write-In,0
+Mason,"Grant Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,72
+Mason,"Grant Township, Precinct 1",State House,101,DEM,Cary L. Urka,47
+Mason,"Grant Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Grant Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,13
+Mason,"Grant Township, Precinct 1",Sheriff,,DEM,Write-In,11
+Mason,"Grant Township, Precinct 1",Clerk,,DEM,Write-In,11
+Mason,"Grant Township, Precinct 1",Treasurer,,DEM,Write-In,11
+Mason,"Grant Township, Precinct 1",Register of Deeds,,DEM,Write-In,11
+Mason,"Grant Township, Precinct 1",Drain Commissioner,,DEM,Write-In,11
+Mason,"Grant Township, Precinct 1",Surveyor,,DEM,Write-In,11
+Mason,"Grant Township, Precinct 1",County Commissioner,3,DEM,Write-In,11
+Mason,"Grant Township, Precinct 1",Grant Township Supervisor,,DEM,Robert J. Rakowski,111
+Mason,"Grant Township, Precinct 1",Grant Township Supervisor,,DEM,Write-In,0
+Mason,"Grant Township, Precinct 1",Grant Township Clerk,,DEM,Mary Jo Janowiak,117
+Mason,"Grant Township, Precinct 1",Grant Township Clerk,,DEM,Write-In,0
+Mason,"Grant Township, Precinct 1",Grant Township Treasurer,,DEM,Kris Brandt,112
+Mason,"Grant Township, Precinct 1",Grant Township Treasurer,,DEM,Write-In,0
+Mason,"Grant Township, Precinct 1",Grant Township Trustee,,DEM,Allen Bufka,111
+Mason,"Grant Township, Precinct 1",Grant Township Trustee,,DEM,Write-In,0
+Mason,"Grant Township, Precinct 1","Grant Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,16
+Mason,"Grant Township, Precinct 1",U.S. Senate,,REP,John James,133
+Mason,"Grant Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Mason,"Grant Township, Precinct 1",U.S. House,1,REP,Jack Bergman,133
+Mason,"Grant Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Mason,"Grant Township, Precinct 1",State House,101,REP,Carolyn Cater,15
+Mason,"Grant Township, Precinct 1",State House,101,REP,Jack O'Malley,133
+Mason,"Grant Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Grant Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,60
+Mason,"Grant Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,81
+Mason,"Grant Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Grant Township, Precinct 1",Sheriff,,REP,Kim C. Cole,142
+Mason,"Grant Township, Precinct 1",Sheriff,,REP,Write-In,0
+Mason,"Grant Township, Precinct 1",Clerk,,REP,Cheryl Kelly,137
+Mason,"Grant Township, Precinct 1",Clerk,,REP,Write-In,0
+Mason,"Grant Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,133
+Mason,"Grant Township, Precinct 1",Treasurer,,REP,Write-In,0
+Mason,"Grant Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,133
+Mason,"Grant Township, Precinct 1",Register of Deeds,,REP,Write-In,0
+Mason,"Grant Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,129
+Mason,"Grant Township, Precinct 1",Drain Commissioner,,REP,Write-In,0
+Mason,"Grant Township, Precinct 1",Surveyor,,REP,James T. Nordlund,67
+Mason,"Grant Township, Precinct 1",Surveyor,,REP,John C. Schulke,60
+Mason,"Grant Township, Precinct 1",Surveyor,,REP,Write-In,2
+Mason,"Grant Township, Precinct 1",County Commissioner,3,REP,Jody Hartley,92
+Mason,"Grant Township, Precinct 1",County Commissioner,3,REP,Charles Lange,49
+Mason,"Grant Township, Precinct 1",County Commissioner,3,REP,Write-In,0
+Mason,"Grant Township, Precinct 1",Grant Township Supervisor,,REP,Write-In,16
+Mason,"Grant Township, Precinct 1",Grant Township Clerk,,REP,Write-In,7
+Mason,"Grant Township, Precinct 1",Grant Township Treasurer,,REP,Write-In,7
+Mason,"Grant Township, Precinct 1",Grant Township Trustee,,REP,Brenda Kelly,123
+Mason,"Grant Township, Precinct 1",Grant Township Trustee,,REP,Write-In,0
+Mason,"Grant Township, Precinct 1","Grant Township, Precinct 1 Delegate to County Convention",,REP,Peter Ostrander,119
+Mason,"Grant Township, Precinct 1","Grant Township, Precinct 1 Delegate to County Convention",,REP,Write-In,1
+Mason,"Grant Township, Precinct 1",Mason Oceana 911,,,Yes,208
+Mason,"Grant Township, Precinct 1",Mason Oceana 911,,,No,79
+Mason,"Grant Township, Precinct 1",Grant Road Millage,,,Yes,187
+Mason,"Grant Township, Precinct 1",Grant Road Millage,,,No,99
+Mason,"Hamlin Township, Precinct 1",Registered Voters,,,,"1,237"
 Mason,"Hamlin Township, Precinct 1",Ballots Cast,,,,505
-Mason,"Hamlin Township, Precinct 1",Ballots Cast,,DEM,,132
-Mason,"Hamlin Township, Precinct 1",Ballots Cast,,REP,,349
-Mason,"Hamlin Township, Precinct 1",Ballots Cast,,NON,,24
-Mason,"Hamlin Township, Precinct 1",Ballots Cast Crossover,,,,21
-Mason,"Hamlin Township, Precinct 1",Ballots cast Blank,,,,1
-Mason,"Hamlin Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,131
-Mason,"Hamlin Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Hamlin Township, Precinct 1",U.S. House,1,Dana Ferguson,DEM,88
-Mason,"Hamlin Township, Precinct 1",U.S. House,1,Linda O'Dell,DEM,39
-Mason,"Hamlin Township, Precinct 1",U.S. House,1,Write-In Totals,DEM,0
-Mason,"Hamlin Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,103
-Mason,"Hamlin Township, Precinct 1",State House,101,Cary L. Urka,DEM,24
-Mason,"Hamlin Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Hamlin Township, Precinct 1",U.S. Senate,,John James,REP,290
-Mason,"Hamlin Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,2
-Mason,"Hamlin Township, Precinct 1",U.S. House,1,Jack Bergman,REP,293
-Mason,"Hamlin Township, Precinct 1",U.S. House,1,Write-In Totals,REP,3
-Mason,"Hamlin Township, Precinct 1",State House,101,Carolyn Cater,REP,68
-Mason,"Hamlin Township, Precinct 1",State House,101,Jack O'Malley,REP,264
-Mason,"Hamlin Township, Precinct 1",State House,101,Write-In Totals,REP,0
-Mason,"Hamlin Township, Precinct 2",Registered Voters,,,,2126
+Mason,"Hamlin Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,131
+Mason,"Hamlin Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Hamlin Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,88
+Mason,"Hamlin Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,39
+Mason,"Hamlin Township, Precinct 1",U.S. House,1,DEM,Write-In,0
+Mason,"Hamlin Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,103
+Mason,"Hamlin Township, Precinct 1",State House,101,DEM,Cary L. Urka,24
+Mason,"Hamlin Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Hamlin Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,8
+Mason,"Hamlin Township, Precinct 1",Sheriff,,DEM,Write-In,10
+Mason,"Hamlin Township, Precinct 1",Clerk,,DEM,Write-In,8
+Mason,"Hamlin Township, Precinct 1",Treasurer,,DEM,Write-In,8
+Mason,"Hamlin Township, Precinct 1",Register of Deeds,,DEM,Write-In,7
+Mason,"Hamlin Township, Precinct 1",Drain Commissioner,,DEM,Write-In,7
+Mason,"Hamlin Township, Precinct 1",Surveyor,,DEM,Write-In,8
+Mason,"Hamlin Township, Precinct 1",County Commissioner,3,DEM,Write-In,6
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Supervisor,,DEM,Write-In,7
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Clerk,,DEM,Write-In,7
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Treasurer,,DEM,Write-In,6
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Trustee,,DEM,Larry Rees,108
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Trustee,,DEM,Write-In,1
+Mason,"Hamlin Township, Precinct 1","Hamlin Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,4
+Mason,"Hamlin Township, Precinct 1",U.S. Senate,,REP,John James,290
+Mason,"Hamlin Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Mason,"Hamlin Township, Precinct 1",U.S. House,1,REP,Jack Bergman,293
+Mason,"Hamlin Township, Precinct 1",U.S. House,1,REP,Write-In,3
+Mason,"Hamlin Township, Precinct 1",State House,101,REP,Carolyn Cater,68
+Mason,"Hamlin Township, Precinct 1",State House,101,REP,Jack O'Malley,264
+Mason,"Hamlin Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,132
+Mason,"Hamlin Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,201
+Mason,"Hamlin Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,1
+Mason,"Hamlin Township, Precinct 1",Sheriff,,REP,Kim C. Cole,311
+Mason,"Hamlin Township, Precinct 1",Sheriff,,REP,Write-In,5
+Mason,"Hamlin Township, Precinct 1",Clerk,,REP,Cheryl Kelly,299
+Mason,"Hamlin Township, Precinct 1",Clerk,,REP,Write-In,2
+Mason,"Hamlin Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,295
+Mason,"Hamlin Township, Precinct 1",Treasurer,,REP,Write-In,4
+Mason,"Hamlin Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,294
+Mason,"Hamlin Township, Precinct 1",Register of Deeds,,REP,Write-In,1
+Mason,"Hamlin Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,292
+Mason,"Hamlin Township, Precinct 1",Drain Commissioner,,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 1",Surveyor,,REP,James T. Nordlund,226
+Mason,"Hamlin Township, Precinct 1",Surveyor,,REP,John C. Schulke,85
+Mason,"Hamlin Township, Precinct 1",Surveyor,,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 1",County Commissioner,3,REP,Jody Hartley,188
+Mason,"Hamlin Township, Precinct 1",County Commissioner,3,REP,Charles Lange,147
+Mason,"Hamlin Township, Precinct 1",County Commissioner,3,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Supervisor,,REP,Nancy Vandervest,293
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Supervisor,,REP,Write-In,3
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Clerk,,REP,Catherine Lewis,301
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Clerk,,REP,Write-In,3
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Treasurer,,REP,Susan Kay Ptaszenski,299
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Treasurer,,REP,Write-In,2
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Trustee,,REP,Johnaine A. Gurzynski,291
+Mason,"Hamlin Township, Precinct 1",Hamlin Township Trustee,,REP,Write-In,2
+Mason,"Hamlin Township, Precinct 1","Hamlin Township, Precinct 1 Delegate to County Convention",,REP,Write-In,13
+Mason,"Hamlin Township, Precinct 1",Mason Oceana 911,,,Yes,376
+Mason,"Hamlin Township, Precinct 1",Mason Oceana 911,,,No,85
+Mason,"Hamlin Township, Precinct 1",Hamlin Fire Millage,,,Yes,396
+Mason,"Hamlin Township, Precinct 1",Hamlin Fire Millage,,,No,67
+Mason,"Hamlin Township, Precinct 2",Registered Voters,,,,"2,126"
 Mason,"Hamlin Township, Precinct 2",Ballots Cast,,,,853
-Mason,"Hamlin Township, Precinct 2",Ballots Cast,,DEM,,215
-Mason,"Hamlin Township, Precinct 2",Ballots Cast,,REP,,576
-Mason,"Hamlin Township, Precinct 2",Ballots Cast,,NON,,62
-Mason,"Hamlin Township, Precinct 2",Ballots Cast Crossover,,,,58
-Mason,"Hamlin Township, Precinct 2",Ballots cast Blank,,,,0
-Mason,"Hamlin Township, Precinct 2",U.S. Senate,,Gary Peters,DEM,208
-Mason,"Hamlin Township, Precinct 2",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Hamlin Township, Precinct 2",U.S. House,1,Dana Ferguson,DEM,25
-Mason,"Hamlin Township, Precinct 2",U.S. House,1,Linda O'Dell,DEM,23
-Mason,"Hamlin Township, Precinct 2",U.S. House,1,Write-In Totals,DEM,0
-Mason,"Hamlin Township, Precinct 2",U.S. House,2,Bryan Berghoef,DEM,154
-Mason,"Hamlin Township, Precinct 2",U.S. House,2,Write-In Totals,DEM,0
-Mason,"Hamlin Township, Precinct 2",State House,101,Beth McGill-Rizer,DEM,159
-Mason,"Hamlin Township, Precinct 2",State House,101,Cary L. Urka,DEM,51
-Mason,"Hamlin Township, Precinct 2",State House,101,Write-In Totals,DEM,0
-Mason,"Hamlin Township, Precinct 2",U.S. Senate,,John James,REP,485
-Mason,"Hamlin Township, Precinct 2",U.S. Senate,,Write-In Totals,REP,1
-Mason,"Hamlin Township, Precinct 2",U.S. House,1,Jack Bergman,REP,167
-Mason,"Hamlin Township, Precinct 2",U.S. House,1,Write-In Totals,REP,0
-Mason,"Hamlin Township, Precinct 2",U.S. House,2,Bill Huizenga,REP,335
-Mason,"Hamlin Township, Precinct 2",U.S. House,2,Write-In Totals,REP,0
-Mason,"Hamlin Township, Precinct 2",State House,101,Carolyn Cater,REP,87
-Mason,"Hamlin Township, Precinct 2",State House,101,Jack O'Malley,REP,466
-Mason,"Hamlin Township, Precinct 2",State House,101,Write-In Totals,REP,0
+Mason,"Hamlin Township, Precinct 2",U.S. Senate,,DEM,Gary Peters,208
+Mason,"Hamlin Township, Precinct 2",U.S. Senate,,DEM,Write-In,0
+Mason,"Hamlin Township, Precinct 2",U.S. House,1,DEM,Dana Ferguson,25
+Mason,"Hamlin Township, Precinct 2",U.S. House,1,DEM,Linda O'Dell,23
+Mason,"Hamlin Township, Precinct 2",U.S. House,1,DEM,Write-In,0
+Mason,"Hamlin Township, Precinct 2",U.S. House,2,DEM,Bryan Berghoef,154
+Mason,"Hamlin Township, Precinct 2",U.S. House,2,DEM,Write-In,0
+Mason,"Hamlin Township, Precinct 2",State House,101,DEM,Beth McGill-Rizer,159
+Mason,"Hamlin Township, Precinct 2",State House,101,DEM,Cary L. Urka,51
+Mason,"Hamlin Township, Precinct 2",State House,101,DEM,Write-In,0
+Mason,"Hamlin Township, Precinct 2",Prosecuting Attorney,,DEM,Write-In,15
+Mason,"Hamlin Township, Precinct 2",Sheriff,,DEM,Write-In,16
+Mason,"Hamlin Township, Precinct 2",Clerk,,DEM,Write-In,13
+Mason,"Hamlin Township, Precinct 2",Treasurer,,DEM,Write-In,13
+Mason,"Hamlin Township, Precinct 2",Register of Deeds,,DEM,Write-In,13
+Mason,"Hamlin Township, Precinct 2",Drain Commissioner,,DEM,Write-In,13
+Mason,"Hamlin Township, Precinct 2",Surveyor,,DEM,Write-In,13
+Mason,"Hamlin Township, Precinct 2",County Commissioner,3,DEM,Write-In,13
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Supervisor,,DEM,Write-In,14
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Clerk,,DEM,Write-In,13
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Treasurer,,DEM,Write-In,14
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Trustee,,DEM,Larry Rees,176
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Trustee,,DEM,Write-In,3
+Mason,"Hamlin Township, Precinct 2","Hamlin Township, Precinct 2 Delegate to County Convention",,DEM,Write-In,19
+Mason,"Hamlin Township, Precinct 2",U.S. Senate,,REP,John James,485
+Mason,"Hamlin Township, Precinct 2",U.S. Senate,,REP,Write-In,1
+Mason,"Hamlin Township, Precinct 2",U.S. House,1,REP,Jack Bergman,167
+Mason,"Hamlin Township, Precinct 2",U.S. House,1,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 2",U.S. House,2,REP,Bill Huizenga,335
+Mason,"Hamlin Township, Precinct 2",U.S. House,2,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 2",State House,101,REP,Carolyn Cater,87
+Mason,"Hamlin Township, Precinct 2",State House,101,REP,Jack O'Malley,466
+Mason,"Hamlin Township, Precinct 2",State House,101,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 2",Prosecuting Attorney,,REP,Chad A. DeRouin,178
+Mason,"Hamlin Township, Precinct 2",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,375
+Mason,"Hamlin Township, Precinct 2",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 2",Sheriff,,REP,Kim C. Cole,522
+Mason,"Hamlin Township, Precinct 2",Sheriff,,REP,Write-In,3
+Mason,"Hamlin Township, Precinct 2",Clerk,,REP,Cheryl Kelly,511
+Mason,"Hamlin Township, Precinct 2",Clerk,,REP,Write-In,3
+Mason,"Hamlin Township, Precinct 2",Treasurer,,REP,Andrew R. Kmetz IV,504
+Mason,"Hamlin Township, Precinct 2",Treasurer,,REP,Write-In,2
+Mason,"Hamlin Township, Precinct 2",Register of Deeds,,REP,Diane L. Englebrecht,501
+Mason,"Hamlin Township, Precinct 2",Register of Deeds,,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 2",Drain Commissioner,,REP,Dan Rohde,497
+Mason,"Hamlin Township, Precinct 2",Drain Commissioner,,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 2",Surveyor,,REP,James T. Nordlund,350
+Mason,"Hamlin Township, Precinct 2",Surveyor,,REP,John C. Schulke,165
+Mason,"Hamlin Township, Precinct 2",Surveyor,,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 2",County Commissioner,3,REP,Jody Hartley,342
+Mason,"Hamlin Township, Precinct 2",County Commissioner,3,REP,Charles Lange,214
+Mason,"Hamlin Township, Precinct 2",County Commissioner,3,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Supervisor,,REP,Nancy Vandervest,510
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Supervisor,,REP,Write-In,2
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Clerk,,REP,Catherine Lewis,512
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Clerk,,REP,Write-In,1
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Treasurer,,REP,Susan Kay Ptaszenski,504
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Treasurer,,REP,Write-In,0
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Trustee,,REP,Johnaine A. Gurzynski,490
+Mason,"Hamlin Township, Precinct 2",Hamlin Township Trustee,,REP,Write-In,2
+Mason,"Hamlin Township, Precinct 2","Hamlin Township, Precinct 2 Delegate to County Convention",,REP,Paul McCrath,390
+Mason,"Hamlin Township, Precinct 2","Hamlin Township, Precinct 2 Delegate to County Convention",,REP,Tim Muldoon,344
+Mason,"Hamlin Township, Precinct 2","Hamlin Township, Precinct 2 Delegate to County Convention",,REP,Heather Vandervest,397
+Mason,"Hamlin Township, Precinct 2","Hamlin Township, Precinct 2 Delegate to County Convention",,REP,Write-In,1
+Mason,"Hamlin Township, Precinct 2",Mason Oceana 911,,,Yes,635
+Mason,"Hamlin Township, Precinct 2",Mason Oceana 911,,,No,143
+Mason,"Hamlin Township, Precinct 2",Hamlin Fire Millage,,,Yes,666
 Mason,"Logan Township, Precinct 1",Registered Voters,,,,274
 Mason,"Logan Township, Precinct 1",Ballots Cast,,,,101
-Mason,"Logan Township, Precinct 1",Ballots Cast,,DEM,,26
-Mason,"Logan Township, Precinct 1",Ballots Cast,,REP,,70
-Mason,"Logan Township, Precinct 1",Ballots Cast,,NON,,5
-Mason,"Logan Township, Precinct 1",Ballots Cast Crossover,,,,3
-Mason,"Logan Township, Precinct 1",Ballots cast Blank,,,,0
-Mason,"Logan Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,26
-Mason,"Logan Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Logan Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,26
-Mason,"Logan Township, Precinct 1",U.S. House,2,Write-In Totals,DEM,0
-Mason,"Logan Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,18
-Mason,"Logan Township, Precinct 1",State House,101,Cary L. Urka,DEM,8
-Mason,"Logan Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Logan Township, Precinct 1",U.S. Senate,,John James,REP,56
-Mason,"Logan Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,0
-Mason,"Logan Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,59
-Mason,"Logan Township, Precinct 1",U.S. House,2,Write-In Totals,REP,0
-Mason,"Logan Township, Precinct 1",State House,101,Carolyn Cater,REP,13
-Mason,"Logan Township, Precinct 1",State House,101,Jack O'Malley,REP,52
-Mason,"Logan Township, Precinct 1",State House,101,Write-In Totals,REP,0
+Mason,"Logan Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,26
+Mason,"Logan Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Logan Township, Precinct 1",U.S. House,2,DEM,Bryan Berghoef,26
+Mason,"Logan Township, Precinct 1",U.S. House,2,DEM,Write-In,0
+Mason,"Logan Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,18
+Mason,"Logan Township, Precinct 1",State House,101,DEM,Cary L. Urka,8
+Mason,"Logan Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Logan Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,9
+Mason,"Logan Township, Precinct 1",Sheriff,,DEM,Write-In,9
+Mason,"Logan Township, Precinct 1",Clerk,,DEM,Write-In,9
+Mason,"Logan Township, Precinct 1",Treasurer,,DEM,Write-In,8
+Mason,"Logan Township, Precinct 1",Register of Deeds,,DEM,Write-In,8
+Mason,"Logan Township, Precinct 1",Drain Commissioner,,DEM,Write-In,8
+Mason,"Logan Township, Precinct 1",Surveyor,,DEM,Write-In,8
+Mason,"Logan Township, Precinct 1",County Commissioner,7,DEM,Ed Miller,22
+Mason,"Logan Township, Precinct 1",County Commissioner,7,DEM,Write-In,0
+Mason,"Logan Township, Precinct 1",Logan Township Supervisor,,DEM,Write-In,9
+Mason,"Logan Township, Precinct 1",Logan Township Clerk,,DEM,Write-In,9
+Mason,"Logan Township, Precinct 1",Logan Township Treasurer,,DEM,Write-In,9
+Mason,"Logan Township, Precinct 1",Logan Township Trustee,,DEM,Write-In,11
+Mason,"Logan Township, Precinct 1","Logan Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,9
+Mason,"Logan Township, Precinct 1",U.S. Senate,,REP,John James,56
+Mason,"Logan Township, Precinct 1",U.S. Senate,,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",U.S. House,2,REP,Bill Huizenga,59
+Mason,"Logan Township, Precinct 1",U.S. House,2,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",State House,101,REP,Carolyn Cater,13
+Mason,"Logan Township, Precinct 1",State House,101,REP,Jack O'Malley,52
+Mason,"Logan Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,34
+Mason,"Logan Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,31
+Mason,"Logan Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",Sheriff,,REP,Kim C. Cole,62
+Mason,"Logan Township, Precinct 1",Sheriff,,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",Clerk,,REP,Cheryl Kelly,61
+Mason,"Logan Township, Precinct 1",Clerk,,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,59
+Mason,"Logan Township, Precinct 1",Treasurer,,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,59
+Mason,"Logan Township, Precinct 1",Register of Deeds,,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,58
+Mason,"Logan Township, Precinct 1",Drain Commissioner,,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",Surveyor,,REP,James T. Nordlund,31
+Mason,"Logan Township, Precinct 1",Surveyor,,REP,John C. Schulke,29
+Mason,"Logan Township, Precinct 1",Surveyor,,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",County Commissioner,7,REP,Ron Bacon,59
+Mason,"Logan Township, Precinct 1",County Commissioner,7,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",Logan Township Supervisor,,REP,Bruce Burke,63
+Mason,"Logan Township, Precinct 1",Logan Township Supervisor,,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",Logan Township Clerk,,REP,John R. Kampfschulte,65
+Mason,"Logan Township, Precinct 1",Logan Township Clerk,,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",Logan Township Treasurer,,REP,Tammy L. Bromley,62
+Mason,"Logan Township, Precinct 1",Logan Township Treasurer,,REP,Write-In,0
+Mason,"Logan Township, Precinct 1",Logan Township Trustee,,REP,Shirley Balinski,35
+Mason,"Logan Township, Precinct 1",Logan Township Trustee,,REP,Robert Burke,45
+Mason,"Logan Township, Precinct 1",Logan Township Trustee,,REP,Daniel R. Stewart,44
+Mason,"Logan Township, Precinct 1",Logan Township Trustee,,REP,Write-In,0
+Mason,"Logan Township, Precinct 1","Logan Township, Precinct 1 Delegate to County Convention",,REP,Write-In,9
+Mason,"Logan Township, Precinct 1",Mason Oceana 911,,,Yes,68
+Mason,"Logan Township, Precinct 1",Mason Oceana 911,,,No,18
+Mason,"Logan Township, Precinct 1",Walkerville Public Schools,,,Yes,13
 Mason,"City of Ludington, Precinct 1",Registered Voters,,,,989
 Mason,"City of Ludington, Precinct 1",Ballots Cast,,,,438
-Mason,"City of Ludington, Precinct 1",Ballots Cast,,DEM,,127
-Mason,"City of Ludington, Precinct 1",Ballots Cast,,REP,,278
-Mason,"City of Ludington, Precinct 1",Ballots Cast,,NON,,33
-Mason,"City of Ludington, Precinct 1",Ballots Cast Crossover,,,,31
-Mason,"City of Ludington, Precinct 1",Ballots cast Blank,,,,0
-Mason,"City of Ludington, Precinct 1",U.S. Senate,,Gary Peters,DEM,124
-Mason,"City of Ludington, Precinct 1",U.S. Senate,,Write-In Totals,DEM,1
-Mason,"City of Ludington, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,120
-Mason,"City of Ludington, Precinct 1",U.S. House,2,Write-In Totals,DEM,2
-Mason,"City of Ludington, Precinct 1",State House,101,Beth McGill-Rizer,DEM,102
-Mason,"City of Ludington, Precinct 1",State House,101,Cary L. Urka,DEM,22
-Mason,"City of Ludington, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"City of Ludington, Precinct 1",U.S. Senate,,John James,REP,245
-Mason,"City of Ludington, Precinct 1",U.S. Senate,,Write-In Totals,REP,1
-Mason,"City of Ludington, Precinct 1",U.S. House,2,Bill Huizenga,REP,248
-Mason,"City of Ludington, Precinct 1",U.S. House,2,Write-In Totals,REP,1
-Mason,"City of Ludington, Precinct 1",State House,101,Carolyn Cater,REP,43
-Mason,"City of Ludington, Precinct 1",State House,101,Jack O'Malley,REP,217
-Mason,"City of Ludington, Precinct 1",State House,101,Write-In Totals,REP,1
-Mason,"City of Ludington, Precinct 2",Registered Voters,,,,1073
+Mason,"City of Ludington, Precinct 1",U.S. Senate,,DEM,Gary Peters,124
+Mason,"City of Ludington, Precinct 1",U.S. Senate,,DEM,Write-In,1
+Mason,"City of Ludington, Precinct 1",U.S. House,2,DEM,Bryan Berghoef,120
+Mason,"City of Ludington, Precinct 1",U.S. House,2,DEM,Write-In,2
+Mason,"City of Ludington, Precinct 1",State House,101,DEM,Beth McGill-Rizer,102
+Mason,"City of Ludington, Precinct 1",State House,101,DEM,Cary L. Urka,22
+Mason,"City of Ludington, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 1",Prosecuting Attorney,,DEM,Write-In,8
+Mason,"City of Ludington, Precinct 1",Sheriff,,DEM,Write-In,11
+Mason,"City of Ludington, Precinct 1",Clerk,,DEM,Write-In,8
+Mason,"City of Ludington, Precinct 1",Treasurer,,DEM,Write-In,7
+Mason,"City of Ludington, Precinct 1",Register of Deeds,,DEM,Write-In,6
+Mason,"City of Ludington, Precinct 1",Drain Commissioner,,DEM,Write-In,6
+Mason,"City of Ludington, Precinct 1",Surveyor,,DEM,Write-In,6
+Mason,"City of Ludington, Precinct 1",County Commissioner,1,DEM,Nick Krieger,115
+Mason,"City of Ludington, Precinct 1",County Commissioner,1,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 1","City of Ludington, Precinct 1 Delegate to County Convention",,DEM,Write-In,10
+Mason,"City of Ludington, Precinct 1",U.S. Senate,,REP,John James,245
+Mason,"City of Ludington, Precinct 1",U.S. Senate,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 1",U.S. House,2,REP,Bill Huizenga,248
+Mason,"City of Ludington, Precinct 1",U.S. House,2,REP,Write-In,1
+Mason,"City of Ludington, Precinct 1",State House,101,REP,Carolyn Cater,43
+Mason,"City of Ludington, Precinct 1",State House,101,REP,Jack O'Malley,217
+Mason,"City of Ludington, Precinct 1",State House,101,REP,Write-In,1
+Mason,"City of Ludington, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,198
+Mason,"City of Ludington, Precinct 1",Prosecuting Attorney,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 1",Sheriff,,REP,Kim C. Cole,258
+Mason,"City of Ludington, Precinct 1",Sheriff,,REP,Write-In,3
+Mason,"City of Ludington, Precinct 1",Clerk,,REP,Cheryl Kelly,255
+Mason,"City of Ludington, Precinct 1",Clerk,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,247
+Mason,"City of Ludington, Precinct 1",Treasurer,,REP,Write-In,2
+Mason,"City of Ludington, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,250
+Mason,"City of Ludington, Precinct 1",Register of Deeds,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 1",Drain Commissioner,,REP,Dan Rohde,241
+Mason,"City of Ludington, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 1",Surveyor,,REP,James T. Nordlund,172
+Mason,"City of Ludington, Precinct 1",Surveyor,,REP,John C. Schulke,79
+Mason,"City of Ludington, Precinct 1",Surveyor,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 1",County Commissioner,1,REP,Susan Boes,241
+Mason,"City of Ludington, Precinct 1",County Commissioner,1,REP,Write-In,2
+Mason,"City of Ludington, Precinct 1","City of Ludington, Precinct 1 Delegate to County Convention",,REP,John Beckett,165
+Mason,"City of Ludington, Precinct 1","City of Ludington, Precinct 1 Delegate to County Convention",,REP,John F. Kreinbrink,198
+Mason,"City of Ludington, Precinct 1","City of Ludington, Precinct 1 Delegate to County Convention",,REP,Write-In,3
+Mason,"City of Ludington, Precinct 1",Mason Oceana 911,,,Yes,343
+Mason,"City of Ludington, Precinct 1",Mason Oceana 911,,,No,65
+Mason,"City of Ludington, Precinct 1",Ludington Mass Transportation Authority,,,Yes,321
+Mason,"City of Ludington, Precinct 1",Ludington Mass Transportation Authority,,,No,87
+Mason,"City of Ludington, Precinct 2",Registered Voters,,,,"1,073"
 Mason,"City of Ludington, Precinct 2",Ballots Cast,,,,369
-Mason,"City of Ludington, Precinct 2",Ballots Cast,,DEM,,140
-Mason,"City of Ludington, Precinct 2",Ballots Cast,,REP,,189
-Mason,"City of Ludington, Precinct 2",Ballots Cast,,NON,,40
-Mason,"City of Ludington, Precinct 2",Ballots Cast Crossover,,,,36
-Mason,"City of Ludington, Precinct 2",Ballots cast Blank,,,,0
-Mason,"City of Ludington, Precinct 2",U.S. Senate,,Gary Peters,DEM,134
-Mason,"City of Ludington, Precinct 2",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"City of Ludington, Precinct 2",U.S. House,2,Bryan Berghoef,DEM,134
-Mason,"City of Ludington, Precinct 2",U.S. House,2,Write-In Totals,DEM,0
-Mason,"City of Ludington, Precinct 2",State House,101,Beth McGill-Rizer,DEM,109
-Mason,"City of Ludington, Precinct 2",State House,101,Cary L. Urka,DEM,27
-Mason,"City of Ludington, Precinct 2",State House,101,Write-In Totals,DEM,2
-Mason,"City of Ludington, Precinct 2",U.S. Senate,,John James,REP,172
-Mason,"City of Ludington, Precinct 2",U.S. Senate,,Write-In Totals,REP,2
-Mason,"City of Ludington, Precinct 2",U.S. House,2,Bill Huizenga,REP,171
-Mason,"City of Ludington, Precinct 2",U.S. House,2,Write-In Totals,REP,3
-Mason,"City of Ludington, Precinct 2",State House,101,Carolyn Cater,REP,31
-Mason,"City of Ludington, Precinct 2",State House,101,Jack O'Malley,REP,153
-Mason,"City of Ludington, Precinct 2",State House,101,Write-In Totals,REP,0
-Mason,"City of Ludington, Precinct 3",Registered Voters,,,,1174
+Mason,"City of Ludington, Precinct 2",U.S. Senate,,DEM,Gary Peters,134
+Mason,"City of Ludington, Precinct 2",U.S. Senate,,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 2",U.S. House,2,DEM,Bryan Berghoef,134
+Mason,"City of Ludington, Precinct 2",U.S. House,2,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 2",State House,101,DEM,Beth McGill-Rizer,109
+Mason,"City of Ludington, Precinct 2",State House,101,DEM,Cary L. Urka,27
+Mason,"City of Ludington, Precinct 2",State House,101,DEM,Write-In,2
+Mason,"City of Ludington, Precinct 2",Prosecuting Attorney,,DEM,Write-In,13
+Mason,"City of Ludington, Precinct 2",Sheriff,,DEM,Write-In,11
+Mason,"City of Ludington, Precinct 2",Clerk,,DEM,Write-In,9
+Mason,"City of Ludington, Precinct 2",Treasurer,,DEM,Write-In,9
+Mason,"City of Ludington, Precinct 2",Register of Deeds,,DEM,Write-In,9
+Mason,"City of Ludington, Precinct 2",Drain Commissioner,,DEM,Write-In,9
+Mason,"City of Ludington, Precinct 2",Surveyor,,DEM,Write-In,9
+Mason,"City of Ludington, Precinct 2",County Commissioner,1,DEM,Nick Krieger,124
+Mason,"City of Ludington, Precinct 2",County Commissioner,1,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 2","City of Ludington, Precinct 2 Delegate to County Convention",,DEM,Janet Pollard,127
+Mason,"City of Ludington, Precinct 2","City of Ludington, Precinct 2 Delegate to County Convention",,DEM,Write-In,1
+Mason,"City of Ludington, Precinct 2",U.S. Senate,,REP,John James,172
+Mason,"City of Ludington, Precinct 2",U.S. Senate,,REP,Write-In,2
+Mason,"City of Ludington, Precinct 2",U.S. House,2,REP,Bill Huizenga,171
+Mason,"City of Ludington, Precinct 2",U.S. House,2,REP,Write-In,3
+Mason,"City of Ludington, Precinct 2",State House,101,REP,Carolyn Cater,31
+Mason,"City of Ludington, Precinct 2",State House,101,REP,Jack O'Malley,153
+Mason,"City of Ludington, Precinct 2",State House,101,REP,Write-In,0
+Mason,"City of Ludington, Precinct 2",Prosecuting Attorney,,REP,Chad A. DeRouin,61
+Mason,"City of Ludington, Precinct 2",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,123
+Mason,"City of Ludington, Precinct 2",Prosecuting Attorney,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 2",Sheriff,,REP,Kim C. Cole,175
+Mason,"City of Ludington, Precinct 2",Sheriff,,REP,Write-In,4
+Mason,"City of Ludington, Precinct 2",Clerk,,REP,Cheryl Kelly,174
+Mason,"City of Ludington, Precinct 2",Clerk,,REP,Write-In,2
+Mason,"City of Ludington, Precinct 2",Treasurer,,REP,Andrew R. Kmetz IV,173
+Mason,"City of Ludington, Precinct 2",Treasurer,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 2",Register of Deeds,,REP,Diane L. Englebrecht,174
+Mason,"City of Ludington, Precinct 2",Register of Deeds,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 2",Drain Commissioner,,REP,Dan Rohde,174
+Mason,"City of Ludington, Precinct 2",Drain Commissioner,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 2",Surveyor,,REP,James T. Nordlund,142
+Mason,"City of Ludington, Precinct 2",Surveyor,,REP,John C. Schulke,42
+Mason,"City of Ludington, Precinct 2",Surveyor,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 2",County Commissioner,1,REP,Susan Boes,170
+Mason,"City of Ludington, Precinct 2",County Commissioner,1,REP,Write-In,1
+Mason,"City of Ludington, Precinct 2","City of Ludington, Precinct 2 Delegate to County Convention",,REP,Write-In,29
+Mason,"City of Ludington, Precinct 2",Mason Oceana 911,,,Yes,300
+Mason,"City of Ludington, Precinct 2",Mason Oceana 911,,,No,51
+Mason,"City of Ludington, Precinct 2",Ludington Mass Transportation Authority,,,Yes,281
+Mason,"City of Ludington, Precinct 2",Ludington Mass Transportation Authority,,,No,70
+Mason,"City of Ludington, Precinct 3",Registered Voters,,,,"1,174"
 Mason,"City of Ludington, Precinct 3",Ballots Cast,,,,427
-Mason,"City of Ludington, Precinct 3",Ballots Cast,,DEM,,181
-Mason,"City of Ludington, Precinct 3",Ballots Cast,,REP,,223
-Mason,"City of Ludington, Precinct 3",Ballots Cast,,NON,,23
-Mason,"City of Ludington, Precinct 3",Ballots Cast Crossover,,,,22
-Mason,"City of Ludington, Precinct 3",Ballots cast Blank,,,,1
-Mason,"City of Ludington, Precinct 3",U.S. Senate,,Gary Peters,DEM,178
-Mason,"City of Ludington, Precinct 3",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"City of Ludington, Precinct 3",U.S. House,2,Bryan Berghoef,DEM,171
-Mason,"City of Ludington, Precinct 3",U.S. House,2,Write-In Totals,DEM,0
-Mason,"City of Ludington, Precinct 3",State House,101,Beth McGill-Rizer,DEM,140
-Mason,"City of Ludington, Precinct 3",State House,101,Cary L. Urka,DEM,36
-Mason,"City of Ludington, Precinct 3",State House,101,Write-In Totals,DEM,0
-Mason,"City of Ludington, Precinct 3",U.S. Senate,,John James,REP,202
-Mason,"City of Ludington, Precinct 3",U.S. Senate,,Write-In Totals,REP,0
-Mason,"City of Ludington, Precinct 3",U.S. House,2,Bill Huizenga,REP,202
-Mason,"City of Ludington, Precinct 3",U.S. House,2,Write-In Totals,REP,0
-Mason,"City of Ludington, Precinct 3",State House,101,Carolyn Cater,REP,42
-Mason,"City of Ludington, Precinct 3",State House,101,Jack O'Malley,REP,170
-Mason,"City of Ludington, Precinct 3",State House,101,Write-In Totals,REP,0
-Mason,"City of Ludington, Precinct 4",Registered Voters,,,,1028
+Mason,"City of Ludington, Precinct 3",U.S. Senate,,DEM,Gary Peters,178
+Mason,"City of Ludington, Precinct 3",U.S. Senate,,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 3",U.S. House,2,DEM,Bryan Berghoef,171
+Mason,"City of Ludington, Precinct 3",U.S. House,2,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 3",State House,101,DEM,Beth McGill-Rizer,140
+Mason,"City of Ludington, Precinct 3",State House,101,DEM,Cary L. Urka,36
+Mason,"City of Ludington, Precinct 3",State House,101,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 3",Prosecuting Attorney,,DEM,Write-In,13
+Mason,"City of Ludington, Precinct 3",Sheriff,,DEM,Write-In,11
+Mason,"City of Ludington, Precinct 3",Clerk,,DEM,Write-In,11
+Mason,"City of Ludington, Precinct 3",Treasurer,,DEM,Write-In,10
+Mason,"City of Ludington, Precinct 3",Register of Deeds,,DEM,Write-In,10
+Mason,"City of Ludington, Precinct 3",Drain Commissioner,,DEM,Write-In,10
+Mason,"City of Ludington, Precinct 3",Surveyor,,DEM,Write-In,9
+Mason,"City of Ludington, Precinct 3",County Commissioner,1,DEM,Nick Krieger,164
+Mason,"City of Ludington, Precinct 3",County Commissioner,1,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 3","City of Ludington, Precinct 3 Delegate to County Convention",,DEM,Write-In,38
+Mason,"City of Ludington, Precinct 3",U.S. Senate,,REP,John James,202
+Mason,"City of Ludington, Precinct 3",U.S. Senate,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 3",U.S. House,2,REP,Bill Huizenga,202
+Mason,"City of Ludington, Precinct 3",U.S. House,2,REP,Write-In,0
+Mason,"City of Ludington, Precinct 3",State House,101,REP,Carolyn Cater,42
+Mason,"City of Ludington, Precinct 3",State House,101,REP,Jack O'Malley,170
+Mason,"City of Ludington, Precinct 3",State House,101,REP,Write-In,0
+Mason,"City of Ludington, Precinct 3",Prosecuting Attorney,,REP,Chad A. DeRouin,70
+Mason,"City of Ludington, Precinct 3",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,144
+Mason,"City of Ludington, Precinct 3",Prosecuting Attorney,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 3",Sheriff,,REP,Kim C. Cole,200
+Mason,"City of Ludington, Precinct 3",Sheriff,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 3",Clerk,,REP,Cheryl Kelly,202
+Mason,"City of Ludington, Precinct 3",Clerk,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 3",Treasurer,,REP,Andrew R. Kmetz IV,199
+Mason,"City of Ludington, Precinct 3",Treasurer,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 3",Register of Deeds,,REP,Diane L. Englebrecht,197
+Mason,"City of Ludington, Precinct 3",Register of Deeds,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 3",Drain Commissioner,,REP,Dan Rohde,199
+Mason,"City of Ludington, Precinct 3",Drain Commissioner,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 3",Surveyor,,REP,James T. Nordlund,161
+Mason,"City of Ludington, Precinct 3",Surveyor,,REP,John C. Schulke,45
+Mason,"City of Ludington, Precinct 3",Surveyor,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 3",County Commissioner,1,REP,Susan Boes,190
+Mason,"City of Ludington, Precinct 3",County Commissioner,1,REP,Write-In,0
+Mason,"City of Ludington, Precinct 3","City of Ludington, Precinct 3 Delegate to County Convention",,REP,Susan Boes,153
+Mason,"City of Ludington, Precinct 3","City of Ludington, Precinct 3 Delegate to County Convention",,REP,Joan Killion,91
+Mason,"City of Ludington, Precinct 3","City of Ludington, Precinct 3 Delegate to County Convention",,REP,Write-In,1
+Mason,"City of Ludington, Precinct 3",Mason Oceana 911,,,Yes,329
+Mason,"City of Ludington, Precinct 3",Mason Oceana 911,,,No,68
+Mason,"City of Ludington, Precinct 3",Ludington Mass Transportation Authority,,,Yes,311
+Mason,"City of Ludington, Precinct 3",Ludington Mass Transportation Authority,,,No,87
+Mason,"City of Ludington, Precinct 4",Registered Voters,,,,"1,028"
 Mason,"City of Ludington, Precinct 4",Ballots Cast,,,,269
-Mason,"City of Ludington, Precinct 4",Ballots Cast,,DEM,,88
-Mason,"City of Ludington, Precinct 4",Ballots Cast,,REP,,162
-Mason,"City of Ludington, Precinct 4",Ballots Cast,,NON,,19
-Mason,"City of Ludington, Precinct 4",Ballots Cast Crossover,,,,16
-Mason,"City of Ludington, Precinct 4",Ballots cast Blank,,,,0
-Mason,"City of Ludington, Precinct 4",U.S. Senate,,Gary Peters,DEM,82
-Mason,"City of Ludington, Precinct 4",U.S. Senate,,Write-In Totals,DEM,1
-Mason,"City of Ludington, Precinct 4",U.S. House,2,Bryan Berghoef,DEM,80
-Mason,"City of Ludington, Precinct 4",U.S. House,2,Write-In Totals,DEM,1
-Mason,"City of Ludington, Precinct 4",State House,101,Beth McGill-Rizer,DEM,63
-Mason,"City of Ludington, Precinct 4",State House,101,Cary L. Urka,DEM,24
-Mason,"City of Ludington, Precinct 4",State House,101,Write-In Totals,DEM,0
-Mason,"City of Ludington, Precinct 4",U.S. Senate,,John James,REP,141
-Mason,"City of Ludington, Precinct 4",U.S. Senate,,Write-In Totals,REP,2
-Mason,"City of Ludington, Precinct 4",U.S. House,2,Bill Huizenga,REP,142
-Mason,"City of Ludington, Precinct 4",U.S. House,2,Write-In Totals,REP,1
-Mason,"City of Ludington, Precinct 4",State House,101,Carolyn Cater,REP,25
-Mason,"City of Ludington, Precinct 4",State House,101,Jack O'Malley,REP,132
-Mason,"City of Ludington, Precinct 4",State House,101,Write-In Totals,REP,0
+Mason,"City of Ludington, Precinct 4",U.S. Senate,,DEM,Gary Peters,82
+Mason,"City of Ludington, Precinct 4",U.S. Senate,,DEM,Write-In,1
+Mason,"City of Ludington, Precinct 4",U.S. House,2,DEM,Bryan Berghoef,80
+Mason,"City of Ludington, Precinct 4",U.S. House,2,DEM,Write-In,1
+Mason,"City of Ludington, Precinct 4",State House,101,DEM,Beth McGill-Rizer,63
+Mason,"City of Ludington, Precinct 4",State House,101,DEM,Cary L. Urka,24
+Mason,"City of Ludington, Precinct 4",State House,101,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 4",Prosecuting Attorney,,DEM,Write-In,10
+Mason,"City of Ludington, Precinct 4",Sheriff,,DEM,Write-In,12
+Mason,"City of Ludington, Precinct 4",Clerk,,DEM,Write-In,8
+Mason,"City of Ludington, Precinct 4",Treasurer,,DEM,Write-In,8
+Mason,"City of Ludington, Precinct 4",Register of Deeds,,DEM,Write-In,8
+Mason,"City of Ludington, Precinct 4",Drain Commissioner,,DEM,Write-In,8
+Mason,"City of Ludington, Precinct 4",Surveyor,,DEM,Write-In,8
+Mason,"City of Ludington, Precinct 4",County Commissioner,2,DEM,Write-In,8
+Mason,"City of Ludington, Precinct 4","City of Ludington, Precinct 4 Delegate to County Convention",,DEM,Adrianne Oswald,78
+Mason,"City of Ludington, Precinct 4","City of Ludington, Precinct 4 Delegate to County Convention",,DEM,Write-In,2
+Mason,"City of Ludington, Precinct 4",U.S. Senate,,REP,John James,141
+Mason,"City of Ludington, Precinct 4",U.S. Senate,,REP,Write-In,2
+Mason,"City of Ludington, Precinct 4",U.S. House,2,REP,Bill Huizenga,142
+Mason,"City of Ludington, Precinct 4",U.S. House,2,REP,Write-In,1
+Mason,"City of Ludington, Precinct 4",State House,101,REP,Carolyn Cater,25
+Mason,"City of Ludington, Precinct 4",State House,101,REP,Jack O'Malley,132
+Mason,"City of Ludington, Precinct 4",State House,101,REP,Write-In,0
+Mason,"City of Ludington, Precinct 4",Prosecuting Attorney,,REP,Chad A. DeRouin,76
+Mason,"City of Ludington, Precinct 4",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,78
+Mason,"City of Ludington, Precinct 4",Prosecuting Attorney,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 4",Sheriff,,REP,Kim C. Cole,151
+Mason,"City of Ludington, Precinct 4",Sheriff,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 4",Clerk,,REP,Cheryl Kelly,143
+Mason,"City of Ludington, Precinct 4",Clerk,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 4",Treasurer,,REP,Andrew R. Kmetz IV,141
+Mason,"City of Ludington, Precinct 4",Treasurer,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 4",Register of Deeds,,REP,Diane L. Englebrecht,142
+Mason,"City of Ludington, Precinct 4",Register of Deeds,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 4",Drain Commissioner,,REP,Dan Rohde,140
+Mason,"City of Ludington, Precinct 4",Drain Commissioner,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 4",Surveyor,,REP,James T. Nordlund,94
+Mason,"City of Ludington, Precinct 4",Surveyor,,REP,John C. Schulke,51
+Mason,"City of Ludington, Precinct 4",Surveyor,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 4",County Commissioner,2,REP,Gary E. Castonia,76
+Mason,"City of Ludington, Precinct 4",County Commissioner,2,REP,Jason Kirkpatrick,74
+Mason,"City of Ludington, Precinct 4",County Commissioner,2,REP,Write-In,0
+Mason,"City of Ludington, Precinct 4","City of Ludington, Precinct 4 Delegate to County Convention",,REP,Carolyn Cater,64
+Mason,"City of Ludington, Precinct 4","City of Ludington, Precinct 4 Delegate to County Convention",,REP,Jeffery Alan Crawford,76
+Mason,"City of Ludington, Precinct 4","City of Ludington, Precinct 4 Delegate to County Convention",,REP,Write-In,1
+Mason,"City of Ludington, Precinct 4",Mason Oceana 911,,,Yes,190
+Mason,"City of Ludington, Precinct 4",Mason Oceana 911,,,No,59
+Mason,"City of Ludington, Precinct 4",Ludington Mass Transportation Authority,,,Yes,180
+Mason,"City of Ludington, Precinct 4",Ludington Mass Transportation Authority,,,No,69
 Mason,"City of Ludington, Precinct 5",Registered Voters,,,,961
 Mason,"City of Ludington, Precinct 5",Ballots Cast,,,,360
-Mason,"City of Ludington, Precinct 5",Ballots Cast,,DEM,,124
-Mason,"City of Ludington, Precinct 5",Ballots Cast,,REP,,203
-Mason,"City of Ludington, Precinct 5",Ballots Cast,,NON,,33
-Mason,"City of Ludington, Precinct 5",Ballots Cast Crossover,,,,31
-Mason,"City of Ludington, Precinct 5",Ballots cast Blank,,,,0
-Mason,"City of Ludington, Precinct 5",U.S. Senate,,Gary Peters,DEM,120
-Mason,"City of Ludington, Precinct 5",U.S. Senate,,Write-In Totals,DEM,1
-Mason,"City of Ludington, Precinct 5",U.S. House,2,Bryan Berghoef,DEM,116
-Mason,"City of Ludington, Precinct 5",U.S. House,2,Write-In Totals,DEM,1
-Mason,"City of Ludington, Precinct 5",State House,101,Beth McGill-Rizer,DEM,87
-Mason,"City of Ludington, Precinct 5",State House,101,Cary L. Urka,DEM,31
-Mason,"City of Ludington, Precinct 5",State House,101,Write-In Totals,DEM,0
-Mason,"City of Ludington, Precinct 5",U.S. Senate,,John James,REP,176
-Mason,"City of Ludington, Precinct 5",U.S. Senate,,Write-In Totals,REP,3
-Mason,"City of Ludington, Precinct 5",U.S. House,2,Bill Huizenga,REP,180
-Mason,"City of Ludington, Precinct 5",U.S. House,2,Write-In Totals,REP,4
-Mason,"City of Ludington, Precinct 5",State House,101,Carolyn Cater,REP,44
-Mason,"City of Ludington, Precinct 5",State House,101,Jack O'Malley,REP,152
-Mason,"City of Ludington, Precinct 5",State House,101,Write-In Totals,REP,1
+Mason,"City of Ludington, Precinct 5",U.S. Senate,,DEM,Gary Peters,120
+Mason,"City of Ludington, Precinct 5",U.S. Senate,,DEM,Write-In,1
+Mason,"City of Ludington, Precinct 5",U.S. House,2,DEM,Bryan Berghoef,116
+Mason,"City of Ludington, Precinct 5",U.S. House,2,DEM,Write-In,1
+Mason,"City of Ludington, Precinct 5",State House,101,DEM,Beth McGill-Rizer,87
+Mason,"City of Ludington, Precinct 5",State House,101,DEM,Cary L. Urka,31
+Mason,"City of Ludington, Precinct 5",State House,101,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 5",Prosecuting Attorney,,DEM,Write-In,11
+Mason,"City of Ludington, Precinct 5",Sheriff,,DEM,Write-In,13
+Mason,"City of Ludington, Precinct 5",Clerk,,DEM,Write-In,11
+Mason,"City of Ludington, Precinct 5",Treasurer,,DEM,Write-In,11
+Mason,"City of Ludington, Precinct 5",Register of Deeds,,DEM,Write-In,10
+Mason,"City of Ludington, Precinct 5",Drain Commissioner,,DEM,Write-In,10
+Mason,"City of Ludington, Precinct 5",Surveyor,,DEM,Write-In,10
+Mason,"City of Ludington, Precinct 5",County Commissioner,2,DEM,Write-In,10
+Mason,"City of Ludington, Precinct 5","City of Ludington, Precinct 5 Delegate to County Convention",,DEM,Write-In,13
+Mason,"City of Ludington, Precinct 5",U.S. Senate,,REP,John James,176
+Mason,"City of Ludington, Precinct 5",U.S. Senate,,REP,Write-In,3
+Mason,"City of Ludington, Precinct 5",U.S. House,2,REP,Bill Huizenga,180
+Mason,"City of Ludington, Precinct 5",U.S. House,2,REP,Write-In,4
+Mason,"City of Ludington, Precinct 5",State House,101,REP,Carolyn Cater,44
+Mason,"City of Ludington, Precinct 5",State House,101,REP,Jack O'Malley,152
+Mason,"City of Ludington, Precinct 5",State House,101,REP,Write-In,1
+Mason,"City of Ludington, Precinct 5",Prosecuting Attorney,,REP,Chad A. DeRouin,61
+Mason,"City of Ludington, Precinct 5",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,135
+Mason,"City of Ludington, Precinct 5",Prosecuting Attorney,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 5",Sheriff,,REP,Kim C. Cole,188
+Mason,"City of Ludington, Precinct 5",Sheriff,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 5",Clerk,,REP,Cheryl Kelly,184
+Mason,"City of Ludington, Precinct 5",Clerk,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 5",Treasurer,,REP,Andrew R. Kmetz IV,183
+Mason,"City of Ludington, Precinct 5",Treasurer,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 5",Register of Deeds,,REP,Diane L. Englebrecht,185
+Mason,"City of Ludington, Precinct 5",Register of Deeds,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 5",Drain Commissioner,,REP,Dan Rohde,179
+Mason,"City of Ludington, Precinct 5",Drain Commissioner,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 5",Surveyor,,REP,James T. Nordlund,137
+Mason,"City of Ludington, Precinct 5",Surveyor,,REP,John C. Schulke,49
+Mason,"City of Ludington, Precinct 5",Surveyor,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 5",County Commissioner,2,REP,Gary E. Castonia,97
+Mason,"City of Ludington, Precinct 5",County Commissioner,2,REP,Jason Kirkpatrick,91
+Mason,"City of Ludington, Precinct 5",County Commissioner,2,REP,Write-In,0
+Mason,"City of Ludington, Precinct 5","City of Ludington, Precinct 5 Delegate to County Convention",,REP,Carole L. Johnson,183
+Mason,"City of Ludington, Precinct 5","City of Ludington, Precinct 5 Delegate to County Convention",,REP,Write-In,1
+Mason,"City of Ludington, Precinct 5",Mason Oceana 911,,,Yes,285
+Mason,"City of Ludington, Precinct 5",Mason Oceana 911,,,No,48
+Mason,"City of Ludington, Precinct 5",Ludington Mass Transportation Authority,,,Yes,278
+Mason,"City of Ludington, Precinct 5",Ludington Mass Transportation Authority,,,No,58
 Mason,"City of Ludington, Precinct 6",Registered Voters,,,,983
 Mason,"City of Ludington, Precinct 6",Ballots Cast,,,,283
-Mason,"City of Ludington, Precinct 6",Ballots Cast,,DEM,,107
-Mason,"City of Ludington, Precinct 6",Ballots Cast,,REP,,153
-Mason,"City of Ludington, Precinct 6",Ballots Cast,,NON,,23
-Mason,"City of Ludington, Precinct 6",Ballots Cast Crossover,,,,22
-Mason,"City of Ludington, Precinct 6",Ballots cast Blank,,,,0
-Mason,"City of Ludington, Precinct 6",U.S. Senate,,Gary Peters,DEM,106
-Mason,"City of Ludington, Precinct 6",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"City of Ludington, Precinct 6",U.S. House,2,Bryan Berghoef,DEM,107
-Mason,"City of Ludington, Precinct 6",U.S. House,2,Write-In Totals,DEM,0
-Mason,"City of Ludington, Precinct 6",State House,101,Beth McGill-Rizer,DEM,73
-Mason,"City of Ludington, Precinct 6",State House,101,Cary L. Urka,DEM,32
-Mason,"City of Ludington, Precinct 6",State House,101,Write-In Totals,DEM,0
-Mason,"City of Ludington, Precinct 6",U.S. Senate,,John James,REP,136
-Mason,"City of Ludington, Precinct 6",U.S. Senate,,Write-In Totals,REP,0
-Mason,"City of Ludington, Precinct 6",U.S. House,2,Bill Huizenga,REP,133
-Mason,"City of Ludington, Precinct 6",U.S. House,2,Write-In Totals,REP,0
-Mason,"City of Ludington, Precinct 6",State House,101,Carolyn Cater,REP,22
-Mason,"City of Ludington, Precinct 6",State House,101,Jack O'Malley,REP,126
-Mason,"City of Ludington, Precinct 6",State House,101,Write-In Totals,REP,0
+Mason,"City of Ludington, Precinct 6",U.S. Senate,,DEM,Gary Peters,106
+Mason,"City of Ludington, Precinct 6",U.S. Senate,,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 6",U.S. House,2,DEM,Bryan Berghoef,107
+Mason,"City of Ludington, Precinct 6",U.S. House,2,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 6",State House,101,DEM,Beth McGill-Rizer,73
+Mason,"City of Ludington, Precinct 6",State House,101,DEM,Cary L. Urka,32
+Mason,"City of Ludington, Precinct 6",State House,101,DEM,Write-In,0
+Mason,"City of Ludington, Precinct 6",Prosecuting Attorney,,DEM,Write-In,10
+Mason,"City of Ludington, Precinct 6",Sheriff,,DEM,Write-In,10
+Mason,"City of Ludington, Precinct 6",Clerk,,DEM,Write-In,9
+Mason,"City of Ludington, Precinct 6",Treasurer,,DEM,Write-In,8
+Mason,"City of Ludington, Precinct 6",Register of Deeds,,DEM,Write-In,9
+Mason,"City of Ludington, Precinct 6",Drain Commissioner,,DEM,Write-In,9
+Mason,"City of Ludington, Precinct 6",Surveyor,,DEM,Write-In,9
+Mason,"City of Ludington, Precinct 6",County Commissioner,2,DEM,Write-In,8
+Mason,"City of Ludington, Precinct 6","City of Ludington, Precinct 6 Delegate to County Convention",,DEM,Write-In,12
+Mason,"City of Ludington, Precinct 6",U.S. Senate,,REP,John James,136
+Mason,"City of Ludington, Precinct 6",U.S. Senate,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 6",U.S. House,2,REP,Bill Huizenga,133
+Mason,"City of Ludington, Precinct 6",U.S. House,2,REP,Write-In,0
+Mason,"City of Ludington, Precinct 6",State House,101,REP,Carolyn Cater,22
+Mason,"City of Ludington, Precinct 6",State House,101,REP,Jack O'Malley,126
+Mason,"City of Ludington, Precinct 6",State House,101,REP,Write-In,0
+Mason,"City of Ludington, Precinct 6",Prosecuting Attorney,,REP,Chad A. DeRouin,51
+Mason,"City of Ludington, Precinct 6",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,96
+Mason,"City of Ludington, Precinct 6",Prosecuting Attorney,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 6",Sheriff,,REP,Kim C. Cole,139
+Mason,"City of Ludington, Precinct 6",Sheriff,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 6",Clerk,,REP,Cheryl Kelly,133
+Mason,"City of Ludington, Precinct 6",Clerk,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 6",Treasurer,,REP,Andrew R. Kmetz IV,129
+Mason,"City of Ludington, Precinct 6",Treasurer,,REP,Write-In,1
+Mason,"City of Ludington, Precinct 6",Register of Deeds,,REP,Diane L. Englebrecht,129
+Mason,"City of Ludington, Precinct 6",Register of Deeds,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 6",Drain Commissioner,,REP,Dan Rohde,132
+Mason,"City of Ludington, Precinct 6",Drain Commissioner,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 6",Surveyor,,REP,James T. Nordlund,96
+Mason,"City of Ludington, Precinct 6",Surveyor,,REP,John C. Schulke,47
+Mason,"City of Ludington, Precinct 6",Surveyor,,REP,Write-In,0
+Mason,"City of Ludington, Precinct 6",County Commissioner,2,REP,Gary E. Castonia,94
+Mason,"City of Ludington, Precinct 6",County Commissioner,2,REP,Jason Kirkpatrick,51
+Mason,"City of Ludington, Precinct 6",County Commissioner,2,REP,Write-In,0
+Mason,"City of Ludington, Precinct 6","City of Ludington, Precinct 6 Delegate to County Convention",,REP,Write-In,37
+Mason,"City of Ludington, Precinct 6",Mason Oceana 911,,,No,46
+Mason,"City of Ludington, Precinct 6",Mason Oceana 911,,,Yes,221
+Mason,"City of Ludington, Precinct 6",Ludington Mass Transportation Authority,,,No,55
+Mason,"City of Ludington, Precinct 6",Ludington Mass Transportation Authority,,,Yes,211
 Mason,"Meade Township, Precinct 1",Registered Voters,,,,150
 Mason,"Meade Township, Precinct 1",Ballots Cast,,,,61
-Mason,"Meade Township, Precinct 1",Ballots Cast,,DEM,,10
-Mason,"Meade Township, Precinct 1",Ballots Cast,,REP,,43
-Mason,"Meade Township, Precinct 1",Ballots Cast,,NON,,8
-Mason,"Meade Township, Precinct 1",Ballots Cast Crossover,,,,8
-Mason,"Meade Township, Precinct 1",Ballots cast Blank,,,,0
-Mason,"Meade Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,10
-Mason,"Meade Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Meade Township, Precinct 1",U.S. House,1,Dana Ferguson,DEM,7
-Mason,"Meade Township, Precinct 1",U.S. House,1,Linda O'Dell,DEM,3
-Mason,"Meade Township, Precinct 1",U.S. House,1,Write-In Totals,DEM,0
-Mason,"Meade Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,4
-Mason,"Meade Township, Precinct 1",State House,101,Cary L. Urka,DEM,6
-Mason,"Meade Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Meade Township, Precinct 1",U.S. Senate,,John James,REP,36
-Mason,"Meade Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,0
-Mason,"Meade Township, Precinct 1",U.S. House,1,Jack Bergman,REP,38
-Mason,"Meade Township, Precinct 1",U.S. House,1,Write-In Totals,REP,0
-Mason,"Meade Township, Precinct 1",State House,101,Carolyn Cater,REP,3
-Mason,"Meade Township, Precinct 1",State House,101,Jack O'Malley,REP,40
-Mason,"Meade Township, Precinct 1",State House,101,Write-In Totals,REP,0
-Mason,"Pere Marquette Charter Twp, Pct. 1",Registered Voters,,,,627
-Mason,"Pere Marquette Charter Twp, Pct. 1",Ballots Cast,,,,264
-Mason,"Pere Marquette Charter Twp, Pct. 1",Ballots Cast,,DEM,,73
-Mason,"Pere Marquette Charter Twp, Pct. 1",Ballots Cast,,REP,,175
-Mason,"Pere Marquette Charter Twp, Pct. 1",Ballots Cast,,NON,,16
-Mason,"Pere Marquette Charter Twp, Pct. 1",Ballots Cast Crossover,,,,15
-Mason,"Pere Marquette Charter Twp, Pct. 1",Ballots cast Blank,,,,1
-Mason,"Pere Marquette Charter Twp, Pct. 1",U.S. Senate,,Gary Peters,DEM,71
-Mason,"Pere Marquette Charter Twp, Pct. 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Pere Marquette Charter Twp, Pct. 1",U.S. House,2,Bryan Berghoef,DEM,68
-Mason,"Pere Marquette Charter Twp, Pct. 1",U.S. House,2,Write-In Totals,DEM,1
-Mason,"Pere Marquette Charter Twp, Pct. 1",State House,101,Beth McGill-Rizer,DEM,61
-Mason,"Pere Marquette Charter Twp, Pct. 1",State House,101,Cary L. Urka,DEM,9
-Mason,"Pere Marquette Charter Twp, Pct. 1",State House,101,Write-In Totals,DEM,0
-Mason,"Pere Marquette Charter Twp, Pct. 1",U.S. Senate,,John James,REP,149
-Mason,"Pere Marquette Charter Twp, Pct. 1",U.S. Senate,,Write-In Totals,REP,1
-Mason,"Pere Marquette Charter Twp, Pct. 1",U.S. House,2,Bill Huizenga,REP,156
-Mason,"Pere Marquette Charter Twp, Pct. 1",U.S. House,2,Write-In Totals,REP,2
-Mason,"Pere Marquette Charter Twp, Pct. 1",State House,101,Carolyn Cater,REP,20
-Mason,"Pere Marquette Charter Twp, Pct. 1",State House,101,Jack O'Malley,REP,145
-Mason,"Pere Marquette Charter Twp, Pct. 1",State House,101,Write-In Totals,REP,1
-Mason,"Pere Marquette Charter Twp, Pct. 2",Registered Voters,,,,1369
-Mason,"Pere Marquette Charter Twp, Pct. 2",Ballots Cast,,,,552
-Mason,"Pere Marquette Charter Twp, Pct. 2",Ballots Cast,,DEM,,154
-Mason,"Pere Marquette Charter Twp, Pct. 2",Ballots Cast,,REP,,361
-Mason,"Pere Marquette Charter Twp, Pct. 2",Ballots Cast,,NON,,37
-Mason,"Pere Marquette Charter Twp, Pct. 2",Ballots Cast Crossover,,,,36
-Mason,"Pere Marquette Charter Twp, Pct. 2",Ballots cast Blank,,,,0
-Mason,"Pere Marquette Charter Twp, Pct. 2",U.S. Senate,,Gary Peters,DEM,149
-Mason,"Pere Marquette Charter Twp, Pct. 2",U.S. Senate,,Write-In Totals,DEM,1
-Mason,"Pere Marquette Charter Twp, Pct. 2",U.S. House,2,Bryan Berghoef,DEM,146
-Mason,"Pere Marquette Charter Twp, Pct. 2",U.S. House,2,Write-In Totals,DEM,0
-Mason,"Pere Marquette Charter Twp, Pct. 2",State House,101,Beth McGill-Rizer,DEM,110
-Mason,"Pere Marquette Charter Twp, Pct. 2",State House,101,Cary L. Urka,DEM,38
-Mason,"Pere Marquette Charter Twp, Pct. 2",State House,101,Write-In Totals,DEM,0
-Mason,"Pere Marquette Charter Twp, Pct. 2",U.S. Senate,,John James,REP,315
-Mason,"Pere Marquette Charter Twp, Pct. 2",U.S. Senate,,Write-In Totals,REP,0
-Mason,"Pere Marquette Charter Twp, Pct. 2",U.S. House,2,Bill Huizenga,REP,311
-Mason,"Pere Marquette Charter Twp, Pct. 2",U.S. House,2,Write-In Totals,REP,2
-Mason,"Pere Marquette Charter Twp, Pct. 2",State House,101,Carolyn Cater,REP,71
-Mason,"Pere Marquette Charter Twp, Pct. 2",State House,101,Jack O'Malley,REP,277
-Mason,"Pere Marquette Charter Twp, Pct. 2",State House,101,Write-In Totals,REP,0
+Mason,"Meade Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,10
+Mason,"Meade Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,7
+Mason,"Meade Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,3
+Mason,"Meade Township, Precinct 1",U.S. House,1,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,4
+Mason,"Meade Township, Precinct 1",State House,101,DEM,Cary L. Urka,6
+Mason,"Meade Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",Sheriff,,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",Clerk,,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",Treasurer,,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",Register of Deeds,,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",Drain Commissioner,,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",Surveyor,,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",County Commissioner,6,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",Meade Township Supervisor,,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",Meade Township Clerk,,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",Meade Township Treasurer,,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",Meade Township Trustee,,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1","Meade Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0
+Mason,"Meade Township, Precinct 1",U.S. Senate,,REP,John James,36
+Mason,"Meade Township, Precinct 1",U.S. Senate,,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",U.S. House,1,REP,Jack Bergman,38
+Mason,"Meade Township, Precinct 1",U.S. House,1,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",State House,101,REP,Carolyn Cater,3
+Mason,"Meade Township, Precinct 1",State House,101,REP,Jack O'Malley,40
+Mason,"Meade Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,16
+Mason,"Meade Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,21
+Mason,"Meade Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",Sheriff,,REP,Kim C. Cole,40
+Mason,"Meade Township, Precinct 1",Sheriff,,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",Clerk,,REP,Cheryl Kelly,41
+Mason,"Meade Township, Precinct 1",Clerk,,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,37
+Mason,"Meade Township, Precinct 1",Treasurer,,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,38
+Mason,"Meade Township, Precinct 1",Register of Deeds,,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,37
+Mason,"Meade Township, Precinct 1",Drain Commissioner,,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",Surveyor,,REP,James T. Nordlund,22
+Mason,"Meade Township, Precinct 1",Surveyor,,REP,John C. Schulke,16
+Mason,"Meade Township, Precinct 1",Surveyor,,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",County Commissioner,6,REP,Janet S. Andersen,40
+Mason,"Meade Township, Precinct 1",County Commissioner,6,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",Meade Township Supervisor,,REP,Lois Krepps,35
+Mason,"Meade Township, Precinct 1",Meade Township Supervisor,,REP,Write-In,1
+Mason,"Meade Township, Precinct 1",Meade Township Clerk,,REP,Sue Hasenbank,40
+Mason,"Meade Township, Precinct 1",Meade Township Clerk,,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",Meade Township Treasurer,,REP,Mary J. Hasenbank,38
+Mason,"Meade Township, Precinct 1",Meade Township Treasurer,,REP,Write-In,0
+Mason,"Meade Township, Precinct 1",Meade Township Trustee,,REP,Jimmy Lee Metzger,31
+Mason,"Meade Township, Precinct 1",Meade Township Trustee,,REP,William K. Thomas,26
+Mason,"Meade Township, Precinct 1",Meade Township Trustee,,REP,Write-In,0
+Mason,"Meade Township, Precinct 1","Meade Township, Precinct 1 Delegate to County Convention",,REP,Write-In,1
+Mason,"Meade Township, Precinct 1",Mason Oceana 911,,,Yes,42
+Mason,"Meade Township, Precinct 1",Mason Oceana 911,,,No,10
+Mason,"Pere Marquette Charter Township, Precinct 1",Registered Voters,,,,627
+Mason,"Pere Marquette Charter Township, Precinct 1",Ballots Cast,,,,264
+Mason,"Pere Marquette Charter Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,71
+Mason,"Pere Marquette Charter Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 1",U.S. House,2,DEM,Bryan Berghoef,68
+Mason,"Pere Marquette Charter Township, Precinct 1",U.S. House,2,DEM,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,61
+Mason,"Pere Marquette Charter Township, Precinct 1",State House,101,DEM,Cary L. Urka,9
+Mason,"Pere Marquette Charter Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,3
+Mason,"Pere Marquette Charter Township, Precinct 1",Sheriff,,DEM,Write-In,3
+Mason,"Pere Marquette Charter Township, Precinct 1",Clerk,,DEM,Write-In,3
+Mason,"Pere Marquette Charter Township, Precinct 1",Treasurer,,DEM,Write-In,3
+Mason,"Pere Marquette Charter Township, Precinct 1",Register of Deeds,,DEM,Write-In,3
+Mason,"Pere Marquette Charter Township, Precinct 1",Drain Commissioner,,DEM,Write-In,3
+Mason,"Pere Marquette Charter Township, Precinct 1",Surveyor,,DEM,Write-In,3
+Mason,"Pere Marquette Charter Township, Precinct 1",County Commissioner,5,DEM,Write-In,3
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Supervisor,,DEM,Write-In,2
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Clerk,,DEM,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Treasurer,,DEM,Write-In,2
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Trustee,,DEM,Ronald L. Soberalski,66
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Trustee,,DEM,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 1","Pere Marquette Charter Township, Precinct 1 Delegate to County Convention",,DEM,Christiane Fonnesbeck,66
+Mason,"Pere Marquette Charter Township, Precinct 1","Pere Marquette Charter Township, Precinct 1 Delegate to County Convention",,DEM,David C. Fonnesbeck,62
+Mason,"Pere Marquette Charter Township, Precinct 1","Pere Marquette Charter Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 1",U.S. Senate,,REP,John James,149
+Mason,"Pere Marquette Charter Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 1",U.S. House,2,REP,Bill Huizenga,156
+Mason,"Pere Marquette Charter Township, Precinct 1",U.S. House,2,REP,Write-In,2
+Mason,"Pere Marquette Charter Township, Precinct 1",State House,101,REP,Carolyn Cater,20
+Mason,"Pere Marquette Charter Township, Precinct 1",State House,101,REP,Jack O'Malley,145
+Mason,"Pere Marquette Charter Township, Precinct 1",State House,101,REP,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,83
+Mason,"Pere Marquette Charter Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,88
+Mason,"Pere Marquette Charter Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 1",Sheriff,,REP,Kim C. Cole,156
+Mason,"Pere Marquette Charter Township, Precinct 1",Sheriff,,REP,Write-In,4
+Mason,"Pere Marquette Charter Township, Precinct 1",Clerk,,REP,Cheryl Kelly,152
+Mason,"Pere Marquette Charter Township, Precinct 1",Clerk,,REP,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,149
+Mason,"Pere Marquette Charter Township, Precinct 1",Treasurer,,REP,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,148
+Mason,"Pere Marquette Charter Township, Precinct 1",Register of Deeds,,REP,Write-In,2
+Mason,"Pere Marquette Charter Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,148
+Mason,"Pere Marquette Charter Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 1",Surveyor,,REP,James T. Nordlund,114
+Mason,"Pere Marquette Charter Township, Precinct 1",Surveyor,,REP,John C. Schulke,41
+Mason,"Pere Marquette Charter Township, Precinct 1",Surveyor,,REP,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 1",County Commissioner,5,REP,Steven K. Hull,154
+Mason,"Pere Marquette Charter Township, Precinct 1",County Commissioner,5,REP,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Supervisor,,REP,Gerald A. Bleau,141
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Supervisor,,REP,Write-In,3
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Clerk,,REP,Rachelle D. Enbody,150
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Clerk,,REP,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Treasurer,,REP,Karie K. Bleau,84
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Treasurer,,REP,Jeremy P. Piper,70
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Treasurer,,REP,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Trustee,,REP,Andrew R. Kmetz III,116
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Trustee,,REP,James T. Nordlund,124
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Trustee,,REP,Henry E. Rasmussen,114
+Mason,"Pere Marquette Charter Township, Precinct 1",Pere Marquette Charter Township Trustee,,REP,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 1","Pere Marquette Charter Township, Precinct 1 Delegate to County Convention",,REP,Write-In,19
+Mason,"Pere Marquette Charter Township, Precinct 1",Mason Oceana 911,,,Yes,172
+Mason,"Pere Marquette Charter Township, Precinct 1",Mason Oceana 911,,,No,41
+Mason,"Pere Marquette Charter Township, Precinct 2",Registered Voters,,,,"1,369"
+Mason,"Pere Marquette Charter Township, Precinct 2",Ballots Cast,,,,552
+Mason,"Pere Marquette Charter Township, Precinct 2",U.S. Senate,,DEM,Gary Peters,149
+Mason,"Pere Marquette Charter Township, Precinct 2",U.S. Senate,,DEM,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 2",U.S. House,2,DEM,Bryan Berghoef,146
+Mason,"Pere Marquette Charter Township, Precinct 2",U.S. House,2,DEM,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 2",State House,101,DEM,Beth McGill-Rizer,110
+Mason,"Pere Marquette Charter Township, Precinct 2",State House,101,DEM,Cary L. Urka,38
+Mason,"Pere Marquette Charter Township, Precinct 2",State House,101,DEM,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 2",Prosecuting Attorney,,DEM,Write-In,12
+Mason,"Pere Marquette Charter Township, Precinct 2",Sheriff,,DEM,Write-In,11
+Mason,"Pere Marquette Charter Township, Precinct 2",Clerk,,DEM,Write-In,11
+Mason,"Pere Marquette Charter Township, Precinct 2",Treasurer,,DEM,Write-In,11
+Mason,"Pere Marquette Charter Township, Precinct 2",Register of Deeds,,DEM,Write-In,11
+Mason,"Pere Marquette Charter Township, Precinct 2",Drain Commissioner,,DEM,Write-In,11
+Mason,"Pere Marquette Charter Township, Precinct 2",Surveyor,,DEM,Write-In,11
+Mason,"Pere Marquette Charter Township, Precinct 2",County Commissioner,4,DEM,Write-In,10
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Supervisor,,DEM,Write-In,13
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Clerk,,DEM,Write-In,12
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Treasurer,,DEM,Write-In,11
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Trustee,,DEM,Ronald L. Soberalski,138
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Trustee,,DEM,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 2","Pere Marquette Charter Township, Precinct 2 Delegate to County Convention",,DEM,Jason L. Wolven,134
+Mason,"Pere Marquette Charter Township, Precinct 2","Pere Marquette Charter Township, Precinct 2 Delegate to County Convention",,DEM,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 2",U.S. Senate,,REP,John James,315
+Mason,"Pere Marquette Charter Township, Precinct 2",U.S. Senate,,REP,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 2",U.S. House,2,REP,Bill Huizenga,311
+Mason,"Pere Marquette Charter Township, Precinct 2",U.S. House,2,REP,Write-In,2
+Mason,"Pere Marquette Charter Township, Precinct 2",State House,101,REP,Carolyn Cater,71
+Mason,"Pere Marquette Charter Township, Precinct 2",State House,101,REP,Jack O'Malley,277
+Mason,"Pere Marquette Charter Township, Precinct 2",State House,101,REP,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 2",Prosecuting Attorney,,REP,Chad A. DeRouin,107
+Mason,"Pere Marquette Charter Township, Precinct 2",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,247
+Mason,"Pere Marquette Charter Township, Precinct 2",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 2",Sheriff,,REP,Kim C. Cole,324
+Mason,"Pere Marquette Charter Township, Precinct 2",Sheriff,,REP,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 2",Clerk,,REP,Cheryl Kelly,320
+Mason,"Pere Marquette Charter Township, Precinct 2",Clerk,,REP,Write-In,2
+Mason,"Pere Marquette Charter Township, Precinct 2",Treasurer,,REP,Andrew R. Kmetz IV,312
+Mason,"Pere Marquette Charter Township, Precinct 2",Treasurer,,REP,Write-In,2
+Mason,"Pere Marquette Charter Township, Precinct 2",Register of Deeds,,REP,Diane L. Englebrecht,314
+Mason,"Pere Marquette Charter Township, Precinct 2",Register of Deeds,,REP,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 2",Drain Commissioner,,REP,Dan Rohde,805
+Mason,"Pere Marquette Charter Township, Precinct 2",Drain Commissioner,,REP,Write-In,2
+Mason,"Pere Marquette Charter Township, Precinct 2",Surveyor,,REP,James T. Nordlund,263
+Mason,"Pere Marquette Charter Township, Precinct 2",Surveyor,,REP,John C. Schulke,77
+Mason,"Pere Marquette Charter Township, Precinct 2",Surveyor,,REP,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 2",County Commissioner,4,REP,Lewis G. Squires,303
+Mason,"Pere Marquette Charter Township, Precinct 2",County Commissioner,4,REP,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Supervisor,,REP,Gerald A. Bleau,301
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Supervisor,,REP,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Clerk,,REP,Rachelle D. Enbody,312
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Clerk,,REP,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Treasurer,,REP,Karie K. Bleau,232
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Treasurer,,REP,Jeremy P. Piper,95
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Treasurer,,REP,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Trustee,,REP,Andrew R. Kmetz III,246
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Trustee,,REP,James T. Nordlund,261
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Trustee,,REP,Henry E. Rasmussen,230
+Mason,"Pere Marquette Charter Township, Precinct 2",Pere Marquette Charter Township Trustee,,REP,Write-In,0
+Mason,"Pere Marquette Charter Township, Precinct 2","Pere Marquette Charter Township, Precinct 2 Delegate to County Convention",,REP,James Bachelder,222
+Mason,"Pere Marquette Charter Township, Precinct 2","Pere Marquette Charter Township, Precinct 2 Delegate to County Convention",,REP,Cathy Ingraham,233
+Mason,"Pere Marquette Charter Township, Precinct 2","Pere Marquette Charter Township, Precinct 2 Delegate to County Convention",,REP,Diane K. VanderWall,277
+Mason,"Pere Marquette Charter Township, Precinct 2","Pere Marquette Charter Township, Precinct 2 Delegate to County Convention",,REP,Write-In,1
+Mason,"Pere Marquette Charter Township, Precinct 2",Mason Oceana 911,,,Yes,384
+Mason,"Pere Marquette Charter Township, Precinct 2",Mason Oceana 911,,,No,81
 Mason,"Riverton Township, Precinct 1",Registered Voters,,,,954
 Mason,"Riverton Township, Precinct 1",Ballots Cast,,,,320
-Mason,"Riverton Township, Precinct 1",Ballots Cast,,DEM,,76
-Mason,"Riverton Township, Precinct 1",Ballots Cast,,REP,,222
-Mason,"Riverton Township, Precinct 1",Ballots Cast,,NON,,22
-Mason,"Riverton Township, Precinct 1",Ballots Cast Crossover,,,,20
-Mason,"Riverton Township, Precinct 1",Ballots cast Blank,,,,0
-Mason,"Riverton Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,75
-Mason,"Riverton Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Riverton Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,75
-Mason,"Riverton Township, Precinct 1",U.S. House,2,Write-In Totals,DEM,0
-Mason,"Riverton Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,60
-Mason,"Riverton Township, Precinct 1",State House,101,Cary L. Urka,DEM,16
-Mason,"Riverton Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Riverton Township, Precinct 1",U.S. Senate,,John James,REP,193
-Mason,"Riverton Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,1
-Mason,"Riverton Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,199
-Mason,"Riverton Township, Precinct 1",U.S. House,2,Write-In Totals,REP,0
-Mason,"Riverton Township, Precinct 1",State House,101,Carolyn Cater,REP,24
-Mason,"Riverton Township, Precinct 1",State House,101,Jack O'Malley,REP,193
-Mason,"Riverton Township, Precinct 1",State House,101,Write-In Totals,REP,0
+Mason,"Riverton Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,75
+Mason,"Riverton Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Riverton Township, Precinct 1",U.S. House,2,DEM,Bryan Berghoef,75
+Mason,"Riverton Township, Precinct 1",U.S. House,2,DEM,Write-In,0
+Mason,"Riverton Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,60
+Mason,"Riverton Township, Precinct 1",State House,101,DEM,Cary L. Urka,16
+Mason,"Riverton Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Riverton Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,14
+Mason,"Riverton Township, Precinct 1",Sheriff,,DEM,Write-In,14
+Mason,"Riverton Township, Precinct 1",Clerk,,DEM,Write-In,14
+Mason,"Riverton Township, Precinct 1",Treasurer,,DEM,Write-In,14
+Mason,"Riverton Township, Precinct 1",Register of Deeds,,DEM,Write-In,14
+Mason,"Riverton Township, Precinct 1",Drain Commissioner,,DEM,Write-In,13
+Mason,"Riverton Township, Precinct 1",Surveyor,,DEM,Write-In,14
+Mason,"Riverton Township, Precinct 1",County Commissioner,5,DEM,Write-In,14
+Mason,"Riverton Township, Precinct 1",Riverton Township Supervisor,,DEM,Write-In,14
+Mason,"Riverton Township, Precinct 1",Riverton Township Clerk,,DEM,Write-In,14
+Mason,"Riverton Township, Precinct 1",Riverton Township Treasurer,,DEM,Write-In,14
+Mason,"Riverton Township, Precinct 1",Riverton Township Trustee,,DEM,Write-In,24
+Mason,"Riverton Township, Precinct 1","Riverton Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,28
+Mason,"Riverton Township, Precinct 1",U.S. Senate,,REP,John James,193
+Mason,"Riverton Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Mason,"Riverton Township, Precinct 1",U.S. House,2,REP,Bill Huizenga,199
+Mason,"Riverton Township, Precinct 1",U.S. House,2,REP,Write-In,0
+Mason,"Riverton Township, Precinct 1",State House,101,REP,Jack O'Malley,193
+Mason,"Riverton Township, Precinct 1",State House,101,REP,Carolyn Cater,24
+Mason,"Riverton Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Riverton Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,89
+Mason,"Riverton Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,124
+Mason,"Riverton Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Riverton Township, Precinct 1",Sheriff,,REP,Kim C. Cole,202
+Mason,"Riverton Township, Precinct 1",Sheriff,,REP,Write-In,2
+Mason,"Riverton Township, Precinct 1",Clerk,,REP,Cheryl Kelly,201
+Mason,"Riverton Township, Precinct 1",Clerk,,REP,Write-In,2
+Mason,"Riverton Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,201
+Mason,"Riverton Township, Precinct 1",Treasurer,,REP,Write-In,1
+Mason,"Riverton Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,202
+Mason,"Riverton Township, Precinct 1",Register of Deeds,,REP,Write-In,1
+Mason,"Riverton Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,195
+Mason,"Riverton Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Mason,"Riverton Township, Precinct 1",Surveyor,,REP,James T. Nordlund,155
+Mason,"Riverton Township, Precinct 1",Surveyor,,REP,John C. Schulke,55
+Mason,"Riverton Township, Precinct 1",Surveyor,,REP,Write-In,0
+Mason,"Riverton Township, Precinct 1",County Commissioner,5,REP,Steven K. Hull,196
+Mason,"Riverton Township, Precinct 1",County Commissioner,5,REP,Write-In,1
+Mason,"Riverton Township, Precinct 1",Riverton Township Supervisor,,REP,Gary L. Dittmer,199
+Mason,"Riverton Township, Precinct 1",Riverton Township Supervisor,,REP,Write-In,0
+Mason,"Riverton Township, Precinct 1",Riverton Township Clerk,,REP,Cynthia Gerbers,207
+Mason,"Riverton Township, Precinct 1",Riverton Township Clerk,,REP,Write-In,0
+Mason,"Riverton Township, Precinct 1",Riverton Township Treasurer,,REP,Kristi R. Griffis,202
+Mason,"Riverton Township, Precinct 1",Riverton Township Treasurer,,REP,Write-In,0
+Mason,"Riverton Township, Precinct 1",Riverton Township Trustee,,REP,Scott A. Dittmer,139
+Mason,"Riverton Township, Precinct 1",Riverton Township Trustee,,REP,Greg Thurow,177
+Mason,"Riverton Township, Precinct 1",Riverton Township Trustee,,REP,Write-In,0
+Mason,"Riverton Township, Precinct 1","Riverton Township, Precinct 1 Delegate to County Convention",,REP,Write-In,14
+Mason,"Riverton Township, Precinct 1",Mason Oceana 911,,,Yes,205
+Mason,"Riverton Township, Precinct 1",Mason Oceana 911,,,No,61
 Mason,"City of Scottville, Precinct 1",Registered Voters,,,,529
-Mason,"City of Scottville, Precinct 1",Ballots Cast,,,,107
-Mason,"City of Scottville, Precinct 1",Ballots Cast,,DEM,,25
-Mason,"City of Scottville, Precinct 1",Ballots Cast,,REP,,69
-Mason,"City of Scottville, Precinct 1",Ballots Cast,,NON,,13
-Mason,"City of Scottville, Precinct 1",Ballots Cast Crossover,,,,13
-Mason,"City of Scottville, Precinct 1",Ballots cast Blank,,,,0
-Mason,"City of Scottville, Precinct 1",U.S. Senate,,Gary Peters,DEM,24
-Mason,"City of Scottville, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"City of Scottville, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,23
-Mason,"City of Scottville, Precinct 1",U.S. House,2,Write-In Totals,DEM,0
-Mason,"City of Scottville, Precinct 1",State House,101,Beth McGill-Rizer,DEM,16
-Mason,"City of Scottville, Precinct 1",State House,101,Cary L. Urka,DEM,8
-Mason,"City of Scottville, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"City of Scottville, Precinct 1",U.S. Senate,,John James,REP,65
-Mason,"City of Scottville, Precinct 1",U.S. Senate,,Write-In Totals,REP,0
-Mason,"City of Scottville, Precinct 1",U.S. House,2,Bill Huizenga,REP,66
-Mason,"City of Scottville, Precinct 1",U.S. House,2,Write-In Totals,REP,0
-Mason,"City of Scottville, Precinct 1",State House,101,Carolyn Cater,REP,10
-Mason,"City of Scottville, Precinct 1",State House,101,Jack O'Malley,REP,58
-Mason,"City of Scottville, Precinct 1",State House,101,Write-In Totals,REP,0
+Mason,"City of Scottville, Precinct 1",U.S. Senate,,DEM,Gary Peters,24
+Mason,"City of Scottville, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"City of Scottville, Precinct 1",U.S. House,2,DEM,Bryan Berghoef,23
+Mason,"City of Scottville, Precinct 1",U.S. House,2,DEM,Write-In,0
+Mason,"City of Scottville, Precinct 1",State House,101,DEM,Beth McGill-Rizer,16
+Mason,"City of Scottville, Precinct 1",State House,101,DEM,Cary L. Urka,8
+Mason,"City of Scottville, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"City of Scottville, Precinct 1",Prosecuting Attorney,,DEM,Write-In,3
+Mason,"City of Scottville, Precinct 1",Sheriff,,DEM,Write-In,3
+Mason,"City of Scottville, Precinct 1",Clerk,,DEM,Write-In,3
+Mason,"City of Scottville, Precinct 1",Treasurer,,DEM,Write-In,3
+Mason,"City of Scottville, Precinct 1",Register of Deeds,,DEM,Write-In,3
+Mason,"City of Scottville, Precinct 1",Drain Commissioner,,DEM,Write-In,3
+Mason,"City of Scottville, Precinct 1",Surveyor,,DEM,Write-In,3
+Mason,"City of Scottville, Precinct 1",County Commissioner,5,DEM,Write-In,3
+Mason,"City of Scottville, Precinct 1","City of Scottville, Precinct 1 Delegate to County Convention",,DEM,Write-In,6
+Mason,"City of Scottville, Precinct 1",U.S. Senate,,REP,John James,65
+Mason,"City of Scottville, Precinct 1",U.S. Senate,,REP,Write-In,0
+Mason,"City of Scottville, Precinct 1",U.S. House,2,REP,Bill Huizenga,66
+Mason,"City of Scottville, Precinct 1",U.S. House,2,REP,Write-In,0
+Mason,"City of Scottville, Precinct 1",State House,101,REP,Carolyn Cater,10
+Mason,"City of Scottville, Precinct 1",State House,101,REP,Jack O'Malley,58
+Mason,"City of Scottville, Precinct 1",State House,101,REP,Write-In,0
+Mason,"City of Scottville, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,31
+Mason,"City of Scottville, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,38
+Mason,"City of Scottville, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"City of Scottville, Precinct 1",Sheriff,,REP,Kim C. Cole,65
+Mason,"City of Scottville, Precinct 1",Sheriff,,REP,Write-In,0
+Mason,"City of Scottville, Precinct 1",Clerk,,REP,Cheryl Kelly,64
+Mason,"City of Scottville, Precinct 1",Clerk,,REP,Write-In,0
+Mason,"City of Scottville, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,64
+Mason,"City of Scottville, Precinct 1",Treasurer,,REP,Write-In,0
+Mason,"City of Scottville, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,63
+Mason,"City of Scottville, Precinct 1",Register of Deeds,,REP,Write-In,0
+Mason,"City of Scottville, Precinct 1",Drain Commissioner,,REP,Dan Rohde,62
+Mason,"City of Scottville, Precinct 1",Drain Commissioner,,REP,Write-In,0
+Mason,"City of Scottville, Precinct 1",Surveyor,,REP,James T. Nordlund,33
+Mason,"City of Scottville, Precinct 1",Surveyor,,REP,John C. Schulke,29
+Mason,"City of Scottville, Precinct 1",Surveyor,,REP,Write-In,0
+Mason,"City of Scottville, Precinct 1",County Commissioner,5,REP,Steven K. Hull,59
+Mason,"City of Scottville, Precinct 1",County Commissioner,5,REP,Write-In,0
+Mason,"City of Scottville, Precinct 1","City of Scottville, Precinct 1 Delegate to County Convention",,REP,Write-In,29
+Mason,"City of Scottville, Precinct 1",Mason Oceana 911,,,Yes,77
+Mason,"City of Scottville, Precinct 1",Mason Oceana 911,,,No,12
+Mason,"City of Scottville, Precinct 1",Ludington Mass Transportation Authority,,,Yes,66
+Mason,"City of Scottville, Precinct 1",Ludington Mass Transportation Authority,,,No,25
 Mason,"City of Scottville, Precinct 2",Registered Voters,,,,487
 Mason,"City of Scottville, Precinct 2",Ballots Cast,,,,94
-Mason,"City of Scottville, Precinct 2",Ballots Cast,,DEM,,29
-Mason,"City of Scottville, Precinct 2",Ballots Cast,,REP,,54
-Mason,"City of Scottville, Precinct 2",Ballots Cast,,NON,,11
-Mason,"City of Scottville, Precinct 2",Ballots Cast Crossover,,,,11
-Mason,"City of Scottville, Precinct 2",Ballots cast Blank,,,,0
-Mason,"City of Scottville, Precinct 2",U.S. Senate,,Gary Peters,DEM,29
-Mason,"City of Scottville, Precinct 2",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"City of Scottville, Precinct 2",U.S. House,2,Bryan Berghoef,DEM,28
-Mason,"City of Scottville, Precinct 2",U.S. House,2,Write-In Totals,DEM,0
-Mason,"City of Scottville, Precinct 2",State House,101,Beth McGill-Rizer,DEM,20
-Mason,"City of Scottville, Precinct 2",State House,101,Cary L. Urka,DEM,9
-Mason,"City of Scottville, Precinct 2",State House,101,Write-In Totals,DEM,0
-Mason,"City of Scottville, Precinct 2",U.S. Senate,,John James,REP,50
-Mason,"City of Scottville, Precinct 2",U.S. Senate,,Write-In Totals,REP,1
-Mason,"City of Scottville, Precinct 2",U.S. House,2,Bill Huizenga,REP,51
-Mason,"City of Scottville, Precinct 2",U.S. House,2,Write-In Totals,REP,0
-Mason,"City of Scottville, Precinct 2",State House,101,Carolyn Cater,REP,4
-Mason,"City of Scottville, Precinct 2",State House,101,Jack O'Malley,REP,48
-Mason,"City of Scottville, Precinct 2",State House,101,Write-In Totals,REP,0
+Mason,"City of Scottville, Precinct 2",U.S. Senate,,DEM,Gary Peters,29
+Mason,"City of Scottville, Precinct 2",U.S. Senate,,DEM,Write-In,0
+Mason,"City of Scottville, Precinct 2",U.S. House,2,DEM,Bryan Berghoef,28
+Mason,"City of Scottville, Precinct 2",U.S. House,2,DEM,Write-In,0
+Mason,"City of Scottville, Precinct 2",State House,101,DEM,Beth McGill-Rizer,20
+Mason,"City of Scottville, Precinct 2",State House,101,DEM,Cary L. Urka,9
+Mason,"City of Scottville, Precinct 2",State House,101,DEM,Write-In,0
+Mason,"City of Scottville, Precinct 2",Prosecuting Attorney,,DEM,Write-In,5
+Mason,"City of Scottville, Precinct 2",Sheriff,,DEM,Write-In,6
+Mason,"City of Scottville, Precinct 2",Clerk,,DEM,Write-In,5
+Mason,"City of Scottville, Precinct 2",Treasurer,,DEM,Write-In,4
+Mason,"City of Scottville, Precinct 2",Register of Deeds,,DEM,Write-In,4
+Mason,"City of Scottville, Precinct 2",Drain Commissioner,,DEM,Write-In,5
+Mason,"City of Scottville, Precinct 2",Surveyor,,DEM,Write-In,5
+Mason,"City of Scottville, Precinct 2",County Commissioner,5,DEM,Write-In,4
+Mason,"City of Scottville, Precinct 2","City of Scottville, Precinct 2 Delegate to County Convention",,DEM,Write-In,6
+Mason,"City of Scottville, Precinct 2",U.S. Senate,,REP,John James,50
+Mason,"City of Scottville, Precinct 2",U.S. Senate,,REP,Write-In,1
+Mason,"City of Scottville, Precinct 2",U.S. House,2,REP,Bill Huizenga,51
+Mason,"City of Scottville, Precinct 2",U.S. House,2,REP,Write-In,0
+Mason,"City of Scottville, Precinct 2",State House,101,REP,Carolyn Cater,4
+Mason,"City of Scottville, Precinct 2",State House,101,REP,Jack O'Malley,48
+Mason,"City of Scottville, Precinct 2",State House,101,REP,Write-In,0
+Mason,"City of Scottville, Precinct 2",Prosecuting Attorney,,REP,Chad A. DeRouin,23
+Mason,"City of Scottville, Precinct 2",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,26
+Mason,"City of Scottville, Precinct 2",Prosecuting Attorney,,REP,Write-In,0
+Mason,"City of Scottville, Precinct 2",Sheriff,,REP,Kim C. Cole,52
+Mason,"City of Scottville, Precinct 2",Sheriff,,REP,Write-In,0
+Mason,"City of Scottville, Precinct 2",Clerk,,REP,Cheryl Kelly,51
+Mason,"City of Scottville, Precinct 2",Clerk,,REP,Write-In,1
+Mason,"City of Scottville, Precinct 2",Treasurer,,REP,Andrew R. Kmetz IV,47
+Mason,"City of Scottville, Precinct 2",Treasurer,,REP,Write-In,0
+Mason,"City of Scottville, Precinct 2",Register of Deeds,,REP,Diane L. Englebrecht,48
+Mason,"City of Scottville, Precinct 2",Register of Deeds,,REP,Write-In,2
+Mason,"City of Scottville, Precinct 2",Drain Commissioner,,REP,Dan Rohde,46
+Mason,"City of Scottville, Precinct 2",Drain Commissioner,,REP,Write-In,1
+Mason,"City of Scottville, Precinct 2",Surveyor,,REP,James T. Nordlund,27
+Mason,"City of Scottville, Precinct 2",Surveyor,,REP,John C. Schulke,20
+Mason,"City of Scottville, Precinct 2",Surveyor,,REP,Write-In,1
+Mason,"City of Scottville, Precinct 2",County Commissioner,5,REP,Steven K. Hull,47
+Mason,"City of Scottville, Precinct 2",County Commissioner,5,REP,Write-In,1
+Mason,"City of Scottville, Precinct 2","City of Scottville, Precinct 2 Delegate to County Convention",,REP,Write-In,22
+Mason,"City of Scottville, Precinct 2",Mason Oceana 911,,,Yes,73
+Mason,"City of Scottville, Precinct 2",Mason Oceana 911,,,No,14
+Mason,"City of Scottville, Precinct 2",Ludington Mass Transportation Authority,,,Yes,64
+Mason,"City of Scottville, Precinct 2",Ludington Mass Transportation Authority,,,No,22
 Mason,"Sheridan Township, Precinct 1",Registered Voters,,,,822
 Mason,"Sheridan Township, Precinct 1",Ballots Cast,,,,277
-Mason,"Sheridan Township, Precinct 1",Ballots Cast,,DEM,,104
-Mason,"Sheridan Township, Precinct 1",Ballots Cast,,REP,,155
-Mason,"Sheridan Township, Precinct 1",Ballots Cast,,NON,,18
-Mason,"Sheridan Township, Precinct 1",Ballots Cast Crossover,,,,16
-Mason,"Sheridan Township, Precinct 1",Ballots cast Blank,,,,0
-Mason,"Sheridan Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,103
-Mason,"Sheridan Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Sheridan Township, Precinct 1",U.S. House,1,Dana Ferguson,DEM,47
-Mason,"Sheridan Township, Precinct 1",U.S. House,1,Linda O'Dell,DEM,50
-Mason,"Sheridan Township, Precinct 1",U.S. House,1,Write-In Totals,DEM,0
-Mason,"Sheridan Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,59
-Mason,"Sheridan Township, Precinct 1",State House,101,Cary L. Urka,DEM,39
-Mason,"Sheridan Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Sheridan Township, Precinct 1",U.S. Senate,,John James,REP,138
-Mason,"Sheridan Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,0
-Mason,"Sheridan Township, Precinct 1",U.S. House,1,Jack Bergman,REP,139
-Mason,"Sheridan Township, Precinct 1",U.S. House,1,Write-In Totals,REP,0
-Mason,"Sheridan Township, Precinct 1",State House,101,Carolyn Cater,REP,15
-Mason,"Sheridan Township, Precinct 1",State House,101,Jack O'Malley,REP,136
-Mason,"Sheridan Township, Precinct 1",State House,101,Write-In Totals,REP,0
+Mason,"Sheridan Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,103
+Mason,"Sheridan Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Sheridan Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,47
+Mason,"Sheridan Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,50
+Mason,"Sheridan Township, Precinct 1",U.S. House,1,DEM,Write-In,4
+Mason,"Sheridan Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,59
+Mason,"Sheridan Township, Precinct 1",State House,101,DEM,Cary L. Urka,39
+Mason,"Sheridan Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Sheridan Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,15
+Mason,"Sheridan Township, Precinct 1",Sheriff,,DEM,Write-In,12
+Mason,"Sheridan Township, Precinct 1",Clerk,,DEM,Write-In,12
+Mason,"Sheridan Township, Precinct 1",Treasurer,,DEM,Write-In,12
+Mason,"Sheridan Township, Precinct 1",Register of Deeds,,DEM,Write-In,12
+Mason,"Sheridan Township, Precinct 1",Drain Commissioner,,DEM,Write-In,12
+Mason,"Sheridan Township, Precinct 1",Surveyor,,DEM,Write-In,12
+Mason,"Sheridan Township, Precinct 1",County Commissioner,6,DEM,Write-In,7
+Mason,"Sheridan Township, Precinct 1",County Commissioner,7,DEM,Ed Miller,44
+Mason,"Sheridan Township, Precinct 1",County Commissioner,7,DEM,Write-In,1
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Supervisor,,DEM,Corliss T. Gulembo III,96
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Supervisor,,DEM,Write-In,2
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Clerk,,DEM,Marlynn E. Gulembo,97
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Clerk,,DEM,Write-In,1
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Treasurer,,DEM,Jennie Borema,96
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Treasurer,,DEM,Write-In,1
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Trustee,,DEM,Jeff Cormany,83
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Trustee,,DEM,Douglas Damkoehler,79
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Trustee,,DEM,Write-In,0
+Mason,"Sheridan Township, Precinct 1","Sheridan Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,15
+Mason,"Sheridan Township, Precinct 1",U.S. Senate,,REP,John James,138
+Mason,"Sheridan Township, Precinct 1",U.S. Senate,,REP,Write-In,0
+Mason,"Sheridan Township, Precinct 1",U.S. House,1,REP,Jack Bergman,139
+Mason,"Sheridan Township, Precinct 1",U.S. House,1,REP,Write-In,0
+Mason,"Sheridan Township, Precinct 1",State House,101,REP,Carolyn Cater,15
+Mason,"Sheridan Township, Precinct 1",State House,101,REP,Jack O'Malley,136
+Mason,"Sheridan Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Sheridan Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,63
+Mason,"Sheridan Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,84
+Mason,"Sheridan Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Sheridan Township, Precinct 1",Sheriff,,REP,Kim C. Cole,143
+Mason,"Sheridan Township, Precinct 1",Sheriff,,REP,Write-In,0
+Mason,"Sheridan Township, Precinct 1",Clerk,,REP,Cheryl Kelly,138
+Mason,"Sheridan Township, Precinct 1",Clerk,,REP,Write-In,0
+Mason,"Sheridan Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,130
+Mason,"Sheridan Township, Precinct 1",Treasurer,,REP,Write-In,1
+Mason,"Sheridan Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,135
+Mason,"Sheridan Township, Precinct 1",Register of Deeds,,REP,Write-In,0
+Mason,"Sheridan Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,134
+Mason,"Sheridan Township, Precinct 1",Drain Commissioner,,REP,Write-In,0
+Mason,"Sheridan Township, Precinct 1",Surveyor,,REP,James T. Nordlund,55
+Mason,"Sheridan Township, Precinct 1",Surveyor,,REP,John C. Schulke,82
+Mason,"Sheridan Township, Precinct 1",Surveyor,,REP,Write-In,0
+Mason,"Sheridan Township, Precinct 1",County Commissioner,6,REP,Janet S. Andersen,78
+Mason,"Sheridan Township, Precinct 1",County Commissioner,6,REP,Write-In,1
+Mason,"Sheridan Township, Precinct 1",County Commissioner,7,REP,Ron Bacon,59
+Mason,"Sheridan Township, Precinct 1",County Commissioner,7,REP,Write-In,0
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Supervisor,,REP,Write-In,23
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Clerk,,REP,Write-In,22
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Treasurer,,REP,Write-In,20
+Mason,"Sheridan Township, Precinct 1",Sheridan Township Trustee,,REP,Write-In,28
+Mason,"Sheridan Township, Precinct 1","Sheridan Township, Precinct 1 Delegate to County Convention",,REP,Write-In,25
+Mason,"Sheridan Township, Precinct 1",Mason Oceana 911,,,Yes,170
+Mason,"Sheridan Township, Precinct 1",Mason Oceana 911,,,No,57
 Mason,"Sherman Township, Precinct 1",Registered Voters,,,,881
-Mason,"Sherman Township, Precinct 1",Ballots Cast,,,,265
-Mason,"Sherman Township, Precinct 1",Ballots Cast,,DEM,,66
-Mason,"Sherman Township, Precinct 1",Ballots Cast,,REP,,180
-Mason,"Sherman Township, Precinct 1",Ballots Cast,,NON,,19
-Mason,"Sherman Township, Precinct 1",Ballots Cast Crossover,,,,18
-Mason,"Sherman Township, Precinct 1",Ballots cast Blank,,,,0
-Mason,"Sherman Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,61
-Mason,"Sherman Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Sherman Township, Precinct 1",U.S. House,1,Dana Ferguson,DEM,48
-Mason,"Sherman Township, Precinct 1",U.S. House,1,Linda O'Dell,DEM,15
-Mason,"Sherman Township, Precinct 1",U.S. House,1,Write-In Totals,DEM,0
-Mason,"Sherman Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,43
-Mason,"Sherman Township, Precinct 1",State House,101,Cary L. Urka,DEM,19
-Mason,"Sherman Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Sherman Township, Precinct 1",U.S. Senate,,John James,REP,162
-Mason,"Sherman Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,2
-Mason,"Sherman Township, Precinct 1",U.S. House,1,Jack Bergman,REP,164
-Mason,"Sherman Township, Precinct 1",U.S. House,1,Write-In Totals,REP,1
-Mason,"Sherman Township, Precinct 1",State House,101,Carolyn Cater,REP,17
-Mason,"Sherman Township, Precinct 1",State House,101,Jack O'Malley,REP,160
-Mason,"Sherman Township, Precinct 1",State House,101,Write-In Totals,REP,0
+Mason,"Sherman Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,61
+Mason,"Sherman Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Sherman Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,48
+Mason,"Sherman Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,15
+Mason,"Sherman Township, Precinct 1",U.S. House,1,DEM,Write-In,0
+Mason,"Sherman Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,43
+Mason,"Sherman Township, Precinct 1",State House,101,DEM,Cary L. Urka,19
+Mason,"Sherman Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Sherman Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,9
+Mason,"Sherman Township, Precinct 1",Sheriff,,DEM,Write-In,7
+Mason,"Sherman Township, Precinct 1",Clerk,,DEM,Write-In,4
+Mason,"Sherman Township, Precinct 1",Treasurer,,DEM,Write-In,3
+Mason,"Sherman Township, Precinct 1",Register of Deeds,,DEM,Write-In,4
+Mason,"Sherman Township, Precinct 1",Drain Commissioner,,DEM,Write-In,4
+Mason,"Sherman Township, Precinct 1",Surveyor,,DEM,Write-In,6
+Mason,"Sherman Township, Precinct 1",County Commissioner,6,DEM,Write-In,3
+Mason,"Sherman Township, Precinct 1",Sherman Township Supervisor,,DEM,Joseph F. Mickevich,59
+Mason,"Sherman Township, Precinct 1",Sherman Township Supervisor,,DEM,Write-In,0
+Mason,"Sherman Township, Precinct 1",Sherman Township Clerk,,DEM,Write-In,4
+Mason,"Sherman Township, Precinct 1",Sherman Township Treasurer,,DEM,Write-In,4
+Mason,"Sherman Township, Precinct 1",Sherman Township Trustee,,DEM,Lori Cregg,34
+Mason,"Sherman Township, Precinct 1",Sherman Township Trustee,,DEM,Write-In,1
+Mason,"Sherman Township, Precinct 1","Sherman Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,4
+Mason,"Sherman Township, Precinct 1",U.S. Senate,,REP,John James,162
+Mason,"Sherman Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Mason,"Sherman Township, Precinct 1",U.S. House,1,REP,Jack Bergman,164
+Mason,"Sherman Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Mason,"Sherman Township, Precinct 1",State House,101,REP,Carolyn Cater,17
+Mason,"Sherman Township, Precinct 1",State House,101,REP,Jack O'Malley,160
+Mason,"Sherman Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Sherman Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,83
+Mason,"Sherman Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,90
+Mason,"Sherman Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Sherman Township, Precinct 1",Sheriff,,REP,Kim C. Cole,167
+Mason,"Sherman Township, Precinct 1",Sheriff,,REP,Write-In,2
+Mason,"Sherman Township, Precinct 1",Clerk,,REP,Cheryl Kelly,165
+Mason,"Sherman Township, Precinct 1",Clerk,,REP,Write-In,1
+Mason,"Sherman Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,158
+Mason,"Sherman Township, Precinct 1",Treasurer,,REP,Write-In,1
+Mason,"Sherman Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,163
+Mason,"Sherman Township, Precinct 1",Register of Deeds,,REP,Write-In,0
+Mason,"Sherman Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,155
+Mason,"Sherman Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Mason,"Sherman Township, Precinct 1",Surveyor,,REP,James T. Nordlund,105
+Mason,"Sherman Township, Precinct 1",Surveyor,,REP,John C. Schulke,62
+Mason,"Sherman Township, Precinct 1",Surveyor,,REP,Write-In,1
+Mason,"Sherman Township, Precinct 1",County Commissioner,6,REP,Janet S. Andersen,160
+Mason,"Sherman Township, Precinct 1",County Commissioner,6,REP,Write-In,1
+Mason,"Sherman Township, Precinct 1",Sherman Township Supervisor,,REP,Write-In,17
+Mason,"Sherman Township, Precinct 1",Sherman Township Clerk,,REP,Kurt D. Lubben,160
+Mason,"Sherman Township, Precinct 1",Sherman Township Clerk,,REP,Write-In,0
+Mason,"Sherman Township, Precinct 1",Sherman Township Treasurer,,REP,Rita Randle,163
+Mason,"Sherman Township, Precinct 1",Sherman Township Treasurer,,REP,Write-In,0
+Mason,"Sherman Township, Precinct 1",Sherman Township Trustee,,REP,Curt Jones,161
+Mason,"Sherman Township, Precinct 1",Sherman Township Trustee,,REP,Write-In,2
+Mason,"Sherman Township, Precinct 1","Sherman Township, Precinct 1 Delegate to County Convention",,REP,Write-In,11
+Mason,"Sherman Township, Precinct 1",Mason Oceana 911,,,Yes,184
+Mason,"Sherman Township, Precinct 1",Mason Oceana 911,,,No,41
 Mason,"Summit Township, Precinct 1",Registered Voters,,,,910
 Mason,"Summit Township, Precinct 1",Ballots Cast,,,,338
-Mason,"Summit Township, Precinct 1",Ballots Cast,,DEM,,95
-Mason,"Summit Township, Precinct 1",Ballots Cast,,REP,,221
-Mason,"Summit Township, Precinct 1",Ballots Cast,,NON,,22
-Mason,"Summit Township, Precinct 1",Ballots Cast Crossover,,,,20
-Mason,"Summit Township, Precinct 1",Ballots cast Blank,,,,0
-Mason,"Summit Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,90
-Mason,"Summit Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,0
-Mason,"Summit Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,90
-Mason,"Summit Township, Precinct 1",U.S. House,2,Write-In Totals,DEM,0
-Mason,"Summit Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,65
-Mason,"Summit Township, Precinct 1",State House,101,Cary L. Urka,DEM,25
-Mason,"Summit Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Summit Township, Precinct 1",U.S. Senate,,John James,REP,195
-Mason,"Summit Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,0
-Mason,"Summit Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,195
-Mason,"Summit Township, Precinct 1",U.S. House,2,Write-In Totals,REP,0
-Mason,"Summit Township, Precinct 1",State House,101,Carolyn Cater,REP,48
-Mason,"Summit Township, Precinct 1",State House,101,Jack O'Malley,REP,164
-Mason,"Summit Township, Precinct 1",State House,101,Write-In Totals,REP,0
-Mason,"Victory Township, Precinct 1",Registered Voters,,,,1157
+Mason,"Summit Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,90
+Mason,"Summit Township, Precinct 1",U.S. Senate,,DEM,Write-In,0
+Mason,"Summit Township, Precinct 1",U.S. House,2,DEM,Bryan Berghoef,90
+Mason,"Summit Township, Precinct 1",U.S. House,2,DEM,Write-In,0
+Mason,"Summit Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,65
+Mason,"Summit Township, Precinct 1",State House,101,DEM,Cary L. Urka,25
+Mason,"Summit Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Summit Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,4
+Mason,"Summit Township, Precinct 1",Sheriff,,DEM,Write-In,5
+Mason,"Summit Township, Precinct 1",Clerk,,DEM,Write-In,4
+Mason,"Summit Township, Precinct 1",Treasurer,,DEM,Write-In,4
+Mason,"Summit Township, Precinct 1",Register of Deeds,,DEM,Write-In,4
+Mason,"Summit Township, Precinct 1",Drain Commissioner,,DEM,Write-In,4
+Mason,"Summit Township, Precinct 1",Surveyor,,DEM,Write-In,4
+Mason,"Summit Township, Precinct 1",County Commissioner,5,DEM,Write-In,4
+Mason,"Summit Township, Precinct 1",Summit Township Supervisor,,DEM,Write-In,5
+Mason,"Summit Township, Precinct 1",Summit Township Clerk,,DEM,Write-In,5
+Mason,"Summit Township, Precinct 1",Summit Township Treasurer,,DEM,Write-In,5
+Mason,"Summit Township, Precinct 1",Summit Township Trustee,,DEM,Write-In,9
+Mason,"Summit Township, Precinct 1","Summit Township, Precinct 1 Delegate to County Convention",,DEM,Dee Payment,71
+Mason,"Summit Township, Precinct 1","Summit Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,5
+Mason,"Summit Township, Precinct 1",U.S. Senate,,REP,John James,195
+Mason,"Summit Township, Precinct 1",U.S. Senate,,REP,Write-In,0
+Mason,"Summit Township, Precinct 1",U.S. House,2,REP,Bill Huizenga,195
+Mason,"Summit Township, Precinct 1",U.S. House,2,REP,Write-In,0
+Mason,"Summit Township, Precinct 1",State House,101,REP,Carolyn Cater,48
+Mason,"Summit Township, Precinct 1",State House,101,REP,Jack O'Malley,164
+Mason,"Summit Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Summit Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,80
+Mason,"Summit Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,128
+Mason,"Summit Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,1
+Mason,"Summit Township, Precinct 1",Sheriff,,REP,Kim C. Cole,200
+Mason,"Summit Township, Precinct 1",Sheriff,,REP,Write-In,0
+Mason,"Summit Township, Precinct 1",Clerk,,REP,Cheryl Kelly,193
+Mason,"Summit Township, Precinct 1",Clerk,,REP,Write-In,0
+Mason,"Summit Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,185
+Mason,"Summit Township, Precinct 1",Treasurer,,REP,Write-In,1
+Mason,"Summit Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,191
+Mason,"Summit Township, Precinct 1",Register of Deeds,,REP,Write-In,0
+Mason,"Summit Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,183
+Mason,"Summit Township, Precinct 1",Drain Commissioner,,REP,Write-In,1
+Mason,"Summit Township, Precinct 1",Surveyor,,REP,James T. Nordlund,128
+Mason,"Summit Township, Precinct 1",Surveyor,,REP,John C. Schulke,72
+Mason,"Summit Township, Precinct 1",Surveyor,,REP,Write-In,1
+Mason,"Summit Township, Precinct 1",County Commissioner,5,REP,Steven K. Hull,195
+Mason,"Summit Township, Precinct 1",County Commissioner,5,REP,Write-In,0
+Mason,"Summit Township, Precinct 1",Summit Township Supervisor,,REP,D. Wayne Kelly,188
+Mason,"Summit Township, Precinct 1",Summit Township Supervisor,,REP,Write-In,1
+Mason,"Summit Township, Precinct 1",Summit Township Clerk,,REP,Kay Deanda,196
+Mason,"Summit Township, Precinct 1",Summit Township Clerk,,REP,Write-In,0
+Mason,"Summit Township, Precinct 1",Summit Township Treasurer,,REP,Mary L. Bedker,198
+Mason,"Summit Township, Precinct 1",Summit Township Treasurer,,REP,Write-In,1
+Mason,"Summit Township, Precinct 1",Summit Township Trustee,,REP,Edward L. Chase,132
+Mason,"Summit Township, Precinct 1",Summit Township Trustee,,REP,Todd Jorissen,151
+Mason,"Summit Township, Precinct 1",Summit Township Trustee,,REP,Michael Glen Schneider,88
+Mason,"Summit Township, Precinct 1",Summit Township Trustee,,REP,Write-In,0
+Mason,"Summit Township, Precinct 1","Summit Township, Precinct 1 Delegate to County Convention",,REP,Write-In,7
+Mason,"Summit Township, Precinct 1",Mason Oceana 911,,,No,36
+Mason,"Summit Township, Precinct 1",Mason Oceana 911,,,Yes,245
+Mason,"Victory Township, Precinct 1",Registered Voters,,,,"1,157"
 Mason,"Victory Township, Precinct 1",Ballots Cast,,,,339
-Mason,"Victory Township, Precinct 1",Ballots Cast,,DEM,,84
-Mason,"Victory Township, Precinct 1",Ballots Cast,,REP,,233
-Mason,"Victory Township, Precinct 1",Ballots Cast,,NON,,22
-Mason,"Victory Township, Precinct 1",Ballots Cast Crossover,,,,21
-Mason,"Victory Township, Precinct 1",Ballots cast Blank,,,,0
-Mason,"Victory Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,81
-Mason,"Victory Township, Precinct 1",U.S. Senate,,Write-In Totals,DEM,1
-Mason,"Victory Township, Precinct 1",U.S. House,1,Dana Ferguson,DEM,56
-Mason,"Victory Township, Precinct 1",U.S. House,1,Linda O'Dell,DEM,27
-Mason,"Victory Township, Precinct 1",U.S. House,1,Write-In Totals,DEM,0
-Mason,"Victory Township, Precinct 1",State House,101,Beth McGill-Rizer,DEM,65
-Mason,"Victory Township, Precinct 1",State House,101,Cary L. Urka,DEM,18
-Mason,"Victory Township, Precinct 1",State House,101,Write-In Totals,DEM,0
-Mason,"Victory Township, Precinct 1",U.S. Senate,,John James,REP,215
-Mason,"Victory Township, Precinct 1",U.S. Senate,,Write-In Totals,REP,1
-Mason,"Victory Township, Precinct 1",U.S. House,1,Jack Bergman,REP,212
-Mason,"Victory Township, Precinct 1",U.S. House,1,Write-In Totals,REP,1
-Mason,"Victory Township, Precinct 1",State House,101,Carolyn Cater,REP,28
-Mason,"Victory Township, Precinct 1",State House,101,Jack O'Malley,REP,201
-Mason,"Victory Township, Precinct 1",State House,101,Write-In Totals,REP,0
+Mason,"Victory Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,81
+Mason,"Victory Township, Precinct 1",U.S. Senate,,DEM,Write-In,1
+Mason,"Victory Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,56
+Mason,"Victory Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,27
+Mason,"Victory Township, Precinct 1",U.S. House,1,DEM,Write-In,0
+Mason,"Victory Township, Precinct 1",State House,101,DEM,Beth McGill-Rizer,65
+Mason,"Victory Township, Precinct 1",State House,101,DEM,Cary L. Urka,18
+Mason,"Victory Township, Precinct 1",State House,101,DEM,Write-In,0
+Mason,"Victory Township, Precinct 1",Prosecuting Attorney,,DEM,Write-In,7
+Mason,"Victory Township, Precinct 1",Sheriff,,DEM,Write-In,8
+Mason,"Victory Township, Precinct 1",Clerk,,DEM,Write-In,7
+Mason,"Victory Township, Precinct 1",Treasurer,,DEM,Write-In,7
+Mason,"Victory Township, Precinct 1",Register of Deeds,,DEM,Write-In,7
+Mason,"Victory Township, Precinct 1",Drain Commissioner,,DEM,Write-In,7
+Mason,"Victory Township, Precinct 1",Surveyor,,DEM,Write-In,7
+Mason,"Victory Township, Precinct 1",County Commissioner,6,DEM,Write-In,7
+Mason,"Victory Township, Precinct 1",Victory Township Supervisor,,DEM,Jim Mazur,81
+Mason,"Victory Township, Precinct 1",Victory Township Supervisor,,DEM,Write-In,1
+Mason,"Victory Township, Precinct 1",Victory Township Clerk,,DEM,Write-In,7
+Mason,"Victory Township, Precinct 1",Victory Township Treasurer,,DEM,Write-In,7
+Mason,"Victory Township, Precinct 1",Victory Township Trustee,,DEM,Write-In,10
+Mason,"Victory Township, Precinct 1","Victory Township, Precinct 1 Delegate to County Convention",,DEM,Beth McGill-Rizer,74
+Mason,"Victory Township, Precinct 1","Victory Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,0
+Mason,"Victory Township, Precinct 1",U.S. Senate,,REP,John James,215
+Mason,"Victory Township, Precinct 1",U.S. Senate,,REP,Write-In,1
+Mason,"Victory Township, Precinct 1",U.S. House,1,REP,Jack Bergman,212
+Mason,"Victory Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Mason,"Victory Township, Precinct 1",State House,101,REP,Carolyn Cater,28
+Mason,"Victory Township, Precinct 1",State House,101,REP,Jack O'Malley,201
+Mason,"Victory Township, Precinct 1",State House,101,REP,Write-In,0
+Mason,"Victory Township, Precinct 1",Prosecuting Attorney,,REP,Chad A. DeRouin,85
+Mason,"Victory Township, Precinct 1",Prosecuting Attorney,,REP,Lauren R. Kreinbrink,142
+Mason,"Victory Township, Precinct 1",Prosecuting Attorney,,REP,Write-In,0
+Mason,"Victory Township, Precinct 1",Sheriff,,REP,Kim C. Cole,216
+Mason,"Victory Township, Precinct 1",Sheriff,,REP,Write-In,2
+Mason,"Victory Township, Precinct 1",Clerk,,REP,Cheryl Kelly,210
+Mason,"Victory Township, Precinct 1",Clerk,,REP,Write-In,1
+Mason,"Victory Township, Precinct 1",Treasurer,,REP,Andrew R. Kmetz IV,207
+Mason,"Victory Township, Precinct 1",Treasurer,,REP,Write-In,0
+Mason,"Victory Township, Precinct 1",Register of Deeds,,REP,Diane L. Englebrecht,206
+Mason,"Victory Township, Precinct 1",Register of Deeds,,REP,Write-In,0
+Mason,"Victory Township, Precinct 1",Drain Commissioner,,REP,Dan Rohde,195
+Mason,"Victory Township, Precinct 1",Drain Commissioner,,REP,Write-In,4
+Mason,"Victory Township, Precinct 1",Surveyor,,REP,James T. Nordlund,159
+Mason,"Victory Township, Precinct 1",Surveyor,,REP,John C. Schulke,55
+Mason,"Victory Township, Precinct 1",Surveyor,,REP,Write-In,0
+Mason,"Victory Township, Precinct 1",County Commissioner,6,REP,Janet S. Andersen,203
+Mason,"Victory Township, Precinct 1",County Commissioner,6,REP,Write-In,1
+Mason,"Victory Township, Precinct 1",Victory Township Supervisor,,REP,Write-In,14
+Mason,"Victory Township, Precinct 1",Victory Township Clerk,,REP,Barbara J. Egeler,216
+Mason,"Victory Township, Precinct 1",Victory Township Clerk,,REP,Write-In,0
+Mason,"Victory Township, Precinct 1",Victory Township Treasurer,,REP,Patricia A. Geers,207
+Mason,"Victory Township, Precinct 1",Victory Township Treasurer,,REP,Write-In,3
+Mason,"Victory Township, Precinct 1",Victory Township Trustee,,REP,Robert W. Kesling,145
+Mason,"Victory Township, Precinct 1",Victory Township Trustee,,REP,Jerome Papes,168
+Mason,"Victory Township, Precinct 1",Victory Township Trustee,,REP,Write-In,3
+Mason,"Victory Township, Precinct 1","Victory Township, Precinct 1 Delegate to County Convention",,REP,Rosemarie DeLoof,197
+Mason,"Victory Township, Precinct 1","Victory Township, Precinct 1 Delegate to County Convention",,REP,Write-In,2
+Mason,"Victory Township, Precinct 1",Mason Oceana 911,,,Yes,239
+Mason,"Victory Township, Precinct 1",Mason Oceana 911,,,No,57
