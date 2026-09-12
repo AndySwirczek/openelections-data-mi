@@ -23,11 +23,12 @@ of each block, covering all 29 precincts):
     affected voters; it is not cross-checked.
 
 Precinct names wrap across 3 physical lines interleaved with the bare
-value row ('Eureka Charter Township,' / values / 'Precinct 1'); the
-name digit lands inside the trailing numeric run, so values are the
-LAST width tokens and the name is the rest (fragments + name part).
-The interleaved fragments are verified in aggregate against the row
-names, like the Ogemaw parser.
+value row ('Eureka Charter Township,' / values / 'Precinct 1'), with
+the same geometry as Livingston's report: the head line sits at top
+t, the value line at t+5.3 and the tail at t+10.7 (row pitch 15.1),
+so each fragment is assigned to the NEAREST value row on its page by
+line top (a fragment above its row is the name's head, below is its
+tail).  Values are the LAST width tokens of the value row.
 
 No write-in column exists in this report (DEM candidates 13 +
 Williamson + Yang + Uncommitted; REP 4 + Uncommitted).  Ballots Cast
@@ -79,10 +80,8 @@ def main():
 
     # rows per contest section, split by numeric width: DEM 13 (main
     # candidates) vs 9 (continuation); REP 11; proposals 8
-    rows = {}       # sect -> width -> [(name, values)]
+    rows = {}       # sect -> width -> [(name, values)] in print order
     totals = {}     # sect -> width -> values (countywide Totals row)
-    frag_text = {}  # sect -> width -> accumulated fragment text
-    frag = {}       # sect -> width -> pending name fragments
     sect = None
 
     for page in pdf.pages:
@@ -99,8 +98,11 @@ def main():
             block = 'prop'
         else:
             block = '?'
-        for raw in ptext.split('\n'):
-            line = raw.strip()
+        data = []       # (top, sect, width, namepart, vals)
+        frags = []      # (top, text, sect)
+        for l in page.extract_text_lines():
+            line = l['text'].strip()
+            top = l['top']
             if not line:
                 continue
             if line.startswith(('Canvass Results', 'Montcalm County',
@@ -112,12 +114,10 @@ def main():
             if m:
                 sect = (m.group(1).strip(),
                         'DEM' if 'Democratic' in line else 'REP')
-                frag = {}
                 continue
             m = re.match(r'^(.*) - No Party Declaration$', line)
             if m:
                 sect = (m.group(1).strip(), '')
-                frag = {}
                 continue
 
             core = TURNOUT_RE.sub('', line)
@@ -134,7 +134,6 @@ def main():
                     problems.append(f'stray Totals row: {line!r}')
                     continue
                 totals.setdefault(sect, {})[run] = ints(' '.join(toks[1:]))
-                frag[run] = []
                 continue
 
             # rotated-header words: each token is a word reversed (or,
@@ -156,23 +155,46 @@ def main():
                 continue
 
             if run < width:
-                # a wrapped-name fragment (head line, or the previous
-                # row's 'Precinct N' tail); single-line data rows have
-                # run == width + 1 (name digit) and bare value rows
-                # run == width
-                frag.setdefault(width, []).append(line)
-                frag_text.setdefault((sect, width), '')
-                frag_text[(sect, width)] += line
+                # a wrapped-name fragment: head line above its row's
+                # value line, or the previous row's 'Precinct N' tail
+                frags.append((top, line, sect))
                 continue
             if run > width + 1:
                 problems.append(f'{sect} {block}: unexpected numeric '
                                 f'run {run} (width {width}): {line!r}')
-            vals = ints(' '.join(toks[-width:]))
-            name = ' '.join(frag.get(width, []) + toks[:-width]).strip()
-            frag[width] = []
-            frag_text.setdefault((sect, width), '')
-            frag_text[(sect, width)] += ' '.join(toks[:-width])
-            rows.setdefault(sect, {}).setdefault(width, []) \
+            data.append((top, sect, width,
+                         ' '.join(toks[:-width]).strip(),
+                         ints(' '.join(toks[-width:]))))
+
+        # wrapped names: assign each fragment to the nearest value row
+        # ON THIS PAGE (its own row's value line sits ~5pt away; the
+        # next row's head is ~16pt away).  A fragment ABOVE its value
+        # row is the name's head; one BELOW is its tail.
+        frag_map = {}   # (sect, width, top) -> [(is_head, top, text)]
+        for ftop, ftext, fsect in frags:
+            cands = [(abs(ftop - dtop), dtop)
+                     for dtop, dsect, dwidth, _np, _v in data
+                     if dsect == fsect]
+            if not cands:
+                problems.append(f'unassignable fragment {ftext!r}')
+                continue
+            dist, dtop = min(cands)
+            dwidth = next(w_ for t_, s_, w_, _np, _v in data
+                          if t_ == dtop and s_ == fsect)
+            frag_map.setdefault((fsect, dwidth, dtop), []).append(
+                (ftop < dtop, ftop, ftext))
+
+        for dtop, dsect, dwidth, namepart, vals in data:
+            heads, tails = [], []
+            for is_head, ftop, ftext in frag_map.pop((dsect, dwidth,
+                                                      dtop), []):
+                (heads if is_head else tails).append((ftop, ftext))
+            heads.sort()
+            tails.sort()
+            name = ' '.join([t for _, t in heads] + [namepart]
+                            + [t for _, t in tails]).strip()
+            name = ' '.join(name.split())   # PDF lines carry doubled spaces
+            rows.setdefault(dsect, {}).setdefault(dwidth, []) \
                 .append((name, vals))
 
     # ---- structure ------------------------------------------------------
@@ -196,13 +218,28 @@ def main():
                         f'{names_r}')
     if names_c != names_r:
         problems.append(f'DEM cont names != REP names')
-    for (s, w), txt in frag_text.items():
-        want = ''.join(names_r).replace(' ', '').replace(',', '') \
-            if len(rows[s][w]) == 29 else None
-        got = txt.replace(' ', '').replace(',', '')
-        if want and got != want:
-            problems.append(f'{s[0]} {s[1]} w{w}: fragments {got[:80]}'
-                            f'... != names')
+    # wrapped names must reassemble to the precincts' names as printed
+    # in Montcalm's Nov 2020 general file
+    EXPECTED = [
+        'Belvidere Township, Precinct 1', 'Bloomer Township, Precinct 1',
+        'Bushnell Township, Precinct 1', 'Cato Township, Precinct 1',
+        'Crystal Township, Precinct 1', 'Day Township, Precinct 1',
+        'Douglass Township, Precinct 1',
+        'Eureka Charter Township, Precinct 1',
+        'Eureka Charter Township, Precinct 2',
+        'Evergreen Township, Precinct 1', 'Evergreen Township, Precinct 2',
+        'Fairplain Township, Precinct 1', 'Ferris Township, Precinct 1',
+        'Home Township, Precinct 1', 'Maple Valley Township, Precinct 1',
+        'Montcalm Township, Precinct 1', 'Pierson Township, Precinct 1',
+        'Pine Township, Precinct 1', 'Reynolds Township, Precinct 1',
+        'Reynolds Township, Precinct 2', 'Richland Township, Precinct 1',
+        'Sidney Township, Precinct 1', 'Winfield Township, Precinct 1',
+        'City of Carson City, Precinct 1', 'City of Greenville, Precinct 1',
+        'City of Greenville, Precinct 2', 'City of Greenville, Precinct 3',
+        'City of Greenville, Precinct 4', 'City of Stanton, Precinct 1',
+    ]
+    if names_r != EXPECTED:
+        problems.append(f'names != Nov 2020 file names:\n  {names_r}')
 
     # ---- per-precinct checks -------------------------------------------
     main_by = {n: v for n, v in dem_main}
