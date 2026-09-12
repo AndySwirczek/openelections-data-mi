@@ -1,0 +1,415 @@
+county,precinct,office,district,party,candidate,votes
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Michael Bennet,0
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Joe Biden,41
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Bernie Sanders,10
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Tom Steyer,0
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Andrew Yang,0
+Iosco,"Alabaster Township, Precinct 1",President,,DEM,Uncommitted,0
+Iosco,"Alabaster Township, Precinct 1",President,,REP,Mark Sanford,0
+Iosco,"Alabaster Township, Precinct 1",President,,REP,Donald J. Trump,36
+Iosco,"Alabaster Township, Precinct 1",President,,REP,Joe Walsh,1
+Iosco,"Alabaster Township, Precinct 1",President,,REP,Bill Weld,0
+Iosco,"Alabaster Township, Precinct 1",President,,REP,Uncommitted,0
+Iosco,"Alabaster Township, Precinct 1",Ballots Cast,,DEM,,53
+Iosco,"Alabaster Township, Precinct 1",Ballots Cast,,REP,,37
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Michael Bennet,0
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Joe Biden,151
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Michael R. Bloomberg,13
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Cory Booker,1
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Pete Buttigieg,4
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"AuSable Township, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Bernie Sanders,53
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Tom Steyer,1
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Andrew Yang,0
+Iosco,"AuSable Township, Precinct 1",President,,DEM,Uncommitted,4
+Iosco,"AuSable Township, Precinct 1",President,,REP,Mark Sanford,0
+Iosco,"AuSable Township, Precinct 1",President,,REP,Donald J. Trump,198
+Iosco,"AuSable Township, Precinct 1",President,,REP,Joe Walsh,3
+Iosco,"AuSable Township, Precinct 1",President,,REP,Bill Weld,2
+Iosco,"AuSable Township, Precinct 1",President,,REP,Uncommitted,2
+Iosco,"AuSable Township, Precinct 1",Ballots Cast,,DEM,,232
+Iosco,"AuSable Township, Precinct 1",Ballots Cast,,REP,,207
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Michael Bennet,0
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Joe Biden,114
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Michael R. Bloomberg,19
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Pete Buttigieg,6
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Bernie Sanders,54
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Tom Steyer,0
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Elizabeth Warren,5
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Andrew Yang,0
+Iosco,"Baldwin Township, Precinct 1",President,,DEM,Uncommitted,2
+Iosco,"Baldwin Township, Precinct 1",President,,REP,Mark Sanford,2
+Iosco,"Baldwin Township, Precinct 1",President,,REP,Donald J. Trump,162
+Iosco,"Baldwin Township, Precinct 1",President,,REP,Joe Walsh,1
+Iosco,"Baldwin Township, Precinct 1",President,,REP,Bill Weld,0
+Iosco,"Baldwin Township, Precinct 1",President,,REP,Uncommitted,7
+Iosco,"Baldwin Township, Precinct 1",Ballots Cast,,DEM,,202
+Iosco,"Baldwin Township, Precinct 1",Ballots Cast,,REP,,172
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Michael Bennet,0
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Joe Biden,22
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Michael R. Bloomberg,6
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Bernie Sanders,14
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Tom Steyer,0
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Andrew Yang,0
+Iosco,"Burleigh Township, Precinct 1",President,,DEM,Uncommitted,3
+Iosco,"Burleigh Township, Precinct 1",President,,REP,Mark Sanford,0
+Iosco,"Burleigh Township, Precinct 1",President,,REP,Donald J. Trump,37
+Iosco,"Burleigh Township, Precinct 1",President,,REP,Joe Walsh,0
+Iosco,"Burleigh Township, Precinct 1",President,,REP,Bill Weld,0
+Iosco,"Burleigh Township, Precinct 1",President,,REP,Uncommitted,0
+Iosco,"Burleigh Township, Precinct 1",Ballots Cast,,DEM,,50
+Iosco,"Burleigh Township, Precinct 1",Ballots Cast,,REP,,37
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Michael Bennet,1
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Joe Biden,216
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Michael R. Bloomberg,12
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Pete Buttigieg,4
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Tulsi Gabbard,5
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Amy Klobuchar,6
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Bernie Sanders,98
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Tom Steyer,1
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Elizabeth Warren,3
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Andrew Yang,0
+Iosco,"City of East Tawas, Precinct 1",President,,DEM,Uncommitted,3
+Iosco,"City of East Tawas, Precinct 1",President,,REP,Mark Sanford,0
+Iosco,"City of East Tawas, Precinct 1",President,,REP,Donald J. Trump,246
+Iosco,"City of East Tawas, Precinct 1",President,,REP,Joe Walsh,0
+Iosco,"City of East Tawas, Precinct 1",President,,REP,Bill Weld,1
+Iosco,"City of East Tawas, Precinct 1",President,,REP,Uncommitted,4
+Iosco,"City of East Tawas, Precinct 1",Ballots Cast,,DEM,,351
+Iosco,"City of East Tawas, Precinct 1",Ballots Cast,,REP,,251
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Michael Bennet,0
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Joe Biden,121
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Pete Buttigieg,2
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Amy Klobuchar,0
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Bernie Sanders,76
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Tom Steyer,0
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Elizabeth Warren,2
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Andrew Yang,0
+Iosco,"City of Tawas City, Precinct 1",President,,DEM,Uncommitted,3
+Iosco,"City of Tawas City, Precinct 1",President,,REP,Mark Sanford,2
+Iosco,"City of Tawas City, Precinct 1",President,,REP,Donald J. Trump,120
+Iosco,"City of Tawas City, Precinct 1",President,,REP,Joe Walsh,1
+Iosco,"City of Tawas City, Precinct 1",President,,REP,Bill Weld,0
+Iosco,"City of Tawas City, Precinct 1",President,,REP,Uncommitted,3
+Iosco,"City of Tawas City, Precinct 1",Ballots Cast,,DEM,,209
+Iosco,"City of Tawas City, Precinct 1",Ballots Cast,,REP,,126
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Michael Bennet,0
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Joe Biden,18
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Michael R. Bloomberg,3
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Pete Buttigieg,0
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Amy Klobuchar,0
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Bernie Sanders,10
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Tom Steyer,1
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Elizabeth Warren,0
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Andrew Yang,1
+Iosco,"City of Whittemore, Precinct 1",President,,DEM,Uncommitted,0
+Iosco,"City of Whittemore, Precinct 1",President,,REP,Mark Sanford,0
+Iosco,"City of Whittemore, Precinct 1",President,,REP,Donald J. Trump,27
+Iosco,"City of Whittemore, Precinct 1",President,,REP,Joe Walsh,0
+Iosco,"City of Whittemore, Precinct 1",President,,REP,Bill Weld,0
+Iosco,"City of Whittemore, Precinct 1",President,,REP,Uncommitted,0
+Iosco,"City of Whittemore, Precinct 1",Ballots Cast,,DEM,,33
+Iosco,"City of Whittemore, Precinct 1",Ballots Cast,,REP,,27
+Iosco,"Grant Township, Precinct 1",President,,DEM,Michael Bennet,0
+Iosco,"Grant Township, Precinct 1",President,,DEM,Joe Biden,112
+Iosco,"Grant Township, Precinct 1",President,,DEM,Michael R. Bloomberg,11
+Iosco,"Grant Township, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"Grant Township, Precinct 1",President,,DEM,Pete Buttigieg,5
+Iosco,"Grant Township, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"Grant Township, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"Grant Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Iosco,"Grant Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Iosco,"Grant Township, Precinct 1",President,,DEM,Bernie Sanders,40
+Iosco,"Grant Township, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"Grant Township, Precinct 1",President,,DEM,Tom Steyer,0
+Iosco,"Grant Township, Precinct 1",President,,DEM,Elizabeth Warren,5
+Iosco,"Grant Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"Grant Township, Precinct 1",President,,DEM,Andrew Yang,0
+Iosco,"Grant Township, Precinct 1",President,,DEM,Uncommitted,3
+Iosco,"Grant Township, Precinct 1",President,,REP,Mark Sanford,1
+Iosco,"Grant Township, Precinct 1",President,,REP,Donald J. Trump,177
+Iosco,"Grant Township, Precinct 1",President,,REP,Joe Walsh,1
+Iosco,"Grant Township, Precinct 1",President,,REP,Bill Weld,0
+Iosco,"Grant Township, Precinct 1",President,,REP,Uncommitted,4
+Iosco,"Grant Township, Precinct 1",Ballots Cast,,DEM,,179
+Iosco,"Grant Township, Precinct 1",Ballots Cast,,REP,,183
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Michael Bennet,0
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Joe Biden,174
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Michael R. Bloomberg,18
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Julian Castro,1
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Amy Klobuchar,6
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Bernie Sanders,65
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Tom Steyer,0
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Elizabeth Warren,4
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Marianne Williamson,1
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Andrew Yang,1
+Iosco,"Oscoda Township, Precinct 1",President,,DEM,Uncommitted,3
+Iosco,"Oscoda Township, Precinct 1",President,,REP,Mark Sanford,3
+Iosco,"Oscoda Township, Precinct 1",President,,REP,Donald J. Trump,192
+Iosco,"Oscoda Township, Precinct 1",President,,REP,Joe Walsh,0
+Iosco,"Oscoda Township, Precinct 1",President,,REP,Bill Weld,0
+Iosco,"Oscoda Township, Precinct 1",President,,REP,Uncommitted,1
+Iosco,"Oscoda Township, Precinct 1",Ballots Cast,,DEM,,278
+Iosco,"Oscoda Township, Precinct 1",Ballots Cast,,REP,,197
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Michael Bennet,0
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Joe Biden,73
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Michael R. Bloomberg,7
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Cory Booker,1
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Pete Buttigieg,4
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Julian Castro,0
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,John Delaney,0
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Tulsi Gabbard,2
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Amy Klobuchar,1
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Bernie Sanders,32
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Joe Sestak,0
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Tom Steyer,0
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Elizabeth Warren,2
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Andrew Yang,0
+Iosco,"Oscoda Township, Precinct 2",President,,DEM,Uncommitted,1
+Iosco,"Oscoda Township, Precinct 2",President,,REP,Mark Sanford,1
+Iosco,"Oscoda Township, Precinct 2",President,,REP,Donald J. Trump,63
+Iosco,"Oscoda Township, Precinct 2",President,,REP,Joe Walsh,0
+Iosco,"Oscoda Township, Precinct 2",President,,REP,Bill Weld,0
+Iosco,"Oscoda Township, Precinct 2",President,,REP,Uncommitted,0
+Iosco,"Oscoda Township, Precinct 2",Ballots Cast,,DEM,,125
+Iosco,"Oscoda Township, Precinct 2",Ballots Cast,,REP,,64
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Michael Bennet,0
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Joe Biden,134
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Michael R. Bloomberg,7
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Cory Booker,0
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Pete Buttigieg,5
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Julian Castro,1
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,John Delaney,0
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Tulsi Gabbard,3
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Amy Klobuchar,4
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Bernie Sanders,56
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Joe Sestak,0
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Tom Steyer,0
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Elizabeth Warren,2
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Marianne Williamson,0
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Andrew Yang,0
+Iosco,"Oscoda Township, Precinct 3",President,,DEM,Uncommitted,0
+Iosco,"Oscoda Township, Precinct 3",President,,REP,Mark Sanford,0
+Iosco,"Oscoda Township, Precinct 3",President,,REP,Donald J. Trump,122
+Iosco,"Oscoda Township, Precinct 3",President,,REP,Joe Walsh,1
+Iosco,"Oscoda Township, Precinct 3",President,,REP,Bill Weld,0
+Iosco,"Oscoda Township, Precinct 3",President,,REP,Uncommitted,3
+Iosco,"Oscoda Township, Precinct 3",Ballots Cast,,DEM,,212
+Iosco,"Oscoda Township, Precinct 3",Ballots Cast,,REP,,126
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Michael Bennet,0
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Joe Biden,109
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Michael R. Bloomberg,18
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Cory Booker,0
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Pete Buttigieg,4
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Julian Castro,0
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,John Delaney,0
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Tulsi Gabbard,1
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Amy Klobuchar,4
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Bernie Sanders,58
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Joe Sestak,0
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Tom Steyer,1
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Elizabeth Warren,2
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Marianne Williamson,0
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Andrew Yang,1
+Iosco,"Oscoda Township, Precinct 4",President,,DEM,Uncommitted,1
+Iosco,"Oscoda Township, Precinct 4",President,,REP,Mark Sanford,0
+Iosco,"Oscoda Township, Precinct 4",President,,REP,Donald J. Trump,108
+Iosco,"Oscoda Township, Precinct 4",President,,REP,Joe Walsh,1
+Iosco,"Oscoda Township, Precinct 4",President,,REP,Bill Weld,2
+Iosco,"Oscoda Township, Precinct 4",President,,REP,Uncommitted,4
+Iosco,"Oscoda Township, Precinct 4",Ballots Cast,,DEM,,199
+Iosco,"Oscoda Township, Precinct 4",Ballots Cast,,REP,,115
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Michael Bennet,0
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Joe Biden,74
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Michael R. Bloomberg,10
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Amy Klobuchar,4
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Bernie Sanders,57
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Tom Steyer,0
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Andrew Yang,0
+Iosco,"Plainfield Township, Precinct 1",President,,DEM,Uncommitted,2
+Iosco,"Plainfield Township, Precinct 1",President,,REP,Mark Sanford,0
+Iosco,"Plainfield Township, Precinct 1",President,,REP,Donald J. Trump,130
+Iosco,"Plainfield Township, Precinct 1",President,,REP,Joe Walsh,0
+Iosco,"Plainfield Township, Precinct 1",President,,REP,Bill Weld,0
+Iosco,"Plainfield Township, Precinct 1",President,,REP,Uncommitted,7
+Iosco,"Plainfield Township, Precinct 1",Ballots Cast,,DEM,,155
+Iosco,"Plainfield Township, Precinct 1",Ballots Cast,,REP,,137
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Michael Bennet,1
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Joe Biden,150
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Michael R. Bloomberg,42
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Cory Booker,0
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Pete Buttigieg,14
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Julian Castro,0
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,John Delaney,0
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Tulsi Gabbard,0
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Amy Klobuchar,4
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Bernie Sanders,51
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Joe Sestak,2
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Tom Steyer,0
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Elizabeth Warren,3
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Andrew Yang,0
+Iosco,"Plainfield Township, Precinct 2",President,,DEM,Uncommitted,13
+Iosco,"Plainfield Township, Precinct 2",President,,REP,Mark Sanford,0
+Iosco,"Plainfield Township, Precinct 2",President,,REP,Donald J. Trump,241
+Iosco,"Plainfield Township, Precinct 2",President,,REP,Joe Walsh,1
+Iosco,"Plainfield Township, Precinct 2",President,,REP,Bill Weld,1
+Iosco,"Plainfield Township, Precinct 2",President,,REP,Uncommitted,12
+Iosco,"Plainfield Township, Precinct 2",Ballots Cast,,DEM,,280
+Iosco,"Plainfield Township, Precinct 2",Ballots Cast,,REP,,258
+Iosco,"Reno Township, Precinct 1",President,,DEM,Michael Bennet,0
+Iosco,"Reno Township, Precinct 1",President,,DEM,Joe Biden,43
+Iosco,"Reno Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Iosco,"Reno Township, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"Reno Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Iosco,"Reno Township, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"Reno Township, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"Reno Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Iosco,"Reno Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Iosco,"Reno Township, Precinct 1",President,,DEM,Bernie Sanders,16
+Iosco,"Reno Township, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"Reno Township, Precinct 1",President,,DEM,Tom Steyer,0
+Iosco,"Reno Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Iosco,"Reno Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"Reno Township, Precinct 1",President,,DEM,Andrew Yang,0
+Iosco,"Reno Township, Precinct 1",President,,DEM,Uncommitted,0
+Iosco,"Reno Township, Precinct 1",President,,REP,Mark Sanford,0
+Iosco,"Reno Township, Precinct 1",President,,REP,Donald J. Trump,49
+Iosco,"Reno Township, Precinct 1",President,,REP,Joe Walsh,0
+Iosco,"Reno Township, Precinct 1",President,,REP,Bill Weld,0
+Iosco,"Reno Township, Precinct 1",President,,REP,Uncommitted,0
+Iosco,"Reno Township, Precinct 1",Ballots Cast,,DEM,,65
+Iosco,"Reno Township, Precinct 1",Ballots Cast,,REP,,49
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Michael Bennet,0
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Joe Biden,20
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"Sherman Township, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Bernie Sanders,8
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Tom Steyer,0
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Andrew Yang,0
+Iosco,"Sherman Township, Precinct 1",President,,DEM,Uncommitted,2
+Iosco,"Sherman Township, Precinct 1",President,,REP,Mark Sanford,0
+Iosco,"Sherman Township, Precinct 1",President,,REP,Donald J. Trump,41
+Iosco,"Sherman Township, Precinct 1",President,,REP,Joe Walsh,0
+Iosco,"Sherman Township, Precinct 1",President,,REP,Bill Weld,0
+Iosco,"Sherman Township, Precinct 1",President,,REP,Uncommitted,0
+Iosco,"Sherman Township, Precinct 1",Ballots Cast,,DEM,,35
+Iosco,"Sherman Township, Precinct 1",Ballots Cast,,REP,,41
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Michael Bennet,1
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Joe Biden,100
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Pete Buttigieg,5
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"Tawas Township, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Bernie Sanders,41
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Tom Steyer,1
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Andrew Yang,1
+Iosco,"Tawas Township, Precinct 1",President,,DEM,Uncommitted,1
+Iosco,"Tawas Township, Precinct 1",President,,REP,Mark Sanford,0
+Iosco,"Tawas Township, Precinct 1",President,,REP,Donald J. Trump,148
+Iosco,"Tawas Township, Precinct 1",President,,REP,Joe Walsh,0
+Iosco,"Tawas Township, Precinct 1",President,,REP,Bill Weld,0
+Iosco,"Tawas Township, Precinct 1",President,,REP,Uncommitted,2
+Iosco,"Tawas Township, Precinct 1",Ballots Cast,,DEM,,152
+Iosco,"Tawas Township, Precinct 1",Ballots Cast,,REP,,151
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Michael Bennet,0
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Joe Biden,59
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Michael R. Bloomberg,15
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Cory Booker,0
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Pete Buttigieg,6
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Julian Castro,0
+Iosco,"Wilber Township, Precinct 1",President,,DEM,John Delaney,0
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Bernie Sanders,17
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Joe Sestak,0
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Tom Steyer,4
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Andrew Yang,0
+Iosco,"Wilber Township, Precinct 1",President,,DEM,Uncommitted,1
+Iosco,"Wilber Township, Precinct 1",President,,REP,Mark Sanford,0
+Iosco,"Wilber Township, Precinct 1",President,,REP,Donald J. Trump,89
+Iosco,"Wilber Township, Precinct 1",President,,REP,Joe Walsh,0
+Iosco,"Wilber Township, Precinct 1",President,,REP,Bill Weld,2
+Iosco,"Wilber Township, Precinct 1",President,,REP,Uncommitted,2
+Iosco,"Wilber Township, Precinct 1",Ballots Cast,,DEM,,107
+Iosco,"Wilber Township, Precinct 1",Ballots Cast,,REP,,94
