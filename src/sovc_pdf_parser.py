@@ -247,6 +247,16 @@ def map_office(title, county=None, map_offices=False):
         m = re.match(r'^(.+) Delegate to County Convention$', title)
         if m and ', Precinct ' not in title:
             title = f'{m.group(1)}, Precinct 1 Delegate to County Convention'
+    # Houghton 2020 county-office titles carry a ' for Houghton County'
+    # tail, the Commissioner title doubles the office name, and proposal
+    # titles end with ', Houghton County Michigan'.
+    if county == 'Houghton':
+        title = re.sub(r', Houghton County Michigan$', '', title)
+        title = re.sub(r' for Houghton County$', '', title)
+        m = re.match(r'^County Commissioner for County Commissioner '
+                     r'District (\d+)$', title)
+        if m:
+            title = f'County Commissioner {ordinal(int(m.group(1)))} District'
     # "County Commissioner District 5" -> the repo's "Nth District" form.
     m = re.match(r'^County Commissioner,? (?:for )?(?:District|Dist) (\d+)(.*)$', title)
     if m:
@@ -1502,6 +1512,15 @@ def main():
     if args.county == 'Baraga':
         for row in out_rows:
             row[1] = row[1].replace('Covongton', 'Covington')
+
+    # Houghton 2020 also prints the Baraga Area Schools proposal for
+    # Portage Twp P4 — those rows already live in Baraga's committed file
+    # (labeled '... (Houghton County)'); drop them here so the statewide
+    # merge doesn't double-count the 65 ballots.
+    if args.county == 'Houghton':
+        out_rows = [r for r in out_rows
+                    if not (r[1] == 'Portage Township, Precinct 4'
+                            and 'Baraga Area Schools' in r[2])]
 
     header = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
     if has_methods:
