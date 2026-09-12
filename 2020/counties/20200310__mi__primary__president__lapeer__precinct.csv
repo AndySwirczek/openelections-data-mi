@@ -1,0 +1,925 @@
+county,precinct,office,district,party,candidate,votes
+Lapeer,"City of Imlay City, Precinct 1",Registered Voters,,,,1065
+Lapeer,"City of Imlay City, Precinct 2",Registered Voters,,,,1388
+Lapeer,"City of Lapeer, Precinct 1",Registered Voters,,,,1710
+Lapeer,"City of Lapeer, Precinct 2",Registered Voters,,,,1303
+Lapeer,"City of Lapeer, Precinct 3",Registered Voters,,,,1299
+Lapeer,"City of Lapeer, Precinct 4",Registered Voters,,,,1790
+Lapeer,"Almont Township, Precinct 1",Registered Voters,,,,2257
+Lapeer,"Almont Township, Precinct 2",Registered Voters,,,,2902
+Lapeer,"Arcadia Township, Precinct 1",Registered Voters,,,,2503
+Lapeer,"Attica Township, Precinct 1",Registered Voters,,,,1810
+Lapeer,"Attica Township, Precinct 2",Registered Voters,,,,1943
+Lapeer,"Burlington Township, Precinct 1",Registered Voters,,,,1066
+Lapeer,"Burnside Township, Precinct 1",Registered Voters,,,,1363
+Lapeer,"Deerfield Township, Precinct 1",Registered Voters,,,,2107
+Lapeer,"Deerfield Township, Precinct 2",Registered Voters,,,,2307
+Lapeer,"Dryden Township, Precinct 1",Registered Voters,,,,1973
+Lapeer,"Dryden Township, Precinct 2",Registered Voters,,,,1911
+Lapeer,"Elba Township, Precinct 1",Registered Voters,,,,1166
+Lapeer,"Elba Township, Precinct 2",Registered Voters,,,,1448
+Lapeer,"Elba Township, Precinct 3",Registered Voters,,,,1642
+Lapeer,"Goodland Township, Precinct 1",Registered Voters,,,,1411
+Lapeer,"Hadley Township, Precinct 1",Registered Voters,,,,2259
+Lapeer,"Hadley Township, Precinct 2",Registered Voters,,,,1516
+Lapeer,"Imlay Township, Precinct 1",Registered Voters,,,,2420
+Lapeer,"Lapeer Township, Precinct 1",Registered Voters,,,,1546
+Lapeer,"Lapeer Township, Precinct 2",Registered Voters,,,,2522
+Lapeer,"Marathon Township, Precinct 1",Registered Voters,,,,1964
+Lapeer,"Marathon Township, Precinct 2",Registered Voters,,,,1613
+Lapeer,"Mayfield Township, Precinct 1",Registered Voters,,,,2088
+Lapeer,"Mayfield Township, Precinct 2",Registered Voters,,,,1741
+Lapeer,"Mayfield Township, Precinct 3",Registered Voters,,,,2479
+Lapeer,"Metamora Township, Precinct 1",Registered Voters,,,,1998
+Lapeer,"Metamora Township, Precinct 2",Registered Voters,,,,1543
+Lapeer,"North Branch Township, Precinct 1",Registered Voters,,,,2779
+Lapeer,"Oregon Township, Precinct 1",Registered Voters,,,,2291
+Lapeer,"Oregon Township, Precinct 2",Registered Voters,,,,2408
+Lapeer,"Rich Township, Precinct 1",Registered Voters,,,,1147
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Michael Bennet,1
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Michael Bennet,0
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Michael Bennet,1
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Michael Bennet,1
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Michael Bennet,0
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Michael Bennet,1
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Michael Bennet,1
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Michael Bennet,0
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Michael Bennet,1
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Michael Bennet,0
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Michael Bennet,0
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Michael Bennet,0
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Michael Bennet,0
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Michael Bennet,1
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Michael Bennet,1
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Michael Bennet,1
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Michael Bennet,0
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Michael Bennet,0
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Michael Bennet,1
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Michael Bennet,0
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Michael Bennet,0
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Michael Bennet,0
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Michael Bennet,0
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Michael Bennet,0
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Joe Biden,71
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Joe Biden,95
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Joe Biden,167
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Joe Biden,88
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Joe Biden,72
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Joe Biden,63
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Joe Biden,128
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Joe Biden,198
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Joe Biden,145
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Joe Biden,125
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Joe Biden,123
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Joe Biden,61
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Joe Biden,45
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Joe Biden,131
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Joe Biden,148
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Joe Biden,137
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Joe Biden,137
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Joe Biden,98
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Joe Biden,131
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Joe Biden,145
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Joe Biden,86
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Joe Biden,202
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Joe Biden,116
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Joe Biden,139
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Joe Biden,130
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Joe Biden,201
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Joe Biden,166
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Joe Biden,137
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Joe Biden,166
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Joe Biden,139
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Joe Biden,174
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Joe Biden,148
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Joe Biden,144
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Joe Biden,143
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Joe Biden,210
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Joe Biden,238
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Joe Biden,61
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Michael R. Bloomberg,5
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Michael R. Bloomberg,10
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Michael R. Bloomberg,21
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Michael R. Bloomberg,12
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Michael R. Bloomberg,9
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Michael R. Bloomberg,7
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Michael R. Bloomberg,12
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Michael R. Bloomberg,30
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Michael R. Bloomberg,28
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Michael R. Bloomberg,13
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Michael R. Bloomberg,16
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Michael R. Bloomberg,5
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Michael R. Bloomberg,2
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Michael R. Bloomberg,14
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Michael R. Bloomberg,23
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Michael R. Bloomberg,9
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Michael R. Bloomberg,21
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Michael R. Bloomberg,15
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Michael R. Bloomberg,13
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Michael R. Bloomberg,14
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Michael R. Bloomberg,2
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Michael R. Bloomberg,8
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Michael R. Bloomberg,3
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Michael R. Bloomberg,19
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Michael R. Bloomberg,11
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Michael R. Bloomberg,26
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Michael R. Bloomberg,12
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Michael R. Bloomberg,19
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Michael R. Bloomberg,11
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Michael R. Bloomberg,20
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Michael R. Bloomberg,27
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Michael R. Bloomberg,16
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Michael R. Bloomberg,15
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Michael R. Bloomberg,15
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Michael R. Bloomberg,25
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Michael R. Bloomberg,23
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Michael R. Bloomberg,6
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Cory Booker,0
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Cory Booker,0
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Cory Booker,1
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Cory Booker,1
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Cory Booker,1
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Cory Booker,0
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Cory Booker,0
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Cory Booker,0
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Pete Buttigieg,3
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Pete Buttigieg,4
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Pete Buttigieg,3
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Pete Buttigieg,1
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Pete Buttigieg,0
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Pete Buttigieg,1
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Pete Buttigieg,14
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Pete Buttigieg,7
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Pete Buttigieg,5
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Pete Buttigieg,2
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Pete Buttigieg,6
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Pete Buttigieg,2
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Pete Buttigieg,6
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Pete Buttigieg,4
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Pete Buttigieg,3
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Pete Buttigieg,7
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Pete Buttigieg,4
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Pete Buttigieg,1
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Pete Buttigieg,6
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Pete Buttigieg,5
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Pete Buttigieg,5
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Pete Buttigieg,3
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Pete Buttigieg,4
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Pete Buttigieg,2
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Pete Buttigieg,7
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Pete Buttigieg,8
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Julian Castro,1
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Julian Castro,0
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Julian Castro,0
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Julian Castro,0
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Julian Castro,0
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Julian Castro,0
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Julian Castro,0
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,John Delaney,1
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,John Delaney,0
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,John Delaney,0
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,John Delaney,0
+Lapeer,"Almont Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Almont Township, Precinct 2",President,,DEM,John Delaney,0
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Attica Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Attica Township, Precinct 2",President,,DEM,John Delaney,0
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,John Delaney,1
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,John Delaney,0
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,John Delaney,0
+Lapeer,"Elba Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Elba Township, Precinct 2",President,,DEM,John Delaney,0
+Lapeer,"Elba Township, Precinct 3",President,,DEM,John Delaney,0
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,John Delaney,1
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,John Delaney,0
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,John Delaney,0
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,John Delaney,1
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,John Delaney,0
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,John Delaney,0
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,John Delaney,1
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,John Delaney,0
+Lapeer,"Rich Township, Precinct 1",President,,DEM,John Delaney,0
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Tulsi Gabbard,1
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Tulsi Gabbard,0
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Tulsi Gabbard,2
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Tulsi Gabbard,1
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Tulsi Gabbard,1
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Tulsi Gabbard,3
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Tulsi Gabbard,3
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Tulsi Gabbard,1
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Tulsi Gabbard,1
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Tulsi Gabbard,2
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Tulsi Gabbard,2
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Tulsi Gabbard,2
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Tulsi Gabbard,2
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Tulsi Gabbard,4
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Tulsi Gabbard,5
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Tulsi Gabbard,2
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Tulsi Gabbard,1
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Tulsi Gabbard,0
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Amy Klobuchar,0
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Amy Klobuchar,0
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Amy Klobuchar,5
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Amy Klobuchar,1
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Amy Klobuchar,1
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Amy Klobuchar,2
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Amy Klobuchar,3
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Amy Klobuchar,0
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Amy Klobuchar,2
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Amy Klobuchar,4
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Amy Klobuchar,4
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Amy Klobuchar,0
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Amy Klobuchar,3
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Amy Klobuchar,2
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Amy Klobuchar,5
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Amy Klobuchar,3
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Amy Klobuchar,2
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Amy Klobuchar,1
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Amy Klobuchar,5
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Amy Klobuchar,2
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Amy Klobuchar,5
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Bernie Sanders,56
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Bernie Sanders,82
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Bernie Sanders,67
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Bernie Sanders,95
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Bernie Sanders,83
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Bernie Sanders,97
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Bernie Sanders,127
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Bernie Sanders,114
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Bernie Sanders,91
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Bernie Sanders,101
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Bernie Sanders,85
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Bernie Sanders,37
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Bernie Sanders,34
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Bernie Sanders,83
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Bernie Sanders,94
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Bernie Sanders,88
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Bernie Sanders,93
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Bernie Sanders,53
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Bernie Sanders,82
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Bernie Sanders,78
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Bernie Sanders,52
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Bernie Sanders,125
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Bernie Sanders,103
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Bernie Sanders,73
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Bernie Sanders,77
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Bernie Sanders,116
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Bernie Sanders,86
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Bernie Sanders,56
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Bernie Sanders,112
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Bernie Sanders,67
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Bernie Sanders,127
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Bernie Sanders,81
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Bernie Sanders,68
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Bernie Sanders,95
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Bernie Sanders,132
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Bernie Sanders,112
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Bernie Sanders,41
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Joe Sestak,1
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Joe Sestak,0
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Joe Sestak,0
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Joe Sestak,0
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Joe Sestak,0
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Joe Sestak,0
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Joe Sestak,0
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Joe Sestak,0
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Joe Sestak,0
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Joe Sestak,0
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Joe Sestak,0
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Joe Sestak,0
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Joe Sestak,1
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Joe Sestak,1
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Joe Sestak,1
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Joe Sestak,1
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Joe Sestak,0
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Joe Sestak,0
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Joe Sestak,0
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Joe Sestak,0
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Joe Sestak,1
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Joe Sestak,0
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Joe Sestak,0
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Tom Steyer,1
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Tom Steyer,0
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Tom Steyer,0
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Tom Steyer,0
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Tom Steyer,1
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Tom Steyer,0
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Tom Steyer,1
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Tom Steyer,0
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Tom Steyer,0
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Tom Steyer,3
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Tom Steyer,0
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Tom Steyer,0
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Tom Steyer,0
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Tom Steyer,1
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Tom Steyer,0
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Tom Steyer,1
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Tom Steyer,0
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Tom Steyer,0
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Tom Steyer,0
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Tom Steyer,1
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Tom Steyer,0
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Tom Steyer,1
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Tom Steyer,0
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Tom Steyer,0
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Tom Steyer,0
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Tom Steyer,0
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Tom Steyer,0
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Tom Steyer,1
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Tom Steyer,2
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Tom Steyer,3
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Tom Steyer,3
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Tom Steyer,0
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Tom Steyer,1
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Tom Steyer,0
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Tom Steyer,1
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Tom Steyer,0
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Tom Steyer,0
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Elizabeth Warren,5
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Elizabeth Warren,1
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Elizabeth Warren,4
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Elizabeth Warren,3
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Elizabeth Warren,2
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Elizabeth Warren,6
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Elizabeth Warren,7
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Elizabeth Warren,3
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Elizabeth Warren,7
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Elizabeth Warren,1
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Elizabeth Warren,1
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Elizabeth Warren,1
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Elizabeth Warren,4
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Elizabeth Warren,4
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Elizabeth Warren,1
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Elizabeth Warren,3
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Elizabeth Warren,5
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Elizabeth Warren,4
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Elizabeth Warren,1
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Elizabeth Warren,6
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Elizabeth Warren,6
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Elizabeth Warren,4
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Elizabeth Warren,2
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Elizabeth Warren,4
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Elizabeth Warren,5
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Elizabeth Warren,4
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Elizabeth Warren,6
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Elizabeth Warren,7
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Marianne Williamson,0
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Marianne Williamson,2
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Marianne Williamson,0
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Marianne Williamson,0
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Marianne Williamson,1
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Marianne Williamson,1
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Marianne Williamson,1
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Marianne Williamson,1
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Marianne Williamson,1
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Andrew Yang,0
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Andrew Yang,0
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Andrew Yang,0
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Andrew Yang,0
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Andrew Yang,0
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Andrew Yang,1
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Andrew Yang,0
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Andrew Yang,0
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Andrew Yang,1
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Andrew Yang,1
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Andrew Yang,0
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Andrew Yang,0
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Andrew Yang,1
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Andrew Yang,0
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Andrew Yang,0
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Andrew Yang,1
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Andrew Yang,2
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Andrew Yang,1
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Andrew Yang,1
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Andrew Yang,0
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Andrew Yang,2
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Andrew Yang,0
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Andrew Yang,1
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Andrew Yang,0
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Andrew Yang,0
+Lapeer,"City of Imlay City, Precinct 1",President,,DEM,Uncommitted,6
+Lapeer,"City of Imlay City, Precinct 2",President,,DEM,Uncommitted,1
+Lapeer,"City of Lapeer, Precinct 1",President,,DEM,Uncommitted,4
+Lapeer,"City of Lapeer, Precinct 2",President,,DEM,Uncommitted,2
+Lapeer,"City of Lapeer, Precinct 3",President,,DEM,Uncommitted,5
+Lapeer,"City of Lapeer, Precinct 4",President,,DEM,Uncommitted,4
+Lapeer,"Almont Township, Precinct 1",President,,DEM,Uncommitted,5
+Lapeer,"Almont Township, Precinct 2",President,,DEM,Uncommitted,7
+Lapeer,"Arcadia Township, Precinct 1",President,,DEM,Uncommitted,4
+Lapeer,"Attica Township, Precinct 1",President,,DEM,Uncommitted,7
+Lapeer,"Attica Township, Precinct 2",President,,DEM,Uncommitted,8
+Lapeer,"Burlington Township, Precinct 1",President,,DEM,Uncommitted,3
+Lapeer,"Burnside Township, Precinct 1",President,,DEM,Uncommitted,1
+Lapeer,"Deerfield Township, Precinct 1",President,,DEM,Uncommitted,2
+Lapeer,"Deerfield Township, Precinct 2",President,,DEM,Uncommitted,9
+Lapeer,"Dryden Township, Precinct 1",President,,DEM,Uncommitted,6
+Lapeer,"Dryden Township, Precinct 2",President,,DEM,Uncommitted,6
+Lapeer,"Elba Township, Precinct 1",President,,DEM,Uncommitted,4
+Lapeer,"Elba Township, Precinct 2",President,,DEM,Uncommitted,1
+Lapeer,"Elba Township, Precinct 3",President,,DEM,Uncommitted,1
+Lapeer,"Goodland Township, Precinct 1",President,,DEM,Uncommitted,0
+Lapeer,"Hadley Township, Precinct 1",President,,DEM,Uncommitted,4
+Lapeer,"Hadley Township, Precinct 2",President,,DEM,Uncommitted,3
+Lapeer,"Imlay Township, Precinct 1",President,,DEM,Uncommitted,3
+Lapeer,"Lapeer Township, Precinct 1",President,,DEM,Uncommitted,1
+Lapeer,"Lapeer Township, Precinct 2",President,,DEM,Uncommitted,1
+Lapeer,"Marathon Township, Precinct 1",President,,DEM,Uncommitted,10
+Lapeer,"Marathon Township, Precinct 2",President,,DEM,Uncommitted,11
+Lapeer,"Mayfield Township, Precinct 1",President,,DEM,Uncommitted,6
+Lapeer,"Mayfield Township, Precinct 2",President,,DEM,Uncommitted,3
+Lapeer,"Mayfield Township, Precinct 3",President,,DEM,Uncommitted,6
+Lapeer,"Metamora Township, Precinct 1",President,,DEM,Uncommitted,7
+Lapeer,"Metamora Township, Precinct 2",President,,DEM,Uncommitted,3
+Lapeer,"North Branch Township, Precinct 1",President,,DEM,Uncommitted,2
+Lapeer,"Oregon Township, Precinct 1",President,,DEM,Uncommitted,9
+Lapeer,"Oregon Township, Precinct 2",President,,DEM,Uncommitted,13
+Lapeer,"Rich Township, Precinct 1",President,,DEM,Uncommitted,3
+Lapeer,"City of Imlay City, Precinct 1",Ballots Cast,,DEM,,150
+Lapeer,"City of Imlay City, Precinct 2",Ballots Cast,,DEM,,195
+Lapeer,"City of Lapeer, Precinct 1",Ballots Cast,,DEM,,272
+Lapeer,"City of Lapeer, Precinct 2",Ballots Cast,,DEM,,205
+Lapeer,"City of Lapeer, Precinct 3",Ballots Cast,,DEM,,175
+Lapeer,"City of Lapeer, Precinct 4",Ballots Cast,,DEM,,182
+Lapeer,"Almont Township, Precinct 1",Ballots Cast,,DEM,,289
+Lapeer,"Almont Township, Precinct 2",Ballots Cast,,DEM,,372
+Lapeer,"Arcadia Township, Precinct 1",Ballots Cast,,DEM,,288
+Lapeer,"Attica Township, Precinct 1",Ballots Cast,,DEM,,259
+Lapeer,"Attica Township, Precinct 2",Ballots Cast,,DEM,,238
+Lapeer,"Burlington Township, Precinct 1",Ballots Cast,,DEM,,108
+Lapeer,"Burnside Township, Precinct 1",Ballots Cast,,DEM,,87
+Lapeer,"Deerfield Township, Precinct 1",Ballots Cast,,DEM,,241
+Lapeer,"Deerfield Township, Precinct 2",Ballots Cast,,DEM,,282
+Lapeer,"Dryden Township, Precinct 1",Ballots Cast,,DEM,,257
+Lapeer,"Dryden Township, Precinct 2",Ballots Cast,,DEM,,268
+Lapeer,"Elba Township, Precinct 1",Ballots Cast,,DEM,,178
+Lapeer,"Elba Township, Precinct 2",Ballots Cast,,DEM,,235
+Lapeer,"Elba Township, Precinct 3",Ballots Cast,,DEM,,254
+Lapeer,"Goodland Township, Precinct 1",Ballots Cast,,DEM,,148
+Lapeer,"Hadley Township, Precinct 1",Ballots Cast,,DEM,,354
+Lapeer,"Hadley Township, Precinct 2",Ballots Cast,,DEM,,234
+Lapeer,"Imlay Township, Precinct 1",Ballots Cast,,DEM,,252
+Lapeer,"Lapeer Township, Precinct 1",Ballots Cast,,DEM,,231
+Lapeer,"Lapeer Township, Precinct 2",Ballots Cast,,DEM,,358
+Lapeer,"Marathon Township, Precinct 1",Ballots Cast,,DEM,,282
+Lapeer,"Marathon Township, Precinct 2",Ballots Cast,,DEM,,242
+Lapeer,"Mayfield Township, Precinct 1",Ballots Cast,,DEM,,314
+Lapeer,"Mayfield Township, Precinct 2",Ballots Cast,,DEM,,248
+Lapeer,"Mayfield Township, Precinct 3",Ballots Cast,,DEM,,350
+Lapeer,"Metamora Township, Precinct 1",Ballots Cast,,DEM,,266
+Lapeer,"Metamora Township, Precinct 2",Ballots Cast,,DEM,,242
+Lapeer,"North Branch Township, Precinct 1",Ballots Cast,,DEM,,265
+Lapeer,"Oregon Township, Precinct 1",Ballots Cast,,DEM,,394
+Lapeer,"Oregon Township, Precinct 2",Ballots Cast,,DEM,,406
+Lapeer,"Rich Township, Precinct 1",Ballots Cast,,DEM,,115
+Lapeer,"City of Imlay City, Precinct 1",President,,REP,Mark Sanford,1
+Lapeer,"City of Imlay City, Precinct 2",President,,REP,Mark Sanford,0
+Lapeer,"City of Lapeer, Precinct 1",President,,REP,Mark Sanford,0
+Lapeer,"City of Lapeer, Precinct 2",President,,REP,Mark Sanford,2
+Lapeer,"City of Lapeer, Precinct 3",President,,REP,Mark Sanford,1
+Lapeer,"City of Lapeer, Precinct 4",President,,REP,Mark Sanford,0
+Lapeer,"Almont Township, Precinct 1",President,,REP,Mark Sanford,1
+Lapeer,"Almont Township, Precinct 2",President,,REP,Mark Sanford,2
+Lapeer,"Arcadia Township, Precinct 1",President,,REP,Mark Sanford,2
+Lapeer,"Attica Township, Precinct 1",President,,REP,Mark Sanford,1
+Lapeer,"Attica Township, Precinct 2",President,,REP,Mark Sanford,0
+Lapeer,"Burlington Township, Precinct 1",President,,REP,Mark Sanford,0
+Lapeer,"Burnside Township, Precinct 1",President,,REP,Mark Sanford,0
+Lapeer,"Deerfield Township, Precinct 1",President,,REP,Mark Sanford,0
+Lapeer,"Deerfield Township, Precinct 2",President,,REP,Mark Sanford,1
+Lapeer,"Dryden Township, Precinct 1",President,,REP,Mark Sanford,1
+Lapeer,"Dryden Township, Precinct 2",President,,REP,Mark Sanford,4
+Lapeer,"Elba Township, Precinct 1",President,,REP,Mark Sanford,0
+Lapeer,"Elba Township, Precinct 2",President,,REP,Mark Sanford,0
+Lapeer,"Elba Township, Precinct 3",President,,REP,Mark Sanford,1
+Lapeer,"Goodland Township, Precinct 1",President,,REP,Mark Sanford,0
+Lapeer,"Hadley Township, Precinct 1",President,,REP,Mark Sanford,0
+Lapeer,"Hadley Township, Precinct 2",President,,REP,Mark Sanford,1
+Lapeer,"Imlay Township, Precinct 1",President,,REP,Mark Sanford,0
+Lapeer,"Lapeer Township, Precinct 1",President,,REP,Mark Sanford,2
+Lapeer,"Lapeer Township, Precinct 2",President,,REP,Mark Sanford,1
+Lapeer,"Marathon Township, Precinct 1",President,,REP,Mark Sanford,0
+Lapeer,"Marathon Township, Precinct 2",President,,REP,Mark Sanford,0
+Lapeer,"Mayfield Township, Precinct 1",President,,REP,Mark Sanford,2
+Lapeer,"Mayfield Township, Precinct 2",President,,REP,Mark Sanford,0
+Lapeer,"Mayfield Township, Precinct 3",President,,REP,Mark Sanford,2
+Lapeer,"Metamora Township, Precinct 1",President,,REP,Mark Sanford,2
+Lapeer,"Metamora Township, Precinct 2",President,,REP,Mark Sanford,0
+Lapeer,"North Branch Township, Precinct 1",President,,REP,Mark Sanford,3
+Lapeer,"Oregon Township, Precinct 1",President,,REP,Mark Sanford,0
+Lapeer,"Oregon Township, Precinct 2",President,,REP,Mark Sanford,0
+Lapeer,"Rich Township, Precinct 1",President,,REP,Mark Sanford,0
+Lapeer,"City of Imlay City, Precinct 1",President,,REP,Donald J. Trump,92
+Lapeer,"City of Imlay City, Precinct 2",President,,REP,Donald J. Trump,116
+Lapeer,"City of Lapeer, Precinct 1",President,,REP,Donald J. Trump,160
+Lapeer,"City of Lapeer, Precinct 2",President,,REP,Donald J. Trump,100
+Lapeer,"City of Lapeer, Precinct 3",President,,REP,Donald J. Trump,93
+Lapeer,"City of Lapeer, Precinct 4",President,,REP,Donald J. Trump,80
+Lapeer,"Almont Township, Precinct 1",President,,REP,Donald J. Trump,284
+Lapeer,"Almont Township, Precinct 2",President,,REP,Donald J. Trump,378
+Lapeer,"Arcadia Township, Precinct 1",President,,REP,Donald J. Trump,347
+Lapeer,"Attica Township, Precinct 1",President,,REP,Donald J. Trump,292
+Lapeer,"Attica Township, Precinct 2",President,,REP,Donald J. Trump,230
+Lapeer,"Burlington Township, Precinct 1",President,,REP,Donald J. Trump,106
+Lapeer,"Burnside Township, Precinct 1",President,,REP,Donald J. Trump,176
+Lapeer,"Deerfield Township, Precinct 1",President,,REP,Donald J. Trump,250
+Lapeer,"Deerfield Township, Precinct 2",President,,REP,Donald J. Trump,219
+Lapeer,"Dryden Township, Precinct 1",President,,REP,Donald J. Trump,284
+Lapeer,"Dryden Township, Precinct 2",President,,REP,Donald J. Trump,318
+Lapeer,"Elba Township, Precinct 1",President,,REP,Donald J. Trump,132
+Lapeer,"Elba Township, Precinct 2",President,,REP,Donald J. Trump,186
+Lapeer,"Elba Township, Precinct 3",President,,REP,Donald J. Trump,278
+Lapeer,"Goodland Township, Precinct 1",President,,REP,Donald J. Trump,189
+Lapeer,"Hadley Township, Precinct 1",President,,REP,Donald J. Trump,282
+Lapeer,"Hadley Township, Precinct 2",President,,REP,Donald J. Trump,168
+Lapeer,"Imlay Township, Precinct 1",President,,REP,Donald J. Trump,318
+Lapeer,"Lapeer Township, Precinct 1",President,,REP,Donald J. Trump,222
+Lapeer,"Lapeer Township, Precinct 2",President,,REP,Donald J. Trump,275
+Lapeer,"Marathon Township, Precinct 1",President,,REP,Donald J. Trump,185
+Lapeer,"Marathon Township, Precinct 2",President,,REP,Donald J. Trump,191
+Lapeer,"Mayfield Township, Precinct 1",President,,REP,Donald J. Trump,240
+Lapeer,"Mayfield Township, Precinct 2",President,,REP,Donald J. Trump,212
+Lapeer,"Mayfield Township, Precinct 3",President,,REP,Donald J. Trump,276
+Lapeer,"Metamora Township, Precinct 1",President,,REP,Donald J. Trump,265
+Lapeer,"Metamora Township, Precinct 2",President,,REP,Donald J. Trump,177
+Lapeer,"North Branch Township, Precinct 1",President,,REP,Donald J. Trump,284
+Lapeer,"Oregon Township, Precinct 1",President,,REP,Donald J. Trump,278
+Lapeer,"Oregon Township, Precinct 2",President,,REP,Donald J. Trump,242
+Lapeer,"Rich Township, Precinct 1",President,,REP,Donald J. Trump,136
+Lapeer,"City of Imlay City, Precinct 1",President,,REP,Joe Walsh,0
+Lapeer,"City of Imlay City, Precinct 2",President,,REP,Joe Walsh,0
+Lapeer,"City of Lapeer, Precinct 1",President,,REP,Joe Walsh,1
+Lapeer,"City of Lapeer, Precinct 2",President,,REP,Joe Walsh,0
+Lapeer,"City of Lapeer, Precinct 3",President,,REP,Joe Walsh,0
+Lapeer,"City of Lapeer, Precinct 4",President,,REP,Joe Walsh,1
+Lapeer,"Almont Township, Precinct 1",President,,REP,Joe Walsh,0
+Lapeer,"Almont Township, Precinct 2",President,,REP,Joe Walsh,2
+Lapeer,"Arcadia Township, Precinct 1",President,,REP,Joe Walsh,1
+Lapeer,"Attica Township, Precinct 1",President,,REP,Joe Walsh,0
+Lapeer,"Attica Township, Precinct 2",President,,REP,Joe Walsh,2
+Lapeer,"Burlington Township, Precinct 1",President,,REP,Joe Walsh,1
+Lapeer,"Burnside Township, Precinct 1",President,,REP,Joe Walsh,1
+Lapeer,"Deerfield Township, Precinct 1",President,,REP,Joe Walsh,1
+Lapeer,"Deerfield Township, Precinct 2",President,,REP,Joe Walsh,1
+Lapeer,"Dryden Township, Precinct 1",President,,REP,Joe Walsh,1
+Lapeer,"Dryden Township, Precinct 2",President,,REP,Joe Walsh,1
+Lapeer,"Elba Township, Precinct 1",President,,REP,Joe Walsh,1
+Lapeer,"Elba Township, Precinct 2",President,,REP,Joe Walsh,2
+Lapeer,"Elba Township, Precinct 3",President,,REP,Joe Walsh,0
+Lapeer,"Goodland Township, Precinct 1",President,,REP,Joe Walsh,2
+Lapeer,"Hadley Township, Precinct 1",President,,REP,Joe Walsh,2
+Lapeer,"Hadley Township, Precinct 2",President,,REP,Joe Walsh,1
+Lapeer,"Imlay Township, Precinct 1",President,,REP,Joe Walsh,2
+Lapeer,"Lapeer Township, Precinct 1",President,,REP,Joe Walsh,1
+Lapeer,"Lapeer Township, Precinct 2",President,,REP,Joe Walsh,3
+Lapeer,"Marathon Township, Precinct 1",President,,REP,Joe Walsh,0
+Lapeer,"Marathon Township, Precinct 2",President,,REP,Joe Walsh,0
+Lapeer,"Mayfield Township, Precinct 1",President,,REP,Joe Walsh,1
+Lapeer,"Mayfield Township, Precinct 2",President,,REP,Joe Walsh,0
+Lapeer,"Mayfield Township, Precinct 3",President,,REP,Joe Walsh,1
+Lapeer,"Metamora Township, Precinct 1",President,,REP,Joe Walsh,0
+Lapeer,"Metamora Township, Precinct 2",President,,REP,Joe Walsh,2
+Lapeer,"North Branch Township, Precinct 1",President,,REP,Joe Walsh,2
+Lapeer,"Oregon Township, Precinct 1",President,,REP,Joe Walsh,2
+Lapeer,"Oregon Township, Precinct 2",President,,REP,Joe Walsh,2
+Lapeer,"Rich Township, Precinct 1",President,,REP,Joe Walsh,1
+Lapeer,"City of Imlay City, Precinct 1",President,,REP,Bill Weld,0
+Lapeer,"City of Imlay City, Precinct 2",President,,REP,Bill Weld,1
+Lapeer,"City of Lapeer, Precinct 1",President,,REP,Bill Weld,1
+Lapeer,"City of Lapeer, Precinct 2",President,,REP,Bill Weld,1
+Lapeer,"City of Lapeer, Precinct 3",President,,REP,Bill Weld,1
+Lapeer,"City of Lapeer, Precinct 4",President,,REP,Bill Weld,3
+Lapeer,"Almont Township, Precinct 1",President,,REP,Bill Weld,2
+Lapeer,"Almont Township, Precinct 2",President,,REP,Bill Weld,3
+Lapeer,"Arcadia Township, Precinct 1",President,,REP,Bill Weld,4
+Lapeer,"Attica Township, Precinct 1",President,,REP,Bill Weld,1
+Lapeer,"Attica Township, Precinct 2",President,,REP,Bill Weld,2
+Lapeer,"Burlington Township, Precinct 1",President,,REP,Bill Weld,2
+Lapeer,"Burnside Township, Precinct 1",President,,REP,Bill Weld,1
+Lapeer,"Deerfield Township, Precinct 1",President,,REP,Bill Weld,2
+Lapeer,"Deerfield Township, Precinct 2",President,,REP,Bill Weld,0
+Lapeer,"Dryden Township, Precinct 1",President,,REP,Bill Weld,1
+Lapeer,"Dryden Township, Precinct 2",President,,REP,Bill Weld,2
+Lapeer,"Elba Township, Precinct 1",President,,REP,Bill Weld,0
+Lapeer,"Elba Township, Precinct 2",President,,REP,Bill Weld,0
+Lapeer,"Elba Township, Precinct 3",President,,REP,Bill Weld,1
+Lapeer,"Goodland Township, Precinct 1",President,,REP,Bill Weld,0
+Lapeer,"Hadley Township, Precinct 1",President,,REP,Bill Weld,1
+Lapeer,"Hadley Township, Precinct 2",President,,REP,Bill Weld,2
+Lapeer,"Imlay Township, Precinct 1",President,,REP,Bill Weld,4
+Lapeer,"Lapeer Township, Precinct 1",President,,REP,Bill Weld,2
+Lapeer,"Lapeer Township, Precinct 2",President,,REP,Bill Weld,2
+Lapeer,"Marathon Township, Precinct 1",President,,REP,Bill Weld,1
+Lapeer,"Marathon Township, Precinct 2",President,,REP,Bill Weld,0
+Lapeer,"Mayfield Township, Precinct 1",President,,REP,Bill Weld,3
+Lapeer,"Mayfield Township, Precinct 2",President,,REP,Bill Weld,0
+Lapeer,"Mayfield Township, Precinct 3",President,,REP,Bill Weld,3
+Lapeer,"Metamora Township, Precinct 1",President,,REP,Bill Weld,2
+Lapeer,"Metamora Township, Precinct 2",President,,REP,Bill Weld,0
+Lapeer,"North Branch Township, Precinct 1",President,,REP,Bill Weld,1
+Lapeer,"Oregon Township, Precinct 1",President,,REP,Bill Weld,1
+Lapeer,"Oregon Township, Precinct 2",President,,REP,Bill Weld,5
+Lapeer,"Rich Township, Precinct 1",President,,REP,Bill Weld,0
+Lapeer,"City of Imlay City, Precinct 1",President,,REP,Uncommitted,2
+Lapeer,"City of Imlay City, Precinct 2",President,,REP,Uncommitted,7
+Lapeer,"City of Lapeer, Precinct 1",President,,REP,Uncommitted,3
+Lapeer,"City of Lapeer, Precinct 2",President,,REP,Uncommitted,3
+Lapeer,"City of Lapeer, Precinct 3",President,,REP,Uncommitted,6
+Lapeer,"City of Lapeer, Precinct 4",President,,REP,Uncommitted,4
+Lapeer,"Almont Township, Precinct 1",President,,REP,Uncommitted,9
+Lapeer,"Almont Township, Precinct 2",President,,REP,Uncommitted,18
+Lapeer,"Arcadia Township, Precinct 1",President,,REP,Uncommitted,10
+Lapeer,"Attica Township, Precinct 1",President,,REP,Uncommitted,4
+Lapeer,"Attica Township, Precinct 2",President,,REP,Uncommitted,9
+Lapeer,"Burlington Township, Precinct 1",President,,REP,Uncommitted,3
+Lapeer,"Burnside Township, Precinct 1",President,,REP,Uncommitted,2
+Lapeer,"Deerfield Township, Precinct 1",President,,REP,Uncommitted,9
+Lapeer,"Deerfield Township, Precinct 2",President,,REP,Uncommitted,9
+Lapeer,"Dryden Township, Precinct 1",President,,REP,Uncommitted,11
+Lapeer,"Dryden Township, Precinct 2",President,,REP,Uncommitted,9
+Lapeer,"Elba Township, Precinct 1",President,,REP,Uncommitted,4
+Lapeer,"Elba Township, Precinct 2",President,,REP,Uncommitted,8
+Lapeer,"Elba Township, Precinct 3",President,,REP,Uncommitted,3
+Lapeer,"Goodland Township, Precinct 1",President,,REP,Uncommitted,3
+Lapeer,"Hadley Township, Precinct 1",President,,REP,Uncommitted,2
+Lapeer,"Hadley Township, Precinct 2",President,,REP,Uncommitted,3
+Lapeer,"Imlay Township, Precinct 1",President,,REP,Uncommitted,7
+Lapeer,"Lapeer Township, Precinct 1",President,,REP,Uncommitted,13
+Lapeer,"Lapeer Township, Precinct 2",President,,REP,Uncommitted,7
+Lapeer,"Marathon Township, Precinct 1",President,,REP,Uncommitted,5
+Lapeer,"Marathon Township, Precinct 2",President,,REP,Uncommitted,5
+Lapeer,"Mayfield Township, Precinct 1",President,,REP,Uncommitted,6
+Lapeer,"Mayfield Township, Precinct 2",President,,REP,Uncommitted,2
+Lapeer,"Mayfield Township, Precinct 3",President,,REP,Uncommitted,5
+Lapeer,"Metamora Township, Precinct 1",President,,REP,Uncommitted,9
+Lapeer,"Metamora Township, Precinct 2",President,,REP,Uncommitted,3
+Lapeer,"North Branch Township, Precinct 1",President,,REP,Uncommitted,4
+Lapeer,"Oregon Township, Precinct 1",President,,REP,Uncommitted,6
+Lapeer,"Oregon Township, Precinct 2",President,,REP,Uncommitted,5
+Lapeer,"Rich Township, Precinct 1",President,,REP,Uncommitted,2
+Lapeer,"City of Imlay City, Precinct 1",Ballots Cast,,REP,,95
+Lapeer,"City of Imlay City, Precinct 2",Ballots Cast,,REP,,124
+Lapeer,"City of Lapeer, Precinct 1",Ballots Cast,,REP,,165
+Lapeer,"City of Lapeer, Precinct 2",Ballots Cast,,REP,,106
+Lapeer,"City of Lapeer, Precinct 3",Ballots Cast,,REP,,101
+Lapeer,"City of Lapeer, Precinct 4",Ballots Cast,,REP,,88
+Lapeer,"Almont Township, Precinct 1",Ballots Cast,,REP,,296
+Lapeer,"Almont Township, Precinct 2",Ballots Cast,,REP,,403
+Lapeer,"Arcadia Township, Precinct 1",Ballots Cast,,REP,,364
+Lapeer,"Attica Township, Precinct 1",Ballots Cast,,REP,,298
+Lapeer,"Attica Township, Precinct 2",Ballots Cast,,REP,,243
+Lapeer,"Burlington Township, Precinct 1",Ballots Cast,,REP,,112
+Lapeer,"Burnside Township, Precinct 1",Ballots Cast,,REP,,180
+Lapeer,"Deerfield Township, Precinct 1",Ballots Cast,,REP,,262
+Lapeer,"Deerfield Township, Precinct 2",Ballots Cast,,REP,,230
+Lapeer,"Dryden Township, Precinct 1",Ballots Cast,,REP,,298
+Lapeer,"Dryden Township, Precinct 2",Ballots Cast,,REP,,334
+Lapeer,"Elba Township, Precinct 1",Ballots Cast,,REP,,137
+Lapeer,"Elba Township, Precinct 2",Ballots Cast,,REP,,196
+Lapeer,"Elba Township, Precinct 3",Ballots Cast,,REP,,283
+Lapeer,"Goodland Township, Precinct 1",Ballots Cast,,REP,,194
+Lapeer,"Hadley Township, Precinct 1",Ballots Cast,,REP,,287
+Lapeer,"Hadley Township, Precinct 2",Ballots Cast,,REP,,175
+Lapeer,"Imlay Township, Precinct 1",Ballots Cast,,REP,,331
+Lapeer,"Lapeer Township, Precinct 1",Ballots Cast,,REP,,240
+Lapeer,"Lapeer Township, Precinct 2",Ballots Cast,,REP,,288
+Lapeer,"Marathon Township, Precinct 1",Ballots Cast,,REP,,191
+Lapeer,"Marathon Township, Precinct 2",Ballots Cast,,REP,,196
+Lapeer,"Mayfield Township, Precinct 1",Ballots Cast,,REP,,252
+Lapeer,"Mayfield Township, Precinct 2",Ballots Cast,,REP,,214
+Lapeer,"Mayfield Township, Precinct 3",Ballots Cast,,REP,,287
+Lapeer,"Metamora Township, Precinct 1",Ballots Cast,,REP,,278
+Lapeer,"Metamora Township, Precinct 2",Ballots Cast,,REP,,182
+Lapeer,"North Branch Township, Precinct 1",Ballots Cast,,REP,,294
+Lapeer,"Oregon Township, Precinct 1",Ballots Cast,,REP,,287
+Lapeer,"Oregon Township, Precinct 2",Ballots Cast,,REP,,254
+Lapeer,"Rich Township, Precinct 1",Ballots Cast,,REP,,139
+Lapeer,"Hadley Township, Precinct 1",Brandon School District Bonding Proposal,,,Yes,33
+Lapeer,"Hadley Township, Precinct 1",Brandon School District Bonding Proposal,,,No,39
+Lapeer,"Hadley Township, Precinct 2",Brandon School District Bonding Proposal,,,Yes,18
+Lapeer,"Hadley Township, Precinct 2",Brandon School District Bonding Proposal,,,No,16
+Lapeer,"Elba Township, Precinct 1",Davison Community Schools Bonding Proposal,,,Yes,0
+Lapeer,"Elba Township, Precinct 1",Davison Community Schools Bonding Proposal,,,No,0
+Lapeer,"Elba Township, Precinct 2",Davison Community Schools Bonding Proposal,,,Yes,3
+Lapeer,"Elba Township, Precinct 2",Davison Community Schools Bonding Proposal,,,No,1
+Lapeer,"Elba Township, Precinct 3",Davison Community Schools Bonding Proposal,,,Yes,1
+Lapeer,"Elba Township, Precinct 3",Davison Community Schools Bonding Proposal,,,No,15
+Lapeer,"Oregon Township, Precinct 2",Davison Community Schools Bonding Proposal,,,Yes,6
+Lapeer,"Oregon Township, Precinct 2",Davison Community Schools Bonding Proposal,,,No,0
+Lapeer,"Burlington Township, Precinct 1",Marlette Community Schools Operating Millage Renewal,,,Yes,74
+Lapeer,"Burlington Township, Precinct 1",Marlette Community Schools Operating Millage Renewal,,,No,21
+Lapeer,"Burnside Township, Precinct 1",Marlette Community Schools Operating Millage Renewal,,,Yes,40
+Lapeer,"Burnside Township, Precinct 1",Marlette Community Schools Operating Millage Renewal,,,No,24
+Lapeer,"Deerfield Township, Precinct 2",Mott Community College Bond Proposition,,,Yes,41
+Lapeer,"Deerfield Township, Precinct 2",Mott Community College Bond Proposition,,,No,42
+Lapeer,"Elba Township, Precinct 1",Mott Community College Bond Proposition,,,Yes,0
+Lapeer,"Elba Township, Precinct 1",Mott Community College Bond Proposition,,,No,0
+Lapeer,"Elba Township, Precinct 2",Mott Community College Bond Proposition,,,Yes,1
+Lapeer,"Elba Township, Precinct 2",Mott Community College Bond Proposition,,,No,3
+Lapeer,"Elba Township, Precinct 3",Mott Community College Bond Proposition,,,Yes,1
+Lapeer,"Elba Township, Precinct 3",Mott Community College Bond Proposition,,,No,15
+Lapeer,"Hadley Township, Precinct 1",Mott Community College Bond Proposition,,,Yes,22
+Lapeer,"Hadley Township, Precinct 1",Mott Community College Bond Proposition,,,No,15
+Lapeer,"Hadley Township, Precinct 2",Mott Community College Bond Proposition,,,Yes,108
+Lapeer,"Hadley Township, Precinct 2",Mott Community College Bond Proposition,,,No,110
+Lapeer,"Marathon Township, Precinct 1",Mott Community College Bond Proposition,,,Yes,218
+Lapeer,"Marathon Township, Precinct 1",Mott Community College Bond Proposition,,,No,246
+Lapeer,"Marathon Township, Precinct 2",Mott Community College Bond Proposition,,,Yes,168
+Lapeer,"Marathon Township, Precinct 2",Mott Community College Bond Proposition,,,No,269
+Lapeer,"Oregon Township, Precinct 1",Mott Community College Bond Proposition,,,Yes,25
+Lapeer,"Oregon Township, Precinct 1",Mott Community College Bond Proposition,,,No,39
+Lapeer,"Oregon Township, Precinct 2",Mott Community College Bond Proposition,,,Yes,41
+Lapeer,"Oregon Township, Precinct 2",Mott Community College Bond Proposition,,,No,73
