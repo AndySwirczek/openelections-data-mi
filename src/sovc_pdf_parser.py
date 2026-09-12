@@ -925,13 +925,18 @@ class Contest:
                         merged[-1][2].setdefault(i, v)
                 continue
             if label.endswith((',', 'Precinct', 'Township', 'Ward', 'Charter')):
-                if (merged and merged[-1][1] and not merged[-1][2]
+                if (not cells and merged and merged[-1][1]
+                        and not merged[-1][2]
                         and not merged[-1][0][-1].isdigit()
                         and not merged[-1][0].endswith(')')):
                     # Oceana 2024's deep wrap: the precinct's main cells
                     # print on the label's first line ('Benona'), its Times
                     # Cast/Registered cells on the middle fragment
                     # ('Township,'), and 'Precinct 1' completes the label.
+                    # Barry 2020's write-in pages instead print a wrapped
+                    # label CARRYING its own cells ('Hastings Township,
+                    # Precinct' + write-in votes + '1') — that is a data
+                    # row of its own, not a weldable fragment.
                     merged[-1][0] += ' ' + label
                     merged[-1][2].update(aux_cells)
                     continue
