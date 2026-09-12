@@ -1,0 +1,612 @@
+county,precinct,office,district,party,candidate,votes
+Baraga,"Arvon Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,31
+Baraga,"Arvon Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,31
+Baraga,"Baraga Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,95
+Baraga,"Baraga Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,95
+Baraga,"Baraga Township, Precinct 2",U.S. Senate,,DEM,Gary Peters,31
+Baraga,"Baraga Township, Precinct 2",U.S. Senate,,DEM,Ballots Cast,31
+Baraga,"Baraga Township, Precinct 3",U.S. Senate,,DEM,Gary Peters,29
+Baraga,"Baraga Township, Precinct 3",U.S. Senate,,DEM,Ballots Cast,29
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,DEM,Gary Peters,39
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,DEM,Write-In,2
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,DEM,Ballots Cast,41
+Baraga,"Covington Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,35
+Baraga,"Covington Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,35
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,262
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,262
+Baraga,"Spurr Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,50
+Baraga,"Spurr Township, Precinct 1",U.S. Senate,,DEM,Ballots Cast,50
+Baraga,"Arvon Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,18
+Baraga,"Arvon Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,14
+Baraga,"Arvon Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,32
+Baraga,"Baraga Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,55
+Baraga,"Baraga Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,39
+Baraga,"Baraga Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,94
+Baraga,"Baraga Township, Precinct 2",U.S. House,1,DEM,Dana Ferguson,21
+Baraga,"Baraga Township, Precinct 2",U.S. House,1,DEM,Linda O'Dell,10
+Baraga,"Baraga Township, Precinct 2",U.S. House,1,DEM,Ballots Cast,31
+Baraga,"Baraga Township, Precinct 3",U.S. House,1,DEM,Dana Ferguson,20
+Baraga,"Baraga Township, Precinct 3",U.S. House,1,DEM,Linda O'Dell,7
+Baraga,"Baraga Township, Precinct 3",U.S. House,1,DEM,Ballots Cast,27
+Baraga,"Baraga Township, Precinct 4",U.S. House,1,DEM,Dana Ferguson,31
+Baraga,"Baraga Township, Precinct 4",U.S. House,1,DEM,Linda O'Dell,10
+Baraga,"Baraga Township, Precinct 4",U.S. House,1,DEM,Write-In,1
+Baraga,"Baraga Township, Precinct 4",U.S. House,1,DEM,Ballots Cast,42
+Baraga,"Covington Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,13
+Baraga,"Covington Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,19
+Baraga,"Covington Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,32
+Baraga,"L'Anse Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,190
+Baraga,"L'Anse Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,64
+Baraga,"L'Anse Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,254
+Baraga,"Spurr Township, Precinct 1",U.S. House,1,DEM,Dana Ferguson,36
+Baraga,"Spurr Township, Precinct 1",U.S. House,1,DEM,Linda O'Dell,13
+Baraga,"Spurr Township, Precinct 1",U.S. House,1,DEM,Ballots Cast,49
+Baraga,"Arvon Township, Precinct 1",State House,110,DEM,Janet Metsa,27
+Baraga,"Arvon Township, Precinct 1",State House,110,DEM,Lawrence Dale,4
+Baraga,"Arvon Township, Precinct 1",State House,110,DEM,Ballots Cast,31
+Baraga,"Baraga Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,17
+Baraga,"Baraga Township, Precinct 1",State House,110,DEM,Janet Metsa,63
+Baraga,"Baraga Township, Precinct 1",State House,110,DEM,Lawrence Dale,14
+Baraga,"Baraga Township, Precinct 1",State House,110,DEM,Ballots Cast,94
+Baraga,"Baraga Township, Precinct 2",State House,110,DEM,Casey VerBerkmoes,2
+Baraga,"Baraga Township, Precinct 2",State House,110,DEM,Janet Metsa,27
+Baraga,"Baraga Township, Precinct 2",State House,110,DEM,Lawrence Dale,2
+Baraga,"Baraga Township, Precinct 2",State House,110,DEM,Ballots Cast,31
+Baraga,"Baraga Township, Precinct 3",State House,110,DEM,Casey VerBerkmoes,1
+Baraga,"Baraga Township, Precinct 3",State House,110,DEM,Janet Metsa,20
+Baraga,"Baraga Township, Precinct 3",State House,110,DEM,Lawrence Dale,5
+Baraga,"Baraga Township, Precinct 3",State House,110,DEM,Ballots Cast,26
+Baraga,"Baraga Township, Precinct 4",State House,110,DEM,Casey VerBerkmoes,7
+Baraga,"Baraga Township, Precinct 4",State House,110,DEM,Janet Metsa,27
+Baraga,"Baraga Township, Precinct 4",State House,110,DEM,Lawrence Dale,7
+Baraga,"Baraga Township, Precinct 4",State House,110,DEM,Write-In,1
+Baraga,"Baraga Township, Precinct 4",State House,110,DEM,Ballots Cast,42
+Baraga,"Covington Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,3
+Baraga,"Covington Township, Precinct 1",State House,110,DEM,Janet Metsa,21
+Baraga,"Covington Township, Precinct 1",State House,110,DEM,Lawrence Dale,8
+Baraga,"Covington Township, Precinct 1",State House,110,DEM,Ballots Cast,32
+Baraga,"L'Anse Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,13
+Baraga,"L'Anse Township, Precinct 1",State House,110,DEM,Janet Metsa,191
+Baraga,"L'Anse Township, Precinct 1",State House,110,DEM,Lawrence Dale,49
+Baraga,"L'Anse Township, Precinct 1",State House,110,DEM,Write-In,1
+Baraga,"L'Anse Township, Precinct 1",State House,110,DEM,Ballots Cast,254
+Baraga,"Spurr Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,6
+Baraga,"Spurr Township, Precinct 1",State House,110,DEM,Janet Metsa,27
+Baraga,"Spurr Township, Precinct 1",State House,110,DEM,Lawrence Dale,10
+Baraga,"Spurr Township, Precinct 1",State House,110,DEM,Ballots Cast,43
+Baraga,"Arvon Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,3
+Baraga,"Arvon Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,3
+Baraga,"Baraga Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,13
+Baraga,"Baraga Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,13
+Baraga,"Baraga Township, Precinct 2",County Prosecuting Attorney,,DEM,Write-In,2
+Baraga,"Baraga Township, Precinct 2",County Prosecuting Attorney,,DEM,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 3",County Prosecuting Attorney,,DEM,Write-In,3
+Baraga,"Baraga Township, Precinct 3",County Prosecuting Attorney,,DEM,Ballots Cast,3
+Baraga,"Baraga Township, Precinct 4",County Prosecuting Attorney,,DEM,Write-In,5
+Baraga,"Baraga Township, Precinct 4",County Prosecuting Attorney,,DEM,Ballots Cast,5
+Baraga,"Covington Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,4
+Baraga,"Covington Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,4
+Baraga,"L'Anse Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,18
+Baraga,"L'Anse Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,18
+Baraga,"Spurr Township, Precinct 1",County Prosecuting Attorney,,DEM,Write-In,7
+Baraga,"Spurr Township, Precinct 1",County Prosecuting Attorney,,DEM,Ballots Cast,7
+Baraga,"Arvon Township, Precinct 1",County Sheriff,,DEM,Write-In,2
+Baraga,"Arvon Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 1",County Sheriff,,DEM,Write-In,14
+Baraga,"Baraga Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,14
+Baraga,"Baraga Township, Precinct 2",County Sheriff,,DEM,Write-In,1
+Baraga,"Baraga Township, Precinct 2",County Sheriff,,DEM,Ballots Cast,1
+Baraga,"Baraga Township, Precinct 3",County Sheriff,,DEM,Write-In,3
+Baraga,"Baraga Township, Precinct 3",County Sheriff,,DEM,Ballots Cast,3
+Baraga,"Baraga Township, Precinct 4",County Sheriff,,DEM,Write-In,5
+Baraga,"Baraga Township, Precinct 4",County Sheriff,,DEM,Ballots Cast,5
+Baraga,"Covington Township, Precinct 1",County Sheriff,,DEM,Write-In,3
+Baraga,"Covington Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,3
+Baraga,"L'Anse Township, Precinct 1",County Sheriff,,DEM,Write-In,18
+Baraga,"L'Anse Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,18
+Baraga,"Spurr Township, Precinct 1",County Sheriff,,DEM,Write-In,5
+Baraga,"Spurr Township, Precinct 1",County Sheriff,,DEM,Ballots Cast,5
+Baraga,"Arvon Township, Precinct 1",County Clerk,,DEM,Tammy J. Magaraggia,27
+Baraga,"Arvon Township, Precinct 1",County Clerk,,DEM,Ballots Cast,27
+Baraga,"Baraga Township, Precinct 1",County Clerk,,DEM,Tammy J. Magaraggia,87
+Baraga,"Baraga Township, Precinct 1",County Clerk,,DEM,Ballots Cast,87
+Baraga,"Baraga Township, Precinct 2",County Clerk,,DEM,Tammy J. Magaraggia,25
+Baraga,"Baraga Township, Precinct 2",County Clerk,,DEM,Ballots Cast,25
+Baraga,"Baraga Township, Precinct 3",County Clerk,,DEM,Tammy J. Magaraggia,28
+Baraga,"Baraga Township, Precinct 3",County Clerk,,DEM,Ballots Cast,28
+Baraga,"Baraga Township, Precinct 4",County Clerk,,DEM,Tammy J. Magaraggia,31
+Baraga,"Baraga Township, Precinct 4",County Clerk,,DEM,Ballots Cast,31
+Baraga,"Covington Township, Precinct 1",County Clerk,,DEM,Tammy J. Magaraggia,31
+Baraga,"Covington Township, Precinct 1",County Clerk,,DEM,Ballots Cast,31
+Baraga,"L'Anse Township, Precinct 1",County Clerk,,DEM,Tammy J. Magaraggia,213
+Baraga,"L'Anse Township, Precinct 1",County Clerk,,DEM,Write-In,1
+Baraga,"L'Anse Township, Precinct 1",County Clerk,,DEM,Ballots Cast,214
+Baraga,"Spurr Township, Precinct 1",County Clerk,,DEM,Tammy J. Magaraggia,43
+Baraga,"Spurr Township, Precinct 1",County Clerk,,DEM,Ballots Cast,43
+Baraga,"Arvon Township, Precinct 1",County Treasurer,,DEM,Write-In,2
+Baraga,"Arvon Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 1",County Treasurer,,DEM,Write-In,9
+Baraga,"Baraga Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,9
+Baraga,"Baraga Township, Precinct 2",County Treasurer,,DEM,Write-In,2
+Baraga,"Baraga Township, Precinct 2",County Treasurer,,DEM,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 3",County Treasurer,,DEM,Write-In,3
+Baraga,"Baraga Township, Precinct 3",County Treasurer,,DEM,Ballots Cast,3
+Baraga,"Baraga Township, Precinct 4",County Treasurer,,DEM,Write-In,5
+Baraga,"Baraga Township, Precinct 4",County Treasurer,,DEM,Ballots Cast,5
+Baraga,"Covington Township, Precinct 1",County Treasurer,,DEM,Write-In,4
+Baraga,"Covington Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,4
+Baraga,"L'Anse Township, Precinct 1",County Treasurer,,DEM,Write-In,15
+Baraga,"L'Anse Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,15
+Baraga,"Spurr Township, Precinct 1",County Treasurer,,DEM,Write-In,5
+Baraga,"Spurr Township, Precinct 1",County Treasurer,,DEM,Ballots Cast,5
+Baraga,"Arvon Township, Precinct 1",County Mine Inspector,,DEM,Write-In,2
+Baraga,"Arvon Township, Precinct 1",County Mine Inspector,,DEM,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 1",County Mine Inspector,,DEM,Write-In,10
+Baraga,"Baraga Township, Precinct 1",County Mine Inspector,,DEM,Ballots Cast,10
+Baraga,"Baraga Township, Precinct 2",County Mine Inspector,,DEM,Write-In,2
+Baraga,"Baraga Township, Precinct 2",County Mine Inspector,,DEM,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 3",County Mine Inspector,,DEM,Write-In,3
+Baraga,"Baraga Township, Precinct 3",County Mine Inspector,,DEM,Ballots Cast,3
+Baraga,"Baraga Township, Precinct 4",County Mine Inspector,,DEM,Write-In,3
+Baraga,"Baraga Township, Precinct 4",County Mine Inspector,,DEM,Ballots Cast,3
+Baraga,"Covington Township, Precinct 1",County Mine Inspector,,DEM,Write-In,4
+Baraga,"Covington Township, Precinct 1",County Mine Inspector,,DEM,Ballots Cast,4
+Baraga,"L'Anse Township, Precinct 1",County Mine Inspector,,DEM,Write-In,16
+Baraga,"L'Anse Township, Precinct 1",County Mine Inspector,,DEM,Ballots Cast,16
+Baraga,"Spurr Township, Precinct 1",County Mine Inspector,,DEM,Write-In,7
+Baraga,"Spurr Township, Precinct 1",County Mine Inspector,,DEM,Ballots Cast,7
+Baraga,"Baraga Township, Precinct 2",County Commissioner 1st District,,DEM,Liz Hakola,32
+Baraga,"Baraga Township, Precinct 2",County Commissioner 1st District,,DEM,Ballots Cast,32
+Baraga,"Baraga Township, Precinct 3",County Commissioner 1st District,,DEM,Liz Hakola,26
+Baraga,"Baraga Township, Precinct 3",County Commissioner 1st District,,DEM,Ballots Cast,26
+Baraga,"Baraga Township, Precinct 4",County Commissioner 1st District,,DEM,Liz Hakola,36
+Baraga,"Baraga Township, Precinct 4",County Commissioner 1st District,,DEM,Ballots Cast,36
+Baraga,"Covington Township, Precinct 1",County Commissioner 1st District,,DEM,Liz Hakola,14
+Baraga,"Covington Township, Precinct 1",County Commissioner 1st District,,DEM,Ballots Cast,14
+Baraga,"Baraga Township, Precinct 1",County Commissioner 2nd District,,DEM,Michael R. Koskinen,86
+Baraga,"Baraga Township, Precinct 1",County Commissioner 2nd District,,DEM,Ballots Cast,86
+Baraga,"Covington Township, Precinct 1",County Commissioner 3rd District,,DEM,Write-In,2
+Baraga,"Covington Township, Precinct 1",County Commissioner 3rd District,,DEM,Ballots Cast,2
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 3rd District,,DEM,Write-In,5
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 3rd District,,DEM,Ballots Cast,5
+Baraga,"Spurr Township, Precinct 1",County Commissioner 3rd District,,DEM,Write-In,5
+Baraga,"Spurr Township, Precinct 1",County Commissioner 3rd District,,DEM,Ballots Cast,5
+Baraga,"Arvon Township, Precinct 1",County Commissioner 4th District,,DEM,Fran Whitman,28
+Baraga,"Arvon Township, Precinct 1",County Commissioner 4th District,,DEM,Ballots Cast,28
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 4th District,,DEM,Fran Whitman,71
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 4th District,,DEM,Write-In,1
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 4th District,,DEM,Ballots Cast,72
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 5th District,,DEM,William Rolof,100
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 5th District,,DEM,Ballots Cast,100
+Baraga,"Arvon Township, Precinct 1",Arvon Township Supervisor,,DEM,Write-In,3
+Baraga,"Arvon Township, Precinct 1",Arvon Township Supervisor,,DEM,Ballots Cast,3
+Baraga,"Baraga Township, Precinct 1",Baraga Township Supervisor,,DEM,Amy Isaacson,92
+Baraga,"Baraga Township, Precinct 1",Baraga Township Supervisor,,DEM,Ballots Cast,92
+Baraga,"Baraga Township, Precinct 2",Baraga Township Supervisor,,DEM,Amy Isaacson,32
+Baraga,"Baraga Township, Precinct 2",Baraga Township Supervisor,,DEM,Ballots Cast,32
+Baraga,"Baraga Township, Precinct 3",Baraga Township Supervisor,,DEM,Amy Isaacson,26
+Baraga,"Baraga Township, Precinct 3",Baraga Township Supervisor,,DEM,Ballots Cast,26
+Baraga,"Baraga Township, Precinct 4",Baraga Township Supervisor,,DEM,Amy Isaacson,35
+Baraga,"Baraga Township, Precinct 4",Baraga Township Supervisor,,DEM,Ballots Cast,35
+Baraga,"Covington Township, Precinct 1",Covington Township Supervisor,,DEM,Lowella Eskel,31
+Baraga,"Covington Township, Precinct 1",Covington Township Supervisor,,DEM,Ballots Cast,31
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Supervisor,,DEM,Write-In,14
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Supervisor,,DEM,Ballots Cast,14
+Baraga,"Spurr Township, Precinct 1",Spurr Township Supervisor,,DEM,Jack Wells,46
+Baraga,"Spurr Township, Precinct 1",Spurr Township Supervisor,,DEM,Ballots Cast,46
+Baraga,"Arvon Township, Precinct 1",Arvon Township Clerk,,DEM,Write-In,2
+Baraga,"Arvon Township, Precinct 1",Arvon Township Clerk,,DEM,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 1",Baraga Township Clerk,,DEM,Michelle Fish,90
+Baraga,"Baraga Township, Precinct 1",Baraga Township Clerk,,DEM,Ballots Cast,90
+Baraga,"Baraga Township, Precinct 2",Baraga Township Clerk,,DEM,Michelle Fish,32
+Baraga,"Baraga Township, Precinct 2",Baraga Township Clerk,,DEM,Ballots Cast,32
+Baraga,"Baraga Township, Precinct 3",Baraga Township Clerk,,DEM,Michelle Fish,26
+Baraga,"Baraga Township, Precinct 3",Baraga Township Clerk,,DEM,Ballots Cast,26
+Baraga,"Baraga Township, Precinct 4",Baraga Township Clerk,,DEM,Michelle Fish,35
+Baraga,"Baraga Township, Precinct 4",Baraga Township Clerk,,DEM,Ballots Cast,35
+Baraga,"Covington Township, Precinct 1",Covington Township Clerk,,DEM,Write-In,2
+Baraga,"Covington Township, Precinct 1",Covington Township Clerk,,DEM,Ballots Cast,2
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Clerk,,DEM,Write-In,14
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Clerk,,DEM,Ballots Cast,14
+Baraga,"Spurr Township, Precinct 1",Spurr Township Clerk,,DEM,Write-In,5
+Baraga,"Spurr Township, Precinct 1",Spurr Township Clerk,,DEM,Ballots Cast,5
+Baraga,"Arvon Township, Precinct 1",Arvon Township Treasurer,,DEM,Write-In,2
+Baraga,"Arvon Township, Precinct 1",Arvon Township Treasurer,,DEM,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 1",Baraga Township Treasurer,,DEM,Catherine F. Wadaga,91
+Baraga,"Baraga Township, Precinct 1",Baraga Township Treasurer,,DEM,Ballots Cast,91
+Baraga,"Baraga Township, Precinct 2",Baraga Township Treasurer,,DEM,Catherine F. Wadaga,32
+Baraga,"Baraga Township, Precinct 2",Baraga Township Treasurer,,DEM,Ballots Cast,32
+Baraga,"Baraga Township, Precinct 3",Baraga Township Treasurer,,DEM,Catherine F. Wadaga,27
+Baraga,"Baraga Township, Precinct 3",Baraga Township Treasurer,,DEM,Ballots Cast,27
+Baraga,"Baraga Township, Precinct 4",Baraga Township Treasurer,,DEM,Catherine F. Wadaga,36
+Baraga,"Baraga Township, Precinct 4",Baraga Township Treasurer,,DEM,Ballots Cast,36
+Baraga,"Covington Township, Precinct 1",Covington Township Treasurer,,DEM,Lisa M. Karcher,31
+Baraga,"Covington Township, Precinct 1",Covington Township Treasurer,,DEM,Ballots Cast,31
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Treasurer,,DEM,Kristine Rice,229
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Treasurer,,DEM,Ballots Cast,229
+Baraga,"Spurr Township, Precinct 1",Spurr Township Treasurer,,DEM,Lori Carlson,43
+Baraga,"Spurr Township, Precinct 1",Spurr Township Treasurer,,DEM,Write-In,1
+Baraga,"Spurr Township, Precinct 1",Spurr Township Treasurer,,DEM,Ballots Cast,44
+Baraga,"Arvon Township, Precinct 1",Arvon Township Trustee,,DEM,Write-In,2
+Baraga,"Arvon Township, Precinct 1",Arvon Township Trustee,,DEM,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 1",Baraga Township Trustee,,DEM,Write-In,11
+Baraga,"Baraga Township, Precinct 1",Baraga Township Trustee,,DEM,Ballots Cast,11
+Baraga,"Baraga Township, Precinct 2",Baraga Township Trustee,,DEM,Write-In,3
+Baraga,"Baraga Township, Precinct 2",Baraga Township Trustee,,DEM,Ballots Cast,3
+Baraga,"Baraga Township, Precinct 3",Baraga Township Trustee,,DEM,Write-In,1
+Baraga,"Baraga Township, Precinct 3",Baraga Township Trustee,,DEM,Ballots Cast,1
+Baraga,"Baraga Township, Precinct 4",Baraga Township Trustee,,DEM,Write-In,4
+Baraga,"Baraga Township, Precinct 4",Baraga Township Trustee,,DEM,Ballots Cast,4
+Baraga,"Covington Township, Precinct 1",Covington Township Trustee,,DEM,Write-In,2
+Baraga,"Covington Township, Precinct 1",Covington Township Trustee,,DEM,Ballots Cast,2
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Trustee,,DEM,Write-In,17
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Trustee,,DEM,Ballots Cast,17
+Baraga,"Spurr Township, Precinct 1",Spurr Township Trustee,,DEM,Rose Ekdahl,36
+Baraga,"Spurr Township, Precinct 1",Spurr Township Trustee,,DEM,Vickie Voegtline,42
+Baraga,"Spurr Township, Precinct 1",Spurr Township Trustee,,DEM,Ballots Cast,78
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Constable,,DEM,John P. Robillard,235
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Constable,,DEM,Write-In,1
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Constable,,DEM,Ballots Cast,236
+Baraga,"Arvon Township, Precinct 1","Arvon Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,4
+Baraga,"Arvon Township, Precinct 1","Arvon Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,4
+Baraga,"Baraga Township, Precinct 1","Baraga Township, Precinct 1 Delegate to County Convention",,DEM,Karen Ross DeKleyn,80
+Baraga,"Baraga Township, Precinct 1","Baraga Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,80
+Baraga,"Baraga Township, Precinct 2","Baraga Township, Precinct 2 Delegate to County Convention",,DEM,Write-In,3
+Baraga,"Baraga Township, Precinct 2","Baraga Township, Precinct 2 Delegate to County Convention",,DEM,Ballots Cast,3
+Baraga,"Baraga Township, Precinct 3","Baraga Township, Precinct 3 Delegate to County Convention",,DEM,Write-In,2
+Baraga,"Baraga Township, Precinct 3","Baraga Township, Precinct 3 Delegate to County Convention",,DEM,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 4","Baraga Township, Precinct 4 Delegate to County Convention",,DEM,Write-In,4
+Baraga,"Baraga Township, Precinct 4","Baraga Township, Precinct 4 Delegate to County Convention",,DEM,Ballots Cast,4
+Baraga,"Covington Township, Precinct 1","Covington Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,3
+Baraga,"Covington Township, Precinct 1","Covington Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,3
+Baraga,"L'Anse Township, Precinct 1","L'Anse Township, Precinct 1 Delegate to County Convention",,DEM,Fran Whitman,227
+Baraga,"L'Anse Township, Precinct 1","L'Anse Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,2
+Baraga,"L'Anse Township, Precinct 1","L'Anse Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,229
+Baraga,"Spurr Township, Precinct 1","Spurr Township, Precinct 1 Delegate to County Convention",,DEM,Write-In,7
+Baraga,"Spurr Township, Precinct 1","Spurr Township, Precinct 1 Delegate to County Convention",,DEM,Ballots Cast,7
+Baraga,"Arvon Township, Precinct 1",U.S. Senate,,REP,John James,179
+Baraga,"Arvon Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,179
+Baraga,"Baraga Township, Precinct 1",U.S. Senate,,REP,John James,176
+Baraga,"Baraga Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,176
+Baraga,"Baraga Township, Precinct 2",U.S. Senate,,REP,John James,77
+Baraga,"Baraga Township, Precinct 2",U.S. Senate,,REP,Ballots Cast,77
+Baraga,"Baraga Township, Precinct 3",U.S. Senate,,REP,John James,56
+Baraga,"Baraga Township, Precinct 3",U.S. Senate,,REP,Ballots Cast,56
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,REP,John James,86
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,REP,Ballots Cast,86
+Baraga,"Covington Township, Precinct 1",U.S. Senate,,REP,John James,75
+Baraga,"Covington Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,75
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,REP,John James,678
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,REP,Write-In,2
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,680
+Baraga,"Spurr Township, Precinct 1",U.S. Senate,,REP,John James,53
+Baraga,"Spurr Township, Precinct 1",U.S. Senate,,REP,Ballots Cast,53
+Baraga,"Arvon Township, Precinct 1",U.S. House,1,REP,Jack Bergman,179
+Baraga,"Arvon Township, Precinct 1",U.S. House,1,REP,Write-In,1
+Baraga,"Arvon Township, Precinct 1",U.S. House,1,REP,Ballots Cast,180
+Baraga,"Baraga Township, Precinct 1",U.S. House,1,REP,Jack Bergman,194
+Baraga,"Baraga Township, Precinct 1",U.S. House,1,REP,Ballots Cast,194
+Baraga,"Baraga Township, Precinct 2",U.S. House,1,REP,Jack Bergman,80
+Baraga,"Baraga Township, Precinct 2",U.S. House,1,REP,Ballots Cast,80
+Baraga,"Baraga Township, Precinct 3",U.S. House,1,REP,Jack Bergman,57
+Baraga,"Baraga Township, Precinct 3",U.S. House,1,REP,Ballots Cast,57
+Baraga,"Baraga Township, Precinct 4",U.S. House,1,REP,Jack Bergman,86
+Baraga,"Baraga Township, Precinct 4",U.S. House,1,REP,Ballots Cast,86
+Baraga,"Covington Township, Precinct 1",U.S. House,1,REP,Jack Bergman,85
+Baraga,"Covington Township, Precinct 1",U.S. House,1,REP,Ballots Cast,85
+Baraga,"L'Anse Township, Precinct 1",U.S. House,1,REP,Jack Bergman,695
+Baraga,"L'Anse Township, Precinct 1",U.S. House,1,REP,Write-In,3
+Baraga,"L'Anse Township, Precinct 1",U.S. House,1,REP,Ballots Cast,698
+Baraga,"Spurr Township, Precinct 1",U.S. House,1,REP,Jack Bergman,56
+Baraga,"Spurr Township, Precinct 1",U.S. House,1,REP,Ballots Cast,56
+Baraga,"Arvon Township, Precinct 1",State House,110,REP,Gregory Markkanen,181
+Baraga,"Arvon Township, Precinct 1",State House,110,REP,Ballots Cast,181
+Baraga,"Baraga Township, Precinct 1",State House,110,REP,Gregory Markkanen,198
+Baraga,"Baraga Township, Precinct 1",State House,110,REP,Ballots Cast,198
+Baraga,"Baraga Township, Precinct 2",State House,110,REP,Gregory Markkanen,80
+Baraga,"Baraga Township, Precinct 2",State House,110,REP,Ballots Cast,80
+Baraga,"Baraga Township, Precinct 3",State House,110,REP,Gregory Markkanen,56
+Baraga,"Baraga Township, Precinct 3",State House,110,REP,Ballots Cast,56
+Baraga,"Baraga Township, Precinct 4",State House,110,REP,Gregory Markkanen,91
+Baraga,"Baraga Township, Precinct 4",State House,110,REP,Ballots Cast,91
+Baraga,"Covington Township, Precinct 1",State House,110,REP,Gregory Markkanen,85
+Baraga,"Covington Township, Precinct 1",State House,110,REP,Ballots Cast,85
+Baraga,"L'Anse Township, Precinct 1",State House,110,REP,Gregory Markkanen,686
+Baraga,"L'Anse Township, Precinct 1",State House,110,REP,Write-In,3
+Baraga,"L'Anse Township, Precinct 1",State House,110,REP,Ballots Cast,689
+Baraga,"Spurr Township, Precinct 1",State House,110,REP,Gregory Markkanen,55
+Baraga,"Spurr Township, Precinct 1",State House,110,REP,Ballots Cast,55
+Baraga,"Arvon Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph P. O'Leary,166
+Baraga,"Arvon Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,3
+Baraga,"Arvon Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,169
+Baraga,"Baraga Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph P. O'Leary,171
+Baraga,"Baraga Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,171
+Baraga,"Baraga Township, Precinct 2",County Prosecuting Attorney,,REP,Joseph P. O'Leary,68
+Baraga,"Baraga Township, Precinct 2",County Prosecuting Attorney,,REP,Write-In,1
+Baraga,"Baraga Township, Precinct 2",County Prosecuting Attorney,,REP,Ballots Cast,69
+Baraga,"Baraga Township, Precinct 3",County Prosecuting Attorney,,REP,Joseph P. O'Leary,55
+Baraga,"Baraga Township, Precinct 3",County Prosecuting Attorney,,REP,Ballots Cast,55
+Baraga,"Baraga Township, Precinct 4",County Prosecuting Attorney,,REP,Joseph P. O'Leary,84
+Baraga,"Baraga Township, Precinct 4",County Prosecuting Attorney,,REP,Ballots Cast,84
+Baraga,"Covington Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph P. O'Leary,76
+Baraga,"Covington Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,76
+Baraga,"L'Anse Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph P. O'Leary,591
+Baraga,"L'Anse Township, Precinct 1",County Prosecuting Attorney,,REP,Write-In,12
+Baraga,"L'Anse Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,603
+Baraga,"Spurr Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph P. O'Leary,50
+Baraga,"Spurr Township, Precinct 1",County Prosecuting Attorney,,REP,Ballots Cast,50
+Baraga,"Arvon Township, Precinct 1",County Sheriff,,REP,Jim Gabe,83
+Baraga,"Arvon Township, Precinct 1",County Sheriff,,REP,Joe Brogan,117
+Baraga,"Arvon Township, Precinct 1",County Sheriff,,REP,Ballots Cast,200
+Baraga,"Baraga Township, Precinct 1",County Sheriff,,REP,Jim Gabe,103
+Baraga,"Baraga Township, Precinct 1",County Sheriff,,REP,Joe Brogan,114
+Baraga,"Baraga Township, Precinct 1",County Sheriff,,REP,Write-In,2
+Baraga,"Baraga Township, Precinct 1",County Sheriff,,REP,Ballots Cast,219
+Baraga,"Baraga Township, Precinct 2",County Sheriff,,REP,Jim Gabe,18
+Baraga,"Baraga Township, Precinct 2",County Sheriff,,REP,Joe Brogan,71
+Baraga,"Baraga Township, Precinct 2",County Sheriff,,REP,Write-In,1
+Baraga,"Baraga Township, Precinct 2",County Sheriff,,REP,Ballots Cast,90
+Baraga,"Baraga Township, Precinct 3",County Sheriff,,REP,Jim Gabe,20
+Baraga,"Baraga Township, Precinct 3",County Sheriff,,REP,Joe Brogan,40
+Baraga,"Baraga Township, Precinct 3",County Sheriff,,REP,Ballots Cast,60
+Baraga,"Baraga Township, Precinct 4",County Sheriff,,REP,Jim Gabe,32
+Baraga,"Baraga Township, Precinct 4",County Sheriff,,REP,Joe Brogan,64
+Baraga,"Baraga Township, Precinct 4",County Sheriff,,REP,Ballots Cast,96
+Baraga,"Covington Township, Precinct 1",County Sheriff,,REP,Jim Gabe,23
+Baraga,"Covington Township, Precinct 1",County Sheriff,,REP,Joe Brogan,67
+Baraga,"Covington Township, Precinct 1",County Sheriff,,REP,Ballots Cast,90
+Baraga,"L'Anse Township, Precinct 1",County Sheriff,,REP,Jim Gabe,279
+Baraga,"L'Anse Township, Precinct 1",County Sheriff,,REP,Joe Brogan,513
+Baraga,"L'Anse Township, Precinct 1",County Sheriff,,REP,Write-In,2
+Baraga,"L'Anse Township, Precinct 1",County Sheriff,,REP,Ballots Cast,794
+Baraga,"Spurr Township, Precinct 1",County Sheriff,,REP,Jim Gabe,9
+Baraga,"Spurr Township, Precinct 1",County Sheriff,,REP,Joe Brogan,48
+Baraga,"Spurr Township, Precinct 1",County Sheriff,,REP,Ballots Cast,57
+Baraga,"Arvon Township, Precinct 1",County Clerk,,REP,Wendy J. Goodreau,188
+Baraga,"Arvon Township, Precinct 1",County Clerk,,REP,Ballots Cast,188
+Baraga,"Baraga Township, Precinct 1",County Clerk,,REP,Wendy J. Goodreau,193
+Baraga,"Baraga Township, Precinct 1",County Clerk,,REP,Ballots Cast,193
+Baraga,"Baraga Township, Precinct 2",County Clerk,,REP,Wendy J. Goodreau,81
+Baraga,"Baraga Township, Precinct 2",County Clerk,,REP,Ballots Cast,81
+Baraga,"Baraga Township, Precinct 3",County Clerk,,REP,Wendy J. Goodreau,52
+Baraga,"Baraga Township, Precinct 3",County Clerk,,REP,Write-In,1
+Baraga,"Baraga Township, Precinct 3",County Clerk,,REP,Ballots Cast,53
+Baraga,"Baraga Township, Precinct 4",County Clerk,,REP,Wendy J. Goodreau,93
+Baraga,"Baraga Township, Precinct 4",County Clerk,,REP,Ballots Cast,93
+Baraga,"Covington Township, Precinct 1",County Clerk,,REP,Wendy J. Goodreau,85
+Baraga,"Covington Township, Precinct 1",County Clerk,,REP,Ballots Cast,85
+Baraga,"L'Anse Township, Precinct 1",County Clerk,,REP,Wendy J. Goodreau,724
+Baraga,"L'Anse Township, Precinct 1",County Clerk,,REP,Write-In,3
+Baraga,"L'Anse Township, Precinct 1",County Clerk,,REP,Ballots Cast,727
+Baraga,"Spurr Township, Precinct 1",County Clerk,,REP,Wendy J. Goodreau,55
+Baraga,"Spurr Township, Precinct 1",County Clerk,,REP,Ballots Cast,55
+Baraga,"Arvon Township, Precinct 1",County Treasurer,,REP,Jill C. Tollefson,184
+Baraga,"Arvon Township, Precinct 1",County Treasurer,,REP,Ballots Cast,184
+Baraga,"Baraga Township, Precinct 1",County Treasurer,,REP,Jill C. Tollefson,191
+Baraga,"Baraga Township, Precinct 1",County Treasurer,,REP,Ballots Cast,191
+Baraga,"Baraga Township, Precinct 2",County Treasurer,,REP,Jill C. Tollefson,80
+Baraga,"Baraga Township, Precinct 2",County Treasurer,,REP,Ballots Cast,80
+Baraga,"Baraga Township, Precinct 3",County Treasurer,,REP,Jill C. Tollefson,50
+Baraga,"Baraga Township, Precinct 3",County Treasurer,,REP,Write-In,1
+Baraga,"Baraga Township, Precinct 3",County Treasurer,,REP,Ballots Cast,51
+Baraga,"Baraga Township, Precinct 4",County Treasurer,,REP,Jill C. Tollefson,87
+Baraga,"Baraga Township, Precinct 4",County Treasurer,,REP,Ballots Cast,87
+Baraga,"Covington Township, Precinct 1",County Treasurer,,REP,Jill C. Tollefson,83
+Baraga,"Covington Township, Precinct 1",County Treasurer,,REP,Ballots Cast,83
+Baraga,"L'Anse Township, Precinct 1",County Treasurer,,REP,Jill C. Tollefson,716
+Baraga,"L'Anse Township, Precinct 1",County Treasurer,,REP,Write-In,2
+Baraga,"L'Anse Township, Precinct 1",County Treasurer,,REP,Ballots Cast,718
+Baraga,"Spurr Township, Precinct 1",County Treasurer,,REP,Jill C. Tollefson,54
+Baraga,"Spurr Township, Precinct 1",County Treasurer,,REP,Ballots Cast,54
+Baraga,"Arvon Township, Precinct 1",County Mine Inspector,,REP,Michael C. Legacy,156
+Baraga,"Arvon Township, Precinct 1",County Mine Inspector,,REP,Ballots Cast,156
+Baraga,"Baraga Township, Precinct 1",County Mine Inspector,,REP,Michael C. Legacy,149
+Baraga,"Baraga Township, Precinct 1",County Mine Inspector,,REP,Write-In,1
+Baraga,"Baraga Township, Precinct 1",County Mine Inspector,,REP,Ballots Cast,150
+Baraga,"Baraga Township, Precinct 2",County Mine Inspector,,REP,Michael C. Legacy,67
+Baraga,"Baraga Township, Precinct 2",County Mine Inspector,,REP,Ballots Cast,67
+Baraga,"Baraga Township, Precinct 3",County Mine Inspector,,REP,Michael C. Legacy,42
+Baraga,"Baraga Township, Precinct 3",County Mine Inspector,,REP,Ballots Cast,42
+Baraga,"Baraga Township, Precinct 4",County Mine Inspector,,REP,Michael C. Legacy,72
+Baraga,"Baraga Township, Precinct 4",County Mine Inspector,,REP,Ballots Cast,72
+Baraga,"Covington Township, Precinct 1",County Mine Inspector,,REP,Michael C. Legacy,73
+Baraga,"Covington Township, Precinct 1",County Mine Inspector,,REP,Write-In,1
+Baraga,"Covington Township, Precinct 1",County Mine Inspector,,REP,Ballots Cast,74
+Baraga,"L'Anse Township, Precinct 1",County Mine Inspector,,REP,Michael C. Legacy,583
+Baraga,"L'Anse Township, Precinct 1",County Mine Inspector,,REP,Write-In,1
+Baraga,"L'Anse Township, Precinct 1",County Mine Inspector,,REP,Ballots Cast,584
+Baraga,"Spurr Township, Precinct 1",County Mine Inspector,,REP,Michael C. Legacy,44
+Baraga,"Spurr Township, Precinct 1",County Mine Inspector,,REP,Ballots Cast,44
+Baraga,"Baraga Township, Precinct 2",County Commissioner 1st District,,REP,Gale W. Eilola,69
+Baraga,"Baraga Township, Precinct 2",County Commissioner 1st District,,REP,Ballots Cast,69
+Baraga,"Baraga Township, Precinct 3",County Commissioner 1st District,,REP,Gale W. Eilola,43
+Baraga,"Baraga Township, Precinct 3",County Commissioner 1st District,,REP,Write-In,1
+Baraga,"Baraga Township, Precinct 3",County Commissioner 1st District,,REP,Ballots Cast,44
+Baraga,"Baraga Township, Precinct 4",County Commissioner 1st District,,REP,Gale W. Eilola,79
+Baraga,"Baraga Township, Precinct 4",County Commissioner 1st District,,REP,Ballots Cast,79
+Baraga,"Covington Township, Precinct 1",County Commissioner 1st District,,REP,Gale W. Eilola,41
+Baraga,"Covington Township, Precinct 1",County Commissioner 1st District,,REP,Ballots Cast,41
+Baraga,"Baraga Township, Precinct 1",County Commissioner 2nd District,,REP,Will Wiggins,186
+Baraga,"Baraga Township, Precinct 1",County Commissioner 2nd District,,REP,Write-In,1
+Baraga,"Baraga Township, Precinct 1",County Commissioner 2nd District,,REP,Ballots Cast,187
+Baraga,"Covington Township, Precinct 1",County Commissioner 3rd District,,REP,Dan Robillard,35
+Baraga,"Covington Township, Precinct 1",County Commissioner 3rd District,,REP,Ballots Cast,35
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 3rd District,,REP,Dan Robillard,206
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 3rd District,,REP,Ballots Cast,206
+Baraga,"Spurr Township, Precinct 1",County Commissioner 3rd District,,REP,Dan Robillard,47
+Baraga,"Spurr Township, Precinct 1",County Commissioner 3rd District,,REP,Ballots Cast,47
+Baraga,"Arvon Township, Precinct 1",County Commissioner 4th District,,REP,Burt Mason,88
+Baraga,"Arvon Township, Precinct 1",County Commissioner 4th District,,REP,Cindy Larson,36
+Baraga,"Arvon Township, Precinct 1",County Commissioner 4th District,,REP,Lyle Olsen,74
+Baraga,"Arvon Township, Precinct 1",County Commissioner 4th District,,REP,Ballots Cast,198
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 4th District,,REP,Burt Mason,62
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 4th District,,REP,Cindy Larson,46
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 4th District,,REP,Lyle Olsen,126
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 4th District,,REP,Write-In,1
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 4th District,,REP,Ballots Cast,235
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 5th District,,REP,Write-In,17
+Baraga,"L'Anse Township, Precinct 1",County Commissioner 5th District,,REP,Ballots Cast,17
+Baraga,"Arvon Township, Precinct 1",Arvon Township Supervisor,,REP,Jay Fish,27
+Baraga,"Arvon Township, Precinct 1",Arvon Township Supervisor,,REP,Write-In,13
+Baraga,"Arvon Township, Precinct 1",Arvon Township Supervisor,,REP,Ballots Cast,40
+Baraga,"Baraga Township, Precinct 1",Baraga Township Supervisor,,REP,Write-In,10
+Baraga,"Baraga Township, Precinct 1",Baraga Township Supervisor,,REP,Ballots Cast,10
+Baraga,"Baraga Township, Precinct 2",Baraga Township Supervisor,,REP,Write-In,2
+Baraga,"Baraga Township, Precinct 2",Baraga Township Supervisor,,REP,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 3",Baraga Township Supervisor,,REP,Write-In,1
+Baraga,"Baraga Township, Precinct 3",Baraga Township Supervisor,,REP,Ballots Cast,1
+Baraga,"Baraga Township, Precinct 4",Baraga Township Supervisor,,REP,Write-In,4
+Baraga,"Baraga Township, Precinct 4",Baraga Township Supervisor,,REP,Ballots Cast,4
+Baraga,"Covington Township, Precinct 1",Covington Township Supervisor,,REP,Amber M. Franti,61
+Baraga,"Covington Township, Precinct 1",Covington Township Supervisor,,REP,Write-In,1
+Baraga,"Covington Township, Precinct 1",Covington Township Supervisor,,REP,Ballots Cast,62
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Supervisor,,REP,Peter Magaraggia,633
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Supervisor,,REP,Write-In,3
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Supervisor,,REP,Ballots Cast,636
+Baraga,"Spurr Township, Precinct 1",Spurr Township Supervisor,,REP,Write-In,2
+Baraga,"Spurr Township, Precinct 1",Spurr Township Supervisor,,REP,Ballots Cast,2
+Baraga,"Arvon Township, Precinct 1",Arvon Township Clerk,,REP,Lisa M. Marinich,192
+Baraga,"Arvon Township, Precinct 1",Arvon Township Clerk,,REP,Ballots Cast,192
+Baraga,"Baraga Township, Precinct 1",Baraga Township Clerk,,REP,Write-In,9
+Baraga,"Baraga Township, Precinct 1",Baraga Township Clerk,,REP,Ballots Cast,9
+Baraga,"Baraga Township, Precinct 2",Baraga Township Clerk,,REP,Write-In,2
+Baraga,"Baraga Township, Precinct 2",Baraga Township Clerk,,REP,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 3",Baraga Township Clerk,,REP,Write-In,1
+Baraga,"Baraga Township, Precinct 3",Baraga Township Clerk,,REP,Ballots Cast,1
+Baraga,"Baraga Township, Precinct 4",Baraga Township Clerk,,REP,Write-In,4
+Baraga,"Baraga Township, Precinct 4",Baraga Township Clerk,,REP,Ballots Cast,4
+Baraga,"Covington Township, Precinct 1",Covington Township Clerk,,REP,Amy J. Leaf,79
+Baraga,"Covington Township, Precinct 1",Covington Township Clerk,,REP,Write-In,1
+Baraga,"Covington Township, Precinct 1",Covington Township Clerk,,REP,Ballots Cast,80
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Clerk,,REP,Write-In,21
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Clerk,,REP,Ballots Cast,21
+Baraga,"Spurr Township, Precinct 1",Spurr Township Clerk,,REP,Danielle Mattson,51
+Baraga,"Spurr Township, Precinct 1",Spurr Township Clerk,,REP,Ballots Cast,51
+Baraga,"Arvon Township, Precinct 1",Arvon Township Treasurer,,REP,Krystal Larson,190
+Baraga,"Arvon Township, Precinct 1",Arvon Township Treasurer,,REP,Ballots Cast,190
+Baraga,"Baraga Township, Precinct 1",Baraga Township Treasurer,,REP,Write-In,8
+Baraga,"Baraga Township, Precinct 1",Baraga Township Treasurer,,REP,Ballots Cast,8
+Baraga,"Baraga Township, Precinct 2",Baraga Township Treasurer,,REP,Write-In,2
+Baraga,"Baraga Township, Precinct 2",Baraga Township Treasurer,,REP,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 3",Baraga Township Treasurer,,REP,Write-In,1
+Baraga,"Baraga Township, Precinct 3",Baraga Township Treasurer,,REP,Ballots Cast,1
+Baraga,"Baraga Township, Precinct 4",Baraga Township Treasurer,,REP,Write-In,3
+Baraga,"Baraga Township, Precinct 4",Baraga Township Treasurer,,REP,Ballots Cast,3
+Baraga,"Covington Township, Precinct 1",Covington Township Treasurer,,REP,Write-In,4
+Baraga,"Covington Township, Precinct 1",Covington Township Treasurer,,REP,Ballots Cast,4
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Treasurer,,REP,Write-In,21
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Treasurer,,REP,Ballots Cast,21
+Baraga,"Spurr Township, Precinct 1",Spurr Township Treasurer,,REP,Ballots Cast,0
+Baraga,"Arvon Township, Precinct 1",Arvon Township Trustee,,REP,Chris R. Wahmhoff,175
+Baraga,"Arvon Township, Precinct 1",Arvon Township Trustee,,REP,Write-In,2
+Baraga,"Arvon Township, Precinct 1",Arvon Township Trustee,,REP,Ballots Cast,177
+Baraga,"Baraga Township, Precinct 1",Baraga Township Trustee,,REP,Glenn Juntunen,147
+Baraga,"Baraga Township, Precinct 1",Baraga Township Trustee,,REP,Jerry M. Dompier,141
+Baraga,"Baraga Township, Precinct 1",Baraga Township Trustee,,REP,Ballots Cast,288
+Baraga,"Baraga Township, Precinct 2",Baraga Township Trustee,,REP,Glenn Juntunen,55
+Baraga,"Baraga Township, Precinct 2",Baraga Township Trustee,,REP,Jerry M. Dompier,55
+Baraga,"Baraga Township, Precinct 2",Baraga Township Trustee,,REP,Ballots Cast,110
+Baraga,"Baraga Township, Precinct 3",Baraga Township Trustee,,REP,Glenn Juntunen,36
+Baraga,"Baraga Township, Precinct 3",Baraga Township Trustee,,REP,Jerry M. Dompier,35
+Baraga,"Baraga Township, Precinct 3",Baraga Township Trustee,,REP,Ballots Cast,71
+Baraga,"Baraga Township, Precinct 4",Baraga Township Trustee,,REP,Glenn Juntunen,56
+Baraga,"Baraga Township, Precinct 4",Baraga Township Trustee,,REP,Jerry M. Dompier,65
+Baraga,"Baraga Township, Precinct 4",Baraga Township Trustee,,REP,Ballots Cast,121
+Baraga,"Covington Township, Precinct 1",Covington Township Trustee,,REP,Laurie L. Ahola,69
+Baraga,"Covington Township, Precinct 1",Covington Township Trustee,,REP,Tristan Leaf,51
+Baraga,"Covington Township, Precinct 1",Covington Township Trustee,,REP,Write-In,1
+Baraga,"Covington Township, Precinct 1",Covington Township Trustee,,REP,Ballots Cast,121
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Trustee,,REP,Shelley Lloyd,635
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Trustee,,REP,Write-In,2
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Trustee,,REP,Ballots Cast,637
+Baraga,"Spurr Township, Precinct 1",Spurr Township Trustee,,REP,Richard P. Taylor,45
+Baraga,"Spurr Township, Precinct 1",Spurr Township Trustee,,REP,Write-In,1
+Baraga,"Spurr Township, Precinct 1",Spurr Township Trustee,,REP,Ballots Cast,46
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Constable,,REP,Jennie E. Nordstrom,588
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Constable,,REP,Write-In,4
+Baraga,"L'Anse Township, Precinct 1",L'Anse Township Constable,,REP,Ballots Cast,592
+Baraga,"Arvon Township, Precinct 1","Arvon Township, Precinct 1 Delegate to County Convention",,REP,Alison D. King,161
+Baraga,"Arvon Township, Precinct 1","Arvon Township, Precinct 1 Delegate to County Convention",,REP,Write-In,2
+Baraga,"Arvon Township, Precinct 1","Arvon Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,163
+Baraga,"Baraga Township, Precinct 1","Baraga Township, Precinct 1 Delegate to County Convention",,REP,Write-In,9
+Baraga,"Baraga Township, Precinct 1","Baraga Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,9
+Baraga,"Baraga Township, Precinct 2","Baraga Township, Precinct 2 Delegate to County Convention",,REP,Jake Putala,1
+Baraga,"Baraga Township, Precinct 2","Baraga Township, Precinct 2 Delegate to County Convention",,REP,Write-In,1
+Baraga,"Baraga Township, Precinct 2","Baraga Township, Precinct 2 Delegate to County Convention",,REP,Ballots Cast,2
+Baraga,"Baraga Township, Precinct 3","Baraga Township, Precinct 3 Delegate to County Convention",,REP,Write-In,1
+Baraga,"Baraga Township, Precinct 3","Baraga Township, Precinct 3 Delegate to County Convention",,REP,Ballots Cast,1
+Baraga,"Baraga Township, Precinct 4","Baraga Township, Precinct 4 Delegate to County Convention",,REP,Write-In,3
+Baraga,"Baraga Township, Precinct 4","Baraga Township, Precinct 4 Delegate to County Convention",,REP,Ballots Cast,3
+Baraga,"Covington Township, Precinct 1","Covington Township, Precinct 1 Delegate to County Convention",,REP,Write-In,1
+Baraga,"Covington Township, Precinct 1","Covington Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,1
+Baraga,"L'Anse Township, Precinct 1","L'Anse Township, Precinct 1 Delegate to County Convention",,REP,Charles Beer,579
+Baraga,"L'Anse Township, Precinct 1","L'Anse Township, Precinct 1 Delegate to County Convention",,REP,Write-In,6
+Baraga,"L'Anse Township, Precinct 1","L'Anse Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,585
+Baraga,"Spurr Township, Precinct 1","Spurr Township, Precinct 1 Delegate to County Convention",,REP,Write-In,1
+Baraga,"Spurr Township, Precinct 1","Spurr Township, Precinct 1 Delegate to County Convention",,REP,Ballots Cast,1
+Baraga,"Arvon Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,No,49
+Baraga,"Arvon Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Yes,177
+Baraga,"Arvon Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Ballots Cast,226
+Baraga,"Baraga Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,No,64
+Baraga,"Baraga Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Yes,245
+Baraga,"Baraga Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Ballots Cast,309
+Baraga,"Baraga Township, Precinct 2",Baraga County Proposal for Senior Citizens Assistance Renewal,,,No,42
+Baraga,"Baraga Township, Precinct 2",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Yes,79
+Baraga,"Baraga Township, Precinct 2",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Ballots Cast,121
+Baraga,"Baraga Township, Precinct 3",Baraga County Proposal for Senior Citizens Assistance Renewal,,,No,31
+Baraga,"Baraga Township, Precinct 3",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Yes,58
+Baraga,"Baraga Township, Precinct 3",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Ballots Cast,89
+Baraga,"Baraga Township, Precinct 4",Baraga County Proposal for Senior Citizens Assistance Renewal,,,No,25
+Baraga,"Baraga Township, Precinct 4",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Yes,106
+Baraga,"Baraga Township, Precinct 4",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Ballots Cast,131
+Baraga,"Covington Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,No,26
+Baraga,"Covington Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Yes,77
+Baraga,"Covington Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Ballots Cast,103
+Baraga,"L'Anse Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,No,186
+Baraga,"L'Anse Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Yes,786
+Baraga,"L'Anse Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Ballots Cast,972
+Baraga,"Spurr Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,No,33
+Baraga,"Spurr Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Yes,75
+Baraga,"Spurr Township, Precinct 1",Baraga County Proposal for Senior Citizens Assistance Renewal,,,Ballots Cast,108
+Baraga,"Arvon Township, Precinct 1",Baraga County Proposal Roads and Streets,,,No,69
+Baraga,"Arvon Township, Precinct 1",Baraga County Proposal Roads and Streets,,,Yes,155
+Baraga,"Arvon Township, Precinct 1",Baraga County Proposal Roads and Streets,,,Ballots Cast,224
+Baraga,"Baraga Township, Precinct 1",Baraga County Proposal Roads and Streets,,,No,67
+Baraga,"Baraga Township, Precinct 1",Baraga County Proposal Roads and Streets,,,Yes,240
+Baraga,"Baraga Township, Precinct 1",Baraga County Proposal Roads and Streets,,,Ballots Cast,307
+Baraga,"Baraga Township, Precinct 2",Baraga County Proposal Roads and Streets,,,No,52
+Baraga,"Baraga Township, Precinct 2",Baraga County Proposal Roads and Streets,,,Yes,70
+Baraga,"Baraga Township, Precinct 2",Baraga County Proposal Roads and Streets,,,Ballots Cast,122
+Baraga,"Baraga Township, Precinct 3",Baraga County Proposal Roads and Streets,,,No,40
+Baraga,"Baraga Township, Precinct 3",Baraga County Proposal Roads and Streets,,,Yes,48
+Baraga,"Baraga Township, Precinct 3",Baraga County Proposal Roads and Streets,,,Ballots Cast,88
+Baraga,"Baraga Township, Precinct 4",Baraga County Proposal Roads and Streets,,,No,36
+Baraga,"Baraga Township, Precinct 4",Baraga County Proposal Roads and Streets,,,Yes,96
+Baraga,"Baraga Township, Precinct 4",Baraga County Proposal Roads and Streets,,,Ballots Cast,132
+Baraga,"Covington Township, Precinct 1",Baraga County Proposal Roads and Streets,,,No,38
+Baraga,"Covington Township, Precinct 1",Baraga County Proposal Roads and Streets,,,Yes,64
+Baraga,"Covington Township, Precinct 1",Baraga County Proposal Roads and Streets,,,Ballots Cast,102
+Baraga,"L'Anse Township, Precinct 1",Baraga County Proposal Roads and Streets,,,No,217
+Baraga,"L'Anse Township, Precinct 1",Baraga County Proposal Roads and Streets,,,Yes,756
+Baraga,"L'Anse Township, Precinct 1",Baraga County Proposal Roads and Streets,,,Ballots Cast,973
+Baraga,"Spurr Township, Precinct 1",Baraga County Proposal Roads and Streets,,,No,42
+Baraga,"Spurr Township, Precinct 1",Baraga County Proposal Roads and Streets,,,Yes,66
+Baraga,"Spurr Township, Precinct 1",Baraga County Proposal Roads and Streets,,,Ballots Cast,108
+Baraga,"Arvon Township, Precinct 1",Local School District Proposal for Arvon Township School District,,,No,61
+Baraga,"Arvon Township, Precinct 1",Local School District Proposal for Arvon Township School District,,,Yes,157
+Baraga,"Arvon Township, Precinct 1",Local School District Proposal for Arvon Township School District,,,Ballots Cast,218
+Baraga,"Baraga Township, Precinct 1",Local School District Proposal for Baraga Area Schools,,,No,85
+Baraga,"Baraga Township, Precinct 1",Local School District Proposal for Baraga Area Schools,,,Yes,209
+Baraga,"Baraga Township, Precinct 1",Local School District Proposal for Baraga Area Schools,,,Ballots Cast,294
+Baraga,"Baraga Township, Precinct 2",Local School District Proposal for Baraga Area Schools,,,No,48
+Baraga,"Baraga Township, Precinct 2",Local School District Proposal for Baraga Area Schools,,,Yes,70
+Baraga,"Baraga Township, Precinct 2",Local School District Proposal for Baraga Area Schools,,,Ballots Cast,118
+Baraga,"Baraga Township, Precinct 3",Local School District Proposal for Baraga Area Schools,,,No,45
+Baraga,"Baraga Township, Precinct 3",Local School District Proposal for Baraga Area Schools,,,Yes,38
+Baraga,"Baraga Township, Precinct 3",Local School District Proposal for Baraga Area Schools,,,Ballots Cast,83
+Baraga,"Baraga Township, Precinct 4",Local School District Proposal for Baraga Area Schools,,,No,35
+Baraga,"Baraga Township, Precinct 4",Local School District Proposal for Baraga Area Schools,,,Yes,81
+Baraga,"Baraga Township, Precinct 4",Local School District Proposal for Baraga Area Schools,,,Ballots Cast,116
+Baraga,"Portage Township, Precinct 4 (Houghton County)",Local School District Proposal for Baraga Area Schools,,,No,19
+Baraga,"Portage Township, Precinct 4 (Houghton County)",Local School District Proposal for Baraga Area Schools,,,Yes,46
+Baraga,"Portage Township, Precinct 4 (Houghton County)",Local School District Proposal for Baraga Area Schools,,,Ballots Cast,65

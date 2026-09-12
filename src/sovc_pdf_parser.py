@@ -73,6 +73,11 @@ DISTRICT_PATTERNS = [
     (re.compile(r'^Representative in Congress District (\d+)$'), 'U.S. House'),
     (re.compile(r'^State Senator District (\d+)$'), 'State Senate'),
     (re.compile(r'^Representative in State Legislature District (\d+)$'), 'State House'),
+    # Baraga 2020 omits the 'District' word on the federal/State House
+    # titles entirely ('Representative in Congress 1st').
+    (re.compile(r'^Representative in Congress (\d+)(?:st|nd|rd|th)$'), 'U.S. House'),
+    (re.compile(r'^Representative in State Legislature (\d+)(?:st|nd|rd|th)$'),
+     'State House'),
 ]
 OFFICE_EXACT = {
     'Governor': 'Governor',
@@ -207,7 +212,8 @@ def map_office(title, county=None, map_offices=False):
             if m:
                 title = title[:m.start()]
     # "Delegate(s) to County Convention for <jurisdiction>" -> jurisdiction-first.
-    m = re.match(r'^Delegates? to County Convention for (.+)$', title)
+    # Baraga 2020 prints 'Delegate to the County Convention for ...'.
+    m = re.match(r'^Delegates? to (?:the )?County Convention for (.+)$', title)
     if m:
         title = (f'{m.group(1).strip()} Delegate to County Convention'
                  .replace('Nauganee', 'Negaunee').replace('Au Train', 'AuTrain'))
@@ -229,10 +235,30 @@ def map_office(title, county=None, map_offices=False):
                            'Drummond Island Township, Precinct')
                   .replace('Trout Township', 'Trout Lake Township')
                   .replace('Milage', 'Millage'))
+    # Baraga 2020: the Senate title carries a garbled 'for State Senate'
+    # tail, the DEM delegate title of a single-precinct township omits the
+    # precinct (Arvon is the only such jurisdiction), and the source
+    # misspells Covington in the turnout labels (the contest titles spell
+    # it right) and prints 'LAnse' without the apostrophe in DEM titles.
+    title = title.replace('United States Senator for State Senate',
+                          'United States Senator')
+    if county == 'Baraga':
+        title = title.replace('LAnse', "L'Anse")
+        m = re.match(r'^(.+) Delegate to County Convention$', title)
+        if m and ', Precinct ' not in title:
+            title = f'{m.group(1)}, Precinct 1 Delegate to County Convention'
     # "County Commissioner District 5" -> the repo's "Nth District" form.
     m = re.match(r'^County Commissioner,? (?:for )?(?:District|Dist) (\d+)(.*)$', title)
     if m:
         title = f'County Commissioner {ordinal(int(m.group(1)))} District{m.group(2)}'
+    # Baraga 2020 prints the Commissioner ordinal with no 'District' word,
+    # and its DEM 3rd-district title is just 'County 3rd District'.
+    m = re.match(r'^County Commissioner (\d+)(?:st|nd|rd|th)$', title)
+    if m:
+        title = f'County Commissioner {ordinal(int(m.group(1)))} District'
+    m = re.match(r'^County (\d+)(?:st|nd|rd|th) District$', title)
+    if m:
+        title = f'County Commissioner {ordinal(int(m.group(1)))} District'
     office = OFFICE_EXACT.get(title)
     district = ''
     if office is None:
@@ -1470,6 +1496,12 @@ def main():
     problems = []
     has_methods = run(args.pdf, args.county, out_rows, problems,
                       map_offices=args.map_offices)
+
+    # Baraga 2020's turnout table (and every contest page's label column)
+    # misspells Covington as 'Covongton'; the contest titles spell it right.
+    if args.county == 'Baraga':
+        for row in out_rows:
+            row[1] = row[1].replace('Covongton', 'Covington')
 
     header = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
     if has_methods:
