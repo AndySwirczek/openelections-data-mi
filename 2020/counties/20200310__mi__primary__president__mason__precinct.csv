@@ -1,0 +1,678 @@
+county,precinct,office,district,party,candidate,votes
+Mason,"Amber Township, Precinct 1",Registered Voters,,,,2045
+Mason,"Amber Township, Precinct 1",Ballots Cast,,DEM,,291
+Mason,"Amber Township, Precinct 1",Ballots Cast,,REP,,210
+Mason,"Amber Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Amber Township, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"Amber Township, Precinct 1",Ballots Cast,,,,501
+Mason,"Amber Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Amber Township, Precinct 1",President,,DEM,Joe Biden,165
+Mason,"Amber Township, Precinct 1",President,,DEM,Michael R. Bloomberg,7
+Mason,"Amber Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Amber Township, Precinct 1",President,,DEM,Pete Buttigieg,7
+Mason,"Amber Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Amber Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Amber Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Mason,"Amber Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Mason,"Amber Township, Precinct 1",President,,DEM,Bernie Sanders,107
+Mason,"Amber Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Amber Township, Precinct 1",President,,DEM,Tom Steyer,1
+Mason,"Amber Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Mason,"Amber Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Amber Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Amber Township, Precinct 1",President,,DEM,Uncommitted,1
+Mason,"Amber Township, Precinct 1",President,,REP,Mark Sanford,1
+Mason,"Amber Township, Precinct 1",President,,REP,Donald J. Trump,202
+Mason,"Amber Township, Precinct 1",President,,REP,Joe Walsh,1
+Mason,"Amber Township, Precinct 1",President,,REP,Bill Weld,1
+Mason,"Amber Township, Precinct 1",President,,REP,Uncommitted,4
+Mason,"Branch Township, Precinct 1",Registered Voters,,,,1071
+Mason,"Branch Township, Precinct 1",Ballots Cast,,DEM,,134
+Mason,"Branch Township, Precinct 1",Ballots Cast,,REP,,117
+Mason,"Branch Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Branch Township, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"Branch Township, Precinct 1",Ballots Cast,,,,251
+Mason,"Branch Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Branch Township, Precinct 1",President,,DEM,Joe Biden,79
+Mason,"Branch Township, Precinct 1",President,,DEM,Michael R. Bloomberg,3
+Mason,"Branch Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Branch Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Mason,"Branch Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Branch Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Branch Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Mason,"Branch Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Mason,"Branch Township, Precinct 1",President,,DEM,Bernie Sanders,45
+Mason,"Branch Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Branch Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Branch Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Mason,"Branch Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Branch Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Branch Township, Precinct 1",President,,DEM,Uncommitted,0
+Mason,"Branch Township, Precinct 1",President,,REP,Mark Sanford,1
+Mason,"Branch Township, Precinct 1",President,,REP,Donald J. Trump,110
+Mason,"Branch Township, Precinct 1",President,,REP,Joe Walsh,2
+Mason,"Branch Township, Precinct 1",President,,REP,Bill Weld,0
+Mason,"Branch Township, Precinct 1",President,,REP,Uncommitted,3
+Mason,"City of Ludington, Precinct 1",Registered Voters,,,,1006
+Mason,"City of Ludington, Precinct 1",Ballots Cast,,DEM,,226
+Mason,"City of Ludington, Precinct 1",Ballots Cast,,REP,,147
+Mason,"City of Ludington, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"City of Ludington, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"City of Ludington, Precinct 1",Ballots Cast,,,,373
+Mason,"City of Ludington, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"City of Ludington, Precinct 1",President,,DEM,Joe Biden,128
+Mason,"City of Ludington, Precinct 1",President,,DEM,Michael R. Bloomberg,12
+Mason,"City of Ludington, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"City of Ludington, Precinct 1",President,,DEM,Pete Buttigieg,4
+Mason,"City of Ludington, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"City of Ludington, Precinct 1",President,,DEM,John Delaney,0
+Mason,"City of Ludington, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Mason,"City of Ludington, Precinct 1",President,,DEM,Amy Klobuchar,5
+Mason,"City of Ludington, Precinct 1",President,,DEM,Bernie Sanders,63
+Mason,"City of Ludington, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"City of Ludington, Precinct 1",President,,DEM,Tom Steyer,2
+Mason,"City of Ludington, Precinct 1",President,,DEM,Elizabeth Warren,8
+Mason,"City of Ludington, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"City of Ludington, Precinct 1",President,,DEM,Andrew Yang,1
+Mason,"City of Ludington, Precinct 1",President,,DEM,Uncommitted,3
+Mason,"City of Ludington, Precinct 1",President,,REP,Mark Sanford,1
+Mason,"City of Ludington, Precinct 1",President,,REP,Donald J. Trump,136
+Mason,"City of Ludington, Precinct 1",President,,REP,Joe Walsh,1
+Mason,"City of Ludington, Precinct 1",President,,REP,Bill Weld,2
+Mason,"City of Ludington, Precinct 1",President,,REP,Uncommitted,7
+Mason,"City of Ludington, Precinct 2",Registered Voters,,,,1065
+Mason,"City of Ludington, Precinct 2",Ballots Cast,,DEM,,249
+Mason,"City of Ludington, Precinct 2",Ballots Cast,,REP,,122
+Mason,"City of Ludington, Precinct 2",Ballots Cast,,NPA,,0
+Mason,"City of Ludington, Precinct 2",Ballots Cast Blank,,,,0
+Mason,"City of Ludington, Precinct 2",Ballots Cast,,,,371
+Mason,"City of Ludington, Precinct 2",President,,DEM,Michael Bennet,0
+Mason,"City of Ludington, Precinct 2",President,,DEM,Joe Biden,137
+Mason,"City of Ludington, Precinct 2",President,,DEM,Michael R. Bloomberg,7
+Mason,"City of Ludington, Precinct 2",President,,DEM,Cory Booker,0
+Mason,"City of Ludington, Precinct 2",President,,DEM,Pete Buttigieg,8
+Mason,"City of Ludington, Precinct 2",President,,DEM,Julian Castro,0
+Mason,"City of Ludington, Precinct 2",President,,DEM,John Delaney,1
+Mason,"City of Ludington, Precinct 2",President,,DEM,Tulsi Gabbard,2
+Mason,"City of Ludington, Precinct 2",President,,DEM,Amy Klobuchar,3
+Mason,"City of Ludington, Precinct 2",President,,DEM,Bernie Sanders,84
+Mason,"City of Ludington, Precinct 2",President,,DEM,Joe Sestak,0
+Mason,"City of Ludington, Precinct 2",President,,DEM,Tom Steyer,0
+Mason,"City of Ludington, Precinct 2",President,,DEM,Elizabeth Warren,7
+Mason,"City of Ludington, Precinct 2",President,,DEM,Marianne Williamson,0
+Mason,"City of Ludington, Precinct 2",President,,DEM,Andrew Yang,0
+Mason,"City of Ludington, Precinct 2",President,,DEM,Uncommitted,0
+Mason,"City of Ludington, Precinct 2",President,,REP,Mark Sanford,0
+Mason,"City of Ludington, Precinct 2",President,,REP,Donald J. Trump,112
+Mason,"City of Ludington, Precinct 2",President,,REP,Joe Walsh,4
+Mason,"City of Ludington, Precinct 2",President,,REP,Bill Weld,0
+Mason,"City of Ludington, Precinct 2",President,,REP,Uncommitted,6
+Mason,"City of Ludington, Precinct 3",Registered Voters,,,,1150
+Mason,"City of Ludington, Precinct 3",Ballots Cast,,DEM,,249
+Mason,"City of Ludington, Precinct 3",Ballots Cast,,REP,,97
+Mason,"City of Ludington, Precinct 3",Ballots Cast,,NPA,,0
+Mason,"City of Ludington, Precinct 3",Ballots Cast Blank,,,,0
+Mason,"City of Ludington, Precinct 3",Ballots Cast,,,,346
+Mason,"City of Ludington, Precinct 3",President,,DEM,Michael Bennet,0
+Mason,"City of Ludington, Precinct 3",President,,DEM,Joe Biden,131
+Mason,"City of Ludington, Precinct 3",President,,DEM,Michael R. Bloomberg,9
+Mason,"City of Ludington, Precinct 3",President,,DEM,Cory Booker,0
+Mason,"City of Ludington, Precinct 3",President,,DEM,Pete Buttigieg,5
+Mason,"City of Ludington, Precinct 3",President,,DEM,Julian Castro,0
+Mason,"City of Ludington, Precinct 3",President,,DEM,John Delaney,0
+Mason,"City of Ludington, Precinct 3",President,,DEM,Tulsi Gabbard,1
+Mason,"City of Ludington, Precinct 3",President,,DEM,Amy Klobuchar,7
+Mason,"City of Ludington, Precinct 3",President,,DEM,Bernie Sanders,83
+Mason,"City of Ludington, Precinct 3",President,,DEM,Joe Sestak,0
+Mason,"City of Ludington, Precinct 3",President,,DEM,Tom Steyer,0
+Mason,"City of Ludington, Precinct 3",President,,DEM,Elizabeth Warren,10
+Mason,"City of Ludington, Precinct 3",President,,DEM,Marianne Williamson,1
+Mason,"City of Ludington, Precinct 3",President,,DEM,Andrew Yang,0
+Mason,"City of Ludington, Precinct 3",President,,DEM,Uncommitted,2
+Mason,"City of Ludington, Precinct 3",President,,REP,Mark Sanford,0
+Mason,"City of Ludington, Precinct 3",President,,REP,Donald J. Trump,89
+Mason,"City of Ludington, Precinct 3",President,,REP,Joe Walsh,1
+Mason,"City of Ludington, Precinct 3",President,,REP,Bill Weld,0
+Mason,"City of Ludington, Precinct 3",President,,REP,Uncommitted,7
+Mason,"City of Ludington, Precinct 4",Registered Voters,,,,1030
+Mason,"City of Ludington, Precinct 4",Ballots Cast,,DEM,,150
+Mason,"City of Ludington, Precinct 4",Ballots Cast,,REP,,78
+Mason,"City of Ludington, Precinct 4",Ballots Cast,,NPA,,0
+Mason,"City of Ludington, Precinct 4",Ballots Cast Blank,,,,0
+Mason,"City of Ludington, Precinct 4",Ballots Cast,,,,228
+Mason,"City of Ludington, Precinct 4",President,,DEM,Michael Bennet,0
+Mason,"City of Ludington, Precinct 4",President,,DEM,Joe Biden,73
+Mason,"City of Ludington, Precinct 4",President,,DEM,Michael R. Bloomberg,10
+Mason,"City of Ludington, Precinct 4",President,,DEM,Cory Booker,0
+Mason,"City of Ludington, Precinct 4",President,,DEM,Pete Buttigieg,2
+Mason,"City of Ludington, Precinct 4",President,,DEM,Julian Castro,0
+Mason,"City of Ludington, Precinct 4",President,,DEM,John Delaney,0
+Mason,"City of Ludington, Precinct 4",President,,DEM,Tulsi Gabbard,0
+Mason,"City of Ludington, Precinct 4",President,,DEM,Amy Klobuchar,5
+Mason,"City of Ludington, Precinct 4",President,,DEM,Bernie Sanders,58
+Mason,"City of Ludington, Precinct 4",President,,DEM,Joe Sestak,0
+Mason,"City of Ludington, Precinct 4",President,,DEM,Tom Steyer,0
+Mason,"City of Ludington, Precinct 4",President,,DEM,Elizabeth Warren,1
+Mason,"City of Ludington, Precinct 4",President,,DEM,Marianne Williamson,0
+Mason,"City of Ludington, Precinct 4",President,,DEM,Andrew Yang,0
+Mason,"City of Ludington, Precinct 4",President,,DEM,Uncommitted,1
+Mason,"City of Ludington, Precinct 4",President,,REP,Mark Sanford,0
+Mason,"City of Ludington, Precinct 4",President,,REP,Donald J. Trump,73
+Mason,"City of Ludington, Precinct 4",President,,REP,Joe Walsh,1
+Mason,"City of Ludington, Precinct 4",President,,REP,Bill Weld,0
+Mason,"City of Ludington, Precinct 4",President,,REP,Uncommitted,4
+Mason,"City of Ludington, Precinct 5",Registered Voters,,,,965
+Mason,"City of Ludington, Precinct 5",Ballots Cast,,DEM,,219
+Mason,"City of Ludington, Precinct 5",Ballots Cast,,REP,,155
+Mason,"City of Ludington, Precinct 5",Ballots Cast,,NPA,,0
+Mason,"City of Ludington, Precinct 5",Ballots Cast Blank,,,,1
+Mason,"City of Ludington, Precinct 5",Ballots Cast,,,,374
+Mason,"City of Ludington, Precinct 5",President,,DEM,Michael Bennet,0
+Mason,"City of Ludington, Precinct 5",President,,DEM,Joe Biden,120
+Mason,"City of Ludington, Precinct 5",President,,DEM,Michael R. Bloomberg,15
+Mason,"City of Ludington, Precinct 5",President,,DEM,Cory Booker,0
+Mason,"City of Ludington, Precinct 5",President,,DEM,Pete Buttigieg,5
+Mason,"City of Ludington, Precinct 5",President,,DEM,Julian Castro,0
+Mason,"City of Ludington, Precinct 5",President,,DEM,John Delaney,0
+Mason,"City of Ludington, Precinct 5",President,,DEM,Tulsi Gabbard,3
+Mason,"City of Ludington, Precinct 5",President,,DEM,Amy Klobuchar,0
+Mason,"City of Ludington, Precinct 5",President,,DEM,Bernie Sanders,66
+Mason,"City of Ludington, Precinct 5",President,,DEM,Joe Sestak,0
+Mason,"City of Ludington, Precinct 5",President,,DEM,Tom Steyer,0
+Mason,"City of Ludington, Precinct 5",President,,DEM,Elizabeth Warren,5
+Mason,"City of Ludington, Precinct 5",President,,DEM,Marianne Williamson,1
+Mason,"City of Ludington, Precinct 5",President,,DEM,Andrew Yang,1
+Mason,"City of Ludington, Precinct 5",President,,DEM,Uncommitted,3
+Mason,"City of Ludington, Precinct 5",President,,REP,Mark Sanford,0
+Mason,"City of Ludington, Precinct 5",President,,REP,Donald J. Trump,142
+Mason,"City of Ludington, Precinct 5",President,,REP,Joe Walsh,2
+Mason,"City of Ludington, Precinct 5",President,,REP,Bill Weld,0
+Mason,"City of Ludington, Precinct 5",President,,REP,Uncommitted,8
+Mason,"City of Ludington, Precinct 6",Registered Voters,,,,984
+Mason,"City of Ludington, Precinct 6",Ballots Cast,,DEM,,180
+Mason,"City of Ludington, Precinct 6",Ballots Cast,,REP,,69
+Mason,"City of Ludington, Precinct 6",Ballots Cast,,NPA,,0
+Mason,"City of Ludington, Precinct 6",Ballots Cast Blank,,,,0
+Mason,"City of Ludington, Precinct 6",Ballots Cast,,,,249
+Mason,"City of Ludington, Precinct 6",President,,DEM,Michael Bennet,0
+Mason,"City of Ludington, Precinct 6",President,,DEM,Joe Biden,85
+Mason,"City of Ludington, Precinct 6",President,,DEM,Michael R. Bloomberg,7
+Mason,"City of Ludington, Precinct 6",President,,DEM,Cory Booker,0
+Mason,"City of Ludington, Precinct 6",President,,DEM,Pete Buttigieg,1
+Mason,"City of Ludington, Precinct 6",President,,DEM,Julian Castro,0
+Mason,"City of Ludington, Precinct 6",President,,DEM,John Delaney,0
+Mason,"City of Ludington, Precinct 6",President,,DEM,Tulsi Gabbard,2
+Mason,"City of Ludington, Precinct 6",President,,DEM,Amy Klobuchar,2
+Mason,"City of Ludington, Precinct 6",President,,DEM,Bernie Sanders,75
+Mason,"City of Ludington, Precinct 6",President,,DEM,Joe Sestak,0
+Mason,"City of Ludington, Precinct 6",President,,DEM,Tom Steyer,0
+Mason,"City of Ludington, Precinct 6",President,,DEM,Elizabeth Warren,6
+Mason,"City of Ludington, Precinct 6",President,,DEM,Marianne Williamson,0
+Mason,"City of Ludington, Precinct 6",President,,DEM,Andrew Yang,0
+Mason,"City of Ludington, Precinct 6",President,,DEM,Uncommitted,2
+Mason,"City of Ludington, Precinct 6",President,,REP,Mark Sanford,3
+Mason,"City of Ludington, Precinct 6",President,,REP,Donald J. Trump,63
+Mason,"City of Ludington, Precinct 6",President,,REP,Joe Walsh,1
+Mason,"City of Ludington, Precinct 6",President,,REP,Bill Weld,1
+Mason,"City of Ludington, Precinct 6",President,,REP,Uncommitted,1
+Mason,"City of Scottville, Precinct 1",Registered Voters,,,,528
+Mason,"City of Scottville, Precinct 1",Ballots Cast,,DEM,,50
+Mason,"City of Scottville, Precinct 1",Ballots Cast,,REP,,38
+Mason,"City of Scottville, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"City of Scottville, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"City of Scottville, Precinct 1",Ballots Cast,,,,88
+Mason,"City of Scottville, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"City of Scottville, Precinct 1",President,,DEM,Joe Biden,30
+Mason,"City of Scottville, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Mason,"City of Scottville, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"City of Scottville, Precinct 1",President,,DEM,Pete Buttigieg,0
+Mason,"City of Scottville, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"City of Scottville, Precinct 1",President,,DEM,John Delaney,0
+Mason,"City of Scottville, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Mason,"City of Scottville, Precinct 1",President,,DEM,Amy Klobuchar,0
+Mason,"City of Scottville, Precinct 1",President,,DEM,Bernie Sanders,19
+Mason,"City of Scottville, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"City of Scottville, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"City of Scottville, Precinct 1",President,,DEM,Elizabeth Warren,0
+Mason,"City of Scottville, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"City of Scottville, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"City of Scottville, Precinct 1",President,,DEM,Uncommitted,0
+Mason,"City of Scottville, Precinct 1",President,,REP,Mark Sanford,0
+Mason,"City of Scottville, Precinct 1",President,,REP,Donald J. Trump,34
+Mason,"City of Scottville, Precinct 1",President,,REP,Joe Walsh,1
+Mason,"City of Scottville, Precinct 1",President,,REP,Bill Weld,0
+Mason,"City of Scottville, Precinct 1",President,,REP,Uncommitted,3
+Mason,"City of Scottville, Precinct 2",Registered Voters,,,,489
+Mason,"City of Scottville, Precinct 2",Ballots Cast,,DEM,,49
+Mason,"City of Scottville, Precinct 2",Ballots Cast,,REP,,28
+Mason,"City of Scottville, Precinct 2",Ballots Cast,,NPA,,0
+Mason,"City of Scottville, Precinct 2",Ballots Cast Blank,,,,0
+Mason,"City of Scottville, Precinct 2",Ballots Cast,,,,77
+Mason,"City of Scottville, Precinct 2",President,,DEM,Michael Bennet,0
+Mason,"City of Scottville, Precinct 2",President,,DEM,Joe Biden,19
+Mason,"City of Scottville, Precinct 2",President,,DEM,Michael R. Bloomberg,1
+Mason,"City of Scottville, Precinct 2",President,,DEM,Cory Booker,0
+Mason,"City of Scottville, Precinct 2",President,,DEM,Pete Buttigieg,0
+Mason,"City of Scottville, Precinct 2",President,,DEM,Julian Castro,0
+Mason,"City of Scottville, Precinct 2",President,,DEM,John Delaney,0
+Mason,"City of Scottville, Precinct 2",President,,DEM,Tulsi Gabbard,0
+Mason,"City of Scottville, Precinct 2",President,,DEM,Amy Klobuchar,2
+Mason,"City of Scottville, Precinct 2",President,,DEM,Bernie Sanders,26
+Mason,"City of Scottville, Precinct 2",President,,DEM,Joe Sestak,0
+Mason,"City of Scottville, Precinct 2",President,,DEM,Tom Steyer,0
+Mason,"City of Scottville, Precinct 2",President,,DEM,Elizabeth Warren,0
+Mason,"City of Scottville, Precinct 2",President,,DEM,Marianne Williamson,0
+Mason,"City of Scottville, Precinct 2",President,,DEM,Andrew Yang,0
+Mason,"City of Scottville, Precinct 2",President,,DEM,Uncommitted,1
+Mason,"City of Scottville, Precinct 2",President,,REP,Mark Sanford,0
+Mason,"City of Scottville, Precinct 2",President,,REP,Donald J. Trump,26
+Mason,"City of Scottville, Precinct 2",President,,REP,Joe Walsh,1
+Mason,"City of Scottville, Precinct 2",President,,REP,Bill Weld,0
+Mason,"City of Scottville, Precinct 2",President,,REP,Uncommitted,1
+Mason,"Custer Township, Precinct 1",Registered Voters,,,,1011
+Mason,"Custer Township, Precinct 1",Ballots Cast,,DEM,,124
+Mason,"Custer Township, Precinct 1",Ballots Cast,,REP,,139
+Mason,"Custer Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Custer Township, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"Custer Township, Precinct 1",Ballots Cast,,,,263
+Mason,"Custer Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Custer Township, Precinct 1",President,,DEM,Joe Biden,86
+Mason,"Custer Township, Precinct 1",President,,DEM,Michael R. Bloomberg,3
+Mason,"Custer Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Custer Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Mason,"Custer Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Custer Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Custer Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Mason,"Custer Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Mason,"Custer Township, Precinct 1",President,,DEM,Bernie Sanders,31
+Mason,"Custer Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Custer Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Custer Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Mason,"Custer Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Custer Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Custer Township, Precinct 1",President,,DEM,Uncommitted,0
+Mason,"Custer Township, Precinct 1",President,,REP,Mark Sanford,0
+Mason,"Custer Township, Precinct 1",President,,REP,Donald J. Trump,135
+Mason,"Custer Township, Precinct 1",President,,REP,Joe Walsh,1
+Mason,"Custer Township, Precinct 1",President,,REP,Bill Weld,1
+Mason,"Custer Township, Precinct 1",President,,REP,Uncommitted,1
+Mason,"Eden Township, Precinct 1",Registered Voters,,,,433
+Mason,"Eden Township, Precinct 1",Ballots Cast,,DEM,,61
+Mason,"Eden Township, Precinct 1",Ballots Cast,,REP,,51
+Mason,"Eden Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Eden Township, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"Eden Township, Precinct 1",Ballots Cast,,,,112
+Mason,"Eden Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Eden Township, Precinct 1",President,,DEM,Joe Biden,43
+Mason,"Eden Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Mason,"Eden Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Eden Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Mason,"Eden Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Eden Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Eden Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Mason,"Eden Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Mason,"Eden Township, Precinct 1",President,,DEM,Bernie Sanders,15
+Mason,"Eden Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Eden Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Eden Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Mason,"Eden Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Eden Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Eden Township, Precinct 1",President,,DEM,Uncommitted,0
+Mason,"Eden Township, Precinct 1",President,,REP,Mark Sanford,0
+Mason,"Eden Township, Precinct 1",President,,REP,Donald J. Trump,48
+Mason,"Eden Township, Precinct 1",President,,REP,Joe Walsh,1
+Mason,"Eden Township, Precinct 1",President,,REP,Bill Weld,0
+Mason,"Eden Township, Precinct 1",President,,REP,Uncommitted,2
+Mason,"Free Soil Township, Precinct 1",Registered Voters,,,,713
+Mason,"Free Soil Township, Precinct 1",Ballots Cast,,DEM,,127
+Mason,"Free Soil Township, Precinct 1",Ballots Cast,,REP,,78
+Mason,"Free Soil Township, Precinct 1",Ballots Cast,,NPA,,7
+Mason,"Free Soil Township, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"Free Soil Township, Precinct 1",Ballots Cast,,,,212
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Joe Biden,70
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Julian Castro,1
+Mason,"Free Soil Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Bernie Sanders,50
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Free Soil Township, Precinct 1",President,,DEM,Uncommitted,1
+Mason,"Free Soil Township, Precinct 1",President,,REP,Mark Sanford,1
+Mason,"Free Soil Township, Precinct 1",President,,REP,Donald J. Trump,74
+Mason,"Free Soil Township, Precinct 1",President,,REP,Joe Walsh,0
+Mason,"Free Soil Township, Precinct 1",President,,REP,Bill Weld,0
+Mason,"Free Soil Township, Precinct 1",President,,REP,Uncommitted,3
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Proposal,,,Yes,135
+Mason,"Free Soil Township, Precinct 1",Free Soil Township Proposal,,,No,68
+Mason,"Grant Township, Precinct 1",Registered Voters,,,,845
+Mason,"Grant Township, Precinct 1",Ballots Cast,,DEM,,131
+Mason,"Grant Township, Precinct 1",Ballots Cast,,REP,,51
+Mason,"Grant Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Grant Township, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"Grant Township, Precinct 1",Ballots Cast,,,,182
+Mason,"Grant Township, Precinct 1",President,,DEM,Michael Bennet,1
+Mason,"Grant Township, Precinct 1",President,,DEM,Joe Biden,79
+Mason,"Grant Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Mason,"Grant Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Grant Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Mason,"Grant Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Grant Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Grant Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Mason,"Grant Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Mason,"Grant Township, Precinct 1",President,,DEM,Bernie Sanders,42
+Mason,"Grant Township, Precinct 1",President,,DEM,Joe Sestak,1
+Mason,"Grant Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Grant Township, Precinct 1",President,,DEM,Elizabeth Warren,5
+Mason,"Grant Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Grant Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Grant Township, Precinct 1",President,,DEM,Uncommitted,0
+Mason,"Grant Township, Precinct 1",President,,REP,Mark Sanford,0
+Mason,"Grant Township, Precinct 1",President,,REP,Donald J. Trump,51
+Mason,"Grant Township, Precinct 1",President,,REP,Joe Walsh,0
+Mason,"Grant Township, Precinct 1",President,,REP,Bill Weld,0
+Mason,"Grant Township, Precinct 1",President,,REP,Uncommitted,0
+Mason,"Hamlin Township, Precinct 1",Registered Voters,,,,1236
+Mason,"Hamlin Township, Precinct 1",Ballots Cast,,DEM,,233
+Mason,"Hamlin Township, Precinct 1",Ballots Cast,,REP,,141
+Mason,"Hamlin Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Hamlin Township, Precinct 1",Ballots Cast Blank,,,,1
+Mason,"Hamlin Township, Precinct 1",Ballots Cast,,,,374
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Joe Biden,152
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Hamlin Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Amy Klobuchar,5
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Bernie Sanders,64
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Hamlin Township, Precinct 1",President,,DEM,Uncommitted,4
+Mason,"Hamlin Township, Precinct 1",President,,REP,Mark Sanford,0
+Mason,"Hamlin Township, Precinct 1",President,,REP,Donald J. Trump,130
+Mason,"Hamlin Township, Precinct 1",President,,REP,Joe Walsh,1
+Mason,"Hamlin Township, Precinct 1",President,,REP,Bill Weld,0
+Mason,"Hamlin Township, Precinct 1",President,,REP,Uncommitted,9
+Mason,"Hamlin Township, Precinct 2",Registered Voters,,,,2125
+Mason,"Hamlin Township, Precinct 2",Ballots Cast,,DEM,,375
+Mason,"Hamlin Township, Precinct 2",Ballots Cast,,REP,,199
+Mason,"Hamlin Township, Precinct 2",Ballots Cast,,NPA,,0
+Mason,"Hamlin Township, Precinct 2",Ballots Cast Blank,,,,0
+Mason,"Hamlin Township, Precinct 2",Ballots Cast,,,,574
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Michael Bennet,0
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Joe Biden,238
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Michael R. Bloomberg,10
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Cory Booker,0
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Pete Buttigieg,3
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Julian Castro,0
+Mason,"Hamlin Township, Precinct 2",President,,DEM,John Delaney,0
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Tulsi Gabbard,0
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Amy Klobuchar,1
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Bernie Sanders,108
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Joe Sestak,1
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Tom Steyer,1
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Elizabeth Warren,10
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Andrew Yang,0
+Mason,"Hamlin Township, Precinct 2",President,,DEM,Uncommitted,3
+Mason,"Hamlin Township, Precinct 2",President,,REP,Mark Sanford,0
+Mason,"Hamlin Township, Precinct 2",President,,REP,Donald J. Trump,189
+Mason,"Hamlin Township, Precinct 2",President,,REP,Joe Walsh,2
+Mason,"Hamlin Township, Precinct 2",President,,REP,Bill Weld,5
+Mason,"Hamlin Township, Precinct 2",President,,REP,Uncommitted,2
+Mason,"Logan Township, Precinct 1",Registered Voters,,,,266
+Mason,"Logan Township, Precinct 1",Ballots Cast,,DEM,,39
+Mason,"Logan Township, Precinct 1",Ballots Cast,,REP,,33
+Mason,"Logan Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Logan Township, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"Logan Township, Precinct 1",Ballots Cast,,,,72
+Mason,"Logan Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Logan Township, Precinct 1",President,,DEM,Joe Biden,23
+Mason,"Logan Township, Precinct 1",President,,DEM,Michael R. Bloomberg,2
+Mason,"Logan Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Logan Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Mason,"Logan Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Logan Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Logan Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Mason,"Logan Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Mason,"Logan Township, Precinct 1",President,,DEM,Bernie Sanders,8
+Mason,"Logan Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Logan Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Logan Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Mason,"Logan Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Logan Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Logan Township, Precinct 1",President,,DEM,Uncommitted,0
+Mason,"Logan Township, Precinct 1",President,,REP,Mark Sanford,0
+Mason,"Logan Township, Precinct 1",President,,REP,Donald J. Trump,28
+Mason,"Logan Township, Precinct 1",President,,REP,Joe Walsh,2
+Mason,"Logan Township, Precinct 1",President,,REP,Bill Weld,0
+Mason,"Logan Township, Precinct 1",President,,REP,Uncommitted,2
+Mason,"Meade Township, Precinct 1",Registered Voters,,,,149
+Mason,"Meade Township, Precinct 1",Ballots Cast,,DEM,,20
+Mason,"Meade Township, Precinct 1",Ballots Cast,,REP,,23
+Mason,"Meade Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Meade Township, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"Meade Township, Precinct 1",Ballots Cast,,,,43
+Mason,"Meade Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Meade Township, Precinct 1",President,,DEM,Joe Biden,13
+Mason,"Meade Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Mason,"Meade Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Meade Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Mason,"Meade Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Meade Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Meade Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Mason,"Meade Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Mason,"Meade Township, Precinct 1",President,,DEM,Bernie Sanders,3
+Mason,"Meade Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Meade Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Meade Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Mason,"Meade Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Meade Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Meade Township, Precinct 1",President,,DEM,Uncommitted,1
+Mason,"Meade Township, Precinct 1",President,,REP,Mark Sanford,0
+Mason,"Meade Township, Precinct 1",President,,REP,Donald J. Trump,22
+Mason,"Meade Township, Precinct 1",President,,REP,Joe Walsh,0
+Mason,"Meade Township, Precinct 1",President,,REP,Bill Weld,0
+Mason,"Meade Township, Precinct 1",President,,REP,Uncommitted,1
+Mason,"Pere Marquette Charter Twp, Pct. 1",Registered Voters,,,,629
+Mason,"Pere Marquette Charter Twp, Pct. 1",Ballots Cast,,DEM,,125
+Mason,"Pere Marquette Charter Twp, Pct. 1",Ballots Cast,,REP,,81
+Mason,"Pere Marquette Charter Twp, Pct. 1",Ballots Cast,,NPA,,0
+Mason,"Pere Marquette Charter Twp, Pct. 1",Ballots Cast Blank,,,,0
+Mason,"Pere Marquette Charter Twp, Pct. 1",Ballots Cast,,,,206
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Michael Bennet,0
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Joe Biden,68
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Michael R. Bloomberg,12
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Cory Booker,1
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Pete Buttigieg,3
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Julian Castro,0
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,John Delaney,0
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Tulsi Gabbard,0
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Amy Klobuchar,2
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Bernie Sanders,34
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Joe Sestak,0
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Tom Steyer,0
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Elizabeth Warren,0
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Marianne Williamson,0
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Andrew Yang,1
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,DEM,Uncommitted,4
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,REP,Mark Sanford,2
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,REP,Donald J. Trump,72
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,REP,Joe Walsh,1
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,REP,Bill Weld,0
+Mason,"Pere Marquette Charter Twp, Pct. 1",President,,REP,Uncommitted,5
+Mason,"Pere Marquette Charter Twp, Pct. 2",Registered Voters,,,,1374
+Mason,"Pere Marquette Charter Twp, Pct. 2",Ballots Cast,,DEM,,274
+Mason,"Pere Marquette Charter Twp, Pct. 2",Ballots Cast,,REP,,186
+Mason,"Pere Marquette Charter Twp, Pct. 2",Ballots Cast,,NPA,,0
+Mason,"Pere Marquette Charter Twp, Pct. 2",Ballots Cast Blank,,,,1
+Mason,"Pere Marquette Charter Twp, Pct. 2",Ballots Cast,,,,460
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Michael Bennet,2
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Joe Biden,132
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Michael R. Bloomberg,23
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Cory Booker,0
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Pete Buttigieg,5
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Julian Castro,0
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,John Delaney,0
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Tulsi Gabbard,1
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Amy Klobuchar,8
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Bernie Sanders,88
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Joe Sestak,1
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Tom Steyer,0
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Elizabeth Warren,10
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Marianne Williamson,0
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Andrew Yang,0
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,DEM,Uncommitted,3
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,REP,Mark Sanford,2
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,REP,Donald J. Trump,180
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,REP,Joe Walsh,0
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,REP,Bill Weld,0
+Mason,"Pere Marquette Charter Twp, Pct. 2",President,,REP,Uncommitted,4
+Mason,"Riverton Township, Precinct 1",Registered Voters,,,,951
+Mason,"Riverton Township, Precinct 1",Ballots Cast,,DEM,,136
+Mason,"Riverton Township, Precinct 1",Ballots Cast,,REP,,91
+Mason,"Riverton Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Riverton Township, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"Riverton Township, Precinct 1",Ballots Cast,,,,227
+Mason,"Riverton Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Riverton Township, Precinct 1",President,,DEM,Joe Biden,76
+Mason,"Riverton Township, Precinct 1",President,,DEM,Michael R. Bloomberg,5
+Mason,"Riverton Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Riverton Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Mason,"Riverton Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Riverton Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Riverton Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Mason,"Riverton Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Mason,"Riverton Township, Precinct 1",President,,DEM,Bernie Sanders,48
+Mason,"Riverton Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Riverton Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Riverton Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Mason,"Riverton Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Riverton Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Riverton Township, Precinct 1",President,,DEM,Uncommitted,0
+Mason,"Riverton Township, Precinct 1",President,,REP,Mark Sanford,2
+Mason,"Riverton Township, Precinct 1",President,,REP,Donald J. Trump,80
+Mason,"Riverton Township, Precinct 1",President,,REP,Joe Walsh,0
+Mason,"Riverton Township, Precinct 1",President,,REP,Bill Weld,2
+Mason,"Riverton Township, Precinct 1",President,,REP,Uncommitted,7
+Mason,"Sheridan Township, Precinct 1",Registered Voters,,,,841
+Mason,"Sheridan Township, Precinct 1",Ballots Cast,,DEM,,131
+Mason,"Sheridan Township, Precinct 1",Ballots Cast,,REP,,70
+Mason,"Sheridan Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Sheridan Township, Precinct 1",Ballots Cast Blank,,,,1
+Mason,"Sheridan Township, Precinct 1",Ballots Cast,,,,201
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Joe Biden,70
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Michael R. Bloomberg,7
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Sheridan Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Bernie Sanders,49
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Sheridan Township, Precinct 1",President,,DEM,Uncommitted,2
+Mason,"Sheridan Township, Precinct 1",President,,REP,Mark Sanford,0
+Mason,"Sheridan Township, Precinct 1",President,,REP,Donald J. Trump,67
+Mason,"Sheridan Township, Precinct 1",President,,REP,Joe Walsh,0
+Mason,"Sheridan Township, Precinct 1",President,,REP,Bill Weld,0
+Mason,"Sheridan Township, Precinct 1",President,,REP,Uncommitted,2
+Mason,"Sherman Township, Precinct 1",Registered Voters,,,,878
+Mason,"Sherman Township, Precinct 1",Ballots Cast,,DEM,,103
+Mason,"Sherman Township, Precinct 1",Ballots Cast,,REP,,76
+Mason,"Sherman Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Sherman Township, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"Sherman Township, Precinct 1",Ballots Cast,,,,179
+Mason,"Sherman Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Sherman Township, Precinct 1",President,,DEM,Joe Biden,61
+Mason,"Sherman Township, Precinct 1",President,,DEM,Michael R. Bloomberg,3
+Mason,"Sherman Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Sherman Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Mason,"Sherman Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Sherman Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Sherman Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Mason,"Sherman Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Mason,"Sherman Township, Precinct 1",President,,DEM,Bernie Sanders,36
+Mason,"Sherman Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Sherman Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Sherman Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Mason,"Sherman Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Sherman Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Sherman Township, Precinct 1",President,,DEM,Uncommitted,0
+Mason,"Sherman Township, Precinct 1",President,,REP,Mark Sanford,0
+Mason,"Sherman Township, Precinct 1",President,,REP,Donald J. Trump,70
+Mason,"Sherman Township, Precinct 1",President,,REP,Joe Walsh,0
+Mason,"Sherman Township, Precinct 1",President,,REP,Bill Weld,2
+Mason,"Sherman Township, Precinct 1",President,,REP,Uncommitted,4
+Mason,"Summit Township, Precinct 1",Registered Voters,,,,917
+Mason,"Summit Township, Precinct 1",Ballots Cast,,DEM,,173
+Mason,"Summit Township, Precinct 1",Ballots Cast,,REP,,83
+Mason,"Summit Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Summit Township, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"Summit Township, Precinct 1",Ballots Cast,,,,256
+Mason,"Summit Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Summit Township, Precinct 1",President,,DEM,Joe Biden,115
+Mason,"Summit Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Mason,"Summit Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Summit Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Mason,"Summit Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Summit Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Summit Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Mason,"Summit Township, Precinct 1",President,,DEM,Amy Klobuchar,7
+Mason,"Summit Township, Precinct 1",President,,DEM,Bernie Sanders,45
+Mason,"Summit Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Summit Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Summit Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Mason,"Summit Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Summit Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Summit Township, Precinct 1",President,,DEM,Uncommitted,1
+Mason,"Summit Township, Precinct 1",President,,REP,Mark Sanford,0
+Mason,"Summit Township, Precinct 1",President,,REP,Donald J. Trump,80
+Mason,"Summit Township, Precinct 1",President,,REP,Joe Walsh,0
+Mason,"Summit Township, Precinct 1",President,,REP,Bill Weld,0
+Mason,"Summit Township, Precinct 1",President,,REP,Uncommitted,3
+Mason,"Victory Township, Precinct 1",Registered Voters,,,,1159
+Mason,"Victory Township, Precinct 1",Ballots Cast,,DEM,,139
+Mason,"Victory Township, Precinct 1",Ballots Cast,,REP,,131
+Mason,"Victory Township, Precinct 1",Ballots Cast,,NPA,,0
+Mason,"Victory Township, Precinct 1",Ballots Cast Blank,,,,0
+Mason,"Victory Township, Precinct 1",Ballots Cast,,,,270
+Mason,"Victory Township, Precinct 1",President,,DEM,Michael Bennet,0
+Mason,"Victory Township, Precinct 1",President,,DEM,Joe Biden,76
+Mason,"Victory Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Mason,"Victory Township, Precinct 1",President,,DEM,Cory Booker,0
+Mason,"Victory Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Mason,"Victory Township, Precinct 1",President,,DEM,Julian Castro,0
+Mason,"Victory Township, Precinct 1",President,,DEM,John Delaney,0
+Mason,"Victory Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Mason,"Victory Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Mason,"Victory Township, Precinct 1",President,,DEM,Bernie Sanders,57
+Mason,"Victory Township, Precinct 1",President,,DEM,Joe Sestak,0
+Mason,"Victory Township, Precinct 1",President,,DEM,Tom Steyer,0
+Mason,"Victory Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Mason,"Victory Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Mason,"Victory Township, Precinct 1",President,,DEM,Andrew Yang,0
+Mason,"Victory Township, Precinct 1",President,,DEM,Uncommitted,1
+Mason,"Victory Township, Precinct 1",President,,REP,Mark Sanford,1
+Mason,"Victory Township, Precinct 1",President,,REP,Donald J. Trump,128
+Mason,"Victory Township, Precinct 1",President,,REP,Joe Walsh,0
+Mason,"Victory Township, Precinct 1",President,,REP,Bill Weld,0
+Mason,"Victory Township, Precinct 1",President,,REP,Uncommitted,2
