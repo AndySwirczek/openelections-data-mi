@@ -1,0 +1,939 @@
+county,precinct,office,district,party,candidate,votes
+Sanilac,"City of Brown City, Precinct 1",Registered Voters,,,,870
+Sanilac,"City of Croswell, Precinct 1",Registered Voters,,,,1676
+Sanilac,"City of Marlette, Precinct 1",Registered Voters,,,,1227
+Sanilac,"City of Sandusky, Precinct 1",Registered Voters,,,,1730
+Sanilac,"Argyle Township, Precinct 1",Registered Voters,,,,500
+Sanilac,"Austin Township, Precinct 1",Registered Voters,,,,451
+Sanilac,"Bridgehampton Township, Precinct 1",Registered Voters,,,,532
+Sanilac,"Buel Township, Precinct 1",Registered Voters,,,,909
+Sanilac,"Custer Township, Precinct 1",Registered Voters,,,,696
+Sanilac,"Delaware Township, Precinct 1",Registered Voters,,,,618
+Sanilac,"Elk Township, Precinct 1",Registered Voters,,,,1088
+Sanilac,"Elmer Township, Precinct 1",Registered Voters,,,,559
+Sanilac,"Evergreen Township, Precinct 1",Registered Voters,,,,516
+Sanilac,"Flynn Township, Precinct 1",Registered Voters,,,,589
+Sanilac,"Forester Township, Precinct 1",Registered Voters,,,,759
+Sanilac,"Fremont Township, Precinct 1",Registered Voters,,,,722
+Sanilac,"Greenleaf Township, Precinct 1",Registered Voters,,,,490
+Sanilac,"Lamotte Township, Precinct 1",Registered Voters,,,,550
+Sanilac,"Lexington Township, Precinct 1",Registered Voters,,,,2786
+Sanilac,"Maple Valley Township, Precinct 1",Registered Voters,,,,743
+Sanilac,"Marion Township, Precinct 1",Registered Voters,,,,1112
+Sanilac,"Marlette Township, Precinct 1",Registered Voters,,,,1270
+Sanilac,"Minden Township, Precinct 1",Registered Voters,,,,372
+Sanilac,"Moore Township, Precinct 1",Registered Voters,,,,747
+Sanilac,"Sanilac Township, Precinct 1",Registered Voters,,,,2003
+Sanilac,"Speaker Township, Precinct 1",Registered Voters,,,,997
+Sanilac,"Washington Township, Precinct 1",Registered Voters,,,,1037
+Sanilac,"Watertown Township, Precinct 1",Registered Voters,,,,944
+Sanilac,"Wheatland Township, Precinct 1",Registered Voters,,,,307
+Sanilac,"Worth Township, Precinct 1",Registered Voters,,,,1434
+Sanilac,"Worth Township, Precinct 2",Registered Voters,,,,1536
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Michael Bennet,1
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Michael Bennet,1
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Michael Bennet,1
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Michael Bennet,1
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Michael Bennet,0
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Michael Bennet,1
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Joe Biden,48
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Joe Biden,120
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Joe Biden,66
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Joe Biden,114
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Joe Biden,15
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Joe Biden,32
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Joe Biden,16
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Joe Biden,33
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Joe Biden,38
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Joe Biden,34
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Joe Biden,42
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Joe Biden,32
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Joe Biden,16
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Joe Biden,33
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Joe Biden,72
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Joe Biden,33
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Joe Biden,25
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Joe Biden,17
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Joe Biden,269
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Joe Biden,39
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Joe Biden,43
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Joe Biden,60
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Joe Biden,27
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Joe Biden,46
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Joe Biden,216
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Joe Biden,49
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Joe Biden,58
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Joe Biden,49
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Joe Biden,20
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Joe Biden,82
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Joe Biden,107
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Michael R. Bloomberg,3
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Michael R. Bloomberg,11
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Michael R. Bloomberg,14
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Michael R. Bloomberg,2
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Michael R. Bloomberg,5
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Michael R. Bloomberg,2
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Michael R. Bloomberg,2
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Michael R. Bloomberg,28
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Michael R. Bloomberg,6
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Michael R. Bloomberg,3
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Michael R. Bloomberg,6
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Michael R. Bloomberg,26
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Michael R. Bloomberg,19
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Cory Booker,1
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Cory Booker,0
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Cory Booker,0
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Pete Buttigieg,1
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Pete Buttigieg,3
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Pete Buttigieg,4
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Pete Buttigieg,8
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Pete Buttigieg,5
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Pete Buttigieg,5
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Julian Castro,0
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Julian Castro,0
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Austin Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Buel Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Custer Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Elk Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Forester Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Marion Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Minden Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Moore Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Washington Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Worth Township, Precinct 1",President,,DEM,John Delaney,0
+Sanilac,"Worth Township, Precinct 2",President,,DEM,John Delaney,0
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Tulsi Gabbard,4
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Tulsi Gabbard,4
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Tulsi Gabbard,3
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Amy Klobuchar,1
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Amy Klobuchar,6
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Amy Klobuchar,1
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Bernie Sanders,27
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Bernie Sanders,72
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Bernie Sanders,38
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Bernie Sanders,57
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Bernie Sanders,10
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Bernie Sanders,22
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Bernie Sanders,12
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Bernie Sanders,19
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Bernie Sanders,21
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Bernie Sanders,13
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Bernie Sanders,31
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Bernie Sanders,11
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Bernie Sanders,6
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Bernie Sanders,13
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Bernie Sanders,28
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Bernie Sanders,32
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Bernie Sanders,12
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Bernie Sanders,12
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Bernie Sanders,142
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Bernie Sanders,15
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Bernie Sanders,44
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Bernie Sanders,34
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Bernie Sanders,10
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Bernie Sanders,16
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Bernie Sanders,98
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Bernie Sanders,43
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Bernie Sanders,38
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Bernie Sanders,17
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Bernie Sanders,8
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Bernie Sanders,59
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Bernie Sanders,54
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Joe Sestak,1
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Joe Sestak,2
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Joe Sestak,1
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Joe Sestak,0
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Joe Sestak,0
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Tom Steyer,2
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Tom Steyer,1
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Tom Steyer,1
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Tom Steyer,2
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Tom Steyer,0
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Tom Steyer,2
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Elizabeth Warren,0
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Elizabeth Warren,1
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Elizabeth Warren,1
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Elizabeth Warren,6
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Elizabeth Warren,4
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Elizabeth Warren,6
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Elizabeth Warren,12
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Elizabeth Warren,2
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Marianne Williamson,1
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Andrew Yang,1
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Andrew Yang,0
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Andrew Yang,1
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Andrew Yang,1
+Sanilac,"City of Brown City, Precinct 1",President,,DEM,Uncommitted,2
+Sanilac,"City of Croswell, Precinct 1",President,,DEM,Uncommitted,5
+Sanilac,"City of Marlette, Precinct 1",President,,DEM,Uncommitted,2
+Sanilac,"City of Sandusky, Precinct 1",President,,DEM,Uncommitted,3
+Sanilac,"Argyle Township, Precinct 1",President,,DEM,Uncommitted,1
+Sanilac,"Austin Township, Precinct 1",President,,DEM,Uncommitted,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,DEM,Uncommitted,0
+Sanilac,"Buel Township, Precinct 1",President,,DEM,Uncommitted,0
+Sanilac,"Custer Township, Precinct 1",President,,DEM,Uncommitted,0
+Sanilac,"Delaware Township, Precinct 1",President,,DEM,Uncommitted,0
+Sanilac,"Elk Township, Precinct 1",President,,DEM,Uncommitted,0
+Sanilac,"Elmer Township, Precinct 1",President,,DEM,Uncommitted,0
+Sanilac,"Evergreen Township, Precinct 1",President,,DEM,Uncommitted,1
+Sanilac,"Flynn Township, Precinct 1",President,,DEM,Uncommitted,0
+Sanilac,"Forester Township, Precinct 1",President,,DEM,Uncommitted,3
+Sanilac,"Fremont Township, Precinct 1",President,,DEM,Uncommitted,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,DEM,Uncommitted,0
+Sanilac,"Lamotte Township, Precinct 1",President,,DEM,Uncommitted,3
+Sanilac,"Lexington Township, Precinct 1",President,,DEM,Uncommitted,13
+Sanilac,"Maple Valley Township, Precinct 1",President,,DEM,Uncommitted,2
+Sanilac,"Marion Township, Precinct 1",President,,DEM,Uncommitted,3
+Sanilac,"Marlette Township, Precinct 1",President,,DEM,Uncommitted,1
+Sanilac,"Minden Township, Precinct 1",President,,DEM,Uncommitted,4
+Sanilac,"Moore Township, Precinct 1",President,,DEM,Uncommitted,3
+Sanilac,"Sanilac Township, Precinct 1",President,,DEM,Uncommitted,2
+Sanilac,"Speaker Township, Precinct 1",President,,DEM,Uncommitted,2
+Sanilac,"Washington Township, Precinct 1",President,,DEM,Uncommitted,0
+Sanilac,"Watertown Township, Precinct 1",President,,DEM,Uncommitted,4
+Sanilac,"Wheatland Township, Precinct 1",President,,DEM,Uncommitted,1
+Sanilac,"Worth Township, Precinct 1",President,,DEM,Uncommitted,3
+Sanilac,"Worth Township, Precinct 2",President,,DEM,Uncommitted,8
+Sanilac,"City of Brown City, Precinct 1",Ballots Cast,,DEM,,81
+Sanilac,"City of Croswell, Precinct 1",Ballots Cast,,DEM,,214
+Sanilac,"City of Marlette, Precinct 1",Ballots Cast,,DEM,,114
+Sanilac,"City of Sandusky, Precinct 1",Ballots Cast,,DEM,,201
+Sanilac,"Argyle Township, Precinct 1",Ballots Cast,,DEM,,28
+Sanilac,"Austin Township, Precinct 1",Ballots Cast,,DEM,,58
+Sanilac,"Bridgehampton Township, Precinct 1",Ballots Cast,,DEM,,31
+Sanilac,"Buel Township, Precinct 1",Ballots Cast,,DEM,,63
+Sanilac,"Custer Township, Precinct 1",Ballots Cast,,DEM,,63
+Sanilac,"Delaware Township, Precinct 1",Ballots Cast,,DEM,,52
+Sanilac,"Elk Township, Precinct 1",Ballots Cast,,DEM,,77
+Sanilac,"Elmer Township, Precinct 1",Ballots Cast,,DEM,,45
+Sanilac,"Evergreen Township, Precinct 1",Ballots Cast,,DEM,,23
+Sanilac,"Flynn Township, Precinct 1",Ballots Cast,,DEM,,50
+Sanilac,"Forester Township, Precinct 1",Ballots Cast,,DEM,,114
+Sanilac,"Fremont Township, Precinct 1",Ballots Cast,,DEM,,66
+Sanilac,"Greenleaf Township, Precinct 1",Ballots Cast,,DEM,,39
+Sanilac,"Lamotte Township, Precinct 1",Ballots Cast,,DEM,,36
+Sanilac,"Lexington Township, Precinct 1",Ballots Cast,,DEM,,476
+Sanilac,"Maple Valley Township, Precinct 1",Ballots Cast,,DEM,,58
+Sanilac,"Marion Township, Precinct 1",Ballots Cast,,DEM,,94
+Sanilac,"Marlette Township, Precinct 1",Ballots Cast,,DEM,,103
+Sanilac,"Minden Township, Precinct 1",Ballots Cast,,DEM,,49
+Sanilac,"Moore Township, Precinct 1",Ballots Cast,,DEM,,69
+Sanilac,"Sanilac Township, Precinct 1",Ballots Cast,,DEM,,335
+Sanilac,"Speaker Township, Precinct 1",Ballots Cast,,DEM,,95
+Sanilac,"Washington Township, Precinct 1",Ballots Cast,,DEM,,108
+Sanilac,"Watertown Township, Precinct 1",Ballots Cast,,DEM,,83
+Sanilac,"Wheatland Township, Precinct 1",Ballots Cast,,DEM,,34
+Sanilac,"Worth Township, Precinct 1",Ballots Cast,,DEM,,191
+Sanilac,"Worth Township, Precinct 2",Ballots Cast,,DEM,,203
+Sanilac,"City of Brown City, Precinct 1",President,,REP,Mark Sanford,3
+Sanilac,"City of Croswell, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"City of Marlette, Precinct 1",President,,REP,Mark Sanford,1
+Sanilac,"City of Sandusky, Precinct 1",President,,REP,Mark Sanford,1
+Sanilac,"Argyle Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Austin Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,REP,Mark Sanford,1
+Sanilac,"Buel Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Custer Township, Precinct 1",President,,REP,Mark Sanford,1
+Sanilac,"Delaware Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Elk Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Elmer Township, Precinct 1",President,,REP,Mark Sanford,1
+Sanilac,"Evergreen Township, Precinct 1",President,,REP,Mark Sanford,1
+Sanilac,"Flynn Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Forester Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Fremont Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Lamotte Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Lexington Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Maple Valley Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Marion Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Marlette Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Minden Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Moore Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Sanilac Township, Precinct 1",President,,REP,Mark Sanford,2
+Sanilac,"Speaker Township, Precinct 1",President,,REP,Mark Sanford,1
+Sanilac,"Washington Township, Precinct 1",President,,REP,Mark Sanford,1
+Sanilac,"Watertown Township, Precinct 1",President,,REP,Mark Sanford,1
+Sanilac,"Wheatland Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Worth Township, Precinct 1",President,,REP,Mark Sanford,0
+Sanilac,"Worth Township, Precinct 2",President,,REP,Mark Sanford,0
+Sanilac,"City of Brown City, Precinct 1",President,,REP,Donald J. Trump,121
+Sanilac,"City of Croswell, Precinct 1",President,,REP,Donald J. Trump,162
+Sanilac,"City of Marlette, Precinct 1",President,,REP,Donald J. Trump,157
+Sanilac,"City of Sandusky, Precinct 1",President,,REP,Donald J. Trump,246
+Sanilac,"Argyle Township, Precinct 1",President,,REP,Donald J. Trump,73
+Sanilac,"Austin Township, Precinct 1",President,,REP,Donald J. Trump,36
+Sanilac,"Bridgehampton Township, Precinct 1",President,,REP,Donald J. Trump,86
+Sanilac,"Buel Township, Precinct 1",President,,REP,Donald J. Trump,141
+Sanilac,"Custer Township, Precinct 1",President,,REP,Donald J. Trump,129
+Sanilac,"Delaware Township, Precinct 1",President,,REP,Donald J. Trump,96
+Sanilac,"Elk Township, Precinct 1",President,,REP,Donald J. Trump,158
+Sanilac,"Elmer Township, Precinct 1",President,,REP,Donald J. Trump,95
+Sanilac,"Evergreen Township, Precinct 1",President,,REP,Donald J. Trump,102
+Sanilac,"Flynn Township, Precinct 1",President,,REP,Donald J. Trump,94
+Sanilac,"Forester Township, Precinct 1",President,,REP,Donald J. Trump,114
+Sanilac,"Fremont Township, Precinct 1",President,,REP,Donald J. Trump,111
+Sanilac,"Greenleaf Township, Precinct 1",President,,REP,Donald J. Trump,86
+Sanilac,"Lamotte Township, Precinct 1",President,,REP,Donald J. Trump,130
+Sanilac,"Lexington Township, Precinct 1",President,,REP,Donald J. Trump,335
+Sanilac,"Maple Valley Township, Precinct 1",President,,REP,Donald J. Trump,100
+Sanilac,"Marion Township, Precinct 1",President,,REP,Donald J. Trump,176
+Sanilac,"Marlette Township, Precinct 1",President,,REP,Donald J. Trump,212
+Sanilac,"Minden Township, Precinct 1",President,,REP,Donald J. Trump,56
+Sanilac,"Moore Township, Precinct 1",President,,REP,Donald J. Trump,163
+Sanilac,"Sanilac Township, Precinct 1",President,,REP,Donald J. Trump,276
+Sanilac,"Speaker Township, Precinct 1",President,,REP,Donald J. Trump,132
+Sanilac,"Washington Township, Precinct 1",President,,REP,Donald J. Trump,155
+Sanilac,"Watertown Township, Precinct 1",President,,REP,Donald J. Trump,177
+Sanilac,"Wheatland Township, Precinct 1",President,,REP,Donald J. Trump,52
+Sanilac,"Worth Township, Precinct 1",President,,REP,Donald J. Trump,208
+Sanilac,"Worth Township, Precinct 2",President,,REP,Donald J. Trump,192
+Sanilac,"City of Brown City, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"City of Croswell, Precinct 1",President,,REP,Joe Walsh,1
+Sanilac,"City of Marlette, Precinct 1",President,,REP,Joe Walsh,1
+Sanilac,"City of Sandusky, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Argyle Township, Precinct 1",President,,REP,Joe Walsh,4
+Sanilac,"Austin Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Buel Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Custer Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Delaware Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Elk Township, Precinct 1",President,,REP,Joe Walsh,1
+Sanilac,"Elmer Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Evergreen Township, Precinct 1",President,,REP,Joe Walsh,1
+Sanilac,"Flynn Township, Precinct 1",President,,REP,Joe Walsh,1
+Sanilac,"Forester Township, Precinct 1",President,,REP,Joe Walsh,1
+Sanilac,"Fremont Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Lamotte Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Lexington Township, Precinct 1",President,,REP,Joe Walsh,2
+Sanilac,"Maple Valley Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Marion Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Marlette Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Minden Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Moore Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Sanilac Township, Precinct 1",President,,REP,Joe Walsh,1
+Sanilac,"Speaker Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Washington Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Watertown Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Wheatland Township, Precinct 1",President,,REP,Joe Walsh,0
+Sanilac,"Worth Township, Precinct 1",President,,REP,Joe Walsh,1
+Sanilac,"Worth Township, Precinct 2",President,,REP,Joe Walsh,0
+Sanilac,"City of Brown City, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"City of Croswell, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"City of Marlette, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"City of Sandusky, Precinct 1",President,,REP,Bill Weld,2
+Sanilac,"Argyle Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Austin Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Buel Township, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"Custer Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Delaware Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Elk Township, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"Elmer Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Evergreen Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Flynn Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Forester Township, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"Fremont Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Greenleaf Township, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"Lamotte Township, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"Lexington Township, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"Maple Valley Township, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"Marion Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Marlette Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Minden Township, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"Moore Township, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"Sanilac Township, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"Speaker Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Washington Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Watertown Township, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"Wheatland Township, Precinct 1",President,,REP,Bill Weld,0
+Sanilac,"Worth Township, Precinct 1",President,,REP,Bill Weld,1
+Sanilac,"Worth Township, Precinct 2",President,,REP,Bill Weld,0
+Sanilac,"City of Brown City, Precinct 1",President,,REP,Uncommitted,3
+Sanilac,"City of Croswell, Precinct 1",President,,REP,Uncommitted,5
+Sanilac,"City of Marlette, Precinct 1",President,,REP,Uncommitted,10
+Sanilac,"City of Sandusky, Precinct 1",President,,REP,Uncommitted,11
+Sanilac,"Argyle Township, Precinct 1",President,,REP,Uncommitted,5
+Sanilac,"Austin Township, Precinct 1",President,,REP,Uncommitted,0
+Sanilac,"Bridgehampton Township, Precinct 1",President,,REP,Uncommitted,4
+Sanilac,"Buel Township, Precinct 1",President,,REP,Uncommitted,2
+Sanilac,"Custer Township, Precinct 1",President,,REP,Uncommitted,9
+Sanilac,"Delaware Township, Precinct 1",President,,REP,Uncommitted,0
+Sanilac,"Elk Township, Precinct 1",President,,REP,Uncommitted,2
+Sanilac,"Elmer Township, Precinct 1",President,,REP,Uncommitted,2
+Sanilac,"Evergreen Township, Precinct 1",President,,REP,Uncommitted,3
+Sanilac,"Flynn Township, Precinct 1",President,,REP,Uncommitted,1
+Sanilac,"Forester Township, Precinct 1",President,,REP,Uncommitted,3
+Sanilac,"Fremont Township, Precinct 1",President,,REP,Uncommitted,1
+Sanilac,"Greenleaf Township, Precinct 1",President,,REP,Uncommitted,2
+Sanilac,"Lamotte Township, Precinct 1",President,,REP,Uncommitted,4
+Sanilac,"Lexington Township, Precinct 1",President,,REP,Uncommitted,16
+Sanilac,"Maple Valley Township, Precinct 1",President,,REP,Uncommitted,1
+Sanilac,"Marion Township, Precinct 1",President,,REP,Uncommitted,3
+Sanilac,"Marlette Township, Precinct 1",President,,REP,Uncommitted,5
+Sanilac,"Minden Township, Precinct 1",President,,REP,Uncommitted,2
+Sanilac,"Moore Township, Precinct 1",President,,REP,Uncommitted,2
+Sanilac,"Sanilac Township, Precinct 1",President,,REP,Uncommitted,4
+Sanilac,"Speaker Township, Precinct 1",President,,REP,Uncommitted,3
+Sanilac,"Washington Township, Precinct 1",President,,REP,Uncommitted,9
+Sanilac,"Watertown Township, Precinct 1",President,,REP,Uncommitted,4
+Sanilac,"Wheatland Township, Precinct 1",President,,REP,Uncommitted,0
+Sanilac,"Worth Township, Precinct 1",President,,REP,Uncommitted,8
+Sanilac,"Worth Township, Precinct 2",President,,REP,Uncommitted,8
+Sanilac,"City of Brown City, Precinct 1",Ballots Cast,,REP,,127
+Sanilac,"City of Croswell, Precinct 1",Ballots Cast,,REP,,170
+Sanilac,"City of Marlette, Precinct 1",Ballots Cast,,REP,,170
+Sanilac,"City of Sandusky, Precinct 1",Ballots Cast,,REP,,260
+Sanilac,"Argyle Township, Precinct 1",Ballots Cast,,REP,,82
+Sanilac,"Austin Township, Precinct 1",Ballots Cast,,REP,,36
+Sanilac,"Bridgehampton Township, Precinct 1",Ballots Cast,,REP,,91
+Sanilac,"Buel Township, Precinct 1",Ballots Cast,,REP,,144
+Sanilac,"Custer Township, Precinct 1",Ballots Cast,,REP,,139
+Sanilac,"Delaware Township, Precinct 1",Ballots Cast,,REP,,96
+Sanilac,"Elk Township, Precinct 1",Ballots Cast,,REP,,162
+Sanilac,"Elmer Township, Precinct 1",Ballots Cast,,REP,,98
+Sanilac,"Evergreen Township, Precinct 1",Ballots Cast,,REP,,107
+Sanilac,"Flynn Township, Precinct 1",Ballots Cast,,REP,,96
+Sanilac,"Forester Township, Precinct 1",Ballots Cast,,REP,,119
+Sanilac,"Fremont Township, Precinct 1",Ballots Cast,,REP,,112
+Sanilac,"Greenleaf Township, Precinct 1",Ballots Cast,,REP,,89
+Sanilac,"Lamotte Township, Precinct 1",Ballots Cast,,REP,,135
+Sanilac,"Lexington Township, Precinct 1",Ballots Cast,,REP,,354
+Sanilac,"Maple Valley Township, Precinct 1",Ballots Cast,,REP,,102
+Sanilac,"Marion Township, Precinct 1",Ballots Cast,,REP,,179
+Sanilac,"Marlette Township, Precinct 1",Ballots Cast,,REP,,217
+Sanilac,"Minden Township, Precinct 1",Ballots Cast,,REP,,59
+Sanilac,"Moore Township, Precinct 1",Ballots Cast,,REP,,166
+Sanilac,"Sanilac Township, Precinct 1",Ballots Cast,,REP,,284
+Sanilac,"Speaker Township, Precinct 1",Ballots Cast,,REP,,137
+Sanilac,"Washington Township, Precinct 1",Ballots Cast,,REP,,165
+Sanilac,"Watertown Township, Precinct 1",Ballots Cast,,REP,,183
+Sanilac,"Wheatland Township, Precinct 1",Ballots Cast,,REP,,52
+Sanilac,"Worth Township, Precinct 1",Ballots Cast,,REP,,218
+Sanilac,"Worth Township, Precinct 2",Ballots Cast,,REP,,200
+Sanilac,"Argyle Township, Precinct 1",County Recycling Millage,,,Yes,79
+Sanilac,"Argyle Township, Precinct 1",County Recycling Millage,,,No,34
+Sanilac,"Austin Township, Precinct 1",County Recycling Millage,,,Yes,57
+Sanilac,"Austin Township, Precinct 1",County Recycling Millage,,,No,37
+Sanilac,"Bridgehampton Township, Precinct 1",County Recycling Millage,,,Yes,88
+Sanilac,"Bridgehampton Township, Precinct 1",County Recycling Millage,,,No,34
+Sanilac,"Buel Township, Precinct 1",County Recycling Millage,,,Yes,151
+Sanilac,"Buel Township, Precinct 1",County Recycling Millage,,,No,66
+Sanilac,"City of Brown City, Precinct 1",County Recycling Millage,,,Yes,170
+Sanilac,"City of Brown City, Precinct 1",County Recycling Millage,,,No,44
+Sanilac,"City of Croswell, Precinct 1",County Recycling Millage,,,Yes,300
+Sanilac,"City of Croswell, Precinct 1",County Recycling Millage,,,No,97
+Sanilac,"City of Marlette, Precinct 1",County Recycling Millage,,,Yes,231
+Sanilac,"City of Marlette, Precinct 1",County Recycling Millage,,,No,59
+Sanilac,"City of Sandusky, Precinct 1",County Recycling Millage,,,Yes,373
+Sanilac,"City of Sandusky, Precinct 1",County Recycling Millage,,,No,94
+Sanilac,"Custer Township, Precinct 1",County Recycling Millage,,,Yes,147
+Sanilac,"Custer Township, Precinct 1",County Recycling Millage,,,No,63
+Sanilac,"Delaware Township, Precinct 1",County Recycling Millage,,,Yes,115
+Sanilac,"Delaware Township, Precinct 1",County Recycling Millage,,,No,40
+Sanilac,"Elk Township, Precinct 1",County Recycling Millage,,,Yes,177
+Sanilac,"Elk Township, Precinct 1",County Recycling Millage,,,No,64
+Sanilac,"Elmer Township, Precinct 1",County Recycling Millage,,,Yes,102
+Sanilac,"Elmer Township, Precinct 1",County Recycling Millage,,,No,43
+Sanilac,"Evergreen Township, Precinct 1",County Recycling Millage,,,Yes,91
+Sanilac,"Evergreen Township, Precinct 1",County Recycling Millage,,,No,38
+Sanilac,"Flynn Township, Precinct 1",County Recycling Millage,,,Yes,108
+Sanilac,"Flynn Township, Precinct 1",County Recycling Millage,,,No,46
+Sanilac,"Forester Township, Precinct 1",County Recycling Millage,,,Yes,185
+Sanilac,"Forester Township, Precinct 1",County Recycling Millage,,,No,57
+Sanilac,"Fremont Township, Precinct 1",County Recycling Millage,,,Yes,104
+Sanilac,"Fremont Township, Precinct 1",County Recycling Millage,,,No,78
+Sanilac,"Greenleaf Township, Precinct 1",County Recycling Millage,,,Yes,88
+Sanilac,"Greenleaf Township, Precinct 1",County Recycling Millage,,,No,40
+Sanilac,"Lamotte Township, Precinct 1",County Recycling Millage,,,Yes,133
+Sanilac,"Lamotte Township, Precinct 1",County Recycling Millage,,,No,45
+Sanilac,"Lexington Township, Precinct 1",County Recycling Millage,,,Yes,634
+Sanilac,"Lexington Township, Precinct 1",County Recycling Millage,,,No,223
+Sanilac,"Maple Valley Township, Precinct 1",County Recycling Millage,,,Yes,120
+Sanilac,"Maple Valley Township, Precinct 1",County Recycling Millage,,,No,45
+Sanilac,"Marion Township, Precinct 1",County Recycling Millage,,,Yes,234
+Sanilac,"Marion Township, Precinct 1",County Recycling Millage,,,No,66
+Sanilac,"Marlette Township, Precinct 1",County Recycling Millage,,,Yes,245
+Sanilac,"Marlette Township, Precinct 1",County Recycling Millage,,,No,87
+Sanilac,"Minden Township, Precinct 1",County Recycling Millage,,,Yes,80
+Sanilac,"Minden Township, Precinct 1",County Recycling Millage,,,No,31
+Sanilac,"Moore Township, Precinct 1",County Recycling Millage,,,Yes,181
+Sanilac,"Moore Township, Precinct 1",County Recycling Millage,,,No,71
+Sanilac,"Sanilac Township, Precinct 1",County Recycling Millage,,,Yes,489
+Sanilac,"Sanilac Township, Precinct 1",County Recycling Millage,,,No,137
+Sanilac,"Speaker Township, Precinct 1",County Recycling Millage,,,Yes,156
+Sanilac,"Speaker Township, Precinct 1",County Recycling Millage,,,No,85
+Sanilac,"Washington Township, Precinct 1",County Recycling Millage,,,Yes,197
+Sanilac,"Washington Township, Precinct 1",County Recycling Millage,,,No,93
+Sanilac,"Watertown Township, Precinct 1",County Recycling Millage,,,Yes,204
+Sanilac,"Watertown Township, Precinct 1",County Recycling Millage,,,No,73
+Sanilac,"Wheatland Township, Precinct 1",County Recycling Millage,,,Yes,79
+Sanilac,"Wheatland Township, Precinct 1",County Recycling Millage,,,No,14
+Sanilac,"Worth Township, Precinct 1",County Recycling Millage,,,Yes,284
+Sanilac,"Worth Township, Precinct 1",County Recycling Millage,,,No,134
+Sanilac,"Worth Township, Precinct 2",County Recycling Millage,,,Yes,255
+Sanilac,"Worth Township, Precinct 2",County Recycling Millage,,,No,155
+Sanilac,"Argyle Township, Precinct 1",County Library Millage,,,Yes,78
+Sanilac,"Argyle Township, Precinct 1",County Library Millage,,,No,35
+Sanilac,"Austin Township, Precinct 1",County Library Millage,,,Yes,62
+Sanilac,"Austin Township, Precinct 1",County Library Millage,,,No,34
+Sanilac,"Bridgehampton Township, Precinct 1",County Library Millage,,,Yes,89
+Sanilac,"Bridgehampton Township, Precinct 1",County Library Millage,,,No,33
+Sanilac,"Buel Township, Precinct 1",County Library Millage,,,Yes,158
+Sanilac,"Buel Township, Precinct 1",County Library Millage,,,No,60
+Sanilac,"City of Brown City, Precinct 1",County Library Millage,,,Yes,186
+Sanilac,"City of Brown City, Precinct 1",County Library Millage,,,No,29
+Sanilac,"City of Croswell, Precinct 1",County Library Millage,,,Yes,323
+Sanilac,"City of Croswell, Precinct 1",County Library Millage,,,No,76
+Sanilac,"City of Marlette, Precinct 1",County Library Millage,,,Yes,250
+Sanilac,"City of Marlette, Precinct 1",County Library Millage,,,No,42
+Sanilac,"City of Sandusky, Precinct 1",County Library Millage,,,Yes,397
+Sanilac,"City of Sandusky, Precinct 1",County Library Millage,,,No,74
+Sanilac,"Custer Township, Precinct 1",County Library Millage,,,Yes,152
+Sanilac,"Custer Township, Precinct 1",County Library Millage,,,No,59
+Sanilac,"Delaware Township, Precinct 1",County Library Millage,,,Yes,111
+Sanilac,"Delaware Township, Precinct 1",County Library Millage,,,No,43
+Sanilac,"Elk Township, Precinct 1",County Library Millage,,,Yes,188
+Sanilac,"Elk Township, Precinct 1",County Library Millage,,,No,54
+Sanilac,"Elmer Township, Precinct 1",County Library Millage,,,Yes,104
+Sanilac,"Elmer Township, Precinct 1",County Library Millage,,,No,40
+Sanilac,"Evergreen Township, Precinct 1",County Library Millage,,,Yes,92
+Sanilac,"Evergreen Township, Precinct 1",County Library Millage,,,No,37
+Sanilac,"Flynn Township, Precinct 1",County Library Millage,,,Yes,114
+Sanilac,"Flynn Township, Precinct 1",County Library Millage,,,No,41
+Sanilac,"Forester Township, Precinct 1",County Library Millage,,,Yes,191
+Sanilac,"Forester Township, Precinct 1",County Library Millage,,,No,52
+Sanilac,"Fremont Township, Precinct 1",County Library Millage,,,Yes,111
+Sanilac,"Fremont Township, Precinct 1",County Library Millage,,,No,72
+Sanilac,"Greenleaf Township, Precinct 1",County Library Millage,,,Yes,83
+Sanilac,"Greenleaf Township, Precinct 1",County Library Millage,,,No,46
+Sanilac,"Lamotte Township, Precinct 1",County Library Millage,,,Yes,133
+Sanilac,"Lamotte Township, Precinct 1",County Library Millage,,,No,46
+Sanilac,"Lexington Township, Precinct 1",County Library Millage,,,Yes,685
+Sanilac,"Lexington Township, Precinct 1",County Library Millage,,,No,174
+Sanilac,"Maple Valley Township, Precinct 1",County Library Millage,,,Yes,126
+Sanilac,"Maple Valley Township, Precinct 1",County Library Millage,,,No,41
+Sanilac,"Marion Township, Precinct 1",County Library Millage,,,Yes,247
+Sanilac,"Marion Township, Precinct 1",County Library Millage,,,No,54
+Sanilac,"Marlette Township, Precinct 1",County Library Millage,,,Yes,278
+Sanilac,"Marlette Township, Precinct 1",County Library Millage,,,No,55
+Sanilac,"Minden Township, Precinct 1",County Library Millage,,,Yes,79
+Sanilac,"Minden Township, Precinct 1",County Library Millage,,,No,32
+Sanilac,"Moore Township, Precinct 1",County Library Millage,,,Yes,186
+Sanilac,"Moore Township, Precinct 1",County Library Millage,,,No,65
+Sanilac,"Sanilac Township, Precinct 1",County Library Millage,,,Yes,538
+Sanilac,"Sanilac Township, Precinct 1",County Library Millage,,,No,91
+Sanilac,"Speaker Township, Precinct 1",County Library Millage,,,Yes,166
+Sanilac,"Speaker Township, Precinct 1",County Library Millage,,,No,75
+Sanilac,"Washington Township, Precinct 1",County Library Millage,,,Yes,215
+Sanilac,"Washington Township, Precinct 1",County Library Millage,,,No,74
+Sanilac,"Watertown Township, Precinct 1",County Library Millage,,,Yes,211
+Sanilac,"Watertown Township, Precinct 1",County Library Millage,,,No,66
+Sanilac,"Wheatland Township, Precinct 1",County Library Millage,,,Yes,71
+Sanilac,"Wheatland Township, Precinct 1",County Library Millage,,,No,22
+Sanilac,"Worth Township, Precinct 1",County Library Millage,,,Yes,287
+Sanilac,"Worth Township, Precinct 1",County Library Millage,,,No,129
+Sanilac,"Worth Township, Precinct 2",County Library Millage,,,Yes,280
+Sanilac,"Worth Township, Precinct 2",County Library Millage,,,No,134
+Sanilac,"Argyle Township, Precinct 1",County Med Control Millage,,,Yes,94
+Sanilac,"Argyle Township, Precinct 1",County Med Control Millage,,,No,19
+Sanilac,"Austin Township, Precinct 1",County Med Control Millage,,,Yes,80
+Sanilac,"Austin Township, Precinct 1",County Med Control Millage,,,No,15
+Sanilac,"Bridgehampton Township, Precinct 1",County Med Control Millage,,,Yes,99
+Sanilac,"Bridgehampton Township, Precinct 1",County Med Control Millage,,,No,23
+Sanilac,"Buel Township, Precinct 1",County Med Control Millage,,,Yes,184
+Sanilac,"Buel Township, Precinct 1",County Med Control Millage,,,No,37
+Sanilac,"City of Brown City, Precinct 1",County Med Control Millage,,,Yes,192
+Sanilac,"City of Brown City, Precinct 1",County Med Control Millage,,,No,26
+Sanilac,"City of Croswell, Precinct 1",County Med Control Millage,,,Yes,341
+Sanilac,"City of Croswell, Precinct 1",County Med Control Millage,,,No,61
+Sanilac,"City of Marlette, Precinct 1",County Med Control Millage,,,Yes,253
+Sanilac,"City of Marlette, Precinct 1",County Med Control Millage,,,No,37
+Sanilac,"City of Sandusky, Precinct 1",County Med Control Millage,,,Yes,420
+Sanilac,"City of Sandusky, Precinct 1",County Med Control Millage,,,No,49
+Sanilac,"Custer Township, Precinct 1",County Med Control Millage,,,Yes,165
+Sanilac,"Custer Township, Precinct 1",County Med Control Millage,,,No,47
+Sanilac,"Delaware Township, Precinct 1",County Med Control Millage,,,Yes,136
+Sanilac,"Delaware Township, Precinct 1",County Med Control Millage,,,No,19
+Sanilac,"Elk Township, Precinct 1",County Med Control Millage,,,Yes,200
+Sanilac,"Elk Township, Precinct 1",County Med Control Millage,,,No,44
+Sanilac,"Elmer Township, Precinct 1",County Med Control Millage,,,Yes,120
+Sanilac,"Elmer Township, Precinct 1",County Med Control Millage,,,No,26
+Sanilac,"Evergreen Township, Precinct 1",County Med Control Millage,,,Yes,107
+Sanilac,"Evergreen Township, Precinct 1",County Med Control Millage,,,No,24
+Sanilac,"Flynn Township, Precinct 1",County Med Control Millage,,,Yes,131
+Sanilac,"Flynn Township, Precinct 1",County Med Control Millage,,,No,24
+Sanilac,"Forester Township, Precinct 1",County Med Control Millage,,,Yes,208
+Sanilac,"Forester Township, Precinct 1",County Med Control Millage,,,No,33
+Sanilac,"Fremont Township, Precinct 1",County Med Control Millage,,,Yes,149
+Sanilac,"Fremont Township, Precinct 1",County Med Control Millage,,,No,32
+Sanilac,"Greenleaf Township, Precinct 1",County Med Control Millage,,,Yes,97
+Sanilac,"Greenleaf Township, Precinct 1",County Med Control Millage,,,No,32
+Sanilac,"Lamotte Township, Precinct 1",County Med Control Millage,,,Yes,150
+Sanilac,"Lamotte Township, Precinct 1",County Med Control Millage,,,No,28
+Sanilac,"Lexington Township, Precinct 1",County Med Control Millage,,,Yes,744
+Sanilac,"Lexington Township, Precinct 1",County Med Control Millage,,,No,116
+Sanilac,"Maple Valley Township, Precinct 1",County Med Control Millage,,,Yes,136
+Sanilac,"Maple Valley Township, Precinct 1",County Med Control Millage,,,No,30
+Sanilac,"Marion Township, Precinct 1",County Med Control Millage,,,Yes,266
+Sanilac,"Marion Township, Precinct 1",County Med Control Millage,,,No,34
+Sanilac,"Marlette Township, Precinct 1",County Med Control Millage,,,Yes,274
+Sanilac,"Marlette Township, Precinct 1",County Med Control Millage,,,No,61
+Sanilac,"Minden Township, Precinct 1",County Med Control Millage,,,Yes,94
+Sanilac,"Minden Township, Precinct 1",County Med Control Millage,,,No,17
+Sanilac,"Moore Township, Precinct 1",County Med Control Millage,,,Yes,195
+Sanilac,"Moore Township, Precinct 1",County Med Control Millage,,,No,57
+Sanilac,"Sanilac Township, Precinct 1",County Med Control Millage,,,Yes,556
+Sanilac,"Sanilac Township, Precinct 1",County Med Control Millage,,,No,73
+Sanilac,"Speaker Township, Precinct 1",County Med Control Millage,,,Yes,193
+Sanilac,"Speaker Township, Precinct 1",County Med Control Millage,,,No,47
+Sanilac,"Washington Township, Precinct 1",County Med Control Millage,,,Yes,226
+Sanilac,"Washington Township, Precinct 1",County Med Control Millage,,,No,64
+Sanilac,"Watertown Township, Precinct 1",County Med Control Millage,,,Yes,233
+Sanilac,"Watertown Township, Precinct 1",County Med Control Millage,,,No,42
+Sanilac,"Wheatland Township, Precinct 1",County Med Control Millage,,,Yes,81
+Sanilac,"Wheatland Township, Precinct 1",County Med Control Millage,,,No,12
+Sanilac,"Worth Township, Precinct 1",County Med Control Millage,,,Yes,355
+Sanilac,"Worth Township, Precinct 1",County Med Control Millage,,,No,63
+Sanilac,"Worth Township, Precinct 2",County Med Control Millage,,,Yes,326
+Sanilac,"Worth Township, Precinct 2",County Med Control Millage,,,No,84
+Sanilac,"Forester Township, Precinct 1",Forester TWP Fire Protection Millage,,,Yes,203
+Sanilac,"Forester Township, Precinct 1",Forester TWP Fire Protection Millage,,,No,39
+Sanilac,"Fremont Township, Precinct 1",Fremont TWP Roads & Bridges Millage,,,Yes,145
+Sanilac,"Fremont Township, Precinct 1",Fremont TWP Roads & Bridges Millage,,,No,41
+Sanilac,"Marion Township, Precinct 1",Marion TWP Road Millage,,,Yes,252
+Sanilac,"Marion Township, Precinct 1",Marion TWP Road Millage,,,No,49
+Sanilac,"Moore Township, Precinct 1",Moore Twp. Ordinance Proposal,,,Yes,86
+Sanilac,"Moore Township, Precinct 1",Moore Twp. Ordinance Proposal,,,No,167
