@@ -1,0 +1,1379 @@
+county,precinct,office,district,party,candidate,votes
+Grand Traverse,"Acme Township, Precinct 1",Registered Voters,,,,2461
+Grand Traverse,"Acme Township, Precinct 2",Registered Voters,,,,1366
+Grand Traverse,"Blair Township, Precinct 1",Registered Voters,,,,1484
+Grand Traverse,"Blair Township, Precinct 2",Registered Voters,,,,2095
+Grand Traverse,"Blair Township, Precinct 3",Registered Voters,,,,1470
+Grand Traverse,"Blair Township, Precinct 4",Registered Voters,,,,1551
+Grand Traverse,"East Bay Charter Township, Precinct 1",Registered Voters,,,,1825
+Grand Traverse,"East Bay Charter Township, Precinct 2",Registered Voters,,,,2992
+Grand Traverse,"East Bay Charter Township, Precinct 3",Registered Voters,,,,2126
+Grand Traverse,"East Bay Charter Township, Precinct 4",Registered Voters,,,,2784
+Grand Traverse,Fife Lake Township,Registered Voters,,,,1310
+Grand Traverse,"Garfield Charter Township, Precinct 1",Registered Voters,,,,2402
+Grand Traverse,"Garfield Charter Township, Precinct 2",Registered Voters,,,,2853
+Grand Traverse,"Garfield Charter Township, Precinct 3",Registered Voters,,,,2891
+Grand Traverse,"Garfield Charter Township, Precinct 4",Registered Voters,,,,2808
+Grand Traverse,"Garfield Charter Township, Precinct 5",Registered Voters,,,,2511
+Grand Traverse,"Garfield Charter Township, Precinct 6",Registered Voters,,,,2334
+Grand Traverse,"Grant Township, Precinct 1",Registered Voters,,,,996
+Grand Traverse,"Green Lake Township, Precinct 1",Registered Voters,,,,2138
+Grand Traverse,"Green Lake Township, Precinct 2",Registered Voters,,,,3206
+Grand Traverse,"Long Lake Township, Precinct 1",Registered Voters,,,,2648
+Grand Traverse,"Long Lake Township, Precinct 2",Registered Voters,,,,2458
+Grand Traverse,"Long Lake Township, Precinct 3",Registered Voters,,,,2927
+Grand Traverse,"Mayfield Township, Precinct 1",Registered Voters,,,,1353
+Grand Traverse,"Paradise Township, Precinct 1",Registered Voters,,,,2043
+Grand Traverse,"Paradise Township, Precinct 2",Registered Voters,,,,1734
+Grand Traverse,"Peninsula Township, Precinct 1",Registered Voters,,,,2741
+Grand Traverse,"Peninsula Township, Precinct 2",Registered Voters,,,,2769
+Grand Traverse,"Union Township, Precinct 1",Registered Voters,,,,371
+Grand Traverse,"Whitewater Township, Precinct 1",Registered Voters,,,,2253
+Grand Traverse,"City of Traverse City, Precinct 1",Registered Voters,,,,2181
+Grand Traverse,"City of Traverse City, Precinct 3",Registered Voters,,,,2008
+Grand Traverse,"City of Traverse City, Precinct 7",Registered Voters,,,,2201
+Grand Traverse,"City of Traverse City, Precinct 8",Registered Voters,,,,2044
+Grand Traverse,"City of Traverse City, Precinct 9",Registered Voters,,,,1958
+Grand Traverse,"City of Traverse City, Precinct 10",Registered Voters,,,,2264
+Grand Traverse,Acme Township AVCB,Registered Voters,,,,3827
+Grand Traverse,Blair AVCB 1,Registered Voters,,,,3579
+Grand Traverse,Blair AVCB 2,Registered Voters,,,,3021
+Grand Traverse,East Bay AVCB 1,Registered Voters,,,,1825
+Grand Traverse,East Bay AVCB 2,Registered Voters,,,,2992
+Grand Traverse,East Bay AVCB 3,Registered Voters,,,,2126
+Grand Traverse,East Bay AVCB 4,Registered Voters,,,,2784
+Grand Traverse,Fife Lake AVCB,Registered Voters,,,,1310
+Grand Traverse,Garfield AVCB,Registered Voters,,,,15799
+Grand Traverse,Green Lake AVCB,Registered Voters,,,,5344
+Grand Traverse,Long Lake AVCB 1,Registered Voters,,,,5106
+Grand Traverse,Long Lake AVCB2,Registered Voters,,,,2927
+Grand Traverse,Penninsula AVCB,Registered Voters,,,,5510
+Grand Traverse,Whitewater AVCB,Registered Voters,,,,2253
+Grand Traverse,Traverse City AVCB 1,Registered Voters,,,,4189
+Grand Traverse,Traverse City AVCB 2,Registered Voters,,,,4245
+Grand Traverse,Traverse City AVCB 3,Registered Voters,,,,4222
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Michael Bennet,0
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Michael Bennet,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Michael Bennet,0
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Michael Bennet,0
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Michael Bennet,0
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Michael Bennet,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Michael Bennet,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Michael Bennet,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Michael Bennet,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Michael Bennet,0
+Grand Traverse,Fife Lake Township,President,,DEM,Michael Bennet,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Michael Bennet,0
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Michael Bennet,0
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Michael Bennet,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Michael Bennet,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Michael Bennet,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Michael Bennet,0
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Michael Bennet,0
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Michael Bennet,0
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Michael Bennet,0
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Michael Bennet,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Michael Bennet,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Michael Bennet,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Michael Bennet,1
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Michael Bennet,1
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Michael Bennet,0
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Michael Bennet,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Michael Bennet,0
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Michael Bennet,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Michael Bennet,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Michael Bennet,0
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Michael Bennet,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Michael Bennet,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Michael Bennet,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Michael Bennet,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Michael Bennet,0
+Grand Traverse,Acme Township AVCB,President,,DEM,Michael Bennet,0
+Grand Traverse,Blair AVCB 1,President,,DEM,Michael Bennet,0
+Grand Traverse,Blair AVCB 2,President,,DEM,Michael Bennet,0
+Grand Traverse,East Bay AVCB 1,President,,DEM,Michael Bennet,0
+Grand Traverse,East Bay AVCB 2,President,,DEM,Michael Bennet,0
+Grand Traverse,East Bay AVCB 3,President,,DEM,Michael Bennet,0
+Grand Traverse,East Bay AVCB 4,President,,DEM,Michael Bennet,0
+Grand Traverse,Fife Lake AVCB,President,,DEM,Michael Bennet,0
+Grand Traverse,Garfield AVCB,President,,DEM,Michael Bennet,3
+Grand Traverse,Green Lake AVCB,President,,DEM,Michael Bennet,0
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Michael Bennet,0
+Grand Traverse,Long Lake AVCB2,President,,DEM,Michael Bennet,0
+Grand Traverse,Penninsula AVCB,President,,DEM,Michael Bennet,2
+Grand Traverse,Whitewater AVCB,President,,DEM,Michael Bennet,0
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Michael Bennet,0
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Michael Bennet,0
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Michael Bennet,0
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Joe Biden,150
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Joe Biden,87
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Joe Biden,40
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Joe Biden,66
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Joe Biden,52
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Joe Biden,43
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Joe Biden,75
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Joe Biden,158
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Joe Biden,110
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Joe Biden,120
+Grand Traverse,Fife Lake Township,President,,DEM,Joe Biden,58
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Joe Biden,126
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Joe Biden,150
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Joe Biden,161
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Joe Biden,121
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Joe Biden,197
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Joe Biden,94
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Joe Biden,73
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Joe Biden,162
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Joe Biden,193
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Joe Biden,185
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Joe Biden,177
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Joe Biden,209
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Joe Biden,71
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Joe Biden,123
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Joe Biden,78
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Joe Biden,221
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Joe Biden,224
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Joe Biden,36
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Joe Biden,108
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Joe Biden,240
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Joe Biden,240
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Joe Biden,134
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Joe Biden,183
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Joe Biden,189
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Joe Biden,171
+Grand Traverse,Acme Township AVCB,President,,DEM,Joe Biden,230
+Grand Traverse,Blair AVCB 1,President,,DEM,Joe Biden,102
+Grand Traverse,Blair AVCB 2,President,,DEM,Joe Biden,90
+Grand Traverse,East Bay AVCB 1,President,,DEM,Joe Biden,87
+Grand Traverse,East Bay AVCB 2,President,,DEM,Joe Biden,160
+Grand Traverse,East Bay AVCB 3,President,,DEM,Joe Biden,157
+Grand Traverse,East Bay AVCB 4,President,,DEM,Joe Biden,155
+Grand Traverse,Fife Lake AVCB,President,,DEM,Joe Biden,16
+Grand Traverse,Garfield AVCB,President,,DEM,Joe Biden,703
+Grand Traverse,Green Lake AVCB,President,,DEM,Joe Biden,148
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Joe Biden,221
+Grand Traverse,Long Lake AVCB2,President,,DEM,Joe Biden,158
+Grand Traverse,Penninsula AVCB,President,,DEM,Joe Biden,529
+Grand Traverse,Whitewater AVCB,President,,DEM,Joe Biden,90
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Joe Biden,291
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Joe Biden,193
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Joe Biden,286
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Michael R. Bloomberg,1
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Michael R. Bloomberg,1
+Grand Traverse,Fife Lake Township,President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Michael R. Bloomberg,2
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Michael R. Bloomberg,2
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Michael R. Bloomberg,9
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Michael R. Bloomberg,2
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Michael R. Bloomberg,6
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Michael R. Bloomberg,12
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Michael R. Bloomberg,5
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Michael R. Bloomberg,1
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Michael R. Bloomberg,2
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Michael R. Bloomberg,2
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Michael R. Bloomberg,3
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Michael R. Bloomberg,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Michael R. Bloomberg,1
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Michael R. Bloomberg,4
+Grand Traverse,Acme Township AVCB,President,,DEM,Michael R. Bloomberg,52
+Grand Traverse,Blair AVCB 1,President,,DEM,Michael R. Bloomberg,36
+Grand Traverse,Blair AVCB 2,President,,DEM,Michael R. Bloomberg,19
+Grand Traverse,East Bay AVCB 1,President,,DEM,Michael R. Bloomberg,24
+Grand Traverse,East Bay AVCB 2,President,,DEM,Michael R. Bloomberg,29
+Grand Traverse,East Bay AVCB 3,President,,DEM,Michael R. Bloomberg,25
+Grand Traverse,East Bay AVCB 4,President,,DEM,Michael R. Bloomberg,22
+Grand Traverse,Fife Lake AVCB,President,,DEM,Michael R. Bloomberg,5
+Grand Traverse,Garfield AVCB,President,,DEM,Michael R. Bloomberg,189
+Grand Traverse,Green Lake AVCB,President,,DEM,Michael R. Bloomberg,36
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Michael R. Bloomberg,48
+Grand Traverse,Long Lake AVCB2,President,,DEM,Michael R. Bloomberg,25
+Grand Traverse,Penninsula AVCB,President,,DEM,Michael R. Bloomberg,137
+Grand Traverse,Whitewater AVCB,President,,DEM,Michael R. Bloomberg,23
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Michael R. Bloomberg,66
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Michael R. Bloomberg,51
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Michael R. Bloomberg,65
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Cory Booker,0
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Cory Booker,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Cory Booker,1
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Cory Booker,0
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Cory Booker,0
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Cory Booker,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Cory Booker,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Cory Booker,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Cory Booker,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Cory Booker,0
+Grand Traverse,Fife Lake Township,President,,DEM,Cory Booker,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Cory Booker,0
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Cory Booker,0
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Cory Booker,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Cory Booker,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Cory Booker,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Cory Booker,0
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Cory Booker,0
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Cory Booker,0
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Cory Booker,0
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Cory Booker,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Cory Booker,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Cory Booker,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Cory Booker,1
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Cory Booker,0
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Cory Booker,0
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Cory Booker,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Cory Booker,0
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Cory Booker,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Cory Booker,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Cory Booker,0
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Cory Booker,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Cory Booker,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Cory Booker,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Cory Booker,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Cory Booker,0
+Grand Traverse,Acme Township AVCB,President,,DEM,Cory Booker,1
+Grand Traverse,Blair AVCB 1,President,,DEM,Cory Booker,0
+Grand Traverse,Blair AVCB 2,President,,DEM,Cory Booker,0
+Grand Traverse,East Bay AVCB 1,President,,DEM,Cory Booker,0
+Grand Traverse,East Bay AVCB 2,President,,DEM,Cory Booker,0
+Grand Traverse,East Bay AVCB 3,President,,DEM,Cory Booker,0
+Grand Traverse,East Bay AVCB 4,President,,DEM,Cory Booker,0
+Grand Traverse,Fife Lake AVCB,President,,DEM,Cory Booker,0
+Grand Traverse,Garfield AVCB,President,,DEM,Cory Booker,0
+Grand Traverse,Green Lake AVCB,President,,DEM,Cory Booker,0
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Cory Booker,0
+Grand Traverse,Long Lake AVCB2,President,,DEM,Cory Booker,0
+Grand Traverse,Penninsula AVCB,President,,DEM,Cory Booker,0
+Grand Traverse,Whitewater AVCB,President,,DEM,Cory Booker,0
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Cory Booker,0
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Cory Booker,0
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Cory Booker,1
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Pete Buttigieg,0
+Grand Traverse,Fife Lake Township,President,,DEM,Pete Buttigieg,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Pete Buttigieg,2
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Pete Buttigieg,1
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Pete Buttigieg,1
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Pete Buttigieg,1
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Pete Buttigieg,3
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Pete Buttigieg,1
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Pete Buttigieg,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Pete Buttigieg,0
+Grand Traverse,Acme Township AVCB,President,,DEM,Pete Buttigieg,17
+Grand Traverse,Blair AVCB 1,President,,DEM,Pete Buttigieg,27
+Grand Traverse,Blair AVCB 2,President,,DEM,Pete Buttigieg,15
+Grand Traverse,East Bay AVCB 1,President,,DEM,Pete Buttigieg,9
+Grand Traverse,East Bay AVCB 2,President,,DEM,Pete Buttigieg,12
+Grand Traverse,East Bay AVCB 3,President,,DEM,Pete Buttigieg,17
+Grand Traverse,East Bay AVCB 4,President,,DEM,Pete Buttigieg,17
+Grand Traverse,Fife Lake AVCB,President,,DEM,Pete Buttigieg,1
+Grand Traverse,Garfield AVCB,President,,DEM,Pete Buttigieg,61
+Grand Traverse,Green Lake AVCB,President,,DEM,Pete Buttigieg,16
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Pete Buttigieg,25
+Grand Traverse,Long Lake AVCB2,President,,DEM,Pete Buttigieg,11
+Grand Traverse,Penninsula AVCB,President,,DEM,Pete Buttigieg,54
+Grand Traverse,Whitewater AVCB,President,,DEM,Pete Buttigieg,16
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Pete Buttigieg,25
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Pete Buttigieg,18
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Pete Buttigieg,31
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Julian Castro,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Julian Castro,0
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Julian Castro,0
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Julian Castro,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Julian Castro,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Julian Castro,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Julian Castro,0
+Grand Traverse,Fife Lake Township,President,,DEM,Julian Castro,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Julian Castro,0
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Julian Castro,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Julian Castro,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Julian Castro,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Julian Castro,0
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Julian Castro,0
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Julian Castro,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Julian Castro,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Julian Castro,0
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Julian Castro,0
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Julian Castro,0
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Julian Castro,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Julian Castro,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Julian Castro,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Julian Castro,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Julian Castro,0
+Grand Traverse,Acme Township AVCB,President,,DEM,Julian Castro,0
+Grand Traverse,Blair AVCB 1,President,,DEM,Julian Castro,0
+Grand Traverse,Blair AVCB 2,President,,DEM,Julian Castro,0
+Grand Traverse,East Bay AVCB 1,President,,DEM,Julian Castro,1
+Grand Traverse,East Bay AVCB 2,President,,DEM,Julian Castro,1
+Grand Traverse,East Bay AVCB 3,President,,DEM,Julian Castro,0
+Grand Traverse,East Bay AVCB 4,President,,DEM,Julian Castro,0
+Grand Traverse,Fife Lake AVCB,President,,DEM,Julian Castro,0
+Grand Traverse,Garfield AVCB,President,,DEM,Julian Castro,1
+Grand Traverse,Green Lake AVCB,President,,DEM,Julian Castro,0
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Julian Castro,0
+Grand Traverse,Long Lake AVCB2,President,,DEM,Julian Castro,0
+Grand Traverse,Penninsula AVCB,President,,DEM,Julian Castro,1
+Grand Traverse,Whitewater AVCB,President,,DEM,Julian Castro,0
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Julian Castro,0
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Julian Castro,0
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Julian Castro,0
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,John Delaney,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,John Delaney,0
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,John Delaney,0
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,John Delaney,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,John Delaney,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,John Delaney,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,John Delaney,0
+Grand Traverse,Fife Lake Township,President,,DEM,John Delaney,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,John Delaney,0
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,John Delaney,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,John Delaney,1
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,John Delaney,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,John Delaney,0
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,John Delaney,0
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,John Delaney,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,John Delaney,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,John Delaney,0
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,John Delaney,0
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,John Delaney,0
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,John Delaney,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,John Delaney,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,John Delaney,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,John Delaney,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,John Delaney,0
+Grand Traverse,Acme Township AVCB,President,,DEM,John Delaney,0
+Grand Traverse,Blair AVCB 1,President,,DEM,John Delaney,0
+Grand Traverse,Blair AVCB 2,President,,DEM,John Delaney,0
+Grand Traverse,East Bay AVCB 1,President,,DEM,John Delaney,0
+Grand Traverse,East Bay AVCB 2,President,,DEM,John Delaney,0
+Grand Traverse,East Bay AVCB 3,President,,DEM,John Delaney,0
+Grand Traverse,East Bay AVCB 4,President,,DEM,John Delaney,0
+Grand Traverse,Fife Lake AVCB,President,,DEM,John Delaney,0
+Grand Traverse,Garfield AVCB,President,,DEM,John Delaney,1
+Grand Traverse,Green Lake AVCB,President,,DEM,John Delaney,0
+Grand Traverse,Long Lake AVCB 1,President,,DEM,John Delaney,2
+Grand Traverse,Long Lake AVCB2,President,,DEM,John Delaney,0
+Grand Traverse,Penninsula AVCB,President,,DEM,John Delaney,0
+Grand Traverse,Whitewater AVCB,President,,DEM,John Delaney,0
+Grand Traverse,Traverse City AVCB 1,President,,DEM,John Delaney,0
+Grand Traverse,Traverse City AVCB 2,President,,DEM,John Delaney,0
+Grand Traverse,Traverse City AVCB 3,President,,DEM,John Delaney,0
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Tulsi Gabbard,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Tulsi Gabbard,4
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Tulsi Gabbard,2
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Tulsi Gabbard,2
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Tulsi Gabbard,1
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Tulsi Gabbard,3
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Tulsi Gabbard,2
+Grand Traverse,Fife Lake Township,President,,DEM,Tulsi Gabbard,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Tulsi Gabbard,3
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Tulsi Gabbard,2
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Tulsi Gabbard,2
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Tulsi Gabbard,3
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Tulsi Gabbard,3
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Tulsi Gabbard,3
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Tulsi Gabbard,6
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Tulsi Gabbard,3
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Tulsi Gabbard,4
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Tulsi Gabbard,5
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Tulsi Gabbard,3
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Tulsi Gabbard,6
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Tulsi Gabbard,3
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Tulsi Gabbard,6
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Tulsi Gabbard,1
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Tulsi Gabbard,3
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Tulsi Gabbard,3
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Tulsi Gabbard,1
+Grand Traverse,Acme Township AVCB,President,,DEM,Tulsi Gabbard,1
+Grand Traverse,Blair AVCB 1,President,,DEM,Tulsi Gabbard,2
+Grand Traverse,Blair AVCB 2,President,,DEM,Tulsi Gabbard,0
+Grand Traverse,East Bay AVCB 1,President,,DEM,Tulsi Gabbard,0
+Grand Traverse,East Bay AVCB 2,President,,DEM,Tulsi Gabbard,2
+Grand Traverse,East Bay AVCB 3,President,,DEM,Tulsi Gabbard,0
+Grand Traverse,East Bay AVCB 4,President,,DEM,Tulsi Gabbard,2
+Grand Traverse,Fife Lake AVCB,President,,DEM,Tulsi Gabbard,0
+Grand Traverse,Garfield AVCB,President,,DEM,Tulsi Gabbard,3
+Grand Traverse,Green Lake AVCB,President,,DEM,Tulsi Gabbard,0
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Tulsi Gabbard,2
+Grand Traverse,Long Lake AVCB2,President,,DEM,Tulsi Gabbard,2
+Grand Traverse,Penninsula AVCB,President,,DEM,Tulsi Gabbard,5
+Grand Traverse,Whitewater AVCB,President,,DEM,Tulsi Gabbard,2
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Tulsi Gabbard,2
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Tulsi Gabbard,1
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Tulsi Gabbard,4
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Amy Klobuchar,1
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Amy Klobuchar,1
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Amy Klobuchar,1
+Grand Traverse,Fife Lake Township,President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Amy Klobuchar,1
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Amy Klobuchar,2
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Amy Klobuchar,2
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Amy Klobuchar,1
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Amy Klobuchar,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Amy Klobuchar,1
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Amy Klobuchar,1
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Amy Klobuchar,0
+Grand Traverse,Acme Township AVCB,President,,DEM,Amy Klobuchar,17
+Grand Traverse,Blair AVCB 1,President,,DEM,Amy Klobuchar,4
+Grand Traverse,Blair AVCB 2,President,,DEM,Amy Klobuchar,7
+Grand Traverse,East Bay AVCB 1,President,,DEM,Amy Klobuchar,2
+Grand Traverse,East Bay AVCB 2,President,,DEM,Amy Klobuchar,3
+Grand Traverse,East Bay AVCB 3,President,,DEM,Amy Klobuchar,4
+Grand Traverse,East Bay AVCB 4,President,,DEM,Amy Klobuchar,1
+Grand Traverse,Fife Lake AVCB,President,,DEM,Amy Klobuchar,1
+Grand Traverse,Garfield AVCB,President,,DEM,Amy Klobuchar,38
+Grand Traverse,Green Lake AVCB,President,,DEM,Amy Klobuchar,7
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Amy Klobuchar,11
+Grand Traverse,Long Lake AVCB2,President,,DEM,Amy Klobuchar,9
+Grand Traverse,Penninsula AVCB,President,,DEM,Amy Klobuchar,41
+Grand Traverse,Whitewater AVCB,President,,DEM,Amy Klobuchar,7
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Amy Klobuchar,7
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Amy Klobuchar,10
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Amy Klobuchar,33
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Bernie Sanders,156
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Bernie Sanders,53
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Bernie Sanders,69
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Bernie Sanders,93
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Bernie Sanders,68
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Bernie Sanders,85
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Bernie Sanders,137
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Bernie Sanders,147
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Bernie Sanders,103
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Bernie Sanders,199
+Grand Traverse,Fife Lake Township,President,,DEM,Bernie Sanders,41
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Bernie Sanders,183
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Bernie Sanders,158
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Bernie Sanders,235
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Bernie Sanders,182
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Bernie Sanders,149
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Bernie Sanders,142
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Bernie Sanders,43
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Bernie Sanders,130
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Bernie Sanders,222
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Bernie Sanders,193
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Bernie Sanders,163
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Bernie Sanders,163
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Bernie Sanders,53
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Bernie Sanders,116
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Bernie Sanders,102
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Bernie Sanders,125
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Bernie Sanders,122
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Bernie Sanders,25
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Bernie Sanders,100
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Bernie Sanders,236
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Bernie Sanders,253
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Bernie Sanders,322
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Bernie Sanders,273
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Bernie Sanders,168
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Bernie Sanders,249
+Grand Traverse,Acme Township AVCB,President,,DEM,Bernie Sanders,99
+Grand Traverse,Blair AVCB 1,President,,DEM,Bernie Sanders,56
+Grand Traverse,Blair AVCB 2,President,,DEM,Bernie Sanders,48
+Grand Traverse,East Bay AVCB 1,President,,DEM,Bernie Sanders,30
+Grand Traverse,East Bay AVCB 2,President,,DEM,Bernie Sanders,88
+Grand Traverse,East Bay AVCB 3,President,,DEM,Bernie Sanders,50
+Grand Traverse,East Bay AVCB 4,President,,DEM,Bernie Sanders,75
+Grand Traverse,Fife Lake AVCB,President,,DEM,Bernie Sanders,11
+Grand Traverse,Garfield AVCB,President,,DEM,Bernie Sanders,245
+Grand Traverse,Green Lake AVCB,President,,DEM,Bernie Sanders,80
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Bernie Sanders,89
+Grand Traverse,Long Lake AVCB2,President,,DEM,Bernie Sanders,62
+Grand Traverse,Penninsula AVCB,President,,DEM,Bernie Sanders,158
+Grand Traverse,Whitewater AVCB,President,,DEM,Bernie Sanders,19
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Bernie Sanders,147
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Bernie Sanders,152
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Bernie Sanders,121
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Joe Sestak,0
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Joe Sestak,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Joe Sestak,0
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Joe Sestak,0
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Joe Sestak,1
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Joe Sestak,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Joe Sestak,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Joe Sestak,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Joe Sestak,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Joe Sestak,0
+Grand Traverse,Fife Lake Township,President,,DEM,Joe Sestak,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Joe Sestak,0
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Joe Sestak,0
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Joe Sestak,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Joe Sestak,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Joe Sestak,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Joe Sestak,0
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Joe Sestak,0
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Joe Sestak,0
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Joe Sestak,0
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Joe Sestak,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Joe Sestak,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Joe Sestak,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Joe Sestak,0
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Joe Sestak,2
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Joe Sestak,0
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Joe Sestak,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Joe Sestak,0
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Joe Sestak,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Joe Sestak,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Joe Sestak,0
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Joe Sestak,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Joe Sestak,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Joe Sestak,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Joe Sestak,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Joe Sestak,0
+Grand Traverse,Acme Township AVCB,President,,DEM,Joe Sestak,0
+Grand Traverse,Blair AVCB 1,President,,DEM,Joe Sestak,0
+Grand Traverse,Blair AVCB 2,President,,DEM,Joe Sestak,0
+Grand Traverse,East Bay AVCB 1,President,,DEM,Joe Sestak,0
+Grand Traverse,East Bay AVCB 2,President,,DEM,Joe Sestak,0
+Grand Traverse,East Bay AVCB 3,President,,DEM,Joe Sestak,0
+Grand Traverse,East Bay AVCB 4,President,,DEM,Joe Sestak,0
+Grand Traverse,Fife Lake AVCB,President,,DEM,Joe Sestak,0
+Grand Traverse,Garfield AVCB,President,,DEM,Joe Sestak,1
+Grand Traverse,Green Lake AVCB,President,,DEM,Joe Sestak,0
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Joe Sestak,0
+Grand Traverse,Long Lake AVCB2,President,,DEM,Joe Sestak,0
+Grand Traverse,Penninsula AVCB,President,,DEM,Joe Sestak,0
+Grand Traverse,Whitewater AVCB,President,,DEM,Joe Sestak,0
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Joe Sestak,0
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Joe Sestak,0
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Joe Sestak,0
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Tom Steyer,0
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Tom Steyer,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Tom Steyer,0
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Tom Steyer,0
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Tom Steyer,0
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Tom Steyer,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Tom Steyer,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Tom Steyer,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Tom Steyer,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Tom Steyer,0
+Grand Traverse,Fife Lake Township,President,,DEM,Tom Steyer,1
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Tom Steyer,0
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Tom Steyer,0
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Tom Steyer,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Tom Steyer,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Tom Steyer,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Tom Steyer,0
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Tom Steyer,0
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Tom Steyer,0
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Tom Steyer,1
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Tom Steyer,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Tom Steyer,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Tom Steyer,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Tom Steyer,0
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Tom Steyer,2
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Tom Steyer,1
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Tom Steyer,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Tom Steyer,0
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Tom Steyer,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Tom Steyer,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Tom Steyer,0
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Tom Steyer,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Tom Steyer,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Tom Steyer,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Tom Steyer,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Tom Steyer,0
+Grand Traverse,Acme Township AVCB,President,,DEM,Tom Steyer,0
+Grand Traverse,Blair AVCB 1,President,,DEM,Tom Steyer,1
+Grand Traverse,Blair AVCB 2,President,,DEM,Tom Steyer,0
+Grand Traverse,East Bay AVCB 1,President,,DEM,Tom Steyer,1
+Grand Traverse,East Bay AVCB 2,President,,DEM,Tom Steyer,1
+Grand Traverse,East Bay AVCB 3,President,,DEM,Tom Steyer,1
+Grand Traverse,East Bay AVCB 4,President,,DEM,Tom Steyer,0
+Grand Traverse,Fife Lake AVCB,President,,DEM,Tom Steyer,0
+Grand Traverse,Garfield AVCB,President,,DEM,Tom Steyer,4
+Grand Traverse,Green Lake AVCB,President,,DEM,Tom Steyer,4
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Tom Steyer,0
+Grand Traverse,Long Lake AVCB2,President,,DEM,Tom Steyer,0
+Grand Traverse,Penninsula AVCB,President,,DEM,Tom Steyer,0
+Grand Traverse,Whitewater AVCB,President,,DEM,Tom Steyer,0
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Tom Steyer,0
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Tom Steyer,1
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Tom Steyer,3
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Elizabeth Warren,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Elizabeth Warren,1
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Elizabeth Warren,0
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Elizabeth Warren,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Elizabeth Warren,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Elizabeth Warren,2
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Elizabeth Warren,3
+Grand Traverse,Fife Lake Township,President,,DEM,Elizabeth Warren,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Elizabeth Warren,1
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Elizabeth Warren,2
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Elizabeth Warren,3
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Elizabeth Warren,1
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Elizabeth Warren,0
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Elizabeth Warren,1
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Elizabeth Warren,1
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Elizabeth Warren,2
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Elizabeth Warren,8
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Elizabeth Warren,2
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Elizabeth Warren,1
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Elizabeth Warren,3
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Elizabeth Warren,6
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Elizabeth Warren,1
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Elizabeth Warren,2
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Elizabeth Warren,3
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Elizabeth Warren,3
+Grand Traverse,Acme Township AVCB,President,,DEM,Elizabeth Warren,17
+Grand Traverse,Blair AVCB 1,President,,DEM,Elizabeth Warren,10
+Grand Traverse,Blair AVCB 2,President,,DEM,Elizabeth Warren,12
+Grand Traverse,East Bay AVCB 1,President,,DEM,Elizabeth Warren,6
+Grand Traverse,East Bay AVCB 2,President,,DEM,Elizabeth Warren,6
+Grand Traverse,East Bay AVCB 3,President,,DEM,Elizabeth Warren,8
+Grand Traverse,East Bay AVCB 4,President,,DEM,Elizabeth Warren,16
+Grand Traverse,Fife Lake AVCB,President,,DEM,Elizabeth Warren,7
+Grand Traverse,Garfield AVCB,President,,DEM,Elizabeth Warren,62
+Grand Traverse,Green Lake AVCB,President,,DEM,Elizabeth Warren,8
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Elizabeth Warren,26
+Grand Traverse,Long Lake AVCB2,President,,DEM,Elizabeth Warren,8
+Grand Traverse,Penninsula AVCB,President,,DEM,Elizabeth Warren,49
+Grand Traverse,Whitewater AVCB,President,,DEM,Elizabeth Warren,5
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Elizabeth Warren,36
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Elizabeth Warren,17
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Elizabeth Warren,32
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Marianne Williamson,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Marianne Williamson,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Marianne Williamson,0
+Grand Traverse,Fife Lake Township,President,,DEM,Marianne Williamson,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Marianne Williamson,1
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Marianne Williamson,1
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Marianne Williamson,0
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Marianne Williamson,1
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Marianne Williamson,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Marianne Williamson,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Marianne Williamson,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Marianne Williamson,0
+Grand Traverse,Acme Township AVCB,President,,DEM,Marianne Williamson,1
+Grand Traverse,Blair AVCB 1,President,,DEM,Marianne Williamson,0
+Grand Traverse,Blair AVCB 2,President,,DEM,Marianne Williamson,1
+Grand Traverse,East Bay AVCB 1,President,,DEM,Marianne Williamson,0
+Grand Traverse,East Bay AVCB 2,President,,DEM,Marianne Williamson,0
+Grand Traverse,East Bay AVCB 3,President,,DEM,Marianne Williamson,0
+Grand Traverse,East Bay AVCB 4,President,,DEM,Marianne Williamson,0
+Grand Traverse,Fife Lake AVCB,President,,DEM,Marianne Williamson,0
+Grand Traverse,Garfield AVCB,President,,DEM,Marianne Williamson,0
+Grand Traverse,Green Lake AVCB,President,,DEM,Marianne Williamson,0
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Marianne Williamson,1
+Grand Traverse,Long Lake AVCB2,President,,DEM,Marianne Williamson,0
+Grand Traverse,Penninsula AVCB,President,,DEM,Marianne Williamson,2
+Grand Traverse,Whitewater AVCB,President,,DEM,Marianne Williamson,0
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Marianne Williamson,0
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Marianne Williamson,1
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Marianne Williamson,0
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Andrew Yang,1
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Andrew Yang,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Andrew Yang,0
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Andrew Yang,2
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Andrew Yang,1
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Andrew Yang,1
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Andrew Yang,1
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Andrew Yang,1
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Andrew Yang,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Andrew Yang,0
+Grand Traverse,Fife Lake Township,President,,DEM,Andrew Yang,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Andrew Yang,0
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Andrew Yang,0
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Andrew Yang,1
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Andrew Yang,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Andrew Yang,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Andrew Yang,1
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Andrew Yang,0
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Andrew Yang,0
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Andrew Yang,1
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Andrew Yang,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Andrew Yang,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Andrew Yang,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Andrew Yang,0
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Andrew Yang,0
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Andrew Yang,2
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Andrew Yang,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Andrew Yang,0
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Andrew Yang,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Andrew Yang,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Andrew Yang,0
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Andrew Yang,1
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Andrew Yang,1
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Andrew Yang,1
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Andrew Yang,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Andrew Yang,0
+Grand Traverse,Acme Township AVCB,President,,DEM,Andrew Yang,0
+Grand Traverse,Blair AVCB 1,President,,DEM,Andrew Yang,0
+Grand Traverse,Blair AVCB 2,President,,DEM,Andrew Yang,1
+Grand Traverse,East Bay AVCB 1,President,,DEM,Andrew Yang,0
+Grand Traverse,East Bay AVCB 2,President,,DEM,Andrew Yang,0
+Grand Traverse,East Bay AVCB 3,President,,DEM,Andrew Yang,1
+Grand Traverse,East Bay AVCB 4,President,,DEM,Andrew Yang,1
+Grand Traverse,Fife Lake AVCB,President,,DEM,Andrew Yang,0
+Grand Traverse,Garfield AVCB,President,,DEM,Andrew Yang,2
+Grand Traverse,Green Lake AVCB,President,,DEM,Andrew Yang,0
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Andrew Yang,1
+Grand Traverse,Long Lake AVCB2,President,,DEM,Andrew Yang,2
+Grand Traverse,Penninsula AVCB,President,,DEM,Andrew Yang,1
+Grand Traverse,Whitewater AVCB,President,,DEM,Andrew Yang,0
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Andrew Yang,0
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Andrew Yang,0
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Andrew Yang,0
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Uncommitted,0
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Uncommitted,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Uncommitted,1
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Uncommitted,2
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Uncommitted,2
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Uncommitted,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Uncommitted,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Uncommitted,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Uncommitted,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Uncommitted,0
+Grand Traverse,Fife Lake Township,President,,DEM,Uncommitted,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Uncommitted,1
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Uncommitted,0
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Uncommitted,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Uncommitted,1
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Uncommitted,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Uncommitted,1
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Uncommitted,1
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Uncommitted,0
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Uncommitted,0
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Uncommitted,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Uncommitted,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Uncommitted,1
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Uncommitted,1
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Uncommitted,4
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Uncommitted,4
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Uncommitted,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Uncommitted,0
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Uncommitted,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Uncommitted,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Uncommitted,0
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Uncommitted,1
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Uncommitted,2
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Uncommitted,2
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Uncommitted,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Uncommitted,0
+Grand Traverse,Acme Township AVCB,President,,DEM,Uncommitted,9
+Grand Traverse,Blair AVCB 1,President,,DEM,Uncommitted,8
+Grand Traverse,Blair AVCB 2,President,,DEM,Uncommitted,10
+Grand Traverse,East Bay AVCB 1,President,,DEM,Uncommitted,7
+Grand Traverse,East Bay AVCB 2,President,,DEM,Uncommitted,7
+Grand Traverse,East Bay AVCB 3,President,,DEM,Uncommitted,6
+Grand Traverse,East Bay AVCB 4,President,,DEM,Uncommitted,4
+Grand Traverse,Fife Lake AVCB,President,,DEM,Uncommitted,1
+Grand Traverse,Garfield AVCB,President,,DEM,Uncommitted,23
+Grand Traverse,Green Lake AVCB,President,,DEM,Uncommitted,8
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Uncommitted,4
+Grand Traverse,Long Lake AVCB2,President,,DEM,Uncommitted,3
+Grand Traverse,Penninsula AVCB,President,,DEM,Uncommitted,11
+Grand Traverse,Whitewater AVCB,President,,DEM,Uncommitted,5
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Uncommitted,8
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Uncommitted,4
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Uncommitted,8
+Grand Traverse,"Acme Township, Precinct 1",President,,DEM,Write-In,0
+Grand Traverse,"Acme Township, Precinct 2",President,,DEM,Write-In,0
+Grand Traverse,"Blair Township, Precinct 1",President,,DEM,Write-In,0
+Grand Traverse,"Blair Township, Precinct 2",President,,DEM,Write-In,0
+Grand Traverse,"Blair Township, Precinct 3",President,,DEM,Write-In,0
+Grand Traverse,"Blair Township, Precinct 4",President,,DEM,Write-In,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,DEM,Write-In,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,DEM,Write-In,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,DEM,Write-In,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,DEM,Write-In,0
+Grand Traverse,Fife Lake Township,President,,DEM,Write-In,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,DEM,Write-In,0
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,DEM,Write-In,0
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,DEM,Write-In,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,DEM,Write-In,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,DEM,Write-In,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,DEM,Write-In,0
+Grand Traverse,"Grant Township, Precinct 1",President,,DEM,Write-In,0
+Grand Traverse,"Green Lake Township, Precinct 1",President,,DEM,Write-In,0
+Grand Traverse,"Green Lake Township, Precinct 2",President,,DEM,Write-In,2
+Grand Traverse,"Long Lake Township, Precinct 1",President,,DEM,Write-In,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,DEM,Write-In,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,DEM,Write-In,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,DEM,Write-In,0
+Grand Traverse,"Paradise Township, Precinct 1",President,,DEM,Write-In,1
+Grand Traverse,"Paradise Township, Precinct 2",President,,DEM,Write-In,0
+Grand Traverse,"Peninsula Township, Precinct 1",President,,DEM,Write-In,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,DEM,Write-In,0
+Grand Traverse,"Union Township, Precinct 1",President,,DEM,Write-In,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,DEM,Write-In,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,DEM,Write-In,0
+Grand Traverse,"City of Traverse City, Precinct 3",President,,DEM,Write-In,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,DEM,Write-In,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,DEM,Write-In,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,DEM,Write-In,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,DEM,Write-In,0
+Grand Traverse,Acme Township AVCB,President,,DEM,Write-In,0
+Grand Traverse,Blair AVCB 1,President,,DEM,Write-In,0
+Grand Traverse,Blair AVCB 2,President,,DEM,Write-In,0
+Grand Traverse,East Bay AVCB 1,President,,DEM,Write-In,1
+Grand Traverse,East Bay AVCB 2,President,,DEM,Write-In,0
+Grand Traverse,East Bay AVCB 3,President,,DEM,Write-In,0
+Grand Traverse,East Bay AVCB 4,President,,DEM,Write-In,0
+Grand Traverse,Fife Lake AVCB,President,,DEM,Write-In,0
+Grand Traverse,Garfield AVCB,President,,DEM,Write-In,0
+Grand Traverse,Green Lake AVCB,President,,DEM,Write-In,0
+Grand Traverse,Long Lake AVCB 1,President,,DEM,Write-In,0
+Grand Traverse,Long Lake AVCB2,President,,DEM,Write-In,0
+Grand Traverse,Penninsula AVCB,President,,DEM,Write-In,0
+Grand Traverse,Whitewater AVCB,President,,DEM,Write-In,0
+Grand Traverse,Traverse City AVCB 1,President,,DEM,Write-In,0
+Grand Traverse,Traverse City AVCB 2,President,,DEM,Write-In,0
+Grand Traverse,Traverse City AVCB 3,President,,DEM,Write-In,1
+Grand Traverse,"Acme Township, Precinct 1",Ballots Cast,,DEM,,313
+Grand Traverse,"Acme Township, Precinct 2",Ballots Cast,,DEM,,140
+Grand Traverse,"Blair Township, Precinct 1",Ballots Cast,,DEM,,113
+Grand Traverse,"Blair Township, Precinct 2",Ballots Cast,,DEM,,169
+Grand Traverse,"Blair Township, Precinct 3",Ballots Cast,,DEM,,126
+Grand Traverse,"Blair Township, Precinct 4",Ballots Cast,,DEM,,132
+Grand Traverse,"East Bay Charter Township, Precinct 1",Ballots Cast,,DEM,,217
+Grand Traverse,"East Bay Charter Township, Precinct 2",Ballots Cast,,DEM,,308
+Grand Traverse,"East Bay Charter Township, Precinct 3",Ballots Cast,,DEM,,218
+Grand Traverse,"East Bay Charter Township, Precinct 4",Ballots Cast,,DEM,,326
+Grand Traverse,Fife Lake Township,Ballots Cast,,DEM,,100
+Grand Traverse,"Garfield Charter Township, Precinct 1",Ballots Cast,,DEM,,314
+Grand Traverse,"Garfield Charter Township, Precinct 2",Ballots Cast,,DEM,,316
+Grand Traverse,"Garfield Charter Township, Precinct 3",Ballots Cast,,DEM,,401
+Grand Traverse,"Garfield Charter Township, Precinct 4",Ballots Cast,,DEM,,313
+Grand Traverse,"Garfield Charter Township, Precinct 5",Ballots Cast,,DEM,,350
+Grand Traverse,"Garfield Charter Township, Precinct 6",Ballots Cast,,DEM,,243
+Grand Traverse,"Grant Township, Precinct 1",Ballots Cast,,DEM,,134
+Grand Traverse,"Green Lake Township, Precinct 1",Ballots Cast,,DEM,,298
+Grand Traverse,"Green Lake Township, Precinct 2",Ballots Cast,,DEM,,426
+Grand Traverse,"Long Lake Township, Precinct 1",Ballots Cast,,DEM,,385
+Grand Traverse,"Long Lake Township, Precinct 2",Ballots Cast,,DEM,,347
+Grand Traverse,"Long Lake Township, Precinct 3",Ballots Cast,,DEM,,380
+Grand Traverse,"Mayfield Township, Precinct 1",Ballots Cast,,DEM,,139
+Grand Traverse,"Paradise Township, Precinct 1",Ballots Cast,,DEM,,280
+Grand Traverse,"Paradise Township, Precinct 2",Ballots Cast,,DEM,,200
+Grand Traverse,"Peninsula Township, Precinct 1",Ballots Cast,,DEM,,359
+Grand Traverse,"Peninsula Township, Precinct 2",Ballots Cast,,DEM,,353
+Grand Traverse,"Union Township, Precinct 1",Ballots Cast,,DEM,,65
+Grand Traverse,"Whitewater Township, Precinct 1",Ballots Cast,,DEM,,212
+Grand Traverse,"City of Traverse City, Precinct 1",Ballots Cast,,DEM,,485
+Grand Traverse,"City of Traverse City, Precinct 3",Ballots Cast,,DEM,,509
+Grand Traverse,"City of Traverse City, Precinct 7",Ballots Cast,,DEM,,464
+Grand Traverse,"City of Traverse City, Precinct 8",Ballots Cast,,DEM,,465
+Grand Traverse,"City of Traverse City, Precinct 9",Ballots Cast,,DEM,,365
+Grand Traverse,"City of Traverse City, Precinct 10",Ballots Cast,,DEM,,428
+Grand Traverse,Acme Township AVCB,Ballots Cast,,DEM,,444
+Grand Traverse,Blair AVCB 1,Ballots Cast,,DEM,,246
+Grand Traverse,Blair AVCB 2,Ballots Cast,,DEM,,203
+Grand Traverse,East Bay AVCB 1,Ballots Cast,,DEM,,168
+Grand Traverse,East Bay AVCB 2,Ballots Cast,,DEM,,309
+Grand Traverse,East Bay AVCB 3,Ballots Cast,,DEM,,269
+Grand Traverse,East Bay AVCB 4,Ballots Cast,,DEM,,293
+Grand Traverse,Fife Lake AVCB,Ballots Cast,,DEM,,42
+Grand Traverse,Garfield AVCB,Ballots Cast,,DEM,,1336
+Grand Traverse,Green Lake AVCB,Ballots Cast,,DEM,,307
+Grand Traverse,Long Lake AVCB 1,Ballots Cast,,DEM,,430
+Grand Traverse,Long Lake AVCB2,Ballots Cast,,DEM,,280
+Grand Traverse,Penninsula AVCB,Ballots Cast,,DEM,,990
+Grand Traverse,Whitewater AVCB,Ballots Cast,,DEM,,167
+Grand Traverse,Traverse City AVCB 1,Ballots Cast,,DEM,,582
+Grand Traverse,Traverse City AVCB 2,Ballots Cast,,DEM,,448
+Grand Traverse,Traverse City AVCB 3,Ballots Cast,,DEM,,585
+Grand Traverse,"Acme Township, Precinct 1",President,,REP,Mark Sanford,0
+Grand Traverse,"Acme Township, Precinct 2",President,,REP,Mark Sanford,1
+Grand Traverse,"Blair Township, Precinct 1",President,,REP,Mark Sanford,0
+Grand Traverse,"Blair Township, Precinct 2",President,,REP,Mark Sanford,0
+Grand Traverse,"Blair Township, Precinct 3",President,,REP,Mark Sanford,1
+Grand Traverse,"Blair Township, Precinct 4",President,,REP,Mark Sanford,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,REP,Mark Sanford,1
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,REP,Mark Sanford,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,REP,Mark Sanford,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,REP,Mark Sanford,1
+Grand Traverse,Fife Lake Township,President,,REP,Mark Sanford,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,REP,Mark Sanford,1
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,REP,Mark Sanford,1
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,REP,Mark Sanford,2
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,REP,Mark Sanford,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,REP,Mark Sanford,1
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,REP,Mark Sanford,1
+Grand Traverse,"Grant Township, Precinct 1",President,,REP,Mark Sanford,0
+Grand Traverse,"Green Lake Township, Precinct 1",President,,REP,Mark Sanford,1
+Grand Traverse,"Green Lake Township, Precinct 2",President,,REP,Mark Sanford,1
+Grand Traverse,"Long Lake Township, Precinct 1",President,,REP,Mark Sanford,1
+Grand Traverse,"Long Lake Township, Precinct 2",President,,REP,Mark Sanford,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,REP,Mark Sanford,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,REP,Mark Sanford,0
+Grand Traverse,"Paradise Township, Precinct 1",President,,REP,Mark Sanford,5
+Grand Traverse,"Paradise Township, Precinct 2",President,,REP,Mark Sanford,1
+Grand Traverse,"Peninsula Township, Precinct 1",President,,REP,Mark Sanford,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,REP,Mark Sanford,0
+Grand Traverse,"Union Township, Precinct 1",President,,REP,Mark Sanford,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,REP,Mark Sanford,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,REP,Mark Sanford,1
+Grand Traverse,"City of Traverse City, Precinct 3",President,,REP,Mark Sanford,1
+Grand Traverse,"City of Traverse City, Precinct 7",President,,REP,Mark Sanford,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,REP,Mark Sanford,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,REP,Mark Sanford,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,REP,Mark Sanford,3
+Grand Traverse,Acme Township AVCB,President,,REP,Mark Sanford,4
+Grand Traverse,Blair AVCB 1,President,,REP,Mark Sanford,4
+Grand Traverse,Blair AVCB 2,President,,REP,Mark Sanford,4
+Grand Traverse,East Bay AVCB 1,President,,REP,Mark Sanford,0
+Grand Traverse,East Bay AVCB 2,President,,REP,Mark Sanford,2
+Grand Traverse,East Bay AVCB 3,President,,REP,Mark Sanford,3
+Grand Traverse,East Bay AVCB 4,President,,REP,Mark Sanford,0
+Grand Traverse,Fife Lake AVCB,President,,REP,Mark Sanford,0
+Grand Traverse,Garfield AVCB,President,,REP,Mark Sanford,10
+Grand Traverse,Green Lake AVCB,President,,REP,Mark Sanford,0
+Grand Traverse,Long Lake AVCB 1,President,,REP,Mark Sanford,1
+Grand Traverse,Long Lake AVCB2,President,,REP,Mark Sanford,4
+Grand Traverse,Penninsula AVCB,President,,REP,Mark Sanford,2
+Grand Traverse,Whitewater AVCB,President,,REP,Mark Sanford,0
+Grand Traverse,Traverse City AVCB 1,President,,REP,Mark Sanford,1
+Grand Traverse,Traverse City AVCB 2,President,,REP,Mark Sanford,1
+Grand Traverse,Traverse City AVCB 3,President,,REP,Mark Sanford,1
+Grand Traverse,"Acme Township, Precinct 1",President,,REP,Donald J. Trump,76
+Grand Traverse,"Acme Township, Precinct 2",President,,REP,Donald J. Trump,52
+Grand Traverse,"Blair Township, Precinct 1",President,,REP,Donald J. Trump,59
+Grand Traverse,"Blair Township, Precinct 2",President,,REP,Donald J. Trump,90
+Grand Traverse,"Blair Township, Precinct 3",President,,REP,Donald J. Trump,40
+Grand Traverse,"Blair Township, Precinct 4",President,,REP,Donald J. Trump,53
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,REP,Donald J. Trump,50
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,REP,Donald J. Trump,88
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,REP,Donald J. Trump,71
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,REP,Donald J. Trump,84
+Grand Traverse,Fife Lake Township,President,,REP,Donald J. Trump,94
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,REP,Donald J. Trump,84
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,REP,Donald J. Trump,74
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,REP,Donald J. Trump,57
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,REP,Donald J. Trump,60
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,REP,Donald J. Trump,62
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,REP,Donald J. Trump,77
+Grand Traverse,"Grant Township, Precinct 1",President,,REP,Donald J. Trump,107
+Grand Traverse,"Green Lake Township, Precinct 1",President,,REP,Donald J. Trump,104
+Grand Traverse,"Green Lake Township, Precinct 2",President,,REP,Donald J. Trump,124
+Grand Traverse,"Long Lake Township, Precinct 1",President,,REP,Donald J. Trump,76
+Grand Traverse,"Long Lake Township, Precinct 2",President,,REP,Donald J. Trump,92
+Grand Traverse,"Long Lake Township, Precinct 3",President,,REP,Donald J. Trump,117
+Grand Traverse,"Mayfield Township, Precinct 1",President,,REP,Donald J. Trump,142
+Grand Traverse,"Paradise Township, Precinct 1",President,,REP,Donald J. Trump,202
+Grand Traverse,"Paradise Township, Precinct 2",President,,REP,Donald J. Trump,146
+Grand Traverse,"Peninsula Township, Precinct 1",President,,REP,Donald J. Trump,86
+Grand Traverse,"Peninsula Township, Precinct 2",President,,REP,Donald J. Trump,62
+Grand Traverse,"Union Township, Precinct 1",President,,REP,Donald J. Trump,46
+Grand Traverse,"Whitewater Township, Precinct 1",President,,REP,Donald J. Trump,118
+Grand Traverse,"City of Traverse City, Precinct 1",President,,REP,Donald J. Trump,65
+Grand Traverse,"City of Traverse City, Precinct 3",President,,REP,Donald J. Trump,39
+Grand Traverse,"City of Traverse City, Precinct 7",President,,REP,Donald J. Trump,53
+Grand Traverse,"City of Traverse City, Precinct 8",President,,REP,Donald J. Trump,33
+Grand Traverse,"City of Traverse City, Precinct 9",President,,REP,Donald J. Trump,53
+Grand Traverse,"City of Traverse City, Precinct 10",President,,REP,Donald J. Trump,65
+Grand Traverse,Acme Township AVCB,President,,REP,Donald J. Trump,346
+Grand Traverse,Blair AVCB 1,President,,REP,Donald J. Trump,303
+Grand Traverse,Blair AVCB 2,President,,REP,Donald J. Trump,204
+Grand Traverse,East Bay AVCB 1,President,,REP,Donald J. Trump,151
+Grand Traverse,East Bay AVCB 2,President,,REP,Donald J. Trump,308
+Grand Traverse,East Bay AVCB 3,President,,REP,Donald J. Trump,188
+Grand Traverse,East Bay AVCB 4,President,,REP,Donald J. Trump,245
+Grand Traverse,Fife Lake AVCB,President,,REP,Donald J. Trump,65
+Grand Traverse,Garfield AVCB,President,,REP,Donald J. Trump,965
+Grand Traverse,Green Lake AVCB,President,,REP,Donald J. Trump,252
+Grand Traverse,Long Lake AVCB 1,President,,REP,Donald J. Trump,338
+Grand Traverse,Long Lake AVCB2,President,,REP,Donald J. Trump,226
+Grand Traverse,Penninsula AVCB,President,,REP,Donald J. Trump,665
+Grand Traverse,Whitewater AVCB,President,,REP,Donald J. Trump,216
+Grand Traverse,Traverse City AVCB 1,President,,REP,Donald J. Trump,193
+Grand Traverse,Traverse City AVCB 2,President,,REP,Donald J. Trump,152
+Grand Traverse,Traverse City AVCB 3,President,,REP,Donald J. Trump,226
+Grand Traverse,"Acme Township, Precinct 1",President,,REP,Joe Walsh,0
+Grand Traverse,"Acme Township, Precinct 2",President,,REP,Joe Walsh,0
+Grand Traverse,"Blair Township, Precinct 1",President,,REP,Joe Walsh,1
+Grand Traverse,"Blair Township, Precinct 2",President,,REP,Joe Walsh,0
+Grand Traverse,"Blair Township, Precinct 3",President,,REP,Joe Walsh,0
+Grand Traverse,"Blair Township, Precinct 4",President,,REP,Joe Walsh,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,REP,Joe Walsh,1
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,REP,Joe Walsh,2
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,REP,Joe Walsh,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,REP,Joe Walsh,0
+Grand Traverse,Fife Lake Township,President,,REP,Joe Walsh,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,REP,Joe Walsh,1
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,REP,Joe Walsh,2
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,REP,Joe Walsh,1
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,REP,Joe Walsh,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,REP,Joe Walsh,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,REP,Joe Walsh,0
+Grand Traverse,"Grant Township, Precinct 1",President,,REP,Joe Walsh,2
+Grand Traverse,"Green Lake Township, Precinct 1",President,,REP,Joe Walsh,1
+Grand Traverse,"Green Lake Township, Precinct 2",President,,REP,Joe Walsh,0
+Grand Traverse,"Long Lake Township, Precinct 1",President,,REP,Joe Walsh,1
+Grand Traverse,"Long Lake Township, Precinct 2",President,,REP,Joe Walsh,1
+Grand Traverse,"Long Lake Township, Precinct 3",President,,REP,Joe Walsh,1
+Grand Traverse,"Mayfield Township, Precinct 1",President,,REP,Joe Walsh,1
+Grand Traverse,"Paradise Township, Precinct 1",President,,REP,Joe Walsh,1
+Grand Traverse,"Paradise Township, Precinct 2",President,,REP,Joe Walsh,1
+Grand Traverse,"Peninsula Township, Precinct 1",President,,REP,Joe Walsh,0
+Grand Traverse,"Peninsula Township, Precinct 2",President,,REP,Joe Walsh,0
+Grand Traverse,"Union Township, Precinct 1",President,,REP,Joe Walsh,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,REP,Joe Walsh,3
+Grand Traverse,"City of Traverse City, Precinct 1",President,,REP,Joe Walsh,3
+Grand Traverse,"City of Traverse City, Precinct 3",President,,REP,Joe Walsh,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,REP,Joe Walsh,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,REP,Joe Walsh,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,REP,Joe Walsh,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,REP,Joe Walsh,0
+Grand Traverse,Acme Township AVCB,President,,REP,Joe Walsh,1
+Grand Traverse,Blair AVCB 1,President,,REP,Joe Walsh,1
+Grand Traverse,Blair AVCB 2,President,,REP,Joe Walsh,3
+Grand Traverse,East Bay AVCB 1,President,,REP,Joe Walsh,0
+Grand Traverse,East Bay AVCB 2,President,,REP,Joe Walsh,3
+Grand Traverse,East Bay AVCB 3,President,,REP,Joe Walsh,2
+Grand Traverse,East Bay AVCB 4,President,,REP,Joe Walsh,2
+Grand Traverse,Fife Lake AVCB,President,,REP,Joe Walsh,1
+Grand Traverse,Garfield AVCB,President,,REP,Joe Walsh,6
+Grand Traverse,Green Lake AVCB,President,,REP,Joe Walsh,1
+Grand Traverse,Long Lake AVCB 1,President,,REP,Joe Walsh,2
+Grand Traverse,Long Lake AVCB2,President,,REP,Joe Walsh,0
+Grand Traverse,Penninsula AVCB,President,,REP,Joe Walsh,1
+Grand Traverse,Whitewater AVCB,President,,REP,Joe Walsh,4
+Grand Traverse,Traverse City AVCB 1,President,,REP,Joe Walsh,2
+Grand Traverse,Traverse City AVCB 2,President,,REP,Joe Walsh,2
+Grand Traverse,Traverse City AVCB 3,President,,REP,Joe Walsh,3
+Grand Traverse,"Acme Township, Precinct 1",President,,REP,Bill Weld,0
+Grand Traverse,"Acme Township, Precinct 2",President,,REP,Bill Weld,2
+Grand Traverse,"Blair Township, Precinct 1",President,,REP,Bill Weld,1
+Grand Traverse,"Blair Township, Precinct 2",President,,REP,Bill Weld,0
+Grand Traverse,"Blair Township, Precinct 3",President,,REP,Bill Weld,0
+Grand Traverse,"Blair Township, Precinct 4",President,,REP,Bill Weld,4
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,REP,Bill Weld,1
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,REP,Bill Weld,4
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,REP,Bill Weld,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,REP,Bill Weld,5
+Grand Traverse,Fife Lake Township,President,,REP,Bill Weld,2
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,REP,Bill Weld,1
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,REP,Bill Weld,2
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,REP,Bill Weld,5
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,REP,Bill Weld,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,REP,Bill Weld,1
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,REP,Bill Weld,1
+Grand Traverse,"Grant Township, Precinct 1",President,,REP,Bill Weld,0
+Grand Traverse,"Green Lake Township, Precinct 1",President,,REP,Bill Weld,1
+Grand Traverse,"Green Lake Township, Precinct 2",President,,REP,Bill Weld,0
+Grand Traverse,"Long Lake Township, Precinct 1",President,,REP,Bill Weld,1
+Grand Traverse,"Long Lake Township, Precinct 2",President,,REP,Bill Weld,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,REP,Bill Weld,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,REP,Bill Weld,2
+Grand Traverse,"Paradise Township, Precinct 1",President,,REP,Bill Weld,2
+Grand Traverse,"Paradise Township, Precinct 2",President,,REP,Bill Weld,1
+Grand Traverse,"Peninsula Township, Precinct 1",President,,REP,Bill Weld,2
+Grand Traverse,"Peninsula Township, Precinct 2",President,,REP,Bill Weld,2
+Grand Traverse,"Union Township, Precinct 1",President,,REP,Bill Weld,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,REP,Bill Weld,1
+Grand Traverse,"City of Traverse City, Precinct 1",President,,REP,Bill Weld,3
+Grand Traverse,"City of Traverse City, Precinct 3",President,,REP,Bill Weld,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,REP,Bill Weld,1
+Grand Traverse,"City of Traverse City, Precinct 8",President,,REP,Bill Weld,1
+Grand Traverse,"City of Traverse City, Precinct 9",President,,REP,Bill Weld,2
+Grand Traverse,"City of Traverse City, Precinct 10",President,,REP,Bill Weld,1
+Grand Traverse,Acme Township AVCB,President,,REP,Bill Weld,4
+Grand Traverse,Blair AVCB 1,President,,REP,Bill Weld,6
+Grand Traverse,Blair AVCB 2,President,,REP,Bill Weld,4
+Grand Traverse,East Bay AVCB 1,President,,REP,Bill Weld,1
+Grand Traverse,East Bay AVCB 2,President,,REP,Bill Weld,4
+Grand Traverse,East Bay AVCB 3,President,,REP,Bill Weld,0
+Grand Traverse,East Bay AVCB 4,President,,REP,Bill Weld,2
+Grand Traverse,Fife Lake AVCB,President,,REP,Bill Weld,0
+Grand Traverse,Garfield AVCB,President,,REP,Bill Weld,8
+Grand Traverse,Green Lake AVCB,President,,REP,Bill Weld,1
+Grand Traverse,Long Lake AVCB 1,President,,REP,Bill Weld,3
+Grand Traverse,Long Lake AVCB2,President,,REP,Bill Weld,1
+Grand Traverse,Penninsula AVCB,President,,REP,Bill Weld,12
+Grand Traverse,Whitewater AVCB,President,,REP,Bill Weld,1
+Grand Traverse,Traverse City AVCB 1,President,,REP,Bill Weld,1
+Grand Traverse,Traverse City AVCB 2,President,,REP,Bill Weld,6
+Grand Traverse,Traverse City AVCB 3,President,,REP,Bill Weld,7
+Grand Traverse,"Acme Township, Precinct 1",President,,REP,Uncommitted,3
+Grand Traverse,"Acme Township, Precinct 2",President,,REP,Uncommitted,3
+Grand Traverse,"Blair Township, Precinct 1",President,,REP,Uncommitted,1
+Grand Traverse,"Blair Township, Precinct 2",President,,REP,Uncommitted,0
+Grand Traverse,"Blair Township, Precinct 3",President,,REP,Uncommitted,0
+Grand Traverse,"Blair Township, Precinct 4",President,,REP,Uncommitted,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,REP,Uncommitted,1
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,REP,Uncommitted,1
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,REP,Uncommitted,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,REP,Uncommitted,2
+Grand Traverse,Fife Lake Township,President,,REP,Uncommitted,1
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,REP,Uncommitted,2
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,REP,Uncommitted,1
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,REP,Uncommitted,1
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,REP,Uncommitted,1
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,REP,Uncommitted,2
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,REP,Uncommitted,1
+Grand Traverse,"Grant Township, Precinct 1",President,,REP,Uncommitted,3
+Grand Traverse,"Green Lake Township, Precinct 1",President,,REP,Uncommitted,2
+Grand Traverse,"Green Lake Township, Precinct 2",President,,REP,Uncommitted,2
+Grand Traverse,"Long Lake Township, Precinct 1",President,,REP,Uncommitted,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,REP,Uncommitted,4
+Grand Traverse,"Long Lake Township, Precinct 3",President,,REP,Uncommitted,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,REP,Uncommitted,5
+Grand Traverse,"Paradise Township, Precinct 1",President,,REP,Uncommitted,10
+Grand Traverse,"Paradise Township, Precinct 2",President,,REP,Uncommitted,4
+Grand Traverse,"Peninsula Township, Precinct 1",President,,REP,Uncommitted,1
+Grand Traverse,"Peninsula Township, Precinct 2",President,,REP,Uncommitted,3
+Grand Traverse,"Union Township, Precinct 1",President,,REP,Uncommitted,1
+Grand Traverse,"Whitewater Township, Precinct 1",President,,REP,Uncommitted,1
+Grand Traverse,"City of Traverse City, Precinct 1",President,,REP,Uncommitted,1
+Grand Traverse,"City of Traverse City, Precinct 3",President,,REP,Uncommitted,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,REP,Uncommitted,1
+Grand Traverse,"City of Traverse City, Precinct 8",President,,REP,Uncommitted,1
+Grand Traverse,"City of Traverse City, Precinct 9",President,,REP,Uncommitted,1
+Grand Traverse,"City of Traverse City, Precinct 10",President,,REP,Uncommitted,1
+Grand Traverse,Acme Township AVCB,President,,REP,Uncommitted,26
+Grand Traverse,Blair AVCB 1,President,,REP,Uncommitted,22
+Grand Traverse,Blair AVCB 2,President,,REP,Uncommitted,19
+Grand Traverse,East Bay AVCB 1,President,,REP,Uncommitted,12
+Grand Traverse,East Bay AVCB 2,President,,REP,Uncommitted,17
+Grand Traverse,East Bay AVCB 3,President,,REP,Uncommitted,16
+Grand Traverse,East Bay AVCB 4,President,,REP,Uncommitted,11
+Grand Traverse,Fife Lake AVCB,President,,REP,Uncommitted,0
+Grand Traverse,Garfield AVCB,President,,REP,Uncommitted,55
+Grand Traverse,Green Lake AVCB,President,,REP,Uncommitted,9
+Grand Traverse,Long Lake AVCB 1,President,,REP,Uncommitted,20
+Grand Traverse,Long Lake AVCB2,President,,REP,Uncommitted,17
+Grand Traverse,Penninsula AVCB,President,,REP,Uncommitted,57
+Grand Traverse,Whitewater AVCB,President,,REP,Uncommitted,20
+Grand Traverse,Traverse City AVCB 1,President,,REP,Uncommitted,14
+Grand Traverse,Traverse City AVCB 2,President,,REP,Uncommitted,14
+Grand Traverse,Traverse City AVCB 3,President,,REP,Uncommitted,19
+Grand Traverse,"Acme Township, Precinct 1",President,,REP,Write-In,0
+Grand Traverse,"Acme Township, Precinct 2",President,,REP,Write-In,0
+Grand Traverse,"Blair Township, Precinct 1",President,,REP,Write-In,0
+Grand Traverse,"Blair Township, Precinct 2",President,,REP,Write-In,0
+Grand Traverse,"Blair Township, Precinct 3",President,,REP,Write-In,0
+Grand Traverse,"Blair Township, Precinct 4",President,,REP,Write-In,0
+Grand Traverse,"East Bay Charter Township, Precinct 1",President,,REP,Write-In,0
+Grand Traverse,"East Bay Charter Township, Precinct 2",President,,REP,Write-In,0
+Grand Traverse,"East Bay Charter Township, Precinct 3",President,,REP,Write-In,0
+Grand Traverse,"East Bay Charter Township, Precinct 4",President,,REP,Write-In,1
+Grand Traverse,Fife Lake Township,President,,REP,Write-In,0
+Grand Traverse,"Garfield Charter Township, Precinct 1",President,,REP,Write-In,0
+Grand Traverse,"Garfield Charter Township, Precinct 2",President,,REP,Write-In,0
+Grand Traverse,"Garfield Charter Township, Precinct 3",President,,REP,Write-In,0
+Grand Traverse,"Garfield Charter Township, Precinct 4",President,,REP,Write-In,0
+Grand Traverse,"Garfield Charter Township, Precinct 5",President,,REP,Write-In,0
+Grand Traverse,"Garfield Charter Township, Precinct 6",President,,REP,Write-In,0
+Grand Traverse,"Grant Township, Precinct 1",President,,REP,Write-In,0
+Grand Traverse,"Green Lake Township, Precinct 1",President,,REP,Write-In,0
+Grand Traverse,"Green Lake Township, Precinct 2",President,,REP,Write-In,0
+Grand Traverse,"Long Lake Township, Precinct 1",President,,REP,Write-In,0
+Grand Traverse,"Long Lake Township, Precinct 2",President,,REP,Write-In,0
+Grand Traverse,"Long Lake Township, Precinct 3",President,,REP,Write-In,0
+Grand Traverse,"Mayfield Township, Precinct 1",President,,REP,Write-In,0
+Grand Traverse,"Paradise Township, Precinct 1",President,,REP,Write-In,0
+Grand Traverse,"Paradise Township, Precinct 2",President,,REP,Write-In,0
+Grand Traverse,"Peninsula Township, Precinct 1",President,,REP,Write-In,1
+Grand Traverse,"Peninsula Township, Precinct 2",President,,REP,Write-In,0
+Grand Traverse,"Union Township, Precinct 1",President,,REP,Write-In,0
+Grand Traverse,"Whitewater Township, Precinct 1",President,,REP,Write-In,0
+Grand Traverse,"City of Traverse City, Precinct 1",President,,REP,Write-In,1
+Grand Traverse,"City of Traverse City, Precinct 3",President,,REP,Write-In,0
+Grand Traverse,"City of Traverse City, Precinct 7",President,,REP,Write-In,0
+Grand Traverse,"City of Traverse City, Precinct 8",President,,REP,Write-In,0
+Grand Traverse,"City of Traverse City, Precinct 9",President,,REP,Write-In,0
+Grand Traverse,"City of Traverse City, Precinct 10",President,,REP,Write-In,0
+Grand Traverse,Acme Township AVCB,President,,REP,Write-In,5
+Grand Traverse,Blair AVCB 1,President,,REP,Write-In,0
+Grand Traverse,Blair AVCB 2,President,,REP,Write-In,0
+Grand Traverse,East Bay AVCB 1,President,,REP,Write-In,0
+Grand Traverse,East Bay AVCB 2,President,,REP,Write-In,0
+Grand Traverse,East Bay AVCB 3,President,,REP,Write-In,0
+Grand Traverse,East Bay AVCB 4,President,,REP,Write-In,0
+Grand Traverse,Fife Lake AVCB,President,,REP,Write-In,0
+Grand Traverse,Garfield AVCB,President,,REP,Write-In,1
+Grand Traverse,Green Lake AVCB,President,,REP,Write-In,0
+Grand Traverse,Long Lake AVCB 1,President,,REP,Write-In,1
+Grand Traverse,Long Lake AVCB2,President,,REP,Write-In,0
+Grand Traverse,Penninsula AVCB,President,,REP,Write-In,2
+Grand Traverse,Whitewater AVCB,President,,REP,Write-In,2
+Grand Traverse,Traverse City AVCB 1,President,,REP,Write-In,0
+Grand Traverse,Traverse City AVCB 2,President,,REP,Write-In,2
+Grand Traverse,Traverse City AVCB 3,President,,REP,Write-In,1
+Grand Traverse,"Acme Township, Precinct 1",Ballots Cast,,REP,,79
+Grand Traverse,"Acme Township, Precinct 2",Ballots Cast,,REP,,58
+Grand Traverse,"Blair Township, Precinct 1",Ballots Cast,,REP,,62
+Grand Traverse,"Blair Township, Precinct 2",Ballots Cast,,REP,,90
+Grand Traverse,"Blair Township, Precinct 3",Ballots Cast,,REP,,41
+Grand Traverse,"Blair Township, Precinct 4",Ballots Cast,,REP,,57
+Grand Traverse,"East Bay Charter Township, Precinct 1",Ballots Cast,,REP,,54
+Grand Traverse,"East Bay Charter Township, Precinct 2",Ballots Cast,,REP,,95
+Grand Traverse,"East Bay Charter Township, Precinct 3",Ballots Cast,,REP,,71
+Grand Traverse,"East Bay Charter Township, Precinct 4",Ballots Cast,,REP,,93
+Grand Traverse,Fife Lake Township,Ballots Cast,,REP,,97
+Grand Traverse,"Garfield Charter Township, Precinct 1",Ballots Cast,,REP,,89
+Grand Traverse,"Garfield Charter Township, Precinct 2",Ballots Cast,,REP,,80
+Grand Traverse,"Garfield Charter Township, Precinct 3",Ballots Cast,,REP,,66
+Grand Traverse,"Garfield Charter Township, Precinct 4",Ballots Cast,,REP,,61
+Grand Traverse,"Garfield Charter Township, Precinct 5",Ballots Cast,,REP,,66
+Grand Traverse,"Garfield Charter Township, Precinct 6",Ballots Cast,,REP,,80
+Grand Traverse,"Grant Township, Precinct 1",Ballots Cast,,REP,,112
+Grand Traverse,"Green Lake Township, Precinct 1",Ballots Cast,,REP,,109
+Grand Traverse,"Green Lake Township, Precinct 2",Ballots Cast,,REP,,127
+Grand Traverse,"Long Lake Township, Precinct 1",Ballots Cast,,REP,,79
+Grand Traverse,"Long Lake Township, Precinct 2",Ballots Cast,,REP,,97
+Grand Traverse,"Long Lake Township, Precinct 3",Ballots Cast,,REP,,118
+Grand Traverse,"Mayfield Township, Precinct 1",Ballots Cast,,REP,,150
+Grand Traverse,"Paradise Township, Precinct 1",Ballots Cast,,REP,,220
+Grand Traverse,"Paradise Township, Precinct 2",Ballots Cast,,REP,,153
+Grand Traverse,"Peninsula Township, Precinct 1",Ballots Cast,,REP,,90
+Grand Traverse,"Peninsula Township, Precinct 2",Ballots Cast,,REP,,67
+Grand Traverse,"Union Township, Precinct 1",Ballots Cast,,REP,,47
+Grand Traverse,"Whitewater Township, Precinct 1",Ballots Cast,,REP,,123
+Grand Traverse,"City of Traverse City, Precinct 1",Ballots Cast,,REP,,74
+Grand Traverse,"City of Traverse City, Precinct 3",Ballots Cast,,REP,,40
+Grand Traverse,"City of Traverse City, Precinct 7",Ballots Cast,,REP,,55
+Grand Traverse,"City of Traverse City, Precinct 8",Ballots Cast,,REP,,35
+Grand Traverse,"City of Traverse City, Precinct 9",Ballots Cast,,REP,,56
+Grand Traverse,"City of Traverse City, Precinct 10",Ballots Cast,,REP,,70
+Grand Traverse,Acme Township AVCB,Ballots Cast,,REP,,386
+Grand Traverse,Blair AVCB 1,Ballots Cast,,REP,,336
+Grand Traverse,Blair AVCB 2,Ballots Cast,,REP,,234
+Grand Traverse,East Bay AVCB 1,Ballots Cast,,REP,,164
+Grand Traverse,East Bay AVCB 2,Ballots Cast,,REP,,334
+Grand Traverse,East Bay AVCB 3,Ballots Cast,,REP,,209
+Grand Traverse,East Bay AVCB 4,Ballots Cast,,REP,,260
+Grand Traverse,Fife Lake AVCB,Ballots Cast,,REP,,66
+Grand Traverse,Garfield AVCB,Ballots Cast,,REP,,1045
+Grand Traverse,Green Lake AVCB,Ballots Cast,,REP,,263
+Grand Traverse,Long Lake AVCB 1,Ballots Cast,,REP,,365
+Grand Traverse,Long Lake AVCB2,Ballots Cast,,REP,,248
+Grand Traverse,Penninsula AVCB,Ballots Cast,,REP,,739
+Grand Traverse,Whitewater AVCB,Ballots Cast,,REP,,243
+Grand Traverse,Traverse City AVCB 1,Ballots Cast,,REP,,211
+Grand Traverse,Traverse City AVCB 2,Ballots Cast,,REP,,177
+Grand Traverse,Traverse City AVCB 3,Ballots Cast,,REP,,257
