@@ -36,13 +36,15 @@ Cast == Ballots Cast for the countywide contests; CENR county-file
 reconciliation for the offices it covers (Straight Party excluded -- see
 below), and the emitted rows are compared against the committed CSV.
 
-The CENR county file's seven Kent Straight Party rows are internally
+The CENR county file's seven Kent Straight Party rows WERE internally
 inconsistent: its three values are a permutation of the source's
 (e.g. REP: source ED 54,922 / AVC 51,596 / Total 106,518 vs CENR
-election_day 51,596 / absentee 106,518 / votes 175,030 = AVC+Total).
+election_day 51,596 / absentee 106,518 / votes 158,114 = AVC+Total).
 The source's own printed county total row matches its precinct sums, so
-those rows are parsed as printed; the county-file check expects exactly
-the 7 Straight Party mismatches.
+those rows are parsed as printed; the county-file check allowed exactly
+the 7 Straight Party mismatches until the county file's rows were fixed
+to the source's values in a follow-up commit (after which the check
+passes with 0 mismatches).
 """
 
 import collections

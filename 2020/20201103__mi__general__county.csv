@@ -1,13 +1,13 @@
 county,office,district,candidate,party,election_day,absentee,votes
 Kent,Registered Voters,,,,,,501117
 Kent,Ballots Cast,,,,149409,214286,363695
-Kent,Straight Party,,Republican Party,REP,51596,106518,158114
-Kent,Straight Party,,Democratic Party,DEM,71771,103259,175030
-Kent,Straight Party,,Libertarian Party,LIB,629,1512,2141
-Kent,Straight Party,,Working Class Party,WCP,297,766,1063
-Kent,Straight Party,,Green Party,GRN,229,483,712
-Kent,Straight Party,,US Taxpayers Party,UST,131,287,418
-Kent,Straight Party,,Natural Law Party,NLP,73,181,254
+Kent,Straight Party,,Republican Party,REP,54922,51596,106518
+Kent,Straight Party,,Democratic Party,DEM,31488,71771,103259
+Kent,Straight Party,,Libertarian Party,LIB,883,629,1512
+Kent,Straight Party,,Working Class Party,WCP,469,297,766
+Kent,Straight Party,,Green Party,GRN,254,229,483
+Kent,Straight Party,,US Taxpayers Party,UST,156,131,287
+Kent,Straight Party,,Natural Law Party,NLP,108,73,181
 Kent,President,,Joseph R. Biden w/ Kamala D. Harris,DEM,55382,132533,187915
 Kent,President,,Donald J. Trump w/ Michael R. Pence,REP,89379,76362,165741
 Kent,President,,Jo Jorgensen w/ Jeremy Cohen,LIB,2899,2596,5495
