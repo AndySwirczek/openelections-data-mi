@@ -1,0 +1,821 @@
+county,precinct,office,district,party,candidate,votes
+Montcalm,"Belvidere Township, Precinct 1",Registered Voters,,,,1646
+Montcalm,"Bloomer Township, Precinct 1",Registered Voters,,,,886
+Montcalm,"Bushnell Township, Precinct 1",Registered Voters,,,,1061
+Montcalm,"Cato Township, Precinct 1",Registered Voters,,,,2131
+Montcalm,"Crystal Township, Precinct 1",Registered Voters,,,,1964
+Montcalm,"Day Township, Precinct 1",Registered Voters,,,,822
+Montcalm,"Douglass Township, Precinct 1",Registered Voters,,,,1808
+Montcalm,"Eureka Charter Township,",Registered Voters,,,,1501
+Montcalm,"Precinct 1 Eureka Charter Township,",Registered Voters,,,,1609
+Montcalm,"Precinct 2 Evergreen Township, Precinct",Registered Voters,,,,1236
+Montcalm,"1 Evergreen Township, Precinct",Registered Voters,,,,995
+Montcalm,"2 Fairplain Township, Precinct 1",Registered Voters,,,,1341
+Montcalm,"Ferris Township, Precinct 1",Registered Voters,,,,958
+Montcalm,"Home Township, Precinct 1",Registered Voters,,,,1917
+Montcalm,"Maple Valley Township,",Registered Voters,,,,1441
+Montcalm,"Precinct 1 Montcalm Township, Precinct",Registered Voters,,,,2652
+Montcalm,"1 Pierson Township, Precinct 1",Registered Voters,,,,2592
+Montcalm,"Pine Township, Precinct 1",Registered Voters,,,,1289
+Montcalm,"Reynolds Township, Precinct 1",Registered Voters,,,,2188
+Montcalm,"Reynolds Township, Precinct 2",Registered Voters,,,,1713
+Montcalm,"Richland Township, Precinct 1",Registered Voters,,,,2048
+Montcalm,"Sidney Township, Precinct 1",Registered Voters,,,,1985
+Montcalm,"Winfield Township, Precinct 1",Registered Voters,,,,1733
+Montcalm,"City of Carson City, Precinct 1",Registered Voters,,,,820
+Montcalm,"City of Greenville, Precinct 1",Registered Voters,,,,1628
+Montcalm,"City of Greenville, Precinct 2",Registered Voters,,,,1567
+Montcalm,"City of Greenville, Precinct 3",Registered Voters,,,,1599
+Montcalm,"City of Greenville, Precinct 4",Registered Voters,,,,1203
+Montcalm,"City of Stanton, Precinct 1",Registered Voters,,,,818
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Michael Bennet,1
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Day Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Michael Bennet,1
+Montcalm,"Eureka Charter Township,",President,,DEM,Michael Bennet,0
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Michael Bennet,0
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Michael Bennet,0
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Michael Bennet,0
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Home Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Maple Valley Township,",President,,DEM,Michael Bennet,0
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Michael Bennet,0
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Michael Bennet,0
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Michael Bennet,1
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Michael Bennet,1
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Michael Bennet,2
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Michael Bennet,0
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Michael Bennet,0
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Joe Biden,115
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Joe Biden,60
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Joe Biden,53
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Joe Biden,148
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Joe Biden,129
+Montcalm,"Day Township, Precinct 1",President,,DEM,Joe Biden,51
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Joe Biden,139
+Montcalm,"Eureka Charter Township,",President,,DEM,Joe Biden,127
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Joe Biden,139
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Joe Biden,68
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Joe Biden,75
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Joe Biden,89
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Joe Biden,50
+Montcalm,"Home Township, Precinct 1",President,,DEM,Joe Biden,91
+Montcalm,"Maple Valley Township,",President,,DEM,Joe Biden,69
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Joe Biden,201
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Joe Biden,133
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Joe Biden,106
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Joe Biden,85
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Joe Biden,75
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Joe Biden,125
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Joe Biden,195
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Joe Biden,89
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Joe Biden,66
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Joe Biden,90
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Joe Biden,140
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Joe Biden,167
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Joe Biden,75
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Joe Biden,50
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Michael R. Bloomberg,13
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Michael R. Bloomberg,13
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Michael R. Bloomberg,22
+Montcalm,"Day Township, Precinct 1",President,,DEM,Michael R. Bloomberg,2
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Michael R. Bloomberg,20
+Montcalm,"Eureka Charter Township,",President,,DEM,Michael R. Bloomberg,16
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Michael R. Bloomberg,13
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Michael R. Bloomberg,5
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Michael R. Bloomberg,4
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Michael R. Bloomberg,7
+Montcalm,"Home Township, Precinct 1",President,,DEM,Michael R. Bloomberg,15
+Montcalm,"Maple Valley Township,",President,,DEM,Michael R. Bloomberg,17
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Michael R. Bloomberg,10
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Michael R. Bloomberg,21
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Michael R. Bloomberg,9
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Michael R. Bloomberg,10
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Michael R. Bloomberg,8
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Michael R. Bloomberg,15
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Michael R. Bloomberg,16
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Michael R. Bloomberg,7
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Michael R. Bloomberg,7
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Michael R. Bloomberg,6
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Michael R. Bloomberg,6
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Michael R. Bloomberg,17
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Michael R. Bloomberg,9
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Michael R. Bloomberg,9
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Day Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Eureka Charter Township,",President,,DEM,Cory Booker,0
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Cory Booker,0
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Cory Booker,0
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Cory Booker,1
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Home Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Maple Valley Township,",President,,DEM,Cory Booker,0
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Cory Booker,0
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Cory Booker,0
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Cory Booker,0
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Cory Booker,0
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Cory Booker,0
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Cory Booker,0
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Pete Buttigieg,5
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Pete Buttigieg,4
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Pete Buttigieg,7
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Pete Buttigieg,6
+Montcalm,"Day Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Montcalm,"Eureka Charter Township,",President,,DEM,Pete Buttigieg,12
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Pete Buttigieg,7
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Pete Buttigieg,1
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Pete Buttigieg,1
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Pete Buttigieg,4
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Montcalm,"Home Township, Precinct 1",President,,DEM,Pete Buttigieg,4
+Montcalm,"Maple Valley Township,",President,,DEM,Pete Buttigieg,5
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Pete Buttigieg,1
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Pete Buttigieg,6
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Pete Buttigieg,7
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Pete Buttigieg,6
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Pete Buttigieg,6
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Pete Buttigieg,7
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Pete Buttigieg,5
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Pete Buttigieg,0
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Pete Buttigieg,4
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Pete Buttigieg,3
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Pete Buttigieg,7
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Pete Buttigieg,1
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Pete Buttigieg,1
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Day Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Eureka Charter Township,",President,,DEM,Julian Castro,1
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Julian Castro,0
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Julian Castro,0
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Julian Castro,0
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Home Township, Precinct 1",President,,DEM,Julian Castro,1
+Montcalm,"Maple Valley Township,",President,,DEM,Julian Castro,0
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Julian Castro,0
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Julian Castro,0
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Julian Castro,0
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Julian Castro,0
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Julian Castro,0
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Julian Castro,0
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Cato Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Day Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Eureka Charter Township,",President,,DEM,John Delaney,0
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,John Delaney,0
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,John Delaney,0
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,John Delaney,0
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Home Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Maple Valley Township,",President,,DEM,John Delaney,1
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,John Delaney,0
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Pine Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,John Delaney,0
+Montcalm,"Richland Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,John Delaney,1
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,John Delaney,0
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,John Delaney,0
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,John Delaney,0
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Tulsi Gabbard,5
+Montcalm,"Day Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Montcalm,"Eureka Charter Township,",President,,DEM,Tulsi Gabbard,3
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Tulsi Gabbard,3
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Tulsi Gabbard,3
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Tulsi Gabbard,0
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Montcalm,"Home Township, Precinct 1",President,,DEM,Tulsi Gabbard,5
+Montcalm,"Maple Valley Township,",President,,DEM,Tulsi Gabbard,0
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Tulsi Gabbard,4
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Tulsi Gabbard,1
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Tulsi Gabbard,1
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Tulsi Gabbard,2
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Tulsi Gabbard,3
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Amy Klobuchar,4
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Montcalm,"Day Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Amy Klobuchar,6
+Montcalm,"Eureka Charter Township,",President,,DEM,Amy Klobuchar,7
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Amy Klobuchar,2
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Amy Klobuchar,1
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Amy Klobuchar,0
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Montcalm,"Home Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Montcalm,"Maple Valley Township,",President,,DEM,Amy Klobuchar,2
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Amy Klobuchar,1
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Amy Klobuchar,8
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Amy Klobuchar,1
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Amy Klobuchar,5
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Amy Klobuchar,4
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Amy Klobuchar,0
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Amy Klobuchar,1
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Amy Klobuchar,1
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Amy Klobuchar,2
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Amy Klobuchar,0
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Amy Klobuchar,0
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Bernie Sanders,64
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Bernie Sanders,32
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Bernie Sanders,36
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Bernie Sanders,103
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Bernie Sanders,73
+Montcalm,"Day Township, Precinct 1",President,,DEM,Bernie Sanders,23
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Bernie Sanders,70
+Montcalm,"Eureka Charter Township,",President,,DEM,Bernie Sanders,97
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Bernie Sanders,88
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Bernie Sanders,43
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Bernie Sanders,32
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Bernie Sanders,77
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Bernie Sanders,34
+Montcalm,"Home Township, Precinct 1",President,,DEM,Bernie Sanders,76
+Montcalm,"Maple Valley Township,",President,,DEM,Bernie Sanders,43
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Bernie Sanders,115
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Bernie Sanders,124
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Bernie Sanders,66
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Bernie Sanders,106
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Bernie Sanders,59
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Bernie Sanders,69
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Bernie Sanders,99
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Bernie Sanders,82
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Bernie Sanders,39
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Bernie Sanders,106
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Bernie Sanders,109
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Bernie Sanders,103
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Bernie Sanders,69
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Bernie Sanders,28
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Day Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Eureka Charter Township,",President,,DEM,Joe Sestak,1
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Joe Sestak,0
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Joe Sestak,0
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Joe Sestak,0
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Home Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Maple Valley Township,",President,,DEM,Joe Sestak,0
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Joe Sestak,0
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Joe Sestak,0
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Joe Sestak,1
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Joe Sestak,0
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Joe Sestak,2
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Joe Sestak,1
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Joe Sestak,0
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Tom Steyer,1
+Montcalm,"Day Township, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Eureka Charter Township,",President,,DEM,Tom Steyer,1
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Tom Steyer,0
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Tom Steyer,0
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Tom Steyer,0
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Tom Steyer,1
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Home Township, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Maple Valley Township,",President,,DEM,Tom Steyer,0
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Tom Steyer,0
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Tom Steyer,0
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Tom Steyer,1
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Tom Steyer,1
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Tom Steyer,1
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Tom Steyer,0
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Tom Steyer,0
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Tom Steyer,0
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Tom Steyer,0
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Elizabeth Warren,4
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Montcalm,"Day Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Montcalm,"Eureka Charter Township,",President,,DEM,Elizabeth Warren,4
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Elizabeth Warren,4
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Elizabeth Warren,4
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Elizabeth Warren,0
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Montcalm,"Home Township, Precinct 1",President,,DEM,Elizabeth Warren,5
+Montcalm,"Maple Valley Township,",President,,DEM,Elizabeth Warren,1
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Elizabeth Warren,3
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Elizabeth Warren,4
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Elizabeth Warren,1
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Elizabeth Warren,0
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Elizabeth Warren,3
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Elizabeth Warren,3
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Elizabeth Warren,4
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Elizabeth Warren,0
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Elizabeth Warren,3
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Day Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Eureka Charter Township,",President,,DEM,Marianne Williamson,0
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Marianne Williamson,0
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Marianne Williamson,0
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Marianne Williamson,0
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Home Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Maple Valley Township,",President,,DEM,Marianne Williamson,0
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Marianne Williamson,0
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Marianne Williamson,1
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Marianne Williamson,1
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Marianne Williamson,1
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Marianne Williamson,0
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Marianne Williamson,0
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Marianne Williamson,0
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Marianne Williamson,0
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Andrew Yang,1
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Day Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Eureka Charter Township,",President,,DEM,Andrew Yang,0
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Andrew Yang,0
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Andrew Yang,0
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Andrew Yang,1
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Home Township, Precinct 1",President,,DEM,Andrew Yang,1
+Montcalm,"Maple Valley Township,",President,,DEM,Andrew Yang,0
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Andrew Yang,1
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Andrew Yang,1
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Andrew Yang,0
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Andrew Yang,1
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Andrew Yang,0
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Andrew Yang,2
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Andrew Yang,0
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Andrew Yang,0
+Montcalm,"Belvidere Township, Precinct 1",President,,DEM,Uncommitted,4
+Montcalm,"Bloomer Township, Precinct 1",President,,DEM,Uncommitted,1
+Montcalm,"Bushnell Township, Precinct 1",President,,DEM,Uncommitted,3
+Montcalm,"Cato Township, Precinct 1",President,,DEM,Uncommitted,8
+Montcalm,"Crystal Township, Precinct 1",President,,DEM,Uncommitted,8
+Montcalm,"Day Township, Precinct 1",President,,DEM,Uncommitted,4
+Montcalm,"Douglass Township, Precinct 1",President,,DEM,Uncommitted,4
+Montcalm,"Eureka Charter Township,",President,,DEM,Uncommitted,5
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,DEM,Uncommitted,2
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,DEM,Uncommitted,0
+Montcalm,"1 Evergreen Township, Precinct",President,,DEM,Uncommitted,1
+Montcalm,"2 Fairplain Township, Precinct 1",President,,DEM,Uncommitted,4
+Montcalm,"Ferris Township, Precinct 1",President,,DEM,Uncommitted,5
+Montcalm,"Home Township, Precinct 1",President,,DEM,Uncommitted,1
+Montcalm,"Maple Valley Township,",President,,DEM,Uncommitted,8
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,DEM,Uncommitted,4
+Montcalm,"1 Pierson Township, Precinct 1",President,,DEM,Uncommitted,7
+Montcalm,"Pine Township, Precinct 1",President,,DEM,Uncommitted,0
+Montcalm,"Reynolds Township, Precinct 1",President,,DEM,Uncommitted,7
+Montcalm,"Reynolds Township, Precinct 2",President,,DEM,Uncommitted,3
+Montcalm,"Richland Township, Precinct 1",President,,DEM,Uncommitted,9
+Montcalm,"Sidney Township, Precinct 1",President,,DEM,Uncommitted,8
+Montcalm,"Winfield Township, Precinct 1",President,,DEM,Uncommitted,2
+Montcalm,"City of Carson City, Precinct 1",President,,DEM,Uncommitted,1
+Montcalm,"City of Greenville, Precinct 1",President,,DEM,Uncommitted,5
+Montcalm,"City of Greenville, Precinct 2",President,,DEM,Uncommitted,6
+Montcalm,"City of Greenville, Precinct 3",President,,DEM,Uncommitted,5
+Montcalm,"City of Greenville, Precinct 4",President,,DEM,Uncommitted,1
+Montcalm,"City of Stanton, Precinct 1",President,,DEM,Uncommitted,1
+Montcalm,"Belvidere Township, Precinct 1",Ballots Cast,,DEM,,208
+Montcalm,"Bloomer Township, Precinct 1",Ballots Cast,,DEM,,101
+Montcalm,"Bushnell Township, Precinct 1",Ballots Cast,,DEM,,101
+Montcalm,"Cato Township, Precinct 1",Ballots Cast,,DEM,,287
+Montcalm,"Crystal Township, Precinct 1",Ballots Cast,,DEM,,248
+Montcalm,"Day Township, Precinct 1",Ballots Cast,,DEM,,89
+Montcalm,"Douglass Township, Precinct 1",Ballots Cast,,DEM,,245
+Montcalm,"Eureka Charter Township,",Ballots Cast,,DEM,,274
+Montcalm,"Precinct 1 Eureka Charter Township,",Ballots Cast,,DEM,,258
+Montcalm,"Precinct 2 Evergreen Township, Precinct",Ballots Cast,,DEM,,125
+Montcalm,"1 Evergreen Township, Precinct",Ballots Cast,,DEM,,115
+Montcalm,"2 Fairplain Township, Precinct 1",Ballots Cast,,DEM,,181
+Montcalm,"Ferris Township, Precinct 1",Ballots Cast,,DEM,,101
+Montcalm,"Home Township, Precinct 1",Ballots Cast,,DEM,,199
+Montcalm,"Maple Valley Township,",Ballots Cast,,DEM,,146
+Montcalm,"Precinct 1 Montcalm Township, Precinct",Ballots Cast,,DEM,,340
+Montcalm,"1 Pierson Township, Precinct 1",Ballots Cast,,DEM,,305
+Montcalm,"Pine Township, Precinct 1",Ballots Cast,,DEM,,191
+Montcalm,"Reynolds Township, Precinct 1",Ballots Cast,,DEM,,216
+Montcalm,"Reynolds Township, Precinct 2",Ballots Cast,,DEM,,154
+Montcalm,"Richland Township, Precinct 1",Ballots Cast,,DEM,,229
+Montcalm,"Sidney Township, Precinct 1",Ballots Cast,,DEM,,337
+Montcalm,"Winfield Township, Precinct 1",Ballots Cast,,DEM,,194
+Montcalm,"City of Carson City, Precinct 1",Ballots Cast,,DEM,,114
+Montcalm,"City of Greenville, Precinct 1",Ballots Cast,,DEM,,217
+Montcalm,"City of Greenville, Precinct 2",Ballots Cast,,DEM,,271
+Montcalm,"City of Greenville, Precinct 3",Ballots Cast,,DEM,,313
+Montcalm,"City of Greenville, Precinct 4",Ballots Cast,,DEM,,159
+Montcalm,"City of Stanton, Precinct 1",Ballots Cast,,DEM,,95
+Montcalm,"Belvidere Township, Precinct 1",President,,REP,Mark Sanford,1
+Montcalm,"Bloomer Township, Precinct 1",President,,REP,Mark Sanford,1
+Montcalm,"Bushnell Township, Precinct 1",President,,REP,Mark Sanford,0
+Montcalm,"Cato Township, Precinct 1",President,,REP,Mark Sanford,2
+Montcalm,"Crystal Township, Precinct 1",President,,REP,Mark Sanford,1
+Montcalm,"Day Township, Precinct 1",President,,REP,Mark Sanford,0
+Montcalm,"Douglass Township, Precinct 1",President,,REP,Mark Sanford,3
+Montcalm,"Eureka Charter Township,",President,,REP,Mark Sanford,0
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,REP,Mark Sanford,1
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,REP,Mark Sanford,0
+Montcalm,"1 Evergreen Township, Precinct",President,,REP,Mark Sanford,1
+Montcalm,"2 Fairplain Township, Precinct 1",President,,REP,Mark Sanford,1
+Montcalm,"Ferris Township, Precinct 1",President,,REP,Mark Sanford,1
+Montcalm,"Home Township, Precinct 1",President,,REP,Mark Sanford,0
+Montcalm,"Maple Valley Township,",President,,REP,Mark Sanford,1
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,REP,Mark Sanford,2
+Montcalm,"1 Pierson Township, Precinct 1",President,,REP,Mark Sanford,2
+Montcalm,"Pine Township, Precinct 1",President,,REP,Mark Sanford,0
+Montcalm,"Reynolds Township, Precinct 1",President,,REP,Mark Sanford,0
+Montcalm,"Reynolds Township, Precinct 2",President,,REP,Mark Sanford,1
+Montcalm,"Richland Township, Precinct 1",President,,REP,Mark Sanford,2
+Montcalm,"Sidney Township, Precinct 1",President,,REP,Mark Sanford,0
+Montcalm,"Winfield Township, Precinct 1",President,,REP,Mark Sanford,2
+Montcalm,"City of Carson City, Precinct 1",President,,REP,Mark Sanford,1
+Montcalm,"City of Greenville, Precinct 1",President,,REP,Mark Sanford,1
+Montcalm,"City of Greenville, Precinct 2",President,,REP,Mark Sanford,1
+Montcalm,"City of Greenville, Precinct 3",President,,REP,Mark Sanford,4
+Montcalm,"City of Greenville, Precinct 4",President,,REP,Mark Sanford,0
+Montcalm,"City of Stanton, Precinct 1",President,,REP,Mark Sanford,3
+Montcalm,"Belvidere Township, Precinct 1",President,,REP,Donald J. Trump,222
+Montcalm,"Bloomer Township, Precinct 1",President,,REP,Donald J. Trump,186
+Montcalm,"Bushnell Township, Precinct 1",President,,REP,Donald J. Trump,162
+Montcalm,"Cato Township, Precinct 1",President,,REP,Donald J. Trump,278
+Montcalm,"Crystal Township, Precinct 1",President,,REP,Donald J. Trump,231
+Montcalm,"Day Township, Precinct 1",President,,REP,Donald J. Trump,136
+Montcalm,"Douglass Township, Precinct 1",President,,REP,Donald J. Trump,273
+Montcalm,"Eureka Charter Township,",President,,REP,Donald J. Trump,179
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,REP,Donald J. Trump,217
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,REP,Donald J. Trump,151
+Montcalm,"1 Evergreen Township, Precinct",President,,REP,Donald J. Trump,127
+Montcalm,"2 Fairplain Township, Precinct 1",President,,REP,Donald J. Trump,170
+Montcalm,"Ferris Township, Precinct 1",President,,REP,Donald J. Trump,114
+Montcalm,"Home Township, Precinct 1",President,,REP,Donald J. Trump,237
+Montcalm,"Maple Valley Township,",President,,REP,Donald J. Trump,216
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,REP,Donald J. Trump,314
+Montcalm,"1 Pierson Township, Precinct 1",President,,REP,Donald J. Trump,389
+Montcalm,"Pine Township, Precinct 1",President,,REP,Donald J. Trump,174
+Montcalm,"Reynolds Township, Precinct 1",President,,REP,Donald J. Trump,267
+Montcalm,"Reynolds Township, Precinct 2",President,,REP,Donald J. Trump,206
+Montcalm,"Richland Township, Precinct 1",President,,REP,Donald J. Trump,256
+Montcalm,"Sidney Township, Precinct 1",President,,REP,Donald J. Trump,345
+Montcalm,"Winfield Township, Precinct 1",President,,REP,Donald J. Trump,265
+Montcalm,"City of Carson City, Precinct 1",President,,REP,Donald J. Trump,80
+Montcalm,"City of Greenville, Precinct 1",President,,REP,Donald J. Trump,110
+Montcalm,"City of Greenville, Precinct 2",President,,REP,Donald J. Trump,121
+Montcalm,"City of Greenville, Precinct 3",President,,REP,Donald J. Trump,149
+Montcalm,"City of Greenville, Precinct 4",President,,REP,Donald J. Trump,71
+Montcalm,"City of Stanton, Precinct 1",President,,REP,Donald J. Trump,85
+Montcalm,"Belvidere Township, Precinct 1",President,,REP,Joe Walsh,0
+Montcalm,"Bloomer Township, Precinct 1",President,,REP,Joe Walsh,3
+Montcalm,"Bushnell Township, Precinct 1",President,,REP,Joe Walsh,3
+Montcalm,"Cato Township, Precinct 1",President,,REP,Joe Walsh,1
+Montcalm,"Crystal Township, Precinct 1",President,,REP,Joe Walsh,2
+Montcalm,"Day Township, Precinct 1",President,,REP,Joe Walsh,0
+Montcalm,"Douglass Township, Precinct 1",President,,REP,Joe Walsh,1
+Montcalm,"Eureka Charter Township,",President,,REP,Joe Walsh,1
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,REP,Joe Walsh,1
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,REP,Joe Walsh,2
+Montcalm,"1 Evergreen Township, Precinct",President,,REP,Joe Walsh,0
+Montcalm,"2 Fairplain Township, Precinct 1",President,,REP,Joe Walsh,3
+Montcalm,"Ferris Township, Precinct 1",President,,REP,Joe Walsh,0
+Montcalm,"Home Township, Precinct 1",President,,REP,Joe Walsh,1
+Montcalm,"Maple Valley Township,",President,,REP,Joe Walsh,2
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,REP,Joe Walsh,1
+Montcalm,"1 Pierson Township, Precinct 1",President,,REP,Joe Walsh,3
+Montcalm,"Pine Township, Precinct 1",President,,REP,Joe Walsh,1
+Montcalm,"Reynolds Township, Precinct 1",President,,REP,Joe Walsh,3
+Montcalm,"Reynolds Township, Precinct 2",President,,REP,Joe Walsh,3
+Montcalm,"Richland Township, Precinct 1",President,,REP,Joe Walsh,1
+Montcalm,"Sidney Township, Precinct 1",President,,REP,Joe Walsh,3
+Montcalm,"Winfield Township, Precinct 1",President,,REP,Joe Walsh,4
+Montcalm,"City of Carson City, Precinct 1",President,,REP,Joe Walsh,1
+Montcalm,"City of Greenville, Precinct 1",President,,REP,Joe Walsh,1
+Montcalm,"City of Greenville, Precinct 2",President,,REP,Joe Walsh,1
+Montcalm,"City of Greenville, Precinct 3",President,,REP,Joe Walsh,0
+Montcalm,"City of Greenville, Precinct 4",President,,REP,Joe Walsh,0
+Montcalm,"City of Stanton, Precinct 1",President,,REP,Joe Walsh,0
+Montcalm,"Belvidere Township, Precinct 1",President,,REP,Bill Weld,1
+Montcalm,"Bloomer Township, Precinct 1",President,,REP,Bill Weld,0
+Montcalm,"Bushnell Township, Precinct 1",President,,REP,Bill Weld,0
+Montcalm,"Cato Township, Precinct 1",President,,REP,Bill Weld,1
+Montcalm,"Crystal Township, Precinct 1",President,,REP,Bill Weld,1
+Montcalm,"Day Township, Precinct 1",President,,REP,Bill Weld,1
+Montcalm,"Douglass Township, Precinct 1",President,,REP,Bill Weld,4
+Montcalm,"Eureka Charter Township,",President,,REP,Bill Weld,0
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,REP,Bill Weld,0
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,REP,Bill Weld,1
+Montcalm,"1 Evergreen Township, Precinct",President,,REP,Bill Weld,0
+Montcalm,"2 Fairplain Township, Precinct 1",President,,REP,Bill Weld,1
+Montcalm,"Ferris Township, Precinct 1",President,,REP,Bill Weld,0
+Montcalm,"Home Township, Precinct 1",President,,REP,Bill Weld,5
+Montcalm,"Maple Valley Township,",President,,REP,Bill Weld,0
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,REP,Bill Weld,2
+Montcalm,"1 Pierson Township, Precinct 1",President,,REP,Bill Weld,4
+Montcalm,"Pine Township, Precinct 1",President,,REP,Bill Weld,3
+Montcalm,"Reynolds Township, Precinct 1",President,,REP,Bill Weld,2
+Montcalm,"Reynolds Township, Precinct 2",President,,REP,Bill Weld,0
+Montcalm,"Richland Township, Precinct 1",President,,REP,Bill Weld,1
+Montcalm,"Sidney Township, Precinct 1",President,,REP,Bill Weld,3
+Montcalm,"Winfield Township, Precinct 1",President,,REP,Bill Weld,2
+Montcalm,"City of Carson City, Precinct 1",President,,REP,Bill Weld,2
+Montcalm,"City of Greenville, Precinct 1",President,,REP,Bill Weld,1
+Montcalm,"City of Greenville, Precinct 2",President,,REP,Bill Weld,4
+Montcalm,"City of Greenville, Precinct 3",President,,REP,Bill Weld,2
+Montcalm,"City of Greenville, Precinct 4",President,,REP,Bill Weld,1
+Montcalm,"City of Stanton, Precinct 1",President,,REP,Bill Weld,0
+Montcalm,"Belvidere Township, Precinct 1",President,,REP,Uncommitted,10
+Montcalm,"Bloomer Township, Precinct 1",President,,REP,Uncommitted,3
+Montcalm,"Bushnell Township, Precinct 1",President,,REP,Uncommitted,1
+Montcalm,"Cato Township, Precinct 1",President,,REP,Uncommitted,10
+Montcalm,"Crystal Township, Precinct 1",President,,REP,Uncommitted,8
+Montcalm,"Day Township, Precinct 1",President,,REP,Uncommitted,5
+Montcalm,"Douglass Township, Precinct 1",President,,REP,Uncommitted,13
+Montcalm,"Eureka Charter Township,",President,,REP,Uncommitted,19
+Montcalm,"Precinct 1 Eureka Charter Township,",President,,REP,Uncommitted,8
+Montcalm,"Precinct 2 Evergreen Township, Precinct",President,,REP,Uncommitted,6
+Montcalm,"1 Evergreen Township, Precinct",President,,REP,Uncommitted,8
+Montcalm,"2 Fairplain Township, Precinct 1",President,,REP,Uncommitted,8
+Montcalm,"Ferris Township, Precinct 1",President,,REP,Uncommitted,6
+Montcalm,"Home Township, Precinct 1",President,,REP,Uncommitted,8
+Montcalm,"Maple Valley Township,",President,,REP,Uncommitted,10
+Montcalm,"Precinct 1 Montcalm Township, Precinct",President,,REP,Uncommitted,7
+Montcalm,"1 Pierson Township, Precinct 1",President,,REP,Uncommitted,14
+Montcalm,"Pine Township, Precinct 1",President,,REP,Uncommitted,8
+Montcalm,"Reynolds Township, Precinct 1",President,,REP,Uncommitted,6
+Montcalm,"Reynolds Township, Precinct 2",President,,REP,Uncommitted,4
+Montcalm,"Richland Township, Precinct 1",President,,REP,Uncommitted,9
+Montcalm,"Sidney Township, Precinct 1",President,,REP,Uncommitted,17
+Montcalm,"Winfield Township, Precinct 1",President,,REP,Uncommitted,12
+Montcalm,"City of Carson City, Precinct 1",President,,REP,Uncommitted,5
+Montcalm,"City of Greenville, Precinct 1",President,,REP,Uncommitted,5
+Montcalm,"City of Greenville, Precinct 2",President,,REP,Uncommitted,9
+Montcalm,"City of Greenville, Precinct 3",President,,REP,Uncommitted,14
+Montcalm,"City of Greenville, Precinct 4",President,,REP,Uncommitted,5
+Montcalm,"City of Stanton, Precinct 1",President,,REP,Uncommitted,4
+Montcalm,"Belvidere Township, Precinct 1",Ballots Cast,,REP,,234
+Montcalm,"Bloomer Township, Precinct 1",Ballots Cast,,REP,,193
+Montcalm,"Bushnell Township, Precinct 1",Ballots Cast,,REP,,166
+Montcalm,"Cato Township, Precinct 1",Ballots Cast,,REP,,292
+Montcalm,"Crystal Township, Precinct 1",Ballots Cast,,REP,,243
+Montcalm,"Day Township, Precinct 1",Ballots Cast,,REP,,142
+Montcalm,"Douglass Township, Precinct 1",Ballots Cast,,REP,,294
+Montcalm,"Eureka Charter Township,",Ballots Cast,,REP,,199
+Montcalm,"Precinct 1 Eureka Charter Township,",Ballots Cast,,REP,,227
+Montcalm,"Precinct 2 Evergreen Township, Precinct",Ballots Cast,,REP,,160
+Montcalm,"1 Evergreen Township, Precinct",Ballots Cast,,REP,,136
+Montcalm,"2 Fairplain Township, Precinct 1",Ballots Cast,,REP,,183
+Montcalm,"Ferris Township, Precinct 1",Ballots Cast,,REP,,121
+Montcalm,"Home Township, Precinct 1",Ballots Cast,,REP,,251
+Montcalm,"Maple Valley Township,",Ballots Cast,,REP,,229
+Montcalm,"Precinct 1 Montcalm Township, Precinct",Ballots Cast,,REP,,326
+Montcalm,"1 Pierson Township, Precinct 1",Ballots Cast,,REP,,412
+Montcalm,"Pine Township, Precinct 1",Ballots Cast,,REP,,186
+Montcalm,"Reynolds Township, Precinct 1",Ballots Cast,,REP,,278
+Montcalm,"Reynolds Township, Precinct 2",Ballots Cast,,REP,,214
+Montcalm,"Richland Township, Precinct 1",Ballots Cast,,REP,,269
+Montcalm,"Sidney Township, Precinct 1",Ballots Cast,,REP,,368
+Montcalm,"Winfield Township, Precinct 1",Ballots Cast,,REP,,285
+Montcalm,"City of Carson City, Precinct 1",Ballots Cast,,REP,,89
+Montcalm,"City of Greenville, Precinct 1",Ballots Cast,,REP,,118
+Montcalm,"City of Greenville, Precinct 2",Ballots Cast,,REP,,136
+Montcalm,"City of Greenville, Precinct 3",Ballots Cast,,REP,,169
+Montcalm,"City of Greenville, Precinct 4",Ballots Cast,,REP,,77
+Montcalm,"City of Stanton, Precinct 1",Ballots Cast,,REP,,92
+Montcalm,"Belvidere Township, Precinct 1",Library Millage Proposal,,,Yes,242
+Montcalm,"Belvidere Township, Precinct 1",Library Millage Proposal,,,No,230
+Montcalm,"Bloomer Township, Precinct 1",Library Millage Proposal,,,Yes,183
+Montcalm,"Bloomer Township, Precinct 1",Library Millage Proposal,,,No,134
+Montcalm,"Bushnell Township, Precinct 1",Library Millage Proposal,,,Yes,131
+Montcalm,"Bushnell Township, Precinct 1",Library Millage Proposal,,,No,157
+Montcalm,"Cato Township, Precinct 1",Library Millage Proposal,,,Yes,406
+Montcalm,"Cato Township, Precinct 1",Library Millage Proposal,,,No,214
+Montcalm,"Crystal Township, Precinct 1",Library Millage Proposal,,,Yes,282
+Montcalm,"Crystal Township, Precinct 1",Library Millage Proposal,,,No,255
+Montcalm,"Day Township, Precinct 1",Library Millage Proposal,,,Yes,150
+Montcalm,"Day Township, Precinct 1",Library Millage Proposal,,,No,99
+Montcalm,"Douglass Township, Precinct 1",Library Millage Proposal,,,Yes,319
+Montcalm,"Douglass Township, Precinct 1",Library Millage Proposal,,,No,249
+Montcalm,"Eureka Charter Township,",Library Millage Proposal,,,Yes,280
+Montcalm,"Eureka Charter Township,",Library Millage Proposal,,,No,217
+Montcalm,"Precinct 1 Eureka Charter Township,",Library Millage Proposal,,,Yes,292
+Montcalm,"Precinct 1 Eureka Charter Township,",Library Millage Proposal,,,No,224
+Montcalm,"Precinct 2 Evergreen Township, Precinct",Library Millage Proposal,,,Yes,146
+Montcalm,"Precinct 2 Evergreen Township, Precinct",Library Millage Proposal,,,No,175
+Montcalm,"1 Evergreen Township, Precinct",Library Millage Proposal,,,Yes,157
+Montcalm,"1 Evergreen Township, Precinct",Library Millage Proposal,,,No,114
+Montcalm,"2 Fairplain Township, Precinct 1",Library Millage Proposal,,,Yes,198
+Montcalm,"2 Fairplain Township, Precinct 1",Library Millage Proposal,,,No,198
+Montcalm,"Ferris Township, Precinct 1",Library Millage Proposal,,,Yes,118
+Montcalm,"Ferris Township, Precinct 1",Library Millage Proposal,,,No,119
+Montcalm,"Home Township, Precinct 1",Library Millage Proposal,,,Yes,324
+Montcalm,"Home Township, Precinct 1",Library Millage Proposal,,,No,167
+Montcalm,"Maple Valley Township,",Library Millage Proposal,,,Yes,153
+Montcalm,"Maple Valley Township,",Library Millage Proposal,,,No,241
+Montcalm,"Precinct 1 Montcalm Township, Precinct",Library Millage Proposal,,,Yes,335
+Montcalm,"Precinct 1 Montcalm Township, Precinct",Library Millage Proposal,,,No,386
+Montcalm,"1 Pierson Township, Precinct 1",Library Millage Proposal,,,Yes,307
+Montcalm,"1 Pierson Township, Precinct 1",Library Millage Proposal,,,No,434
+Montcalm,"Pine Township, Precinct 1",Library Millage Proposal,,,Yes,191
+Montcalm,"Pine Township, Precinct 1",Library Millage Proposal,,,No,192
+Montcalm,"Reynolds Township, Precinct 1",Library Millage Proposal,,,Yes,264
+Montcalm,"Reynolds Township, Precinct 1",Library Millage Proposal,,,No,247
+Montcalm,"Reynolds Township, Precinct 2",Library Millage Proposal,,,Yes,144
+Montcalm,"Reynolds Township, Precinct 2",Library Millage Proposal,,,No,237
+Montcalm,"Richland Township, Precinct 1",Library Millage Proposal,,,Yes,284
+Montcalm,"Richland Township, Precinct 1",Library Millage Proposal,,,No,259
+Montcalm,"Sidney Township, Precinct 1",Library Millage Proposal,,,Yes,400
+Montcalm,"Sidney Township, Precinct 1",Library Millage Proposal,,,No,373
+Montcalm,"Winfield Township, Precinct 1",Library Millage Proposal,,,Yes,228
+Montcalm,"Winfield Township, Precinct 1",Library Millage Proposal,,,No,272
+Montcalm,"City of Carson City, Precinct 1",Library Millage Proposal,,,Yes,163
+Montcalm,"City of Carson City, Precinct 1",Library Millage Proposal,,,No,61
+Montcalm,"City of Greenville, Precinct 1",Library Millage Proposal,,,Yes,201
+Montcalm,"City of Greenville, Precinct 1",Library Millage Proposal,,,No,145
+Montcalm,"City of Greenville, Precinct 2",Library Millage Proposal,,,Yes,299
+Montcalm,"City of Greenville, Precinct 2",Library Millage Proposal,,,No,129
+Montcalm,"City of Greenville, Precinct 3",Library Millage Proposal,,,Yes,369
+Montcalm,"City of Greenville, Precinct 3",Library Millage Proposal,,,No,137
+Montcalm,"City of Greenville, Precinct 4",Library Millage Proposal,,,Yes,160
+Montcalm,"City of Greenville, Precinct 4",Library Millage Proposal,,,No,86
+Montcalm,"City of Stanton, Precinct 1",Library Millage Proposal,,,Yes,156
+Montcalm,"City of Stanton, Precinct 1",Library Millage Proposal,,,No,55
+Montcalm,"Belvidere Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,267
+Montcalm,"Belvidere Township, Precinct 1",Law Enforcement Millage Proposal,,,No,197
+Montcalm,"Bloomer Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,174
+Montcalm,"Bloomer Township, Precinct 1",Law Enforcement Millage Proposal,,,No,142
+Montcalm,"Bushnell Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,126
+Montcalm,"Bushnell Township, Precinct 1",Law Enforcement Millage Proposal,,,No,150
+Montcalm,"Cato Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,337
+Montcalm,"Cato Township, Precinct 1",Law Enforcement Millage Proposal,,,No,239
+Montcalm,"Crystal Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,291
+Montcalm,"Crystal Township, Precinct 1",Law Enforcement Millage Proposal,,,No,223
+Montcalm,"Day Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,148
+Montcalm,"Day Township, Precinct 1",Law Enforcement Millage Proposal,,,No,98
+Montcalm,"Douglass Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,328
+Montcalm,"Douglass Township, Precinct 1",Law Enforcement Millage Proposal,,,No,225
+Montcalm,"Eureka Charter Township,",Law Enforcement Millage Proposal,,,Yes,292
+Montcalm,"Eureka Charter Township,",Law Enforcement Millage Proposal,,,No,198
+Montcalm,"Precinct 1 Eureka Charter Township,",Law Enforcement Millage Proposal,,,Yes,294
+Montcalm,"Precinct 1 Eureka Charter Township,",Law Enforcement Millage Proposal,,,No,192
+Montcalm,"Precinct 2 Evergreen Township, Precinct",Law Enforcement Millage Proposal,,,Yes,157
+Montcalm,"Precinct 2 Evergreen Township, Precinct",Law Enforcement Millage Proposal,,,No,154
+Montcalm,"1 Evergreen Township, Precinct",Law Enforcement Millage Proposal,,,Yes,167
+Montcalm,"1 Evergreen Township, Precinct",Law Enforcement Millage Proposal,,,No,93
+Montcalm,"2 Fairplain Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,223
+Montcalm,"2 Fairplain Township, Precinct 1",Law Enforcement Millage Proposal,,,No,160
+Montcalm,"Ferris Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,108
+Montcalm,"Ferris Township, Precinct 1",Law Enforcement Millage Proposal,,,No,129
+Montcalm,"Home Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,281
+Montcalm,"Home Township, Precinct 1",Law Enforcement Millage Proposal,,,No,190
+Montcalm,"Maple Valley Township,",Law Enforcement Millage Proposal,,,Yes,171
+Montcalm,"Maple Valley Township,",Law Enforcement Millage Proposal,,,No,205
+Montcalm,"Precinct 1 Montcalm Township, Precinct",Law Enforcement Millage Proposal,,,Yes,369
+Montcalm,"Precinct 1 Montcalm Township, Precinct",Law Enforcement Millage Proposal,,,No,329
+Montcalm,"1 Pierson Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,373
+Montcalm,"1 Pierson Township, Precinct 1",Law Enforcement Millage Proposal,,,No,353
+Montcalm,"Pine Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,216
+Montcalm,"Pine Township, Precinct 1",Law Enforcement Millage Proposal,,,No,159
+Montcalm,"Reynolds Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,267
+Montcalm,"Reynolds Township, Precinct 1",Law Enforcement Millage Proposal,,,No,210
+Montcalm,"Reynolds Township, Precinct 2",Law Enforcement Millage Proposal,,,Yes,149
+Montcalm,"Reynolds Township, Precinct 2",Law Enforcement Millage Proposal,,,No,223
+Montcalm,"Richland Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,245
+Montcalm,"Richland Township, Precinct 1",Law Enforcement Millage Proposal,,,No,267
+Montcalm,"Sidney Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,456
+Montcalm,"Sidney Township, Precinct 1",Law Enforcement Millage Proposal,,,No,317
+Montcalm,"Winfield Township, Precinct 1",Law Enforcement Millage Proposal,,,Yes,270
+Montcalm,"Winfield Township, Precinct 1",Law Enforcement Millage Proposal,,,No,220
+Montcalm,"City of Carson City, Precinct 1",Law Enforcement Millage Proposal,,,Yes,130
+Montcalm,"City of Carson City, Precinct 1",Law Enforcement Millage Proposal,,,No,86
+Montcalm,"City of Greenville, Precinct 1",Law Enforcement Millage Proposal,,,Yes,197
+Montcalm,"City of Greenville, Precinct 1",Law Enforcement Millage Proposal,,,No,128
+Montcalm,"City of Greenville, Precinct 2",Law Enforcement Millage Proposal,,,Yes,273
+Montcalm,"City of Greenville, Precinct 2",Law Enforcement Millage Proposal,,,No,139
+Montcalm,"City of Greenville, Precinct 3",Law Enforcement Millage Proposal,,,Yes,352
+Montcalm,"City of Greenville, Precinct 3",Law Enforcement Millage Proposal,,,No,128
+Montcalm,"City of Greenville, Precinct 4",Law Enforcement Millage Proposal,,,Yes,147
+Montcalm,"City of Greenville, Precinct 4",Law Enforcement Millage Proposal,,,No,94
+Montcalm,"City of Stanton, Precinct 1",Law Enforcement Millage Proposal,,,Yes,146
+Montcalm,"City of Stanton, Precinct 1",Law Enforcement Millage Proposal,,,No,63
+Montcalm,"Sidney Township, Precinct 1",Proposal to Set the Number of State Licensed Marijuana Establishments Allowed within its Boundaries,,,Yes,320
+Montcalm,"Sidney Township, Precinct 1",Proposal to Set the Number of State Licensed Marijuana Establishments Allowed within its Boundaries,,,No,446
+Montcalm,"Crystal Township, Precinct 1",Gratiot-Isabella Regional Education Service District,,,Yes,0
+Montcalm,"Crystal Township, Precinct 1",Gratiot-Isabella Regional Education Service District,,,No,0
+Montcalm,"Ferris Township, Precinct 1",Gratiot-Isabella Regional Education Service District,,,Yes,0
+Montcalm,"Ferris Township, Precinct 1",Gratiot-Isabella Regional Education Service District,,,No,0
+Montcalm,"Richland Township, Precinct 1",Gratiot-Isabella Regional Education Service District,,,Yes,0
+Montcalm,"Richland Township, Precinct 1",Gratiot-Isabella Regional Education Service District,,,No,0
