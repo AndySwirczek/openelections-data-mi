@@ -1,0 +1,625 @@
+county,precinct,office,district,party,candidate,votes
+Barry,"City of Hastings, Precinct 1",Registered Voters,,,,431
+Barry,"City of Hastings, Precinct 2",Registered Voters,,,,248
+Barry,"City of Hastings, Precinct 3",Registered Voters,,,,273
+Barry,"City of Hastings, Precinct 4",Registered Voters,,,,428
+Barry,"Assyria Township, Precinct 1",Registered Voters,,,,384
+Barry,"Baltimore Township, Precinct 1",Registered Voters,,,,354
+Barry,"Barry Township, Precinct 1",Registered Voters,,,,707
+Barry,"Carlton Township, Precinct 1",Registered Voters,,,,490
+Barry,"Castleton Township, Precinct 1",Registered Voters,,,,483
+Barry,"Hastings Township, Precinct 1",Registered Voters,,,,660
+Barry,"Hope Township, Precinct 1",Registered Voters,,,,632
+Barry,"Irving Township, Precinct 1",Registered Voters,,,,660
+Barry,"Johnstown Township, Precinct 1",Registered Voters,,,,677
+Barry,"Maple Grove Township, Precinct 1",Registered Voters,,,,219
+Barry,"Orangeville Township, Precinct 1",Registered Voters,,,,691
+Barry,"Prairieville Township, Precinct 1",Registered Voters,,,,781
+Barry,"Rutland Township, Precinct 1",Registered Voters,,,,391
+Barry,"Rutland Township, Precinct 2",Registered Voters,,,,526
+Barry,"Thornapple Township, Precinct 1",Registered Voters,,,,540
+Barry,"Thornapple Township, Precinct 2",Registered Voters,,,,417
+Barry,"Thornapple Township, Precinct 3",Registered Voters,,,,646
+Barry,"Woodland Township, Precinct 1",Registered Voters,,,,400
+Barry,"Yankee Springs Township, Precinct 1",Registered Voters,,,,598
+Barry,"Yankee Springs Township, Precinct 2",Registered Voters,,,,512
+Barry,"City of Hastings, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"City of Hastings, Precinct 2",President,,DEM,Michael Bennet,1
+Barry,"City of Hastings, Precinct 3",President,,DEM,Michael Bennet,0
+Barry,"City of Hastings, Precinct 4",President,,DEM,Michael Bennet,0
+Barry,"Assyria Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Barry Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Carlton Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Castleton Township, Precinct 1",President,,DEM,Michael Bennet,1
+Barry,"Hastings Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Hope Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Irving Township, Precinct 1",President,,DEM,Michael Bennet,1
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Rutland Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Rutland Township, Precinct 2",President,,DEM,Michael Bennet,1
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Michael Bennet,1
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Michael Bennet,0
+Barry,"Woodland Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Michael Bennet,0
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Michael Bennet,1
+Barry,"City of Hastings, Precinct 1",President,,DEM,Joe Biden,145
+Barry,"City of Hastings, Precinct 2",President,,DEM,Joe Biden,87
+Barry,"City of Hastings, Precinct 3",President,,DEM,Joe Biden,61
+Barry,"City of Hastings, Precinct 4",President,,DEM,Joe Biden,153
+Barry,"Assyria Township, Precinct 1",President,,DEM,Joe Biden,73
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Joe Biden,94
+Barry,"Barry Township, Precinct 1",President,,DEM,Joe Biden,207
+Barry,"Carlton Township, Precinct 1",President,,DEM,Joe Biden,132
+Barry,"Castleton Township, Precinct 1",President,,DEM,Joe Biden,127
+Barry,"Hastings Township, Precinct 1",President,,DEM,Joe Biden,186
+Barry,"Hope Township, Precinct 1",President,,DEM,Joe Biden,187
+Barry,"Irving Township, Precinct 1",President,,DEM,Joe Biden,181
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Joe Biden,174
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Joe Biden,61
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Joe Biden,176
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Joe Biden,277
+Barry,"Rutland Township, Precinct 1",President,,DEM,Joe Biden,114
+Barry,"Rutland Township, Precinct 2",President,,DEM,Joe Biden,155
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Joe Biden,145
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Joe Biden,116
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Joe Biden,164
+Barry,"Woodland Township, Precinct 1",President,,DEM,Joe Biden,112
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Joe Biden,131
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Joe Biden,159
+Barry,"City of Hastings, Precinct 1",President,,DEM,Michael R. Bloomberg,25
+Barry,"City of Hastings, Precinct 2",President,,DEM,Michael R. Bloomberg,1
+Barry,"City of Hastings, Precinct 3",President,,DEM,Michael R. Bloomberg,10
+Barry,"City of Hastings, Precinct 4",President,,DEM,Michael R. Bloomberg,14
+Barry,"Assyria Township, Precinct 1",President,,DEM,Michael R. Bloomberg,6
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Michael R. Bloomberg,10
+Barry,"Barry Township, Precinct 1",President,,DEM,Michael R. Bloomberg,19
+Barry,"Carlton Township, Precinct 1",President,,DEM,Michael R. Bloomberg,11
+Barry,"Castleton Township, Precinct 1",President,,DEM,Michael R. Bloomberg,13
+Barry,"Hastings Township, Precinct 1",President,,DEM,Michael R. Bloomberg,18
+Barry,"Hope Township, Precinct 1",President,,DEM,Michael R. Bloomberg,29
+Barry,"Irving Township, Precinct 1",President,,DEM,Michael R. Bloomberg,10
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Michael R. Bloomberg,22
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Michael R. Bloomberg,6
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Michael R. Bloomberg,34
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Michael R. Bloomberg,21
+Barry,"Rutland Township, Precinct 1",President,,DEM,Michael R. Bloomberg,13
+Barry,"Rutland Township, Precinct 2",President,,DEM,Michael R. Bloomberg,12
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Michael R. Bloomberg,7
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Michael R. Bloomberg,7
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Michael R. Bloomberg,13
+Barry,"Woodland Township, Precinct 1",President,,DEM,Michael R. Bloomberg,15
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Michael R. Bloomberg,18
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Michael R. Bloomberg,17
+Barry,"City of Hastings, Precinct 1",President,,DEM,Cory Booker,1
+Barry,"City of Hastings, Precinct 2",President,,DEM,Cory Booker,0
+Barry,"City of Hastings, Precinct 3",President,,DEM,Cory Booker,0
+Barry,"City of Hastings, Precinct 4",President,,DEM,Cory Booker,0
+Barry,"Assyria Township, Precinct 1",President,,DEM,Cory Booker,0
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Cory Booker,1
+Barry,"Barry Township, Precinct 1",President,,DEM,Cory Booker,0
+Barry,"Carlton Township, Precinct 1",President,,DEM,Cory Booker,1
+Barry,"Castleton Township, Precinct 1",President,,DEM,Cory Booker,1
+Barry,"Hastings Township, Precinct 1",President,,DEM,Cory Booker,0
+Barry,"Hope Township, Precinct 1",President,,DEM,Cory Booker,0
+Barry,"Irving Township, Precinct 1",President,,DEM,Cory Booker,1
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Cory Booker,0
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Cory Booker,0
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Cory Booker,1
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Cory Booker,0
+Barry,"Rutland Township, Precinct 1",President,,DEM,Cory Booker,0
+Barry,"Rutland Township, Precinct 2",President,,DEM,Cory Booker,0
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Cory Booker,0
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Cory Booker,0
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Cory Booker,0
+Barry,"Woodland Township, Precinct 1",President,,DEM,Cory Booker,0
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Cory Booker,0
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Cory Booker,0
+Barry,"City of Hastings, Precinct 1",President,,DEM,Pete Buttigieg,1
+Barry,"City of Hastings, Precinct 2",President,,DEM,Pete Buttigieg,1
+Barry,"City of Hastings, Precinct 3",President,,DEM,Pete Buttigieg,0
+Barry,"City of Hastings, Precinct 4",President,,DEM,Pete Buttigieg,1
+Barry,"Assyria Township, Precinct 1",President,,DEM,Pete Buttigieg,4
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Barry,"Barry Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Barry,"Carlton Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Barry,"Castleton Township, Precinct 1",President,,DEM,Pete Buttigieg,5
+Barry,"Hastings Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Barry,"Hope Township, Precinct 1",President,,DEM,Pete Buttigieg,8
+Barry,"Irving Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Pete Buttigieg,9
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Pete Buttigieg,4
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Pete Buttigieg,9
+Barry,"Rutland Township, Precinct 1",President,,DEM,Pete Buttigieg,4
+Barry,"Rutland Township, Precinct 2",President,,DEM,Pete Buttigieg,5
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Pete Buttigieg,2
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Pete Buttigieg,4
+Barry,"Woodland Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Pete Buttigieg,9
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Pete Buttigieg,1
+Barry,"City of Hastings, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"City of Hastings, Precinct 2",President,,DEM,Julian Castro,0
+Barry,"City of Hastings, Precinct 3",President,,DEM,Julian Castro,0
+Barry,"City of Hastings, Precinct 4",President,,DEM,Julian Castro,0
+Barry,"Assyria Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Barry Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Carlton Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Castleton Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Hastings Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Hope Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Irving Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Rutland Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Rutland Township, Precinct 2",President,,DEM,Julian Castro,0
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Julian Castro,0
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Julian Castro,0
+Barry,"Woodland Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Julian Castro,0
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Julian Castro,0
+Barry,"City of Hastings, Precinct 1",President,,DEM,John Delaney,0
+Barry,"City of Hastings, Precinct 2",President,,DEM,John Delaney,0
+Barry,"City of Hastings, Precinct 3",President,,DEM,John Delaney,0
+Barry,"City of Hastings, Precinct 4",President,,DEM,John Delaney,0
+Barry,"Assyria Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Baltimore Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Barry Township, Precinct 1",President,,DEM,John Delaney,1
+Barry,"Carlton Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Castleton Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Hastings Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Hope Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Irving Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Johnstown Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Orangeville Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Prairieville Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Rutland Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Rutland Township, Precinct 2",President,,DEM,John Delaney,0
+Barry,"Thornapple Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Thornapple Township, Precinct 2",President,,DEM,John Delaney,0
+Barry,"Thornapple Township, Precinct 3",President,,DEM,John Delaney,0
+Barry,"Woodland Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,John Delaney,0
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,John Delaney,0
+Barry,"City of Hastings, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Barry,"City of Hastings, Precinct 2",President,,DEM,Tulsi Gabbard,4
+Barry,"City of Hastings, Precinct 3",President,,DEM,Tulsi Gabbard,3
+Barry,"City of Hastings, Precinct 4",President,,DEM,Tulsi Gabbard,6
+Barry,"Assyria Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Barry,"Barry Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Barry,"Carlton Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Barry,"Castleton Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Barry,"Hastings Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Barry,"Hope Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Barry,"Irving Township, Precinct 1",President,,DEM,Tulsi Gabbard,4
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Tulsi Gabbard,4
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Tulsi Gabbard,3
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Barry,"Rutland Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Barry,"Rutland Township, Precinct 2",President,,DEM,Tulsi Gabbard,2
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Tulsi Gabbard,4
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Tulsi Gabbard,0
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Tulsi Gabbard,2
+Barry,"Woodland Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Tulsi Gabbard,2
+Barry,"City of Hastings, Precinct 1",President,,DEM,Amy Klobuchar,2
+Barry,"City of Hastings, Precinct 2",President,,DEM,Amy Klobuchar,0
+Barry,"City of Hastings, Precinct 3",President,,DEM,Amy Klobuchar,2
+Barry,"City of Hastings, Precinct 4",President,,DEM,Amy Klobuchar,3
+Barry,"Assyria Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Barry,"Barry Township, Precinct 1",President,,DEM,Amy Klobuchar,6
+Barry,"Carlton Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Barry,"Castleton Township, Precinct 1",President,,DEM,Amy Klobuchar,4
+Barry,"Hastings Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Barry,"Hope Township, Precinct 1",President,,DEM,Amy Klobuchar,4
+Barry,"Irving Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Barry,"Rutland Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Barry,"Rutland Township, Precinct 2",President,,DEM,Amy Klobuchar,5
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Amy Klobuchar,4
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Amy Klobuchar,1
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Amy Klobuchar,3
+Barry,"Woodland Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Amy Klobuchar,1
+Barry,"City of Hastings, Precinct 1",President,,DEM,Bernie Sanders,77
+Barry,"City of Hastings, Precinct 2",President,,DEM,Bernie Sanders,72
+Barry,"City of Hastings, Precinct 3",President,,DEM,Bernie Sanders,83
+Barry,"City of Hastings, Precinct 4",President,,DEM,Bernie Sanders,105
+Barry,"Assyria Township, Precinct 1",President,,DEM,Bernie Sanders,61
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Bernie Sanders,63
+Barry,"Barry Township, Precinct 1",President,,DEM,Bernie Sanders,137
+Barry,"Carlton Township, Precinct 1",President,,DEM,Bernie Sanders,73
+Barry,"Castleton Township, Precinct 1",President,,DEM,Bernie Sanders,101
+Barry,"Hastings Township, Precinct 1",President,,DEM,Bernie Sanders,126
+Barry,"Hope Township, Precinct 1",President,,DEM,Bernie Sanders,113
+Barry,"Irving Township, Precinct 1",President,,DEM,Bernie Sanders,123
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Bernie Sanders,114
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Bernie Sanders,24
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Bernie Sanders,114
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Bernie Sanders,161
+Barry,"Rutland Township, Precinct 1",President,,DEM,Bernie Sanders,81
+Barry,"Rutland Township, Precinct 2",President,,DEM,Bernie Sanders,107
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Bernie Sanders,93
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Bernie Sanders,67
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Bernie Sanders,205
+Barry,"Woodland Township, Precinct 1",President,,DEM,Bernie Sanders,52
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Bernie Sanders,112
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Bernie Sanders,60
+Barry,"City of Hastings, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"City of Hastings, Precinct 2",President,,DEM,Joe Sestak,0
+Barry,"City of Hastings, Precinct 3",President,,DEM,Joe Sestak,0
+Barry,"City of Hastings, Precinct 4",President,,DEM,Joe Sestak,0
+Barry,"Assyria Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Barry Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Carlton Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Castleton Township, Precinct 1",President,,DEM,Joe Sestak,1
+Barry,"Hastings Township, Precinct 1",President,,DEM,Joe Sestak,1
+Barry,"Hope Township, Precinct 1",President,,DEM,Joe Sestak,1
+Barry,"Irving Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Rutland Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Rutland Township, Precinct 2",President,,DEM,Joe Sestak,0
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Joe Sestak,1
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Joe Sestak,0
+Barry,"Woodland Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Joe Sestak,0
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Joe Sestak,0
+Barry,"City of Hastings, Precinct 1",President,,DEM,Tom Steyer,2
+Barry,"City of Hastings, Precinct 2",President,,DEM,Tom Steyer,0
+Barry,"City of Hastings, Precinct 3",President,,DEM,Tom Steyer,0
+Barry,"City of Hastings, Precinct 4",President,,DEM,Tom Steyer,1
+Barry,"Assyria Township, Precinct 1",President,,DEM,Tom Steyer,1
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Tom Steyer,2
+Barry,"Barry Township, Precinct 1",President,,DEM,Tom Steyer,0
+Barry,"Carlton Township, Precinct 1",President,,DEM,Tom Steyer,0
+Barry,"Castleton Township, Precinct 1",President,,DEM,Tom Steyer,0
+Barry,"Hastings Township, Precinct 1",President,,DEM,Tom Steyer,0
+Barry,"Hope Township, Precinct 1",President,,DEM,Tom Steyer,0
+Barry,"Irving Township, Precinct 1",President,,DEM,Tom Steyer,0
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Tom Steyer,0
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Tom Steyer,2
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Tom Steyer,1
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Tom Steyer,1
+Barry,"Rutland Township, Precinct 1",President,,DEM,Tom Steyer,0
+Barry,"Rutland Township, Precinct 2",President,,DEM,Tom Steyer,0
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Tom Steyer,1
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Tom Steyer,0
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Tom Steyer,1
+Barry,"Woodland Township, Precinct 1",President,,DEM,Tom Steyer,0
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Tom Steyer,0
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Tom Steyer,1
+Barry,"City of Hastings, Precinct 1",President,,DEM,Elizabeth Warren,4
+Barry,"City of Hastings, Precinct 2",President,,DEM,Elizabeth Warren,3
+Barry,"City of Hastings, Precinct 3",President,,DEM,Elizabeth Warren,4
+Barry,"City of Hastings, Precinct 4",President,,DEM,Elizabeth Warren,3
+Barry,"Assyria Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Barry,"Barry Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Barry,"Carlton Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Barry,"Castleton Township, Precinct 1",President,,DEM,Elizabeth Warren,7
+Barry,"Hastings Township, Precinct 1",President,,DEM,Elizabeth Warren,6
+Barry,"Hope Township, Precinct 1",President,,DEM,Elizabeth Warren,10
+Barry,"Irving Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Elizabeth Warren,7
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Elizabeth Warren,11
+Barry,"Rutland Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Barry,"Rutland Township, Precinct 2",President,,DEM,Elizabeth Warren,5
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Elizabeth Warren,0
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Elizabeth Warren,5
+Barry,"Woodland Township, Precinct 1",President,,DEM,Elizabeth Warren,5
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Elizabeth Warren,8
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Elizabeth Warren,7
+Barry,"City of Hastings, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"City of Hastings, Precinct 2",President,,DEM,Marianne Williamson,0
+Barry,"City of Hastings, Precinct 3",President,,DEM,Marianne Williamson,0
+Barry,"City of Hastings, Precinct 4",President,,DEM,Marianne Williamson,0
+Barry,"Assyria Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Barry Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Carlton Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Castleton Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Hastings Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Hope Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Irving Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Rutland Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Rutland Township, Precinct 2",President,,DEM,Marianne Williamson,2
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Marianne Williamson,0
+Barry,"Woodland Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Barry,"City of Hastings, Precinct 1",President,,DEM,Andrew Yang,0
+Barry,"City of Hastings, Precinct 2",President,,DEM,Andrew Yang,0
+Barry,"City of Hastings, Precinct 3",President,,DEM,Andrew Yang,1
+Barry,"City of Hastings, Precinct 4",President,,DEM,Andrew Yang,0
+Barry,"Assyria Township, Precinct 1",President,,DEM,Andrew Yang,0
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Andrew Yang,0
+Barry,"Barry Township, Precinct 1",President,,DEM,Andrew Yang,0
+Barry,"Carlton Township, Precinct 1",President,,DEM,Andrew Yang,0
+Barry,"Castleton Township, Precinct 1",President,,DEM,Andrew Yang,1
+Barry,"Hastings Township, Precinct 1",President,,DEM,Andrew Yang,0
+Barry,"Hope Township, Precinct 1",President,,DEM,Andrew Yang,1
+Barry,"Irving Township, Precinct 1",President,,DEM,Andrew Yang,0
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Andrew Yang,1
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Andrew Yang,0
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Andrew Yang,2
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Andrew Yang,0
+Barry,"Rutland Township, Precinct 1",President,,DEM,Andrew Yang,0
+Barry,"Rutland Township, Precinct 2",President,,DEM,Andrew Yang,0
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Andrew Yang,0
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Andrew Yang,0
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Andrew Yang,0
+Barry,"Woodland Township, Precinct 1",President,,DEM,Andrew Yang,0
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Andrew Yang,1
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Andrew Yang,1
+Barry,"City of Hastings, Precinct 1",President,,DEM,Uncommitted,0
+Barry,"City of Hastings, Precinct 2",President,,DEM,Uncommitted,0
+Barry,"City of Hastings, Precinct 3",President,,DEM,Uncommitted,2
+Barry,"City of Hastings, Precinct 4",President,,DEM,Uncommitted,0
+Barry,"Assyria Township, Precinct 1",President,,DEM,Uncommitted,5
+Barry,"Baltimore Township, Precinct 1",President,,DEM,Uncommitted,2
+Barry,"Barry Township, Precinct 1",President,,DEM,Uncommitted,4
+Barry,"Carlton Township, Precinct 1",President,,DEM,Uncommitted,2
+Barry,"Castleton Township, Precinct 1",President,,DEM,Uncommitted,5
+Barry,"Hastings Township, Precinct 1",President,,DEM,Uncommitted,6
+Barry,"Hope Township, Precinct 1",President,,DEM,Uncommitted,8
+Barry,"Irving Township, Precinct 1",President,,DEM,Uncommitted,1
+Barry,"Johnstown Township, Precinct 1",President,,DEM,Uncommitted,12
+Barry,"Maple Grove Township, Precinct 1",President,,DEM,Uncommitted,3
+Barry,"Orangeville Township, Precinct 1",President,,DEM,Uncommitted,7
+Barry,"Prairieville Township, Precinct 1",President,,DEM,Uncommitted,0
+Barry,"Rutland Township, Precinct 1",President,,DEM,Uncommitted,6
+Barry,"Rutland Township, Precinct 2",President,,DEM,Uncommitted,11
+Barry,"Thornapple Township, Precinct 1",President,,DEM,Uncommitted,3
+Barry,"Thornapple Township, Precinct 2",President,,DEM,Uncommitted,1
+Barry,"Thornapple Township, Precinct 3",President,,DEM,Uncommitted,10
+Barry,"Woodland Township, Precinct 1",President,,DEM,Uncommitted,1
+Barry,"Yankee Springs Township, Precinct 1",President,,DEM,Uncommitted,6
+Barry,"Yankee Springs Township, Precinct 2",President,,DEM,Uncommitted,4
+Barry,"City of Hastings, Precinct 1",Ballots Cast,,DEM,,257
+Barry,"City of Hastings, Precinct 2",Ballots Cast,,DEM,,169
+Barry,"City of Hastings, Precinct 3",Ballots Cast,,DEM,,166
+Barry,"City of Hastings, Precinct 4",Ballots Cast,,DEM,,286
+Barry,"Assyria Township, Precinct 1",Ballots Cast,,DEM,,155
+Barry,"Baltimore Township, Precinct 1",Ballots Cast,,DEM,,177
+Barry,"Barry Township, Precinct 1",Ballots Cast,,DEM,,380
+Barry,"Carlton Township, Precinct 1",Ballots Cast,,DEM,,225
+Barry,"Castleton Township, Precinct 1",Ballots Cast,,DEM,,268
+Barry,"Hastings Township, Precinct 1",Ballots Cast,,DEM,,346
+Barry,"Hope Township, Precinct 1",Ballots Cast,,DEM,,362
+Barry,"Irving Township, Precinct 1",Ballots Cast,,DEM,,329
+Barry,"Johnstown Township, Precinct 1",Ballots Cast,,DEM,,338
+Barry,"Maple Grove Township, Precinct 1",Ballots Cast,,DEM,,101
+Barry,"Orangeville Township, Precinct 1",Ballots Cast,,DEM,,351
+Barry,"Prairieville Township, Precinct 1",Ballots Cast,,DEM,,484
+Barry,"Rutland Township, Precinct 1",Ballots Cast,,DEM,,224
+Barry,"Rutland Township, Precinct 2",Ballots Cast,,DEM,,305
+Barry,"Thornapple Township, Precinct 1",Ballots Cast,,DEM,,261
+Barry,"Thornapple Township, Precinct 2",Ballots Cast,,DEM,,196
+Barry,"Thornapple Township, Precinct 3",Ballots Cast,,DEM,,407
+Barry,"Woodland Township, Precinct 1",Ballots Cast,,DEM,,190
+Barry,"Yankee Springs Township, Precinct 1",Ballots Cast,,DEM,,289
+Barry,"Yankee Springs Township, Precinct 2",Ballots Cast,,DEM,,254
+Barry,"City of Hastings, Precinct 1",President,,REP,Mark Sanford,4
+Barry,"City of Hastings, Precinct 2",President,,REP,Mark Sanford,0
+Barry,"City of Hastings, Precinct 3",President,,REP,Mark Sanford,0
+Barry,"City of Hastings, Precinct 4",President,,REP,Mark Sanford,0
+Barry,"Assyria Township, Precinct 1",President,,REP,Mark Sanford,1
+Barry,"Baltimore Township, Precinct 1",President,,REP,Mark Sanford,0
+Barry,"Barry Township, Precinct 1",President,,REP,Mark Sanford,4
+Barry,"Carlton Township, Precinct 1",President,,REP,Mark Sanford,1
+Barry,"Castleton Township, Precinct 1",President,,REP,Mark Sanford,2
+Barry,"Hastings Township, Precinct 1",President,,REP,Mark Sanford,1
+Barry,"Hope Township, Precinct 1",President,,REP,Mark Sanford,1
+Barry,"Irving Township, Precinct 1",President,,REP,Mark Sanford,2
+Barry,"Johnstown Township, Precinct 1",President,,REP,Mark Sanford,1
+Barry,"Maple Grove Township, Precinct 1",President,,REP,Mark Sanford,1
+Barry,"Orangeville Township, Precinct 1",President,,REP,Mark Sanford,0
+Barry,"Prairieville Township, Precinct 1",President,,REP,Mark Sanford,3
+Barry,"Rutland Township, Precinct 1",President,,REP,Mark Sanford,0
+Barry,"Rutland Township, Precinct 2",President,,REP,Mark Sanford,0
+Barry,"Thornapple Township, Precinct 1",President,,REP,Mark Sanford,0
+Barry,"Thornapple Township, Precinct 2",President,,REP,Mark Sanford,3
+Barry,"Thornapple Township, Precinct 3",President,,REP,Mark Sanford,4
+Barry,"Woodland Township, Precinct 1",President,,REP,Mark Sanford,1
+Barry,"Yankee Springs Township, Precinct 1",President,,REP,Mark Sanford,3
+Barry,"Yankee Springs Township, Precinct 2",President,,REP,Mark Sanford,2
+Barry,"City of Hastings, Precinct 1",President,,REP,Donald J. Trump,133
+Barry,"City of Hastings, Precinct 2",President,,REP,Donald J. Trump,67
+Barry,"City of Hastings, Precinct 3",President,,REP,Donald J. Trump,84
+Barry,"City of Hastings, Precinct 4",President,,REP,Donald J. Trump,120
+Barry,"Assyria Township, Precinct 1",President,,REP,Donald J. Trump,212
+Barry,"Baltimore Township, Precinct 1",President,,REP,Donald J. Trump,156
+Barry,"Barry Township, Precinct 1",President,,REP,Donald J. Trump,279
+Barry,"Carlton Township, Precinct 1",President,,REP,Donald J. Trump,231
+Barry,"Castleton Township, Precinct 1",President,,REP,Donald J. Trump,184
+Barry,"Hastings Township, Precinct 1",President,,REP,Donald J. Trump,277
+Barry,"Hope Township, Precinct 1",President,,REP,Donald J. Trump,244
+Barry,"Irving Township, Precinct 1",President,,REP,Donald J. Trump,298
+Barry,"Johnstown Township, Precinct 1",President,,REP,Donald J. Trump,301
+Barry,"Maple Grove Township, Precinct 1",President,,REP,Donald J. Trump,106
+Barry,"Orangeville Township, Precinct 1",President,,REP,Donald J. Trump,300
+Barry,"Prairieville Township, Precinct 1",President,,REP,Donald J. Trump,264
+Barry,"Rutland Township, Precinct 1",President,,REP,Donald J. Trump,150
+Barry,"Rutland Township, Precinct 2",President,,REP,Donald J. Trump,179
+Barry,"Thornapple Township, Precinct 1",President,,REP,Donald J. Trump,239
+Barry,"Thornapple Township, Precinct 2",President,,REP,Donald J. Trump,198
+Barry,"Thornapple Township, Precinct 3",President,,REP,Donald J. Trump,206
+Barry,"Woodland Township, Precinct 1",President,,REP,Donald J. Trump,178
+Barry,"Yankee Springs Township, Precinct 1",President,,REP,Donald J. Trump,275
+Barry,"Yankee Springs Township, Precinct 2",President,,REP,Donald J. Trump,220
+Barry,"City of Hastings, Precinct 1",President,,REP,Joe Walsh,0
+Barry,"City of Hastings, Precinct 2",President,,REP,Joe Walsh,0
+Barry,"City of Hastings, Precinct 3",President,,REP,Joe Walsh,0
+Barry,"City of Hastings, Precinct 4",President,,REP,Joe Walsh,0
+Barry,"Assyria Township, Precinct 1",President,,REP,Joe Walsh,2
+Barry,"Baltimore Township, Precinct 1",President,,REP,Joe Walsh,1
+Barry,"Barry Township, Precinct 1",President,,REP,Joe Walsh,0
+Barry,"Carlton Township, Precinct 1",President,,REP,Joe Walsh,1
+Barry,"Castleton Township, Precinct 1",President,,REP,Joe Walsh,1
+Barry,"Hastings Township, Precinct 1",President,,REP,Joe Walsh,1
+Barry,"Hope Township, Precinct 1",President,,REP,Joe Walsh,0
+Barry,"Irving Township, Precinct 1",President,,REP,Joe Walsh,1
+Barry,"Johnstown Township, Precinct 1",President,,REP,Joe Walsh,3
+Barry,"Maple Grove Township, Precinct 1",President,,REP,Joe Walsh,0
+Barry,"Orangeville Township, Precinct 1",President,,REP,Joe Walsh,1
+Barry,"Prairieville Township, Precinct 1",President,,REP,Joe Walsh,1
+Barry,"Rutland Township, Precinct 1",President,,REP,Joe Walsh,0
+Barry,"Rutland Township, Precinct 2",President,,REP,Joe Walsh,2
+Barry,"Thornapple Township, Precinct 1",President,,REP,Joe Walsh,1
+Barry,"Thornapple Township, Precinct 2",President,,REP,Joe Walsh,3
+Barry,"Thornapple Township, Precinct 3",President,,REP,Joe Walsh,3
+Barry,"Woodland Township, Precinct 1",President,,REP,Joe Walsh,2
+Barry,"Yankee Springs Township, Precinct 1",President,,REP,Joe Walsh,0
+Barry,"Yankee Springs Township, Precinct 2",President,,REP,Joe Walsh,2
+Barry,"City of Hastings, Precinct 1",President,,REP,Bill Weld,2
+Barry,"City of Hastings, Precinct 2",President,,REP,Bill Weld,0
+Barry,"City of Hastings, Precinct 3",President,,REP,Bill Weld,2
+Barry,"City of Hastings, Precinct 4",President,,REP,Bill Weld,1
+Barry,"Assyria Township, Precinct 1",President,,REP,Bill Weld,0
+Barry,"Baltimore Township, Precinct 1",President,,REP,Bill Weld,1
+Barry,"Barry Township, Precinct 1",President,,REP,Bill Weld,6
+Barry,"Carlton Township, Precinct 1",President,,REP,Bill Weld,4
+Barry,"Castleton Township, Precinct 1",President,,REP,Bill Weld,1
+Barry,"Hastings Township, Precinct 1",President,,REP,Bill Weld,2
+Barry,"Hope Township, Precinct 1",President,,REP,Bill Weld,1
+Barry,"Irving Township, Precinct 1",President,,REP,Bill Weld,2
+Barry,"Johnstown Township, Precinct 1",President,,REP,Bill Weld,1
+Barry,"Maple Grove Township, Precinct 1",President,,REP,Bill Weld,2
+Barry,"Orangeville Township, Precinct 1",President,,REP,Bill Weld,2
+Barry,"Prairieville Township, Precinct 1",President,,REP,Bill Weld,1
+Barry,"Rutland Township, Precinct 1",President,,REP,Bill Weld,4
+Barry,"Rutland Township, Precinct 2",President,,REP,Bill Weld,2
+Barry,"Thornapple Township, Precinct 1",President,,REP,Bill Weld,4
+Barry,"Thornapple Township, Precinct 2",President,,REP,Bill Weld,0
+Barry,"Thornapple Township, Precinct 3",President,,REP,Bill Weld,3
+Barry,"Woodland Township, Precinct 1",President,,REP,Bill Weld,1
+Barry,"Yankee Springs Township, Precinct 1",President,,REP,Bill Weld,5
+Barry,"Yankee Springs Township, Precinct 2",President,,REP,Bill Weld,0
+Barry,"City of Hastings, Precinct 1",President,,REP,Uncommitted,11
+Barry,"City of Hastings, Precinct 2",President,,REP,Uncommitted,3
+Barry,"City of Hastings, Precinct 3",President,,REP,Uncommitted,10
+Barry,"City of Hastings, Precinct 4",President,,REP,Uncommitted,5
+Barry,"Assyria Township, Precinct 1",President,,REP,Uncommitted,5
+Barry,"Baltimore Township, Precinct 1",President,,REP,Uncommitted,6
+Barry,"Barry Township, Precinct 1",President,,REP,Uncommitted,8
+Barry,"Carlton Township, Precinct 1",President,,REP,Uncommitted,17
+Barry,"Castleton Township, Precinct 1",President,,REP,Uncommitted,4
+Barry,"Hastings Township, Precinct 1",President,,REP,Uncommitted,19
+Barry,"Hope Township, Precinct 1",President,,REP,Uncommitted,8
+Barry,"Irving Township, Precinct 1",President,,REP,Uncommitted,15
+Barry,"Johnstown Township, Precinct 1",President,,REP,Uncommitted,13
+Barry,"Maple Grove Township, Precinct 1",President,,REP,Uncommitted,3
+Barry,"Orangeville Township, Precinct 1",President,,REP,Uncommitted,13
+Barry,"Prairieville Township, Precinct 1",President,,REP,Uncommitted,7
+Barry,"Rutland Township, Precinct 1",President,,REP,Uncommitted,6
+Barry,"Rutland Township, Precinct 2",President,,REP,Uncommitted,2
+Barry,"Thornapple Township, Precinct 1",President,,REP,Uncommitted,16
+Barry,"Thornapple Township, Precinct 2",President,,REP,Uncommitted,5
+Barry,"Thornapple Township, Precinct 3",President,,REP,Uncommitted,13
+Barry,"Woodland Township, Precinct 1",President,,REP,Uncommitted,11
+Barry,"Yankee Springs Township, Precinct 1",President,,REP,Uncommitted,8
+Barry,"Yankee Springs Township, Precinct 2",President,,REP,Uncommitted,10
+Barry,"City of Hastings, Precinct 1",Ballots Cast,,REP,,150
+Barry,"City of Hastings, Precinct 2",Ballots Cast,,REP,,70
+Barry,"City of Hastings, Precinct 3",Ballots Cast,,REP,,96
+Barry,"City of Hastings, Precinct 4",Ballots Cast,,REP,,126
+Barry,"Assyria Township, Precinct 1",Ballots Cast,,REP,,220
+Barry,"Baltimore Township, Precinct 1",Ballots Cast,,REP,,164
+Barry,"Barry Township, Precinct 1",Ballots Cast,,REP,,297
+Barry,"Carlton Township, Precinct 1",Ballots Cast,,REP,,254
+Barry,"Castleton Township, Precinct 1",Ballots Cast,,REP,,192
+Barry,"Hastings Township, Precinct 1",Ballots Cast,,REP,,300
+Barry,"Hope Township, Precinct 1",Ballots Cast,,REP,,254
+Barry,"Irving Township, Precinct 1",Ballots Cast,,REP,,318
+Barry,"Johnstown Township, Precinct 1",Ballots Cast,,REP,,319
+Barry,"Maple Grove Township, Precinct 1",Ballots Cast,,REP,,112
+Barry,"Orangeville Township, Precinct 1",Ballots Cast,,REP,,316
+Barry,"Prairieville Township, Precinct 1",Ballots Cast,,REP,,276
+Barry,"Rutland Township, Precinct 1",Ballots Cast,,REP,,160
+Barry,"Rutland Township, Precinct 2",Ballots Cast,,REP,,185
+Barry,"Thornapple Township, Precinct 1",Ballots Cast,,REP,,260
+Barry,"Thornapple Township, Precinct 2",Ballots Cast,,REP,,209
+Barry,"Thornapple Township, Precinct 3",Ballots Cast,,REP,,229
+Barry,"Woodland Township, Precinct 1",Ballots Cast,,REP,,193
+Barry,"Yankee Springs Township, Precinct 1",Ballots Cast,,REP,,291
+Barry,"Yankee Springs Township, Precinct 2",Ballots Cast,,REP,,234
+Barry,"City of Hastings, Precinct 1",Barry County E-911 Operating Millage,,,Yes,293
+Barry,"City of Hastings, Precinct 1",Barry County E-911 Operating Millage,,,No,117
+Barry,"City of Hastings, Precinct 2",Barry County E-911 Operating Millage,,,Yes,157
+Barry,"City of Hastings, Precinct 2",Barry County E-911 Operating Millage,,,No,83
+Barry,"City of Hastings, Precinct 3",Barry County E-911 Operating Millage,,,Yes,184
+Barry,"City of Hastings, Precinct 3",Barry County E-911 Operating Millage,,,No,75
+Barry,"City of Hastings, Precinct 4",Barry County E-911 Operating Millage,,,Yes,311
+Barry,"City of Hastings, Precinct 4",Barry County E-911 Operating Millage,,,No,98
+Barry,"Assyria Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,193
+Barry,"Assyria Township, Precinct 1",Barry County E-911 Operating Millage,,,No,167
+Barry,"Baltimore Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,207
+Barry,"Baltimore Township, Precinct 1",Barry County E-911 Operating Millage,,,No,145
+Barry,"Barry Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,450
+Barry,"Barry Township, Precinct 1",Barry County E-911 Operating Millage,,,No,227
+Barry,"Carlton Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,288
+Barry,"Carlton Township, Precinct 1",Barry County E-911 Operating Millage,,,No,188
+Barry,"Castleton Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,301
+Barry,"Castleton Township, Precinct 1",Barry County E-911 Operating Millage,,,No,170
+Barry,"Hastings Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,414
+Barry,"Hastings Township, Precinct 1",Barry County E-911 Operating Millage,,,No,231
+Barry,"Hope Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,402
+Barry,"Hope Township, Precinct 1",Barry County E-911 Operating Millage,,,No,198
+Barry,"Irving Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,379
+Barry,"Irving Township, Precinct 1",Barry County E-911 Operating Millage,,,No,255
+Barry,"Johnstown Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,383
+Barry,"Johnstown Township, Precinct 1",Barry County E-911 Operating Millage,,,No,268
+Barry,"Maple Grove Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,115
+Barry,"Maple Grove Township, Precinct 1",Barry County E-911 Operating Millage,,,No,97
+Barry,"Orangeville Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,402
+Barry,"Orangeville Township, Precinct 1",Barry County E-911 Operating Millage,,,No,263
+Barry,"Prairieville Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,485
+Barry,"Prairieville Township, Precinct 1",Barry County E-911 Operating Millage,,,No,258
+Barry,"Rutland Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,246
+Barry,"Rutland Township, Precinct 1",Barry County E-911 Operating Millage,,,No,132
+Barry,"Rutland Township, Precinct 2",Barry County E-911 Operating Millage,,,Yes,356
+Barry,"Rutland Township, Precinct 2",Barry County E-911 Operating Millage,,,No,149
+Barry,"Thornapple Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,318
+Barry,"Thornapple Township, Precinct 1",Barry County E-911 Operating Millage,,,No,193
+Barry,"Thornapple Township, Precinct 2",Barry County E-911 Operating Millage,,,Yes,247
+Barry,"Thornapple Township, Precinct 2",Barry County E-911 Operating Millage,,,No,152
+Barry,"Thornapple Township, Precinct 3",Barry County E-911 Operating Millage,,,Yes,442
+Barry,"Thornapple Township, Precinct 3",Barry County E-911 Operating Millage,,,No,179
+Barry,"Woodland Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,247
+Barry,"Woodland Township, Precinct 1",Barry County E-911 Operating Millage,,,No,135
+Barry,"Yankee Springs Township, Precinct 1",Barry County E-911 Operating Millage,,,Yes,374
+Barry,"Yankee Springs Township, Precinct 1",Barry County E-911 Operating Millage,,,No,186
+Barry,"Yankee Springs Township, Precinct 2",Barry County E-911 Operating Millage,,,Yes,322
+Barry,"Yankee Springs Township, Precinct 2",Barry County E-911 Operating Millage,,,No,168
