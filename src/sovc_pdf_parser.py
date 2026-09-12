@@ -257,6 +257,10 @@ def map_office(title, county=None, map_offices=False):
                      r'District (\d+)$', title)
         if m:
             title = f'County Commissioner {ordinal(int(m.group(1)))} District'
+    # Bare '<jur>, Precinct N Delegate' titles (Barry 2020) get the repo's
+    # full delegate-office form.
+    title = re.sub(r', (Precinct \d+) Delegate$',
+                   r', \1 Delegate to County Convention', title)
     # "County Commissioner District 5" -> the repo's "Nth District" form.
     m = re.match(r'^County Commissioner,? (?:for )?(?:District|Dist) (\d+)(.*)$', title)
     if m:
