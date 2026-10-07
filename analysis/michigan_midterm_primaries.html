@@ -1,0 +1,367 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Michigan Midterm Primaries</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one reading column; the answer first, then the county evidence. Same visual system as the 2024-vs-2026 primary page. */
+:root {
+  --ground: #f7f8fa;
+  --panel: #ffffff;
+  --ink: #14181f;
+  --ink-2: #4a5160;
+  --ink-3: #7a8191;
+  --rule: #dfe2e8;
+  --rule-soft: #eceef2;
+  --dem: #2a78d6;
+  --rep: #e34948;
+  --dem-tint: #e3eefb;
+  --rep-tint: #fbe6e6;
+  --up: #14181f;
+  --f-display: "Archivo", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  --f-body: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --ground: #121418; --panel: #1a1d22; --ink: #f2f3f5; --ink-2: #b9bfcb; --ink-3: #8a91a0;
+    --rule: #2f343c; --rule-soft: #252930; --dem: #3987e5; --rep: #e66767; --dem-tint: #1b2a3f; --rep-tint: #3a2124; --up: #f2f3f5;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --ground: #121418; --panel: #1a1d22; --ink: #f2f3f5; --ink-2: #b9bfcb; --ink-3: #8a91a0;
+  --rule: #2f343c; --rule-soft: #252930; --dem: #3987e5; --rep: #e66767; --dem-tint: #1b2a3f; --rep-tint: #3a2124; --up: #f2f3f5;
+}
+* { box-sizing: border-box; }
+body { background: var(--ground); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.55; padding-inline: 20px; padding-block: 0 64px; }
+.wrap { max-width: 1040px; margin: 0 auto; display: flex; flex-direction: column; gap: 56px; }
+h1, h2, h3 { font-family: var(--f-display); text-wrap: balance; margin: 0; letter-spacing: -0.01em; }
+h1 { font-size: clamp(30px, 5vw, 46px); font-weight: 800; font-stretch: 80%; line-height: 1.05; }
+h2 { font-size: 24px; font-weight: 700; font-stretch: 85%; line-height: 1.15; }
+h3 { font-size: 16px; font-weight: 700; }
+p { margin: 0; max-width: 68ch; }
+.eyebrow { font-family: var(--f-mono); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-3); }
+.lede { font-size: 17px; color: var(--ink-2); }
+.d { color: var(--dem); } .r { color: var(--rep); }
+strong { font-weight: 600; }
+header { padding-top: 40px; display: flex; flex-direction: column; gap: 14px; border-bottom: 1px solid var(--rule); padding-bottom: 28px; }
+.ballot-line { display: flex; flex-wrap: wrap; gap: 8px 18px; font-family: var(--f-mono); font-size: 12.5px; color: var(--ink-2); }
+section { display: flex; flex-direction: column; gap: 18px; }
+.section-head { display: flex; flex-direction: column; gap: 8px; }
+.panel { background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 18px; }
+
+/* The answer: three rows of 2018 vs 2026 per-100 bars */
+.answer { display: grid; gap: 18px; }
+.arow { display: grid; grid-template-columns: 150px 1fr; gap: 6px 16px; align-items: center; }
+.arow .lab { font-weight: 600; }
+.arow .lab small { display: block; font-weight: 400; font-size: 12.5px; color: var(--ink-3); }
+.bars { display: grid; gap: 6px; }
+.brow { display: grid; grid-template-columns: 38px 1fr 64px; gap: 8px; align-items: center; font-family: var(--f-mono); font-size: 12px; color: var(--ink-3); }
+.brow .track { height: 14px; background: var(--rule-soft); border-radius: 0 4px 4px 0; }
+.brow .fill { height: 100%; border-radius: 0 4px 4px 0; }
+.brow .val { font-family: var(--f-body); font-size: 14px; color: var(--ink); font-variant-numeric: tabular-nums; text-align: right; }
+@media (max-width: 560px) { .arow { grid-template-columns: 1fr; } }
+
+.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
+.fact { padding: 16px 16px 16px 0; display: flex; flex-direction: column; gap: 4px; }
+.fact + .fact { border-left: 1px solid var(--rule); padding-left: 16px; }
+.fact .v { font-family: var(--f-display); font-weight: 700; font-stretch: 85%; font-size: 26px; font-variant-numeric: tabular-nums; }
+.fact .l { font-size: 13px; color: var(--ink-2); }
+@media (max-width: 640px) { .fact + .fact { border-left: 0; padding-left: 0; border-top: 1px solid var(--rule); } }
+
+.cycles { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }
+.cycle { background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 18px; display: flex; flex-direction: column; gap: 10px; }
+.cycle .yrs { font-family: var(--f-mono); font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-2); }
+.cycle .race { font-size: 13px; color: var(--ink-3); }
+.cycle .pair { display: grid; grid-template-columns: 1fr auto; gap: 6px 16px; font-size: 14px; color: var(--ink-2); }
+.cycle .pair b { font-family: var(--f-display); font-weight: 700; font-stretch: 85%; font-size: 22px; text-align: right; font-variant-numeric: tabular-nums; }
+
+.legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 13px; color: var(--ink-2); align-items: center; }
+.legend .k { display: inline-flex; align-items: center; gap: 6px; }
+.sw-hollow { width: 11px; height: 11px; border-radius: 50%; border: 2px solid var(--ink-3); background: var(--panel); display: inline-block; }
+.sw-d { width: 11px; height: 11px; border-radius: 50%; background: var(--dem); display: inline-block; }
+.sw-r { width: 11px; height: 11px; border-radius: 50%; background: var(--rep); display: inline-block; }
+.chart-box { overflow-x: auto; }
+svg text { font-family: var(--f-body); }
+.axis text { fill: var(--ink-3); font-size: 11px; font-family: var(--f-mono); }
+.grid line { stroke: var(--rule-soft); }
+.hit { fill: transparent; }
+.hit:hover { fill: var(--rule-soft); fill-opacity: 0.6; }
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+.tabs button { font: inherit; font-size: 13px; padding: 6px 12px; border-radius: 6px; border: 1px solid var(--rule); background: var(--panel); color: var(--ink-2); cursor: pointer; }
+.tabs button[aria-pressed="true"] { background: var(--ink); color: var(--panel); border-color: var(--ink); }
+.tabs button:focus-visible { outline: 2px solid var(--dem); outline-offset: 2px; }
+
+#tip { position: fixed; pointer-events: none; z-index: 10; background: var(--panel); color: var(--ink); border: 1px solid var(--rule); border-radius: 6px; padding: 10px 12px; font-size: 13px; box-shadow: 0 6px 24px rgba(10, 14, 20, 0.14); max-width: 300px; }
+#tip h4 { margin: 0 0 6px; font-family: var(--f-display); font-size: 15px; }
+#tip table { border-collapse: collapse; font-variant-numeric: tabular-nums; }
+#tip td { padding: 1px 8px 1px 0; }
+#tip td:not(:first-child) { text-align: right; }
+#tip .muted { color: var(--ink-3); }
+
+.tbl-box { overflow-x: auto; border: 1px solid var(--rule); border-radius: 6px; background: var(--panel); }
+.scroll-y { max-height: 620px; overflow: auto; }
+table.data { border-collapse: collapse; width: 100%; font-size: 13.5px; font-variant-numeric: tabular-nums; }
+table.data th, table.data td { padding: 7px 10px; border-bottom: 1px solid var(--rule-soft); text-align: right; white-space: nowrap; }
+table.data th:first-child, table.data td:first-child { text-align: left; }
+table.data thead th { font-family: var(--f-mono); font-size: 11px; font-weight: 500; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink-2); background: var(--panel); position: sticky; top: 0; border-bottom: 1px solid var(--rule); }
+table.data thead tr.grp th { text-align: center; border-bottom: 0; padding-bottom: 0; top: 0; }
+table.data tbody tr:hover { background: var(--rule-soft); }
+table.data th button { all: unset; cursor: pointer; }
+table.data th button:focus-visible { outline: 2px solid var(--dem); outline-offset: 2px; }
+table.data th button[aria-sort="ascending"]::after { content: " \25B2"; }
+table.data th button[aria-sort="descending"]::after { content: " \25BC"; }
+.chip { display: inline-block; min-width: 52px; padding: 1px 6px; border-radius: 4px; font-weight: 500; }
+.chip.up { background: var(--dem-tint); }
+.chip.dn { background: var(--rep-tint); }
+.chip.neutral-up { background: var(--rule-soft); }
+.na { color: var(--ink-3); }
+.callout { border-left: 3px solid var(--ink-3); padding: 4px 0 4px 14px; font-size: 14px; color: var(--ink-2); max-width: 76ch; }
+.notes ul { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 6px; max-width: 76ch; font-size: 14px; color: var(--ink-2); }
+footer { font-size: 12.5px; color: var(--ink-3); border-top: 1px solid var(--rule); padding-top: 16px; font-family: var(--f-mono); }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Michigan · August governor primaries · Trump's first and second midterms</div>
+    <h1 id="h1"></h1>
+    <p class="lede" id="lede"></p>
+    <div class="ballot-line"><span>Aug 7, 2018 · Governor (open seat)</span><span>Aug 4, 2026 · Governor (open seat)</span></div>
+  </header>
+
+  <section>
+    <div class="section-head">
+      <div class="eyebrow">The answer · statewide, all 83 counties</div>
+      <h2>Primary votes per 100 people who voted for president two years earlier</h2>
+      <p>Raw vote counts grow as the state's electorate grows, so this scales each primary by the size of the previous presidential electorate (2016 for the 2018 primary, 2024 for 2026).</p>
+    </div>
+    <div class="panel answer" id="answer"></div>
+    <div class="facts" id="facts"></div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div class="eyebrow">Growth from the presidential-year primary</div>
+      <h2 id="cyc-h2"></h2>
+      <p id="cyc-p"></p>
+    </div>
+    <div class="cycles" id="cycles"></div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div class="eyebrow">By county</div>
+      <h2 id="county-h2"></h2>
+      <p>Primary votes per 100 presidential voters, 2018 (hollow dot) and 2026 (filled dot). Counties are sorted from most Republican (top) to most Democratic (bottom) by the 2024 presidential vote. Hover a row for the numbers.</p>
+    </div>
+    <div class="panel">
+      <div style="display:flex;flex-wrap:wrap;gap:12px 24px;justify-content:space-between;align-items:center;margin-bottom:8px">
+        <div class="tabs" role="group" aria-label="Which primary">
+          <button type="button" data-k="t" aria-pressed="true">Both parties</button>
+          <button type="button" data-k="d" aria-pressed="false">Democratic</button>
+          <button type="button" data-k="r" aria-pressed="false">Republican</button>
+        </div>
+        <div class="legend" id="legend"></div>
+      </div>
+      <div class="chart-box"><svg id="dumb" role="img" aria-label="Primary participation by county, 2018 and 2026"></svg></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div class="eyebrow">Republican-leaning regions</div>
+      <h2>West Michigan, the Thumb and Macomb</h2>
+    </div>
+    <div class="tbl-box"><table class="data" id="regions"></table></div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div class="eyebrow">County table</div>
+      <h2>Every county</h2>
+      <p>Per-100 figures use each county's presidential vote two years earlier. Click a column heading to sort. Ten counties have no 2018 county figures because their results aren't online.</p>
+    </div>
+    <div class="tbl-box scroll-y"><table class="data" id="tbl"></table></div>
+  </section>
+
+  <section class="notes">
+    <div class="eyebrow">What's counted</div>
+    <ul id="notes"></ul>
+  </section>
+
+  <footer>Sources: OpenElections Michigan data (openelections-data-mi), county clerk reports for the 2018 primary, and official statewide 2018 primary totals. Built with analysis/build_swing.py and follow-up scripts.</footer>
+</div>
+<div id="tip" hidden></div>
+
+<script>
+const DATA = {"S":{"d18":1131447,"r18":989525,"d26":1503406,"r26":932464,"p16":4799284,"p24":5683344},"rows":[{"c":"Missaukee","h":21.6,"p16":7317,"p24":9152,"d18":785,"r18":2852,"d26":1002,"r26":2422,"d16":21,"r16":2222,"d24":605,"r24":2109,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Hillsdale","h":24.0,"p16":19940,"p24":24828,"d18":2241,"r18":5439,"d26":2743,"r26":5338,"d16":406,"r16":6385,"d24":1523,"r24":7144,"ok":true,"why":""},{"c":"Osceola","h":25.7,"p16":10609,"p24":13202,"d18":null,"r18":null,"d26":1783,"r26":3569,"d16":25,"r16":2698,"d24":951,"r24":3055,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Sanilac","h":25.9,"p16":19249,"p24":23361,"d18":2496,"r18":6162,"d26":3213,"r26":6675,"d16":688,"r16":6328,"d24":1712,"r24":5946,"ok":true,"why":""},{"c":"Luce","h":26.2,"p16":2579,"p24":2991,"d18":411,"r18":791,"d26":401,"r26":770,"d16":203,"r16":852,"d24":240,"r24":530,"ok":true,"why":""},{"c":"Montmorency","h":27.0,"p16":5009,"p24":6401,"d18":null,"r18":null,"d26":960,"r26":1992,"d16":305,"r16":1788,"d24":546,"r24":2088,"ok":false,"why":"no 2018 county results found"},{"c":"Oscoda","h":27.6,"p16":4073,"p24":5197,"d18":562,"r18":1505,"d26":755,"r26":1691,"d16":239,"r16":1761,"d24":391,"r24":1773,"ok":true,"why":""},{"c":"Kalkaska","h":28.2,"p16":8833,"p24":11550,"d18":null,"r18":null,"d26":1840,"r26":2706,"d16":856,"r16":2432,"d24":1136,"r24":2648,"ok":false,"why":"no 2018 county results found"},{"c":"Tuscola","h":28.2,"p16":25796,"p24":30744,"d18":4019,"r18":7831,"d26":4937,"r26":8402,"d16":1379,"r16":4603,"d24":2483,"r24":9412,"ok":true,"why":""},{"c":"Newaygo","h":28.3,"p16":22640,"p24":29242,"d18":3148,"r18":7442,"d26":4360,"r26":8228,"d16":877,"r16":7162,"d24":1945,"r24":7709,"ok":true,"why":""},{"c":"Branch","h":28.5,"p16":17663,"p24":21089,"d18":2593,"r18":5310,"d26":2992,"r26":4673,"d16":506,"r16":4719,"d24":1344,"r24":6008,"ok":true,"why":""},{"c":"Ogemaw","h":28.7,"p16":10387,"p24":12642,"d18":1876,"r18":3701,"d26":2256,"r26":3599,"d16":49,"r16":2667,"d24":1405,"r24":3315,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Alcona","h":28.9,"p16":6198,"p24":7479,"d18":996,"r18":2163,"d26":1338,"r26":2296,"d16":652,"r16":1444,"d24":813,"r24":1999,"ok":true,"why":""},{"c":"Gladwin","h":29.4,"p16":12472,"p24":15506,"d18":2135,"r18":3721,"d26":2632,"r26":3755,"d16":77,"r16":1976,"d24":1511,"r24":4156,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Arenac","h":29.4,"p16":7696,"p24":9163,"d18":1263,"r18":2233,"d26":1568,"r26":2384,"d16":733,"r16":1020,"d24":824,"r24":2695,"ok":true,"why":""},{"c":"Huron","h":29.5,"p16":15917,"p24":18983,"d18":1870,"r18":5774,"d26":3183,"r26":4819,"d16":493,"r16":4383,"d24":1515,"r24":4650,"ok":true,"why":""},{"c":"Lapeer","h":29.8,"p16":45183,"p24":55508,"d18":7183,"r18":13868,"d26":8920,"r26":13586,"d16":1886,"r16":12102,"d24":5152,"r24":12174,"ok":true,"why":""},{"c":"Montcalm","h":30.2,"p16":26609,"p24":34845,"d18":3945,"r18":7786,"d26":5597,"r26":7911,"d16":166,"r16":6326,"d24":3172,"r24":7868,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Clare","h":30.9,"p16":13389,"p24":17310,"d18":2028,"r18":3486,"d26":2859,"r26":4153,"d16":76,"r16":2520,"d24":1684,"r24":3993,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Dickinson","h":31.6,"p16":13165,"p24":15344,"d18":1868,"r18":3263,"d26":2486,"r26":3502,"d16":1744,"r16":3525,"d24":1727,"r24":2995,"ok":true,"why":""},{"c":"Otsego","h":32.1,"p16":12538,"p24":15999,"d18":1899,"r18":4239,"d26":2948,"r26":3740,"d16":755,"r16":3899,"d24":1694,"r24":3883,"ok":true,"why":""},{"c":"St. Clair","h":32.4,"p16":78003,"p24":96658,"d18":13855,"r18":19896,"d26":17055,"r26":22603,"d16":4988,"r16":18420,"d24":9328,"r24":22399,"ok":true,"why":""},{"c":"Wexford","h":32.4,"p16":15298,"p24":19499,"d18":2079,"r18":5629,"d26":3243,"r26":4524,"d16":51,"r16":5003,"d24":1562,"r24":3756,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Barry","h":32.6,"p16":30329,"p24":38621,"d18":4586,"r18":9938,"d26":6873,"r26":8700,"d16":799,"r16":8950,"d24":1913,"r24":13266,"ok":true,"why":""},{"c":"Cass","h":32.8,"p16":22595,"p24":27871,"d18":2501,"r18":4760,"d26":4077,"r26":5766,"d16":832,"r16":4404,"d24":2135,"r24":5009,"ok":true,"why":""},{"c":"St. Joseph","h":32.8,"p16":23757,"p24":29350,"d18":3235,"r18":5295,"d26":4442,"r26":6823,"d16":739,"r16":4597,"d24":1509,"r24":9756,"ok":true,"why":""},{"c":"Crawford","h":32.9,"p16":6844,"p24":8487,"d18":1083,"r18":2061,"d26":1562,"r26":2295,"d16":770,"r16":2122,"d24":903,"r24":2012,"ok":true,"why":""},{"c":"Menominee","h":33.0,"p16":10768,"p24":13087,"d18":1274,"r18":1697,"d26":1946,"r26":3085,"d16":992,"r16":1593,"d24":1527,"r24":2961,"ok":true,"why":""},{"c":"Roscommon","h":33.3,"p16":13041,"p24":16073,"d18":2391,"r18":4510,"d26":3208,"r26":4492,"d16":83,"r16":3688,"d24":1889,"r24":4302,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Lake","h":33.7,"p16":5328,"p24":6923,"d18":null,"r18":null,"d26":1149,"r26":1745,"d16":1204,"r16":720,"d24":811,"r24":1897,"ok":false,"why":"no 2018 county results found"},{"c":"Ionia","h":33.8,"p16":26854,"p24":34021,"d18":3739,"r18":7626,"d26":6101,"r26":8139,"d16":1073,"r16":5470,"d24":2721,"r24":6890,"ok":true,"why":""},{"c":"Schoolcraft","h":33.8,"p16":4154,"p24":4898,"d18":849,"r18":899,"d26":935,"r26":1083,"d16":633,"r16":854,"d24":554,"r24":727,"ok":true,"why":""},{"c":"Gratiot","h":34.1,"p16":16465,"p24":19864,"d18":2719,"r18":4004,"d26":3582,"r26":4005,"d16":88,"r16":3288,"d24":1643,"r24":4998,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Cheboygan","h":34.2,"p16":13672,"p24":16457,"d18":2206,"r18":4049,"d26":2973,"r26":4179,"d16":1023,"r16":3759,"d24":1799,"r24":5167,"ok":true,"why":""},{"c":"Iosco","h":34.5,"p16":13361,"p24":15754,"d18":2396,"r18":3468,"d26":3441,"r26":3932,"d16":1850,"r16":1970,"d24":1958,"r24":3604,"ok":true,"why":""},{"c":"Delta","h":34.6,"p16":18492,"p24":21897,"d18":3228,"r18":3880,"d26":4300,"r26":5736,"d16":2735,"r16":4671,"d24":2596,"r24":3799,"ok":true,"why":""},{"c":"Ontonagon","h":34.6,"p16":3426,"p24":3844,"d18":680,"r18":847,"d26":790,"r26":972,"d16":567,"r16":798,"d24":636,"r24":821,"ok":true,"why":""},{"c":"Mecosta","h":34.7,"p16":17168,"p24":22521,"d18":null,"r18":null,"d26":3876,"r26":5029,"d16":90,"r16":3570,"d24":1967,"r24":6023,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Oceana","h":34.8,"p16":11930,"p24":14884,"d18":2046,"r18":3733,"d26":2907,"r26":3643,"d16":433,"r16":4142,"d24":1611,"r24":3229,"ok":true,"why":""},{"c":"Baraga","h":34.9,"p16":3490,"p24":4332,"d18":620,"r18":818,"d26":753,"r26":1127,"d16":353,"r16":831,"d24":575,"r24":1119,"ok":true,"why":""},{"c":"Iron","h":35.2,"p16":5910,"p24":7033,"d18":null,"r18":null,"d26":1368,"r26":1757,"d16":919,"r16":961,"d24":1028,"r24":1199,"ok":false,"why":"no 2018 county results found"},{"c":"Presque Isle","h":35.3,"p16":7218,"p24":8760,"d18":1264,"r18":2374,"d26":1818,"r26":2161,"d16":816,"r16":2612,"d24":1229,"r24":2431,"ok":true,"why":""},{"c":"Alpena","h":35.5,"p16":14698,"p24":17241,"d18":2695,"r18":3715,"d26":3478,"r26":3603,"d16":1959,"r16":2869,"d24":2691,"r24":4542,"ok":true,"why":""},{"c":"Allegan","h":36.2,"p16":55786,"p24":72023,"d18":8597,"r18":15299,"d26":14244,"r26":16980,"d16":2456,"r16":11150,"d24":7113,"r24":16760,"ok":true,"why":""},{"c":"Monroe","h":36.2,"p16":74218,"p24":91494,"d18":null,"r18":null,"d26":15657,"r26":16294,"d16":7235,"r16":8421,"d24":9290,"r24":13871,"ok":false,"why":"no 2018 county results found"},{"c":"Mackinac","h":37.4,"p16":6097,"p24":7247,"d18":null,"r18":null,"d26":1436,"r26":1791,"d16":570,"r16":2252,"d24":877,"r24":1913,"ok":false,"why":"no 2018 county results found"},{"c":"Chippewa","h":37.7,"p16":15456,"p24":18387,"d18":2767,"r18":3758,"d26":3522,"r26":3945,"d16":1225,"r16":3810,"d24":2154,"r24":3577,"ok":true,"why":""},{"c":"Livingston","h":37.9,"p16":105866,"p24":132448,"d18":18403,"r18":29875,"d26":29338,"r26":28567,"d16":3488,"r16":19134,"d24":16633,"r24":27624,"ok":true,"why":""},{"c":"Antrim","h":38.0,"p16":13582,"p24":16912,"d18":null,"r18":null,"d26":3835,"r26":4322,"d16":1034,"r16":4149,"d24":1895,"r24":5356,"ok":false,"why":"no 2018 county results found"},{"c":"Lenawee","h":38.3,"p16":45939,"p24":55093,"d18":6941,"r18":9254,"d26":9911,"r26":9582,"d16":2096,"r16":8356,"d24":5391,"r24":8920,"ok":true,"why":""},{"c":"Shiawassee","h":38.3,"p16":34111,"p24":40752,"d18":6278,"r18":8143,"d26":9038,"r26":8171,"d16":198,"r16":5968,"d24":5279,"r24":7783,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Jackson","h":39.2,"p16":69677,"p24":83827,"d18":13040,"r18":18663,"d26":16218,"r26":15645,"d16":3308,"r16":13826,"d24":9443,"r24":16047,"ok":true,"why":""},{"c":"Mason","h":39.2,"p16":14685,"p24":18064,"d18":2773,"r18":4700,"d26":3717,"r26":4416,"d16":703,"r16":3170,"d24":1808,"r24":4161,"ok":true,"why":""},{"c":"Ottawa","h":39.6,"p16":142734,"p24":178507,"d18":19406,"r18":41770,"d26":36786,"r26":46422,"d16":6172,"r16":29878,"d24":10259,"r24":61926,"ok":true,"why":""},{"c":"Alger","h":40.0,"p16":4518,"p24":5258,"d18":1104,"r18":1032,"d26":1232,"r26":1267,"d16":776,"r16":917,"d24":977,"r24":1212,"ok":true,"why":""},{"c":"Gogebic","h":41.3,"p16":7329,"p24":8315,"d18":1814,"r18":1351,"d26":1731,"r26":1457,"d16":1740,"r16":712,"d24":1176,"r24":1313,"ok":true,"why":""},{"c":"Houghton","h":41.3,"p16":15624,"p24":19405,"d18":3234,"r18":3170,"d26":4221,"r26":3456,"d16":2292,"r16":2939,"d24":2685,"r24":2491,"ok":true,"why":""},{"c":"Charlevoix","h":41.4,"p16":14589,"p24":17679,"d18":2686,"r18":3886,"d26":4047,"r26":4018,"d16":1062,"r16":3297,"d24":2530,"r24":4930,"ok":true,"why":""},{"c":"Manistee","h":41.9,"p16":12599,"p24":15323,"d18":2415,"r18":3612,"d26":3834,"r26":3216,"d16":1647,"r16":3278,"d24":2381,"r24":2576,"ok":true,"why":""},{"c":"Van Buren","h":42.3,"p16":33274,"p24":41249,"d18":6335,"r18":8162,"d26":8747,"r26":7791,"d16":2081,"r16":6875,"d24":4976,"r24":6977,"ok":true,"why":""},{"c":"Midland","h":42.3,"p16":42506,"p24":50379,"d18":7700,"r18":11874,"d26":11574,"r26":9563,"d16":460,"r16":4088,"d24":6981,"r24":9374,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Bay","h":42.5,"p16":52977,"p24":61338,"d18":12463,"r18":10820,"d26":15312,"r26":10595,"d16":13279,"r16":2115,"d24":10388,"r24":9633,"ok":true,"why":""},{"c":"Calhoun","h":42.9,"p16":58902,"p24":68591,"d18":9810,"r18":12979,"d26":13436,"r26":11089,"d16":3950,"r16":7543,"d24":7517,"r24":10810,"ok":true,"why":""},{"c":"Macomb","h":43.0,"p16":419312,"p24":513532,"d18":89483,"r18":87016,"d26":112174,"r26":80288,"d16":43218,"r16":53912,"d24":70816,"r24":68731,"ok":true,"why":""},{"c":"Keweenaw","h":43.5,"p16":1434,"p24":1614,"d18":null,"r18":null,"d26":409,"r26":391,"d16":230,"r16":342,"d24":277,"r24":243,"ok":false,"why":"no 2018 county results found"},{"c":"Emmet","h":44.5,"p16":18802,"p24":22904,"d18":3653,"r18":5171,"d26":5729,"r26":4981,"d16":1306,"r16":5214,"d24":3080,"r24":6149,"ok":true,"why":""},{"c":"Clinton","h":45.6,"p16":40655,"p24":49986,"d18":8096,"r18":9587,"d26":12977,"r26":9067,"d16":266,"r16":6544,"d24":7742,"r24":8687,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Benzie","h":45.6,"p16":10228,"p24":12871,"d18":2474,"r18":2738,"d26":3778,"r26":3060,"d16":960,"r16":2574,"d24":2721,"r24":2700,"ok":true,"why":""},{"c":"Berrien","h":46.0,"p16":72031,"p24":84668,"d18":10620,"r18":17376,"d26":17508,"r26":15749,"d16":3844,"r16":12019,"d24":9261,"r24":18226,"ok":true,"why":""},{"c":"Isabella","h":46.2,"p16":25392,"p24":30900,"d18":5801,"r18":6255,"d26":7170,"r26":5275,"d16":310,"r16":3498,"d24":4923,"r24":6290,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Saginaw","h":48.3,"p16":94320,"p24":104008,"d18":20772,"r18":21843,"d26":25673,"r26":18612,"d16":9139,"r16":6297,"d24":19758,"r24":15713,"ok":false,"why":"no 2016 Democratic House candidate (4th District)"},{"c":"Eaton","h":48.4,"p16":56221,"p24":66418,"d18":12704,"r18":12761,"d26":17978,"r26":10777,"d16":5560,"r16":8153,"d24":11208,"r24":9541,"ok":true,"why":""},{"c":"Grand Traverse","h":49.1,"p16":51589,"p24":63067,"d18":13032,"r18":13696,"d26":18308,"r26":11533,"d16":4476,"r16":13184,"d24":10880,"r24":13086,"ok":true,"why":""},{"c":"Muskegon","h":49.1,"p16":78088,"p24":95181,"d18":17692,"r18":14865,"d26":23258,"r26":15776,"d16":13646,"r16":7482,"d24":16098,"r24":12290,"ok":true,"why":""},{"c":"Genesee","h":52.1,"p16":196296,"p24":223268,"d18":50099,"r18":31129,"d26":62272,"r26":30452,"d16":33741,"r16":10279,"d24":43731,"r24":23390,"ok":true,"why":""},{"c":"Kent","h":52.7,"p16":308184,"p24":372930,"d18":64520,"r18":68509,"d26":104397,"r26":61909,"d16":18011,"r16":42267,"d24":62509,"r24":63849,"ok":true,"why":""},{"c":"Leelanau","h":53.9,"p16":14757,"p24":17720,"d18":4380,"r18":4020,"d26":6136,"r26":3629,"d16":1915,"r16":3629,"d24":4289,"r24":3776,"ok":true,"why":""},{"c":"Marquette","h":54.4,"p16":32976,"p24":39009,"d18":8798,"r18":4917,"d26":12321,"r26":6386,"d16":9234,"r16":3138,"d24":9079,"r24":4864,"ok":true,"why":""},{"c":"Oakland","h":55.4,"p16":664614,"p24":779076,"d18":183385,"r18":131473,"d26":250591,"r26":113384,"d16":71403,"r16":83140,"d24":152510,"r24":90375,"ok":true,"why":""},{"c":"Kalamazoo","h":59.0,"p16":126299,"p24":146119,"d18":32154,"r18":22433,"d26":45387,"r26":19638,"d16":11766,"r16":10932,"d24":26401,"r24":17858,"ok":true,"why":""},{"c":"Wayne","h":65.0,"p16":777838,"p24":859326,"d18":243809,"r18":92415,"d26":282280,"r26":77285,"d16":127840,"r16":35858,"d24":194835,"r24":62396,"ok":true,"why":""},{"c":"Ingham","h":65.2,"p16":131138,"p24":148303,"d18":42872,"r18":18539,"d26":55239,"r26":15995,"d16":17512,"r16":10430,"d24":36376,"r24":13596,"ok":true,"why":""},{"c":"Washtenaw","h":72.8,"p16":188578,"p24":221542,"d18":72592,"r18":22126,"d26":93335,"r26":18080,"d16":30931,"r16":11075,"d24":62639,"r24":14498,"ok":true,"why":""}]};
+const S = DATA.S, R = DATA.rows;
+const fmt = n => n.toLocaleString("en-US");
+const sg = (n, d = 1) => (n > 0 ? "+" : n < 0 ? "−" : "") + Math.abs(n).toFixed(d);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const SVGNS = "http://www.w3.org/2000/svg";
+const el = (tag, attrs = {}, parent) => { const e = document.createElementNS(SVGNS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.appendChild(e); return e; };
+const per = (v, base) => 100 * v / base;
+
+// Statewide
+const t18 = S.d18 + S.r18, t26 = S.d26 + S.r26;
+const P = { t: [per(t18, S.p16), per(t26, S.p24)], d: [per(S.d18, S.p16), per(S.d26, S.p24)], r: [per(S.r18, S.p16), per(S.r26, S.p24)] };
+document.getElementById("h1").textContent = `The 2026 primary drew ${Math.round(100 * (t26 / t18 - 1))}% more votes than 2018, but not a bigger share of voters`;
+document.getElementById("lede").innerHTML = `Michigan cast <strong>${fmt(t26)}</strong> votes in the 2026 governor primary, up from <strong>${fmt(t18)}</strong> in 2018. The electorate grew by about as much: ${fmt(S.p24)} people voted for president in 2024, up from ${fmt(S.p16)} in 2016. Measured against that, overall primary participation was about the same as 2018. What changed is the mix: <span class="d">Democratic participation is higher than 2018</span> and <span class="r">Republican participation is well below it</span>.`;
+
+const maxP = 50;
+const arow = (label, sub, k, color) => `<div class="arow">
+  <div class="lab">${label}<small>${sub}</small></div>
+  <div class="bars">
+    <div class="brow"><span>2018</span><div class="track"><div class="fill" style="width:${100 * P[k][0] / maxP}%;background:${color};opacity:.45"></div></div><span class="val">${P[k][0].toFixed(1)}</span></div>
+    <div class="brow"><span>2026</span><div class="track"><div class="fill" style="width:${100 * P[k][1] / maxP}%;background:${color}"></div></div><span class="val">${P[k][1].toFixed(1)}</span></div>
+  </div></div>`;
+document.getElementById("answer").innerHTML =
+  arow("Both parties", `${sg(P.t[1] - P.t[0])} per 100`, "t", "var(--ink-2)") +
+  arow('<span class="d">Democratic</span>', `${sg(P.d[1] - P.d[0])} per 100 · ${sg(100 * (P.d[1] / P.d[0] - 1), 0)}%`, "d", "var(--dem)") +
+  arow('<span class="r">Republican</span>', `${sg(P.r[1] - P.r[0])} per 100 · ${sg(100 * (P.r[1] / P.r[0] - 1), 0)}%`, "r", "var(--rep)");
+
+const C = R.filter(r => r.d18 != null);
+C.forEach(r => { r.t18 = per(r.d18 + r.r18, r.p16); r.t26 = per(r.d26 + r.r26, r.p24); r.pd18 = per(r.d18, r.p16); r.pd26 = per(r.d26, r.p24); r.pr18 = per(r.r18, r.p16); r.pr26 = per(r.r26, r.p24); });
+const upT = C.filter(r => r.t26 > r.t18).length, upD = C.filter(r => r.pd26 > r.pd18).length, upR = C.filter(r => r.pr26 > r.pr18).length;
+document.getElementById("facts").innerHTML = [
+  [`${sg(100 * (S.d26 / S.d18 - 1), 0)}%`, `Democratic primary votes, ${fmt(S.d18)} to ${fmt(S.d26)}`],
+  [`${sg(100 * (S.r26 / S.r18 - 1), 0)}%`, `Republican primary votes, ${fmt(S.r18)} to ${fmt(S.r26)}`],
+  [`${upT} of ${C.length}`, "counties with higher overall participation than 2018"],
+  [`${upD} of ${C.length}`, "counties with higher Democratic participation than 2018"],
+].map(([v, l]) => `<div class="fact"><span class="v">${v}</span><span class="l">${l}</span></div>`).join("");
+
+// Cycle growth (same counties)
+(function () {
+  const U = R.filter(r => r.ok);
+  const s = k => U.reduce((a, r) => a + r[k], 0);
+  const T = { d16: s("d16"), r16: s("r16"), d18: s("d18"), r18: s("r18"), d24: s("d24"), r24: s("r24"), d26: s("d26"), r26: s("r26") };
+  const g = (a, b) => 100 * (b / a - 1);
+  document.getElementById("cyc-h2").textContent = `Democratic growth from the presidential-year primary was bigger in 2018 (${sg(g(T.d16, T.d18), 0)}%) than now (${sg(g(T.d24, T.d26), 0)}%), but 2018 Republicans grew too`;
+  document.getElementById("cyc-p").textContent = `Same ${U.length} counties in both cycles. The 2016 baseline is the U.S. House primary, because August 2016 had no statewide race; 2016 was a quieter primary, so 2018 grew from a lower base. The 2024 baseline is the U.S. Senate primary.`;
+  const card = (yrs, race, d0, d1, r0, r1) => `<div class="cycle"><div class="yrs">${yrs}</div><div class="race">${race}</div>
+    <div class="pair"><span class="d">Democratic primary votes</span><b class="d">${sg(g(d0, d1), 0)}%</b>
+    <span class="r">Republican primary votes</span><b class="r">${sg(g(r0, r1), 0)}%</b>
+    <span>Democratic share of primary voters</span><b>${(100 * d0 / (d0 + r0)).toFixed(0)}% → ${(100 * d1 / (d1 + r1)).toFixed(0)}%</b></div></div>`;
+  document.getElementById("cycles").innerHTML = card("2016 → 2018", "U.S. House primary → Governor primary", T.d16, T.d18, T.r16, T.r18) + card("2024 → 2026", "U.S. Senate primary → Governor primary", T.d24, T.d26, T.r24, T.r26);
+})();
+
+// Tooltip
+const tip = document.getElementById("tip");
+function showTip(ev, html) { tip.innerHTML = html; tip.hidden = false; const w = tip.offsetWidth, h = tip.offsetHeight; let x = ev.clientX + 14, y = ev.clientY + 14; if (x + w > innerWidth - 8) x = ev.clientX - w - 14; if (y + h > innerHeight - 8) y = ev.clientY - h - 14; tip.style.left = Math.max(8, x) + "px"; tip.style.top = Math.max(8, y) + "px"; }
+const hideTip = () => { tip.hidden = true; };
+
+// County dumbbell with party toggle
+const MODES = { t: ["t18", "t26", "var(--ink)", "Both parties"], d: ["pd18", "pd26", "var(--dem)", "Democratic"], r: ["pr18", "pr26", "var(--rep)", "Republican"] };
+function drawDumb(mode) {
+  const [a, b, col, name] = MODES[mode];
+  const up = C.filter(r => r[b] > r[a]).length;
+  document.getElementById("county-h2").textContent = mode === "t"
+    ? `Overall participation was higher than 2018 in ${up} of ${C.length} counties`
+    : `${name} participation was higher than 2018 in ${up} of ${C.length} counties`;
+  document.getElementById("legend").innerHTML = `<span class="k"><i class="sw-hollow"></i>2018</span><span class="k"><i style="width:11px;height:11px;border-radius:50%;display:inline-block;background:${col}"></i>2026, higher</span><span class="k"><i style="width:11px;height:11px;border-radius:50%;display:inline-block;border:2px solid ${col};background:var(--panel)"></i>2026, lower</span>`;
+  const svg = document.getElementById("dumb"); svg.innerHTML = "";
+  const W = 960, rowH = 17, top = 30, left = 112, right = 24, H = top + C.length * rowH + 10;
+  const xmax = mode === "t" ? 60 : 40;
+  svg.setAttribute("viewBox", `0 0 ${W} ${H}`); svg.setAttribute("width", W); svg.style.maxWidth = "100%"; svg.style.height = "auto"; svg.style.minWidth = "560px";
+  const x = v => left + (Math.min(v, xmax) / xmax) * (W - left - right);
+  const hits = el("g", {}, svg), g = el("g", { class: "grid" }, svg), ax = el("g", { class: "axis" }, svg);
+  for (let t = 0; t <= xmax; t += 10) {
+    el("line", { x1: x(t), x2: x(t), y1: top - 6, y2: H - 6 }, g);
+    const tx = el("text", { x: x(t), y: top - 12, "text-anchor": "middle" }, ax); tx.textContent = t;
+  }
+  C.forEach((r, i) => {
+    const y = top + i * rowH + rowH / 2, higher = r[b] > r[a];
+    const lab = el("text", { x: left - 10, y: y + 4, "text-anchor": "end", style: "fill:var(--ink-2);font-size:11.5px" }, svg); lab.textContent = r.c;
+    el("line", { x1: x(r[a]), x2: x(r[b]), y1: y, y2: y, style: `stroke:${col};stroke-width:2;stroke-opacity:.45` }, svg);
+    el("circle", { cx: x(r[a]), cy: y, r: 4, style: "fill:var(--panel);stroke:var(--ink-3);stroke-width:2" }, svg);
+    el("circle", { cx: x(r[b]), cy: y, r: 4.5, style: higher ? `fill:${col};stroke:var(--panel);stroke-width:1.5` : `fill:var(--panel);stroke:${col};stroke-width:2` }, svg);
+    const hit = el("rect", { class: "hit", x: 0, y: y - rowH / 2, width: W, height: rowH }, hits);
+    const html = `<h4>${esc(r.c)} County</h4><table>
+      <tr><td></td><td class="muted">2018</td><td class="muted">2026</td></tr>
+      <tr><td class="d">Dem votes</td><td>${fmt(r.d18)}</td><td>${fmt(r.d26)}</td></tr>
+      <tr><td class="r">Rep votes</td><td>${fmt(r.r18)}</td><td>${fmt(r.r26)}</td></tr>
+      <tr><td>Pres. voters (2 yrs before)</td><td>${fmt(r.p16)}</td><td>${fmt(r.p24)}</td></tr>
+      <tr><td>${name} per 100</td><td>${r[a].toFixed(1)}</td><td>${r[b].toFixed(1)}</td></tr>
+      </table><div class="muted" style="margin-top:6px">Harris won ${r.h.toFixed(1)}% of the two-party vote in 2024.</div>`;
+    hit.addEventListener("mousemove", e => showTip(e, html)); hit.addEventListener("mouseleave", hideTip);
+  });
+}
+document.querySelectorAll(".tabs button").forEach(btn => btn.addEventListener("click", () => {
+  document.querySelectorAll(".tabs button").forEach(b => b.setAttribute("aria-pressed", b === btn ? "true" : "false"));
+  drawDumb(btn.dataset.k);
+}));
+drawDumb("t");
+
+// Regions
+(function () {
+  const REG = [
+    { name: "West Michigan", cs: ["Ottawa", "Allegan", "Barry", "Ionia", "Montcalm", "Newaygo", "Oceana"] },
+    { name: "The Thumb", cs: ["Huron", "Tuscola", "Sanilac", "Lapeer", "St. Clair"] },
+    { name: "Macomb", cs: ["Macomb"] },
+  ];
+  const by = Object.fromEntries(C.map(r => [r.c, r]));
+  const sum = (cs, k) => cs.reduce((a, c) => a + by[c][k], 0);
+  const cell = (a, b) => `${a.toFixed(1)} → ${b.toFixed(1)} <span class="chip ${b >= a ? "neutral-up" : "dn"}">${sg(b - a)}</span>`;
+  const rows = REG.map(r => {
+    const p16 = sum(r.cs, "p16"), p24 = sum(r.cs, "p24"), d18 = sum(r.cs, "d18"), r18 = sum(r.cs, "r18"), d26 = sum(r.cs, "d26"), r26 = sum(r.cs, "r26");
+    return `<tr><td>${esc(r.name)}<div style="font-size:12px;color:var(--ink-3)">${esc(r.cs.join(", "))}</div></td>
+      <td>${cell(per(d18 + r18, p16), per(d26 + r26, p24))}</td><td class="d">${cell(per(d18, p16), per(d26, p24))}</td><td class="r">${cell(per(r18, p16), per(r26, p24))}</td>
+      <td>${sg(100 * (d26 / d18 - 1), 0)}%</td><td>${sg(100 * (r26 / r18 - 1), 0)}%</td></tr>`;
+  });
+  rows.push(`<tr><td><strong>Statewide</strong></td><td>${cell(P.t[0], P.t[1])}</td><td class="d">${cell(P.d[0], P.d[1])}</td><td class="r">${cell(P.r[0], P.r[1])}</td><td>${sg(100 * (S.d26 / S.d18 - 1), 0)}%</td><td>${sg(100 * (S.r26 / S.r18 - 1), 0)}%</td></tr>`);
+  document.getElementById("regions").innerHTML = `<thead><tr class="grp"><th></th><th colspan="3">Primary votes per 100 presidential voters, 2018 → 2026</th><th colspan="2">Raw votes, 2018 → 2026</th></tr>
+    <tr><th>Region</th><th>Both parties</th><th>Democratic</th><th>Republican</th><th>Dem</th><th>Rep</th></tr></thead><tbody>${rows.join("")}</tbody>`;
+})();
+
+// County table (sortable)
+(function () {
+  const rows = R.map(r => r.d18 == null ? { ...r, miss: true } : r);
+  const cols = [
+    { t: "County", v: r => r.c, s: 1 }, { t: "Harris %", v: r => r.h },
+    { t: "Both '18", v: r => r.t18 }, { t: "Both '26", v: r => r.t26 }, { t: "Chg", v: r => r.miss ? null : r.t26 - r.t18 },
+    { t: "Dem '18", v: r => r.pd18 }, { t: "Dem '26", v: r => r.pd26 }, { t: "Chg", v: r => r.miss ? null : r.pd26 - r.pd18 },
+    { t: "Rep '18", v: r => r.pr18 }, { t: "Rep '26", v: r => r.pr26 }, { t: "Chg", v: r => r.miss ? null : r.pr26 - r.pr18 },
+  ];
+  let key = 1, dir = "ascending";
+  const n = v => v == null ? '<span class="na">–</span>' : v.toFixed(1);
+  const ch = v => v == null ? '<span class="na">–</span>' : `<span class="chip ${v >= 0 ? "neutral-up" : "dn"}">${sg(v)}</span>`;
+  function draw() {
+    const sorted = rows.slice().sort((a, b) => {
+      const va = cols[key].v(a), vb = cols[key].v(b);
+      if (va == null) return 1; if (vb == null) return -1;
+      const c = typeof va === "string" ? va.localeCompare(vb) : va - vb;
+      return dir === "ascending" ? c : -c;
+    });
+    const tbl = document.getElementById("tbl");
+    tbl.innerHTML = `<thead><tr class="grp"><th></th><th></th><th colspan="3">Both parties, per 100</th><th colspan="3" class="d">Democratic, per 100</th><th colspan="3" class="r">Republican, per 100</th></tr><tr>` +
+      cols.map((c, i) => `<th><button type="button" data-i="${i}" aria-sort="${i === key ? dir : "none"}">${c.t}</button></th>`).join("") + `</tr></thead><tbody>` +
+      sorted.map(r => `<tr><td>${esc(r.c)}</td><td>${r.h.toFixed(1)}</td><td>${n(r.t18)}</td><td>${n(r.t26 ?? per(r.d26 + r.r26, r.p24))}</td><td>${ch(cols[4].v(r))}</td>
+        <td>${n(r.pd18)}</td><td>${n(r.pd26 ?? per(r.d26, r.p24))}</td><td>${ch(cols[7].v(r))}</td>
+        <td>${n(r.pr18)}</td><td>${n(r.pr26 ?? per(r.r26, r.p24))}</td><td>${ch(cols[10].v(r))}</td></tr>`).join("") + "</tbody>";
+    tbl.querySelectorAll("th button").forEach(b => b.addEventListener("click", () => {
+      const i = +b.dataset.i; if (i === key) dir = dir === "ascending" ? "descending" : "ascending"; else { key = i; dir = cols[i].s ? "ascending" : "descending"; } draw();
+    }));
+  }
+  draw();
+})();
+
+const miss = R.filter(r => r.d18 == null).map(r => r.c);
+document.getElementById("notes").innerHTML = [
+  `Both primaries are the governor's race, an open seat each time, so the top of the ticket is the same office.`,
+  `Statewide 2018 figures are the official totals (${fmt(S.d18)} Democratic, ${fmt(S.r18)} Republican). County figures for 2018 come from county clerk reports for 73 counties; ${miss.join(", ")} aren't available online and appear only in the statewide total.`,
+  `"Per 100 presidential voters" divides primary votes by everyone who voted for president in that county two years earlier (2016 for 2018, 2024 for 2026). It adjusts for population growth and for counties of very different sizes.`,
+  `The 2016 and 2024 growth comparison uses ${R.filter(r => r.ok).length} counties. It leaves out the 2016 4th District counties (no Democratic House candidate on the 2016 ballot) and counties without 2018 results.`,
+  `The 2026 primary results came from a work-in-progress update to the data repository in September 2026. Confirm against the Michigan Secretary of State before publishing.`,
+].map(s => `<li>${s}</li>`).join("");
+</script>
+</body>
+</html>
